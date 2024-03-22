@@ -18,11 +18,7 @@ actions on the Administrator **Home Dashboard**.
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/8/82/Help-4x-modules-manager-admin-module-latestactions-en.png"
-decoding="async" data-file-width="800" data-file-height="658"
-width="800" height="658"
-alt="Help-4x-modules-manager-admin-module-latestactions-en.png" />
+![action logs module form](../../../../images/help/en/admin-modules/modules-actionlogs-latest-screenshot.png) "Action Logs Module Form"
 
 ## Form Fields
 

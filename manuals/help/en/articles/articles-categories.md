@@ -1,4 +1,5 @@
 <!-- Filename: Help4.x:Articles:_Categories / Display title: Articles: Categories -->
+# Articles: Categories
 
 ## Description
 
@@ -30,6 +31,8 @@ decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/8d/Help-4x-Content-Categories-screen-en.png/1200px-Help-4x-Content-Categories-screen-en.png 1.5x, https://docs.joomla.org/images/thumb/8/8d/Help-4x-Content-Categories-screen-en.png/1600px-Help-4x-Content-Categories-screen-en.png 2x"
 data-file-width="2880" data-file-height="1530" width="800" height="425"
 alt="Help-4x-Content-Categories-screen-en.png" />
+
+![Articles: Categories list](../../../../images/help/en/articles/articles-categories-screenshot.png "Articles: Categories list")
 
 ## Column Headers
 
@@ -206,3 +209,7 @@ alt="Help-4x-Content-Categories-batch-en.png" />
 - [Menus: Featured Articles](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles) is used to show all Articles that have been tagged as Featured. Articles are shown in a Blog Layout.
 - [Menus: List All Categories in an Article Category Tree](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories) is used to show a hierarchical list of Categories. Depending on the selected options for this layout, you can click on a category Title to show the articles in that category.
 - [Menus: Single Article](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article) is used to show one article.
+
+## Sources
+
+https://docs.joomla.org/Help4.x:Articles:_Categories
