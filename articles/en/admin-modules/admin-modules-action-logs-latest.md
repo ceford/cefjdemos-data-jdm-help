@@ -18,7 +18,7 @@ actions on the Administrator **Home Dashboard**.
 
 ## Screenshot
 
-![action logs module form](../../../images/en/admin-modules/modules-actionlogs-latest-screenshot.png) "Action Logs Module Form"
+![action logs module form](../../../images/en/admin-modules/modules-actionlogs-latest-screenshot.png "Action Logs Module Form")
 
 ## Form Fields
 

@@ -1,6 +1,4 @@
 <!-- Filename: Help4.x:Articles:_Categories / Display title: Articles: Categories -->
-# Articles: Categories
-
 ## Description
 
 The Articles Categories list is used to find, add, and edit articles
@@ -25,14 +23,7 @@ To edit a Category:
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/thumb/8/8d/Help-4x-Content-Categories-screen-en.png/800px-Help-4x-Content-Categories-screen-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/8/8d/Help-4x-Content-Categories-screen-en.png/1200px-Help-4x-Content-Categories-screen-en.png 1.5x, https://docs.joomla.org/images/thumb/8/8d/Help-4x-Content-Categories-screen-en.png/1600px-Help-4x-Content-Categories-screen-en.png 2x"
-data-file-width="2880" data-file-height="1530" width="800" height="425"
-alt="Help-4x-Content-Categories-screen-en.png" />
-
-![Articles: Categories list](../../../../images/help/en/articles/articles-categories-screenshot.png "Articles: Categories list")
+![Articles: Categories list](../../../images/en/articles/articles-categories-screenshot.png "Articles: Categories list")
 
 ## Column Headers
 

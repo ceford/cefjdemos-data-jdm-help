@@ -1,13 +1,13 @@
-<!-- Filename: Help4.x:Start_Here / Display title: Start Here -->
+<!-- Filename: Help5.x:Start_Here / Display title: Start Here -->
 
-Joomla!  4.x
-
-## Help with Joomla! 4
+## Help with Joomla! 5
 
 For help with a specific administrator page, within the Joomla
 administrator interface you can select the **Help** toolbar button for
 further information about the page. It is located at the right of the
 Toolbar just beneath the Title bar. Example:
+
+[help toolbar](../../../images/en/help-screens/start-here-top-bars.png) "Help Toolbar"
 
 <img
 src="https://docs.joomla.org/images/thumb/c/c7/Help-4x-Start-Here-Help-toolbar-en.png/800px-Help-4x-Start-Here-Help-toolbar-en.png"
@@ -21,7 +21,7 @@ information specific to that page.
 
 ## Help Screen Version Notice
 
-These Help Screens are for Joomla! Version 4. Sometimes Joomla updates
+These Help Screens are for Joomla! Version 5. Sometimes Joomla updates
 cause a Help screen to differ from the page it is supporting. There may
 be new or removed options or differences in functionality. Otherwise,
 all help screens will still function as expected. Remember, you should
@@ -62,3 +62,5 @@ Then let this guide relieve some of that pain.
 - [Evaluators](https://docs.joomla.org/Evaluators/en "Special:MyLanguage/Evaluators/en")
 - [more user
   profiles...](https://docs.joomla.org/Start_here/en "Special:MyLanguage/Start here/en")
+
+  Source: https://docs.joomla.org/Help5.x:Start_Here

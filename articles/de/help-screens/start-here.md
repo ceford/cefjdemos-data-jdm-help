@@ -16,17 +16,17 @@ srcset="https://docs.joomla.org/images/0/06/Help-4x-Start-Here-Help-toolbar-de.p
 data-file-width="895" data-file-height="269" width="800" height="240"
 alt="Help-4x-Start-Here-Help-toolbar-de.png" />
 
-A modal dialog will pop up in the middle of the screen containing Help
-information specific to that page.
+In der Mitte des Bildschirms wird ein modales Dialogfeld mit Hilfe angezeigt
+spezifische Informationen für diese Seite.
 
-## Help Screen Version Notice
+## Hinweis zur Hilfebildschirmversion
 
-These Help Screens are for Joomla! Version 4. Sometimes Joomla updates
-cause a Help screen to differ from the page it is supporting. There may
-be new or removed options or differences in functionality. Otherwise,
-all help screens will still function as expected. Remember, you should
-always **update your Joomla! version** as soon as possible to benefit
-from new features and/or security enhancements.
+Diese Hilfebildschirme sind für Joomla! Version 4. Manchmal wird Joomla aktualisiert
+Dies kann dazu führen, dass sich ein Hilfebildschirm von der unterstützten Seite unterscheidet. Es kann sein
+Es kann sich um neue oder entfernte Optionen oder Unterschiede in der Funktionalität handeln. Ansonsten,
+Alle Hilfebildschirme funktionieren weiterhin wie erwartet. Denken Sie daran, das sollten Sie tun
+**Aktualisieren Sie immer Ihr Joomla! Version** so schnell wie möglich, um davon zu profitieren
+von neuen Funktionen und/oder Sicherheitsverbesserungen.
 
 ## Getting started
 
