@@ -6,15 +6,7 @@ For help with a specific administrator page, within the Joomla
 administrator interface you can select the **Help** toolbar button for
 further information about the page. It is located at the right of the
 Toolbar just beneath the Title bar. Example:
-
-[help toolbar](../../../images/en/help-screens/start-here-top-bars.png) "Help Toolbar"
-
-<img
-src="https://docs.joomla.org/images/thumb/c/c7/Help-4x-Start-Here-Help-toolbar-en.png/800px-Help-4x-Start-Here-Help-toolbar-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/c/c7/Help-4x-Start-Here-Help-toolbar-en.png 1.5x"
-data-file-width="864" data-file-height="268" width="800" height="248"
-alt="Help-4x-Start-Here-Help-toolbar-en.png" />
+![help toolbar](../../../images/en/help-screens/start-here-top-bars.png "Help Toolbar")
 
 A modal dialog will pop up in the middle of the screen containing Help
 information specific to that page.
@@ -35,32 +27,23 @@ have experienced the pain of learning a new system. New terminology, new
 ways of doing things, perhaps even the web itself may be new to you.
 Then let this guide relieve some of that pain.
 
-- [Getting Started with Joomla!
-  4](https://docs.joomla.org/J4.x:Getting_Started_with_Joomla!/en "Special:MyLanguage/J4.x:Getting Started with Joomla!/en")
-- [Getting Started: Site and Administrator
-  templates](https://docs.joomla.org/J4.x:Getting_Started:_Site_and_Administrator_templates/en "Special:MyLanguage/J4.x:Getting Started: Site and Administrator templates/en")
-- [Getting Started: Adding an
-  Article](https://docs.joomla.org/J4.x:Getting_Started:_Adding_an_Article/en "Special:MyLanguage/J4.x:Getting Started: Adding an Article/en")
-- [Getting Started: Adding a Menu
-  Item](https://docs.joomla.org/J4.x:Getting_Started:_Adding_a_Menu_Item/en "Special:MyLanguage/J4.x:Getting Started: Adding a Menu Item/en")
-- [Getting Started: Adding a
-  Category](https://docs.joomla.org/J4.x:Getting_Started:_Adding_a_Category/en "Special:MyLanguage/J4.x:Getting Started: Adding a Category/en")
-- [Getting Started: Adding a
-  Module](https://docs.joomla.org/J4.x:Getting_Started:_Adding_a_Module/en "Special:MyLanguage/J4.x:Getting Started: Adding a Module/en")
+- [Getting Started with Joomla! 5](https://docs.joomla.org/Special:MyLanguage/J5.x:Getting_Started_with_Joomla!/en)
+- [Getting Started: Site and Administrator templates](https://docs.joomla.org/Special:MyLanguage/J5.x:Getting_Started:_Site_and_Administrator_templates/en)
+- [Getting Started: Adding an Article](https://docs.joomla.org/Special:MyLanguage/J5.x:Getting_Started:_Adding_an_Article/en)
+- [Getting Started: Adding a Menu Item](https://docs.joomla.org/Special:MyLanguage/J5.x:Getting_Started:_Adding_a_Menu_Item/en")
+- [Getting Started: Adding a Category](https://docs.joomla.org/Special:MyLanguage/J5.x:Getting_Started:_Adding_a_Category/en)
+- [Getting Started: Adding a Module](https://docs.joomla.org/Special:MyLanguage/J5.x:Getting_Started:_Adding_a_Module/en)
 
 ## Keeping your website secure
 
-- [Joomla! Security
-  Checklist](https://docs.joomla.org/Security_Checklist/en "Special:MyLanguage/Security Checklist/en")
+- [Joomla! Security Checklist](https://docs.joomla.org/Security_Checklist/en)
 
 ## Further information by reader profile
 
-- [Administrators](https://docs.joomla.org/Portal:Administrators/en "Special:MyLanguage/Portal:Administrators/en")
-- [Web
-  Designers](https://docs.joomla.org/Web_designers/en "Special:MyLanguage/Web designers/en")
-- [Developers](https://docs.joomla.org/Portal:Developers/en "Special:MyLanguage/Portal:Developers/en")
-- [Evaluators](https://docs.joomla.org/Evaluators/en "Special:MyLanguage/Evaluators/en")
-- [more user
-  profiles...](https://docs.joomla.org/Start_here/en "Special:MyLanguage/Start here/en")
+- [Administrators](https://docs.joomla.org/Special:MyLanguage/Portal:Administrators/en)
+- [Web Designers](https://docs.joomla.org/Special:MyLanguage/Web_designers/en)
+- [Developers](https://docs.joomla.org/Special:MyLanguage/Portal:Developers/en)
+- [Evaluators](https://docs.joomla.org/Special:MyLanguage/Evaluators/en)
+- [more user profiles...](https://docs.joomla.org/Special:MyLanguage/Start_here/en)
 
-  Source: https://docs.joomla.org/Help5.x:Start_Here
+Source of this article: https://docs.joomla.org/Help5.x:Start_Here
