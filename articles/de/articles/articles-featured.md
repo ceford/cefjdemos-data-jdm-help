@@ -8,7 +8,7 @@ einer Website, kann aber auch eine beliebige Seite der Website sein.
 
 ## Wie darauf zugreifen
 
-**Inhalt **→** Hauptbeiträge**
+**Inhalt → Hauptbeiträge**
 
 Einen Beitrag hinzufügen:
 

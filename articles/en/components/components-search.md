@@ -74,8 +74,7 @@
   Associations](https://docs.joomla.org/Help4.x:Multilingual_Associations "Help4.x:Multilingual Associations")
 - [Multilingual Associations:
   Edit](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Edit "Help4.x:Multilingual Associations: Edit")
-- [Multilingual Associations:
-  Options](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Options "Help4.x:Multilingual Associations: Options")
+- for Multilingual Associations: Options
 - [News
   Feeds](https://docs.joomla.org/Help4.x:News_Feeds "Help4.x:News Feeds")
 - [News Feeds:
@@ -290,7 +289,7 @@ srcset="https://docs.joomla.org/images/e/e5/Help35-Components-Search-options-scr
 data-file-width="943" data-file-height="734" width="800" height="623"
 alt="Help35-Components-Search-options-screen-permissions-tab-en.png" />
 
-  
+
 For more information, please refer to:
 
 - [ACL Tutorial for Joomla
@@ -307,11 +306,3 @@ For more information, please refer to:
   knowing what your visitors search for and what they find, you'll need
   to enable search statistics. Refer to [Options](#Options) for more
   information.
-
-## Related Information
-
-- To add a Search Menu Item: [Menu Item Manager - New/Edit - Internal
-  Link -
-  Search](https://docs.joomla.org/Help4.x:Menus_Menu_Item_Manager_Edit#Internal_Link_-_Search "Special:MyLanguage/Help4.x:Menus Menu Item Manager Edit")
-- To add a Search Module: [Modules Site -
-  Search](https://docs.joomla.org/Screen.modulessite.edit.15#Search "Special:MyLanguage/Screen.modulessite.edit.15")

@@ -2,8 +2,7 @@
 
 ## Описание
 
-Used to set global defaults for [menu items that display
-articles](#menus). These default values will be used when 'Use Global'
+Used to set global defaults for menu items that display articles. These default values will be used when 'Use Global'
 is selected for an option in an Articles menu item.
 
 For example, to show the 'Create Date' for an article in your Articles
@@ -15,7 +14,7 @@ with the default settings.
 
 ## Как открыть
 
-**Контент **→** Материалы**
+**Контент → Материалы**
 
 - click the **Options** toolbar button
 
@@ -33,14 +32,11 @@ alt="Help-4x-Content-Article-Manager-Options-screen-ru.png" />
 ### Материалы
 
 Options used in articles and the menu items
-[Blog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/en#options "Help4.x:Menu Item: Category Blog/en"),
-[List](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/en#options "Help4.x:Menu Item: Category List/en"),
-[Featured
-Articles](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/en#options "Help4.x:Menu Item: Featured Articles/en"),
-[List All
-Categories](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/en#options "Help4.x:Menu Item: List All Categories/en"),
-and [Single
-Article](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article/en#options "Help4.x:Menu Item: Single Article/en").
+Blog,
+List,
+Featured Articles,
+List All Categories,
+and Single Article.
 
 **Макет**
 
@@ -65,22 +61,19 @@ Article](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article/en#options "H
 - **Заголовок категории**. Show the Article's Category Title.
   - **Категория как ссылка**. Show the title as a link to that
     Category.Note: You can set this to be either a blog or list layout
-    with the [Choose a
-    Layout](https://docs.joomla.org/Help4.x:Articles:_Options/en#choosealayout "Help4.x:Articles: Options/en")
+    with the Choose a Layout
     option in the Category Tab.
 - **Заголовок родительской категории**. Show the Article's Parent
   Category Title.
   - **Родительская категория как ссылка**. Show the title as a link to
     that Category.Note: You can set this to be either a blog or list
-    layout with the [Choose a
-    Layout](https://docs.joomla.org/Help4.x:Articles:_Options/en#choosealayout "Help4.x:Articles: Options/en")
+    layout with the Choose a Layout
     option in the Category Tab.
 
 **Связи**
 
 - **Языковые связи**. Show the associated flags or Language Code.
-  [Multilingual
-  only.](https://docs.joomla.org/Help4.x:Multilingual_Associations/en "Help4.x:Multilingual Associations/en")
+  Multilingual only.
   - **Изображения флагов**. Display language choice as image flags.
 
 **Автор**
@@ -88,9 +81,8 @@ Article](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article/en#options "H
 - **Автор**. Show the author of the Article.
   - **Автор как ссылка**. Show it as a link to a Contact layout for that
     author.Note: The author must be set up as a
-    [Contact](https://docs.joomla.org/Help4.x:Contacts:_Edit/en "Help4.x:Contacts: Edit/en").
-    Also, a link will not show if there is an [Author
-    Alias](https://docs.joomla.org/Help4.x:Articles:_Edit/en#createdbyalias "Help4.x:Articles: Edit/en")
+    Contact.
+    Also, a link will not show if there is an Author Alias
     value for the article.
 
 **Дата**
@@ -138,37 +130,29 @@ srcset="https://docs.joomla.org/images/thumb/8/8b/Help-4x-Content-Article-Manage
 data-file-width="1979" data-file-height="1505" width="600" height="456"
 alt="Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-ru.png" />
 
-- **Включить CAPTCHA**. Select the [captcha
-  plugin](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_CAPTCHA_Group/en "Chunk4x:Extensions Plugin Manager Edit CAPTCHA Group/en")
+- **Включить CAPTCHA**. Select the captcha plugin
   that will be used in the article submit form. If 'Use Global' is
-  selected, make sure a captcha plugin is selected in [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#captcha "Help4.x:Site Global Configuration/en").
-- **Публикация**. Hide the [Publishing Options
-  tab](https://docs.joomla.org/Help4.x:Articles:_Edit/en#publishing "Help4.x:Articles: Edit/en")
+  selected, make sure a captcha plugin is selected in Global Configuration.
+- **Публикация**. Hide the Publishing Options tab
   in the Backend when editing Articles. This means that Backend users
   will not be able to edit the fields in this tab. These fields will
   always be set to their default values.
-- **Отображение**. Hide the [Article Options
-  tab](https://docs.joomla.org/Help4.x:Articles:_Edit/en#options "Help4.x:Articles: Edit/en")
+- **Отображение**. Hide the Article Options tab
   in the Backend when editing Articles. This means that Backend users
   will not be able to edit the fields in this tab. These fields will
   always be set to their default values.
-- **Форма редактирования**. Hide the [Configure Edit Screen
-  tab](https://docs.joomla.org/Help4.x:Articles:_Edit/en#configureeditscreen "Help4.x:Articles: Edit/en")
+- **Форма редактирования**. Hide the Configure Edit Screen tab
   when editing Articles.
-- **Права доступа**. Hide the [Permissions
-  tab](https://docs.joomla.org/Help4.x:Articles:_Edit/en#permissions "Help4.x:Articles: Edit/en")
+- **Права доступа**. Hide the Permissions tab
   when editing Articles.
-- **Языковые связи**. Hide the [Associations
-  tab](https://docs.joomla.org/Help4.x:Articles:_Edit/en#associations "Help4.x:Articles: Edit/en")
+- **Языковые связи**. Hide the Associations tab
   when editing Articles.
 - **История версий**. Save version history for Articles and Categories.
 - **Количество версий**. The maximum number of versions to store for an
   Article or Category. If an Article or Category is saved and the
   maximum number of versions has been reached, the oldest version will
   be deleted automatically. If set to "0", then versions will never be
-  deleted automatically. [Learn
-  more.](https://docs.joomla.org/Help4.x:Components_Version_History/en "Help4.x:Components Version History/en")
+  deleted automatically.
 - **Изображения и ссылки (сайт)**. Hide the Images and Links tab in the
   Frontend article editor screen.
 - **Изображения и ссылки (панель управления)**. Hide the [Images and
@@ -189,21 +173,18 @@ alt="Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-ru.png" />
   for the third Link in the article. Same options as URL A.
 - **CSS-класс изображения вводного текста**. Sets the class attribute
   for an Intro Image selected in the Intro Image field.
-  <a href="https://cassiopeia.joomla.com/help" class="external text"
-  target="_blank" rel="nofollow noreferrer noopener">Learn more.</a>
+
 - **CSS-класс изображения полного текста**. Sets the class attribute for
   an Full Article Image selected in the Full Article Image field.
-  <a href="https://cassiopeia.joomla.com/help" class="external text"
-  target="_blank" rel="nofollow noreferrer noopener">Learn more.</a>
+
 
 ### Категория
 
 Options control how a Category and its articles will show. They are used
 in categories and the menu items
-[Blog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/en#category "Help4.x:Menu Item: Category Blog/en"),
-[List](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/en#category "Help4.x:Menu Item: Category List/en"),
-and [List All
-Categories](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/en#category "Help4.x:Menu Item: List All Categories/en").
+Blog,
+List,
+and List All Categories.
 
 <img
 src="https://docs.joomla.org/images/thumb/b/b4/Help-4x-Content-Article-Manager-Options-category-subscreen-ru.png/600px-Help-4x-Content-Article-Manager-Options-category-subscreen-ru.png"
@@ -232,8 +213,7 @@ alt="Help-4x-Content-Article-Manager-Options-category-subscreen-ru.png" />
 
 ### Категории
 
-Options control the display of the menu item [List All
-Categories](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/en#categories "Help4.x:Menu Item: List All Categories/en").
+Options control the display of the menu item List All Categories.
 
 <img
 src="https://docs.joomla.org/images/thumb/2/28/Help-4x-Content-Article-Manager-Options-categories-subscreen-ru.png/600px-Help-4x-Content-Article-Manager-Options-categories-subscreen-ru.png"
@@ -255,11 +235,9 @@ alt="Help-4x-Content-Article-Manager-Options-categories-subscreen-ru.png" />
 ### Блог
 
 Options control the layout of the menu items
-[Blog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/en#blog "Help4.x:Menu Item: Category Blog/en"),
-[Featured
-Articles](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/en#blog "Help4.x:Menu Item: Featured Articles/en"),
-and [List All
-Categories](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/en#blog "Help4.x:Menu Item: List All Categories/en").
+Blog,
+Featured Articles,
+and List All Categories.
 
 <img
 src="https://docs.joomla.org/images/thumb/c/cd/Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-ru.png/600px-Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-ru.png"
@@ -298,11 +276,11 @@ alt="Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-ru.p
   - Вниз: Order articles going down the first column and then over to
     the next column, for example:
 
-- 
+-
   - Поперек: Order articles going across the columns and then back to
     the first column, for example:
 
-- 
+-
 - **Количество ссылок на другие материалы**. The number of Links to
   display in the Links area of the page. These links allow a User to
   link to additional Articles, if there are more Articles than can fit
@@ -319,9 +297,8 @@ alt="Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-ru.p
 ### Список
 
 Options control the layout of the menu items
-[List](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/en#listlayouts "Help4.x:Menu Item: Category List/en")
-and [List All
-Categories](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/en#listlayouts "Help4.x:Menu Item: List All Categories/en").
+List
+and List All Categories.
 
 <img
 src="https://docs.joomla.org/images/thumb/e/ed/Help-4x-Content-Article-Manager-Options-list-layout-subscreen-ru.png/600px-Help-4x-Content-Article-Manager-Options-list-layout-subscreen-ru.png"
@@ -356,10 +333,9 @@ alt="Help-4x-Content-Article-Manager-Options-list-layout-subscreen-ru.png" />
 ### Общие
 
 Options shared by the menu items
-[Blog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/en#blog "Help4.x:Menu Item: Category Blog/en"),
-[List](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/en#listlayouts "Help4.x:Menu Item: Category List/en"),
-and [Featured
-Articles](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/en#blog "Help4.x:Menu Item: Featured Articles/en").
+Blog,
+List,
+and Featured Articles.
 
 <img
 src="https://docs.joomla.org/images/thumb/d/dd/Help-4x-Content-Article-Manager-Options-shared-subscreen-ru.png/600px-Help-4x-Content-Article-Manager-Options-shared-subscreen-ru.png"
@@ -376,8 +352,7 @@ alt="Help-4x-Content-Article-Manager-Options-shared-subscreen-ru.png" />
   - Заголовок (против алфавита): Categories are displayed in reverse
     alphabetical order (Z to A).
   - Порядок в Joomla: Categories are ordered according to the Order
-    column entered in [Articles:
-    Categories](https://docs.joomla.org/Help4.x:Articles:_Categories/en#ordering "Help4.x:Articles: Categories/en").
+    column entered in Articles: Categories.
 - **Порядок материалов**.
   - Новые первыми: Articles are displayed starting with the most recent
     and ending with the oldest.
@@ -399,10 +374,10 @@ alt="Help-4x-Content-Article-Manager-Options-shared-subscreen-ru.png" />
     with the most hits.
   - Порядок в Joomla: Articles are ordered according to the Order column
     entered in
-    [Articles](https://docs.joomla.org/Help4.x:Articles/en#ordering "Help4.x:Articles/en").
+    Articles.
   - В обратном порядке: Articles are ordered reverse to the according of
     the Order column entered in
-    [Articles](https://docs.joomla.org/Help4.x:Articles/en#ordering "Help4.x:Articles/en").
+    Articles.
 - **Поле даты для сортировки**. The date used when articles are sorted
   by date.
   - Создано: Use the article created date.
@@ -449,18 +424,15 @@ alt="Help-4x-Content-Article-Manager-Options-integration-subscreen-ru.png" />
 
 **Настраиваемые поля**
 
-- **Настраиваемые поля**. Enable the creation of custom fields. [Learn
-  more.](https://docs.joomla.org/Help4.x:Fields:_Edit/en "Help4.x:Fields: Edit/en")
+- **Настраиваемые поля**. Enable the creation of custom fields.
 
 **Процессы**
 
-- **Процессы**. Use customised workflows to manage articles. [Learn
-  more.](https://docs.joomla.org/J4.x:Workflow/en "J4.x:Workflow/en")
+- **Процессы**. Use customised workflows to manage articles.
 
 ### Права доступа
 
-This section lets you set up the default [Access Control
-List](https://docs.joomla.org/Access_Control_List/en "Access Control List/en")
+This section lets you set up the default Access Control List
 permissions for all articles in all categories.
 
 <img
@@ -493,8 +465,7 @@ To change the permissions for articles and categories, do the following.
     - **Выполнить переход**. Users can execute transitions.
 3.  Select the desired permission for the action you wish to change.
     - **Унаследовано**. Inherited for users in this Group from the
-      [Global
-      Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#permissions "Help4.x:Site Global Configuration/en")
+      Global Configuration
       permissions.
     - **Разрешено**. Allowed for users in this Group.Note: If this
       action is Denied at one of the higher levels, the Allowed
@@ -508,7 +479,7 @@ To change the permissions for articles and categories, do the following.
 ## Панель инструментов
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Сохранить**. Saves the articles options and stays in the current
   screen.

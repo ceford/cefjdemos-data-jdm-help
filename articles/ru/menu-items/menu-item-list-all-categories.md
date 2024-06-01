@@ -8,7 +8,7 @@ you can click on a category Title to show the articles in that category.
 
 ## Как открыть
 
-**Menus **→** \[name of the menu\]**
+Select **Menus → \[name of the menu\]** from the Administrator menu.
 
 To add a Menu Item:
 
@@ -35,12 +35,11 @@ alt="Help-4x-Menus-Item-Articles-List-All-Categories-screen-ru.png" />
 - **Title**. The title that will display for this menu item.
 - **Alias**. The internal name of the menu item. Normally, you can leave
   this blank and Joomla will fill in a default value Title in lower case
-  and with dashes instead of spaces. [Learn
-  more.](https://docs.joomla.org/Alias/en "Alias/en")
+  and with dashes instead of spaces.
 
 ### Подробности
 
-**Left Panel**
+#### Left Panel
 
 - **Menu Item Type**. The Menu Item Type selected when this menu item
   was created. This can be one of the core menu item types or a menu
@@ -54,7 +53,7 @@ alt="Help-4x-Menus-Item-Articles-List-All-Categories-screen-ru.png" />
 - **Target Window**. Select from the dropdown list.
 - **Template Style**. Select from the dropdown list.
 
-**Right Panel**
+#### Right Panel
 
 - **Menu**. Shows which menu the link will appear in.
 
@@ -71,8 +70,7 @@ data-file-width="2880" data-file-height="1300" width="600" height="271"
 alt="Help-4x-Menus-Item-Articles-List-All-Categories-categories-subscreen-ru.png" />
 
 Note: Options include "**Use Global**". If this is selected, the setting
-from the [Articles:
-Options](https://docs.joomla.org/Help4.x:Articles:_Options/en "Help4.x:Articles: Options/en")
+from the Articles: Options
 will be used.
 
 - **Top Level Category Description**. Show the description for the
@@ -169,12 +167,10 @@ alt="Help-4x-Menus-Item-Articles-List-All-Categories-blog-layout-subscreen-ru.pn
   - Title Reverse Alphabetical: Categories are displayed in reverse
     alphabetical order (Z to A).
   - Category Order: Categories are ordered according to the Order column
-    entered in [Articles:
-    Categories](https://docs.joomla.org/Help4.x:Articles:_Categories/en#ordering "Help4.x:Articles: Categories/en").
+    entered in Articles: Categories.
 - **Порядок материалов**.
   - Featured Articles Order: Articles are ordered according to the Order
-    column entered in [Articles:
-    Featured](https://docs.joomla.org/Help4.x:Articles:_Featured/en#ordering "Help4.x:Articles: Featured/en").
+    column entered in Articles: Featured.
   - Most Recent First: Articles are displayed starting with the most
     recent and ending with the oldest.
   - Oldest First: Articles are displayed starting with the oldest and
@@ -195,10 +191,10 @@ alt="Help-4x-Menus-Item-Articles-List-All-Categories-blog-layout-subscreen-ru.pn
     most hits.
   - Article Order: Articles are ordered according to the Order column
     entered in
-    [Articles](https://docs.joomla.org/Help4.x:Articles/en#ordering "Help4.x:Articles/en").
+    Articles.
   - Article Reverse Order: Articles are ordered reverse to the according
     of the Order column entered in
-    [Articles](https://docs.joomla.org/Help4.x:Articles/en#ordering "Help4.x:Articles/en").
+    Articles.
 - **Date for Ordering**. The date used when articles are sorted by date.
   - Created: Use the article created date.
   - Modified: Use the article modified date.
@@ -232,7 +228,7 @@ alt="Help-4x-Menus-Item-Articles-List-All-Categories-list-layouts-subscreen-ru.p
   - Modified: Show the date of the last modification.
   - Published: Show the start publishing date.
 - **Date Format**. Optional format string to control the format of the
-  date. [Quick Tip](#dateformat)
+  date. Quick Tip
 - **Hits**. Show the number of hits for articles.
 - **Author**. Show the name of the author.
 - **\# Articles to List**. Number of articles shown in the list.
@@ -285,14 +281,12 @@ alt="Help-4x-Menus-Item-Articles-List-All-Categories-options-subscreen-ru.png" /
 
 - **Category**. Show the Article's Category Title.
 - **Link Category**. Show the title as a link to that Category.Note: You
-  can set this to be either a blog or list layout with the [Choose a
-  Layout](https://docs.joomla.org/Help4.x:Articles:_Options/en#choosealayout "Help4.x:Articles: Options/en")
+  can set this to be either a blog or list layout with the Choose a Layout
   option in the Category Tab.
 - **Parent Category**. Show the Article's Parent Category Title.
 - **Link Parent Category**. Show the title as a link to that
   Category.Note: You can set this to be either a blog or list layout
-  with the [Choose a
-  Layout](https://docs.joomla.org/Help4.x:Articles:_Options/en#choosealayout "Help4.x:Articles: Options/en")
+  with the Choose a Layout
   option in the Category Tab.
 
 **Автор**
@@ -300,9 +294,8 @@ alt="Help-4x-Menus-Item-Articles-List-All-Categories-options-subscreen-ru.png" /
 - **Author**. Show the author of the Article.
 - **Link to Author's Contact Page**. Show it as a link to a Contact
   layout for that author.Note: The author must be set up as a
-  [Contact](https://docs.joomla.org/Help4.x:Contacts:_Edit/en "Help4.x:Contacts: Edit/en").
-  Also, a link will not show if there is an [Author
-  Alias](https://docs.joomla.org/Help4.x:Articles:_Edit/en#createdbyalias "Help4.x:Articles: Edit/en")
+  Contact.
+  Also, a link will not show if there is an Author Alias
   value for the article.
 
 **Дата**
@@ -350,12 +343,10 @@ alt="Help-4x-Menus-Item-Articles-List-All-Categories-integration-subscreen-ru.pn
 
 ### Common Options
 
-See [Menus: New
-Item](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en "Help4.x:Menu Item: New Item/en")
+See Menus: New Item
 for help on fields common to all Menu Item types, including:
 
-- [Right
-  Panel](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en#rightpanel "Help4.x:Menu Item: New Item/en")
+- Right Panel
 - [Тип
   ссылки](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/ru#linktype "Help4.x:Menu Item: New Item/ru")
 - [Страница](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/ru#pagedisplay "Help4.x:Menu Item: New Item/ru")
@@ -367,7 +358,7 @@ for help on fields common to all Menu Item types, including:
 ## Панель инструментов
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Сохранить**. Saves the menu item and stays in the current screen.
 - **Сохранить и закрыть**. Saves the menu item and closes the current
@@ -394,11 +385,9 @@ At the top of the page you will see the toolbar shown in the
   page display. Otherwise, the options set for the current Show All
   Categories menu item will control the page display.
 - You can set the option to drill down to a list or blog in 2 places.
-  - In [Articles:
-    Options](https://docs.joomla.org/Help4.x:Articles:_Options/en#choosealayout "Help4.x:Articles: Options/en")
+  - In Articles: Options
     you can set the default value for all categories.
-  - In [Category:
-    Edit](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/en#choosealayout "Help4.x:Articles: Edit Category/en")
+  - In Category: Edit
     you can set a value for a specific category. If this is set, it
     overrides the default value.
 - Customise 'Date Format': You can use D M Y for day month year or d-m-y
@@ -410,7 +399,7 @@ At the top of the page you will see the toolbar shown in the
 ## Связанная информация
 
 - To create a new menu see
-  [Menus.](https://docs.joomla.org/Help4.x:Menus/en "Help4.x:Menus/en")
+  Menus.
 - This
   [Portal](https://docs.joomla.org/Portal:Joomla_4/en "Portal:Joomla 4/en")
   brings together information related specifically to Joomla 4.

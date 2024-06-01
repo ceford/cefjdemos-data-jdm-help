@@ -20,13 +20,13 @@ documentados na tela de ajuda para cada tipo.
 
 Para adicionar um item dos menus:
 
-- **Menus **→** \[nome do menu\]**
+- **Menus → \[nome do menu\]**
   1.  clique no botão **Novo** na barra das ferramentas.
   2.  clique no botão **Selecionar** em "Tipo do item dos menus".
 
 Para editar um item dos menus:
 
-- **Menus **→** \[nome do menu\]**
+- **Menus → \[nome do menu\]**
   - selecione um **título** a partir da lista
 
 ## Captura da tela

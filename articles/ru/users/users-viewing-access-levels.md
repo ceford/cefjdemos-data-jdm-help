@@ -6,7 +6,7 @@ This screen shows a list of User Access Levels.
 
 ## Как открыть
 
-Select **Users **→** Access Levels** from the Administrator menu.
+Select **Users → Access Levels** from the Administrator menu.
 
 ## Скриншот
 
@@ -53,7 +53,7 @@ restore the list of levels.
 ## Панель инструментов
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **New**. Opens the editing screen to create a new access level.
 - **Edit**. Opens the editing screen for the selected access level. If
@@ -71,7 +71,7 @@ At the top of the page you will see the toolbar shown in the
 
 ## Быстрые советы
 
-- Click on the name of an access level to edit it. 
+- Click on the name of an access level to edit it.
 - Click on the Column
 Headers to sort the users by that column, ascending or descending.
 

@@ -15,7 +15,7 @@ gebruiker gedefinieerde mappen. Beschikbare hulpmiddelen zijn:
 
 ## Hoe toegang te krijgen
 
-- **Controlepaneel **→** Site **→** Media**
+- **Controlepaneel → Site → Media**
 
 ## Schermafbeelding
 
@@ -104,8 +104,7 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   mediabeheer component ziet u **images** en **bestanden** als aparte
   items op het scherm.
   1.  create a folder in the root of your site, say **files**
-  2.  go to the [Filesystem -
-      Local](https://docs.joomla.org/J4.x:Media:_Options/en "J4.x:Media: Options/en")
+  2.  go to the Filesystem - Local
       plugin and add **files** under **Select directories**.
   3.  Back in the Media component you will see *images* and *files* as
       separate items in the Local panel.

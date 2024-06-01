@@ -9,24 +9,24 @@ um usuário existente.
 
 Para editar um usuário existente:
 
-- Selecione **Usuários **→** Gerenciar** no menu administrativo. Então
+- Selecione **Usuários → Gerenciar** no menu administrativo. Então
   ...
   - Pesquise o usuário desejado e selecione o link do nome na coluna
     **Nome**.
 
-Para criar um novo usuário: Selecione **Usuários **→** Gerenciar** no
+Para criar um novo usuário: Selecione **Usuários → Gerenciar** no
 menu administrativo. Então ...
 
   - Selecione o botão **Novo** na barra das ferramentas.
 
-- Ou ... Selecione **Usuários **→** Gerenciar **→** Ícone mais** no menu
+- Ou ... Selecione **Usuários → Gerenciar → Ícone mais** no menu
   administrativo.
 
-- Ou ... Selecione **Usuários **→** Ícone do painel** no menu
+- Ou ... Selecione **Usuários → Ícone do painel** no menu
   administrativo. Então ...
   - Selecione o ícone **Mais** no painel "Usuários".
 
-- Ou ... Selecione **Painel inicial **→** Painel do site **→** Ícone
+- Ou ... Selecione **Painel inicial → Painel do site → Ícone
   mais em Usuários** a partir do menu administrativo.
 
 ## Captura de tela

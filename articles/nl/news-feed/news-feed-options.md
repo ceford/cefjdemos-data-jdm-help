@@ -7,9 +7,9 @@ van parameters die algemeen gebruikt worden voor alle nieuwsfeeds.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Componenten **→** Nieuwsfeeds **→** Feeds** vanuit het
+- Selecteer **Componenten → Nieuwsfeeds → Feeds** vanuit het
   beheermenu. Of...
-- Selecteer **Componenten **→** Nieuwsfeeds **→** Categorieën** vanuit
+- Selecteer **Componenten → Nieuwsfeeds → Categorieën** vanuit
   het beheermenu. Dan ...
   - Klik op de *Opties* knop in de werkbalk.
 

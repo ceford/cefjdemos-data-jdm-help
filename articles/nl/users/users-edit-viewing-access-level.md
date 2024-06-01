@@ -19,7 +19,7 @@ waar de bovenliggende groep al toegang toe heeft.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Gebruikers **→** Toegangsniveaus** vanuit het beheermenu.
+- Selecteer **Gebruikers → Toegangsniveaus** vanuit het beheermenu.
   Dan...
   - Selecteer een link vanuit de **Niveaunaam** kolom om een bestaand
     niveau te bewerken.

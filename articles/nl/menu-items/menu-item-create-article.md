@@ -13,7 +13,7 @@ sectie.
 
 ## Hoe toegang te krijgen
 
-**Menu's **→** \[naam van het menu\]**
+**Menu's → \[naam van het menu\]**
 
 Om een menu-item aan te maken:
 
@@ -92,7 +92,7 @@ inclusief:
   venster](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#rightpanel "Help4.x:Menu Item: New Item/nl")
 - [Linktype](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#linktype "Help4.x:Menu Item: New Item/nl")
 - [Paginaweergave](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#pagedisplay "Help4.x:Menu Item: New Item/nl")
-- [Metadata](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#metadata "Help4.x:Menu Item: New Item/nl")
+- Metadata
 - [Associaties](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#associations "Help4.x:Menu Item: New Item/nl")
 - [Moduletoewijzing](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#moduleassignment "Help4.x:Menu Item: New Item/nl")
 

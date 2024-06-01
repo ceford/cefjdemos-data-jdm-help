@@ -7,7 +7,7 @@ kunnen worden om inhoud te per tag-naam op uw Joomla! website te tonen.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Componenten **→** Tags** in het beheermenu. Dan ...
+- Selecteer **Componenten → Tags** in het beheermenu. Dan ...
   - Selecteer de **Nieuw** knop in de werkbalk om een nieuwe tag aan te
     maken.
   - Selecteer een Tag titel vanuit de **Titel** kolom van de lijst om

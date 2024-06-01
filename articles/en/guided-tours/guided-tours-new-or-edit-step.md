@@ -6,7 +6,7 @@ This screen is used to add a new or edit an existing Step of a tour, usually usi
 
 ## How to Access
 
-**System** -> **Manage** -> **Guided Tours**
+Select **System -> Manage panel -> Guided Tours** from the Administrator menu.
 
 Enter a tour's steps screen by selecting the steps number from the Steps column.
 
@@ -26,19 +26,19 @@ To edit a Step:
 
 - **Title**. The Title for this step. Usually it is a call to action, for example 'Enter a title' if the step demands user interaction. If the title is a language key, an aditional field is shown, representing the translation of that key for the user's locale.
 
-## Edit Step
+### Edit Step tab
 
-**Left Panel**
+#### Left Panel
 
-- **Description**. This is where you enter the description of the step, usually a detailed explanation or help for the step. Joomla includes 3 editors, the default **Editor - TinyMCE** is shown here. 
-  
+- **Description**. This is where you enter the description of the step, usually a detailed explanation or help for the step. Joomla includes 3 editors, the default **Editor - TinyMCE** is shown here.
+
   The step description can be a language key. When this is the case, a secondary field presents the translated description of that key for the user's locale.
 
 - The CMS Content dropdown list provides access to **Media**.
 
 - **Toggle Editor**. A Toggle Editor button show below the edit window. This button allows you to toggle between **TinyMCE** and **Editor - None**.
 
-**Right Panel**
+#### Right Panel
 
 - **Status**. The published status of this step.
   - **Published**: Step is visible when the tour is run.
@@ -49,34 +49,32 @@ To edit a Step:
 - **Position**. The position of the step relative to the information it points to.
   - **Bottom**: Step shows below the target.
   - **Center**: Step shows at the center of the screen. When a target is missing, this is
-     the default position.  
+     the default position.
   - **Left**: Step shows at the left of the target.
-  - **Right**: Step shows at the right of the target.  
+  - **Right**: Step shows at the right of the target.
   - **Top**: Step shows above the target.
-- **Target**. The element of the screen the step points to. It uses CSS syntax. 
-  
-  For example, '.button-new' will target the button of the page having class 'button-new'. 
-  
+- **Target**. The element of the screen the step points to. It uses CSS syntax.
+
+  For example, '.button-new' will target the button of the page having class 'button-new'.
+
   If the target is not unique, the first target found is used. When creating interactive steps, make sure the target is focusable for accessibility. You may use several selectors, comma separated. The first valid one will become the target (a selector is valid if: found on the page, not disabled, not read only and not hidden). If a target has been set but it is not found or it is invalid, the tour won't break but show the step at the center of the screen.
 
 - **Type**. The type of step.
   - **Next**: The user running the tour will walk through the next step.
   - **Redirect**: The step will be redirected to another page.
   - **Interactive**: The step requires user interaction, like entering data.
-- **URL**. The url to redirect to for a step of type 'Redirect'. 
+- **URL**. The url to redirect to for a step of type 'Redirect'.
   For example, *administrator/index.php?option=com_users&view=user&layout=edit* will redirect the step to the user edit screen.
-- **Interactive Type**. The type of interaction for an interactive step.  
+- **Interactive Type**. The type of interaction for an interactive step.
   - **Form Submit**: The target is a button that submits a form.
   - **Text Field**: The target is an input text field. If the field is required, the person running the tour won't be able to continue to the next step until data is entered.
   - **Button**: The target is a button on the screen.
   - **Other**: The target is any other form element.
 - **Note**. This is for the administrator's use (for example, to document information about this step).
 
-## Publishing
+### Publishing tab
 
 <img alt="Guided Tours: Step Publishing" src="https://docs.joomla.org/images/d/da/Guidedtours_tour_edit_publish_en.png" decoding="async" data-file-width="886" data-file-height="378" width="886" height="378">
-
-**Publishing**
 
 - **Created Date**. The current time when the Step was created. Enter in a different date and time or click on the calendar icon to find the desired date.
 - **Created By**. Name of the User who created this Step. This will default to the currently logged-in user. If you want to change this to a different user, click the Select User button.
@@ -86,7 +84,7 @@ To edit a Step:
 
 ## Toolbar
 
-At the top of the page you will see the toolbar shown in the [Screenshot](#screenshot) above.
+At the top of the page you will see the toolbar shown in the Screenshot above.
 
 - **Save**. Saves the step and stays in the current screen.
 - **Save & Close**. Saves the step and closes the current screen.

@@ -9,7 +9,7 @@ site créée à l'aide d'un élément de menu avec le type d'élément de menu
 
 ## Comment y accéder ?
 
-**Contenus **→** Articles épinglés**
+**Contenus → Articles épinglés**
 
 To add a Article:
 
@@ -55,13 +55,10 @@ alt="Help-4x-Content-Featured-Articles-screen-fr.png" />
 - **Statut**. Status of article. Hover icon for informations.
 - **Titre**. The title of the article. Edit the article by clicking on
   the Title.
-- **Accès**. The viewing [Access
-  Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Help4.x:Users: Viewing Access Levels/en")
-  for this article.
+- **Accès**. The viewing Access level  for this article.
 - **Auteur**. Name of the User who created this article.
 - **Association**. Shows the associated articles. Click on the Language
-  Code to open the article. [Multilingual
-  only.](https://docs.joomla.org/Help4.x:Multilingual_Associations/en "Help4.x:Multilingual Associations/en")
+  Code to open the article. Multilingual only.
 - **Langue**. Articles language, default is 'All'.
 - **Date de création**. The date this article was created.
 - **Clics**. The number of times an article has been viewed.
@@ -72,7 +69,7 @@ alt="Help-4x-Content-Featured-Articles-screen-fr.png" />
 ## Liste des filtres
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Recherche par texte**. Enter part of the search term and click the
   Search icon. *Hover* to see a *Tooltip* indicating which fields will
@@ -89,13 +86,12 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of articles in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
 ### Filtres d'affichage
 
 Near the top of the page you will see the filter bar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Statut**. Select from Trashed / Unpublished / Published / Archived /
   All.
@@ -111,7 +107,7 @@ Near the top of the page you will see the filter bar shown in the
 
 **Page Controls**. When the number of articles is more than one page,
 you will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -166,7 +162,7 @@ En haut de la page, vous verrez la barre d'outils présentée dans la
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Ecrans d'aide en relation                                                                                                                                             | Description                                                                                                                                                                                 |
 | [Articles : Paramètres](https://docs.joomla.org/Help4.x:Articles:_Options/fr "Help4.x:Articles: Options/fr")                                                          | Used to set global defaults for menu items that display articles. These default values will be used when 'Use Global' is selected for an option in an Articles menu item.                   |
-| [Articles](https://docs.joomla.org/Help4.x:Articles/fr "Help4.x:Articles/fr")                                                                                         | The Article list is used to find, mark featured, add and edit articles.                                                                                                                     |
+| Articles                                                                                         | The Article list is used to find, mark featured, add and edit articles.                                                                                                                     |
 | [Articles : Edition](https://docs.joomla.org/Help4.x:Articles:_Edit/fr "Help4.x:Articles: Edit/fr")                                                                   | This is where you can add and edit Articles. You can also select the Category for an Article and indicate whether or not it is Published and if it is selected to appear on the Front Page. |
 | <span class="mw-selflink selflink">Articles : Articles épinglés</span>                                                                                                | Used to control which 'Featured Articles' are displayed on the Front Page and in what order they are displayed.                                                                             |
 | [Articles : catégories](https://docs.joomla.org/Help4.x:Articles:_Categories/fr "Help4.x:Articles: Categories/fr")                                                    | The Articles Categories list is used to find, add, and edit articles categories.                                                                                                            |

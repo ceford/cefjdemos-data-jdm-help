@@ -2,9 +2,7 @@
 
 ## Beschreibung
 
-Clears cache files from the cache folders if enabled under the [Site
-Global
-Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#Cache_Settings "Help4.x:Site Global Configuration/en")
+Clears cache files from the cache folders if enabled under the Site Global Configuration
 settings.
 
 Cache files are temporary files that are created to improve the
@@ -18,7 +16,7 @@ until the cache files are re-created with use.
 
 ## How to Access
 
-- Select **System **→** Maintenance Panel **→** Clear Cache** from the
+- Select **System → Maintenance Panel → Clear Cache** from the
   Administrator menu.
 
 ## Screenshot
@@ -51,7 +49,7 @@ alt="Help-4x-System-Clear-Cache-screen-en.png" />
 ## List Filters
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -68,8 +66,7 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Special:MyLanguage/Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
 **Filter Options**
 
@@ -77,7 +74,7 @@ shown in the [Screenshot](#screenshot) above.
 
 **Page Controls**. When the number of items is more than one page, you
 will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -89,7 +86,7 @@ has a dark colour background.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Delete:** Deletes the selected items. Works with one or multiple
   items selected.
@@ -106,9 +103,3 @@ At the top of the page you will see the toolbar shown in the
 - Normally you want to delete all cache files. To do this, click the
   check box in the column heading to select all files and then click the
   Delete icon in the toolbar.
-
-## Related Information
-
-- To change the cache settings for your site: [Global Configuration -
-  Cache
-  Settings](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en "Help4.x:Site Global Configuration/en")

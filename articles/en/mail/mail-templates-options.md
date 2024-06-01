@@ -7,7 +7,7 @@ emails.
 
 ## How to Access
 
-- Select **System **→** Mail Templates in the Templates panel** from the
+- Select **System → Mail Templates in the Templates panel** from the
   Administrator menu. Then ...
   - **Select** the Options button in the Toolbar.
 
@@ -17,7 +17,7 @@ emails.
 src="https://docs.joomla.org/images/8/82/Help-4x-Components-Mail-Templates-Options-en.png"
 decoding="async" data-file-width="800" data-file-height="416"
 width="800" height="416"
-alt="Help-4x-Components-Mail-Templates-Options-en.png" />
+alt="Mail Templates Options" />
 
 ## Form Fields
 

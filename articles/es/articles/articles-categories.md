@@ -12,7 +12,7 @@ child Category.
 
 ## Cómo Acceder
 
-**Panel de inicio **→** Site **→** Categorías**
+**Panel de inicio → Site → Categorías**
 
 To add a Category:
 
@@ -63,8 +63,7 @@ alt="Help-4x-Content-Categories-screen-es.png" />
   Acceso](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/es "Help4.x:Users: Viewing Access Levels/es")
   para este categoría.
 - **Asociación**. Shows the associated categories. Click on the Language
-  Code to open the category. [Multilingual
-  only.](https://docs.joomla.org/Help4.x:Multilingual_Associations/en "Help4.x:Multilingual Associations/en")
+  Code to open the category. Multilingual only.
 - **Idioma**. Idioma del categoría.
 - **ID**. Este es un número de identificación único para este categoría.
   Se utiliza para identificar el categoría internamente y no se puede
@@ -73,7 +72,7 @@ alt="Help-4x-Content-Categories-screen-es.png" />
 ## Filtros de lista
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -90,13 +89,12 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of categories in a list.
   Select from the dropdown list to change the number displayed.The
-  default for a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  default for a site is '20' but this may be changed in the Global Configuration.
 
 ### Opciones de filtro
 
 Near the top of the page you will see the filter bar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Seleccionar estado**. Select from Trashed / Unpublished / Published
   / Archived / All.
@@ -111,7 +109,7 @@ Near the top of the page you will see the filter bar shown in the
 
 **Page Controls**. When the number of categories is more than one page,
 you will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -123,7 +121,7 @@ has a dark colour background.
 ## Barra de herramientas
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Nuevo**. Opens the editing screen to create a new category.
 - **Acciones**. Reveals a list of actions for selected categories. Check
@@ -133,18 +131,15 @@ At the top of the page you will see the toolbar shown in the
   - **Despublicar**. Makes the selected categories unavailable to
     visitors to your website.
   - **Archivar**. Changes the status of the selected categories to
-    indicate that they are archived. [Learn
-    more.](https://docs.joomla.org/J4.x:How_to_Archive_an_Article/en "J4.x:How to Archive an Article/en")
+    indicate that they are archived.
   - **Desbloquear**. Checks-in the selected categories.
   - **Papelera**. Changes the status of the selected categories to
-    indicate that they are trashed. [Learn
-    more.](https://docs.joomla.org/J4.x:Deleting_an_Article/en "J4.x:Deleting an Article/en")
+    indicate that they are trashed.
   - **Lote**. Batch processes the selected categories.
 - **Reconstruir**. Reconstructs and refreshes the categories table.
   Normally, you do not need to rebuild this table. This function is
   provided in case the data in the table becomes corrupted.
-- **Opciones**. Opens [Articles:
-  Options](https://docs.joomla.org/Help4.x:Articles:_Options/en "Help4.x:Articles: Options/en").
+- **Opciones**. Opens Articles: Options.
 - **Ayuda**. Se abre esta pantalla de ayuda.
 
 ## Proceso por lotes

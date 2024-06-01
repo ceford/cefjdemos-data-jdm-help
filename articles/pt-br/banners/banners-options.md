@@ -6,7 +6,7 @@ Opções para banners usadas globalmente para todos os banners.
 
 ## Como acessar
 
-- Selecione **Componentes **→** Banners** no menu administrativo.
+- Selecione **Componentes → Banners** no menu administrativo.
   Então...
   - Selecione o botão **Opções** na barra das ferramentas. O botão
     **Opções** está disponível nas páginas para banners, categorias,

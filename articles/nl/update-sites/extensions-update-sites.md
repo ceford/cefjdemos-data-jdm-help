@@ -7,7 +7,7 @@ bijgewerkt.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Systeem **→** Update venster **→** Updatesites** vanuit
+- Selecteer **Systeem → Update venster → Updatesites** vanuit
   het beheermenu.
 
 ## Schermafbeelding
@@ -93,7 +93,7 @@ height="61" alt="Help-4x-colheader-filter-field-nl.png" />
 
 **Paginabesturing** Als het aantal items meer is dan een pagina, zie je
 een paginabesturing bij de onderkant van de pagina zoals in bovenstaande
-[Screenshot](#screenshot). Het huidige paginanummer heeft een donkere
+Screenshot. Het huidige paginanummer heeft een donkere
 achtergrond.
 
 - **Begin**. Klik om naar de eerste pagina te gaan.

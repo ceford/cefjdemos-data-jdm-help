@@ -7,7 +7,7 @@ for Joomla!.
 
 ## How to Access
 
-- Select **System **→** Update panel **→** Joomla** from the
+- Select **System → Update panel → Joomla** from the
   Administrator menu. Then...
   - Click the **Options** button on the Toolbar.
 
@@ -18,7 +18,7 @@ src="https://docs.joomla.org/images/thumb/7/7c/Help-4x-Components-Joomla-Update-
 decoding="async"
 srcset="https://docs.joomla.org/images/7/7c/Help-4x-Components-Joomla-Update-Options-en.png 1.5x"
 data-file-width="1200" data-file-height="583" width="800" height="389"
-alt="Help-4x-Components-Joomla-Update-Options-en.png" />
+alt="Joomla Update Options" />
 
 ## Form Fields
 

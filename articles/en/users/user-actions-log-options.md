@@ -11,7 +11,7 @@ should be logged and define the permissions for each user group.
 
 To access this screen:
 
-- Select **Users **→** Users Actions Log** from the Administrator menu.
+- Select **Users → Users Actions Log** from the Administrator menu.
   Then...
   - Select the **Options** button in the Toolbar.
 
@@ -21,7 +21,7 @@ To access this screen:
 src="https://docs.joomla.org/images/e/e7/Help-4x-component-actionlogs-options-en.png"
 decoding="async" data-file-width="800" data-file-height="427"
 width="800" height="427"
-alt="Help-4x-component-actionlogs-options-en.png" />
+alt="user actions log options screen" />
 
 ## Form Fields
 
@@ -47,8 +47,3 @@ above. The functions are:
 - **Close**. Closes the current screen and returns to the previous
   screen without saving any modifications you may have made.
 - **Help**. Opens this help screen.
-
-## Related Information
-
-- [User Action
-  Logs](https://docs.joomla.org/J3.x:User_Action_Logs/en "J3.x:User Action Logs/en")

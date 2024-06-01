@@ -7,7 +7,7 @@ worden bij alle menu's zoals, titel, CSS class en rechten.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Menu's **→** Beheren** vanuit het beheermenu. Dan...
+- Selecteer **Menu's → Beheren** vanuit het beheermenu. Dan...
   - Selecteer de **Opties** knop in de werkbalk.
 
 ## Schermafbeelding

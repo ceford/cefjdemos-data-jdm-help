@@ -10,7 +10,7 @@ Nieuw/bewerk](https://docs.joomla.org/Help4.x:News_Feeds:_Edit/nl "Help4.x:News 
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Componenten **→** Nieuwsfeeds **→** Feeds** vanuit het
+- Selecteer **Componenten → Nieuwsfeeds → Feeds** vanuit het
   beheermenu.
 - Of selecteer de **Feeds** link vanuit de [Newsfeed beheer -
   Categorieën](https://docs.joomla.org/Help4.x:News_Feeds:_Categories/nl "Help4.x:News Feeds: Categories/nl").
@@ -45,14 +45,14 @@ Klik op de kolomkop om de lijst volgens deze kolom te sorteren.
   - Selecteer het volgorde icoon <img
     src="https://docs.joomla.org/images/e/ee/Help30-Ordering-colheader-icon.png"
     decoding="async" data-file-width="12" data-file-height="23" width="12"
-    height="23" alt="Help30-Ordering-colheader-icon.png" /> in de
+    height="23" alt="Ordering column header icon" /> in de
     tabelkop om het het actieve volgorde item te maken. De volgorde
     iconen in iedere rij veranderen van licht naar donker grijs en de
     pijl verandert in een sleepsymbool als u eroverheen gaat.
   - Selecteer één van de volgorde iconen <img
     src="https://docs.joomla.org/images/8/87/Help30-Ordering-colheader-grab-bar-icon.png"
     decoding="async" data-file-width="10" data-file-height="21" width="10"
-    height="21" alt="Help30-Ordering-colheader-grab-bar-icon.png" /> en
+    height="21" alt="Ordering drag icon" /> en
     sleep het naar boven of beneden om de positie van die rij in de
     lijst te veranderen. De items worden in de nieuwe volgorde binnen de
     positie getoond.
@@ -77,7 +77,7 @@ Klik op de kolomkop om de lijst volgens deze kolom te sorteren.
 ## Lijst filters
 
 **Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande [Screenshot](#screenshot).
+bovenstaande Screenshot.
 
 - **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
   zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat
@@ -121,7 +121,7 @@ bovenstaande [Screenshot](#screenshot).
   categorieën.
 - **Selecteer toegang**. Selecteer uit de lijst met beschikbare weergave
   toegangsniveaus.
-- 
+-
 
 **Selecteer taal**. Selecteer uit de lijst met beschikbare talen.
 

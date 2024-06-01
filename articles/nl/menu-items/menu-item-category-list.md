@@ -7,7 +7,7 @@ die tot een speciale categorie behoren in lijstweergave.
 
 ## Hoe toegang te krijgen
 
-**Menu's **→** \[naam van het menu\]**
+**Menu's → \[naam van het menu\]**
 
 Om een menu-item aan te maken:
 
@@ -61,7 +61,7 @@ alt="Help-4x-Menus-Item-Articles-Category-List-screen-nl.png" />
 
 De categorie opties bepalen de manier waarop informatie van de categorie
 wordt weergegeven. De categorie lijst weergaven heeft de volgende opties
-zoals hieronder weergegeven.  
+zoals hieronder weergegeven.
 Merk op dat deze opties "Gebruik algemeen" bevatten. Als dit gekozen is,
 dan worden de instellingen van de [Artikelbeheer
 opties](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl")
@@ -297,7 +297,7 @@ inclusief:
   venster](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#rightpanel "Help4.x:Menu Item: New Item/nl")
 - [Linktype](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#linktype "Help4.x:Menu Item: New Item/nl")
 - [Paginaweergave](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#pagedisplay "Help4.x:Menu Item: New Item/nl")
-- [Metadata](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#metadata "Help4.x:Menu Item: New Item/nl")
+- Metadata
 - [Associaties](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#associations "Help4.x:Menu Item: New Item/nl")
 - [Moduletoewijzing](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#moduleassignment "Help4.x:Menu Item: New Item/nl")
 

@@ -12,12 +12,10 @@ Category **before** a Banner can be created.
 
 ## How to Access
 
-- Select **Components **→** Banners **→** Banners** from the
+- Select **Components → Banners → Banners** from the
   Administrator menu.
-- Or Select a numbered button in the [Banner Categories
-  Manager](https://docs.joomla.org/Help4.x:Banners:_Categories)
-  or the [Banner Clients
-  Manager](https://docs.joomla.org/Help4.x:Banners:_Clients)
+- Or Select a numbered button in the Banner Categories Manager
+  or the Banner Clients Manager
   pages.
 
 ## Screenshot
@@ -26,7 +24,7 @@ Category **before** a Banner can be created.
 src="https://docs.joomla.org/images/4/49/Help-4x-components-banner-manager-banners-en.png"
 decoding="async" data-file-width="800" data-file-height="331"
 width="800" height="331"
-alt="Help-4x-components-banner-manager-banners-en.png" />
+alt="banners list" />
 
 ## Column Headers
 
@@ -49,14 +47,14 @@ list by that column's value.
   - Select the Ordering icon <img
     src="https://docs.joomla.org/images/e/ee/Help30-Ordering-colheader-icon.png"
     decoding="async" data-file-width="12" data-file-height="23" width="12"
-    height="23" alt="Help30-Ordering-colheader-icon.png" /> in the Table
+    height="23" alt="Ordering column header icon" /> in the Table
     heading to make it the active ordering item. The ordering icons in
     each row will change from light grey to dark grey and the pointer
     will change to a drag arrow on hover.
   - Select one of the Ordering icons <img
     src="https://docs.joomla.org/images/8/87/Help30-Ordering-colheader-grab-bar-icon.png"
     decoding="async" data-file-width="10" data-file-height="21" width="10"
-    height="21" alt="Help30-Ordering-colheader-grab-bar-icon.png" /> and
+    height="21" alt="Ordering grab bar icon" /> and
     drag it up or down to change the position of that row in the list.
     The items will display in the new order within the Position.
 - **Status**. The published status of the item.
@@ -65,13 +63,13 @@ list by that column's value.
 - **Pinned**. *(Yes or No)* Whether or not the Banner is "pinned". If
   one or more Banners in a Category are designated "sticky," they will
   take priority over Banners that are not sticky.
-*For example, if two Banners in a Category are pinned and a third Banner
-is not pinned, the third Banner will not display if the Banner display
-module setting is "Pinned, Randomise" or "Pinned, Ordering." Only the
-two pinned Banners will display. If the pinned banners have a fixed
-number of impressions, once those impressions are used up, the pinned
-banners will no longer display, and the non-pinned banners will begin
-displaying automatically.*
+  For example, if two Banners in a Category are pinned and a third Banner
+  is not pinned, the third Banner will not display if the Banner display
+  module setting is *Pinned, Randomise* or *Pinned, Ordering*. Only the
+  two pinned Banners will display. If the pinned banners have a fixed
+  number of impressions, once those impressions are used up, the pinned
+  banners will no longer display, and the non-pinned banners will begin
+  displaying automatically.
 - **Client.** The Client for this Banner. Clients are entered using the
   Banner Client Manager.
 - **Impressions.** The Impression count is the number of times the
@@ -92,7 +90,7 @@ displaying automatically.*
 ## List Filters
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -109,10 +107,9 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
-**Filter Options**
+### Filter Options
 
 Near the top of the page you will see the filter bar shown in the
 Screenshot above. The functions are:
@@ -125,9 +122,11 @@ Screenshot above. The functions are:
   the site manages more than 1 language.
 - **Select Max Levels**. Select from the list of available levels.
 
-**Page Controls**. When the number of items is more than one page, you
+### Page Controls
+
+When the number of items is more than one page, you
 will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -139,7 +138,7 @@ has a dark colour background.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **New**. Opens the editing screen to create a new banner.
 - **Actions:** Reveals a list of actions for selected Items. Check one
@@ -167,25 +166,9 @@ At the top of the page you will see the toolbar shown in the
   parameters can be edited.
 - **Help**. Opens this help screen.
 
-See [Banner Manager
-Options](https://docs.joomla.org/Help4.x:Banners:_Options/en "Help4.x:Banners: Options/en")
-for more information.
+See Banner Options for more information.
 
 ## Quick Tips
 
-- You must add at least one [Banner
-  Client](https://docs.joomla.org/Help4.x:Banners:_Clients/en "Help4.x:Banners: Clients/en")
-  and [Banner
-  Category](https://docs.joomla.org/Help4.x:Banners:_Categories/en "Help4.x:Banners: Categories/en")
-  *before* you can [add a
-  Banner](https://docs.joomla.org/Help4.x:Banners:_Edit/en "Help4.x:Banners: Edit/en").
-
-## Related Information
-
-- [Banners: Edit](https://docs.joomla.org/Help4.x:Banners:_Edit) Used to add or edit banners.
-- [Banners: Options](https://docs.joomla.org/Help4.x:Banners:_Options) Global options (configuration) for Banner Clients.
-- [Banners: Categories](https://docs.joomla.org/Help4.x:Banners:_Categories) Used to view a list of existing Banner Categories, edit current and create new Banner Categories. Note that Banner Categories are separate from other Categories, such as for Articles, Contacts, News Feeds, and Web Links. There must be at least one Banner Client and Banner Category before a Banner can be created. |
-- [Banners: New or Edit Category](https://docs.joomla.org/Help4.x:Banners:_New_or_Edit_Category) | This is where you can add a new Banner Category or edit an existing one. Note that you need to create at least one Banner Category before you can create a Banner. Also, Banner Categories are separate from other types of Categories, such as those for Articles, Contacts, and News Feeds.
-- [Banners: Clients](https://docs.joomla.org/Help4.x:Banners:_Clients) The Banner Client Manager is where you can edit existing Banner Clients or create new ones. Note that you must have at least one Banner Client and one Banner Category defined before you can add your first Banner.
-- [Banners: New or Edit Client](https://docs.joomla.org/Help4.x:Banners:_New_or_Edit_Client) This is where you add a new Banner Client or edit an existing one. Note that you need to create at least one Banner Client before you can create a Banner.
-- [Banners: Tracks](https://docs.joomla.org/Help4.x:Banners:_Tracks) Used to view a list of existing Banner Tracking information.
+- You must add at least one Banner Client and Banner Category *before* you
+can add a Banner.

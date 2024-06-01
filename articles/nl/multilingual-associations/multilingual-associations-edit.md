@@ -9,7 +9,7 @@ die op uw meertalige websites worden getoond.
 
 Om een associatie aan te maken:
 
-- **Componenten **→** Meertaligheid associaties**
+- **Componenten → Meertaligheid associaties**
   1.  Selecteer **item-type**.
   2.  Selecteer **taal**.
   3.  Klik op de '**Doeltaal'** in de Niet geassocieerd kolom om een
@@ -17,7 +17,7 @@ Om een associatie aan te maken:
 
 Om een associatie te bewerken:
 
-- **Componenten **→** Meertaligheid associaties**
+- **Componenten → Meertaligheid associaties**
   1.  select **Item Type**.
   2.  select **Language**.
   3.  Klik op '**Doeltaal'** in de associatie kolom om een bestaande

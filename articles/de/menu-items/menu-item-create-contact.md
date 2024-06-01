@@ -10,8 +10,8 @@ stellen.
 
 Erstellen eines neuen Menüeintrag **Kontakt erstellen**:
 
-- **Menüs **→** \[Name des Menüs\]** im Administrator-Menü auswählen
-  (z.B.: **Menüs **→** Main Menu**). Dann ...
+- **Menüs → \[Name des Menüs\]** im Administrator-Menü auswählen
+  (z.B.: **Menüs → Main Menu**). Dann ...
   - Die Schaltfläche **+ Neu** in der Symbolleiste wählen. Dann...
   - In der Zeile: Menüeintragstyp, auf die Schaltfläche „Auswählen“
     klicken <img
@@ -73,7 +73,7 @@ alt="Help-4x-Menus-Menu-Item-Create-Contact-screen-de.png" />
   - Das Reihenfolge-Symbol <img
     src="https://docs.joomla.org/images/e/ee/Help30-Ordering-colheader-icon.png"
     decoding="async" data-file-width="12" data-file-height="23" width="12"
-    height="23" alt="Help30-Ordering-colheader-icon.png" /> in der
+    height="23" alt="Ordering column header icon" /> in der
     Tabellenüberschrift anklicken, um diese Spalte zur aktiven
     Sortierung zu machen. Die Ordnungssymbole in jeder Zeile ändern sich
     von hellgrau zu dunkelgrau, und der Mauszeiger verwandelt sich beim
@@ -81,7 +81,7 @@ alt="Help-4x-Menus-Menu-Item-Create-Contact-screen-de.png" />
   - Eines der Reihenfolge-Symbole <img
     src="https://docs.joomla.org/images/8/87/Help30-Ordering-colheader-grab-bar-icon.png"
     decoding="async" data-file-width="10" data-file-height="21" width="10"
-    height="21" alt="Help30-Ordering-colheader-grab-bar-icon.png" />
+    height="21" alt="Ordering drag icon" />
     wählen und es nach oben oder unten ziehen, um die Position dieser
     Zeile in der Liste zu ändern. Die Einträge werden in der neuen
     Reihenfolge innerhalb der Position angezeigt.
@@ -153,16 +153,16 @@ Bereich. Die Schaltflächen sind:
 | Verwandte Hilfeseiten                                                                                                                                                               | Beschreibung                                                                                                                                                                                                                                                                                                                                                                    |
 | [Kontakte: Optionen](https://docs.joomla.org/Help4.x:Contacts:_Options/de "Help4.x:Contacts: Options/de")                                                                           | Die Konfiguration der Kontakt-Optionen stellt die globalen Parameter für alle Kontakte ein.                                                                                                                                                                                                                                                                                     |
 | [Kontakte: Kategorien](https://docs.joomla.org/Help4.x:Contacts:_Categories/de "Help4.x:Contacts: Categories/de")                                                                   | In der Kontakt-Kategorien-Verwaltung werden bestehende Kontakt-Kategorien bearbeitet und neue Kategorien erstellt. Es ist zu beachten, dass Kontakt-Kategorien getrennt sind von anderen Kategorien wie die für Beiträge, Banner, Newsfeeds und Weblinks. Von hier gelangt man auch zu der [Kontakte](https://docs.joomla.org/Help4.x:Contacts/de "Help4.x:Contacts/de") Seite. |
-| <a                                                                                                                                                                                  
- href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit_Category/de&amp;action=edit&amp;redlink=1"                                                               
- class="new"                                                                                                                                                                          
- title="Help4.x:Contacts: New or Edit Category/de (page does not exist)">Kontakte:                                                                                                    
+| <a
+ href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit_Category/de&amp;action=edit&amp;redlink=1"
+ class="new"
+ title="Help4.x:Contacts: New or Edit Category/de (page does not exist)">Kontakte:
  Kategorie neu erstellen oder bearbeiten</a>                                                                                                                                          | Hier kann eine Kontaktkategorie erstellt oder eine vorhandene Kategorie bearbeitet werden. Mit den Kontaktkategorien können die Kontakte einer Website strukturiert werden. Kontakt-Kategorien sind getrennt von anderen Kategorien wie die für Beiträge, Banner, Newsfeeds usw.                                                                                                |
 | [Kontakte](https://docs.joomla.org/Help4.x:Contacts/de "Help4.x:Contacts/de")                                                                                                       | Die Kontaktverwaltung ermöglicht, Kontaktinformationen zur Joomla!-Site hinzuzufügen. Informationen wie Name, Adresse, Telefon und E-Mail. Kontakte können mit registrierten Benutzern verlinkt werden. Danach kann die [Menüverwaltung](https://docs.joomla.org/Help4.x:Menus/de "Help4.x:Menus/de") zum Erzeugen von Frontend-Links für die Kontakte verwendet werden.        |
-| <a                                                                                                                                                                                  
- href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit/de&amp;action=edit&amp;redlink=1"                                                                        
- class="new"                                                                                                                                                                          
- title="Help4.x:Contacts: New or Edit/de (page does not exist)">Kontakte:                                                                                                             
+| <a
+ href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit/de&amp;action=edit&amp;redlink=1"
+ class="new"
+ title="Help4.x:Contacts: New or Edit/de (page does not exist)">Kontakte:
  neu erstellen oder bearbeiten</a>                                                                                                                                                    | Hier werden neue Kontakte erstellt oder bestehende Kontakte bearbeitet. Kontakte listen Leute auf der Website auf. Sie ermöglichen Benutzern, E-Mails an die Leute zu senden.                                                                                                                                                                                                   |
 | [Menüeintrag: Kontakte in einer Kategorie auflisten](https://docs.joomla.org/Help4.x:Menu_Item:_List_Contacts_in_a_Category/de "Help4.x:Menu Item: List Contacts in a Category/de") | Zeigt Kontakte einer Kategorie in einem Listen-Layout. Mit den Einstellungen: Kontakt-Details, Kontakt-Formular, Anzeigeoptionen (Slider, Tab, Vollständig) und E-Mail-Betreff und -Nachrichten-Filter.                                                                                                                                                                         |
 | [Menüeintrag: Hauptkontakte](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Contacts/de "Help4.x:Menu Item: Featured Contacts/de")                                             | Diese Ansicht listet die Hauptkontakte auf.                                                                                                                                                                                                                                                                                                                                     |

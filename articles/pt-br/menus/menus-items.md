@@ -10,9 +10,9 @@ dos menus* se essa lista estiver selecionada.
 
 ## Como acessar
 
-- Selecione **Menus **→** Todos os itens dos menus** no menu
+- Selecione **Menus → Todos os itens dos menus** no menu
   administrativo. Ou...
-- Selecione **Menus **→** \[*Nome do menu*\]** no menu administrativo
+- Selecione **Menus → \[*Nome do menu*\]** no menu administrativo
   para selecionar itens para um menu específico.
 
 ## Captura da tela
@@ -74,7 +74,7 @@ captura de tela acima. As funções são:
   publicado / arquivado / todos.
 - **Selecionar acesso**. Seleciona na lista de níveis de acesso de
   visualização disponíveis.
-- 
+-
 
 **Selecionar linguagem**: Seleciona na lista de linguagens disponíveis.
 

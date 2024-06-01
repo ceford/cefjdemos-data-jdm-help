@@ -17,7 +17,7 @@ feature to replace the original.
 
 ## How to Access
 
-- Select **System **→** Manage Panel **→** Language Overrides**. Then...
+- Select **System → Manage Panel → Language Overrides**. Then...
   - Select a **Language and Client** from the drop down list. Then...
     - Select the **New** button in the Toolbar to create a new override.
       Or...
@@ -31,7 +31,7 @@ src="https://docs.joomla.org/images/thumb/0/01/Help-4x-Extensions-Language-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/0/01/Help-4x-Extensions-Language-Manager-Overrides-Edit-screen-en.png 1.5x"
 data-file-width="1151" data-file-height="927" width="800" height="644"
-alt="Help-4x-Extensions-Language-Manager-Overrides-Edit-screen-en.png" />
+alt="Language Edit Override screen" />
 
 ## Form Fields
 

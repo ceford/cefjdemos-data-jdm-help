@@ -1,4 +1,4 @@
-<!-- Filename: Help4.x:Users:_Edit_Profile / Display title: Users: Edit Profile -->
+<!-- Filename: Help4.x:Users:_Edit_Profile / Display title: Users: New or Edit -->
 
 ## Description
 
@@ -9,20 +9,20 @@ user.
 
 To edit an existing user:
 
-- Select **Users **→** Manage** from the Administrator menu. Then...
+- Select **Users → Manage** from the Administrator menu. Then...
   - Search for the required user and select the name link in the
     **Name** column.
 
 To create a new user:
 
-- Select **Users **→** Manage** from the Administrator menu. Then...
+- Select **Users → Manage** from the Administrator menu. Then...
   - Select the **New** button in the Toolbar.
-- Or... Select **Users **→** Manage **→** Plus icon** from the
+- Or... Select **Users → Manage → Plus icon** from the
   Administrator menu.
-- Or... Select **Users **→** Dashboard icon** from the Administrator
+- Or... Select **Users → Dashboard icon** from the Administrator
   menu. Then...
   - Select the **Plus** icon from the Users panel.
-- Or... Select **Home Dashboard **→** Site Panel **→** Users Plus icon**
+- Or... Select **Home Dashboard → Site Panel → Users Plus icon**
   starting from the Administrator menu.
 
 ## Screenshot
@@ -31,7 +31,7 @@ To create a new user:
 src="https://docs.joomla.org/images/7/7a/Help-4x-users-user-manager-add-new-user-en.png"
 decoding="async" data-file-width="800" data-file-height="646"
 width="800" height="646"
-alt="Help-4x-users-user-manager-add-new-user-en.png" />
+alt="new user edit screen" />
 
 ## Form Fields
 
@@ -63,7 +63,7 @@ alt="Help-4x-users-user-manager-add-new-user-en.png" />
 src="https://docs.joomla.org/images/1/14/Help-4x-users-user-manager-add-new-user-assigned-user-groups-en.png"
 decoding="async" data-file-width="600" data-file-height="454"
 width="600" height="454"
-alt="Help-4x-users-user-manager-add-new-user-assigned-user-groups-en.png" />
+alt="add new user assigned user groups tab" />
 
 ### Basic Settings
 
@@ -71,7 +71,7 @@ alt="Help-4x-users-user-manager-add-new-user-assigned-user-groups-en.png" />
 src="https://docs.joomla.org/images/c/c3/Help-4x-users-user-manager-add-new-user-basic-settings-en.png"
 decoding="async" data-file-width="600" data-file-height="275"
 width="600" height="275"
-alt="Help-4x-users-user-manager-add-new-user-basic-settings-en.png" />
+alt="add new user basic settings tab" />
 
 - **Backend Template Style**. (*Use Default*/*Hathor - Default*/*isis -
   Default*) Select the template style for the Administrator Backend
@@ -93,7 +93,7 @@ alt="Help-4x-users-user-manager-add-new-user-basic-settings-en.png" />
 src="https://docs.joomla.org/images/3/33/Help-4x-users-user-manager-super-user-accessibility-settings-en.png"
 decoding="async" data-file-width="600" data-file-height="192"
 width="600" height="192"
-alt="Help-4x-users-user-manager-super-user-accessibility-settings-en.png" />
+alt="add new user accessibility settings tab" />
 
 - **Monochrome**. Yes/No
 - **High Contrast**. Yes/No
@@ -106,7 +106,7 @@ alt="Help-4x-users-user-manager-super-user-accessibility-settings-en.png" />
 src="https://docs.joomla.org/images/1/15/Help-4x-users-user-manager-super-user-actionslog-settings-en.png"
 decoding="async" data-file-width="600" data-file-height="220"
 width="600" height="220"
-alt="Help-4x-users-user-manager-super-user-actionslog-settings-en.png" />
+alt="super user actions log settings tab" />
 
 - **Send notifications for User Actions Log**. (*Yes/No*) If set to yes,
   the User will receive user actions log notification by email
@@ -178,7 +178,7 @@ decide not to proceed.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Save**. Saves the item and stays in the current screen.
 - **Save & Close**. Saves the item and closes the current screen.
@@ -201,11 +201,3 @@ At the top of the page you will see the toolbar shown in the
 - If you did not fill in a particular language, editor, help site and/or
   time zone, the default settings from the Global Configuration,
   Language Manager and/or Template Manager are set.
-
-## Related information
-
-- [Users](https://docs.joomla.org/Help4.x:Users/en "Help4.x:Users/en")
-- [Users:
-  Groups](https://docs.joomla.org/Help4.x:Users:_Groups/en "Help4.x:Users: Groups/en")
-- [ACL Tutorial for Joomla!
-  3.x](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/en "J3.x:Access Control List Tutorial/en")

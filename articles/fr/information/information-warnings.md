@@ -9,7 +9,7 @@ ou des échecs de dépendance peuvent apparaître ici.
 
 ## Comment y accéder
 
-- Sélectionnez **Système **→** Tableau de bord **→** Avertissements**
+- Sélectionnez **Système → Tableau de bord → Avertissements**
   dans le menu Administrateur.
 
 ## Capture d'écran
@@ -23,7 +23,7 @@ alt="Help4x-Extensions-Extension-Manager-Warnings-screen-en.png" />
 ## Barre d'outils
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Options.** Opens the Options window where settings such as default
   parameters can be edited.

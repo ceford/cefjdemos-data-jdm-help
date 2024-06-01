@@ -7,9 +7,9 @@ templates which are installed in your Joomla! site.
 
 ## How to access
 
-- Select **System **→** Templates Panel **→** Site Templates** from the
+- Select **System → Templates Panel → Site Templates** from the
   Administrator menu. Or...
-- Select **System **→** Templates Panel **→** Administrator Templates**
+- Select **System → Templates Panel → Administrator Templates**
   from the Administrator menu.
 
 ## Screenshot
@@ -21,7 +21,7 @@ Site Template screen is illustrated here.
 src="https://docs.joomla.org/images/c/c6/Help-4x-Extensions-Template-Manager-Templates-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="298"
 width="800" height="298"
-alt="Help-4x-Extensions-Template-Manager-Templates-screen-en.png" />
+alt="Templates screen" />
 
 ## Column Headers
 
@@ -43,8 +43,10 @@ Click on the column heading to sort the list by that column's value.
 - **Site or Administrator.** Whether the template is a for Site or
   Administrator use.
 
-**Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+### Search bar
+
+Near the top of the page you will see the search bar
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -61,19 +63,13 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Options.** Opens the Options window where settings such as default
   parameters can be edited.
 - **Help**. Opens this help screen.
-
-## Related Information
-
-- To edit templates styles: [Template Manager:
-  Styles](https://docs.joomla.org/Help4.x:Templates:_Styles/en "Help4.x:Templates: Styles/en")

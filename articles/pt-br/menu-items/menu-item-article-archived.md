@@ -15,7 +15,7 @@ arquivados.
 
 ## Como acessar
 
-**Menus **→** \[nome do menu\]**
+**Menus → \[nome do menu\]**
 
 Para adicionar um item dos menus:
 
@@ -66,8 +66,7 @@ title="File:Help-4x-Menus-Item-Articles-Article-Archived-screen-pt-br.png">800px
 ### Archive
 
 Options include "Use Global". If this is selected, the setting from the
-[Articles:
-Options](https://docs.joomla.org/Help4.x:Articles:_Options/en "Help4.x:Articles: Options/en")
+Articles: Options
 will be used.
 
 
@@ -99,7 +98,7 @@ alt="Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-en.png" />
     most hits.
   - Ordering: Articles are ordered according to the Order column entered
     in
-    [Articles](https://docs.joomla.org/Help4.x:Articles/en#ordering "Help4.x:Articles/en").
+    Articles.
 - **Date for Ordering**. The date used when articles are sorted by date.
   - Created: Use the article created date.
   - Modified: Use the article modified date.
@@ -131,8 +130,7 @@ alt="Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-en.png" />
   - Hide: Only the part of the article after the Read More break will
     show.
 - **Position of Article Info**.
-  - Use Article Settings: Use the value from [Articles:
-    Edit](https://docs.joomla.org/Help4.x:Articles:_Edit/en "Help4.x:Articles: Edit/en").This
+  - Use Article Settings: Use the value from Articles: Edit.This
     setting allows you to have different options for different articles
     in the List layout.
   - Above: Puts the article information block above the text.
@@ -146,14 +144,12 @@ alt="Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-en.png" />
 
 - **Category**. Show the Article's Category Title.
 - **Link Category**. Show the title as a link to that Category.Note: You
-  can set this to be either a blog or list layout with the [Choose a
-  Layout](https://docs.joomla.org/Help4.x:Articles:_Options/en#choosealayout "Help4.x:Articles: Options/en")
+  can set this to be either a blog or list layout with the Choose a Layout
   option in the Category Tab.
 - **Parent Category**. Show the Article's Parent Category Title.
 - **Link Parent Category**. Show the title as a link to that
   Category.Note: You can set this to be either a blog or list layout
-  with the [Choose a
-  Layout](https://docs.joomla.org/Help4.x:Articles:_Options/en#choosealayout "Help4.x:Articles: Options/en")
+  with the Choose a Layout
   option in the Category Tab.
 - **Linked Titles**. Show the title as a link to the article.
 
@@ -162,9 +158,8 @@ alt="Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-en.png" />
 - **Author**. Show the author of the Article.
 - **Link to Author's Contact Page**. Show it as a link to a Contact
   layout for that author.Note: The author must be set up as a
-  [Contact](https://docs.joomla.org/Help4.x:Contacts:_Edit/en "Help4.x:Contacts: Edit/en").
-  Also, a link will not show if there is an [Author
-  Alias](https://docs.joomla.org/Help4.x:Articles:_Edit/en#createdbyalias "Help4.x:Articles: Edit/en")
+  Contact.
+  Also, a link will not show if there is an Author Alias
   value for the article.
 
 **Date**
@@ -195,9 +190,3 @@ alt="Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-en.png" />
 - If you want to be able to see old articles in a category blog or list,
   create a category for older articles and move them to this category
   (instead of changing the Published state to Archived).
-
-## Related Information
-
-- This
-  [Portal](https://docs.joomla.org/Portal:Joomla_4/en "Portal:Joomla 4/en")
-  brings together information related specifically to Joomla 4.

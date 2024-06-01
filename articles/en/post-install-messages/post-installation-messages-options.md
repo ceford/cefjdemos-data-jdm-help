@@ -17,7 +17,7 @@ used globally for all post-installation messages.
 src="https://docs.joomla.org/images/2/2f/Help-4x-configuration-post-installation-messages-configuration-en.png"
 decoding="async" data-file-width="800" data-file-height="496"
 width="800" height="496"
-alt="Help-4x-configuration-post-installation-messages-configuration-en.png" />
+alt="post installation messages configuration screen" />
 
 ## Form Fields
 
@@ -43,8 +43,3 @@ above. The functions are:
 - **Close**. Closes the current screen and returns to the previous
   screen without saving any modifications you may have made.
 - **Help**. Opens this help screen.
-
-## Related Information
-
-See [Post-installation Messages for Joomla
-CMS](https://docs.joomla.org/Help4.x:Post-installation_Messages_for_Joomla_CMS/en "Help4.x:Post-installation Messages for Joomla CMS/en")

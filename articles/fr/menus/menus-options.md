@@ -7,7 +7,7 @@ such as, Title, CSS Class and Permissions.
 
 ## How to Access
 
-- Select **Menus **→** Manage** in the Administrator menu. Then...
+- Select **Menus → Manage** in the Administrator menu. Then...
   - Select the **Options** button in the Toolbar.
 
 ## Screenshot
@@ -70,7 +70,7 @@ To change the permissions for this extension, do the following.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Save**. Saves the item and stays in the current screen.
 - **Save & Close**. Saves the item and closes the current screen.
@@ -82,12 +82,3 @@ At the top of the page you will see the toolbar shown in the
 ## Quick Tips
 
 - Remember, these choices are applied globally.
-
-## Related Information
-
-- To add new Menus: [Menu Manager
-  New/Edit](https://docs.joomla.org/Help4.x:Menus:_Edit/en "Help4.x:Menus: Edit/en")
-- To add or edit Menu Items: [Menu Item
-  Manager](https://docs.joomla.org/Help4.x:Menus:_Items/en "Help4.x:Menus: Items/en")
-- To add or edit Menu Modules: [Module
-  Manager](https://docs.joomla.org/Help4.x:Extensions_Module_Manager_Edit/en "Help4.x:Extensions Module Manager Edit/en")

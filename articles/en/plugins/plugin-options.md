@@ -7,9 +7,9 @@ for Plugins.
 
 ## How to Access
 
-- Select **System **→** Plugins (in the Manage panel)** from the
-  Administrator menu. Then...
-  - Select the **Options** button on the Toolbar.
+- Select **System → Manage panel →  Plugins** from the Administrator menu. Or...
+- Select **Site panel → Plugins** from the Home Dashboard. Then...
+  - Select the **Options** button in the Toolbar.
 
 ## Screenshot
 
@@ -17,7 +17,7 @@ for Plugins.
 src="https://docs.joomla.org/images/9/90/Help-4x-Components-Plugins-Options-en.png"
 decoding="async" data-file-width="800" data-file-height="473"
 width="800" height="473"
-alt="Help-4x-Components-Plugins-Options-en.png" />
+alt="Plugins Options permissions" />
 
 ## Form Fields
 

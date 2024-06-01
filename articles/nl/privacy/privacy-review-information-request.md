@@ -18,7 +18,7 @@ bekijken.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Gebruikers **→** Privacy **→** Verzoeken** in het
+- Selecteer **Gebruikers → Privacy → Verzoeken** in het
   beheermenu. Dan...
   - Selecteer het e-mailadres van het verzoek dat u wilt beoordelen door
     het te openen.

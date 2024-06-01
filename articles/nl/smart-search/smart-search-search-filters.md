@@ -10,7 +10,7 @@ alleen die auteur.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Componenten **→** Slim zoeken **→** Filters** in het
+- Selecteer **Componenten → Slim zoeken → Filters** in het
   beheermenu.
 
 ## Schermafbeelding
@@ -58,7 +58,7 @@ alt="Help38-Components-Smart-Search-Search-Filters-columns-nl.png" />
 ## Lijst filters
 
 **Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande [Screenshot](#screenshot).
+bovenstaande Screenshot.
 
 - **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
   zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat

@@ -10,7 +10,7 @@ linguagens instaladas do site.
 
 ## Como acessar
 
-- **Componentes **→** Associações multilíngues**
+- **Componentes → Associações multilíngues**
   1.  selecione o **tipo do item**.
   2.  selecione a **linguagem**.
 

@@ -11,11 +11,11 @@ alt="Copyedit.png" />This Page Needs Your Help
 Joomla! Documentation Wiki by <a
 href="https://docs.joomla.org//docs.joomla.org/index.php?title=Help4.x:Languages:_Edit_Content_Language/nl&amp;action=edit"
 class="external text" target="_blank"
-rel="noreferrer noopener">contributing to it</a>.  
+rel="noreferrer noopener">contributing to it</a>.
 <span class="small">More pages that need help similar to this one are
 [here](https://docs.joomla.org/Category:Needs_completion "Category:Needs completion").</span>
 <span class="small">**NOTE-If you feel the need is satistified, please
-remove this notice.**</span>*  
+remove this notice.**</span>*
 **Reason:** The section "Options Tab" needs more information
 
 ## Beschrijving
@@ -27,7 +27,7 @@ toevoegen.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Systeem **→** Beheren venster **→** Inhoudstalen** vanuit
+- Selecteer **Systeem → Beheren venster → Inhoudstalen** vanuit
   het beheermenu. Dan...
   - Selecteer de taalnaam link vanuit de **Titel** kolom.
 

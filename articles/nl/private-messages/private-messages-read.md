@@ -7,7 +7,7 @@ beantwoorden.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Gebruikers **→** Berichten **→** Privéberichten** vanuit
+- Selecteer **Gebruikers → Berichten → Privéberichten** vanuit
   het beheermenu.
 - Of selecteer de icoon in de titelbalk van de beheerpagina's.
 

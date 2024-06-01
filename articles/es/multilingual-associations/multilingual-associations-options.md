@@ -7,7 +7,7 @@ Associations Component.
 
 ## Cómo Acceder
 
-- **Componentes **→** Asociaciones multiidioma**
+- **Componentes → Asociaciones multiidioma**
   - Clic el botón **Opciones** en la Barra de Herramientas.
 
 ## Captura de pantalla
@@ -35,8 +35,7 @@ To change the permissions for associations, do the following.
     - **Acceso a la interfaz de administración**. Los usuarios pueden
       tener acceso a la interfaz de administración de usuarios.
 3.  Select the desired permission for the action you wish to change.
-    - **Inherited**. Inherited for users in this Group from the [Global
-      Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#permissions "Help4.x:Site Global Configuration/en")
+    - **Inherited**. Inherited for users in this Group from the Global Configuration
       permissions.
     - **Allowed**. Allowed for users in this Group.Note: If this action
       is Denied at one of the higher levels, the Allowed permission here
@@ -49,7 +48,7 @@ To change the permissions for associations, do the following.
 ## Barra de herramientas
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Save**. Saves the association and stays in the current screen.
 - **Guardar y cerrar**. Guarda el associaciones y se cierra la pantalla

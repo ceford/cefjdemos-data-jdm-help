@@ -6,7 +6,7 @@ Contact Options used globally for all contacts.
 
 ## How to Access
 
-- Select **Components **→** Contacts** from the Administrator menu.
+- Select **Components → Contacts** from the Administrator menu.
   Then...
   - Select the **Options** button in the Toolbar. The Options button is
     available on Contacts and Categories.
@@ -17,7 +17,7 @@ Contact Options used globally for all contacts.
 src="https://docs.joomla.org/images/a/ab/Help-4x-Components-Contacts-Contacts-options1-en.png"
 decoding="async" data-file-width="800" data-file-height="1109"
 width="800" height="1109"
-alt="Help-4x-Components-Contacts-Contacts-options1-en.png" />
+alt="Contacts options edit form contact tab" />
 
 ## Form Fields
 
@@ -39,8 +39,7 @@ specific menu item or Contact
   0, then versions will never be deleted automatically. Also, specific
   versions may be flagged as "Keep Forever" and will not be deleted
   automatically. Note that versions may be deleted manually using the
-  Delete button in the [Version
-  History](https://docs.joomla.org/Help4.x:Components_Version_History/en "Help4.x:Components Version History/en")
+  Delete button in the Version History
   screen.
 - **Show Contact List.** If 'Show', the user will be able to change
   which contact is shown by selecting a contact from a drop-down list of
@@ -90,7 +89,7 @@ specific menu item or Contact
 src="https://docs.joomla.org/images/c/c8/Help-4x-Component-Contact-Manager-Options-icons-options-subscreen-en.png"
 decoding="async" data-file-width="600" data-file-height="579"
 width="800" height="772"
-alt="Help-4x-Component-Contact-Manager-Options-icons-options-subscreen-en.png" />
+alt="Contacts options edit form icons tab" />
 
 These settings apply for single Contact unless they are changed for a
 specific menu item or Contact
@@ -119,7 +118,7 @@ Category to view its contacts.
 src="https://docs.joomla.org/images/b/b9/Help-4x-Component-Contact-Manager-Options-category-options-subscreen-en.png"
 decoding="async" data-file-width="600" data-file-height="444"
 width="800" height="592"
-alt="Help-4x-Component-Contact-Manager-Options-category-options-subscreen-en.png" />
+alt="Contacts options edit form category tab" />
 
 - **Choose a Layout.** (Blog/List/user defined). This lets you select
   the default layout to show when you click on a Category link. If you
@@ -150,7 +149,7 @@ changed for a specific menu item.
 src="https://docs.joomla.org/images/7/70/Help-4x-Component-Contact-Manager-Options-categories-options-subscreen-en.png"
 decoding="async" data-file-width="600" data-file-height="300"
 width="800" height="400"
-alt="Help-4x-Component-Contact-Manager-Options-categories-options-subscreen-en.png" />
+alt="Contacts options edit form categories tab" />
 
 - **Top Level Category Description.** (Show/Hide). Hide or Show the
   description of the top-level category.
@@ -172,52 +171,28 @@ for a specific menu item.
 src="https://docs.joomla.org/images/1/13/Help-4x-Component-Contact-Manager-Options-list-options-subscreen-en.png"
 decoding="async" data-file-width="600" data-file-height="659"
 width="800" height="879"
-alt="Help-4x-Component-Contact-Manager-Options-list-options-subscreen-en.png" />
+alt="Contacts options edit form list layouts tab" />
 
 - **Filter Field.** The Filter Field creates a text field where a user
   can enter a field to be used to filter the articles shown in the list.
-  An example of how this looks in the front-end layout is shown below.
-
-<img
-src="https://docs.joomla.org/images/0/0b/Help-4x-article-category-list-filter-field-en.png"
-decoding="async" data-file-width="175" data-file-height="32" width="175"
-height="32" alt="Help30-article-category-list-filter-field-en.png" />
-
-The possible options for this (in the back-end menu item edit) are shown
-below.
-
-- *Hide:* Don't show a filter field.
-- *Title:* Filter on article title.
-- *Author:* Filter on the author's name.
-- *Hits:* Filter on the number of article hits.
+    The possible options for this (in the back-end menu item edit) are shown
+    below.
+    - *Hide:* Don't show a filter field.
+    - *Title:* Filter on article title.
+    - *Author:* Filter on the author's name.
+    - *Hits:* Filter on the number of article hits.
 - **Display Select.** (Show/Hide) Whether to hide or show the Display \#
   control that allows the user to select the number of items to show in
   the list. An example is shown below.
-
-<img
-src="https://docs.joomla.org/images/4/46/Help-4x-article-category-list-display-select-en.png"
-decoding="async" data-file-width="200" data-file-height="133"
-width="200" height="133"
-alt="Help-4x-article-category-list-display-select-en.png" />
-
-If there are more items than this number, you can use the page
-navigation buttons (Start, Prev, Next, End, and page numbers) to
-navigate between pages. Note that if you have a large number of items,
-it may be helpful to use the Filter options, located above the column
-headings, to limit which items display.
-
+    If there are more items than this number, you can use the page
+    navigation buttons (Start, Prev, Next, End, and page numbers) to
+    navigate between pages. Note that if you have a large number of items,
+    it may be helpful to use the Filter options, located above the column
+    headings, to limit which items display.
 - **Table Headings.** (Show/Hide) Table Headings show a heading above
-  the article list, as shown below.
-
-<img
-src="https://docs.joomla.org/images/0/06/Help-4x-chunk-article-category-list-table-headings-en.png"
-decoding="async" data-file-width="600" data-file-height="57" width="600"
-height="57"
-alt="Help-4x-chunk-article-category-list-table-headings-en.png" />
-
-If set to *Show*, this heading will show about the list. Otherwise the
-list will show with no headings.
-
+  the article list.
+    If set to *Show*, this heading will show about the list. Otherwise the
+    list will show with no headings.
 - **Image.** Show or Hide an Image column in the list of Contacts.
 - **Position.** Show or Hide a Position column in the list of Contacts.
 - **Email.** Show or Hide an Email column in the list of Contacts.
@@ -232,19 +207,12 @@ list will show with no headings.
 - **Pagination.** Hide or Show Pagination support. Pagination provides
   page links at the bottom of the page that allow the User to navigate
   to additional pages. These are needed if the listed items will not fit
-  on one page. An example is shown below.
-
-<img src="https://docs.joomla.org/images/8/81/Help30-pagination-en.png"
-decoding="async" data-file-width="299" data-file-height="29" width="299"
-height="29" alt="Help30-pagination-en.png" />
-
-The following options are available.
-
-- *Use Global:* Use the default value from the component options screen.
-- *Auto:* Pagination links shown if needed.
-- *Show:* Pagination links shown if needed.
-- *Hide:* Pagination links not shown. Note: In this case, Users will not
-  be able to navigate to additional pages.
+  on one page. The following options are available.
+    - *Use Global:* Use the default value from the component options screen.
+    - *Auto:* Pagination links shown if needed.
+    - *Show:* Pagination links shown if needed.
+    - *Hide:* Pagination links not shown. Note: In this case, Users will not
+      be able to navigate to additional pages.
 - **Pagination Results.** Hide or Show the current page number and total
   pages (e.g., "Page 1 of 2") at the bottom of each page. Use Global
   will use the default value from the component options.
@@ -259,7 +227,7 @@ specific menu item or Contact.
 src="https://docs.joomla.org/images/e/ed/Help-4x-Component-Contact-Manager-Options-form-options-subscreen-en.png"
 decoding="async" data-file-width="600" data-file-height="586"
 width="800" height="781"
-alt="Help-4x-Component-Contact-Manager-Options-form-options-subscreen-en.png" />
+alt="Contacts options edit form form tab" />
 
 - **Allow Captcha on Contact.** Use Default or None Selected. Select the
   captcha plugin that will be used in the contact form. Captcha is the
@@ -291,7 +259,7 @@ other extensions.
 src="https://docs.joomla.org/images/5/56/Help-4x-Component-Contact-Manager-Options-integration-options-subscreen-en.png"
 decoding="async" data-file-width="600" data-file-height="359"
 width="800" height="479"
-alt="Help-4x-Component-Contact-Manager-Options-integration-options-subscreen-en.png" />
+alt="Contacts options edit form integration tab" />
 
 - **Show Feed Links.** (Show or Hide) Show or hide the feed links URLs.
   A feed link will show up as a feed icon in the address bar of most
@@ -310,7 +278,7 @@ follows.
 src="https://docs.joomla.org/images/e/e2/Help-4x-Component-Contact-Manager-Options-permissions-options-subscreen-en.png"
 decoding="async" data-file-width="600" data-file-height="651"
 width="800" height="868"
-alt="Help-4x-Component-Contact-Manager-Options-permissions-options-subscreen-en.png" />
+alt="Contacts options edit form permissions tab" />
 
 To change the permissions for this extension, do the following.
 
@@ -362,10 +330,3 @@ above. The functions are:
   you will be able to accept the default values for most options.
 - All values set here can be overridden at the menu item, category, or
   contact level.
-
-## Related Information
-
-- To create and edit contacts and contact categories: [Contact
-  Manager](https://docs.joomla.org/Help4.x:Contacts/en "Help4.x:Contacts/en")
-- For more information about Joomla's ACL system: [Joomla 3 ACL
-  Tutorial](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/en "J3.x:Access Control List Tutorial/en")

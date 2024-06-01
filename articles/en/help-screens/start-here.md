@@ -45,5 +45,3 @@ Then let this guide relieve some of that pain.
 - [Developers](https://docs.joomla.org/Special:MyLanguage/Portal:Developers/en)
 - [Evaluators](https://docs.joomla.org/Special:MyLanguage/Evaluators/en)
 - [more user profiles...](https://docs.joomla.org/Special:MyLanguage/Start_here/en)
-
-Source of this article: https://docs.joomla.org/Help5.x:Start_Here

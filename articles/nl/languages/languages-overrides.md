@@ -18,7 +18,7 @@ functie gebruiken om het origineel te vervangen.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Systeem **→** Beheren venster **→** Taal overrides**
+- Selecteer **Systeem → Beheren venster → Taal overrides**
 
 ## Schermafbeelding
 
@@ -57,7 +57,7 @@ Klik op de kolomkop om de lijst volgens deze kolom te sorteren.
   geïnstalleerde talen voor de website en het beheergedeelte.
 
 **Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande [Screenshot](#screenshot).
+bovenstaande Screenshot.
 
 - **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
   zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat

@@ -36,7 +36,7 @@ volgende stappen te volgen:
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Systeem **→** Installeren venster **→** Ontdekken** vanuit
+- Selecteer **Systeem → Installeren venster → Ontdekken** vanuit
   het beheermenu.
 
 ## Schermafbeelding
@@ -79,7 +79,7 @@ alt="Help-4x-Extensions-Extension-Manager-Discover-screen-nl.png" />
 ## Lijst filters
 
 **Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande [Screenshot](#screenshot).
+bovenstaande Screenshot.
 
 - **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
   zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat
@@ -115,7 +115,7 @@ de extensies die overeenkomen met uw filterparameters.
 
 **Paginabesturing** Als het aantal items meer is dan een pagina, zie je
 een paginabesturing bij de onderkant van de pagina zoals in bovenstaande
-[Screenshot](#screenshot). Het huidige paginanummer heeft een donkere
+Screenshot. Het huidige paginanummer heeft een donkere
 achtergrond.
 
 - **Begin**. Klik om naar de eerste pagina te gaan.

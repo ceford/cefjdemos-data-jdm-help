@@ -13,7 +13,7 @@ disclose personal information by mistake!
 
 ## How to Access
 
-- Select **Components **→** Contacts **→** Contacts** in the
+- Select **Components → Contacts → Contacts** in the
   Administrator menu. Then...
 - To **Add** a new Contact:
   - Select the **New** button in the Toolbar.
@@ -26,7 +26,7 @@ disclose personal information by mistake!
 src="https://docs.joomla.org/images/b/b1/Help-4x-Components-Contacts-Contacts-Edit-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="877"
 width="800" height="877"
-alt="Help-4x-Components-Contacts-Contacts-Edit-screen-en.png" />
+alt="Contacts Edit form" />
 
 ## Form Fields
 
@@ -37,10 +37,9 @@ settings such as what information gets displayed for each Contact.
 - **Name.** The full name of the Contact.
 - **Alias**. The internal name of the item. Normally, you can leave this
   blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces. [Learn
-  more.](https://docs.joomla.org/Alias "Special:MyLanguage/Alias")
+  with dashes instead of spaces.
 
-### Edit Contact
+### Edit Contact tab
 
 Here you enter the basic information about the contact.
 
@@ -50,14 +49,11 @@ Here you enter the basic information about the contact.
   linked to a User, select "-No User-".
 - **Image.** Image to display for this Contact. Select an image file
   from the drop-down list box. This lists images in the 'images/stories'
-  folder. Images can be uploaded using the [Media
-  Manager](https://docs.joomla.org/Help4.x:Media/en "Help4.x:Media/en").
+  folder. Images can be uploaded using the Media component.
 - **Position:** The Contact's current position.
 - **E-mail.** The Contact's e-mail address. Note that e-mail addresses
   in Joomla! can be protected from "spambots" by enabling "Content-Email
-  Cloaking" in the [Plug-in
-  Manager](https://docs.joomla.org/Help4.x:Plugins/en "Help4.x:Plugins/en").
-  This is enabled by default.
+  Cloaking" Plugin. This is enabled by default.
 - **Address.** The Contact's street address.
 - **City or Suburb.** The Contact's town or suburb.
 - **State or Province.** The Contact's state or county.
@@ -68,7 +64,7 @@ Here you enter the basic information about the contact.
 - **Fax.** The Contact's fax number.
 - **Website.** The Contact's web site address.
 - **Sort Fields.** To enable sort fields for Category lists go to the
-  **Contacts **→** Options** screen and set **List Layouts **→** Sort
+  **Contacts → Options** screen and set **List Layouts → Sort
   By** to **Sort Name**. Then you need to use real words for sorting.
   For example, set First Sort Field to **Doe**, second field to **John**
   for the first contact; then First Sort Field to **Doe**, second field
@@ -87,9 +83,7 @@ Here you enter the basic information about the contact.
 - **Category.** The Category this item belongs to.
 - **Featured.** Whether or not the item will be displayed in featured
   view.
-- **Access**. The [viewing Access
-  Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels "Special:MyLanguage/Help4.x:Users: Viewing Access Levels")
-  for this item.
+- **Access**. The viewing Access  Level   for this item.
 - **Language**. Item language.
 - **Tags**. Enter one or more optional tags for this item. You can
   select existing tags by entering in the first few letters. You may
@@ -97,29 +91,28 @@ Here you enter the basic information about the contact.
   lists of related items across content types (for example, articles,
   contacts, and categories).
 - **Version Note**. Optional field to identify this version of the item
-  in the item's [Version
-  History](https://docs.joomla.org/Help40:Components_Version_History "Special:MyLanguage/Help40:Components Version History")
+  in the item's Version History
   window.
 
-### Miscellaneous Information
+### Miscellaneous Information tab
 
 <img
 src="https://docs.joomla.org/images/thumb/9/90/Help-4x-Components-Contacts-Contacts-Edit-Miscellaneous-Information-Tab-en.png/600px-Help-4x-Components-Contacts-Contacts-Edit-Miscellaneous-Information-Tab-en.png"
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/9/90/Help-4x-Components-Contacts-Contacts-Edit-Miscellaneous-Information-Tab-en.png/900px-Help-4x-Components-Contacts-Contacts-Edit-Miscellaneous-Information-Tab-en.png 1.5x, https://docs.joomla.org/images/9/90/Help-4x-Components-Contacts-Contacts-Edit-Miscellaneous-Information-Tab-en.png 2x"
 data-file-width="1088" data-file-height="623" width="600" height="344"
-alt="Help-4x-Components-Contacts-Contacts-Edit-Miscellaneous-Information-Tab-en.png" />
+alt="Miscellaneous Information Tab-en" />
 
 Other information about this Contact can be entered using the editor.
 
-### Display
+### Display tab
 
 <img
 src="https://docs.joomla.org/images/thumb/2/21/Help-4x-Components-Contacts-Contacts-Edit-Display-Options-Tab-en.png/600px-Help-4x-Components-Contacts-Contacts-Edit-Display-Options-Tab-en.png"
 decoding="async"
 srcset="https://docs.joomla.org/images/2/21/Help-4x-Components-Contacts-Contacts-Edit-Display-Options-Tab-en.png 1.5x"
 data-file-width="800" data-file-height="604" width="600" height="453"
-alt="Help-4x-Components-Contacts-Contacts-Edit-Display-Options-Tab-en.png" />
+alt="Display Tab" />
 
 - **Show Category.** Show or hide the Contact's category.
 - **Show Contact List.** Show or hide the Contact list.
@@ -152,13 +145,13 @@ alt="Help-4x-Components-Contacts-Contacts-Edit-Display-Options-Tab-en.png" />
 - **Layout.** Use a different layout from the supplied component view or
   overrides in the templates.
 
-### Form
+### Form tab
 
 <img
 src="https://docs.joomla.org/images/f/f2/Help-4x-Components-Contacts-Contacts-Edit-Form-Options-Tab-en.png"
 decoding="async" data-file-width="600" data-file-height="297"
 width="600" height="297"
-alt="Help-4x-Components-Contacts-Contacts-Edit-Form-Options-Tab-en.png" />
+alt="Form Tab" />
 
 - **Contact Form.** Hide or Show the E-mail form. If Show is selected, a
   form is displayed that allows the user to send an e-mail to the
@@ -173,14 +166,14 @@ alt="Help-4x-Components-Contacts-Contacts-Edit-Form-Options-Tab-en.png" />
 - **Contact Redirect.** Enter an alternative url, where user will be
   redirected to after the mail is sent.
 
-### Publishing
+### Publishing tab
 
 <img
 src="https://docs.joomla.org/images/thumb/9/9d/Help-4x-Components-Contacts-Contacts-Edit-Publishing-Options-Tab-en.png/600px-Help-4x-Components-Contacts-Contacts-Edit-Publishing-Options-Tab-en.png"
 decoding="async"
 srcset="https://docs.joomla.org/images/9/9d/Help-4x-Components-Contacts-Contacts-Edit-Publishing-Options-Tab-en.png 1.5x"
 data-file-width="800" data-file-height="1035" width="600" height="776"
-alt="Help-4x-Components-Contacts-Contacts-Edit-Publishing-Options-Tab-en.png" />
+alt="Publishing Tab" />
 
 - **Start Publishing**. Date and time to start publishing. Use this
   field if you want to enter content ahead of time and then have it
@@ -226,13 +219,10 @@ alt="Help-4x-Components-Contacts-Contacts-Edit-Publishing-Options-Tab-en.png" />
       Article. To do this, you would:
       - Add the keywords "dog" and "cat" to the appropriate Articles.
       - Add the Tags "dog" and "cat" to the appropriate Banners in
-        [Banners:
-        Edit](https://docs.joomla.org/Help40:Banners:_Edit "Special:MyLanguage/Help40:Banners: Edit").
+        Banners: Edit.
       - Set the Banner module Parameter 'Search By Tags' to "Yes" in
-        [Site Modules:
-        Banners](https://docs.joomla.org/Help40:Site_Modules:_Banners "Special:MyLanguage/Help40:Site Modules: Banners").
-  3.  For articles only, in combination with the ['Articles - Related'
-      module](https://docs.joomla.org/Help40:Site_Modules:_Articles_-_Related "Special:MyLanguage/Help40:Site Modules: Articles - Related"),
+        the Site Modules: Banners list.
+  3.  For articles only, in combination with the Articles - Related module,
       to display Articles that share at least one keyword in common. For
       example, if the current Article displayed has the keywords "cats,
       dogs, monkeys", any other Articles with at least one of these
@@ -250,23 +240,23 @@ alt="Help-4x-Components-Contacts-Contacts-Edit-Publishing-Options-Tab-en.png" />
     do not want to index each event.
   - *noindex, nofollow:* Do not index this page or follow any links on
     the page.
-  - *Use Global:* Set in [Global Configuration: Metadata
-    Settings](https://docs.joomla.org/Help4.x:Site_Global_Configuration#Metadata_Settings "Special:MyLanguage/Help4.x:Site Global Configuration").
+  - *Use Global:* Set in Global Configuration: Metadata
+ Settings.
 - **Content Rights**. Describe what rights others have to use this
   content.
 
-### Associations
+### Associations tab
 
 <img
 src="https://docs.joomla.org/images/d/d4/Help-4x-Components-Contacts-Contacts-Edit-Associations-Tab-en.png"
 decoding="async" data-file-width="600" data-file-height="229"
 width="600" height="229"
-alt="Help-4x-Components-Contacts-Contacts-Edit-Associations-Tab-en.png" />
+alt="Associations Tab" />
 
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Save**. Saves the item and stays in the current screen.
 - **Save & Close**. Saves the item and closes the current screen.
@@ -282,23 +272,14 @@ At the top of the page you will see the toolbar shown in the
   toolbar icon is not shown if you are creating a new item.
 - **Versions**. Opens the Item Version History window to show any prior
   versions of this item. This allows you to view older versions of this
-  item and, if desired, restore from an older version. See [Version
-  History](https://docs.joomla.org/Help40:Components_Version_History "Special:MyLanguage/Help40:Components Version History")
+  item and, if desired, restore from an older version. See Version History
   for more information.
 - **Associations**. With a specific language set for an item, allows
   side by side editing in another language. This toolbar icon is shown
-  on [Multilingual
-  Sites](https://docs.joomla.org/Help4.x:Multilingual_Associations "Special:MyLanguage/Help4.x:Multilingual Associations")
-  only.
+  on Multilingual Sites only.
 - **Help**. Opens this help screen.
 
 ## Quick Tips
 
 At least one Contact Category must be added *before* adding the first
 Contact.
-
-## Related Information
-
-- [Contacts: Categories](https://docs.joomla.org/Help4.x:Contacts:_Categories) The Contact Category Manager is where you can edit existing Contact Categories and create new ones. Note that Contact Categories are separate from other Categories, such as for Articles, Banners, News Feeds, and Web Links. From this screen, you can also navigate to the<a href="https://docs.joomla.org/Help4.x:Components_Contacts_Contacts">Contact Manager: Contacts</a> screen.
-- [Contacts: Edit Category](https://docs.joomla.org/Help4.x:Contacts:_Edit_Category) This is where you can add a Contact Category or edit an existing Contact Category. Contact Categories allow you to organize contacts in your web site. Contact Categories are separate from other types of Categories, such as those for Articles, Banners, News Feeds, and so on.
-- [Contacts](https://docs.joomla.org/Help4.x:Contacts) The Contact Manager screen allows you to add contact information to your Joomla! site. You can enter information such as name, address, phone and e-mail. You can also link contacts to registered users. Afterwards, you can use the <a href="https://docs.joomla.org/Help4.x:Menus_Menu_Manager">Menu Manager</a> to create front-end links to the the contacts.

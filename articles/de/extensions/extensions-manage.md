@@ -9,7 +9,7 @@ Deinstallieren von nicht mehr benötigten Erweiterungen.
 ## Wie darauf zugreifen
 
 - Im Administrator-Menü die Option
-  **System **→** Verwalten **→** Erweiterungen** wählen.
+  **System → Verwalten → Erweiterungen** wählen.
 
 ## Bildschirmfoto
 

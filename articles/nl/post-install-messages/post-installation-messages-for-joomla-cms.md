@@ -12,12 +12,7 @@ die handig zijn voor sitebeheerders.
 
 ## Schermafbeelding
 
-<img
-src="https://docs.joomla.org/images/thumb/b/b7/Help-4x-configuration-post-installation-messages-nl.png/800px-Help-4x-configuration-post-installation-messages-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/b/b7/Help-4x-configuration-post-installation-messages-nl.png/1200px-Help-4x-configuration-post-installation-messages-nl.png 1.5x, https://docs.joomla.org/images/b/b7/Help-4x-configuration-post-installation-messages-nl.png 2x"
-data-file-width="1233" data-file-height="860" width="800" height="558"
-alt="Help-4x-configuration-post-installation-messages-nl.png" />
+![post installation messages screen](../../../images/en/post-install-messages/post-installation-messages.png "")
 
 ## Formulier velden
 
@@ -35,10 +30,6 @@ onderstaande werkbalk sectie.
 - **Welkom bij Joomla!** Wat hulpmiddelen die handig kunnen zijn.
 - **Authenticatie in twee stappen is beschikbaar.** Informatie over
   verbeterde veiligheid.
-
-## Release nieuws
-
-- **Release nieuws.** Een lijst met stabiele en beta releases.
 
 ## Werkbalk
 

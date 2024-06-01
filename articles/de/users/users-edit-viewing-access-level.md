@@ -18,7 +18,7 @@ welche die übergeordnete Benutzergruppe schon enthält.
 
 ## Wie darauf zugreifen
 
-- Im Administrator-Menü **Benutzer **→** Zugriffsebenen** auswählen,
+- Im Administrator-Menü **Benutzer → Zugriffsebenen** auswählen,
   dann ...
   - einen Link aus der Spalte **Ebenenname** auswählen, um eine
     vorhandene Ebene zu bearbeiten oder ...

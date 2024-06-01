@@ -7,7 +7,7 @@ messages.
 
 ## How to Access
 
-- Select **System **→** Templates panel **→** Mail Templates** from the
+- Select **System → Templates panel → Mail Templates** from the
   Administrator menu.
 
 ## Screenshot
@@ -15,7 +15,7 @@ messages.
 <img
 src="https://docs.joomla.org/images/c/cf/Help-4x-Mail-Templates-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="636"
-width="800" height="636" alt="Help-4x-Mail-Templates-screen-en.png" />
+width="800" height="636" alt="Mail Templates screen" />
 
 ## Column Headers
 
@@ -34,7 +34,7 @@ In the table containing Mail Templates, these are the different columns:
 ## List Filters
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -51,8 +51,7 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
 ### Filter Options
 
@@ -66,7 +65,7 @@ send emails.
 
 **Page Controls**. When the number of items is more than one page, you
 will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.

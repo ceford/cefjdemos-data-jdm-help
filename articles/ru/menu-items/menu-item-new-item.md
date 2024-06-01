@@ -19,13 +19,13 @@ the help screen for each type.
 
 To add a Menu Item:
 
-- **Menus **→** \[name of the menu\]**
+- **Menus → \[name of the menu\]**
   1.  click the **New** toolbar button.
   2.  click the Menu Item Type **Select** button.
 
 To edit a Menu Item:
 
-- **Menus **→** \[name of the menu\]**
+- **Menus → \[name of the menu\]**
   - select a **Title** from the list
 
 ## Скриншот
@@ -46,7 +46,7 @@ alt="Help-4x-Menus-New-Item-screen-ru.png" />
 
 ### Подробности
 
-**Left Panel**
+#### Left Panel
 
 - **Menu Item Type**. The Menu Item Type selected when this menu item
   was created.
@@ -55,7 +55,7 @@ alt="Help-4x-Menus-New-Item-screen-ru.png" />
 - **Target Window**. Select from the dropdown list.
 - **Template Style**. Select from the dropdown list.
 
-**Right Panel**
+#### Right Panel
 
 - **Menu**. Shows which menu the link will appear in.
 - **Parent Item**. The parent menu item for this menu item. Used to
@@ -83,9 +83,7 @@ alt="Help-4x-Menus-New-Item-screen-ru.png" />
       Items</a> screen.
   2.  Open the menu item for the new default page and change the Default
       Page setting to Yes.
-- **Access**. The [viewing Access
-  Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/ru "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/ru")
-  for this menu item.
+- **Access**. The viewing Access  Level   for this menu item.
 - **Language**. Menu items language.
 - **Note**. This is normally for the site administrator's use and does
   not show in the Frontend of the site.
@@ -163,8 +161,7 @@ srcset="https://docs.joomla.org/images/thumb/3/38/Help-4x-Menus-New-Item-associa
 data-file-width="2880" data-file-height="630" width="600" height="131"
 alt="Help-4x-Menus-New-Item-associations-subscreen-ru.png" />
 
-[Multilingual
-only.](https://docs.joomla.org/Help4.x:Multilingual_Associations/ru "Special:MyLanguage/Help4.x:Multilingual Associations/ru")
+Multilingual only!
 
 ### Привязка модулей
 
@@ -181,7 +178,7 @@ alt="Help-4x-Menus-New-Item-module-assignment-subscreen-ru.png" />
 ## Панель инструментов
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Сохранить**. Saves the menu item and stays in the current screen.
 - **Сохранить и закрыть**. Saves the menu item and closes the current

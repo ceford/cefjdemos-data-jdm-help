@@ -9,7 +9,7 @@ verwijderen.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Gebruikers **→** Groepen** vanuit het beheermenu.
+- Selecteer **Gebruikers → Groepen** vanuit het beheermenu.
 
 ## Schermafbeelding
 

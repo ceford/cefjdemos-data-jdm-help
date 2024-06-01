@@ -10,7 +10,7 @@ installed site languages.
 
 ## How to Access
 
-- **Components **→** Multilingual Associations**
+- **Components → Multilingual Associations**
   1.  select **Item Type**.
   2.  select **Language**.
 
@@ -21,7 +21,7 @@ src="https://docs.joomla.org/images/thumb/2/29/Help-4x-Components-Associations-e
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/29/Help-4x-Components-Associations-en.png/1200px-Help-4x-Components-Associations-en.png 1.5x, https://docs.joomla.org/images/thumb/2/29/Help-4x-Components-Associations-en.png/1600px-Help-4x-Components-Associations-en.png 2x"
 data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Help-4x-Components-Associations-en.png" />
+alt="mulitlingual associations screenshot" />
 
 ## Column Headers
 
@@ -33,16 +33,16 @@ alt="Help-4x-Components-Associations-en.png" />
 - **Not Associated**. Shows for which languages this menu item is not
   associated.
 - **Menu**. Shows which menu the menu item belongs to.
-- **Access**. The viewing [Access
-  Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Help4.x:Users: Viewing Access Levels/en")
-  for this menu item.
+- **Access**. The viewing Access level  for this menu item.
 - **ID**. A unique identification number for this menu item, you cannot
   change this number.
 
 ## List Filters
 
-**Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+### Search bar
+
+Near the top of the page you will see the search bar shown in the
+Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -59,13 +59,12 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of menu items in a list.
   Select from the dropdown list to change the number displayed.The
-  default for a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  default for a site is '20' but this may be changed in the Global Configuration.
 
 ### Filter Options
 
 Near the top of the page you will see the filter bar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Select Status**. Select from Trashed / Unpublished / Published /
   Archived / All.
@@ -79,7 +78,7 @@ Near the top of the page you will see the filter bar shown in the
 
 **Page Controls**. When the number of menu items is more than one page,
 you will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -91,31 +90,18 @@ has a dark colour background.
 ## Toolbar
 
 Prior to selection of an Item Type and Language the toolbar at the top
-has 4 buttons. The first 2 disappear after selection. <img
-src="https://docs.joomla.org/images/thumb/7/70/Help-4x-Components-Associations-toolbar-subscreen-en.png/800px-Help-4x-Components-Associations-toolbar-subscreen-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/7/70/Help-4x-Components-Associations-toolbar-subscreen-en.png/1200px-Help-4x-Components-Associations-toolbar-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/7/70/Help-4x-Components-Associations-toolbar-subscreen-en.png/1600px-Help-4x-Components-Associations-toolbar-subscreen-en.png 2x"
-data-file-width="2346" data-file-height="265" width="800" height="90"
-alt="Help-4x-Components-Associations-toolbar-subscreen-en.png" />
+has 4 buttons. The first 2 disappear after selection.
 
 - **Delete All Associations**. Lets you delete all associations. After a
   question to confirm, all associations will be deleted.
 - **Delete Orphans**. Lets you delete all orphans.
-- **Options**. Opens the help screen [Multilingual Associations:
-  Options](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Options/en "Help4.x:Multilingual Associations: Options/en").
+- **Options**. Opens the help screen for Multilingual Associations: Options.
 - **Help**. Opens this help screen.
 
 ## Quick Tips
 
 - An menu-item in English can be more easily translated into French with
   the original and translation side by side. And then select Persian to
-  translate from English to Persian too. [Learn
-  more.](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Edit/en "Help4.x:Multilingual Associations: Edit/en")
+  translate from English to Persian too.
 - This screen use menu-items as example. You will see all Item Types
-  shown in the [Screenshot](#screenshot) above.
-
-## Related Information
-
-- [Multilingual Associations: Options](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Options/en "Help4.x:Multilingual Associations: Options/en") Default permissions used for all content in the Multilingual Associations Component.
-| <span class="mw-selflink selflink">Multilingual Associations</span> This screen is used to set up an Association between an item and installed site languages.
-- [Multilingual Associations: Edit](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Edit/en "Help4.x:Multilingual Associations: Edit/en") Used to add or edit associations between languages displayed on a multilingual website.
+  shown in the Screenshot above.

@@ -5,16 +5,13 @@
 The Contacts list shows selected information for contacts and provides
 links to edit or add information such as name, address, phone and
 e-mail. You can also link contacts to registered users. Afterwards, you
-can use the [Menu
-Manager](https://docs.joomla.org/Help4.x:Menus/en "Help4.x:Menus/en") to
-create front-end links to the the contacts.
+can use the Menu list to create front-end links to the the contacts.
 
 ## How to access
 
-- Select **Components **→** Contacts **→** Contacts** from the
+- Select **Components → Contacts → Contacts** from the
   Administrator menu. Or...
-- Select the numbered button in the [Category Manager:
-  Contacts](https://docs.joomla.org/Help4.x:Contacts:_Categories/en "Help4.x:Contacts: Categories/en")
+- Select the numbered button in the Contacts: Categories list
   screen.
 
 ## Screenshot
@@ -23,7 +20,7 @@ create front-end links to the the contacts.
 src="https://docs.joomla.org/images/b/b4/Help-4x-Components-Contacts-Contacts-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="378"
 width="800" height="378"
-alt="Help-4x-Components-Contacts-Contacts-screen-en.png" />
+alt="Contacts list" />
 
 ## Column Headers
 
@@ -47,9 +44,7 @@ Click on the column heading to sort the list by that column's value.
   can open the item for editing by clicking on the Title.
 - **Linked User.** The username this contact is linked to (if
   applicable).
-- **Access**. The [viewing Access
-  Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/en")
-  for this item.
+- **Access**. The viewing Access  Level   for this item.
 - **Language**. Item language.
 - **ID**. This is a unique identification number for this item assigned
   automatically by Joomla. It is used to identify the item internally,
@@ -60,7 +55,7 @@ Click on the column heading to sort the list by that column's value.
 ## List Filters
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -77,8 +72,7 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 - **Select Featured**. Select from Unfeatured Articles / Featured
   Articles.
 - **Select Status**. Select from Trashed / Unpublished / Published /
@@ -93,7 +87,7 @@ shown in the [Screenshot](#screenshot) above.
 
 **Page Controls**. When the number of items is more than one page, you
 will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -105,7 +99,7 @@ has a dark colour background.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **New**. Opens the editing screen to create a new contact.
 - **Actions:** Reveals a list of actions for selected Items. Check one
@@ -140,14 +134,5 @@ At the top of the page you will see the toolbar shown in the
 ## Quick Tips
 
 - You need to add at least one Category for your Contacts *before* you
-  can add your first Contact. Categories are added using the <a
-  href="https://docs.joomla.org/Help4.x:Components_Contacts_Categories/en"
-  class="mw-redirect"
-  title="Help4.x:Components Contacts Categories/en">Category Manager:
-  Contacts</a> screen.
-
-## Related Help Screens
-
-- [Contacts: Categories](https://docs.joomla.org/Help4.x:Contacts:_Categories) is where you can edit existing Contact Categories and create new ones. Note that Contact Categories are separate from other Categories, such as for Articles, Banners, News Feeds, and Web Links. From this screen, you can also navigate to the <a   href="https://docs.joomla.org/Help4.x:Components_Contacts_Contacts/en"   class="mw-redirect"  title="Help4.x:Components Contacts Contacts/en">Contact Manager: Contacts</a> screen.
-- [Contacts: New or Edit Category](https://docs.joomla.org/Help4.x:Contacts:_New_or_Edit_Category) is where you can add a Contact Category or edit an existing Contact Category. Contact Categories allow you to organize contacts in your web site. Contact Categories are separate from other types of Categories, such as those for Articles, Banners, News Feeds, and so on.
-- [Contacts:  Edit](https://docs.joomla.org/Help4.x:Contacts:_Edit) is where you can add a Contact or edit an existing Contact. Contacts allow you to list people on your web site. They also allow users to send e-mails to those people.
+  can add your first Contact. Categories are added using the Contacts:
+  Categories page.

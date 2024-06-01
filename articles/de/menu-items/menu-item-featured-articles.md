@@ -6,7 +6,7 @@ Der Menüeintrag zeigt alle Hauptbeiträge in einem Blog-Layout.
 
 ## Wie darauf zugreifen
 
-**Menüs **→** \[Name des Menüs\]**
+**Menüs → \[Name des Menüs\]**
 
 Einen Menüeintrag hinzufügen:
 
@@ -98,11 +98,11 @@ alt="Help-4x-Menus-Item-Articles-Featured-Articles-blog-layout-subscreen-de.png"
   - Down: Abwärts: Beiträge werden innerhalb der ersten Spalte abwärts
     sortiert, dann in der nächsten Spalte. Zum Beispiel:
 
-- 
+-
   - Across: Seitlich: Beiträge werden quer durch die Spalten sortiert,
     dann zurück in die erste Spalte. Zum Beispiel:
 
-- 
+-
 - **\# Links**. **\# Links**. Anzahl der Beiträge, deren Überschriften
   als Links gezeigt werden, normalerweise unterhalb der
   Einleitungstexte. Damit können Benutzer weitere Beiträge aufrufen,
@@ -170,7 +170,7 @@ alt="Help-4x-Menus-Item-Articles-Featured-Articles-blog-layout-subscreen-de.png"
 
 ### Optionen
 
-Die Optionen legen fest, wie Beiträge im Frontend gezeigt werden.  
+Die Optionen legen fest, wie Beiträge im Frontend gezeigt werden.
 Hinweis: Die Auswahl "**Beitragseinstellungen verwenden**" übernimmt
 Einstellungen aus [Beiträge:
 Optionen](https://docs.joomla.org/Help4.x:Articles:_Edit/de "Help4.x:Articles: Edit/de").

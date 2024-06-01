@@ -4,12 +4,11 @@
 
 Set the Native Title, Language Code, SEF Prefix and Image Prefixes of
 the installed or to be installed languages. These are used when you set
-your site as multilanguage. See the [Language Switcher
-Tutorial](https://docs.joomla.org/J3.x:Setup_a_Multilingual_Site/en "J3.x:Setup a Multilingual Site/en").
+your site as multilanguage.
 
 ## How to Access
 
-- Select **System **→** Manage Panel **→** Content Languages** from the
+- Select **System → Manage Panel → Content Languages** from the
   Administrator menu.
 
 ## Screenshot
@@ -18,7 +17,7 @@ Tutorial](https://docs.joomla.org/J3.x:Setup_a_Multilingual_Site/en "J3.x:Setup 
 src="https://docs.joomla.org/images/6/67/Help-4x-Extensions-Language-Manager-Content-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="416"
 width="800" height="416"
-alt="Help-4x-Extensions-Language-Manager-Content-screen-en.png" />
+alt="Languages Content list" />
 
 ## Column Headers
 
@@ -45,9 +44,7 @@ Click on the column heading to sort the list by that column's value.
   "Use Image Flags" Language Switcher basic option. Example: If 'en' is
   chosen, then the image shall be en.gif. Images and CSS for this module
   are in media/mod_languages/
-- **Access**. The [viewing Access
-  Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/en")
-  for this item.
+- **Access**. The viewing Access  Level   for this item.
 - **Home.** Whether there is a default page set for this language or
   not.
 - **ID**. This is a unique identification number for this item assigned
@@ -59,8 +56,7 @@ Click on the column heading to sort the list by that column's value.
 ## List Filters
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
-
+shown in the Screenshot above.
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
   searched.To 'Search by ID' enter "id:x", where "x" is the ID number
@@ -76,10 +72,9 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
-**Filter Options**
+### Filter Options
 
 - **Select State.** Use the drop-down list box to select: Read, Unread
   or Trashed. Only languages with this state will show on the list.
@@ -87,11 +82,11 @@ shown in the [Screenshot](#screenshot) above.
   Guest, Registered, Special or Super Users. Only languages with this
   state will show on the list.
 
-**Automatic Pagination**
+### Automatic Pagination
 
 **Page Controls**. When the number of items is more than one page, you
 will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -103,7 +98,7 @@ has a dark colour background.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **New**. Opens the editing screen to create a new item.
 - **Actions:** Reveals a list of actions for selected Items. Check one
@@ -119,8 +114,7 @@ At the top of the page you will see the toolbar shown in the
   delete trashed items, select 'Trashed' in the 'Select Status' filter,
   select the items to be permanently deleted, then click the 'Empty
   Trash' toolbar icon.
-- **Install Languages.** Links to the [Install Languages
-  Screen](https://docs.joomla.org/Help4.x:Extensions_Extension_Manager_Languages/en "Help4.x:Extensions Extension Manager Languages/en").
+- **Install Languages.** Links to the Install Languages Screen.
 - **Options.** Opens the Options window where settings such as default
   parameters can be edited.
 - **Help**. Opens this help screen.
@@ -128,10 +122,8 @@ At the top of the page you will see the toolbar shown in the
 ## Quick Tips
 
 - Users can use any Language from the list of installed Languages,
-  either by having it assigned in the [Users
-  list](https://docs.joomla.org/Help4.x:Users/en "Help4.x:Users/en") or
-  by filling out a [Menu Items - New/Edit - User Form
-  Layout](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en#User_Form_Layout.2F "Help4.x:Menu Item: New Item/en")
+  either by having it assigned in the Users list or
+  by filling out a Menu Items - New/Edit - User Form Layout
   at the Front end. This will cause the Joomla! system prompts to be
   generated in this Language just for this User. For example, if a User
   chooses Spanish as their language, then the Search Module will show
@@ -142,21 +134,9 @@ At the top of the page you will see the toolbar shown in the
   web site's Articles and other content.
 - **Important**: Do not delete the default language files (for example,
   with FTP). This will create errors on both the Front-end and Back-end.
-- Additional Languages can be added using the [Install Languages
-  Screen](https://docs.joomla.org/Help4.x:Extensions_Extension_Manager_Languages/en "Help4.x:Extensions Extension Manager Languages/en").
+- Additional Languages can be added using the Install Languages Screen.
 - If desired, you can show the Front-end site in one Language and show
   the Back-end administration pages in a different Language. Also,
   individual articles can be configured to use a different language in
   the Advanced Parameter pane when editing the Article.
 
-## Related Information
-
-- To install more Languages: [Install Languages
-  Screen](https://docs.joomla.org/Help4.x:Extensions_Extension_Manager_Languages/en "Help4.x:Extensions Extension Manager Languages/en")
-- To uninstall a Language: [Extensions -
-  Manage](https://docs.joomla.org/Help4.x:Extensions:_Manage/en "Help4.x:Extensions: Manage/en")
-- To change the Language for a User: [Users list -
-  New/Edit](https://docs.joomla.org/Help4.x:Users:_Edit_Profile/en "Help4.x:Users: Edit Profile/en")
-- To set the Language of an Article: [Articles list - New/Edit -
-  Parameters -
-  Advanced](https://docs.joomla.org/Help4.x:Articles:_Edit/en#Parameters_-_Advanced "Help4.x:Articles: Edit/en")

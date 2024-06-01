@@ -6,7 +6,7 @@ Used to view a list of existing Banner Tracking information.
 
 ## How to Access
 
-- Select **Components **→** Banners **→** Tracks**
+- Select **Components → Banners → Tracks**
 
 ## Screenshot
 
@@ -14,7 +14,7 @@ Used to view a list of existing Banner Tracking information.
 src="https://docs.joomla.org/images/5/5b/Help-4x-Components-Banners-Tracks-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="307"
 width="800" height="307"
-alt="Help-4x-Components-Banners-Tracks-screen-en.png" />
+alt="Banners Tracks list" />
 
 ## Column Headers
 
@@ -32,8 +32,9 @@ Click on a column heading to sort the list by that column's value.
 Near the top of the page you will see the filter bar shown in the
 Screenshot above. The functions are:
 
-**Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+### Search bar
+Near the top of the page you will see the search bar
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -50,33 +51,22 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 - **Select Category**. Select from the list of available categories.
 - **Select Client**. Select from the list of available clients.
 
-  
-**Filter by Type.** Lets you show only items assigned to a specific
-type. The list box will show the types defined.
+### Filters
 
-<img
-src="https://docs.joomla.org/images/2/24/Help30-colheader-select-track-type-en.png"
-decoding="async" data-file-width="223" data-file-height="108"
-width="223" height="108"
-alt="Help30-colheader-select-track-type-en.png" />
+- **- Select Type -** Show items assigned to a specific type.
+- **- Select Max Levels -**. Select from the list of available levels.
+- **Begin date (yyyy-mm-dd)** The start date of the tracks to list.
+- **End date (yyyy-mm-dd)** The end date of the tracks to list.
 
-- ***- Select Type -:*** Show items assigned to any type.
-- ***\<your type\>:*** Show items assigned only to this type.
-- **Select Max Levels**. Select from the list of available levels.
+### Page Controls**
 
-**Begin and End date.**
-
-- **Begin date.** The startingdate of the tracks to list.
-- **End date.** The enddate of the tracks to list.
-
-**Page Controls**. When the number of items is more than one page, you
+When the number of items is more than one page, you
 will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -88,7 +78,7 @@ has a dark colour background.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Export**. Opens a window where you will be able export the Banner
   Tracks.
@@ -97,20 +87,7 @@ At the top of the page you will see the toolbar shown in the
   parameters can be edited.
 - **Help**. Opens this help screen.
 
-See [Article Manager
-Options](https://docs.joomla.org/Help4.x:Articles:_Options/en "Help4.x:Articles: Options/en")
-for more information.
-
 ## Quick Tips
 
 - You must add at least one Banner Client and Banner Category *before*
   you can add a Banner.
-
-## Related Information
-
-- To create or edit Banners: [Banner -
-  New/Edit](https://docs.joomla.org/Help4.x:Banners:_Edit/en "Help4.x:Banners: Edit/en")
-- To work with Banner Clients: [Banner Client
-  Manager](https://docs.joomla.org/Help4.x:Banners:_Clients/en "Help4.x:Banners: Clients/en")
-- To work with Banner Categories: [Banner Category
-  Manager](https://docs.joomla.org/Help4.x:Banners:_Categories/en "Help4.x:Banners: Categories/en")

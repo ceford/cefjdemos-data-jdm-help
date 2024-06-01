@@ -7,7 +7,7 @@ Frontend of the site.
 
 ## Как открыть
 
-**Menus **→** \[name of the menu\]**
+Select **Menus → \[name of the menu\]** from the Administrator menu.
 
 To add a Menu Item:
 
@@ -34,12 +34,11 @@ alt="Help-4x-Menus-Item-Articles-Single-Article-screen-ru.png" />
 - **Title**. The title that will display for this menu item.
 - **Alias**. The internal name of the menu item. Normally, you can leave
   this blank and Joomla will fill in a default value Title in lower case
-  and with dashes instead of spaces. [Learn
-  more.](https://docs.joomla.org/Alias/en "Alias/en")
+  and with dashes instead of spaces.
 
 ### Подробности
 
-**Left Panel**
+#### Left Panel
 
 - **Menu Item Type**. The Menu Item Type selected when this menu item
   was created. This can be one of the core menu item types or a menu
@@ -47,7 +46,7 @@ alt="Help-4x-Menus-Item-Articles-Single-Article-screen-ru.png" />
 - **Select Article**. This field holds the article to be shown in the
   menu item. Press the **Select/Change** button to open the article
   selection window.This screen is similar to the
-  [Articles](https://docs.joomla.org/Help4.x:Articles/en "Help4.x:Articles/en")
+  Articles
   page. You can use the Filter fields to find the desired article and
   then click on the article's Title to select it. At that point, the
   modal window will close and the title will show in the Select Article
@@ -57,7 +56,7 @@ alt="Help-4x-Menus-Item-Articles-Single-Article-screen-ru.png" />
 - **Target Window**. Select from the dropdown list.
 - **Template Style**. Select from the dropdown list.
 
-**Right Panel**
+#### Right Panel
 
 - **Menu**. Shows which menu the link will appear in.
 
@@ -74,8 +73,7 @@ data-file-width="2880" data-file-height="1340" width="600" height="279"
 alt="Help-4x-Menus-Item-Articles-Single-Article-options-subscreen-ru.png" />
 
 Note: Options include "**Use Global**". If this is selected, the setting
-from the [Articles:
-Options](https://docs.joomla.org/Help4.x:Articles:_Options/en "Help4.x:Articles: Options/en")
+from the Articles: Options
 will be used.
 
 **Макет**
@@ -99,30 +97,26 @@ will be used.
 
 - **Category**. Show the Article's Category Title.
 - **Link Category**. Show the title as a link to that Category.Note: You
-  can set this to be either a blog or list layout with the [Choose a
-  Layout](https://docs.joomla.org/Help4.x:Articles:_Options/en#choosealayout "Help4.x:Articles: Options/en")
+  can set this to be either a blog or list layout with the Choose a Layout
   option in the Category Tab.
 - **Parent Category**. Show the Article's Parent Category Title.
 - **Link Parent Category**. Show the title as a link to that
   Category.Note: You can set this to be either a blog or list layout
-  with the [Choose a
-  Layout](https://docs.joomla.org/Help4.x:Articles:_Options/en#choosealayout "Help4.x:Articles: Options/en")
+  with the Choose a Layout
   option in the Category Tab.
 
 **Связи**
 
 - **Associations**. Show the associated flags or Language Code.
-  [Multilingual
-  only.](https://docs.joomla.org/Help4.x:Multilingual_Associations/en "Help4.x:Multilingual Associations/en")
+  Multilingual only.
 
 **Автор**
 
 - **Author**. Show the author of the Article.
 - **Link to Author's Contact Page**. Show it as a link to a Contact
   layout for that author.Note: The author must be set up as a
-  [Contact](https://docs.joomla.org/Help4.x:Contacts:_Edit/en "Help4.x:Contacts: Edit/en").
-  Also, a link will not show if there is an [Author
-  Alias](https://docs.joomla.org/Help4.x:Articles:_Edit/en#createdbyalias "Help4.x:Articles: Edit/en")
+  Contact.
+  Also, a link will not show if there is an Author Alias
   value for the article.
 
 **Дата**
@@ -150,12 +144,10 @@ will be used.
 
 ### Common Options
 
-See [Menus: New
-Item](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en "Help4.x:Menu Item: New Item/en")
+See Menus: New Item
 for help on fields common to all Menu Item types, including:
 
-- [Right
-  Panel](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en#rightpanel "Help4.x:Menu Item: New Item/en")
+- Right Panel
 - [Тип
   ссылки](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/ru#linktype "Help4.x:Menu Item: New Item/ru")
 - [Страница](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/ru#pagedisplay "Help4.x:Menu Item: New Item/ru")
@@ -167,7 +159,7 @@ for help on fields common to all Menu Item types, including:
 ## Панель инструментов
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Сохранить**. Saves the menu item and stays in the current screen.
 - **Сохранить и закрыть**. Saves the menu item and closes the current

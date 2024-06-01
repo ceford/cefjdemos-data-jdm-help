@@ -12,7 +12,7 @@ Category.
 
 ## How to access
 
-- Select **Users **→** User Note Categories** from the Administrator
+- Select **Users → User Note Categories** from the Administrator
   menu. Then...
   - Select the **New** button in the Toolbar to create a new category.
     Or...
@@ -35,7 +35,7 @@ alt="Help-4x-users-category-manager-add-a-new-user-notes-category-de.png" />
 Der Alias wird in der SEF-URL (suchmaschinenfreundliche URL) verwendet.
 Dieses Feld leer lassen, dann füllt Joomla einen Standardwert aus dem
 Titel aus. Dieser Wert hängt von den SEO-Einstellungen ab
-(**System **→** Konfiguration **→** Site**). Die Verwendung von Unicode
+(**System → Konfiguration → Site**). Die Verwendung von Unicode
 erzeugt UTF-8-Aliase. Ein beliebiges UTF-8-Zeichen kann auch manuell
 eingegeben werden. Leerzeichen und einige unzulässige Zeichen werden in
 Bindestriche umgewandelt. Bei Verwendung der Standard-Transliteration
@@ -179,16 +179,3 @@ above. The functions are:
 - **Associations**. With a specific language set for an article, allows
   side by side editing in another language.
 - **Help**. Opens this help screen.
-
-## Related Information
-
-- [User Notes: New or
-  Edit](https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit/en "Help4.x:User Notes: New or Edit/en")
-- [User Notes: Users
-  Notes](https://docs.joomla.org/Help4.x:User_Notes/en "Help4.x:User Notes/en")
-- [User Notes:
-  Categories](https://docs.joomla.org/Help4.x:User_Notes:_Categories/en "Help4.x:User Notes: Categories/en")
-- To work with existing Categories: [Articles:
-  Categories](https://docs.joomla.org/Help4.x:Articles:_Categories/en "Help4.x:Articles: Categories/en")
-- To work with Articles:
-  [Articles](https://docs.joomla.org/Help4.x:Articles/en "Help4.x:Articles/en")

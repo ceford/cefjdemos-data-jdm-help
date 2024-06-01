@@ -13,13 +13,13 @@ huidige gebruiker. Bijvoorbeeld TinyMCE, JCE of Codemirror.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Gebruikers **→** Gebruikersnotities** vanuit het
+- Selecteer **Gebruikers → Gebruikersnotities** vanuit het
   beheermenu. Dan...
   - Selecteer **Nieuw** vanuit de werkbalk om een nieuwe notitie aan te
     maken. Of...
   - Selecteer een link vanuit de **Onderwerp** kolom om een bestaande
     notitie te bewerken.
-- Of selecteer **Gebruikers **→** Beheren** vanuit het beheermenu.
+- Of selecteer **Gebruikers → Beheren** vanuit het beheermenu.
   Dan...
   - Zoek een gebruiker op gebruikersnaam of e-mailadres. Dan...
   - Selecteer **Notitie toevoegen** om een nieuwe notitie aan te maken.

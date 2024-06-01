@@ -23,13 +23,13 @@ worden gedocumenteerd in het help-scherm van ieder type.
 
 Om een menu-item aan te maken:
 
-- **Menu's **→** \[naam van het menu\]**
+- **Menu's → \[naam van het menu\]**
   1.  Klik de **Nieuw** werkbalk knop.
   2.  Klik op de 'Menu-itemtype' **selectie** knop.
 
 Om een menu-item te bewerken:
 
-- **Menu's **→** \[naam van het menu\]**
+- **Menu's → \[naam van het menu\]**
   - Selecteer de **titel** in de lijst.
 
 ## Schermafbeelding
@@ -47,8 +47,7 @@ alt="Help-4x-Menus-New-Item-screen-nl.png" />
 - **Alias**. De interne naam van het item. Normaliter, kunt u dit leeg
   laten en Joomla zal de standaardwaarde invullen. De standaard waarde
   is de titel of naam in kleine letters en streepjes in plaats van
-  spaties. [Learn
-  more.](https://docs.joomla.org/Alias/nl "Special:MyLanguage/Alias/nl")
+  spaties.
 
 ### Details
 
@@ -70,8 +69,7 @@ alt="Help-4x-Menus-New-Item-screen-nl.png" />
   item is. Selecteer 'Menu-item root' (de standaard waarde) als dit een
   top-niveau menu-item is. Selecteer anders het Menu-item dat het
   bovenliggende item van het item is.
-- nl Note: The Order can also be changed in [Menus:
-  Items](https://docs.joomla.org/Help4.x:Menus:_Items/nl "Special:MyLanguage/Help4.x:Menus: Items/nl").
+- nl Note: The Order can also be changed in *Menus: Items*.
 - **Status**. De publicatiestatus van het menu-item.
 - **Start publiceren**. Datum en tijd waarop de publicatie moet starten.
   Gebruik dit veld wanneer u voortijdig inhoud wilt toevoegen die
@@ -158,11 +156,9 @@ data-file-width="2880" data-file-height="830" width="600" height="173"
 alt="Help-4x-Menus-New-Item-metadata-subscreen-nl.png" />
 
 - **Metabeschrijving**. Een optionele paragraaf die gebruikt wordt als
-  beschrijving van de pagina. [Learn
-  more.](https://docs.joomla.org/Using_The_Meta_Description/nl "Special:MyLanguage/Using The Meta Description/nl")
+  beschrijving van de pagina.
 - **Robots**. De instructies voor web 'robots' die naar deze pagina
-  bladeren. Set 'Use Global' in [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#robots "Special:MyLanguage/Help4.x:Site Global Configuration/nl").
+  bladeren. Set 'Use Global' in Global Configuration.
 
 ### Associaties
 
@@ -215,8 +211,8 @@ Saved menu items have additional buttons:
     huidige menu-item. Beïnvloed het huidige menu-item niet.
 - **Associaties**. Met een bepaalde taal ingesteld voor een menu-item
   geeft het de mogelijkheid tot het naast elkaar bewerken van een andere
-  taal. [Multilingual
-  only](https://docs.joomla.org/Help4.x:Multilingual_Associations/nl "Special:MyLanguage/Help4.x:Multilingual Associations/nl").
+  taal. Multilingual
+  only.
 - **Close** instead 'Cancel', same function.
 
 ## Snelle tips

@@ -11,7 +11,7 @@ one Category.
 
 ## Como Aceder
 
-**Painel principal **→** Site **→** Artigos**
+**Painel principal → Site → Artigos**
 
 To add a Article:
 
@@ -53,19 +53,15 @@ alt="Help-4x-Content-Article-screen-pt.png" />
   - In the Filter Options you may limit the list to articles that are
     assigned for example to a Language.
 - **Em destaque**. Click the icon to toggle. The article will show on
-  the [Featured
-  Articles](https://docs.joomla.org/Help4.x:Articles:_Featured/en "Help4.x:Articles: Featured/en")
+  the Featured Articles
   page.
 - **Estatuto**. Status of article. Hover icon for informations.
 - **Título**. The title of the article. Edit the article by clicking on
   the Title.
-- **Acesso**. The viewing [Access
-  Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Help4.x:Users: Viewing Access Levels/en")
-  for this article.
+- **Acesso**. The viewing Access level  for this article.
 - **Autor**. Name of the User who created this article.
 - **Associação**. Shows the associated articles. Click on the Language
-  Code to open the article. [Multilingual
-  only.](https://docs.joomla.org/Help4.x:Multilingual_Associations/en "Help4.x:Multilingual Associations/en")
+  Code to open the article. Multilingual only.
 - **Idioma**. Articles language, default is 'All'.
 - **Data de criação**. The date this article was created.
 - **Acessos**. The number of times an article has been viewed.
@@ -75,7 +71,7 @@ alt="Help-4x-Content-Article-screen-pt.png" />
 ## Filtros de Lista
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -92,8 +88,7 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of articles in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
 ### Opções de filtro
 
@@ -116,7 +111,7 @@ de Ecrã](#screenshot) acima.
 
 **Page Controls**. When the number of articles is more than one page,
 you will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -141,12 +136,10 @@ de Ecrã](#screenshot) acima.
   - **Retirar destaque**. Changes the status of featured articles to
     unfeatured.
   - **Arquivar**. Changes the status of the selected articles to
-    indicate that they are archived. [Learn
-    more.](https://docs.joomla.org/J4.x:How_to_Archive_an_Article/en "J4.x:How to Archive an Article/en")
+    indicate that they are archived.
   - **Validar**. Checks-in the selected articles.
   - **Reciclagem**. Changes the status of the selected articles to
-    indicate that they are trashed. [Learn
-    more.](https://docs.joomla.org/J4.x:Deleting_an_Article/en "J4.x:Deleting an Article/en")
+    indicate that they are trashed.
   - **Em lote**. Batch processes the selected articles.
 - **Opções**. Abre a janela das «Opções» onde as definições como os
   parâmetros predefinidos podem ser editados.
@@ -200,28 +193,3 @@ alt="Help-4x-batch-process-articles-pt.png" />
 - To change the ordering of articles within a category, click on the
   Ordering column heading to sort by this column. Also, it is easier to
   see the ordering if you filter on the desired category.
-
-## Related Information
-
-- [Painel
-  principal](https://docs.joomla.org/Help4.x:Home_Dashboard/pt "Help4.x:Home Dashboard/pt"):
-  Access to many default Joomla functions.
-- This
-  [Portal](https://docs.joomla.org/Portal:Joomla_4/en "Portal:Joomla 4/en")
-  brings together information related specifically to Joomla 4.
-
-|                                                                                                                                                                         |                                                                                                                                                                                             |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Ecrãs de Ajuda Relacionados                                                                                                                                             | Descrição                                                                                                                                                                                   |
-| [Articles: Options](https://docs.joomla.org/Help4.x:Articles:_Options/en "Help4.x:Articles: Options/en")                                                                | Used to set global defaults for menu items that display articles. These default values will be used when 'Use Global' is selected for an option in an Articles menu item.                   |
-| [Articles](https://docs.joomla.org/Help4.x:Articles/en "Help4.x:Articles/en")                                                                                           | The Article list is used to find, mark featured, add and edit articles.                                                                                                                     |
-| [Articles: Edit](https://docs.joomla.org/Help4.x:Articles:_Edit/en "Help4.x:Articles: Edit/en")                                                                         | This is where you can add and edit Articles. You can also select the Category for an Article and indicate whether or not it is Published and if it is selected to appear on the Front Page. |
-| [Articles: Featured](https://docs.joomla.org/Help4.x:Articles:_Featured/en "Help4.x:Articles: Featured/en")                                                             | Used to control which 'Featured Articles' are displayed on the Front Page and in what order they are displayed.                                                                             |
-| [Articles: Categories](https://docs.joomla.org/Help4.x:Articles:_Categories/en "Help4.x:Articles: Categories/en")                                                       | The Articles Categories list is used to find, add, and edit articles categories.                                                                                                            |
-| [Menus: Archived Articles](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived/en "Help4.x:Menu Item: Article Archived/en")                                     | Shows a customised list of articles ordered by date or title. Archived articles are no longer published but are still stored on the site.                                                   |
-| [Menus: Category Blog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/en "Help4.x:Menu Item: Category Blog/en")                                               | Used to show articles belonging to a specific Category in a blog layout. Controls the Leading Articles, Intro Articles and additional links to more Articles.                               |
-| [Menus: Category List](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/en "Help4.x:Menu Item: Category List/en")                                               | Used to show articles belonging to a specific Category in a list layout.                                                                                                                    |
-| [Menus: Create Article](https://docs.joomla.org/Help4.x:Menu_Item:_Create_Article/en "Help4.x:Menu Item: Create Article/en")                                            | Allows users to submit an article. Normally this is available only to users who have logged in to the Frontend of the site. Users must have permission to create articles.                  |
-| [Menus: Featured Articles](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/en "Help4.x:Menu Item: Featured Articles/en")                                   | Used to show all Articles that have been tagged as Featured. Articles are shown in a Blog Layout.                                                                                           |
-| [Menus: List All Categories in an Article Category Tree](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/en "Help4.x:Menu Item: List All Categories/en") | Used to show a hierarchical list of Categories. Depending on the selected options for this layout, you can click on a category Title to show the articles in that category.                 |
-| [Menus: Single Article](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article/en "Help4.x:Menu Item: Single Article/en")                                            | Used to show one article.                                                                                                                                                                   |

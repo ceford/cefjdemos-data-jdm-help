@@ -7,10 +7,10 @@ Bearbeitung von Templates, die auf der Joomla! Website installiert sind.
 
 ## Wie darauf zugreifen
 
-- Im Administrator-Menü die Option **System **→** Templates **→** Site
+- Im Administrator-Menü die Option **System → Templates → Site
   Templates** wählen oder ...
 - im Administrator-Menü die Option
-  **System **→** Templates **→** Administrator Templates** wählen.
+  **System → Templates → Administrator Templates** wählen.
 
 ## Bildschirmfoto
 

@@ -7,9 +7,9 @@ updatepakket vanuit de Joomla! code repsoitory.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Home Controlepaneel **→** Update Checks
-  venster **→** Joomla ... icoon** vanuit het beheermenu. Of...
-- Selecteer **Systeem **→** Update venster **→** Joomla** vanuit het
+- Selecteer **Home Controlepaneel → Update Checks
+  venster → Joomla ... icoon** vanuit het beheermenu. Of...
+- Selecteer **Systeem → Update venster → Joomla** vanuit het
   beheermenu.
 
 ## Schermafbeelding

@@ -7,7 +7,7 @@ Frontend of the site.
 
 ## Cómo Acceder
 
-**Menus **→** \[name of the menu\]**
+Select **Menus → \[name of the menu\]** from the Administrator menu.
 
 To add a Menu Item:
 
@@ -34,7 +34,7 @@ alt="Help-4x-Menus-Item-Articles-Single-Article-screen-es.png" />
 - **Título**. El título que se visualiza para este elemento del menú.
 - **Alias**. El alias se usará en la URL amigable. Si lo deja en blanco,
   Joomla! lo rellenará con un valor predeterminado obtenido a partir del
-  título. [Learn more.](https://docs.joomla.org/Alias/en "Alias/en")
+  título.
 
 ### Detalles
 
@@ -47,7 +47,7 @@ alt="Help-4x-Menus-Item-Articles-Single-Article-screen-es.png" />
 - **Select Article**. This field holds the article to be shown in the
   menu item. Press the **Select/Change** button to open the article
   selection window.This screen is similar to the
-  [Articles](https://docs.joomla.org/Help4.x:Articles/en "Help4.x:Articles/en")
+  Articles
   page. You can use the Filter fields to find the desired article and
   then click on the article's Title to select it. At that point, the
   modal window will close and the title will show in the Select Article
@@ -74,8 +74,7 @@ data-file-width="2880" data-file-height="1340" width="600" height="279"
 alt="Help-4x-Menus-Item-Articles-Single-Article-options-subscreen-es.png" />
 
 Note: Options include "**Use Global**". If this is selected, the setting
-from the [Articles:
-Options](https://docs.joomla.org/Help4.x:Articles:_Options/en "Help4.x:Articles: Options/en")
+from the Articles: Options
 will be used.
 
 **Presentación**
@@ -102,31 +101,27 @@ will be used.
 - **Categoría enlazable**. Si la categoría del artículo se muestra, si
   se va a mostrar como un enlace a un Diseño de categoría (lista o
   blog), para la Categoría.Note: You can set this to be either a blog or
-  list layout with the [Choose a
-  Layout](https://docs.joomla.org/Help4.x:Articles:_Options/en#choosealayout "Help4.x:Articles: Options/en")
+  list layout with the Choose a Layout
   option in the Category Tab.
 - **Parent Category**. Show the Article's Parent Category Title.
 - **Categoría principal enlazable**. Si la categoría principal del
   artículo se muestra, si se va a mostrar como un enlace a un Diseño de
   categoría - (lista o blog), para la Categoría.Note: You can set this
-  to be either a blog or list layout with the [Choose a
-  Layout](https://docs.joomla.org/Help4.x:Articles:_Options/en#choosealayout "Help4.x:Articles: Options/en")
+  to be either a blog or list layout with the Choose a Layout
   option in the Category Tab.
 
 **Asociaciones**
 
 - **Associations**. Show the associated flags or Language Code.
-  [Multilingual
-  only.](https://docs.joomla.org/Help4.x:Multilingual_Associations/en "Help4.x:Multilingual Associations/en")
+  Multilingual only.
 
 **Mostrar autor**
 
 - **Author**. Show the author of the Article.
 - **Link to Author's Contact Page**. Show it as a link to a Contact
   layout for that author.Note: The author must be set up as a
-  [Contact](https://docs.joomla.org/Help4.x:Contacts:_Edit/en "Help4.x:Contacts: Edit/en").
-  Also, a link will not show if there is an [Author
-  Alias](https://docs.joomla.org/Help4.x:Articles:_Edit/en#createdbyalias "Help4.x:Articles: Edit/en")
+  Contact.
+  Also, a link will not show if there is an Author Alias
   value for the article.
 
 **Fecha**
@@ -154,8 +149,7 @@ will be used.
 
 ### Opciones comunes
 
-See [Menus: New
-Item](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en "Help4.x:Menu Item: New Item/en")
+See Menus: New Item
 for help on fields common to all Menu Item types, including:
 
 - [Panel
@@ -172,7 +166,7 @@ for help on fields common to all Menu Item types, including:
 ## Barra de herramientas
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Guardar**. Guarda el elemento de menú y se queda en la pantalla
   actual.

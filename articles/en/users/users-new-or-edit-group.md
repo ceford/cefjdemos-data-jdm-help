@@ -9,7 +9,7 @@ group allowed access to one component only.
 
 ## How to access
 
-- Select **Users **→** Groups** from the Administrator menu. Then...
+- Select **Users → Groups** from the Administrator menu. Then...
   - Select the **New** button from the Toolbar. Or...
   - Select a link from the **Group Title** column to edit an existing
     group.
@@ -20,7 +20,7 @@ group allowed access to one component only.
 src="https://docs.joomla.org/images/3/33/Help-4x-users-user-manager-add-new-user-group-en.png"
 decoding="async" data-file-width="600" data-file-height="281"
 width="800" height="375"
-alt="Help-4x-users-user-manager-add-new-user-group-en.png" />
+alt="add new user group screen" />
 
 ## User Group Details
 
@@ -71,10 +71,3 @@ functions are:
   can save work by making the new group a child of the existing group.
   That way, you only need to change the permissions that are different
   for the new group.
-
-## Related information
-
-- [Users:
-  Groups](https://docs.joomla.org/Help4.x:Users:_Groups/en "Help4.x:Users: Groups/en")
-- [ACL Tutorial for Joomla!
-  3.x](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/en "J3.x:Access Control List Tutorial/en")

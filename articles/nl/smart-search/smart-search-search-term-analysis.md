@@ -9,7 +9,7 @@ verzamelen.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Componenten **→** Slim zoeken **→** Statistieken** in het
+- Selecteer **Componenten → Slim zoeken → Statistieken** in het
   beheermenu.
 
 ## Schermafbeelding

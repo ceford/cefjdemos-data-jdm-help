@@ -9,9 +9,9 @@ to read.
 
 ## How to Access
 
-- Select **System **→** Templates Panel **→** Site Templates** from the
+- Select **System → Templates Panel → Site Templates** from the
   Administrator menu. Or...
-- Select **System **→** Templates Panel **→** Administrator Templates**
+- Select **System → Templates Panel → Administrator Templates**
   from the Administrator menu. Then...
   - Select a template name from the **Templates** column. Then...
     - Select a file to edit from the Editor tab.
@@ -22,7 +22,7 @@ to read.
 src="https://docs.joomla.org/images/9/90/Help-4x-Extensions-Template-Manager-Templates-Edit-Source-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="430"
 width="800" height="430"
-alt="Help-4x-Extensions-Template-Manager-Templates-Edit-Source-screen-en.png" />
+alt="Templates Edit Source screen" />
 
 ## Form Fields
 
@@ -55,9 +55,6 @@ need to be reviewed.
 
 ## Toolbar
 
-At the top of the page you will see the toolbar shown in the Screenshot
-above. The functions are:
-
 The Toolbar icons change with the action being taken. You may see:
 
 - **Save.** Saves the item and stays in the current screen.
@@ -75,9 +72,6 @@ The Toolbar icons change with the action being taken. You may see:
 - **Close File.** Closes the open file and returns to the Editor Tab.
 - **Help**. Opens this help screen.
 
-The Toolbar icons change with the action being taken. Some of the above
-are absent on some screens.
-
 ## Quick Tips
 
 - Important: Do not delete the default template files using FTP because
@@ -86,8 +80,3 @@ are absent on some screens.
   idea to make a backup of the file you are editing. Also, you can edit
   these files outside of Joomla! using the HTML or CSS editor of your
   choice.
-
-## Related Information
-
-- To install templates: [Extension Manager:
-  Install](https://docs.joomla.org/Help4.x:Extensions:_Install/en "Help4.x:Extensions: Install/en")

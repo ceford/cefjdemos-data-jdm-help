@@ -8,8 +8,8 @@ andere Quellen erlauben möglicherweise eine Bearbeitung.
 
 ## Wie darauf zugreifen
 
-- Im Administrator-Menü die Option **System **→** Update
-  panel **→** Update Sites** wählen. Dann...
+- Im Administrator-Menü die Option **System → Update
+  panel → Update Sites** wählen. Dann...
   - In der Spalte „Aktualisierungsquelle“ den Titel-Link anklicken.
 
 ## Bildschirmfoto

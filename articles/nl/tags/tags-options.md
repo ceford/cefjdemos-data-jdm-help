@@ -12,7 +12,7 @@ standaard instellingen werken.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Componenten **→** Tags** in het beheermenu. Dan ...
+- Selecteer **Componenten → Tags** in het beheermenu. Dan ...
   - Klik op de **Opties** knop in de werkbalk.
 
 ## Schermafbeelding

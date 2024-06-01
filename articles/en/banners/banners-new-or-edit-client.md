@@ -8,7 +8,7 @@ a Banner.
 
 ## How to Access
 
-- Select **Components **→** Banners **→** Clients** in the Administrator
+- Select **Components → Banners → Clients** in the Administrator
   menu.
   - To create a new Client click the New button in the Toolbar.
   - To edit an existing Client click the name in the Client column.
@@ -19,7 +19,7 @@ a Banner.
 src="https://docs.joomla.org/images/a/a0/Help-4x-Components-Banners-Clients-Edit-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="559"
 width="800" height="559"
-alt="Help-4x-Components-Banners-Clients-Edit-screen-en.png" />
+alt="Banners edit client details tab" />
 
 ## Form Fields
 
@@ -45,8 +45,7 @@ alt="Help-4x-Components-Banners-Clients-Edit-screen-en.png" />
   - *Archived*: The item has been archived.
   - *Trashed*: The item has been sent to the Trash.
 - **Version Note**. Optional field to identify this version of the item
-  in the item's [Version
-  History](https://docs.joomla.org/Help40:Components_Version_History/en "Special:MyLanguage/Help40:Components Version History/en")
+  in the item's Version History
   window.
 
 ### Metadata Tab
@@ -55,7 +54,7 @@ alt="Help-4x-Components-Banners-Clients-Edit-screen-en.png" />
 src="https://docs.joomla.org/images/8/8d/Help-4x-Components-Banners-Clients-Edit-screen-metadata-en.png"
 decoding="async" data-file-width="600" data-file-height="386"
 width="600" height="386"
-alt="Help-4x-Components-Banners-Clients-Edit-screen-metadata-en.png" />
+alt="Banners edit clients metadata tab" />
 
 - **Keywords**. Optional entry for keywords. Must be entered separated
   by commas (for example, "cats, dogs, pets") and may be entered in
@@ -71,13 +70,10 @@ alt="Help-4x-Components-Banners-Clients-Edit-screen-metadata-en.png" />
       Article. To do this, you would:
       - Add the keywords "dog" and "cat" to the appropriate Articles.
       - Add the Tags "dog" and "cat" to the appropriate Banners in
-        [Banners:
-        Edit](https://docs.joomla.org/Help40:Banners:_Edit/en "Special:MyLanguage/Help40:Banners: Edit/en").
+        Banners: Edit.
       - Set the Banner module Parameter 'Search By Tags' to "Yes" in
-        [Site Modules:
-        Banners](https://docs.joomla.org/Help40:Site_Modules:_Banners/en "Special:MyLanguage/Help40:Site Modules: Banners/en").
-  3.  For articles only, in combination with the ['Articles - Related'
-      module](https://docs.joomla.org/Help40:Site_Modules:_Articles_-_Related/en "Special:MyLanguage/Help40:Site Modules: Articles - Related/en"),
+        the Site Modules: Banners list.
+  3.  For articles only, in combination with the Articles - Related module,
       to display Articles that share at least one keyword in common. For
       example, if the current Article displayed has the keywords "cats,
       dogs, monkeys", any other Articles with at least one of these
@@ -91,7 +87,7 @@ alt="Help-4x-Components-Banners-Clients-Edit-screen-metadata-en.png" />
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Save**. Saves the item and stays in the current screen.
 - **Save & Close**. Saves the item and closes the current screen.
@@ -107,16 +103,6 @@ At the top of the page you will see the toolbar shown in the
   toolbar icon is not shown if you are creating a new item.
 - **Versions**. Opens the Item Version History window to show any prior
   versions of this item. This allows you to view older versions of this
-  item and, if desired, restore from an older version. See [Version
-  History](https://docs.joomla.org/Help40:Components_Version_History/en "Special:MyLanguage/Help40:Components Version History/en")
+  item and, if desired, restore from an older version. See Version History
   for more information.
 - **Help**. Opens this help screen.
-
-## Related Information
-
-- To create or edit Banners: [Banner -
-  New/Edit](https://docs.joomla.org/Help4.x:Banners:_Edit/en "Help4.x:Banners: Edit/en")
-- To work with Banner Categories: [Banner Category
-  Manager](https://docs.joomla.org/Help4.x:Banners:_Categories/en "Help4.x:Banners: Categories/en")
-- To place Banners on Pages: [Module
-  Manager](https://docs.joomla.org/Help4.x:Modules/en "Help4.x:Modules/en")

@@ -6,7 +6,7 @@ Esta tela mostra uma lista dos níveis de acesso dos usuários.
 
 ## Como acessar
 
-Selecione **Usuários **→** Níveis de acesso** no menu da administração.
+Selecione **Usuários → Níveis de acesso** no menu da administração.
 
 ## Captura de tela
 

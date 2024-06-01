@@ -9,11 +9,11 @@ of days. The default setting is 14 days.
 
 ## How To Access
 
-- Select **Users **→** Privacy **→** Requests** from the Administrator
+- Select **Users → Privacy → Requests** from the Administrator
   menu. Or...
-- Select **Users **→** Privacy **→** Capabilities** from the
+- Select **Users → Privacy → Capabilities** from the
   Administrator menu. Or...
-- Select **Users **→** Privacy **→** Consents** from the Administrator
+- Select **Users → Privacy → Consents** from the Administrator
   menu. Then...
   - Select the **Options** button on the Toolbar.
 
@@ -23,7 +23,7 @@ of days. The default setting is 14 days.
 src="https://docs.joomla.org/images/7/7c/Help-4.x-component-privacy-options-en.png"
 decoding="async" data-file-width="800" data-file-height="261"
 width="800" height="261"
-alt="Help-4.x-component-privacy-options-en.png" />
+alt="privacy options screenshot" />
 
 ## Form Fields
 
@@ -45,8 +45,3 @@ above. The functions are:
   screen without saving any modifications you may have made.
 - **Help**. Opens this help screen.
 
-## Related Information
-
-- [The Privacy Tool
-  Suite](https://docs.joomla.org/J3.x:Privacy/en "J3.x:Privacy/en")
-- 

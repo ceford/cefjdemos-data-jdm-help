@@ -9,14 +9,14 @@ multilingual website.
 
 To add a Association:
 
-- **Components **→** Multilingual Associations**
+- **Components → Multilingual Associations**
   1.  select **Item Type**.
   2.  select **Language**.
   3.  Select a target language in the **Not Associated** column.
 
 To edit a Association:
 
-- **Components **→** Multilingual Associations**
+- **Components → Multilingual Associations**
   1.  select **Item Type**.
   2.  select **Language**.
   3.  Select a target language in the **Associated** column.
@@ -40,7 +40,7 @@ The screens depends on the selected item so go to:
 
 ### Content
 
-- [Articles](https://docs.joomla.org/Help4.x:Articles:_Edit/en#content "Help4.x:Articles: Edit/en")
+- Articles
 - [Articles
   Categories](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/en#content "Help4.x:Articles: Edit Category/en")
 - [Contacts](https://docs.joomla.org/Help4.x:Contacts:_Edit/en#content "Help4.x:Contacts: Edit/en")
@@ -54,11 +54,11 @@ The screens depends on the selected item so go to:
 
 ### Images and Links
 
-- [Articles](https://docs.joomla.org/Help4.x:Articles:_Edit/en#imagesandlinks "Help4.x:Articles: Edit/en")
+- Articles
 
 ### Options
 
-- [Articles](https://docs.joomla.org/Help4.x:Articles:_Edit/en#options "Help4.x:Articles: Edit/en")
+- Articles
 - [Articles
   Categories](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/en#options "Help4.x:Articles: Edit Category/en")
 - [Contacts
@@ -70,7 +70,7 @@ The screens depends on the selected item so go to:
 
 ### Publishing
 
-- [Articles](https://docs.joomla.org/Help4.x:Articles:_Edit/en#publishing "Help4.x:Articles: Edit/en")
+- Articles
 - [Articles
   Categories](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/en#publishing "Help4.x:Articles: Edit Category/en")
 - [Contacts](https://docs.joomla.org/Help4.x:Contacts:_Edit/en#publishing "Help4.x:Contacts: Edit/en")
@@ -83,7 +83,7 @@ The screens depends on the selected item so go to:
 
 ### Associations
 
-- [Articles](https://docs.joomla.org/Help4.x:Articles:_Edit/en#associations "Help4.x:Articles: Edit/en")
+- Articles
 - [Articles
   Categories](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/en#associations "Help4.x:Articles: Edit Category/en")
 - [Contacts](https://docs.joomla.org/Help4.x:Contacts:_Edit/en#associations "Help4.x:Contacts: Edit/en")
@@ -96,11 +96,11 @@ The screens depends on the selected item so go to:
 
 ### Configure Edit Screen
 
-- [Articles](https://docs.joomla.org/Help4.x:Articles:_Edit/en#configureeditscreen "Help4.x:Articles: Edit/en")
+- Articles
 
 ### Permissions
 
-- [Articles](https://docs.joomla.org/Help4.x:Articles:_Edit/en#permissions "Help4.x:Articles: Edit/en")
+- Articles
 - [Articles
   Categories](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/en#permissions "Help4.x:Articles: Edit Category/en")
 - [Contacts
@@ -123,7 +123,7 @@ The screens depends on the selected item so go to:
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Save Reference**. Saves the Reference and stays in the current
   screen.

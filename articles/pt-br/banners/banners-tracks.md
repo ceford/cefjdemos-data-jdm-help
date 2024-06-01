@@ -7,7 +7,7 @@ rastreamentos para banners existentes.
 
 ## Como acessar
 
-- Selecione **Componentes **→** Banners **→** Monitoramentos**
+- Selecione **Componentes → Banners → Monitoramentos**
 
 ## Captura da tela
 
@@ -60,7 +60,7 @@ pesquisa mostrada na [captura de tela](#screenshot) acima.
 - **Selecionar cliente**: Selecione a partir da lista dos clientes
   disponíveis.
 
-  
+
 **Filtrar por tipo**: Permite mostrar apenas os itens atribuídos a um
 tipo específico. A caixa de listagem mostrará os tipos definidos.
 

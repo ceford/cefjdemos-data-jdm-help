@@ -7,7 +7,7 @@ van parameters die algemeen gebruikt worden voor alle advertenties.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Componenten **→** Advertenties** in het beheermenu. Dan
+- Selecteer **Componenten → Advertenties** in het beheermenu. Dan
   ...
   - Selecteer de **Opties** knop in de werkbalk. De **Opties** knop is
     beschikbaar op 'Advertenties', 'Categorieën', 'Adverteerders' en

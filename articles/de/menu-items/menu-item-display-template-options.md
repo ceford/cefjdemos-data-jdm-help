@@ -12,8 +12,8 @@ ihrer Website zu helfen.
 
 Erstellen eines neuen Menüpunkts **Template-Optionen anzeigen**:
 
-- Im Administrator-Menü **Menüs **→** \[Name des Menüs\]** auswählen
-  (z.B.: **Menüs **→** Main Menu**).
+- Im Administrator-Menü **Menüs → \[Name des Menüs\]** auswählen
+  (z.B.: **Menüs → Main Menu**).
   - die Schaltfläche **+ Neu** in der Toolbar anklicken
   - In der Zeile: Menüeintragstyp, auf die Schaltfläche „Auswählen“
     klicken <img
@@ -78,7 +78,7 @@ alt="Help-4x-Menus-Menu-Display Template Options-screen-de.png" />
   - Das Reihenfolge-Symbol <img
     src="https://docs.joomla.org/images/e/ee/Help30-Ordering-colheader-icon.png"
     decoding="async" data-file-width="12" data-file-height="23" width="12"
-    height="23" alt="Help30-Ordering-colheader-icon.png" /> in der
+    height="23" alt="Ordering column header icon" /> in der
     Tabellenüberschrift anklicken, um diese Spalte zur aktiven
     Sortierung zu machen. Die Ordnungssymbole in jeder Zeile ändern sich
     von hellgrau zu dunkelgrau, und der Mauszeiger verwandelt sich beim
@@ -86,7 +86,7 @@ alt="Help-4x-Menus-Menu-Display Template Options-screen-de.png" />
   - Eines der Reihenfolge-Symbole <img
     src="https://docs.joomla.org/images/8/87/Help30-Ordering-colheader-grab-bar-icon.png"
     decoding="async" data-file-width="10" data-file-height="21" width="10"
-    height="21" alt="Help30-Ordering-colheader-grab-bar-icon.png" />
+    height="21" alt="Ordering drag icon" />
     wählen und es nach oben oder unten ziehen, um die Position dieser
     Zeile in der Liste zu ändern. Die Einträge werden in der neuen
     Reihenfolge innerhalb der Position angezeigt.

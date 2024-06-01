@@ -7,7 +7,7 @@ van parameters die algemeen gebruikt worden voor Slim zoeken.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Componenten **→** Slim zoeken **→** Indexeren** in het
+- Selecteer **Componenten → Slim zoeken → Indexeren** in het
   beheermenu. Dan...
   - Klik op de **Opties** knop in de werkbalk.
 
@@ -130,7 +130,7 @@ srcset="https://docs.joomla.org/images/e/e9/Help4x-Components-Finder-Options-Per
 data-file-width="703" data-file-height="706" width="600" height="603"
 alt="Help4x-Components-Finder-Options-Permissions-nl.png" />
 
-  
+
 Om de rechten van deze extensie te wijzigen moet u de volgende
 handelingen uitvoeren.
 

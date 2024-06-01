@@ -5,7 +5,7 @@
 In this screen you have the ability to review an information request and
 the related action log.
 
-**Tutorials**
+### Tutorials
 
 - [Privacy Outline - Content and
   Workflow](https://docs.joomla.org/Help4.x:Components_Privacy_Outline/en "Help4.x:Components Privacy Outline/en")
@@ -18,7 +18,7 @@ the related action log.
 
 ## How to access
 
-- Select **Users **→** Privacy **→** Requests** from the Administrator
+- Select **Users → Privacy → Requests** from the Administrator
   menu. Then...
   - Select the email address of the request you want to review to open
     it.
@@ -29,30 +29,34 @@ the related action log.
 src="https://docs.joomla.org/images/e/ea/Help-4x-component-privacy-review-information-request-new-en.png"
 decoding="async" data-file-width="800" data-file-height="293"
 width="800" height="293"
-alt="Help-4x-component-privacy-review-information-request-new-en.png" />
+alt="privacy review information request screenshot" />
 
 ## Details
 
-- **Request Information.**
-  - *Email.* The email address of the individual owning the information
+### Request Information panel
+- **Email:** The email address of the individual owning the information
     being requested
-  - *Status.* The status of the information request
-    - Invalid. The information request has been invalidated by a Super
-      User
+- **Status:** The status of the information request
+    - Invalid. The information request has been invalidated by a Super User
     - Pending. The user hasn't yet confirmed their information request
     - Confirmed. The user has confirmed their information request
-    - Completed. The information request has been completed by a Super
-      User
-  - *Request Type.* Export or Remove
-  - *Date Requested.* Date and time when the information request has
-    been created
-- **Action Log.** (*Action/Date/Name*) All actions performed related to
-  the individual owning the information being requested.
+    - Completed. The information request has been completed by a Super User
+- *Request Type.* Export or Remove
+- *Date Requested.* Date and time when the information request has been created
+
+### Action Log panel
+
+This is a table containing all actions related to the individual owning the
+information being requested.
+
+- **Action** The action performed.
+- **Date** The date the action was performaed.
+- **Name** The name of the user for whom the action was performed
 
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Complete.** Marks the request as Complete and removes Action buttons
   from the item in the Requests list.
@@ -69,8 +73,3 @@ At the top of the page you will see the toolbar shown in the
   screen without saving any modifications you may have made. This
   toolbar icon is not shown if you are creating a new item.
 - **Help**. Opens this help screen.
-
-## Related Information
-
-- [The Privacy Tool
-  Suite](https://docs.joomla.org/J3.x:Privacy/en "J3.x:Privacy/en")

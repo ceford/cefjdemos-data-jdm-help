@@ -7,7 +7,7 @@ languages and the actual version.
 
 ## Как открыть
 
-- Select **System **→** Install Panel **→** Languages** from the
+- Select **System → Install Panel → Languages** from the
   Administrator menu.
 
 ## Скриншот
@@ -29,7 +29,7 @@ combination of two-character ISO language codes and country codes.
 ## List Filters
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -46,13 +46,12 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
 ## Панель инструментов
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Options.** Opens the Options window where settings such as default
   parameters can be edited.

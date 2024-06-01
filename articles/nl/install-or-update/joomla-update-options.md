@@ -7,7 +7,7 @@ gebruikt worden bij het updaten van Joomla!.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Systeem **→** Joomla** vanuit het beheermenu, Update
+- Selecteer **Systeem → Joomla** vanuit het beheermenu, Update
   venster. Dan...
   - Klik op de **Opties** knop in de werkbalk.
 

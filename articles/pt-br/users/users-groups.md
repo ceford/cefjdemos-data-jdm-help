@@ -8,7 +8,7 @@ você crie, visualize, edite e exclua grupos de usuários.
 
 ## Como acessar
 
-- Selecione **Usuários **→** Grupos** no menu da administração.
+- Selecione **Usuários → Grupos** no menu da administração.
 
 ## Captura de tela
 

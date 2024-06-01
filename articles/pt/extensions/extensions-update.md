@@ -10,7 +10,7 @@ methods.
 
 ## Como Aceder
 
-- Select **System **→** Update Panel **→** Extensions** from the
+- Select **System → Update Panel → Extensions** from the
   Administrator menu. Then to perform an update...
   - Select the checkbox of one or more items to update.
   - Select the **Update** button in the Toolbar.
@@ -60,7 +60,7 @@ alt="Help-4x-Extensions-Manage-Update-columns-en.png" />
 ## Filtros de Lista
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -77,8 +77,7 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
 **Opções do Filtro**
 
@@ -92,7 +91,7 @@ shown in the [Screenshot](#screenshot) above.
 
 **Page Controls**. When the number of items is more than one page, you
 will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -145,8 +144,7 @@ has a dark colour background.
   Screen](https://docs.joomla.org/Help4.x:Information:_Database/en "Help4.x:Information: Database/en").
 - **Warnings.** Links to the [Warnings
   Screen](https://docs.joomla.org/Help4.x:Information:_Warnings/en "Help4.x:Information: Warnings/en").
-- **Install Languages.** Links to the [Install Languages
-  Screen](https://docs.joomla.org/Help4.x:Extensions_Extension_Manager_Languages/en "Help4.x:Extensions Extension Manager Languages/en").
+- **Install Languages.** Links to the Install Languages Screen.
 - **Update Sites.** Links to the <a
   href="https://docs.joomla.org/index.php?title=Help4.x:Extensions_Extension_Manager_Update_Sites/en&amp;action=edit&amp;redlink=1"
   class="new"

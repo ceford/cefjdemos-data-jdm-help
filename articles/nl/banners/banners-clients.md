@@ -46,13 +46,13 @@ Klik op de kolomkop om de lijst volgens deze kolom te sorteren.
 - **Gepubliceerd:**
   <img src="https://docs.joomla.org/images/1/10/Help-4x-icon-tick.png"
   decoding="async" data-file-width="27" data-file-height="20" width="27"
-  height="20" alt="Help-4x-icon-tick.png" /> Het aantal gepubliceerde
+  height="20" alt="tick icon" /> Het aantal gepubliceerde
   items. Klik op de genummerde knop om een lijst met alleen deze items
   te tonen.
 - **Gedepubliceerd:**
   <img src="https://docs.joomla.org/images/c/c9/Help-4x-icon-cross.png"
   decoding="async" data-file-width="21" data-file-height="20" width="21"
-  height="20" alt="Help-4x-icon-cross.png" /> Het aantal gedepubliceerde
+  height="20" alt="cross icon" /> Het aantal gedepubliceerde
   items. Klik op de genummerde knop om een lijst met alleen deze items
   te tonen.
 - **Gearchiveerd:** Of en hoeveel items gearchiveerd zijn. U kunt de
@@ -60,7 +60,7 @@ Klik op de kolomkop om de lijst volgens deze kolom te sorteren.
 - **Naar prullenbak:**
   <img src="https://docs.joomla.org/images/5/59/Help-4x-icon-bin.png"
   decoding="async" data-file-width="18" data-file-height="20" width="18"
-  height="20" alt="Help-4x-icon-bin.png" /> Het aantal items in de
+  height="20" alt="bin icon" /> Het aantal items in de
   prullenbak. Klik op de genummerde knop om een lijst met alleen deze
   items te tonen.
 - **Aankooptype.** Het advertentie-aankooptype van de adverteerder. Dit
@@ -76,7 +76,7 @@ Klik op de kolomkop om de lijst volgens deze kolom te sorteren.
 ## Lijst filters
 
 **Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande [Screenshot](#screenshot).
+bovenstaande Screenshot.
 
 - **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
   zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat
@@ -118,7 +118,7 @@ width="227" height="187" alt="Help35-colheader-select-type-nl.png" />
 
 **Paginabesturing** Als het aantal items meer is dan een pagina, zie je
 een paginabesturing bij de onderkant van de pagina zoals in bovenstaande
-[Screenshot](#screenshot). Het huidige paginanummer heeft een donkere
+Screenshot. Het huidige paginanummer heeft een donkere
 achtergrond.
 
 - **Begin**. Klik om naar de eerste pagina te gaan.

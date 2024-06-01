@@ -15,9 +15,9 @@ zu finden.
 ## Wie darauf zugreifen
 
 - Enable Workflows in
-  **Content **→** Articles **→** Options **→** Integration Tab** from
+  **Content → Articles → Options → Integration Tab** from
   the Administrator menu. Then...
-  - Select **Content **→** Workflows** in the Administrator menu.
+  - Select **Content → Workflows** in the Administrator menu.
 
 ## Screenshot
 
@@ -46,14 +46,14 @@ Click on the column heading to sort the list by that column's value.
   - Select the Ordering icon <img
     src="https://docs.joomla.org/images/e/ee/Help30-Ordering-colheader-icon.png"
     decoding="async" data-file-width="12" data-file-height="23" width="12"
-    height="23" alt="Help30-Ordering-colheader-icon.png" /> in the Table
+    height="23" alt="Ordering column header icon" /> in the Table
     heading to make it the active ordering item. The ordering icons in
     each row will change from light grey to dark grey and the pointer
     will change to a drag arrow on hover.
   - Select one of the Ordering icons <img
     src="https://docs.joomla.org/images/8/87/Help30-Ordering-colheader-grab-bar-icon.png"
     decoding="async" data-file-width="10" data-file-height="21" width="10"
-    height="21" alt="Help30-Ordering-colheader-grab-bar-icon.png" /> and
+    height="21" alt="Ordering drag icon" /> and
     drag it up or down to change the position of that row in the list.
     The items will display in the new order within the Position.
 - **Status**. The published status of the item.
@@ -73,7 +73,7 @@ Click on the column heading to sort the list by that column's value.
 ## List Filters
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -90,8 +90,7 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#defaultlistlimit "Special:MyLanguage/Help4.x:Site Global Configuration/de").
+  a site is '20' but this may be changed in the Global Configuration.
 
 **Filter Options**
 
@@ -100,7 +99,7 @@ shown in the [Screenshot](#screenshot) above.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Actions:** Reveals a list of actions for selected Items. Check one
   or more Item checkboxes to activate the list.

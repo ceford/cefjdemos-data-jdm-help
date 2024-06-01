@@ -7,9 +7,9 @@ van een template en stijlsheets vanaf dit scherm bewerken.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Systeem **→** Templates venster **→** Website templates**
+- Selecteer **Systeem → Templates venster → Website templates**
   vanuit het beheermenu. Of...
-- Selecteer **Systeem **→** Templates venster **→** Beheer templates**
+- Selecteer **Systeem → Templates venster → Beheer templates**
   vanuit het beheermenu. Dan...
   - Selecteer een templatenaam uit de **Templates** kolom.
 

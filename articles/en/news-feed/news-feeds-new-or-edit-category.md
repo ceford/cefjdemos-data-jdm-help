@@ -11,7 +11,7 @@ Feeds!*
 
 ## How to Access
 
-- Select **Components **→** News Feeds **→** Categories** from the
+- Select **Components → News Feeds → Categories** from the
   Administrator menu. Then ...
   - Select the **New** Toolbar button to create a new category.
   - Select a title link in the **Title** column to edit an existing
@@ -23,24 +23,22 @@ Feeds!*
 src="https://docs.joomla.org/images/3/32/Help-4x-Components-Newsfeeds-Categories-Edit-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="628"
 width="800" height="628"
-alt="Help-4x-Components-Newsfeeds-Categories-Edit-screen-en.png" />
+alt="Newsfeeds Category Edit screen" />
 
 ## Form Fields
 
 - **Title.** The Name of the News Feed. This field is required.
 - **Alias**. The internal name of the item. Normally, you can leave this
   blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces. [Learn
-  more.](https://docs.joomla.org/Alias "Special:MyLanguage/Alias")
+  with dashes instead of spaces.
 
-### Category Details
+### Category tab
 
 - **Title**. The Title for this item. This may or may not display on the
   page, depending on the parameter values you choose.
 - **Alias**. The internal name of the item. Normally, you can leave this
   blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces. [Learn
-  more.](https://docs.joomla.org/Alias "Special:MyLanguage/Alias")
+  with dashes instead of spaces.
 - **Description**. The description for the item. Category, Subcategory
   and Web Link descriptions may be shown on web pages, depending on the
   parameter settings. These descriptions are entered using the same
@@ -51,14 +49,14 @@ src="https://docs.joomla.org/images/thumb/d/d3/Help-4x-Administrator-Categories-
 decoding="async"
 srcset="https://docs.joomla.org/images/d/d3/Help-4x-Administrator-Categories-Edit-Editor-en.png 1.5x"
 data-file-width="858" data-file-height="251" width="600" height="176"
-alt="Help-4x-Administrator-Categories-Edit-Editor-en.png" />
+alt="Newsfeeds Category Edit TinyMCE toolbar" />
 
 - **Article.** Click to quickly add an 'Article' link to the description
   with a popup window.
 - **Image.** Click to quickly add an 'Image' to the description with a
   popup window.
 
-**Toggle Editor**. A Toggle Editor button show below the edit window.
+**Toggle Editor**. A Toggle Editor button shows below the edit window.
 This button allows you to toggle between the TinyMCE editor and No
 Editor.
 
@@ -74,7 +72,6 @@ Editor.
   - **Registered:** Only registered users have access
   - **Special:** Only users with author status or higher have access
   - **Super Users:** Only super users have access
-
   Enter the desired level using the dropdown list box. Custom Access
   Control Levels created will show if they exist.
 - **Language.** Item language.
@@ -87,11 +84,10 @@ Editor.
   (for example, to document information about this item) and does not
   show in the front end of the site.
 - **Version Note.** Optional field to identify this version of the item
-  in the item's [Version
-  History](https://docs.joomla.org/Help4.x:Components_Version_History "Help4.x:Components Version History")
+  in the item's Version History
   window.
 
-### Options
+### Options tab
 
 This shows Options for this Category, as shown below when tab is
 clicked:
@@ -100,7 +96,7 @@ clicked:
 src="https://docs.joomla.org/images/1/1b/Help-4x-Categories-Edit-screen-options-tab-en.png"
 decoding="async" data-file-width="600" data-file-height="371"
 width="600" height="371"
-alt="Help-4x-Categories-Edit-screen-options-tab-en.png" />
+alt="Newsfeeds Category Edit options tab" />
 
 - **Layout**. Use a different layout from the supplied components view
   or overrides in the templates.
@@ -109,16 +105,13 @@ alt="Help-4x-Categories-Edit-screen-options-tab-en.png" />
 - **Alt Text**. Alternative text used for visitors without access to
   images.
 
-### Publishing Options
-
-This section shows Publishing Options parameters for this Category, as
-shown below when tab is clicked:
+### Publishing tab
 
 <img
 src="https://docs.joomla.org/images/b/b7/Help-4x-Categories-Edit-screen-publish-options-tab-en.png"
 decoding="async" data-file-width="600" data-file-height="479"
 width="600" height="479"
-alt="Help-4x-Categories-Edit-screen-publish-options-tab-en.png" />
+alt="Newsfeeds Category Edit publishing tab" />
 
 The grayed out fields are for information only and may not be edited.
 
@@ -152,15 +145,12 @@ The grayed out fields are for information only and may not be edited.
     this, you would:
     - Add the keywords 'dog' and 'cat' to the appropriate Articles.
     - Add the Tags 'dog' and 'cat' to the appropriate Banners in the
-      [Banner Manager
-      New/Edit](https://docs.joomla.org/Help4.x:Banners:_Edit/en "Help4.x:Banners: Edit/en")
+      Banner Manager New/Edit
       screen.
     - Set the Banner module Parameter 'Search By Tags' to 'Yes in the
-      [Banner Module
-      Edit](https://docs.joomla.org/Help4.x:Site_Modules:_Banners/en "Help4.x:Site Modules: Banners/en")
+      Banner Module Edit
       screen.
-  - For articles only, in combination with the [Related
-    Articles](https://docs.joomla.org/Help4.x:Site_Modules:_Articles_-_Related/en "Help4.x:Site Modules: Articles - Related/en")
+  - For articles only, in combination with the Related Articles
     module, to display Articles that share at least one keyword in
     common. For example, if the current Article displayed has the
     keywords "cats, dogs, monkeys", any other Articles with at least one
@@ -184,32 +174,25 @@ The grayed out fields are for information only and may not be edited.
   - *No index, no follow*: Do not index this page or follow any links on
     the page.
 
-### Associations
-
-This shows Associations for this Category, as shown below when tab is
-clicked:
+### Associations tab
 
 <img
 src="https://docs.joomla.org/images/7/73/Help-4x-Categories-Edit-screen-associations-tab-en.png"
 decoding="async" data-file-width="600" data-file-height="238"
 width="600" height="238"
-alt="Help-4x-Categories-Edit-screen-associations-tab-en.png" />
+alt="Newsfeeds Category Edit associations tab" />
 
 - **Select a Category:** Select or Create a Category to associate.
 
-### Permissions
-
-This section shows permissions for this category. The screen shows as
-follows.
+### Permissions tab
 
 <img
 src="https://docs.joomla.org/images/thumb/8/87/Help-4x-Categories-Edit-screen-permissions-tab-en.png/600px-Help-4x-Categories-Edit-screen-permissions-tab-en.png"
 decoding="async"
 srcset="https://docs.joomla.org/images/8/87/Help-4x-Categories-Edit-screen-permissions-tab-en.png 1.5x"
 data-file-width="800" data-file-height="432" width="600" height="324"
-alt="Help-4x-Categories-Edit-screen-permissions-tab-en.png" />
+alt="Newsfeeds Category Edit permissions tab" />
 
-  
 To change the permissions for this extension, do the following.
 
 - Select the **Group** by clicking its title located on the left.
@@ -241,7 +224,7 @@ To change the permissions for this extension, do the following.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Save**. Saves the item and stays in the current screen.
 - **Save & Close**. Saves the item and closes the current screen.
@@ -256,8 +239,3 @@ At the top of the page you will see the toolbar shown in the
   screen without saving any modifications you may have made. This
   toolbar icon is not shown if you are creating a new item.
 - **Help**. Opens this help screen.
-
-## Related Information
-
-To work with News Feeds: [News
-Feeds](https://docs.joomla.org/Help4.x:News_Feeds/en "Help4.x:News Feeds/en")

@@ -12,7 +12,7 @@ User Options set globally for all users include
 
 ## Comment y accéder ?
 
-**Utilisateurs **→** Gestion**
+**Utilisateurs → Gestion**
 
 - Cliquez sur le bouton **Paramètres** dans la barre d'outils.
 
@@ -38,7 +38,7 @@ alt="Help-4x-Users-Options-screen-fr.png" />
     module</a>.
   - Non: The 'Create an Account' link will not show.
 - **Groupe des inscrits**. The
-  [group](https://docs.joomla.org/Help4.x:Users:_Groups/fr "Special:MyLanguage/Help4.x:Users: Groups/fr")
+  group
   that users are assigned to by default when they register on the site.
   Defaults to 'Registered'.
 - **Groupe des visiteurs**. The group that guests are assigned to
@@ -231,8 +231,7 @@ alt="Help-4x-Users-Options-integration-subscreen-fr.png" />
 
 ### Droits
 
-This section lets you set up the default [Access Control
-List](https://docs.joomla.org/Access_Control_List/fr "Special:MyLanguage/Access Control List/fr")
+This section lets you set up the default Access Control List
 permissions for all users.
 
 <img
@@ -261,8 +260,7 @@ To change the permissions for users, do the following.
       any value of custom fields submitted in users.
 3.  Sélectionnez l'autorisation souhaitée pour l'action que vous
     souhaitez modifier.
-    - **Hérité**. Inherited for users in this Group from the [Global
-      Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/fr#permissions "Special:MyLanguage/Help4.x:Site Global Configuration/fr")
+    - **Hérité**. Inherited for users in this Group from the Global Configuration
       permissions.
     - **Autorisé**. Allowed for users in this Group.Note: If this action
       is Denied at one of the higher levels, the Allowed permission here

@@ -10,7 +10,7 @@ item en de geïnstalleerde site talen.
 
 ## Hoe toegang te krijgen
 
-- **Componenten **→** Meertaligheid associaties**
+- **Componenten → Meertaligheid associaties**
   1.  Selecteer **item-type**.
   2.  Selecteer **taal**.
 
@@ -42,7 +42,7 @@ alt="Help-4x-Components-Associations-nl.png" />
 ## Lijst filters
 
 **Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande [Screenshot](#screenshot).
+bovenstaande Screenshot.
 
 - **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
   zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat
@@ -82,7 +82,7 @@ Bovenaan de pagina ziet u de filterbalk zoals in de
 
 **Paginabesturing** Als het aantal menu-items meer is dan een pagina,
 zie je een paginabesturing bij de onderkant van de pagina zoals in
-bovenstaande [Screenshot](#screenshot). Het huidige paginanummer heeft
+bovenstaande Screenshot. Het huidige paginanummer heeft
 een donkere achtergrond.
 
 - **Begin**. Klik om naar de eerste pagina te gaan.
@@ -115,7 +115,7 @@ alt="Help-4x-Components-Associations-toolbar-subscreen-nl.png" />
   translate from English to Persian too. [Meer
   leren.](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Edit/nl "Help4.x:Multilingual Associations: Edit/nl")
 - This screen use menu-items as example. You will see all Item Types
-  shown in the [Screenshot](#screenshot) above.
+  shown in the Screenshot above.
 
 ## Verwante informatie
 

@@ -8,7 +8,7 @@ scherm gelden voor de hele site.
 
 ## Hoe toegang te krijgen
 
-- **Systeem **→** Instellingen **→** Algemene instellingen**
+- **Systeem → Instellingen → Algemene instellingen**
 
 ## Schermafbeelding
 

@@ -13,8 +13,8 @@ weergave), E-mail onderwerp en berichtfilters.
 Om een nieuwe lijst met contactpersonen in een categorie menu-item aan
 te maken:
 
-- Selecteer **Menu's **→** \[naam van het menu\]** vanuit het beheermenu
-  (bijvoorbeeld, **Menu's **→** Hoofdmenu**).
+- Selecteer **Menu's → \[naam van het menu\]** vanuit het beheermenu
+  (bijvoorbeeld, **Menu's → Hoofdmenu**).
   - Selecteer de **Nieuw** werkbalk knop. Dan...
 - Klik op de Menu-itemtype selectie knop <img
   src="https://docs.joomla.org/images/6/6f/Help30-Menu-Item-Type-Select-Button-nl.png"
@@ -93,14 +93,14 @@ altijd altijd met deze stijl te tonen.
   - Selecteer het volgorde icoon <img
     src="https://docs.joomla.org/images/e/ee/Help30-Ordering-colheader-icon.png"
     decoding="async" data-file-width="12" data-file-height="23" width="12"
-    height="23" alt="Help30-Ordering-colheader-icon.png" /> in de
+    height="23" alt="Ordering column header icon" /> in de
     tabelkop om het het actieve volgorde item te maken. De volgorde
     iconen in iedere rij veranderen van licht naar donker grijs en de
     pijl verandert in een sleepsymbool als u eroverheen gaat.
   - Selecteer één van de volgorde iconen <img
     src="https://docs.joomla.org/images/8/87/Help30-Ordering-colheader-grab-bar-icon.png"
     decoding="async" data-file-width="10" data-file-height="21" width="10"
-    height="21" alt="Help30-Ordering-colheader-grab-bar-icon.png" /> en
+    height="21" alt="Ordering drag icon" /> en
     sleep het naar boven of beneden om de positie van die rij in de
     lijst te veranderen. De items worden in de nieuwe volgorde binnen de
     positie getoond.
@@ -367,7 +367,7 @@ beschikbaar:
 
 #### E-mail opties tabblad
 
-De e-mail opties bepalen de weergaven van het  **→** *Contactformulier*
+De e-mail opties bepalen de weergaven van het  → *Contactformulier*
 als dit is geactiveerd.
 
 <img
@@ -451,16 +451,16 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 | Verwante helpschermen                                                                                                                            | Beschrijving                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | [Contactpersonen: Opties](https://docs.joomla.org/Help4.x:Contacts:_Options/nl "Help4.x:Contacts: Options/nl")                                   | Contactpersonen opties instellingen geven de mogelijkheid tot het instellen van parameters die algemeen gebruikt worden voor alle contactpersonen.                                                                                                                                                                                                                                                                             |
 | [Contactpersonen: Categorieën](https://docs.joomla.org/Help4.x:Contacts:_Categories/nl "Help4.x:Contacts: Categories/nl")                        | Contactpersoon categoriebeheer is waar u bestaande contactpersonen kunt bewerken en nieuwe kunt aanmaken. Let op dat Contactpersoon categorieën los staan van andere categorieën, zoals artikelen, advertenties, nieuwsfeeds en weblinks. Vanaf dit scherm kunt u ook navigeren naar het [Contactpersonen](https://docs.joomla.org/Help4.x:Contacts/nl "Help4.x:Contacts/nl") scherm.                                          |
-| <a                                                                                                                                               
- href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit_Category/nl&amp;action=edit&amp;redlink=1"                            
- class="new"                                                                                                                                       
- title="Help4.x:Contacts: New or Edit Category/nl (page does not exist)">Contactpersonen:                                                          
+| <a
+ href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit_Category/nl&amp;action=edit&amp;redlink=1"
+ class="new"
+ title="Help4.x:Contacts: New or Edit Category/nl (page does not exist)">Contactpersonen:
  Nieuwe of bewerken van categorie</a>                                                                                                              | Dit is waar u een Contactpersoon categorie kunt toevoegen of een bestaande contactpersoon categorie kunt bewerken. Contactpersoon categorieën stellen u in staat contactpersonen te organiseren op uw website. Contactpersoon categorieën staan los van andere type categorieën, zoals van artikelen, advertenties, nieuwsfeeds en meer.                                                                                       |
 | [Contactpersonen](https://docs.joomla.org/Help4.x:Contacts/nl "Help4.x:Contacts/nl")                                                             | Het Contactpersoon beheer scherm geeft u de mogelijkheid contactpersoon informatie aan uw Joomla! site toe te voegen. U kunt informatie opgeven zoals naam, adres, telefoonnummer en e-mailadres. U kunt contactpersonen ook koppelen aan geregistreerde gebruikers. Achteraf kunt u [Menubeheer](https://docs.joomla.org/Help4.x:Menus/nl "Help4.x:Menus/nl") gebruiken om op de website links naar contactpersonen te maken. |
-| <a                                                                                                                                               
- href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit/nl&amp;action=edit&amp;redlink=1"                                     
- class="new"                                                                                                                                       
- title="Help4.x:Contacts: New or Edit/nl (page does not exist)">Contactpersonen:                                                                   
+| <a
+ href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit/nl&amp;action=edit&amp;redlink=1"
+ class="new"
+ title="Help4.x:Contacts: New or Edit/nl (page does not exist)">Contactpersonen:
  Nieuw of bewerken</a>                                                                                                                             | Dit is waar u een contactpersoon kunt toevoegen of een bestaande contactpersoon kunt bewerken. Contactpersonen stellen u in staat mensen te tonen op uw website. Ze geven ook de mogelijkheid aan gebruikers e-mails aan deze mensen te sturen.                                                                                                                                                                                |
 | <span class="mw-selflink selflink">Menu-item: Lijst met contactpersonen in een categorie</span>                                                  | Wordt gebruikt om contactpersonen te te tonen die tot een bepaalde categorie behoren in een lijst weergave. Instellingen bevatten: Contactpersoon details, Contactpersoon formulier, presentatie (slider, tabbladen, platte weergave) en e-mail onderwerp en bericht-filters.                                                                                                                                                  |
 | [Menu-item: Speciale contactpersonen](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Contacts/nl "Help4.x:Menu Item: Featured Contacts/nl") | Wordt gebruikt om een lijst met aanbevolen contactpersonen te tonen.                                                                                                                                                                                                                                                                                                                                                           |

@@ -12,7 +12,7 @@ Aktualisierungsserver bezogen.
 ## Wie darauf zugreifen
 
 - Im Administrator-Menü
-  **System **→** Aktualisierungen **→** Erweiterungen** wählen. Dann, um
+  **System → Aktualisierungen → Erweiterungen** wählen. Dann, um
   ein Update durchzuführen ...
   - das Kontrollkästchen eines oder mehrerer Einträge markieren, die
     aktualisiert werden sollen.
@@ -66,7 +66,7 @@ alt="Help-4x-Extensions-Manage-Update-columns-en.png" />
 ## List Filters
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -83,8 +83,7 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
 **Filter Options**
 
@@ -98,7 +97,7 @@ shown in the [Screenshot](#screenshot) above.
 
 **Page Controls**. When the number of items is more than one page, you
 will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -110,7 +109,7 @@ has a dark colour background.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Update.** Perform update of selected options. This will fetch an
   update file from the update server and may take several seconds.
@@ -137,25 +136,3 @@ At the top of the page you will see the toolbar shown in the
   installation itself. This will ensure that you can restore your
   Joomla! installation to its previous state if the update fails or
   causes unexpected results.
-
-## Related Information
-
-- **Install.** Links to the [Install
-  Screen](https://docs.joomla.org/Help4.x:Extensions:_Install/en "Help4.x:Extensions: Install/en").
-- **Update.** Links to the <span class="mw-selflink selflink">Update
-  Screen</span>.
-- **Manage.** Links to the [Manage
-  Screen](https://docs.joomla.org/Help4.x:Extensions:_Manage/en "Help4.x:Extensions: Manage/en").
-- **Discover.** Links to the [Discover
-  Screen](https://docs.joomla.org/Help4.x:Extensions:_Discover/en "Help4.x:Extensions: Discover/en").
-- **Database.** Links to the [Database
-  Screen](https://docs.joomla.org/Help4.x:Information:_Database/en "Help4.x:Information: Database/en").
-- **Warnings.** Links to the [Warnings
-  Screen](https://docs.joomla.org/Help4.x:Information:_Warnings/en "Help4.x:Information: Warnings/en").
-- **Install Languages.** Links to the [Install Languages
-  Screen](https://docs.joomla.org/Help4.x:Extensions_Extension_Manager_Languages/en "Help4.x:Extensions Extension Manager Languages/en").
-- **Update Sites.** Links to the <a
-  href="https://docs.joomla.org/index.php?title=Help4.x:Extensions_Extension_Manager_Update_Sites/en&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Help4.x:Extensions Extension Manager Update Sites/en (page does not exist)">Update
-  Sites Screen</a>.

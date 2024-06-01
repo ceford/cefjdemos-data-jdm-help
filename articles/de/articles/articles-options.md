@@ -15,7 +15,7 @@ funktioniert mit den Standardeinstellungen.
 
 ## Wie darauf zugreifen
 
-**Inhalt **→** Beiträge**
+**Inhalt → Beiträge**
 
 - auf den Button **Optionen** der Werkzeugleiste klicken.
 
@@ -306,11 +306,11 @@ alt="Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-de.p
   - Abwärts: Beiträge werden innerhalb der ersten Spalte abwärts
     sortiert, dann in der nächsten Spalte. Zum Beispiel:
 
-- 
+-
   - Seitlich: Beiträge werden quer durch die Spalten sortiert, dann
     zurück in die erste Spalte. Zum Beispiel:
 
-- 
+-
 - **\# Links**. Anzahl der Beiträge, deren Überschriften als Links
   gezeigt werden, normalerweise unterhalb der Einleitungstexte. Damit
   können Benutzer weitere Beiträge aufrufen, falls mehr Beiträge

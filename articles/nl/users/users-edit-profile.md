@@ -9,21 +9,21 @@ te maken of een bestaande gebruiker te bewerken.
 
 Om een bestaande gebruiker te bewerker:
 
-- Selecteer **Gebruikers **→** Beheren** vanuit het beheermenu. Dan...
+- Selecteer **Gebruikers → Beheren** vanuit het beheermenu. Dan...
   - Zoek naar de gewenste gebruiker en selecteer de naamlink in de
     **Naam** kolom.
 
 Om een nieuwe gebruiker aan te maken:
 
-- Selecteer **Gebruikers **→** Beheren** vanuit het beheermenu. Dan...
+- Selecteer **Gebruikers → Beheren** vanuit het beheermenu. Dan...
   - Selecteer de **Nieuw** knop in de werkbalk.
-- Of... Selecteer **Gebruikers **→** Beheren **→** Plus icoon** vanuit
+- Of... Selecteer **Gebruikers → Beheren → Plus icoon** vanuit
   het beheermenu.
-- Of... Selecteer **Gebruikers **→** Controlepaneel icoon** vanuit het
+- Of... Selecteer **Gebruikers → Controlepaneel icoon** vanuit het
   beheermenu. Dan...
   - Selecteer het **Plus** icoon vanuit het Gebruikers venster.
-- Of... Selecteer **Home Controlepaneel **→** Site
-  venster **→** Gebruikers plus icoon** vanuit het Beheermenu.
+- Of... Selecteer **Home Controlepaneel → Site
+  venster → Gebruikers plus icoon** vanuit het Beheermenu.
 
 ## Schermafbeelding
 

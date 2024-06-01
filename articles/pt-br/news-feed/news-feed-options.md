@@ -7,9 +7,9 @@ parâmetros usados globalmente para todos os feeds para notícias.
 
 ## Como acessar
 
-- Selecione **Componentes **→** Feeds para notícias **→** Feeds** no
+- Selecione **Componentes → Feeds para notícias → Feeds** no
   menu administrativo. Ou...
-- Selecione **Componentes **→** Feeds para notícias **→** Categorias**
+- Selecione **Componentes → Feeds para notícias → Categorias**
   no menu administrativo. Então...
   - Acione o botão *Opções* na barra das ferramentas.
 

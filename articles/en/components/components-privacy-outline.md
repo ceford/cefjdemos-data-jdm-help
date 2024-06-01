@@ -38,7 +38,7 @@ This is a typical sequence of events:
 - If the message is not submitted by the Subject via a site Personal
   Information form:
   - The Administrator goes to
-    **Users **→** Privacy **→** Requests **→** New** to create a new
+    **Users → Privacy → Requests → New** to create a new
     information request. A message is sent to the email address provided
     inviting the Subject to confirm this is a genuine request.
 - If the message is submitted via a site Personal Information form the
@@ -48,7 +48,7 @@ This is a typical sequence of events:
   message.
 - The Administrator sees that Private Messages in the Title Bar has
   pending messages. There will also be a system email message.
-- The Administrator goes to **Users **→** Privacy **→** Requests** and
+- The Administrator goes to **Users → Privacy → Requests** and
   sees that the request status has changed to **Confirmed**.
 - For a data Export request there are adjacent Export and Email buttons.
   - The Administrator selects the Export button to have a look at the

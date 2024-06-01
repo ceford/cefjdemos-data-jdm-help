@@ -29,7 +29,7 @@ As »Extensões» estão categorizadas em cinco tipos, como se segue:
 
 ## Como Aceder
 
-- Select **System **→** Install Panel **→** Extensions** from the
+- Select **System → Install Panel → Extensions** from the
   Adminstrator menu.
 
 There will be a brief delay as Joomla downloads an initial selection of
@@ -148,8 +148,7 @@ de Ecrã](#Captura_de_Ecr.C3.A3) acima. As funções são:
   Screen](https://docs.joomla.org/Help4.x:Information:_Database/en "Help4.x:Information: Database/en").
 - **Warnings.** Links to the [Warnings
   Screen](https://docs.joomla.org/Help4.x:Information:_Warnings/en "Help4.x:Information: Warnings/en").
-- **Install Languages.** Links to the [Install Languages
-  Screen](https://docs.joomla.org/Help4.x:Extensions:_Languages/en "Help4.x:Extensions: Languages/en").
+- **Install Languages.** Links to the Install Languages Screen.
 - **Update Sites.** Links to the <a
   href="https://docs.joomla.org/index.php?title=Help4.x:Extensions_Extension_Manager_Update_Sites/en&amp;action=edit&amp;redlink=1"
   class="new"

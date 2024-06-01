@@ -7,7 +7,7 @@ existing one.
 
 ## How to access
 
-- Select **Components **→** Smart Search **→** Filters** from the
+- Select **Components → Smart Search → Filters** from the
   Administrator menu. Then...
   - Select the **New** Toolbar button to create a new filter.
   - Select a title link in the **Title** column to edit an existing
@@ -19,7 +19,7 @@ existing one.
 src="https://docs.joomla.org/images/a/a4/Help-4x-Components-Finder-Manage-Search-Filters-Edit-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="900"
 width="800" height="900"
-alt="Help-4x-Components-Finder-Manage-Search-Filters-Edit-screen-en.png" />
+alt="Smart search Search Filters Edit screen" />
 
 ## Form Fields
 
@@ -27,8 +27,7 @@ alt="Help-4x-Components-Finder-Manage-Search-Filters-Edit-screen-en.png" />
   page, depending on the parameter values you choose.
 - **Alias**. The internal name of the item. Normally, you can leave this
   blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces. [Learn
-  more.](https://docs.joomla.org/Alias/en "Special:MyLanguage/Alias/en")
+  with dashes instead of spaces.
 
 ## Edit Filter Tab
 
@@ -45,9 +44,9 @@ alt="Help-4x-Components-Finder-Manage-Search-Filters-Edit-screen-en.png" />
 src="https://docs.joomla.org/images/3/35/Help-4x-Components-Finder-Manage-Search-Filters-subscreen-Options-tab-en.png"
 decoding="async" data-file-width="600" data-file-height="438"
 width="800" height="584"
-alt="Help-4x-Components-Finder-Manage-Search-Filters-subscreen-Options-tab-en.png" />
+alt="Smart search Search Filters Options tab" />
 
-**Publishing panel**
+### Publishing panel
 
 - **Created Date**. Date the item(Article, Category, Weblink, etc.) was
   created.
@@ -61,7 +60,7 @@ alt="Help-4x-Components-Finder-Manage-Search-Filters-subscreen-Options-tab-en.pn
 - **Modified By:** *(Informative only)* Username who performed the last
   modification.
 
-**Filter Timeline panel**
+### Filter Timeline panel
 
 - **When (Start Date).** When to search relative to the start date
   (before, after or exactly).
@@ -73,7 +72,7 @@ alt="Help-4x-Components-Finder-Manage-Search-Filters-subscreen-Options-tab-en.pn
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Save**. Saves the item and stays in the current screen.
 - **Save & Close**. Saves the item and closes the current screen.

@@ -8,7 +8,7 @@ Erweiterungen der Joomla! Installation hinweg.
 
 ## Wie darauf zugreifen
 
-- Select **Users **→** Manage** from the Administrator menu. Then...
+- Select **Users → Manage** from the Administrator menu. Then...
   - Select the icon in the **Permissions** column for a specific user.
 
 ## Screenshot
@@ -75,7 +75,7 @@ Screenshot above. The functions are:
 
 **Page Controls**. When the number of items is more than one page, you
 will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -87,7 +87,7 @@ has a dark colour background.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Options.** Opens the Options window where settings such as default
   parameters can be edited.
@@ -106,7 +106,3 @@ height="36" alt="Help31-Help-Permissions-Report-Legend-en.png" />
 - **Allowed**. Action allowed.
 - **Forbidden**. Action forbidden.
 
-## Related Information
-
-- [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration "Help4.x:Site Global Configuration")

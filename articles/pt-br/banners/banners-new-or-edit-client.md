@@ -8,7 +8,7 @@ banners antes de criar um banner.
 
 ## Como acessar
 
-- Selecione **Componentes **→** Banners **→** Clientes** no menu
+- Selecione **Componentes → Banners → Clientes** no menu
   administrativo.
   - Para criar um novo cliente clique no botão "Novo" na barra das
     ferramentas.

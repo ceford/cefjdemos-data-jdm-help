@@ -12,10 +12,10 @@ note. Examples: TinyMCE, JCE or Codemirror
 
 ## How to access
 
-- Select **Users **→** User Notes** from the Administrator menu. Then...
+- Select **Users → User Notes** from the Administrator menu. Then...
   - Select **New** from the Toolbar to create a new note. Or...
   - Select a link from the **Subjects** column to edit an existing note.
-- Or Select **Users **→** Manage** from the Administrator menu. Then...
+- Or Select **Users → Manage** from the Administrator menu. Then...
   - Search for a user by Username or Email. Then...
   - Select **Add a Note** to create a new note. Or...
   - Select **Show Notes List** from the drop-down list, only shown if
@@ -28,7 +28,7 @@ note. Examples: TinyMCE, JCE or Codemirror
 <img
 src="https://docs.joomla.org/images/1/19/Help-4x-users-notes-en.png"
 decoding="async" data-file-width="800" data-file-height="972"
-width="800" height="972" alt="Help-4x-users-notes-en.png" />
+width="800" height="972" alt="users notes new or edit screen" />
 
 ## Details
 
@@ -47,7 +47,7 @@ width="800" height="972" alt="Help-4x-users-notes-en.png" />
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Save:** Saves the user note and stays in the current screen.
 - **Save & Close**. Saves the user note and closes the current screen.
@@ -58,20 +58,8 @@ At the top of the page you will see the toolbar shown in the
   shown if you are creating a new user note.
 - **Versions:** Opens the Item Version History window to show any prior
   versions of this item. This allows you to view older versions of this
-  item and, if desired, restore from an older version. See [Version
-  History](https://docs.joomla.org/Help4.x:Components_Version_History/en "Help4.x:Components Version History/en")
+  item and, if desired, restore from an older version. See Version History
   for more information.
 - **Close**. Closes the current screen and returns to the previous
   screen without saving any modifications you may have made.
 - **Help**. Opens this help screen.
-
-## Related information
-
-- [TinyMCE - the default WYSIWYG
-  Editor](https://docs.joomla.org/Help4.x:TinyMCE/en "Help4.x:TinyMCE/en")
-- [User
-  Notes](https://docs.joomla.org/Help4.x:User_Notes/en "Help4.x:User Notes/en")
-- [User Notes: New or Edit
-  Category](https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit_Category/en "Help4.x:User Notes: New or Edit Category/en")
-- [User Notes:
-  Categories](https://docs.joomla.org/Help4.x:User_Notes:_Categories/en "Help4.x:User Notes: Categories/en")

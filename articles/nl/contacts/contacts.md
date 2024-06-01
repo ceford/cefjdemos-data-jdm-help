@@ -12,7 +12,7 @@ gebruiken om links op de website aan te maken naar contactpersonen.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Componenten **→** Contactpersonen **→** Categorieën**
+- Selecteer **Componenten → Contactpersonen → Categorieën**
   vanuit het beheermenu.
 - Selecteer de genummerde knop in het [Categorieën:
   Contactpersonen](https://docs.joomla.org/Help4.x:Contacts:_Categories/nl "Help4.x:Contacts: Categories/nl")
@@ -65,7 +65,7 @@ Klik op de kolomkop om de lijst volgens deze kolom te sorteren.
 ## Lijstfilters
 
 **Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande [Screenshot](#screenshot).
+bovenstaande Screenshot.
 
 - **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
   zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat
@@ -92,7 +92,7 @@ bovenstaande [Screenshot](#screenshot).
   categorieën.
 - **Selecteer toegang**. Selecteer uit de lijst met beschikbare weergave
   toegangsniveaus.
-- 
+-
 
 **Selecteer taal**. Selecteer uit de lijst met beschikbare talen.
 
@@ -102,7 +102,7 @@ bovenstaande [Screenshot](#screenshot).
 
 **Paginabesturing** Als het aantal items meer is dan een pagina, zie je
 een paginabesturing bij de onderkant van de pagina zoals in bovenstaande
-[Screenshot](#screenshot). Het huidige paginanummer heeft een donkere
+Screenshot. Het huidige paginanummer heeft een donkere
 achtergrond.
 
 - **Begin**. Klik om naar de eerste pagina te gaan.
@@ -174,18 +174,18 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 |                                                                                                                           |                                                                                                                                                                                                                                                                                                                                          |
 |---------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Verwante helpschermen                                                                                                     | Beschrijving                                                                                                                                                                                                                                                                                                                             |
-| [Contactpersonen: Categorieën](https://docs.joomla.org/Help4.x:Contacts:_Categories/nl "Help4.x:Contacts: Categories/nl") | Contactpersoon categoriebeheer is waar u bestaande contactpersonen kunt bewerken en nieuwe kunt aanmaken. Let op dat Contactpersoon categorieën los staan van andere categorieën, zoals artikelen, advertenties, nieuwsfeeds en weblinks. Vanaf dit scherm kunt u ook navigeren naar het <a                                              
-                                                                                                                             href="https://docs.joomla.org/Help4.x:Components_Contacts_Contacts/nl"                                                                                                                                                                                                                                                                    
-                                                                                                                             class="mw-redirect"                                                                                                                                                                                                                                                                                                                       
-                                                                                                                             title="Help4.x:Components Contacts Contacts/nl">Contactpersoon beheer:                                                                                                                                                                                                                                                                    
+| [Contactpersonen: Categorieën](https://docs.joomla.org/Help4.x:Contacts:_Categories/nl "Help4.x:Contacts: Categories/nl") | Contactpersoon categoriebeheer is waar u bestaande contactpersonen kunt bewerken en nieuwe kunt aanmaken. Let op dat Contactpersoon categorieën los staan van andere categorieën, zoals artikelen, advertenties, nieuwsfeeds en weblinks. Vanaf dit scherm kunt u ook navigeren naar het <a
+                                                                                                                             href="https://docs.joomla.org/Help4.x:Components_Contacts_Contacts/nl"
+                                                                                                                             class="mw-redirect"
+                                                                                                                             title="Help4.x:Components Contacts Contacts/nl">Contactpersoon beheer:
                                                                                                                              Contactpersonen</a> scherm.                                                                                                                                                                                                                                                                                                               |
-| <a                                                                                                                        
- href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit_Category/nl&amp;action=edit&amp;redlink=1"     
- class="new"                                                                                                                
- title="Help4.x:Contacts: New or Edit Category/nl (page does not exist)">Contactpersonen:                                   
+| <a
+ href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit_Category/nl&amp;action=edit&amp;redlink=1"
+ class="new"
+ title="Help4.x:Contacts: New or Edit Category/nl (page does not exist)">Contactpersonen:
  Nieuwe of bewerken van categorie</a>                                                                                       | Dit is waar u een Contactpersoon categorie kunt toevoegen of een bestaande contactpersoon categorie kunt bewerken. Contactpersoon categorieën stellen u in staat contactpersonen te organiseren op uw website. Contactpersoon categorieën staan los van andere type categorieën, zoals van artikelen, advertenties, nieuwsfeeds en meer. |
-| <a                                                                                                                        
- href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit/nl&amp;action=edit&amp;redlink=1"              
- class="new"                                                                                                                
- title="Help4.x:Contacts: New or Edit/nl (page does not exist)">Contactpersonen:                                            
+| <a
+ href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit/nl&amp;action=edit&amp;redlink=1"
+ class="new"
+ title="Help4.x:Contacts: New or Edit/nl (page does not exist)">Contactpersonen:
  Nieuw of bewerken</a>                                                                                                      | Dit is waar u een contactpersoon kunt toevoegen of een bestaande contactpersoon kunt bewerken. Contactpersonen stellen u in staat mensen te tonen op uw website. Ze geven ook de mogelijkheid aan gebruikers e-mails aan deze mensen te sturen.                                                                                          |

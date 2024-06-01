@@ -9,7 +9,7 @@ Die Hilfeseite zeigt als Beispiel 'Benutzer'.
 
 ## Wie darauf zugreifen
 
-**Benutzer **→** Felder**
+**Benutzer → Felder**
 
 Ein Feld hinzufügen:
 

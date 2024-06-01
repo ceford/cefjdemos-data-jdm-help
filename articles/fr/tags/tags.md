@@ -6,7 +6,7 @@ Used to view a list of existing Tags, edit current and create new Tags.
 
 ## How to Access
 
-Select **Components **→** Tags** from the Administrator menu.
+Select **Components → Tags** from the Administrator menu.
 
 ## Screenshot
 
@@ -42,14 +42,14 @@ width="1363" height="34" alt="Help31-Tags-Manager-columns-en.png" />
   - Select the Ordering icon <img
     src="https://docs.joomla.org/images/e/ee/Help30-Ordering-colheader-icon.png"
     decoding="async" data-file-width="12" data-file-height="23" width="12"
-    height="23" alt="Help30-Ordering-colheader-icon.png" /> in the Table
+    height="23" alt="Ordering column header icon" /> in the Table
     heading to make it the active ordering item. The ordering icons in
     each row will change from light grey to dark grey and the pointer
     will change to a drag arrow on hover.
   - Select one of the Ordering icons <img
     src="https://docs.joomla.org/images/8/87/Help30-Ordering-colheader-grab-bar-icon.png"
     decoding="async" data-file-width="10" data-file-height="21" width="10"
-    height="21" alt="Help30-Ordering-colheader-grab-bar-icon.png" /> and
+    height="21" alt="Ordering drag icon" /> and
     drag it up or down to change the position of that row in the list.
     The items will display in the new order within the Position.
 - **Status**. The published status of the item.
@@ -57,9 +57,7 @@ width="1363" height="34" alt="Help31-Tags-Manager-columns-en.png" />
   display in the Menu. For an Article or Category, the Title may
   optionally be displayed on the web page. This entry is required. You
   can open the item for editing by clicking on the Title.
-- **Access**. The [viewing Access
-  Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/en")
-  for this item.
+- **Access**. The viewing Access  Level   for this item.
 - **Language**. Item language.
 - **Tagged Items.** The number of items with this tag. Click the number
   to go to a list of items.
@@ -72,7 +70,7 @@ width="1363" height="34" alt="Help31-Tags-Manager-columns-en.png" />
 ## List Filters
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -89,8 +87,7 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
 **Filter Options**
 
@@ -107,7 +104,7 @@ shown in the [Screenshot](#screenshot) above.
 
 - **Filter by Tag Type.** Select the Tag Type from the drop-down list box
 of available Tag Types. Available tags are components in which tags are
-defined. 
+defined.
 
 <img
 src="https://docs.joomla.org/images/8/89/Help30-colheader-select-tag-type-en.png"
@@ -119,7 +116,7 @@ alt="Help30-colheader-select-tag-type-en.png" />
 
 **Page Controls**. When the number of items is more than one page, you
 will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 - **Start**. Click to go to the first page.
 - **Prev**. Click to go to the previous page.
@@ -130,7 +127,7 @@ has a dark colour background.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 - **New**. Opens the editing screen to create a new tag.
 - **Edit**. Opens the editing screen for the selected tag. If more than
   one tag is selected (where applicable), only the first tag will be

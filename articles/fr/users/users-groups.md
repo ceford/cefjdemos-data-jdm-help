@@ -8,7 +8,7 @@ and delete User Groups.
 
 ## Comment y accéder
 
-- Select **Users **→** Groups** from the Administrator menu.
+- Select **Users → Groups** from the Administrator menu.
 
 ## Capture d'écran
 
@@ -70,15 +70,3 @@ functions are:
 ## Quick Tips
 
 - Click on the name of a group to edit the group's properties.
-
-## Related information
-
-- [Users: New or Edit
-  Group](https://docs.joomla.org/Help4.x:Users:_New_or_Edit_Group/en "Help4.x:Users: New or Edit Group/en")
-- [Users:
-  Options](https://docs.joomla.org/Help4.x:Users:_Options/en "Help4.x:Users: Options/en")
-- [Users](https://docs.joomla.org/Help4.x:Users/en "Help4.x:Users/en")
-- [Users: Viewing Access
-  Levels](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Help4.x:Users: Viewing Access Levels/en")
-- [ACL Tutorial for Joomla!
-  3.x](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/en "J3.x:Access Control List Tutorial/en")

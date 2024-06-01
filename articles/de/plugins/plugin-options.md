@@ -8,7 +8,7 @@ alle Plugins ein.
 ## Wie darauf zugreifen
 
 - Im Administrator-Menü die Option
-  **System **→** Verwalten **→** Plugins** wählen. Dann...
+  **System → Verwalten → Plugins** wählen. Dann...
   - die Schaltfläche **Optionen** in der Symbolleiste anklicken.
 
 ## Bildschirmfoto

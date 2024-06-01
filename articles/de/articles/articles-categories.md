@@ -12,7 +12,7 @@ untergeordneten Kategorie angehören.
 
 ## Wie darauf zugreifen
 
-**Dashboard **→** Site **→** Beitragskategorien**
+**Dashboard → Site → Beitragskategorien**
 
 Eine Kategorie hinzufügen:
 

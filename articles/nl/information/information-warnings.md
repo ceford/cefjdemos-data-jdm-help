@@ -9,7 +9,7 @@ afhankelijkheden kunnen hier verschijnen.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Systeem **→** Gegevens venster **→** Waarschuwingen**
+- Selecteer **Systeem → Gegevens venster → Waarschuwingen**
   vanuit het beheermenu.
 
 ## Schermafbeelding

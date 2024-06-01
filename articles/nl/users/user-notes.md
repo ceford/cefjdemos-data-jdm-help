@@ -11,7 +11,7 @@ Het Gebruikersnotities scherm toont een lijst met bestaande notities.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Gebruikers **→** Gebruikersnotitie** vanuit het
+- Selecteer **Gebruikers → Gebruikersnotitie** vanuit het
   beheermenu.
 - Of... Selecteer het **Gebruikers Dashboard icoon** vanuit het
   beheermenu. Dan...

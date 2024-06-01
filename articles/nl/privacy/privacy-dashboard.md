@@ -21,7 +21,7 @@ aantal verzoeken.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Gebruikers **→** Privacy dashboard icoon** in het
+- Selecteer **Gebruikers → Privacy dashboard icoon** in het
   beheermenu.
 
 ## Schermafbeelding
@@ -60,14 +60,14 @@ alt="Help-4x-component-privacy-dashboard-nl.png" />
 
 - *Privacybeleid gepubliceerd.* (Gepubliceerd/Gedepubliceerd)
   Controleert of er een privacybeleid gepubliceerd is. Navigeer naar
-  Plugins **→** Systems - Privacy toestemming en selecteer uw Privacy
+  Plugins → Systems - Privacy toestemming en selecteer uw Privacy
   artikel. Wanneer deze gepubliceerd is kunt u via dit scherm uw
   Privacybeleid bewerken.
 - *Informatieverzoek formulier menu-item gepubliceerd.*
   (Gepubliceerd/Gedepubliceerd) Controleert of het menu-item (dat
   gebruikers in staat stelt een verzoek te versturen) gepubliceerd is.
-  Navigeer, om het menu-item aan e maken, naar uw menu **→** Nieuw
-  menu-item toevoegen **→** Menu-itemtype: Verzoek aanmaken. Wanneer dit
+  Navigeer, om het menu-item aan e maken, naar uw menu → Nieuw
+  menu-item toevoegen → Menu-itemtype: Verzoek aanmaken. Wanneer dit
   menu-item gepubliceerd is kunt u, via dit scherm, het menu-item
   bewerken.
 - *Openstaande urgente verzoeken.* Aantal urgente verzoeken welke ouder

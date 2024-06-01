@@ -6,7 +6,7 @@ A list of sites from which Joomla! Extensions can be updated on-line.
 
 ## How to Access
 
-- Select **System **→** Update panel **→** Update Sites** from the
+- Select **System → Update panel → Update Sites** from the
   Administrator menu.
 
 ## Screenshot
@@ -15,7 +15,7 @@ A list of sites from which Joomla! Extensions can be updated on-line.
 src="https://docs.joomla.org/images/4/4b/Help-4x-Extensions-Update-Sites-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="533"
 width="800" height="533"
-alt="Help-4x-Extensions-Update-Sites-screen-en.png" />
+alt="Update Sites screen" />
 
 ## Column Headers
 
@@ -38,13 +38,10 @@ purpose of each column is as follows:
 
 ## List Filters
 
-**Search bar.** This is a common feature of most Lists. The layout is as
-shown below.
+### Search bar
 
-<img
-src="https://docs.joomla.org/images/2/2a/Help-4x-colheader-filter-field-en.png"
-decoding="async" data-file-width="1478" data-file-height="76"
-width="1478" height="76" alt="Help-4x-colheader-filter-field-en.png" />
+This is a common feature of most Lists. The layout is as
+shown below.
 
 - **Search by Text.** Enter part of the search term and click the Search
   icon. The search may be of one or more fields. *Hover* to see a
@@ -64,7 +61,7 @@ width="1478" height="76" alt="Help-4x-colheader-filter-field-en.png" />
   displayed. If you select too many complex items they will be slow to
   deliver and display.
 
-**Filter Options**
+### Filter Options
 
 - ***- Select Status -*** Shows items that are Published and
   Unpublished. Does *not* show items that are Trashed or Archived.
@@ -85,9 +82,11 @@ width="1478" height="76" alt="Help-4x-colheader-filter-field-en.png" />
 - **Download Key.** Used by commercial extensions to allow download
   access.
 
-**Page Controls**. When the number of items is more than one page, you
+### Page Controls**
+
+When the number of items is more than one page, you
 will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.

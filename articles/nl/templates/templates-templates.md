@@ -7,9 +7,9 @@ te zien en bewerken, welke in Joomla zijn geïnstalleerd.
 
 ## Hoe krijg ik toegang
 
-Selecteer **Systeem **→** Templates venster **→** Website templates**
-vanuit het beheermenu. Of... Selecteer **Systeem **→** Templates
-venster **→** Beheer templates** vanuit het beheermenu.
+Selecteer **Systeem → Templates venster → Website templates**
+vanuit het beheermenu. Of... Selecteer **Systeem → Templates
+venster → Beheer templates** vanuit het beheermenu.
 
 ## Schermafbeelding
 
@@ -44,7 +44,7 @@ Klik op de kolomkop om de lijst volgens deze kolom te sorteren.
   beheerdeel is.
 
 **Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande [Screenshot](#screenshot).
+bovenstaande Screenshot.
 
 - **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
   zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat

@@ -9,7 +9,7 @@ handleiding](https://docs.joomla.org/J3.x:Setup_a_Multilingual_Site/nl "J3.x:Set
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Systeem **→** Beheren venster **→** Inhoudstalen** vanuit
+- Selecteer **Systeem → Beheren venster → Inhoudstalen** vanuit
   het beheermenu.
 
 ## Schermafbeelding
@@ -64,7 +64,7 @@ Klik op de kolomkop om de lijst volgens deze kolom te sorteren.
 ## Lijst filters
 
 **Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande [Screenshot](#screenshot).
+bovenstaande Screenshot.
 
 - **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
   zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat
@@ -97,7 +97,7 @@ bovenstaande [Screenshot](#screenshot).
 
 **Paginabesturing** Als het aantal items meer is dan een pagina, zie je
 een paginabesturing bij de onderkant van de pagina zoals in bovenstaande
-[Screenshot](#screenshot). Het huidige paginanummer heeft een donkere
+Screenshot. Het huidige paginanummer heeft een donkere
 achtergrond.
 
 - **Begin**. Klik om naar de eerste pagina te gaan.

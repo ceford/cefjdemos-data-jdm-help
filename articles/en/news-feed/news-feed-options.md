@@ -7,9 +7,9 @@ globally for all news feeds.
 
 ## How to Access
 
-- Select **Components **→** News Feeds **→** Feeds** from the
+- Select **Components → News Feeds → Feeds** from the
   Administrator menu. Or...
-- Select **Components **→** News Feeds **→** Categories** from the
+- Select **Components → News Feeds → Categories** from the
   Administrator menu. Then...
   - Click the *Options* button on the Toolbar.
 
@@ -19,7 +19,7 @@ globally for all news feeds.
 src="https://docs.joomla.org/images/b/bd/Help-4x-Component-Newsfeed-Manager-Options-screenshot-en.png"
 decoding="async" data-file-width="800" data-file-height="588"
 width="800" height="588"
-alt="Help-4x-Component-Newsfeed-Manager-Options-screenshot-en.png" />
+alt="Newsfeed Options screenshot" />
 
 ## Form Fields
 
@@ -38,8 +38,7 @@ specific menu item or News Feed
   0, then versions will never be deleted automatically. Also, specific
   versions may be flagged as "Keep Forever" and will not be deleted
   automatically. Note that versions may be deleted manually using the
-  Delete button in the [Version
-  History](https://docs.joomla.org/Help310:Components_Version_History/en "Help310:Components Version History/en")
+  Delete button in the Version History
   screen.
 - **Feed Image.** (Show/Hide). Show or hide the feed image.
 - **Feed Description.** (Show/Hide). Show or hide the feed description.
@@ -63,7 +62,7 @@ Category to view its feeds.
 src="https://docs.joomla.org/images/3/39/Help-4x-Component-Newsfeed-Manager-Options-category-options-subscreen-en.png"
 decoding="async" data-file-width="600" data-file-height="546"
 width="600" height="546"
-alt="Help-4x-Component-Newsfeed-Manager-Options-category-options-subscreen-en.png" />
+alt="Newsfeed Options category tab" />
 
 - **Choose a layout.** (Blog/List/user defined). This lets you select
   the default layout to show when you click on a Category link. If you
@@ -95,7 +94,7 @@ changed for a specific menu item.
 src="https://docs.joomla.org/images/7/72/Help-4x-Component-Newsfeed-Manager-Options-categories-options-subscreen-en.png"
 decoding="async" data-file-width="600" data-file-height="368"
 width="600" height="368"
-alt="Help-4x-Component-Newsfeed-Manager-Options-categories-options-subscreen-en.png" />
+alt="Newsfeed Options categories tab" />
 
 - **Top Level Category Description.** (Show/Hide). Show or hide the
   description of the top-level category.
@@ -117,52 +116,26 @@ specific menu item.
 src="https://docs.joomla.org/images/8/8b/Help-4x-Component-Newsfeed-Manager-Options-list-options-subscreen-en.png"
 decoding="async" data-file-width="600" data-file-height="440"
 width="600" height="440"
-alt="Help-4x-Component-Newsfeed-Manager-Options-list-options-subscreen-en.png" />
+alt="Newsfeed Options list layouts tab" />
 
 - **Filter Field.** The Filter Field creates a text field where a user
   can enter a field to be used to filter the articles shown in the list.
-  An example of how this looks in the front-end layout is shown below.
-
-<img
-src="https://docs.joomla.org/images/0/0b/Help-4x-article-category-list-filter-field-en.png"
-decoding="async" data-file-width="175" data-file-height="32" width="175"
-height="32" alt="Help-4x-article-category-list-filter-field-en.png" />
-
-The possible options for this (in the back-end menu item edit) are shown
-below.
-
-- *Hide:* Don't show a filter field.
-- *Title:* Filter on article title.
-- *Author:* Filter on the author's name.
-- *Hits:* Filter on the number of article hits.
+    - *Hide:* Don't show a filter field.
+    - *Title:* Filter on article title.
+    - *Author:* Filter on the author's name.
+    - *Hits:* Filter on the number of article hits.
 - **Display Select.** (Show/Hide) Whether to show or hide the Display \#
   control that allows the user to select the number of items to show in
-  the list. An example is shown below.
-
-<img
-src="https://docs.joomla.org/images/4/46/Help-4x-article-category-list-display-select-en.png"
-decoding="async" data-file-width="200" data-file-height="133"
-width="200" height="133"
-alt="Help-4x-article-category-list-display-select-en.png" />
-
-If there are more items than this number, you can use the page
-navigation buttons (Start, Prev, Next, End, and page numbers) to
-navigate between pages. Note that if you have a large number of items,
-it may be helpful to use the Filter options, located above the column
-headings, to limit which items display.
-
+  the list.
+    If there are more items than this number, you can use the page
+    navigation buttons (Start, Prev, Next, End, and page numbers) to
+    navigate between pages. Note that if you have a large number of items,
+    it may be helpful to use the Filter options, located above the column
+    headings, to limit which items display.
 - **Table Headings.** (Hide/Show) Table Headings show a heading above
-  the article list, as shown below.
-
-<img
-src="https://docs.joomla.org/images/0/06/Help-4x-chunk-article-category-list-table-headings-en.png"
-decoding="async" data-file-width="600" data-file-height="57" width="600"
-height="57"
-alt="Help-4x-chunk-article-category-list-table-headings-en.png" />
-
-If set to *Show*, this heading will show about the list. Otherwise the
-list will show with no headings.
-
+  the article list.
+    If set to *Show*, this heading will show about the list. Otherwise the
+    list will show with no headings.
 - **\# Articles.** (Show/Hide). Whether to show or hide the number or
   articles in each feed.
 - **Feed Links.** (Show/Hide). Whether to show or hide the feed links
@@ -170,19 +143,12 @@ list will show with no headings.
 - **Pagination.** Hide or Show Pagination support. Pagination provides
   page links at the bottom of the page that allow the User to navigate
   to additional pages. These are needed if the listed items will not fit
-  on one page. An example is shown below.
-
-<img src="https://docs.joomla.org/images/8/81/Help30-pagination-en.png"
-decoding="async" data-file-width="299" data-file-height="29" width="299"
-height="29" alt="Help30-pagination-en.png" />
-
-The following options are available.
-
-- *Use Global:* Use the default value from the component options screen.
-- *Auto:* Pagination links shown if needed.
-- *Show:* Pagination links shown if needed.
-- *Hide:* Pagination links not shown. Note: In this case, Users will not
-  be able to navigate to additional pages.
+  on one page.
+    - *Use Global:* Use the default value from the component options screen.
+    - *Auto:* Pagination links shown if needed.
+    - *Show:* Pagination links shown if needed.
+    - *Hide:* Pagination links not shown. Note: In this case, Users will not
+      be able to navigate to additional pages.
 - **Pagination Results.** Hide or Show the current page number and total
   pages (e.g., "Page 1 of 2") at the bottom of each page. Use Global
   will use the default value from the component options.
@@ -195,7 +161,7 @@ These options control the display of news feeds.
 src="https://docs.joomla.org/images/0/05/Help-4x-Component-Newsfeed-Manager-Options-integration-options-subscreen-en.png"
 decoding="async" data-file-width="600" data-file-height="220"
 width="600" height="220"
-alt="Help-4x-Component-Newsfeed-Manager-Options-integration-options-subscreen-en.png" />
+alt="Newsfeed Options integration tab" />
 
 - **Remove IDs from URLs.** (Yes or No) Whether or not to show the
   database id of a newsfeed in a link.
@@ -208,7 +174,7 @@ This section shows permissions for feeds. The screen shows as follows.
 src="https://docs.joomla.org/images/2/2a/Help-4x-Component-Newsfeed-Manager-Options-permissions-options-subscreen-en.png"
 decoding="async" data-file-width="600" data-file-height="723"
 width="600" height="723"
-alt="Help-4x-Component-Newsfeed-Manager-Options-permissions-options-subscreen-en.png" />
+alt="Newsfeed Options permissions tab" />
 
 To change the permissions for this extension, do the following.
 
@@ -259,10 +225,3 @@ above. The functions are:
   options.
 - All values set here can be overridden at the menu item, category, or
   news feed level.
-
-## Related Information
-
-- To create and edit news feeds and news feed categories: [News Feed
-  Manager](https://docs.joomla.org/Help4.x:News_Feeds/en "Help4.x:News Feeds/en")
-- For more information about Joomla's ACL system: [Joomla 3 ACL
-  Tutorial](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/en "J3.x:Access Control List Tutorial/en")

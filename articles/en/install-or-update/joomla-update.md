@@ -3,78 +3,65 @@
 ## Description
 
 This screen allows Joomla! to be updated quickly using an update package
-from the Joomla! code repository.
+from the Joomla! code repository. It is best and safest to let Joomla update
+itself
 
 ## How to Access
 
-- Select **Home Dashboard **→** Update Checks Panel **→** Joomla ...
-  icon** from the Administrator menu. Or...
-- Select **System **→** Update Panel **→** Joomla** from the
-  Administrator menu..
+In the **Home Dashboard → Notifications Panel** the Joomla icon will have
+one of two messages:
+- **Joomla is up to data**
+- **X.Y.Z Available - Update now!**
+Select the icon
+
+Also, in the **System → Update Panel → Joomla** will display a tick, meaining it
+is up to date, or a version number, meaning that a new version is available.
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/7/75/Help-4x-joomla-update-manager-screen-default-en.png"
-decoding="async" data-file-width="800" data-file-height="243"
-width="800" height="243"
-alt="Help-4x-joomla-update-manager-screen-default-en.png" />
+If your site is up to date you will see this screen:
 
-You are on the latest version of Joomla, so no action required.
+![Upload & Update](../../../images/en/install-or-update/upload-update-up-to-date.png "")
 
-## Functions
+If an update is available you will see this screen:
 
-- **Check for Updates.** Click the Toolbar button to see if an updates
-  is available.
+![Upload & Update](../../../images/en/install-or-update/upload-update-available.png "")
 
-**The update screen when an update is available.**
+If updating a major or minor version you will see a pre-update check screen:
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-joomla-update-manager-with-updates-screen-en.png"
-class="new"
-title="File:Help-4x-joomla-update-manager-with-updates-screen-en.png">800px</a>
+![pre update check](../../../images/en/install-or-update/upload-update-pre-update-check.png "")
 
-### Live Update
+Select each of the three menu items to see if anything needs attention.
 
-If you are NOT on the latest version of Joomla, you can install the
-latest update from this screen. To do so select the **Install the
-Update** button in the Toolbar and Joomla will install the latest core
-files.
+## Start Update
 
-**The screen while updating.**
+If you are not on the latest version of Joomla, you can install the
+latest update from this screen. To do so make sure you have taken a backup
+and check the **I am aware...** checkbox to indicate you have done so. Then
+select the **Start Update** button and Joomla will install the latest version.
+
+### The screen while updating
 
 <img
 src="https://docs.joomla.org/images/0/05/Help-4x-joomla-update-manager-updating-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="173"
 width="800" height="173"
-alt="Help-4x-joomla-update-manager-updating-screen-en.png" />
+alt="joomla update updating in progress screen" />
 
 ### Upload and Update
 
-**Check the size of the update package!** If it is larger than your PHP
-*upload_max_filesize* or *post_max_size* it will fail. You may be able
-to increase these sizes. Otherwise...
-
-<img
-src="https://docs.joomla.org/images/6/63/Help-4x-joomla-update-manager-screen-upload-en.png"
-decoding="async" data-file-width="800" data-file-height="632"
-width="800" height="632"
-alt="Help-4x-joomla-update-manager-screen-upload-en.png" />
-
-You can use this feature to update Joomla if your server is behind a
+You can use this button to update Joomla if your server is behind a
 firewall or otherwise unable to contact the update servers. First
 download the Joomla Upgrade Package in ZIP format from the official
 Joomla download page.
 
-The Installation method can have the following values:
+You must have your PHP *upload_max_filesize* and *post_max_size* set to 64Mb
+and your PHP memory limit set to 256 Mb. Otherwise the update may fail. One
+good reason for taking that backup!
 
-- Write files directly
-- Hybrid (use FTP only if needed
-- Write files using FTP
+![upload and install](../../../images/en/install-or-update/upload-update-upload-install.png "")
 
-The first method is advised.
-
-### For Developers
+## For Developers
 
 There are options to select the type of update:
 
@@ -85,26 +72,3 @@ There are options to select the type of update:
 
 Select the **Options** button in the Toolbar to check or change the
 current selection.
-
-If you set the Custom URL in the Joomla Update Options, after selecting
-**Check for Updates** you will see an extra tab, Pre-Update Check:
-
-<img
-src="https://docs.joomla.org/images/5/54/Help-4x-joomla-update-manager-screen-en.png"
-decoding="async" data-file-width="800" data-file-height="873"
-width="800" height="873"
-alt="Help-4x-joomla-update-manager-screen-en.png" />
-
-And the Live Update panel will be ready to go:
-
-<img
-src="https://docs.joomla.org/images/6/63/Help-4x-joomla-update-manager-screen-customen.png"
-decoding="async" data-file-width="800" data-file-height="464"
-width="800" height="464"
-alt="Help-4x-joomla-update-manager-screen-customen.png" />
-
-## Quick Tips
-
-- You can look at the [Joomla! Update Quick
-  Icons](https://docs.joomla.org/Help4.x:Admin_Modules:_Quick_Icons/en "Help4.x:Admin Modules: Quick Icons/en")
-  in the Backend Control Panel.

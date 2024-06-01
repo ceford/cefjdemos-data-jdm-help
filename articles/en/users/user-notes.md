@@ -10,7 +10,7 @@ The User Notes screen presents a list of existing notes.
 
 ## How to Access
 
-- Select **Users **→** User Notes** from the Administrator menu.
+- Select **Users → User Notes** from the Administrator menu.
 - Or Select the **Users Dashboard Icon** from the Administrator menu.
   Then ...
   - Select **User Notes** from the Miscellaneous panel.
@@ -20,7 +20,7 @@ The User Notes screen presents a list of existing notes.
 <img
 src="https://docs.joomla.org/images/f/f4/Help-4x-users-user-notes-en.png"
 decoding="async" data-file-width="800" data-file-height="402"
-width="800" height="402" alt="Help-4x-users-user-notes-en.png" />
+width="800" height="402" alt="user notes list screen" />
 
 ## Column Headers
 
@@ -64,7 +64,7 @@ Screenshot above. The functions are:
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **New**. Opens the editing screen to create a new user note.
 - **Actions:** Reveals a list of actions for selected Items. Check one
@@ -93,14 +93,3 @@ At the top of the page you will see the toolbar shown in the
 ## Quick Tips
 
 - Click on the subject to edit the user note properties.
-
-## Related information
-
-- [User Notes: New or
-  Edit](https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit/en "Help4.x:User Notes: New or Edit/en")
-- [User Notes: New or Edit
-  Category](https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit_Category/en "Help4.x:User Notes: New or Edit Category/en")
-- [User Notes:
-  Categories](https://docs.joomla.org/Help4.x:User_Notes:_Categories/en "Help4.x:User Notes: Categories/en")
-- [Users:
-  Options](https://docs.joomla.org/Help4.x:Users:_Options/en "Help4.x:Users: Options/en")

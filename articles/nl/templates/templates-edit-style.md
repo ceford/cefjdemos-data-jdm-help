@@ -11,9 +11,9 @@ het dupliceer icoon in de werkbalk. Bewerk daarna de kopie.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Systeem **→** Templates venster **→** Website
+- Selecteer **Systeem → Templates venster → Website
   templatestijlen** vanuit het beheermenu. Of...
-- Selecteer **Systeem **→** Templates venster **→** Beheer
+- Selecteer **Systeem → Templates venster → Beheer
   templatestijlen** vanuit het beheermenu. Dan...
   - Selecteer de naam van de templatestijl die bewerkt moeten worden in
     de stijl kolom.

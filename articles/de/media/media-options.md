@@ -8,7 +8,7 @@ MIME-Typ-Prüfung, MIME-Typ-Blacklisting und weitere Optionen.
 
 ## Wie darauf zugreifen
 
-**Inhalt **→** Medien**
+**Inhalt → Medien**
 
 - auf den Button **Optionen** der Werkzeugleiste klicken.
 

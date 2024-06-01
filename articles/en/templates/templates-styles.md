@@ -8,9 +8,9 @@ specific template to an individual page.
 
 ## How to Access
 
-- Select **System **→** Templates Panel **→** Site Templates Styles**
+- Select **System → Templates Panel → Site Templates Styles**
   from the Administrator menu. Or...
-- Select **System **→** Templates Panel **→** Administrator Templates
+- Select **System → Templates Panel → Administrator Templates
   Styles** from the Administrator menu.
 
 ## Screenshot
@@ -19,7 +19,7 @@ specific template to an individual page.
 src="https://docs.joomla.org/images/5/51/Help-4x-Extensions-Template-Manager-Styles-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="308"
 width="800" height="308"
-alt="Help-4x-Extensions-Template-Manager-Styles-screen-en.png" />
+alt="Template Styles screen" />
 
 ## Column Headers
 
@@ -38,14 +38,14 @@ alt="Help-4x-Extensions-Template-Manager-Styles-screen-en.png" />
   - Select the Ordering icon <img
     src="https://docs.joomla.org/images/e/ee/Help30-Ordering-colheader-icon.png"
     decoding="async" data-file-width="12" data-file-height="23" width="12"
-    height="23" alt="Help30-Ordering-colheader-icon.png" /> in the Table
+    height="23" alt="Ordering column header icon" /> in the Table
     heading to make it the active ordering item. The ordering icons in
     each row will change from light grey to dark grey and the pointer
     will change to a drag arrow on hover.
   - Select one of the Ordering icons <img
     src="https://docs.joomla.org/images/8/87/Help30-Ordering-colheader-grab-bar-icon.png"
     decoding="async" data-file-width="10" data-file-height="21" width="10"
-    height="21" alt="Help30-Ordering-colheader-grab-bar-icon.png" /> and
+    height="21" alt="Ordering drag icon" /> and
     drag it up or down to change the position of that row in the list.
     The items will display in the new order within the Position.
 - **Style.** The name of the style. Select the link to edit the Style.
@@ -68,8 +68,10 @@ alt="Help-4x-Extensions-Template-Manager-Styles-screen-en.png" />
 
 ## List Filters
 
-**Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+### Search bar
+
+Near the top of the page you will see the search bar
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -86,10 +88,9 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Special:MyLanguage/Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
-**Filter Options**
+### Filter Options
 
 - **Select Menu Item.** Use the drop-down list box to select pages to
   which the style has been assigned.
@@ -99,13 +100,10 @@ shown in the [Screenshot](#screenshot) above.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Default:** Makes the selected item the default item. The default
-  star symbol
-  (<img src="https://docs.joomla.org/images/7/7e/Icon-16-default.png"
-  decoding="async" data-file-width="30" data-file-height="20" width="30"
-  height="20" alt="Icon-16-default.png" />) will show in the Default
+  star symbol will show in the Default
   column, indicating that this is now the default item.
 - **Duplicate:** Makes a copy of the selected item. The copy is created
   immediately and is given the same name as the original but prefixed

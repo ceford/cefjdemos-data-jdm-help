@@ -12,7 +12,7 @@ contactpersonen en nieuwsfeeds.
 
 Navigeer naar [Advertentie categorie
 beheer](https://docs.joomla.org/Help4.x:Banners:_Categories/nl "Help4.x:Banners: Categories/nl"),
-**Componenten **→** Advertenties **→** Categorieën**
+**Componenten → Advertenties → Categorieën**
 
 - **Nieuw**. Klik op het **Nieuw** icoon in de werkbalk.
 - **Bewerk**. Klik, om een bestaande advertentie categorie te bewerken

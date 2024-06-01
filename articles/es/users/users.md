@@ -6,7 +6,7 @@ The Users list is used to find, add, and edit users.
 
 ## Cómo acceder
 
-**Panel de inicio **→** Site **→** Usuarios**
+**Panel de inicio → Site → Usuarios**
 
 To add a User:
 
@@ -43,8 +43,7 @@ alt="Help-4x-Users-screen-es.png" />
 - **Activado**. Whether or not the user is activated. Normally when a
   user registers from the Frontend, some type of activation is required.
   This is controlled by the 'New User Account Activation' parameter in
-  the [Users:
-  Options](https://docs.joomla.org/Help4.x:Users:_Options/es#newuseraccountactivation "Special:MyLanguage/Help4.x:Users: Options/es").
+  the Users: Options.
 - **Grupos**. The list of groups that the user belongs to. Note that a
   user may belong to more than one group.
 - **Correo electrónico**. Aquí se muestra la dirección de correo
@@ -58,7 +57,7 @@ alt="Help-4x-Users-screen-es.png" />
 ## Filtros de lista
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -78,7 +77,7 @@ shown in the [Screenshot](#screenshot) above.
 ### Opciones de filtro
 
 Near the top of the page you will see the filter bar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Seleccionar estado**. Select from Enabled / Disabled.
 - **Seleccionar estado activo**. Select from Activated / Unactivated.
@@ -93,7 +92,7 @@ Near the top of the page you will see the filter bar shown in the
 
 **Page Controls**. When the number of articles is more than one page,
 you will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -105,7 +104,7 @@ has a dark colour background.
 ## Barra de herramientas
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Nuevo**. Opens the editing screen to create a new user.
 - **Acciones**. Reveals a list of actions for selected users. Check one
@@ -119,8 +118,7 @@ At the top of the page you will see the toolbar shown in the
     unblocked using their checkboxes then click this button.
   - **Lote**. Batch processes the selected users.
   - **Borrar**. Deletes the selected users.
-- **Opciones**. Opens [Users:
-  Options](https://docs.joomla.org/Help4.x:Users:_Options/es "Special:MyLanguage/Help4.x:Users: Options/es").
+- **Opciones**. Opens Users: Options.
 - **Ayuda**. Se abre esta pantalla de ayuda.
 
 ## Proceso por lotes

@@ -10,7 +10,7 @@ en
 
 ## How to Access
 
-- Select **System **→** Manage Panel **→** Language Overrides**
+- Select **System → Manage Panel → Language Overrides**
 
 ## Screenshot
 
@@ -46,7 +46,7 @@ Click on the column heading to sort the list by that column's value.
   installed for Site and Administrator interfaces.
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -63,8 +63,7 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Special:MyLanguage/Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
 **Filter Options**
 
@@ -80,10 +79,3 @@ shown in the [Screenshot](#screenshot) above.
 - **Options.** Opens the Options window where settings such as default
   parameters can be edited.
 - **Help**. Opens this help screen.
-
-## Quick Tips
-
-## Related Information
-
-[Layout Overrides in Joomla
-3](https://docs.joomla.org/J3.x:Language_Overrides_in_Joomla/en "J3.x:Language Overrides in Joomla/en")

@@ -7,13 +7,13 @@ parameters die algemeen gebruikt worden voor templates.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Systeem **→** Website templates in het Templates venster**
+- Selecteer **Systeem → Website templates in het Templates venster**
   vanuit het beheermenu. Of...
-- Selecteer **Systeem **→** Website templatestijlen in het Templates
+- Selecteer **Systeem → Website templatestijlen in het Templates
   venster** vanuit het beheermenu. Of...
-- Selecteer **Systeem **→** Beheer templates in het Templates venster**
+- Selecteer **Systeem → Beheer templates in het Templates venster**
   vanuit het beheermenu. Of...
-- Selecteer **Systeem **→** Beheer templatestijlen in het Templates
+- Selecteer **Systeem → Beheer templatestijlen in het Templates
   venster** vanuit het beheermenu. Dan...
   - Selecteer de **Opties** knop in de werkbalk.
 

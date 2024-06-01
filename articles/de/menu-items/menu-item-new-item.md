@@ -18,13 +18,13 @@ Menüeintragstyps dokumentiert.
 
 Einen Menüeintrag hinzufügen:
 
-- **Menüs **→** \[Name des Menüs\]**
+- **Menüs → \[Name des Menüs\]**
   1.  auf den Button **Neu** der Werkzeugleiste klicken.
   2.  bei 'Menüeintragstyp' auf den Button **Auswählen** klicken.
 
 Einen Menüeintrag bearbeiten:
 
-- **Menüs **→** \[Name des Menüs\]**
+- **Menüs → \[Name des Menüs\]**
   - einen **Titel** aus der Liste wählen.
 
 ## Bildschirmfoto

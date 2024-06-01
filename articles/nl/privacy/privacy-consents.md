@@ -7,7 +7,7 @@ worden.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Gebruikers **→** Privacy **→** Toestemmingen** in het
+- Selecteer **Gebruikers → Privacy → Toestemmingen** in het
   beheermenu.
 
 ## Schermafbeelding
@@ -35,7 +35,7 @@ title="File:Help-4x-component-privacy-consents-nl.png">800px</a>
 ## Lijst filters
 
 **Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande [Screenshot](#screenshot).
+bovenstaande Screenshot.
 
 - **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
   zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat

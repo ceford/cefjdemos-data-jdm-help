@@ -13,7 +13,7 @@ een advertentie kan worden aangemaakt.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Componenten **→** Advertenties **→** Advertenties**
+- Selecteer **Componenten → Advertenties → Advertenties**
 - Selecteer de **Advertenties** menu-link uit de [Advertentie
   categorieën](https://docs.joomla.org/Help4.x:Banners:_Categories/nl "Help4.x:Banners: Categories/nl")
   or the
@@ -52,14 +52,14 @@ waarde in die kolom te sorteren.
   - Selecteer het volgorde icoon <img
     src="https://docs.joomla.org/images/e/ee/Help30-Ordering-colheader-icon.png"
     decoding="async" data-file-width="12" data-file-height="23" width="12"
-    height="23" alt="Help30-Ordering-colheader-icon.png" /> in de
+    height="23" alt="Ordering column header icon" /> in de
     tabelkop om het het actieve volgorde item te maken. De volgorde
     iconen in iedere rij veranderen van licht naar donker grijs en de
     pijl verandert in een sleepsymbool als u eroverheen gaat.
   - Selecteer één van de volgorde iconen <img
     src="https://docs.joomla.org/images/8/87/Help30-Ordering-colheader-grab-bar-icon.png"
     decoding="async" data-file-width="10" data-file-height="21" width="10"
-    height="21" alt="Help30-Ordering-colheader-grab-bar-icon.png" /> en
+    height="21" alt="Ordering drag icon" /> en
     sleep het naar boven of beneden om de positie van die rij in de
     lijst te veranderen. De items worden in de nieuwe volgorde binnen de
     positie getoond.
@@ -98,7 +98,7 @@ klevende advertenties automatisch getoond.*
 ## Lijst filters
 
 **Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande [Screenshot](#screenshot).
+bovenstaande Screenshot.
 
 - **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
   zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat
@@ -128,7 +128,7 @@ hierboven. De functies zijn:
 - **Selecteer categorie**. Selecteer uit de lijst met beschikbare
   categorieën.
 - **Selecteer client**. Selecteer uit de lijst met beschikbare clients.
-- 
+-
 
 **Selecteer taal**. Selecteer uit de lijst met beschikbare talen.
 
@@ -137,7 +137,7 @@ hierboven. De functies zijn:
 
 **Paginabesturing** Als het aantal items meer is dan een pagina, zie je
 een paginabesturing bij de onderkant van de pagina zoals in bovenstaande
-[Screenshot](#screenshot). Het huidige paginanummer heeft een donkere
+Screenshot. Het huidige paginanummer heeft een donkere
 achtergrond.
 
 - **Begin**. Klik om naar de eerste pagina te gaan.
@@ -205,12 +205,12 @@ voor meer informatie
 |                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                        |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Verwante helpschermen                                                                                                                                         | Beschrijving                                                                                                                                                                                                                                                                                                                                                                                           |
-| [Advertenties: Advertenties bewerken](https://docs.joomla.org/Help4.x:Banners:_Edit/nl "Help4.x:Banners: Edit/nl")                                            | Wordt gebruikt om een advertentie toe te voegen of te bewerken, welke getoond kan worden op uw Joomla! website. Denk er aan minstens één <a href="https://docs.joomla.org/Help4.x:Components_Banners_Clients/nl"                                                                                                                                                                                       
-                                                                                                                                                                 class="mw-redirect"                                                                                                                                                                                                                                                                                                                                                                                     
-                                                                                                                                                                 title="Help4.x:Components Banners Clients/nl">Adverteeder</a> en één<a                                                                                                                                                                                                                                                                                                                                  
-                                                                                                                                                                 href="https://docs.joomla.org/Help4.x:Components_Banners_Categories/nl"                                                                                                                                                                                                                                                                                                                                 
-                                                                                                                                                                 class="mw-redirect"                                                                                                                                                                                                                                                                                                                                                                                     
-                                                                                                                                                                 title="Help4.x:Components Banners Categories/nl">Advertentie                                                                                                                                                                                                                                                                                                                                            
+| [Advertenties: Advertenties bewerken](https://docs.joomla.org/Help4.x:Banners:_Edit/nl "Help4.x:Banners: Edit/nl")                                            | Wordt gebruikt om een advertentie toe te voegen of te bewerken, welke getoond kan worden op uw Joomla! website. Denk er aan minstens één <a href="https://docs.joomla.org/Help4.x:Components_Banners_Clients/nl"
+                                                                                                                                                                 class="mw-redirect"
+                                                                                                                                                                 title="Help4.x:Components Banners Clients/nl">Adverteeder</a> en één<a
+                                                                                                                                                                 href="https://docs.joomla.org/Help4.x:Components_Banners_Categories/nl"
+                                                                                                                                                                 class="mw-redirect"
+                                                                                                                                                                 title="Help4.x:Components Banners Categories/nl">Advertentie
                                                                                                                                                                  categorie</a> voordat u een advertentie kan aanmaken                                                                                                                                                                                                                                                                                                                                                    |
 | [Advertentie: Opties](https://docs.joomla.org/Help4.x:Banners:_Options/nl "Help4.x:Banners: Options/nl")                                                      | Algemene opties (instellingen) voor adverteerders.                                                                                                                                                                                                                                                                                                                                                     |
 | [Advertenties: Categorieën](https://docs.joomla.org/Help4.x:Banners:_Categories/nl "Help4.x:Banners: Categories/nl")                                          | Wordt gebruikt om een lijst met bestaande advertentie-categorieën te bekijken, bestaande te bewerken en nieuwe advertentie-categorieën aan te maken. Let op dat advertentie-categorieën los staan van andere categorieën, zoals artikelen, contactpersonen, nieuwsfeeds en weblinks. Er moet minimaal één adverteerder en advertentie-categorie zijn voordat er een advertentie aangemaakt kan worden. |

@@ -7,8 +7,8 @@ given user across all extensions on your Joomla installation.
 
 ## How to access
 
-- Select **Users **→** Manage** from the Administrator menu. Then...
-  - Select the icon in the **Permissions** column for a specific user.
+- Select **Users → Manage** from the Administrator menu. Then...
+  - Select the **Permissions** button for a specific user.
 
 ## Screenshot
 
@@ -16,9 +16,9 @@ given user across all extensions on your Joomla installation.
 src="https://docs.joomla.org/images/0/02/Help-4x-permissions-for-user-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="800"
 width="800" height="800"
-alt="Help-4x-permissions-for-user-screen-en.png" />
+alt="permissions for user screen" />
 
-## Column Headers
+### Column Headers
 
 In the table containing the users from your Joomla! site, you will see
 different columns. Here you can read what they mean and what is
@@ -60,7 +60,7 @@ displayed in that column.
   field displays "0" until you save the new entry, at which point a new
   ID is assigned to it.
 
-## List Filters
+### List Filters
 
 Near the top of the page you will see the filter bar shown in the
 Screenshot above. The functions are:
@@ -72,9 +72,24 @@ Screenshot above. The functions are:
 - **Start Level**. Start level of the item.
 - **End Level**. End level of the item.
 
-**Page Controls**. When the number of items is more than one page, you
+### Legend
+
+At the bottom you will see the legend:
+
+<img
+src="https://docs.joomla.org/images/a/a5/Help31-Help-Permissions-Report-Legend-en.png"
+decoding="async" data-file-width="320" data-file-height="36" width="320"
+height="36" alt="Permissions Report Legend" />
+
+- **Not Allowed**. Action not allowed.
+- **Allowed**. Action allowed.
+- **Forbidden**. Action forbidden.
+
+### Page Controls
+
+When the number of items is more than one page, you
 will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -86,26 +101,8 @@ has a dark colour background.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Options.** Opens the Options window where settings such as default
   parameters can be edited.
 - **Help**. Opens this help screen.
-
-## Legend
-
-At the bottom you will see the legend:
-
-<img
-src="https://docs.joomla.org/images/a/a5/Help31-Help-Permissions-Report-Legend-en.png"
-decoding="async" data-file-width="320" data-file-height="36" width="320"
-height="36" alt="Help31-Help-Permissions-Report-Legend-en.png" />
-
-- **Not Allowed**. Action not allowed.
-- **Allowed**. Action allowed.
-- **Forbidden**. Action forbidden.
-
-## Related Information
-
-- [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration "Help4.x:Site Global Configuration")

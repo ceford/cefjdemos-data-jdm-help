@@ -3,15 +3,12 @@
 ## Description
 
 This is where you add a new News Feed or edit an existing one. Note that
-you need to create at least one <a
-href="https://docs.joomla.org/Help4.x:Components_Newsfeeds_Categories/en"
-class="mw-redirect"
-title="Help4.x:Components Newsfeeds Categories/en">News Feed
-Category</a> before you can create your first News Feed.
+you need to create at least one News Feed Category before you can create
+your first News Feed.
 
 ## How to Access
 
-- Select **Components **→** News Feeds **→** Feeds** from the
+- Select **Components → News Feeds → Feeds** from the
   Administrator menu. Then ...
   - To add a new News Feed, select the **New** icon in the toolbar.
   - To edit an existing News Feed, select the News Feed's title link in
@@ -23,19 +20,18 @@ Category</a> before you can create your first News Feed.
 src="https://docs.joomla.org/images/9/90/Help-4x-Components-Newsfeeds-Feeds-Edit-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="629"
 width="800" height="629"
-alt="Help-4x-Components-Newsfeeds-Feeds-Edit-screen-en.png" />
+alt="Newsfeeds Feeds Edit screen" />
 
 ## Form Fields
 
 - **Title.** The Name of the News Feed. This field is required.
 - **Alias**. The internal name of the item. Normally, you can leave this
   blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces. [Learn
-  more.](https://docs.joomla.org/Alias "Special:MyLanguage/Alias")
+  with dashes instead of spaces.
 
 ### Edit News Feed Tab
 
-**Left Panel**
+#### Left Panel
 
 - **Link.** The link of this News Feed. This should normally begin with
   "https://".
@@ -48,7 +44,7 @@ alt="Help-4x-Components-Newsfeeds-Feeds-Edit-screen-en.png" />
 src="https://docs.joomla.org/images/c/c2/Help30-editor-tinymce-advanced-module-article-image-en.png"
 decoding="async" data-file-width="800" data-file-height="85" width="800"
 height="85"
-alt="Help30-editor-tinymce-advanced-module-article-image-en.png" />
+alt="editor tinymce advanced module article screenshot" />
 
 - Select the **Insert** dropdown list to add the following with a popup
   window:
@@ -57,7 +53,7 @@ alt="Help30-editor-tinymce-advanced-module-article-image-en.png" />
 - **Toggle Editor.** Turns on or off the editor's description box
   WYSIWYG features to show HTML markup.
 
-**Right Panel**
+#### Right Panel
 
 - **Status**: Published status of the item. Possible values are:
   - *Published*: The item is published. This is the only state that will
@@ -66,9 +62,7 @@ alt="Help30-editor-tinymce-advanced-module-article-image-en.png" />
   - *Archived*: The item has been archived.
   - *Trashed*: The item has been sent to the Trash.
 - **Category.** The Category this item belongs to.
-- **Access**. The [viewing Access
-  Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels "Special:MyLanguage/Help4.x:Users: Viewing Access Levels")
-  for this item.
+- **Access**. The viewing Access  Level   for this item.
 - **Language**. Item language.
 - **Tags**. Enter one or more optional tags for this item. You can
   select existing tags by entering in the first few letters. You may
@@ -76,8 +70,7 @@ alt="Help30-editor-tinymce-advanced-module-article-image-en.png" />
   lists of related items across content types (for example, articles,
   contacts, and categories).
 - **Version Note**. Optional field to identify this version of the item
-  in the item's [Version
-  History](https://docs.joomla.org/Help40:Components_Version_History "Special:MyLanguage/Help40:Components Version History")
+  in the item's Version History
   window.
 
 ### Options Tab
@@ -86,9 +79,9 @@ alt="Help30-editor-tinymce-advanced-module-article-image-en.png" />
 src="https://docs.joomla.org/images/4/46/Help-4x-Components-Newsfeeds-Edit-tab-images-options-en.png"
 decoding="async" data-file-width="800" data-file-height="651"
 width="800" height="651"
-alt="Help-4x-Components-Newsfeeds-Edit-tab-images-options-en.png" />
+alt="Newsfeeds Feeds Edit options tab" />
 
-**Images Panel**
+#### Images Panel
 
 - **First Image.** Select or upload the first image of the News Feed.
 - **First Image Float.** (Right/Left/None) Controls placement of the
@@ -105,7 +98,7 @@ alt="Help-4x-Components-Newsfeeds-Edit-tab-images-options-en.png" />
   caption text is available.
 - **Caption.** The caption for the image.
 
-**Display Panel**
+#### Display Panel
 
 - **Number of Articles.** The number of articles from the news feed to
   display on the page.
@@ -125,15 +118,15 @@ alt="Help-4x-Components-Newsfeeds-Edit-tab-images-options-en.png" />
   in the templates.
 - **Feed Display Order.** The order used to display the feed.
 
-### Publishing
+### Publishing tab
 
 <img
 src="https://docs.joomla.org/images/b/b3/Help-4x-Components-Newsfeeds-Edit-tab-publishing-options-en.png"
 decoding="async" data-file-width="800" data-file-height="432"
 width="800" height="432"
-alt="Help-4x-Components-Newsfeeds-Edit-tab-publishing-options-en.png" />
+alt="Newsfeeds Feeds Edit publishing tab" />
 
-**Publishing Panel**
+#### Publishing Panel
 
 - **Start Publishing**. Date and time to start publishing. Use this
   field if you want to enter content ahead of time and then have it
@@ -160,7 +153,7 @@ alt="Help-4x-Components-Newsfeeds-Edit-tab-publishing-options-en.png" />
   field displays "0" until you save the new entry, at which point a new
   ID is assigned to it.
 
-**Metadata Panel**
+#### Metadata Panel
 
 - **Meta Description**. An optional paragraph to be used as the
   description of the page in the HTML output. This will generally
@@ -181,13 +174,10 @@ alt="Help-4x-Components-Newsfeeds-Edit-tab-publishing-options-en.png" />
       Article. To do this, you would:
       - Add the keywords "dog" and "cat" to the appropriate Articles.
       - Add the Tags "dog" and "cat" to the appropriate Banners in
-        [Banners:
-        Edit](https://docs.joomla.org/Help40:Banners:_Edit "Special:MyLanguage/Help40:Banners: Edit").
+        Banners: Edit.
       - Set the Banner module Parameter 'Search By Tags' to "Yes" in
-        [Site Modules:
-        Banners](https://docs.joomla.org/Help40:Site_Modules:_Banners "Special:MyLanguage/Help40:Site Modules: Banners").
-  3.  For articles only, in combination with the ['Articles - Related'
-      module](https://docs.joomla.org/Help40:Site_Modules:_Articles_-_Related "Special:MyLanguage/Help40:Site Modules: Articles - Related"),
+        the Site Modules: Banners list.
+  3.  For articles only, in combination with the Articles - Related module,
       to display Articles that share at least one keyword in common. For
       example, if the current Article displayed has the keywords "cats,
       dogs, monkeys", any other Articles with at least one of these
@@ -209,26 +199,25 @@ alt="Help-4x-Components-Newsfeeds-Edit-tab-publishing-options-en.png" />
     do not want to index each event.
   - *noindex, nofollow:* Do not index this page or follow any links on
     the page.
-  - *Use Global:* Set in [Global Configuration: Metadata
-    Settings](https://docs.joomla.org/Help4.x:Site_Global_Configuration#Metadata_Settings "Special:MyLanguage/Help4.x:Site Global Configuration").
+  - *Use Global:* Set in Global Configuration: Metadata Settings.
 - **Content Rights.** Describe what rights others have to use this
   content.
 - **Hits**. The number of times an item has been viewed.
 
-### Associations
+### Associations tab
 
 <img
 src="https://docs.joomla.org/images/3/38/Help-4x-Components-Newsfeeds-Edit-tab-associations-options-en.png"
 decoding="async" data-file-width="600" data-file-height="240"
 width="600" height="240"
-alt="Help-4x-Components-Newsfeeds-Edit-tab-associations-options-en.png" />
+alt="Newsfeeds Feeds Edit associations tab" />
 
 - **Select a News Feed:** Select or Create a News Feed to associate.
 
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Save**. Saves the item and stays in the current screen.
 - **Save & Close**. Saves the item and closes the current screen.
@@ -244,13 +233,11 @@ At the top of the page you will see the toolbar shown in the
   toolbar icon is not shown if you are creating a new item.
 - **Versions**. Opens the Item Version History window to show any prior
   versions of this item. This allows you to view older versions of this
-  item and, if desired, restore from an older version. See [Version
-  History](https://docs.joomla.org/Help40:Components_Version_History "Special:MyLanguage/Help40:Components Version History")
+  item and, if desired, restore from an older version. See Version History
   for more information.
 - **Associations**. With a specific language set for an item, allows
   side by side editing in another language. This toolbar icon is shown
-  on [Multilingual
-  Sites](https://docs.joomla.org/Help4.x:Multilingual_Associations "Special:MyLanguage/Help4.x:Multilingual Associations")
+  on Multilingual Sites
   only.
 - **Help**. Opens this help screen.
 
@@ -258,8 +245,3 @@ At the top of the page you will see the toolbar shown in the
 
 A News Feed category must be added *before* any News Feed can be
 created.
-
-## Related Information
-
-To add or edit News Feed Categories: [News Feeds:
-Categories](https://docs.joomla.org/Help4.x:News_Feeds:_Categories/en "Help4.x:News Feeds: Categories/en")

@@ -10,7 +10,7 @@ Web Links. There must be at least one Banner Client and Banner Category
 
 ## How to Access
 
-- Select **Components **→** Banners **→** Categories**
+- Select **Components → Banners → Categories**
 
 ## Screenshot
 
@@ -18,7 +18,7 @@ Web Links. There must be at least one Banner Client and Banner Category
 src="https://docs.joomla.org/images/5/59/Help-4x-Components-Banners-Categories-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="328"
 width="800" height="328"
-alt="Help-4x-Components-Banners-Categories-screen-en.png" />
+alt="Banners Categories list" />
 
 ## Column Headers
 
@@ -39,14 +39,14 @@ Click on the column heading to sort the list by that column's value.
   - Select the Ordering icon <img
     src="https://docs.joomla.org/images/e/ee/Help30-Ordering-colheader-icon.png"
     decoding="async" data-file-width="12" data-file-height="23" width="12"
-    height="23" alt="Help30-Ordering-colheader-icon.png" /> in the Table
+    height="23" alt="Ordering colheader icon" /> in the Table
     heading to make it the active ordering item. The ordering icons in
     each row will change from light grey to dark grey and the pointer
     will change to a drag arrow on hover.
   - Select one of the Ordering icons <img
     src="https://docs.joomla.org/images/8/87/Help30-Ordering-colheader-grab-bar-icon.png"
     decoding="async" data-file-width="10" data-file-height="21" width="10"
-    height="21" alt="Help30-Ordering-colheader-grab-bar-icon.png" /> and
+    height="21" alt="Ordering grab bar icon" /> and
     drag it up or down to change the position of that row in the list.
     The items will display in the new order within the Position.
 - **Status**. The published status of the item.
@@ -55,9 +55,7 @@ Click on the column heading to sort the list by that column's value.
   optionally be displayed on the web page. This entry is required. You
   can open the item for editing by clicking on the Title.
 - **Hits**. The number of times an item has been viewed.
-- **Access**. The [viewing Access
-  Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/en")
-  for this item.
+- **Access**. The viewing Access  Level   for this item.
 - **Language**. Item language.
 - **ID**. This is a unique identification number for this item assigned
   automatically by Joomla. It is used to identify the item internally,
@@ -68,7 +66,7 @@ Click on the column heading to sort the list by that column's value.
 ## List Filters
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -85,8 +83,7 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
 ### Filter Options
 
@@ -121,7 +118,7 @@ shown in the [Screenshot](#screenshot) above.
 
 **Page Controls**. When the number of items is more than one page, you
 will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -133,7 +130,7 @@ has a dark colour background.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **New**. Opens the editing screen to create a new item.
 - **Actions:** Reveals a list of actions for selected Items. Check one
@@ -157,7 +154,7 @@ open a pop up window as shown below.
 src="https://docs.joomla.org/images/b/bf/Help-4x-colheader-batch-process-categories-en.png"
 decoding="async" data-file-width="600" data-file-height="364"
 width="600" height="364"
-alt="Help-4x-colheader-batch-process-categories-en.png" />
+alt="Banners categories list batch process" />
 
 You can change one value or all three values at one time.
 
@@ -200,10 +197,3 @@ this does *not* uncheck the check boxes for the items.
 
 - You must add at least one Banner Client and Banner Category *before*
   you can add a Banner.
-
-## Related Information
-
-- To create or edit Banners: [Banner -
-  New/Edit](https://docs.joomla.org/Help4.x:Banners:_Edit/en "Help4.x:Banners: Edit/en")
-- To work with Banner Clients: [Banner Client
-  Manager](https://docs.joomla.org/Help4.x:Banners:_Clients/en "Help4.x:Banners: Clients/en")

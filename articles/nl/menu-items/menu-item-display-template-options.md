@@ -12,8 +12,8 @@ te helpen met website ontwikkeling.
 
 Om een nieuw **Toon template-opties** menu-item aan te maken:
 
-- Selecteer **Menu's **→** \[naam van het menu\]** vanuit het beheermenu
-  (bijvoorbeeld, **Menu's **→** Hoofdmenu**).
+- Selecteer **Menu's → \[naam van het menu\]** vanuit het beheermenu
+  (bijvoorbeeld, **Menu's → Hoofdmenu**).
   - Selecteer de **Nieuw** knop in de werkbalk.
   - Klik op de Menu-itemtype selectie knop. <img
     src="https://docs.joomla.org/images/thumb/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png/73px-Help-4x-Menu-Item-Type-Select-Button-nl.png"
@@ -75,14 +75,14 @@ alt="Help-4x-Menus-Menu-Display Template Options-screen-nl.png" />
   - Selecteer het volgorde icoon <img
     src="https://docs.joomla.org/images/e/ee/Help30-Ordering-colheader-icon.png"
     decoding="async" data-file-width="12" data-file-height="23" width="12"
-    height="23" alt="Help30-Ordering-colheader-icon.png" /> in de
+    height="23" alt="Ordering column header icon" /> in de
     tabelkop om het het actieve volgorde item te maken. De volgorde
     iconen in iedere rij veranderen van licht naar donker grijs en de
     pijl verandert in een sleepsymbool als u eroverheen gaat.
   - Selecteer één van de volgorde iconen <img
     src="https://docs.joomla.org/images/8/87/Help30-Ordering-colheader-grab-bar-icon.png"
     decoding="async" data-file-width="10" data-file-height="21" width="10"
-    height="21" alt="Help30-Ordering-colheader-grab-bar-icon.png" /> en
+    height="21" alt="Ordering drag icon" /> en
     sleep het naar boven of beneden om de positie van die rij in de
     lijst te veranderen. De items worden in de nieuwe volgorde binnen de
     positie getoond.
@@ -162,8 +162,8 @@ alt="Help-4x-Menus-Menu-Display Template Options-front-end-screenshot-nl.png" />
 | [Templates: Bewerk stijl](https://docs.joomla.org/Help4.x:Templates:_Edit_Style/nl "Help4.x:Templates: Edit Style/nl") | Hier bewerkt u de stijl van een template. Wanneer een template voor het eerst geïnstalleerd wordt, wordt er een standaard stijl aangemaakt. De standaard stijl voor het template heeft dezelfde naam als het template met een - standaard achtervoegsel. Vink, om een andere versie van van de standaard stijl aan te maken, de standaard stijl checkbox aan en druk op het dupliceer icoon in de werkbalk. Bewerk daarna de kopie. |
 | [Templates: Templates](https://docs.joomla.org/Help4.x:Templates:_Templates/nl "Help4.x:Templates: Templates/nl")      | Het **Templatebeheer: Templates** scherm geeft de mogelijkheid om templates te zien en bewerken, welke in Joomla zijn geïnstalleerd.                                                                                                                                                                                                                                                                                                |
 | [Templates: Aanpassen](https://docs.joomla.org/Help4.x:Templates:_Customise/nl "Help4.x:Templates: Customise/nl")      | Hier bewerkt u de broncode van een template. U kunt de hoofdbestanden van een template en stijlsheets vanaf dit scherm bewerken.                                                                                                                                                                                                                                                                                                    |
-| <a                                                                                                                     
- href="https://docs.joomla.org/index.php?title=Help4.x:Templates:_Customise_Source/nl&amp;action=edit&amp;redlink=1"     
- class="new"                                                                                                             
- title="Help4.x:Templates: Customise Source/nl (page does not exist)">Templates:                                         
+| <a
+ href="https://docs.joomla.org/index.php?title=Help4.x:Templates:_Customise_Source/nl&amp;action=edit&amp;redlink=1"
+ class="new"
+ title="Help4.x:Templates: Customise Source/nl (page does not exist)">Templates:
  Bewerken bron</a>                                                                                                       | Op dit scherm wordt de broncode van template bestanden bewerkt. Het biedt een tekst-interface om de template bestanden te bewerken. HTML en PHP programma-syntax wordt gemarkeerd om de broncode bestanden beter leesbaar te maken.                                                                                                                                                                                                 |

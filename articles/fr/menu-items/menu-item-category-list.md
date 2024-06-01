@@ -7,7 +7,7 @@ appartenant à une catégorie spécifique sous forme de liste.
 
 ## Comment y accéder
 
-**Menus **→** \[nom du menu\]**
+**Menus → \[nom du menu\]**
 
 Pour ajouter un nouvel élément de menu ː
 
@@ -55,17 +55,16 @@ alt="Help-4x-Menus-Item-Articles-Category-List-screen-fr.png" />
 - **Fenêtre cible**. Sélectionnez dans la liste déroulante.
 - **Style du template**. Sélectionnez dans la liste déroulante.
 
-**Right Panel**
+#### Right Panel
 
 - **Menu**. Affiche dans quel menu le lien apparaîtra.
 
 ### Catégorie
 
 Les options contrôlent la manière dont les informations sur les
-catégories sont affichées dans le lien de menu.  
+catégories sont affichées dans le lien de menu.
 Options include "Use Global". If this is selected, the setting from the
-[Articles:
-Options](https://docs.joomla.org/Help4.x:Articles:_Options/en "Help4.x:Articles: Options/en")
+Articles: Options
 will be used.
 
 <img
@@ -129,12 +128,10 @@ alt="Help-4x-Menus-Item-Articles-Category-List-list-layouts-subscreen-fr.png" />
   - Alphabétique inverse des titres: Les articles sont affichés par
     titre, dans l'ordre alphabétique inverse (Z à A).
   - Ordre des catégories: Categories are ordered according to the Order
-    column entered in [Articles:
-    Categories](https://docs.joomla.org/Help4.x:Articles:_Categories/en#ordering "Help4.x:Articles: Categories/en").
+    column entered in Articles: Categories.
 - **Ordre des articles**.
   - Ordre de présentation des articles épinglés: Articles are ordered
-    according to the Order column entered in [Articles:
-    Featured](https://docs.joomla.org/Help4.x:Articles:_Featured/en#ordering "Help4.x:Articles: Featured/en").
+    according to the Order column entered in Articles: Featured.
   - Plus récents en premier: Les articles sont affichés du plus ancien
     au plus récent.
   - Plus ancien en premier: Les articles sont affichés du plus ancien au
@@ -154,10 +151,10 @@ alt="Help-4x-Menus-Item-Articles-Category-List-list-layouts-subscreen-fr.png" />
   - Ordre aléatoire: Articles are displayed in random order.
   - Ordre des articles: Articles are ordered according to the Order
     column entered in
-    [Articles](https://docs.joomla.org/Help4.x:Articles/en#ordering "Help4.x:Articles/en").
+    Articles.
   - Ordre inverse des articles: Articles are ordered reverse to the
     according of the Order column entered in
-    [Articles](https://docs.joomla.org/Help4.x:Articles/en#ordering "Help4.x:Articles/en").
+    Articles.
 - **Classement par date**. The date used when articles are sorted by
   date.
   - Créé: Utilisez la date de création de l'article.
@@ -206,15 +203,13 @@ alt="Help-4x-Menus-Item-Articles-Category-List-options-subscreen-fr.png" />
   catégorie parente de la catégorie de l'article.
 - **Lien sur les titres**. Show the title as a link to that
   Category.Note: You can set this to be either a blog or list layout
-  with the [Choose a
-  Layout](https://docs.joomla.org/Help4.x:Articles:_Options/en#choosealayout "Help4.x:Articles: Options/en")
+  with the Choose a Layout
   option in the Category Tab.
 - **Catégorie parente**. Afficher ou masquer le titre de la catégorie
   parente de la catégorie de l'article.
 - **Lien de catégorie parente**. Show the title as a link to that
   Category.Note: You can set this to be either a blog or list layout
-  with the [Choose a
-  Layout](https://docs.joomla.org/Help4.x:Articles:_Options/en#choosealayout "Help4.x:Articles: Options/en")
+  with the Choose a Layout
   option in the Category Tab.
 
 **Associations**
@@ -228,9 +223,8 @@ alt="Help-4x-Menus-Item-Articles-Category-List-options-subscreen-fr.png" />
 - **Auteur**. Show the author of the Article.
 - **Lien vers sa page de contact**. Activer le lien sur le nom de
   l'auteur vers sa page de contact.Note: The author must be set up as a
-  [Contact](https://docs.joomla.org/Help4.x:Contacts:_Edit/en "Help4.x:Contacts: Edit/en").
-  Also, a link will not show if there is an [Author
-  Alias](https://docs.joomla.org/Help4.x:Articles:_Edit/en#createdbyalias "Help4.x:Articles: Edit/en")
+  Contact.
+  Also, a link will not show if there is an Author Alias
   value for the article.
 
 **Date**
@@ -279,8 +273,7 @@ alt="Help-4x-Menus-Item-Articles-Category-List-integration-subscreen-fr.png" />
 
 ### Paramètres communs
 
-See [Menus: New
-Item](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en "Help4.x:Menu Item: New Item/en")
+See Menus: New Item
 for help on fields common to all Menu Item types, including:
 
 - [Panneau de
@@ -290,7 +283,7 @@ for help on fields common to all Menu Item types, including:
 - [Affichage de la
   page](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/fr#pagedisplay "Help4.x:Menu Item: New Item/fr")
 - [Métadonnées](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/fr#metadata "Help4.x:Menu Item: New Item/fr")
-- [Associations](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/fr#associations "Help4.x:Menu Item: New Item/fr")
+- Associations
 - [Assignation de
   modules](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/fr#moduleassignment "Help4.x:Menu Item: New Item/fr")
 
@@ -314,10 +307,9 @@ En haut de la page, vous verrez la barre d'outils présentée dans la
 - The Category List layout is a convenient way to list a compact
   directory of articles in a category that can include filtering and
   searching.
-- To create a new Category see [Articles: Edit
-  Category.](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/en "Help4.x:Articles: Edit Category/en")
+- To create a new Category see Articles: Edit Category.
 - To create a new menu see
-  [Menus.](https://docs.joomla.org/Help4.x:Menus/en "Help4.x:Menus/en")
+  Menus.
 
 ## Informations connexes
 
@@ -329,7 +321,7 @@ En haut de la page, vous verrez la barre d'outils présentée dans la
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Ecrans d'aide en relation                                                                                                                                             | Description                                                                                                                                                                                 |
 | [Articles : Paramètres](https://docs.joomla.org/Help4.x:Articles:_Options/fr "Help4.x:Articles: Options/fr")                                                          | Used to set global defaults for menu items that display articles. These default values will be used when 'Use Global' is selected for an option in an Articles menu item.                   |
-| [Articles](https://docs.joomla.org/Help4.x:Articles/fr "Help4.x:Articles/fr")                                                                                         | The Article list is used to find, mark featured, add and edit articles.                                                                                                                     |
+| Articles                                                                                         | The Article list is used to find, mark featured, add and edit articles.                                                                                                                     |
 | [Articles : Edition](https://docs.joomla.org/Help4.x:Articles:_Edit/fr "Help4.x:Articles: Edit/fr")                                                                   | This is where you can add and edit Articles. You can also select the Category for an Article and indicate whether or not it is Published and if it is selected to appear on the Front Page. |
 | [Articles : Articles épinglés](https://docs.joomla.org/Help4.x:Articles:_Featured/fr "Help4.x:Articles: Featured/fr")                                                 | Used to control which 'Featured Articles' are displayed on the Front Page and in what order they are displayed.                                                                             |
 | [Articles : catégories](https://docs.joomla.org/Help4.x:Articles:_Categories/fr "Help4.x:Articles: Categories/fr")                                                    | The Articles Categories list is used to find, add, and edit articles categories.                                                                                                            |

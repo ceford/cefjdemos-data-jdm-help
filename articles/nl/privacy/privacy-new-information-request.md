@@ -6,7 +6,7 @@ In dit scherm kunt u een nieuw informatieverzoek aanmaken.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Gebruikers **→** Privacy **→** Verzoeken** in het
+- Selecteer **Gebruikers → Privacy → Verzoeken** in het
   beheermenu. Dan...
   - Selecteer de **Nieuw** knop in de werkbalk.
 

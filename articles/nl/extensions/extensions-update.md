@@ -10,7 +10,7 @@ verbindingsmethodes.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Systeem **→** Update venster **→** Extensies** vanuit het
+- Selecteer **Systeem → Update venster → Extensies** vanuit het
   beheermenu. Om dan een update uit te voeren...
   - Selecteer het keuzevakje van een of meer items om te updaten.
   - Klik op de **Update** knop in de werkbalk.
@@ -63,7 +63,7 @@ alt="Help-4x-Extensions-Manage-Update-columns-nl.png" />
 ## Lijst filters
 
 **Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande [Screenshot](#screenshot).
+bovenstaande Screenshot.
 
 - **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
   zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat
@@ -95,7 +95,7 @@ bovenstaande [Screenshot](#screenshot).
 
 **Paginabesturing** Als het aantal items meer is dan een pagina, zie je
 een paginabesturing bij de onderkant van de pagina zoals in bovenstaande
-[Screenshot](#screenshot). Het huidige paginanummer heeft een donkere
+Screenshot. Het huidige paginanummer heeft een donkere
 achtergrond.
 
 - **Begin**. Klik om naar de eerste pagina te gaan.

@@ -10,10 +10,10 @@ Kontrollkästchen des Standardstils markieren, die Schaltfläche
 
 ## Wie darauf zugreifen
 
-- Im Administrator-Menü die Option **System **→** Templates **→** Site
+- Im Administrator-Menü die Option **System → Templates → Site
   Templates Stile** wählen oder ...
 - im Administrator-Menü die Option
-  **System **→** Templates **→** Administrator Templates Stile** wählen.
+  **System → Templates → Administrator Templates Stile** wählen.
   Dann ...
   - den Namen des zu bearbeitenden Template-Stils in der Spalte „Stil“
     wählen.

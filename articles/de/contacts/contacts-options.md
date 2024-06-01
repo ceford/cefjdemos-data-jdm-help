@@ -6,7 +6,7 @@ Kontakt-Optionen werden global für alle Kontakte verwendet.
 
 ## Wie darauf zugreifen
 
-- **Komponenten **→** Kontakte** im Administrator-Menü auswählen, dann
+- **Komponenten → Kontakte** im Administrator-Menü auswählen, dann
   ...
   - die Schaltfläche **Optionen** in der Symbolleiste anklicken. Die
     Schaltfläche *Optionen* ist unter Kontakte und Kategorien verfügbar.
@@ -40,8 +40,7 @@ werden für einen bestimmten Menüpunkt oder Kontakt geändert
   0, then versions will never be deleted automatically. Also, specific
   versions may be flagged as "Keep Forever" and will not be deleted
   automatically. Note that versions may be deleted manually using the
-  Delete button in the [Version
-  History](https://docs.joomla.org/Help4.x:Components_Version_History/en "Help4.x:Components Version History/en")
+  Delete button in the Version History
   screen.
 - **Kontaktliste.** Dem Besucher erlauben, einen Kontakt aus einer
   Drop-down-Liste mit allen Kontakten der aktuellen Kategorie
@@ -366,10 +365,3 @@ above. The functions are:
   you will be able to accept the default values for most options.
 - All values set here can be overridden at the menu item, category, or
   contact level.
-
-## Related Information
-
-- To create and edit contacts and contact categories: [Contact
-  Manager](https://docs.joomla.org/Help4.x:Contacts/en "Help4.x:Contacts/en")
-- For more information about Joomla's ACL system: [Joomla 3 ACL
-  Tutorial](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/en "J3.x:Access Control List Tutorial/en")

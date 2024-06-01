@@ -8,11 +8,11 @@ in to the Frontend of the site.
 
 Users must have permission to create articles. When the Create Article
 page is shown in the Frontend, the screen shows as examples in the
-[Frontend Screenshot](#frontend) section below.
+Frontend Screenshot section below.
 
 ## How To Access
 
-**Menus **→** \[name of the menu\]**
+Select **Menus → \[name of the menu\]** from the Administrator menu.
 
 To add a Menu Item:
 
@@ -32,19 +32,18 @@ src="https://docs.joomla.org/images/thumb/d/d6/Help-4x-Menus-Item-Articles-Creat
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/d/d6/Help-4x-Menus-Item-Articles-Create-Article-screen-en.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-screen-en.png 1.5x, https://docs.joomla.org/images/thumb/d/d6/Help-4x-Menus-Item-Articles-Create-Article-screen-en.png/1600px-Help-4x-Menus-Item-Articles-Create-Article-screen-en.png 2x"
 data-file-width="2880" data-file-height="1265" width="800" height="351"
-alt="Help-4x-Menus-Item-Articles-Create-Article-screen-en.png" />
+alt="Menu Item Articles Create Article screen" />
 
 ## Form Fields
 
 - **Title**. The title that will display for this menu item.
 - **Alias**. The internal name of the menu item. Normally, you can leave
   this blank and Joomla will fill in a default value Title in lower case
-  and with dashes instead of spaces. [Learn
-  more.](https://docs.joomla.org/Alias/en "Alias/en")
+  and with dashes instead of spaces.
 
 ### Details
 
-**Left Panel**
+#### Left Panel
 
 - **Menu Item Type**. The Menu Item Type selected when this menu item
   was created. This can be one of the core menu item types or a menu
@@ -54,7 +53,7 @@ alt="Help-4x-Menus-Item-Articles-Create-Article-screen-en.png" />
 - **Target Window**. Select from the dropdown list.
 - **Template Style**. Select from the dropdown list.
 
-**Right Panel**
+#### Right Panel
 
 - **Menu**. Shows which menu the link will appear in.
 
@@ -65,7 +64,7 @@ src="https://docs.joomla.org/images/thumb/2/23/Help-4x-Menus-Item-Articles-Creat
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/23/Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-en.png/900px-Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/2/23/Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-en.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-en.png 2x"
 data-file-width="2878" data-file-height="1240" width="600" height="259"
-alt="Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-en.png" />
+alt="Menu Item Articles Create Article options tab" />
 
 - **Specific Category**.
   - Yes: Articles will be assigned to the specified category. The user
@@ -81,25 +80,20 @@ alt="Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-en.png" />
 
 ### Common Options
 
-See [Menus: New
-Item](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en "Help4.x:Menu Item: New Item/en")
+See Menus: New Item
 for help on fields common to all Menu Item types, including:
 
-- [Right
-  Panel](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en#rightpanel "Help4.x:Menu Item: New Item/en")
-- [Link
-  Type](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en#linktype "Help4.x:Menu Item: New Item/en")
-- [Page
-  Display](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en#pagedisplay "Help4.x:Menu Item: New Item/en")
-- [Metadata](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en#metadata "Help4.x:Menu Item: New Item/en")
-- [Associations](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en#associations "Help4.x:Menu Item: New Item/en")
-- [Module
-  Assignment](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en#moduleassignment "Help4.x:Menu Item: New Item/en")
+- Right Panel
+- Link Type
+- Page Display
+- Metadata
+- Associations
+- Module Assignment
 
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Save**. Saves the menu item and stays in the current screen.
 - **Save & Close**. Saves the menu item and closes the current screen.
@@ -112,65 +106,47 @@ At the top of the page you will see the toolbar shown in the
 ## Frontend Screenshots
 
 Screenshots shows Joomla core Frontend Template **Cassiopeia**, all
-[Editing Layout
-options](https://docs.joomla.org/Help4.x:Articles:_Options/en#editinglayout "Help4.x:Articles: Options/en")
-set to 'Hide'.
+Editing Layout options set to 'Hide'.
 
-**Content**
+### Content
 
 <img
 src="https://docs.joomla.org/images/thumb/0/0a/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-en.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-en.png"
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/0/0a/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-en.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-en.png 1.5x, https://docs.joomla.org/images/thumb/0/0a/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-en.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-en.png 2x"
 data-file-width="1728" data-file-height="1253" width="600" height="435"
-alt="Help-4x-Menus-Item-Articles-Create-Article-frontend-content-en.png" />
+alt=" Item Articles Create Article frontend content" />
 
-**Fields**
+### Fields
 
 <img
 src="https://docs.joomla.org/images/thumb/7/7f/Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-en.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-en.png"
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/7f/Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-en.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-en.png 1.5x, https://docs.joomla.org/images/thumb/7/7f/Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-en.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-en.png 2x"
 data-file-width="1729" data-file-height="564" width="600" height="196"
-alt="Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-en.png" />
+alt=" Item Articles Create Article frontend fields" />
 
-**Publishing**
+### Publishing
 
 <img
 src="https://docs.joomla.org/images/thumb/8/8f/Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-en.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-en.png"
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/8f/Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-en.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-en.png 1.5x, https://docs.joomla.org/images/thumb/8/8f/Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-en.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-en.png 2x"
 data-file-width="1728" data-file-height="1114" width="600" height="387"
-alt="Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-en.png" />
+alt=" Item Articles Create Article frontend publishing" />
 
-**Language**
+### Language
 
 <img
 src="https://docs.joomla.org/images/thumb/c/cb/Help-4x-Menus-Item-Articles-Create-Article-frontend-language-en.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-language-en.png"
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/cb/Help-4x-Menus-Item-Articles-Create-Article-frontend-language-en.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-language-en.png 1.5x, https://docs.joomla.org/images/thumb/c/cb/Help-4x-Menus-Item-Articles-Create-Article-frontend-language-en.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-language-en.png 2x"
 data-file-width="1728" data-file-height="329" width="600" height="114"
-alt="Help-4x-Menus-Item-Articles-Create-Article-frontend-language-en.png" />
+alt=" Item Articles Create Article frontend language" />
 
 ## Quick Tips
 
 An unauthorised user will normally get an error if they click on a
 Create Article menu item. For this reason, it is normal practice to give
-the menu item a [viewing Access
-Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Help4.x:Users: Viewing Access Levels/en")
+the menu item a viewing Access Level
 that can only be seen by users authorised to add articles.
-
-## Related Information
-
-- [Articles: Options](https://docs.joomla.org/Help4.x:Articles:_Options) Used to set global defaults for menu items that display articles. These default values will be used when 'Use Global' is selected for an option in an Articles menu item.
-- [Articles](https://docs.joomla.org/Help4.x:Articles) The Article list is used to find, mark featured, add and edit articles.
-- [Articles: Edit](https://docs.joomla.org/Help4.x:Articles:_Edit) This is where you can add and edit Articles. You can also select the Category for an Article and indicate whether or not it is Published and if it is selected to appear on the Front Page.
-- [Articles: Featured](https://docs.joomla.org/Help4.x:Articles:_Featured) Used to control which 'Featured Articles' are displayed on the Front Page and in what order they are displayed.
-- [Articles: Categories](https://docs.joomla.org/Help4.x:Articles:_Categories) The Articles Categories list is used to find, add, and edit articles categories.
-- [Menus: Archived Articles](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived) Shows a customised list of articles ordered by date or title. Archived articles are no longer published but are still stored on the site.
-- [Menus: Category Blog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog) Used to show articles belonging to a specific Category in a blog layout. Controls the Leading Articles, Intro Articles and additional links to more Articles.
-- [Menus: Category List](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List) Used to show articles belonging to a specific Category in a list layout.
-- <span class="mw-selflink selflink">Menus: Create Article</span> Allows users to submit an article. Normally this is available only to users who have logged in to the Frontend of the site. Users must have permission to create articles.
-- [Menus: Featured Articles](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles) Used to show all Articles that have been tagged as Featured. Articles are shown in a Blog Layout.
-- [Menus: List All Categories in an Article Category Tree](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories) Used to show a hierarchical list of Categories. Depending on the selected options for this layout, you can click on a category Title to show the articles in that category.
-- [Menus: Single Article](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article) Used to show one article.

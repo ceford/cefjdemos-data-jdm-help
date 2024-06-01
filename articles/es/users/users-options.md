@@ -12,7 +12,7 @@ User Options set globally for all users include
 
 ## Cómo Acceder
 
-**Usuarios **→** Gestionar**
+**Usuarios → Gestionar**
 
 - Clic el botón **Opciones** en la Barra de Herramientas.
 
@@ -230,8 +230,7 @@ alt="Help-4x-Users-Options-integration-subscreen-es.png" />
 
 ### Permisos
 
-This section lets you set up the default [Access Control
-List](https://docs.joomla.org/Access_Control_List/es "Special:MyLanguage/Access Control List/es")
+This section lets you set up the default Access Control List
 permissions for all users.
 
 <img
@@ -259,8 +258,7 @@ To change the permissions for users, do the following.
     - **Editar valor de campo personalizado**. Users can edit any value
       of custom fields submitted in users.
 3.  Select the desired permission for the action you wish to change.
-    - **Heredado**. Inherited for users in this Group from the [Global
-      Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/es#permissions "Special:MyLanguage/Help4.x:Site Global Configuration/es")
+    - **Heredado**. Inherited for users in this Group from the Global Configuration
       permissions.
     - **Permitido**. Allowed for users in this Group.Note: If this
       action is Denied at one of the higher levels, the Allowed
@@ -274,7 +272,7 @@ To change the permissions for users, do the following.
 ## Barra de herramientas
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Guardar**. Saves the users options and stays in the current screen.
 - **Guardar y cerrar**. Saves the users options and closes the current

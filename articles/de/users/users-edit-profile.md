@@ -9,20 +9,20 @@ anzulegen oder einen bestehenden Benutzer zu bearbeiten.
 
 Zum Bearbeiten eines bereits vorhandenen Benutzers:
 
-- Im Administrator-Menü **Benutzer **→** Verwalten** auswählen, dann ...
+- Im Administrator-Menü **Benutzer → Verwalten** auswählen, dann ...
   - nach dem gewünschten Benutzer suchen und den Link in der Spalte
     **Name** wählen.
 
 Um einen neuen Benutzer zu erstellen:
 
-- Im Administrator-Menü **Benutzer **→** Verwalten** auswählen, dann ...
+- Im Administrator-Menü **Benutzer → Verwalten** auswählen, dann ...
   - die Schaltfläche **+ Neu** in der Symbolleiste anklicken
-- oder im Administrator-Menü **Benutzer **→** Verwalten **→** auf das
+- oder im Administrator-Menü **Benutzer → Verwalten → auf das
   Plus-Zeichen** klicken
-- oder im Administrator-Menü **Benutzer **→** Dashboard-Symbol**
+- oder im Administrator-Menü **Benutzer → Dashboard-Symbol**
   auswählen, dann
   - das **Plus-Zeichen** im Benutzerbereich auswählen
-- oder im Administrator-Menü **Dashboard **→** Site-Panel **→** auf das
+- oder im Administrator-Menü **Dashboard → Site-Panel → auf das
   Plus-Zeichen** klicken.
 
 ## Bildschirmfoto

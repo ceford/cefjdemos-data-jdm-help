@@ -13,9 +13,9 @@ Tutorial](https://docs.joomla.org/J4.x:Workflow/en "J4.x:Workflow/en").
 ## How To Access
 
 - Enable Workflows in
-  **Content **→** Articles **→** Options **→** Integration Tab** from
+  **Content → Articles → Options → Integration Tab** from
   the Administrator menu. Then...
-  - Select **Content **→** Workflows** in the Administrator menu. Then
+  - Select **Content → Workflows** in the Administrator menu. Then
     ...
     - Select the numbered button in the **Transitions** columns.
 
@@ -25,7 +25,7 @@ Tutorial](https://docs.joomla.org/J4.x:Workflow/en "J4.x:Workflow/en").
 src="https://docs.joomla.org/images/c/cf/Help-4x-components-workflows-transitions-list-en.png"
 decoding="async" data-file-width="800" data-file-height="450"
 width="800" height="450"
-alt="Help-4x-components-workflows-transitions-list-en.png" />
+alt="workflows transitions list screen" />
 
 ## Column Headings
 
@@ -46,14 +46,14 @@ Click on the column heading to sort the list by that column's value.
   - Select the Ordering icon <img
     src="https://docs.joomla.org/images/e/ee/Help30-Ordering-colheader-icon.png"
     decoding="async" data-file-width="12" data-file-height="23" width="12"
-    height="23" alt="Help30-Ordering-colheader-icon.png" /> in the Table
+    height="23" alt="Ordering column header icon" /> in the Table
     heading to make it the active ordering item. The ordering icons in
     each row will change from light grey to dark grey and the pointer
     will change to a drag arrow on hover.
   - Select one of the Ordering icons <img
     src="https://docs.joomla.org/images/8/87/Help30-Ordering-colheader-grab-bar-icon.png"
     decoding="async" data-file-width="10" data-file-height="21" width="10"
-    height="21" alt="Help30-Ordering-colheader-grab-bar-icon.png" /> and
+    height="21" alt="Ordering drag icon" /> and
     drag it up or down to change the position of that row in the list.
     The items will display in the new order within the Position.
 - **Status**. The published status of the item.
@@ -74,7 +74,7 @@ shown below.
 <img
 src="https://docs.joomla.org/images/2/2a/Help-4x-colheader-filter-field-en.png"
 decoding="async" data-file-width="1478" data-file-height="76"
-width="1478" height="76" alt="Help-4x-colheader-filter-field-en.png" />
+width="1478" height="76" alt="search bar" />
 
 - **Search by Text.** Enter part of the search term and click the Search
   icon. The search may be of one or more fields. *Hover* to see a
@@ -94,7 +94,7 @@ width="1478" height="76" alt="Help-4x-colheader-filter-field-en.png" />
   displayed. If you select too many complex items they will be slow to
   deliver and display.
 
-**Filter Options**
+### Filter Options
 
 - **Filter by Status.**
 - **Filter by Current Stage.**
@@ -116,7 +116,7 @@ above. The functions are:
   star symbol
   (<img src="https://docs.joomla.org/images/7/7e/Icon-16-default.png"
   decoding="async" data-file-width="30" data-file-height="20" width="30"
-  height="20" alt="Icon-16-default.png" />) will show in the Default
+  height="20" alt="star icon" />) will show in the Default
   column, indicating that this is now the default item.
 - **Check-In**. Checks-in the selected items. Works with one or multiple
   items selected.

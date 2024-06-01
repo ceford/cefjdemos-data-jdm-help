@@ -27,7 +27,7 @@ folgt:
 
 ## Wie darauf zugreifen
 
-- Im Administrator-Menü **Menüs **→** Verwalten** auswählen.
+- Im Administrator-Menü **Menüs → Verwalten** auswählen.
 
 ## Bildschirmfoto
 

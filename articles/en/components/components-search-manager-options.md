@@ -13,7 +13,7 @@
 - Click the **Global Configuration** button in the [Control
   Panel](https://docs.joomla.org/Help4.x:Site_Control_Panel "Special:MyLanguage/Help4.x:Site Control Panel")
   and click the **Search** button on left side panel, or
-- Select **Components **→** Search **→** Options** from the drop-down
+- Select **Components → Search → Options** from the drop-down
   menus.
 
 ## Screenshot

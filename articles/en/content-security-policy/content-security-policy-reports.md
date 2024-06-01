@@ -7,7 +7,7 @@ collected CSP reports.
 
 ## How to Access
 
-- Select **System **→** Manage panel **→** Content Security Policy**
+- Select **System → Manage panel → Content Security Policy**
   from the Administrator menu.
 
 ## Screenshot
@@ -17,7 +17,7 @@ src="https://docs.joomla.org/images/thumb/6/61/Content-security-policy-reports-e
 decoding="async"
 srcset="https://docs.joomla.org/images/6/61/Content-security-policy-reports-en.png 1.5x"
 data-file-width="1200" data-file-height="990" width="800" height="660"
-alt="cetner" />
+alt="content security policy reports" />
 
 ## Toolbar
 
@@ -39,22 +39,6 @@ The functions are:
 ## Quick Tips
 
 - By default this view will be empty. You have to first enable the
-  collection mode form <a
-  href="https://docs.joomla.org/index.php?title=Help4.x:Content_Security_Policy:_Options/en&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Help4.x:Content Security Policy: Options/en (page does not exist)">the
-  options</a>.
+  collection mode form in the options.
 - To see trashed reports, set the Status filter to **All**.
 
-## Related Information
-
-- To configure the Content-Security-Policy: <a
-  href="https://docs.joomla.org/index.php?title=Help4.x:Content_Security_Policy:_Options/en&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Help4.x:Content Security Policy: Options/en (page does not exist)">Components
-  CSP Reports Options</a>
-- More details on HTTP Header Tools in 4.x: [Http Header
-  Management](https://docs.joomla.org/J4.x:Http_Header_Management/en "J4.x:Http Header Management/en")
-  - Please note that this Component requires the Plugin **System - HTTP
-    Headers** (plg_system_httpheaders) to be enabeld. When not enabled
-    there is a warning in this screen.

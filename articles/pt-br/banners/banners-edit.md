@@ -15,9 +15,9 @@ Para "**adicionar**" um novo banner ou "**editar**" um banner existente,
 navegue até o [Gerenciador para
 banners](https://docs.joomla.org/Help4.x:Banners/pt-br "Help4.x:Banners/pt-br"):
 
-- Selecione **Componentes **→** Banners **→** Novo** para criar um novo
+- Selecione **Componentes → Banners → Novo** para criar um novo
   banner.
-- Selecione **Components **→** Banners** e acione o nome do banner para
+- Selecione **Components → Banners** e acione o nome do banner para
   "**editar**" um banner existente.
 
 ## Captura da tela
@@ -69,7 +69,7 @@ title="File:Help-4x-Components-Banners-Banners-Edit-screen-pt-br.png">800px</a>
     - **Código personalizado**: Use {CLICKURL} e {NAME} para mesclar os
       valores "URL ao acionar" e "Nome", respectivamente, em seu código
       personalizado. Por exemplo:
-      [![`{NAME}`](insira%20o%20URL%20da%20imagem "{NAME}")](%7BCLICKURL%7D).  
+      [![`{NAME}`](insira%20o%20URL%20da%20imagem "{NAME}")](%7BCLICKURL%7D).
       Outra opção é inserir um código HTML personalizado. Por exemplo:
       [![](caminhodasuaimagem)](https://seudomínio.com)
 - **URL ao acionar**: O URL que será acionado quando o usuário acionar o

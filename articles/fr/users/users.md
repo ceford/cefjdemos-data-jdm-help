@@ -7,7 +7,7 @@ chaque membre.
 
 ## Comment y accéder ?
 
-**Panneau d'administration **→** Site **→** Utilisateurs**
+**Panneau d'administration → Site → Utilisateurs**
 
 To add a User:
 
@@ -98,7 +98,7 @@ En haut de la page, vous verrez la barre d'outils présentée dans la
 
 **Page Controls**. When the number of articles is more than one page,
 you will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -124,8 +124,7 @@ En haut de la page, vous verrez la barre d'outils présentée dans la
     unblocked using their checkboxes then click this button.
   - **Traiter**. Batch processes the selected users.
   - **Supprimer**. Deletes the selected users.
-- **Paramètres**. Opens [Users:
-  Options](https://docs.joomla.org/Help4.x:Users:_Options/fr "Special:MyLanguage/Help4.x:Users: Options/fr").
+- **Paramètres**. Opens Users: Options.
 - **Aide**. Ouvre l'écran d'aide.
 
 ## Processus de traitement par lots

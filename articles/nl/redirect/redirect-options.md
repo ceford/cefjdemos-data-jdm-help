@@ -7,7 +7,7 @@ van parameters die algemeen gebruikt worden voor verwijzingen.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Systeem **→** Verwijzingen in het Beheren venster** vanuit
+- Selecteer **Systeem → Verwijzingen in het Beheren venster** vanuit
   het beheermenu. Dan...
   - Klik op de **Opties** knop in de werkbalk.
 
@@ -19,7 +19,7 @@ decoding="async" data-file-width="927" data-file-height="62" width="927"
 height="62"
 alt="Help-j4x-Components-Redirect-Manager-Options-error-plugin-nl.png" />
 
-Ga naar **Systeem **→** Plugins** en schakel de Systeem verwijzingen
+Ga naar **Systeem → Plugins** en schakel de Systeem verwijzingen
 plugin in. Kom daarna hier terug.
 
 ## Schermafbeelding

@@ -11,8 +11,8 @@ weergave te bepalen.
 
 Om een nieuw 'Zoeken' menu-item aan te maken:
 
-- Selecteer **Menu's **→** \[naam van het menu\]** vanuit het beheermenu
-  (bijvoorbeeld, **Menu's **→** Hoofdmenu**). Dan...
+- Selecteer **Menu's → \[naam van het menu\]** vanuit het beheermenu
+  (bijvoorbeeld, **Menu's → Hoofdmenu**). Dan...
   - Selecteer de **Nieuw** knop in de werkbalk. Dan...
   - Klik op de Menu-itemtype selectie knop. <img
     src="https://docs.joomla.org/images/thumb/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png/87px-Help-4x-Menu-Item-Type-Select-Button-nl.png"
@@ -82,14 +82,14 @@ voordat zij zijn toegevoegd aan deze uitklaplijst.*
   - Selecteer het volgorde icoon <img
     src="https://docs.joomla.org/images/e/ee/Help30-Ordering-colheader-icon.png"
     decoding="async" data-file-width="12" data-file-height="23" width="12"
-    height="23" alt="Help30-Ordering-colheader-icon.png" /> in de
+    height="23" alt="Ordering column header icon" /> in de
     tabelkop om het het actieve volgorde item te maken. De volgorde
     iconen in iedere rij veranderen van licht naar donker grijs en de
     pijl verandert in een sleepsymbool als u eroverheen gaat.
   - Selecteer één van de volgorde iconen <img
     src="https://docs.joomla.org/images/8/87/Help30-Ordering-colheader-grab-bar-icon.png"
     decoding="async" data-file-width="10" data-file-height="21" width="10"
-    height="21" alt="Help30-Ordering-colheader-grab-bar-icon.png" /> en
+    height="21" alt="Ordering drag icon" /> en
     sleep het naar boven of beneden om de positie van die rij in de
     lijst te veranderen. De items worden in de nieuwe volgorde binnen de
     positie getoond.
@@ -280,19 +280,19 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 | Verwante helpschermen                                                                                                                                    | Beschrijving                                                                                                                                                                                                                                                                                                           |
 | [Slim zoeken: Zoekfilters](https://docs.joomla.org/Help4.x:Smart_Search:_Search_Filters/nl "Help4.x:Smart Search: Search Filters/nl")                    | Dit scherm toont de statische zoekfilters die momenteel beschikbaar zijn voor gebruik in slim zoeken.                                                                                                                                                                                                                  |
 | [Slim zoeken: Nieuw of bewerk filter](https://docs.joomla.org/Help4.x:Smart_Search:_New_or_Edit_Filter/nl "Help4.x:Smart Search: New or Edit Filter/nl") | Dit scherm geeft de mogelijkheid een nieuw zoekfilter te maken of een bestaande aan te passen.                                                                                                                                                                                                                         |
-| <a                                                                                                                                                       
- href="https://docs.joomla.org/index.php?title=Help4.x:Components_Search/nl&amp;action=edit&amp;redlink=1"                                                 
- class="new"                                                                                                                                               
- title="Help4.x:Components Search/nl (page does not exist)">Componenten -                                                                                  
+| <a
+ href="https://docs.joomla.org/index.php?title=Help4.x:Components_Search/nl&amp;action=edit&amp;redlink=1"
+ class="new"
+ title="Help4.x:Components Search/nl (page does not exist)">Componenten -
  Zoeken</a>                                                                                                                                                | Het zoekstatistieken scherm geeft de mogelijkheid te zien hoeveel zoekopdrachten er zijn uitgevoerd voor elke sleutelwoord-combinatie en hoeveel resultaten werden teruggegeven voor elk zoekopdracht.                                                                                                                 |
-| <a                                                                                                                                                       
- href="https://docs.joomla.org/index.php?title=Help4.x:Components_Search_Manager_Options/nl&amp;action=edit&amp;redlink=1"                                 
- class="new"                                                                                                                                               
- title="Help4.x:Components Search Manager Options/nl (page does not exist)">Componenten                                                                    
+| <a
+ href="https://docs.joomla.org/index.php?title=Help4.x:Components_Search_Manager_Options/nl&amp;action=edit&amp;redlink=1"
+ class="new"
+ title="Help4.x:Components Search Manager Options/nl (page does not exist)">Componenten
  - Zoeken - Opties</a>                                                                                                                                     | Details van componentopties en rechten instellen                                                                                                                                                                                                                                                                       |
 | [Site-modules: Slimzoeken](https://docs.joomla.org/Help4.x:Site_Modules:_Smart_Search/nl "Help4.x:Site Modules: Smart Search/nl")                        | Slimzoeken is en uitgebreide zoekopdracht op de site.                                                                                                                                                                                                                                                                  |
-| <a                                                                                                                                                       
- href="https://docs.joomla.org/index.php?title=Help4.x:Menus_Menu_Item_Search_Results/nl&amp;action=edit&amp;redlink=1"                                    
- class="new"                                                                                                                                               
- title="Help4.x:Menus Menu Item Search Results/nl (page does not exist)">Menu's                                                                            
+| <a
+ href="https://docs.joomla.org/index.php?title=Help4.x:Menus_Menu_Item_Search_Results/nl&amp;action=edit&amp;redlink=1"
+ class="new"
+ title="Help4.x:Menus Menu Item Search Results/nl (page does not exist)">Menu's
  - Menu-item - Zoekresultaten</a>                                                                                                                          | Wordt gebruikt om een 'Zoekformulier of zoekresultaten' pagina te maken voor gebruikers om de inhoud van de site te doorzoeken. Daarnaast gebruikt om het uiterlijk van het zoekresultaat te bepalen of om de resultaten van een zoekopdracht 'samen te voegen' via een menu link voor vooraf ingestelde zoekterm(en). |

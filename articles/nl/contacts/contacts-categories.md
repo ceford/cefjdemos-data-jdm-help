@@ -9,7 +9,7 @@ nieuwsfeeds enzovoort.
 
 ## Hoe krijg ik toegang
 
-- Selecteer **Componenten **→** Contactpersonen **→** Categorieën**
+- Selecteer **Componenten → Contactpersonen → Categorieën**
   vanuit het beheermenu.
 
 ## Schermafbeelding
@@ -42,14 +42,14 @@ Klik op de kolomkop om de lijst volgens deze kolom te sorteren.
   - Selecteer het volgorde icoon <img
     src="https://docs.joomla.org/images/e/ee/Help30-Ordering-colheader-icon.png"
     decoding="async" data-file-width="12" data-file-height="23" width="12"
-    height="23" alt="Help30-Ordering-colheader-icon.png" /> in de
+    height="23" alt="Ordering column header icon" /> in de
     tabelkop om het het actieve volgorde item te maken. De volgorde
     iconen in iedere rij veranderen van licht naar donker grijs en de
     pijl verandert in een sleepsymbool als u eroverheen gaat.
   - Selecteer één van de volgorde iconen <img
     src="https://docs.joomla.org/images/8/87/Help30-Ordering-colheader-grab-bar-icon.png"
     decoding="async" data-file-width="10" data-file-height="21" width="10"
-    height="21" alt="Help30-Ordering-colheader-grab-bar-icon.png" /> en
+    height="21" alt="Ordering drag icon" /> en
     sleep het naar boven of beneden om de positie van die rij in de
     lijst te veranderen. De items worden in de nieuwe volgorde binnen de
     positie getoond.
@@ -61,13 +61,13 @@ Klik op de kolomkop om de lijst volgens deze kolom te sorteren.
 - **Gepubliceerd:**
   <img src="https://docs.joomla.org/images/1/10/Help-4x-icon-tick.png"
   decoding="async" data-file-width="27" data-file-height="20" width="27"
-  height="20" alt="Help-4x-icon-tick.png" /> Het aantal gepubliceerde
+  height="20" alt="tick icon" /> Het aantal gepubliceerde
   items. Klik op de genummerde knop om een lijst met alleen deze items
   te tonen.
 - **Gedepubliceerd:**
   <img src="https://docs.joomla.org/images/c/c9/Help-4x-icon-cross.png"
   decoding="async" data-file-width="21" data-file-height="20" width="21"
-  height="20" alt="Help-4x-icon-cross.png" /> Het aantal gedepubliceerde
+  height="20" alt="cross icon" /> Het aantal gedepubliceerde
   items. Klik op de genummerde knop om een lijst met alleen deze items
   te tonen.
 - **Gearchiveerd:** Of en hoeveel items gearchiveerd zijn. U kunt de
@@ -75,7 +75,7 @@ Klik op de kolomkop om de lijst volgens deze kolom te sorteren.
 - **Naar prullenbak:**
   <img src="https://docs.joomla.org/images/5/59/Help-4x-icon-bin.png"
   decoding="async" data-file-width="18" data-file-height="20" width="18"
-  height="20" alt="Help-4x-icon-bin.png" /> Het aantal items in de
+  height="20" alt="bin icon" /> Het aantal items in de
   prullenbak. Klik op de genummerde knop om een lijst met alleen deze
   items te tonen.
 - **Toegang**. Het
@@ -92,7 +92,7 @@ Klik op de kolomkop om de lijst volgens deze kolom te sorteren.
 ## Lijst filters
 
 **Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande [Screenshot](#screenshot).
+bovenstaande Screenshot.
 
 - **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
   zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat
@@ -115,7 +115,7 @@ bovenstaande [Screenshot](#screenshot).
   Gepubliceerd / Gearchiveerd / Alles.
 - **Selecteer toegang**. Selecteer uit de lijst met beschikbare weergave
   toegangsniveaus.
-- 
+-
 
 **Selecteer taal**. Selecteer uit de lijst met beschikbare talen.
 
@@ -125,7 +125,7 @@ bovenstaande [Screenshot](#screenshot).
 
 **Paginabesturing** Als het aantal items meer is dan een pagina, zie je
 een paginabesturing bij de onderkant van de pagina zoals in bovenstaande
-[Screenshot](#screenshot). Het huidige paginanummer heeft een donkere
+Screenshot. Het huidige paginanummer heeft een donkere
 achtergrond.
 
 - **Begin**. Klik om naar de eerste pagina te gaan.

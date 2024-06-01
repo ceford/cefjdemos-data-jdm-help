@@ -4,13 +4,12 @@
 
 The Version History screen allows you to manage prior versions of the
 item being edited. Version history is available for
-[Articles](https://docs.joomla.org/Help4.x:Articles:_Edit/en "Help4.x:Articles: Edit/en"),
+Articles,
 [Banners](https://docs.joomla.org/Help4.x:Banners:_Edit/en "Help4.x:Banners: Edit/en")
 and
 [Clients](https://docs.joomla.org/Help4.x:Banners:_New_or_Edit_Client/en "Help4.x:Banners: New or Edit Client/en"),
 [Contacts](https://docs.joomla.org/Help4.x:Contacts:_Edit/en "Help4.x:Contacts: Edit/en"),
-[News
-Feeds](https://docs.joomla.org/Help4.x:News_Feeds:_Edit/en "Help4.x:News Feeds: Edit/en"),
+News Feeds,
 [User
 Notes](https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit/en "Help4.x:User Notes: New or Edit/en"),
 and all Categories.
@@ -22,8 +21,7 @@ more versions forever. If so marked, these versions will not be deleted
 automatically, even if you exceed the maximum number of versions you
 have entered in the options.
 
-Note: If you use versioning, [custom
-fields](https://docs.joomla.org/J3.x:Adding_custom_fields/en "J3.x:Adding custom fields/en")
+Note: If you use versioning, custom fields
 are not stored in different versions.
 
 ## How to Access
@@ -70,7 +68,7 @@ characters typed in.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Restore**. The current version of the item is marked with a star to
 the right of the Date. If you wish to restore one of the other saved
@@ -88,7 +86,7 @@ of the item, similar to the screenshot below.
   decoding="async"
   srcset="https://docs.joomla.org/images/thumb/c/cc/Help-4x-Version-History-Help-preview-en.png/900px-Help-4x-Version-History-Help-preview-en.png 1.5x, https://docs.joomla.org/images/thumb/c/cc/Help-4x-Version-History-Help-preview-en.png/1200px-Help-4x-Version-History-Help-preview-en.png 2x"
   data-file-width="1602" data-file-height="1204" width="600" height="451"
-  alt="Help-4x-Version-History-Help-preview-en.png" /> 
+  alt="Help-4x-Version-History-Help-preview-en.png" />
 
 When you are done viewing the version, close the browser window.
 - **Compare**. To compare two versions to see what was changed, click the
@@ -100,8 +98,8 @@ new browser window will open, as shown in the screenshot below.
   decoding="async"
   srcset="https://docs.joomla.org/images/thumb/d/d9/Help-4x-Version-History-Help-compare-en.png/900px-Help-4x-Version-History-Help-compare-en.png 1.5x, https://docs.joomla.org/images/thumb/d/d9/Help-4x-Version-History-Help-compare-en.png/1200px-Help-4x-Version-History-Help-compare-en.png 2x"
   data-file-width="2002" data-file-height="1204" width="600" height="361"
-  alt="Help-4x-Version-History-Help-compare-en.png" /> 
-  
+  alt="Help-4x-Version-History-Help-compare-en.png" />
+
 The first column is the field name, the second is the older version, the
 third is the newer version, and the last column highlights the
 differences between the two versions.
@@ -115,8 +113,3 @@ Forever property for a version, it will never be automatically deleted.
 versions. Check the check box for the versions you wish to delete and
 the click on the Delete button. Note that this does *not* delete the
 item being edited. It only deletes the version history for the item.
-
-## Related Information
-
-To set the options for Version History, click on the Options button for
-the desired component.

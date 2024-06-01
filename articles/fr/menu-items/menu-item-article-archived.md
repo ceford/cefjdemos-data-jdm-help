@@ -6,14 +6,13 @@ The Archived Articles Menu Item Type shows a customised list of articles
 ordered by date or title.
 
 Archived articles are no longer published but are still stored on the
-site. Articles are Archived using the [Articles list
-screen](https://docs.joomla.org/Help4.x:Articles/en "Help4.x:Articles/en").
+site. Articles are Archived using the Articles list screen.
 Articles assigned to the 'Uncategorised' Category will not show on the
 Archived Article Menu Item.
 
 ## Comment y accéder
 
-**Menus **→** \[name of the menu\]**
+Select **Menus → \[name of the menu\]** from the Administrator menu.
 
 Pour ajouter un nouvel élément de menu ː
 
@@ -45,7 +44,7 @@ alt="Help-4x-Menus-Item-Articles-Article-Archived-screen-fr.png" />
 
 ### Détails
 
-**Left Panel**
+#### Left Panel
 
 - **Type de lien de menu**. Le type de lien de menu sélectionné lors de
   la création de ce lien de menu. Il peut s'agir d'un des types de liens
@@ -58,15 +57,14 @@ alt="Help-4x-Menus-Item-Articles-Article-Archived-screen-fr.png" />
 - **Fenêtre cible**. Sélectionnez dans la liste déroulante.
 - **Style du template**. Sélectionnez dans la liste déroulante.
 
-**Right Panel**
+#### Right Panel
 
 - **Menu**. Affiche dans quel menu le lien apparaîtra.
 
 ### Archiver
 
 Options include "Use Global". If this is selected, the setting from the
-[Articles:
-Options](https://docs.joomla.org/Help4.x:Articles:_Options/en "Help4.x:Articles: Options/en")
+Articles: Options
 will be used.
 
 <img
@@ -94,7 +92,7 @@ alt="Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-fr.png" />
   - Moins populaires: Les articles sont affichés selon le nombre de
     clics, de celui ayant le moins de clics à celui en ayant le plus.
   - Ordre: Articles are ordered according to the Order column entered in
-    [Articles](https://docs.joomla.org/Help4.x:Articles/en#ordering "Help4.x:Articles/en").
+    Articles.
 - **Classement par date**. The date used when articles are sorted by
   date.
   - Créé: Utilisez la date de création de l'article.
@@ -127,8 +125,7 @@ alt="Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-fr.png" />
   - Masquer: Only the part of the article after the Read More break will
     show.
 - **Position des informations**.
-  - Utiliser les paramètres des articles: Use the value from [Articles:
-    Edit](https://docs.joomla.org/Help4.x:Articles:_Edit/en "Help4.x:Articles: Edit/en").This
+  - Utiliser les paramètres des articles: Use the value from Articles: Edit.This
     setting allows you to have different options for different articles
     in the List layout.
   - Au-dessus: Puts the article information block above the text.
@@ -143,14 +140,12 @@ alt="Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-fr.png" />
 - **Catégorie**. Show the Article's Category Title.
 - **Lien sur les titres**. Show the title as a link to that
   Category.Note: You can set this to be either a blog or list layout
-  with the [Choose a
-  Layout](https://docs.joomla.org/Help4.x:Articles:_Options/en#choosealayout "Help4.x:Articles: Options/en")
+  with the Choose a Layout
   option in the Category Tab.
 - **Catégorie parente**. Show the Article's Parent Category Title.
 - **Lien de catégorie parente**. Show the title as a link to that
   Category.Note: You can set this to be either a blog or list layout
-  with the [Choose a
-  Layout](https://docs.joomla.org/Help4.x:Articles:_Options/en#choosealayout "Help4.x:Articles: Options/en")
+  with the Choose a Layout
   option in the Category Tab.
 - **Lien sur les titres**. Show the title as a link to the article.
 
@@ -159,9 +154,8 @@ alt="Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-fr.png" />
 - **Auteur**. Show the author of the Article.
 - **Lien vers sa page de contact**. Activer le lien sur le nom de
   l'auteur vers sa page de contact.Note: The author must be set up as a
-  [Contact](https://docs.joomla.org/Help4.x:Contacts:_Edit/en "Help4.x:Contacts: Edit/en").
-  Also, a link will not show if there is an [Author
-  Alias](https://docs.joomla.org/Help4.x:Articles:_Edit/en#createdbyalias "Help4.x:Articles: Edit/en")
+  Contact.
+  Also, a link will not show if there is an Author Alias
   value for the article.
 
 **Date**
@@ -179,8 +173,7 @@ alt="Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-fr.png" />
 
 ### Paramètres communs
 
-See [Menus: New
-Item](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en "Help4.x:Menu Item: New Item/en")
+See Menus: New Item
 for help on fields common to all Menu Item types, including:
 
 - [Panneau de
@@ -190,7 +183,7 @@ for help on fields common to all Menu Item types, including:
 - [Affichage de la
   page](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/fr#pagedisplay "Help4.x:Menu Item: New Item/fr")
 - [Métadonnées](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/fr#metadata "Help4.x:Menu Item: New Item/fr")
-- [Associations](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/fr#associations "Help4.x:Menu Item: New Item/fr")
+- Associations
 - [Assignation de
   modules](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/fr#moduleassignment "Help4.x:Menu Item: New Item/fr")
 
@@ -229,7 +222,7 @@ En haut de la page, vous verrez la barre d'outils présentée dans la
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Ecrans d'aide en relation                                                                                                                                             | Description                                                                                                                                                                                 |
 | [Articles : Paramètres](https://docs.joomla.org/Help4.x:Articles:_Options/fr "Help4.x:Articles: Options/fr")                                                          | Used to set global defaults for menu items that display articles. These default values will be used when 'Use Global' is selected for an option in an Articles menu item.                   |
-| [Articles](https://docs.joomla.org/Help4.x:Articles/fr "Help4.x:Articles/fr")                                                                                         | The Article list is used to find, mark featured, add and edit articles.                                                                                                                     |
+| Articles                                                                                         | The Article list is used to find, mark featured, add and edit articles.                                                                                                                     |
 | [Articles : Edition](https://docs.joomla.org/Help4.x:Articles:_Edit/fr "Help4.x:Articles: Edit/fr")                                                                   | This is where you can add and edit Articles. You can also select the Category for an Article and indicate whether or not it is Published and if it is selected to appear on the Front Page. |
 | [Articles : Articles épinglés](https://docs.joomla.org/Help4.x:Articles:_Featured/fr "Help4.x:Articles: Featured/fr")                                                 | Used to control which 'Featured Articles' are displayed on the Front Page and in what order they are displayed.                                                                             |
 | [Articles : catégories](https://docs.joomla.org/Help4.x:Articles:_Categories/fr "Help4.x:Articles: Categories/fr")                                                    | The Articles Categories list is used to find, add, and edit articles categories.                                                                                                            |

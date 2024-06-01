@@ -15,7 +15,7 @@ gebruik van
 
 ## Hoe toegang te krijgen
 
-**Gebruikers **→** Beheren**
+**Gebruikers → Beheren**
 
 - Klik de **Opties** werkbalk knop.
 
@@ -223,8 +223,7 @@ alt="Help-4x-Users-Options-integration-subscreen-nl.png" />
 
 ### Rechten
 
-This section lets you set up the default [Access Control
-List](https://docs.joomla.org/Access_Control_List/nl "Special:MyLanguage/Access Control List/nl")
+This section lets you set up the default Access Control List
 permissions for all users.
 
 <img

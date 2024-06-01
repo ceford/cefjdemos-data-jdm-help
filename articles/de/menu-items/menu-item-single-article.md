@@ -7,7 +7,7 @@ Website an.
 
 ## Wie darauf zugreifen
 
-**Menüs **→** \[Name des Menüs\]**
+**Menüs → \[Name des Menüs\]**
 
 Einen Menüeintrag hinzufügen:
 

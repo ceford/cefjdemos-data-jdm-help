@@ -12,7 +12,7 @@ como artigos, contatos e feeds de notícias.
 
 Navegue até o [gerenciador das categorias dos
 banners](https://docs.joomla.org/Help4.x:Banners:_Categories/pt-br "Help4.x:Banners: Categories/pt-br"),
-**Componentes **→** Banners **→** Categorias**
+**Componentes → Banners → Categorias**
 
 - **Nova**: Clique no ícone **Nova** na barra das ferramentas.
 - **Editar**: Para editar uma categoria para banners existente, acione o

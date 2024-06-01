@@ -7,10 +7,10 @@ package de mise à jour du dépôt de code de Joomla !
 
 ## Comment y accéder ?
 
-- Sélectionnez **Tableau de bord de la page d'accueil **→** panneau de
-  vérification des mises à jour **→** Joomla ... icon** dans le menu
+- Sélectionnez **Tableau de bord de la page d'accueil → panneau de
+  vérification des mises à jour → Joomla ... icon** dans le menu
   Administrateur. Ou bien...
-- Sélectionnez **Système **→** Tableau de bord **→** Joomla** dans le
+- Sélectionnez **Système → Tableau de bord → Joomla** dans le
   menu Administrateur..
 
 ## Capture d'écran

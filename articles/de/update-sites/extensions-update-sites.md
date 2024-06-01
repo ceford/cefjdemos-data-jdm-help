@@ -8,7 +8,7 @@ aktualisiert werden können.
 ## Wie darauf zugreifen
 
 - Aus dem Administrator-Menü
-  **System **→** Update-Panel **→** Update-Sites** auswählen.
+  **System → Update-Panel → Update-Sites** auswählen.
 
 ## Bildschirmfoto
 

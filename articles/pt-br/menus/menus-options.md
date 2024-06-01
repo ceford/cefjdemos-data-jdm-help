@@ -7,7 +7,7 @@ globalmente em todos os menus, como título, classe CSS e permissões.
 
 ## Como acessar
 
-- Selecione **Menus **→** Gerenciar** no menu administrativo. Então...
+- Selecione **Menus → Gerenciar** no menu administrativo. Então...
   - Selecione o botão **Opções** na barra das ferramentas.
 
 ## Captura da tela

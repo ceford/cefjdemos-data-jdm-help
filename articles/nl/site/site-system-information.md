@@ -22,7 +22,7 @@ problemen onderzoekt met uw instellingen.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Systeem **→** Gegevens venster **→** Systeeminformatie**
+- Selecteer **Systeem → Gegevens venster → Systeeminformatie**
   vanuit het Beheer menu.
 
 ## Schermafbeelding

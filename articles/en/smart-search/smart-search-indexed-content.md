@@ -20,7 +20,7 @@ in Smart Search. If the list is empty then
 
 ## How to access
 
-- Select **Components **→** Smart Search **→** Index** from the
+- Select **Components → Smart Search → Index** from the
   Administrator menu.
 
 ## Screenshot
@@ -29,7 +29,7 @@ in Smart Search. If the list is empty then
 src="https://docs.joomla.org/images/1/1c/Help-4x-Components-Finder-Manage-Indexed-Content-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="401"
 width="800" height="401"
-alt="Help-4x-Components-Finder-Manage-Indexed-Content-screen-en.png" />
+alt="Smart search Indexed Content screen" />
 
 ## Create an Index
 
@@ -47,12 +47,6 @@ time (tens of minutes).
 In the table containing the indexed content for your Joomla! site you
 will see different columns. Here you can read what they mean and what is
 displayed in each column.
-
-<img
-src="https://docs.joomla.org/images/0/09/Help31-Components-Smart-Search-Manager-columns-en.png"
-decoding="async" data-file-width="749" data-file-height="32" width="749"
-height="32"
-alt="Help31-Components-Smart-Search-Manager-columns-en.png" />
 
 - **Checkbox**. Check this box to select one or more items. To select
   all items, check the box in the column heading. After one or more
@@ -79,8 +73,10 @@ alt="Help31-Components-Smart-Search-Manager-columns-en.png" />
 
 ## List Filters
 
-**Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+### Search bar
+
+Near the top of the page you will see the search bar
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -97,10 +93,9 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
-**Filter Options**
+### Filter Options
 
 - **Filter by published status**. Choose whether to show only published
   or unpublished content items by selecting the appropriate item from
@@ -114,7 +109,7 @@ shown in the [Screenshot](#screenshot) above.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Index**. Runs the Smart Search indexer. A small popup window will
   appear with a progress bar which advances as the indexing process
@@ -126,8 +121,7 @@ At the top of the page you will see the toolbar shown in the
   batch importing new content where the importer does not automatically
   trigger Smart Search to index each new content item. NOTE: The Smart
   Search indexer can also be run from the command-line interface (CLI)
-  if required. See [Setting up automatic Smart Search
-  indexing](https://docs.joomla.org/Setting_up_automatic_Smart_Search_indexing "Setting up automatic Smart Search indexing").
+  if required. See Setting up automatic Smart Search indexing.
 - **Publish**. Makes the selected items available to visitors to your
   website.
 - **Unpublish.** Makes the selected items unavailable to visitors to
@@ -144,8 +138,7 @@ At the top of the page you will see the toolbar shown in the
   settings after a Purge-Index cycle.
 - **Help**. Opens this help screen.
 - **Options.** Opens the Options window where settings such as default
-  parameters can be edited. See [Smart Search:
-  Options](https://docs.joomla.org/Help4.x:Smart_Search:_Options/en "Help4.x:Smart Search: Options/en")
+  parameters can be edited. See Smart Search: Options
   for further details.
 
 ## Quick Tips
@@ -158,8 +151,3 @@ At the top of the page you will see the toolbar shown in the
 - If you run the indexer and get an "undefined null" error, then check
   the permissions on the Joomla `/logs` directory. The web server needs
   to have write permission to that directory for the indexer to work.
-
-## Related information
-
-- [Setting up automatic Smart Search
-  indexing](https://docs.joomla.org/Setting_up_automatic_Smart_Search_indexing "Setting up automatic Smart Search indexing")

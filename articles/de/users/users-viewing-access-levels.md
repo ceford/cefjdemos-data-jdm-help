@@ -6,7 +6,7 @@ Dieser Bildschirm zeigt eine Liste von Benutzer-Zugriffsebenen an.
 
 ## Wie darauf zugreifen
 
-Aus dem Administrator-Menü **Benutzer **→** Zugriffsebenen** wählen.
+Aus dem Administrator-Menü **Benutzer → Zugriffsebenen** wählen.
 
 ## Bildschirmfoto
 

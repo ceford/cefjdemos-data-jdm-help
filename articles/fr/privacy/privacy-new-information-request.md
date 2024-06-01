@@ -7,7 +7,7 @@ d'information.
 
 ## Comment y accéder
 
-- Select **Users **→** Privacy **→** Requests** from the Administrator
+- Select **Users → Privacy → Requests** from the Administrator
   menu. Then...
   - Select the **New** button in the Toolbar.
 
@@ -30,14 +30,9 @@ alt="Help-4x-component-privacy-information-request-en.png" />
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Save**. Saves the item and stays in the current screen.
 - **Cancel**. Closes the current screen and returns to the previous
   screen without saving any modifications you may have made.
 - **Help**. Opens this help screen.
-
-## Related Information
-
-- [The Privacy Tool
-  Suite](https://docs.joomla.org/J3.x:Privacy/en "J3.x:Privacy/en")

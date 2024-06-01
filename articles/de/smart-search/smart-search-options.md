@@ -7,7 +7,7 @@ Suchindex ein.
 
 ## Wie darauf zugreifen
 
-- Select **Components **→** Smart Search **→** Index** from the
+- Select **Components → Smart Search → Index** from the
   Administrator menu. Then...
   - Select the Options button from the Toolbar.
 
@@ -121,7 +121,7 @@ decoding="async" data-file-width="600" data-file-height="670"
 width="600" height="670"
 alt="Help4x-Components-Finder-Options-Permissions-en.png" />
 
-  
+
 To change the permissions for this extension, do the following.
 
 - Select the **Group** by clicking its title located on the left.
@@ -153,7 +153,7 @@ To change the permissions for this extension, do the following.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Save**. Saves the item and stays in the current screen.
 - **Save & Close**. Saves the item and closes the current screen.

@@ -10,7 +10,7 @@ installed site languages.
 
 ## Comment y accéder ?
 
-- **Composants **→** Associations multilingues**
+- **Composants → Associations multilingues**
   1.  select **Item Type**.
   2.  select **Language**.
 
@@ -33,16 +33,14 @@ alt="Help-4x-Components-Associations-fr.png" />
 - **Not Associated**. Shows for which languages this menu item is not
   associated.
 - **Menu**. Shows which menu the menu item belongs to.
-- **Access**. The viewing [Access
-  Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Help4.x:Users: Viewing Access Levels/en")
-  for this menu item.
+- **Access**. The viewing Access level  for this menu item.
 - **ID**. A unique identification number for this menu item, you cannot
   change this number.
 
 ## Liste des filtres
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -59,13 +57,12 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of éléments de menu in a list.
   Select from the dropdown list to change the number displayed.The
-  default for a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  default for a site is '20' but this may be changed in the Global Configuration.
 
 ### Filter Options
 
 Near the top of the page you will see the filter bar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Select Status**. Select from Trashed / Unpublished / Published /
   Archived / All.
@@ -79,7 +76,7 @@ Near the top of the page you will see the filter bar shown in the
 
 **Page Controls**. When the number of éléments de menu is more than one
 page, you will see a page control bar near the bottom of the page shown
-in the [Screenshot](#screenshot) above. The current page number being
+in the Screenshot above. The current page number being
 viewed has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -103,8 +100,7 @@ alt="Help-4x-Components-Associations-toolbar-subscreen-fr.png" />
 - **Delete All Associations**. Lets you delete all associations. After a
   question to confirm, all associations will be deleted.
 - **Delete Orphans**. Lets you delete all orphans.
-- **Options**. Opens the help screen [Multilingual Associations:
-  Options](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Options/en "Help4.x:Multilingual Associations: Options/en").
+- **Options**. Opens the help screen for Multilingual Associations: Options.
 - **Aide**. Ouvre l'écran d'aide.
 
 ## Astuces
@@ -114,7 +110,7 @@ alt="Help-4x-Components-Associations-toolbar-subscreen-fr.png" />
   translate from English to Persian too. [Pour en savoir
   plus.](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Edit/fr "Help4.x:Multilingual Associations: Edit/fr")
 - This screen use menu-items as example. You will see all Item Types
-  shown in the [Screenshot](#screenshot) above.
+  shown in the Screenshot above.
 
 ## Informations connexes
 

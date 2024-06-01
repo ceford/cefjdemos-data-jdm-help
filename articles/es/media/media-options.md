@@ -8,7 +8,7 @@ check, MIME type blacklisting, and more options.
 
 ## Cómo Acceder
 
-**Contenido **→** Multimedia**
+**Contenido → Multimedia**
 
 - Clic el botón **Opciones** en la Barra de Herramientas.
 
@@ -65,8 +65,7 @@ alt="Help-4x-Media-Options-screen-es.png" />
 
 ### Permisos
 
-This section lets you set up the default [Access Control
-List](https://docs.joomla.org/Access_Control_List/en "Access Control List/en")
+This section lets you set up the default Access Control List
 permissions for all media.
 
 <img
@@ -91,8 +90,7 @@ To change the permissions for media, do the following.
     - **Delete**. Users can delete media.
     - **Edit**. Users can edit media.
 3.  Select the desired permission for the action you wish to change.
-    - **Inherited**. Inherited for users in this Group from the [Global
-      Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#permissions "Help4.x:Site Global Configuration/en")
+    - **Inherited**. Inherited for users in this Group from the Global Configuration
       permissions.
     - **Permitido**. Permitido para los usuarios de este Grupo. Note: If
       this action is Denied at one of the higher levels, the Allowed
@@ -106,7 +104,7 @@ To change the permissions for media, do the following.
 ## Barra de herramientas
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Save**. Saves the Media options and stays in the current screen.
 - **Save & Close**. Saves the Media options and closes the current
@@ -126,6 +124,6 @@ At the top of the page you will see the toolbar shown in the
 ## Información relacionada
 
 - Related Help screen:
-  [Media](https://docs.joomla.org/Help4.x:Media/en "Help4.x:Media/en").
+  Media.
 - Tutorial: [Managing
   Media](https://docs.joomla.org/J4.x:Managing_Media/en "J4.x:Managing Media/en").

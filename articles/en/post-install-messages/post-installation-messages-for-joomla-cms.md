@@ -12,36 +12,27 @@ site Administrator.
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/6/6d/Help-4x-configuration-post-installation-messages-en.png"
-decoding="async" data-file-width="800" data-file-height="527"
-width="800" height="527"
-alt="Help-4x-configuration-post-installation-messages-en.png" />
-
-## Form Fields
-
-- **Showing messages for.** Joomla CMS is the only option at the moment.
+![post installation messages screen](../../../images/en/post-install-messages/post-installation-messages.png "")
 
 ## Messages
 
-There are a number of message panels, each with a ***Hide this
-message*** button to select when you no longer wish to see a message. A
-hidden message can be restored - see the Toolbar section below.
+There are a number of message panels, each with two buttons:
+- **Hide this message** button to select when you no longer wish to see a message.
+    A hidden message cannot be restored in Joomla. If necessary, it can be restored
+    in the database.
+- **Archive** When selected the panel content is hidden and the button replaced
+    with a green **Read Again** button.
+
+## Example messages
 
 - **Stats Collection in Joomla.** Information on how Statistics on your
   site are used.
 - **Welcome to Joomla!** Some resources you may find helpful.
-- **Two Factor Authentication is Available.** Information on enhanced
-  security.
-
-## Release News
-
-- **Release News.** A list of Stable and Beta releases.
 
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Hide All Messages.** Select this button to hide the messages in the
   left panel. The messages are replaced by a box that says ***You have

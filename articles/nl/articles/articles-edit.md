@@ -13,7 +13,7 @@ een bepaalde categorie instellen of Metadata voor specifieke artikelen.
 
 ## Hoe toegang te krijgen
 
-**Inhoud **→** Artikelen**
+**Inhoud → Artikelen**
 
 Om een artikel aan te maken:
 
@@ -111,7 +111,7 @@ leren.](https://docs.joomla.org/Help4.x:Editors/nl#cmscontent "Help4.x:Editors/n
 
 **Let op**: Dit kan verborgen worden door een gebruiker met
 administratie rechten in de [Opties voor
-artikelen](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl").  
+artikelen](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl").
 Deze sectie maakt het mogelijk om afbeeldingen en links in een standaard
 weergave aan artikelen toe te voegen.
 
@@ -192,7 +192,7 @@ alt="Help-4x-screenshot-article-edit-images-links-nl.png" />
 
 **Let op**: Dit kan verborgen worden door een gebruiker met
 administratie rechten in de [Opties voor
-artikelen](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl").  
+artikelen](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl").
 Dit is een set opties die u kunt gebruiken om te beheersen hoe dit
 artikel wordt getoond in de Frontend.
 
@@ -292,9 +292,9 @@ alt="Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-nl.png" />
 
 **Let op**: Dit kan verborgen worden door een gebruiker met
 administratie rechten in de [Opties voor
-artikelen](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl").  
+artikelen](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl").
 Deze sectie geeft u de mogelijkheid parameters en
-[metadata](https://docs.joomla.org/Using_The_Meta_Description/nl "Using The Meta Description/nl")
+Metadata
 op te geven voor dit artikel.
 
 <img
@@ -354,7 +354,7 @@ alt="Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-nl.png" /
 
 **Let op**: Dit kan verborgen worden door een gebruiker met
 administratie rechten in de [Opties voor
-artikelen](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl").  
+artikelen](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl").
 Tabblad wordt alleen getoond bij [Meertalige
 websites](https://docs.joomla.org/Help4.x:Multilingual_Associations/nl "Help4.x:Multilingual Associations/nl").
 
@@ -401,7 +401,7 @@ alt="Help-4x-screenshot-article-edit-configure-edit-screen-nl.png" />
 
 **Let op**: Dit kan verborgen worden door een gebruiker met
 administratie rechten in de [Opties voor
-artikelen](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl").  
+artikelen](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl").
 Hier kunt u rechten invoeren voor dit artikel. [Meer
 leren.](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/nl#hierarchylevels "J3.x:Access Control List Tutorial/nl")
 

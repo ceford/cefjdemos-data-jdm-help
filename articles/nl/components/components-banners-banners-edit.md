@@ -20,9 +20,9 @@ Navigeer, om een nieuwe advertentie '**toe te voegen'** of te
 class="mw-redirect"
 title="Help4.x:Components Banners Banners/nl">Advertentiebeheer</a>:
 
-- Selecteer **Componenten **→** Advertenties **→** Nieuw** om een nieuwe
+- Selecteer **Componenten → Advertenties → Nieuw** om een nieuwe
   advertentie aan te maken.
-- Selecteer **Componenten **→** Advertenties** en klik op een
+- Selecteer **Componenten → Advertenties** en klik op een
   advertentienaam om een bestaande advertentie te '**Bewerken'**.
 
 ## Schermafbeeldingen
@@ -54,7 +54,7 @@ alt="Help-4x-Components-Banners-Banners-Edit-screen-nl.png" />
 
 ### Gegevens (zijbalk)
 
-**Left Panel**
+#### Left Panel
 
 - **Status**. De publicatiestatus van het item.
 - **Type**. Het type advertentie dat getoond wordt. Opties zijn een
@@ -62,7 +62,7 @@ alt="Help-4x-Components-Banners-Banners-Edit-screen-nl.png" />
   - **Afbeelding**. Afbeeldingsbestand dat getoond moet worden als
     advertentie. Klik op de *Selecteren* knop om het te gebruiken
     afbeeldingsbestand te selecteren. Gebruik
-    [Media](https://docs.joomla.org/Help4.x:Media/nl "Help4.x:Media/nl")
+    Media
     pagina om een advertentie afbeeldingsbestand te uploaden naar uw
     site. Afbeeldingen voor advertenties moeten in de
     https://docs.joomla.org/images/banners/ map staan.
@@ -81,14 +81,14 @@ alt="Help-4x-Components-Banners-Banners-Edit-screen-nl.png" />
     advertentie wilt invoeren.
     - **Aangepaste code**. Gebruik {CLICKURL} en {NAME} om 'Klik URL' en
       'Naam' waarden in uw aangepaste code in te voegen. Bijvoorbeeld:
-      [![`{NAME}`](voer%20URL%20naar%20afbeelding%20in "{NAME}")](%7BCLICKURL%7D).  
+      [![`{NAME}`](voer%20URL%20naar%20afbeelding%20in "{NAME}")](%7BCLICKURL%7D).
       Een andere optie is eigen HTML code in te voeren. Bijvoorbeeld:
       [![](patnaaruwafbeelding)](https://uwdomein.com)
 - **Klik URL**. De URL waar naartoe genavigeerd moet worden als de
   gebruiker op de advertentie klikt.
 - **Description**. Enter a description for the Banner.
 
-**Right Panel**
+#### Right Panel
 
 - **Status**. The published status of the item.
 - **Kleven**. *(Ja of Nee)* Of al dan niet de advertentie "kleeft". Als
@@ -275,37 +275,37 @@ geselecteerde pagina's.
 |                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                        |
 |------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Verwante helpschermen                                                                    | Beschrijving                                                                                                                                                                                                                                                                                                                                                                                           |
-| <a href="https://docs.joomla.org/Help4.x:Components_Banners_Banners/nl"                  
- class="mw-redirect"                                                                       
- title="Help4.x:Components Banners Banners/nl">Componenten -                               
+| <a href="https://docs.joomla.org/Help4.x:Components_Banners_Banners/nl"
+ class="mw-redirect"
+ title="Help4.x:Components Banners Banners/nl">Componenten -
  Advertenties</a>                                                                          | Wordt gebruikt om een lijst met bestaande advertenties te bekijken, te bewerken en nieuwe aan te maken. Er moet minstens één adverteerder en advertentiecategorie zijn **voor** een advertentie kan worden aangemaakt.                                                                                                                                                                                 |
-| <a                                                                                       
- href="https://docs.joomla.org/Help4.x:Components_Banner_Manager_Options/nl"               
- class="mw-redirect"                                                                       
- title="Help4.x:Components Banner Manager Options/nl">Componenten -                        
+| <a
+ href="https://docs.joomla.org/Help4.x:Components_Banner_Manager_Options/nl"
+ class="mw-redirect"
+ title="Help4.x:Components Banner Manager Options/nl">Componenten -
  Advertenties - beheer opties</a> \|\| Algemene opties (instellingen) voor adverteerders.  |                                                                                                                                                                                                                                                                                                                                                                                                        |
-| <a                                                                                       
- href="https://docs.joomla.org/Help4.x:Components_Banners_Categories/nl"                   
- class="mw-redirect"                                                                       
- title="Help4.x:Components Banners Categories/nl">Componenten -                            
+| <a
+ href="https://docs.joomla.org/Help4.x:Components_Banners_Categories/nl"
+ class="mw-redirect"
+ title="Help4.x:Components Banners Categories/nl">Componenten -
  Advertenties - Categorieën</a>                                                            | Wordt gebruikt om een lijst met bestaande advertentie-categorieën te bekijken, bestaande te bewerken en nieuwe advertentie-categorieën aan te maken. Let op dat advertentie-categorieën los staan van andere categorieën, zoals artikelen, contactpersonen, nieuwsfeeds en weblinks. Er moet minimaal één adverteerder en advertentie-categorie zijn voordat er een advertentie aangemaakt kan worden. |
-| <a                                                                                       
- href="https://docs.joomla.org/Help4.x:Components_Banners_Categories_Edit/nl"              
- class="mw-redirect"                                                                       
- title="Help4.x:Components Banners Categories Edit/nl">Componenten -                       
+| <a
+ href="https://docs.joomla.org/Help4.x:Components_Banners_Categories_Edit/nl"
+ class="mw-redirect"
+ title="Help4.x:Components Banners Categories Edit/nl">Componenten -
  Advertenties - Categorieën bewerken</a>                                                   | Hier kunt u een nieuwe advertentie-categorie toevoegen of een bestaande bewerken. Let op dat u minstens één advertentie-categorie moet aanmaken voordat u een advertentie kunt aanmaken. Advertentie-categorieën staan los van andere types categorieën, zoals die voor artikelen, contactpersonen en nieuwsfeeds.                                                                                     |
-| <a href="https://docs.joomla.org/Help4.x:Components_Banners_Clients/nl"                  
- class="mw-redirect"                                                                       
- title="Help4.x:Components Banners Clients/nl">Componenten -                               
+| <a href="https://docs.joomla.org/Help4.x:Components_Banners_Clients/nl"
+ class="mw-redirect"
+ title="Help4.x:Components Banners Clients/nl">Componenten -
  Adverteerders</a>                                                                         | Adverteerdersbeheer is de plaats waar u een bestaande adverteerder kunt bewerken of een nieuwe kunt aanmaken. Let op dat u minstens één adverteerder en één advertentie-categorie moet hebben voordat u uw eerste advertentie kunt toevoegen.                                                                                                                                                          |
-| <a                                                                                       
- href="https://docs.joomla.org/Help4.x:Components_Banners_Clients_Edit/nl"                 
- class="mw-redirect"                                                                       
- title="Help4.x:Components Banners Clients Edit/nl">Componenten -                          
+| <a
+ href="https://docs.joomla.org/Help4.x:Components_Banners_Clients_Edit/nl"
+ class="mw-redirect"
+ title="Help4.x:Components Banners Clients Edit/nl">Componenten -
  Advertenties - Adverteerders bewerken</a>                                                 | Hier voegt u een nieuwe adverteerder toe of bewerkt u een bestaande. Let op dat u minstens één adverteerder moet aanmaken voordat u een advertentie kunt aanmaken.                                                                                                                                                                                                                                     |
-| <a href="https://docs.joomla.org/Help4.x:Components_Banners_Tracks/nl"                   
- class="mw-redirect"                                                                       
- title="Help4.x:Components Banners Tracks/nl">Componenten - Advertenties                   
+| <a href="https://docs.joomla.org/Help4.x:Components_Banners_Tracks/nl"
+ class="mw-redirect"
+ title="Help4.x:Components Banners Tracks/nl">Componenten - Advertenties
  volgen</a>                                                                                | Wordt gebruikt om een bestaande lijst met volg-informatie te bekijken.                                                                                                                                                                                                                                                                                                                                 |
 
 **Om advertenties op een pagina te plaatsen:**
@@ -313,8 +313,8 @@ geselecteerde pagina's.
 |                                                                                                                           |                                                                       |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | Verwante helpschermen                                                                                                     | Beschrijving                                                          |
-| <a                                                                                                                        
- href="https://docs.joomla.org/index.php?title=Help4.x:Extensions_Module_Manager_Banners/nl&amp;action=edit&amp;redlink=1"  
- class="new"                                                                                                                
- title="Help4.x:Extensions Module Manager Banners/nl (page does not exist)">Extensies                                       
+| <a
+ href="https://docs.joomla.org/index.php?title=Help4.x:Extensions_Module_Manager_Banners/nl&amp;action=edit&amp;redlink=1"
+ class="new"
+ title="Help4.x:Extensions Module Manager Banners/nl (page does not exist)">Extensies
  - Modulebeheer - Advertenties</a>                                                                                          | De advertentie-module toont de actieve advertenties uit de component. |

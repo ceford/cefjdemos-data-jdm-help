@@ -6,7 +6,7 @@ The Users list is used to find, add, and edit users.
 
 ## Как открыть
 
-**Панель управления **→** Site **→** Пользователи**
+**Панель управления → Site → Пользователи**
 
 To add a User:
 
@@ -59,7 +59,7 @@ alt="Help-4x-Users-screen-ru.png" />
 ## List Filters
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -79,7 +79,7 @@ shown in the [Screenshot](#screenshot) above.
 ### Параметры поиска
 
 Near the top of the page you will see the filter bar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Выбор состояния**. Select from Enabled / Disabled.
 - **Выбор состояния активации**. Select from Activated / Unactivated.
@@ -94,7 +94,7 @@ Near the top of the page you will see the filter bar shown in the
 
 **Page Controls**. When the number of articles is more than one page,
 you will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -106,7 +106,7 @@ has a dark colour background.
 ## Панель инструментов
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Создать**. Opens the editing screen to create a new user.
 - **Действия**. Reveals a list of actions for selected users. Check one

@@ -12,7 +12,7 @@ nicht im Menüeintrag archivierter Beiträge gezeigt.
 
 ## Wie darauf zugreifen
 
-**Menüs **→** \[Name des Menüs\]**
+**Menüs → \[Name des Menüs\]**
 
 Einen Menüeintrag hinzufügen:
 

@@ -6,7 +6,7 @@ Dit scherm toont een lijst met gebruikers toegangsrechten.
 
 ## Hoe toegang te krijgen
 
-Selecteer **Gebruikers **→** Toegangsniveaus** vanuit het beheermenu.
+Selecteer **Gebruikers → Toegangsniveaus** vanuit het beheermenu.
 
 ## Schermafbeelding
 

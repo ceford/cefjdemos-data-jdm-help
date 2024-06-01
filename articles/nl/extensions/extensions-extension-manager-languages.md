@@ -8,9 +8,9 @@ met één klik kunt installeren.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Systeem **→** Installeren **→** Talen** vanuit het
+- Selecteer **Systeem → Installeren → Talen** vanuit het
   beheermenu.
-- Of selecteer **Systeem **→** Beheer **→** Talen** vanuit het
+- Of selecteer **Systeem → Beheer → Talen** vanuit het
   beheermenu en dan...
   - Klik op de *Installeer Talen* knop in de werkbalk.
 

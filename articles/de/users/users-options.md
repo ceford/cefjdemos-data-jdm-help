@@ -14,7 +14,7 @@ gehören
 
 ## Wie darauf zugreifen
 
-**Benutzer **→** Verwalten**
+**Benutzer → Verwalten**
 
 - auf den Button **Optionen** der Werkzeugleiste klicken.
 

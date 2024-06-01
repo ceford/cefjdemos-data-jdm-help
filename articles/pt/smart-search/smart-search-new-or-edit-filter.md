@@ -7,7 +7,7 @@ existing one.
 
 ## Como aceder
 
-- Select **Components **→** Smart Search **→** Filters** from the
+- Select **Components → Smart Search → Filters** from the
   Administrator menu. Then...
   - Select the **New** Toolbar button to create a new filter.
   - Select a title link in the **Title** column to edit an existing
@@ -27,8 +27,7 @@ alt="Help-4x-Components-Finder-Manage-Search-Filters-Edit-screen-en.png" />
   page, depending on the parameter values you choose.
 - **Alias**. The internal name of the item. Normally, you can leave this
   blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces. [Learn
-  more.](https://docs.joomla.org/Alias/pt "Special:MyLanguage/Alias/pt")
+  with dashes instead of spaces.
 
 ## Edit Filter Tab
 
@@ -73,7 +72,7 @@ alt="Help-4x-Components-Finder-Manage-Search-Filters-subscreen-Options-tab-en.pn
 ## Barra de Ferramentas
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Save**. Saves the item and stays in the current screen.
 - **Save & Close**. Saves the item and closes the current screen.

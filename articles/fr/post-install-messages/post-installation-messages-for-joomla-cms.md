@@ -13,11 +13,7 @@ messages utiles à l'administrateur du site.
 
 ## Capture d'écran
 
-<img
-src="https://docs.joomla.org/images/6/6d/Help-4x-configuration-post-installation-messages-en.png"
-decoding="async" data-file-width="800" data-file-height="527"
-width="800" height="527"
-alt="Help-4x-configuration-post-installation-messages-en.png" />
+![post installation messages screen](../../../images/en/post-install-messages/post-installation-messages.png "")
 
 ## Champs de formulaire
 

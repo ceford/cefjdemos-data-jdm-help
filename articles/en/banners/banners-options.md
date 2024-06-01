@@ -6,7 +6,7 @@ Banner Options used globally for all banners.
 
 ## How to Access
 
-- Select **Components **→** Banners** from the Administrator menu.
+- Select **Components → Banners** from the Administrator menu.
   Then...
   - Select the **Options** button in the Toolbar. The **Options** button
     is available in Banners, Categories, Clients and Tracks pages.
@@ -16,7 +16,7 @@ Banner Options used globally for all banners.
 <img
 src="https://docs.joomla.org/images/a/a7/Help-4x-Banner-Options-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="410"
-width="800" height="410" alt="Help-4x-Banner-Options-screen-en.png" />
+width="800" height="410" alt="Banners Options client tab" />
 
 ## Form Fields
 
@@ -42,7 +42,7 @@ Banner Clients, and Banner Categories.
 src="https://docs.joomla.org/images/f/fd/Help-4x-Banner-Options-screen-history-tab-en.png"
 decoding="async" data-file-width="600" data-file-height="196"
 width="800" height="261"
-alt="Help-4x-Banner-Options-screen-history-tab-en.png" />
+alt="Banners Options history tab" />
 
 - **Enable Versions.** (Yes/No). Whether or not to save version history
   for this component. If No, version history will not be saved for
@@ -53,8 +53,7 @@ alt="Help-4x-Banner-Options-screen-history-tab-en.png" />
   0, then versions will never be deleted automatically. Also, specific
   versions may be flagged as "Keep Forever" and will not be deleted
   automatically. Note that versions may be deleted manually using the
-  Delete button in the [Version
-  History](https://docs.joomla.org/Help4.x:Components_Version_History/en "Help4.x:Components Version History/en")
+  Delete button in the Version History
   screen.
 
 ### Permissions Tab
@@ -66,7 +65,7 @@ shows as follows.
 src="https://docs.joomla.org/images/0/04/Help-4x-Banner-Options-screen-permissions-tab-en.png"
 decoding="async" data-file-width="600" data-file-height="533"
 width="800" height="711"
-alt="Help-4x-Banner-Options-screen-permissions-tab-en.png" />
+alt="Banners Options permissions tab" />
 
 To change the permissions for this extension, do the following.
 
@@ -111,10 +110,3 @@ above. The functions are:
 
 - Remember, these choices are applied globally.
 
-## Related Information
-
-- [Banner Manager: Add/Edit
-  Banner](https://docs.joomla.org/Help4.x:Banners:_Edit/en "Help4.x:Banners: Edit/en")
-- [Banner
-  Manager](https://docs.joomla.org/Help4.x:Banners/en "Help4.x:Banners/en")
-- <span class="mw-selflink selflink">Banner Manager Configuration</span>

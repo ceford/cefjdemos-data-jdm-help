@@ -9,14 +9,14 @@ mehrsprachigen Website.
 
 Eine Sprachverknüpfung hinzufügen:
 
-- **Komponenten **→** Sprachverknüpfungen**
+- **Komponenten → Sprachverknüpfungen**
   1.  **Eintragstyp** wählen.
   2.  **Sprache** wählen.
   3.  Die Zielsprache in der Spalte **Nicht verknüpft** wählen.
 
 Eine Sprachverknüpfung bearbeiten:
 
-- **Komponenten **→** Sprachverknüpfungen**
+- **Komponenten → Sprachverknüpfungen**
   1.  **Eintragstyp** wählen.
   2.  **Sprache** wählen.
   3.  Eine Zielsprache in der Spalte **Verknüpfungen** wählen.

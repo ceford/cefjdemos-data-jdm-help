@@ -15,7 +15,7 @@ defined local folders. Tools available include:
 
 ## Как открыть
 
-- **Панель управления **→** Site **→** Медиа-менеджер**
+- **Панель управления → Site → Медиа-менеджер**
 
 ## Скриншот
 
@@ -81,28 +81,25 @@ icons appear offering the following actions:
 ## Панель инструментов
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Загрузить**. Opens window for uploading images.
 - **Создать каталог**. Opens a dialog to prompt for a new folder name.
   The new folder is created in the currently selected folder.
 - **Удалить**. Deletes the selected images.
-- **Настройки**. Opens [Media
-  Options](https://docs.joomla.org/Help4.x:Media:_Options/en "Help4.x:Media: Options/en").
+- **Настройки**. Opens Media Options.
 - **Справка**. Opens this help screen.
 
 ## Быстрые советы
 
 - If you wish to keep images and documents in separate local folders:
   1.  create a folder in the root of your site, say **files**
-  2.  go to the [Filesystem -
-      Local](https://docs.joomla.org/J4.x:Media:_Options/en "J4.x:Media: Options/en")
+  2.  go to the Filesystem - Local
       plugin and add **files** under **Select directories**.
   3.  Back in the Media component you will see *images* and *files* as
       separate items in the Local panel.
 - The Media's maximum upload size can be changed to an amount other than
-  "10 MB" in the [Media
-  Options](https://docs.joomla.org/Help4.x:Media:_Options/en "Help4.x:Media: Options/en").
+  "10 MB" in the Media Options.
 - You can upload or delete multiple files at the same time.
 
 ## Связанная информация

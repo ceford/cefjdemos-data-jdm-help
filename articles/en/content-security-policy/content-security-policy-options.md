@@ -7,7 +7,7 @@ CSP.
 
 ## How to Access
 
-- Select **System **→** Global Configuration** from the Administrator
+- Select **System → Global Configuration** from the Administrator
   menu. Then...
   - Select **Content Security Policy** from the Component list.
 
@@ -18,7 +18,7 @@ src="https://docs.joomla.org/images/thumb/4/4d/Content-security-policy-options-e
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/4d/Content-security-policy-options-en.png/1200px-Content-security-policy-options-en.png 1.5x, https://docs.joomla.org/images/4/4d/Content-security-policy-options-en.png 2x"
 data-file-width="1500" data-file-height="724" width="800" height="386"
-alt="Content-security-policy-options-en.png" />
+alt="Content security policy options" />
 
 ## Form Fields
 
@@ -93,7 +93,7 @@ extension, do the following.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Save**. Saves the item and stays in the current screen.
 - **Save & Close**. Saves the item and closes the current screen.
@@ -108,14 +108,3 @@ At the top of the page you will see the toolbar shown in the
   enabled and configured.
 - Please note that this Component requires the Plugin **System - HTTP
   Headers** (plg_system_httpheaders) to be enabeld.
-
-## Related Information
-
-- To review the collected reports please see: <a
-  href="https://docs.joomla.org/index.php?title=Help4.x:Content_Security_Policy_Reports/en&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Help4.x:Content Security Policy Reports/en (page does not exist)">Components
-  CSP Reports</a>
-- More details on HTTP Header Tools: [Tutorial: Http Header Management
-  in Joomla
-  4](https://docs.joomla.org/J4.x:Http_Header_Management/en "J4.x:Http Header Management/en")

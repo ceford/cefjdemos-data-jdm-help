@@ -7,7 +7,7 @@ globally for Languages.
 
 ## How to Access
 
-- Select **System **→** Languages in the Manage panel** from the
+- Select **System → Languages in the Manage panel** from the
   Administration menu. **Beware:** Languages also occurs in the Install
   panel. Then
   - **Select** the Options button in the Toolbar.
@@ -18,7 +18,7 @@ globally for Languages.
 src="https://docs.joomla.org/images/2/2d/Help-4x-Components-Languages-Options-en.png"
 decoding="async" data-file-width="800" data-file-height="543"
 width="800" height="543"
-alt="Help-4x-Components-Languages-Options-en.png" />
+alt="Languages Options screen" />
 
 ## Form Fields
 

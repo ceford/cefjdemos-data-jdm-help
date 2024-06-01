@@ -8,11 +8,11 @@ in to the Frontend of the site.
 
 Users must have permission to create articles. When the Create Article
 page is shown in the Frontend, the screen shows as examples in the
-[Frontend Screenshot](#frontend) section below.
+Frontend Screenshot section below.
 
 ## Comment y accéder
 
-**Menus **→** \[name of the menu\]**
+Select **Menus → \[name of the menu\]** from the Administrator menu.
 
 Pour ajouter un nouvel élément de menu ː
 
@@ -44,7 +44,7 @@ alt="Help-4x-Menus-Item-Articles-Create-Article-screen-fr.png" />
 
 ### Détails
 
-**Left Panel**
+#### Left Panel
 
 - **Type de lien de menu**. Le type de lien de menu sélectionné lors de
   la création de ce lien de menu. Il peut s'agir d'un des types de liens
@@ -56,7 +56,7 @@ alt="Help-4x-Menus-Item-Articles-Create-Article-screen-fr.png" />
 - **Fenêtre cible**. Sélectionnez dans la liste déroulante.
 - **Style du template**. Sélectionnez dans la liste déroulante.
 
-**Right Panel**
+#### Right Panel
 
 - **Menu**. Affiche dans quel menu le lien apparaîtra.
 
@@ -84,8 +84,7 @@ alt="Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-fr.png" />
 
 ### Paramètres communs
 
-See [Menus: New
-Item](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en "Help4.x:Menu Item: New Item/en")
+See Menus: New Item
 for help on fields common to all Menu Item types, including:
 
 - [Panneau de
@@ -95,7 +94,7 @@ for help on fields common to all Menu Item types, including:
 - [Affichage de la
   page](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/fr#pagedisplay "Help4.x:Menu Item: New Item/fr")
 - [Métadonnées](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/fr#metadata "Help4.x:Menu Item: New Item/fr")
-- [Associations](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/fr#associations "Help4.x:Menu Item: New Item/fr")
+- Associations
 - [Assignation de
   modules](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/fr#moduleassignment "Help4.x:Menu Item: New Item/fr")
 
@@ -117,8 +116,7 @@ En haut de la page, vous verrez la barre d'outils présentée dans la
 ## Capture d'écran du frontend
 
 Screenshots shows Joomla core Frontend Template **Cassiopeia**, all
-[Editing Layout
-options](https://docs.joomla.org/Help4.x:Articles:_Options/en#editinglayout "Help4.x:Articles: Options/en")
+Editing Layout options
 set to 'Hide'.
 
 **Contenu**
@@ -180,7 +178,7 @@ droits](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/fr "Help4.x
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Ecrans d'aide en relation                                                                                                                                             | Description                                                                                                                                                                                 |
 | [Articles : Paramètres](https://docs.joomla.org/Help4.x:Articles:_Options/fr "Help4.x:Articles: Options/fr")                                                          | Used to set global defaults for menu items that display articles. These default values will be used when 'Use Global' is selected for an option in an Articles menu item.                   |
-| [Articles](https://docs.joomla.org/Help4.x:Articles/fr "Help4.x:Articles/fr")                                                                                         | The Article list is used to find, mark featured, add and edit articles.                                                                                                                     |
+| Articles                                                                                         | The Article list is used to find, mark featured, add and edit articles.                                                                                                                     |
 | [Articles : Edition](https://docs.joomla.org/Help4.x:Articles:_Edit/fr "Help4.x:Articles: Edit/fr")                                                                   | This is where you can add and edit Articles. You can also select the Category for an Article and indicate whether or not it is Published and if it is selected to appear on the Front Page. |
 | [Articles : Articles épinglés](https://docs.joomla.org/Help4.x:Articles:_Featured/fr "Help4.x:Articles: Featured/fr")                                                 | Used to control which 'Featured Articles' are displayed on the Front Page and in what order they are displayed.                                                                             |
 | [Articles : catégories](https://docs.joomla.org/Help4.x:Articles:_Categories/fr "Help4.x:Articles: Categories/fr")                                                    | The Articles Categories list is used to find, add, and edit articles categories.                                                                                                            |

@@ -14,7 +14,7 @@ incluem
 
 ## Como acessar
 
-**Usuários **→** Gerenciar**
+**Usuários → Gerenciar**
 
 - Selecione o botão **Opções** na barra de ferramentas.
 
@@ -212,8 +212,7 @@ alt="Help-4x-Users-Options-integration-subscreen-pt-br.png" />
 
 ### Permissões
 
-This section lets you set up the default [Access Control
-List](https://docs.joomla.org/Access_Control_List/pt-br "Special:MyLanguage/Access Control List/pt-br")
+This section lets you set up the default Access Control List
 permissions for all users.
 
 <img
@@ -241,8 +240,7 @@ To change the permissions for users, do the following.
     - **Editar Valor**. Users can edit any value of custom fields
       submitted in users.
 3.  Selecione a permissão desejada para a ação que deseja alterar.
-    - **Herdado**. Inherited for users in this Group from the [Global
-      Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/pt-br#permissions "Special:MyLanguage/Help4.x:Site Global Configuration/pt-br")
+    - **Herdado**. Inherited for users in this Group from the Global Configuration
       permissions.
     - **Permitido**. Permitido para usuários neste grupo.Observe que, se
       esta ação for negada em um dos níveis mais altos, a permissão

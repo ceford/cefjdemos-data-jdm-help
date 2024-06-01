@@ -10,13 +10,10 @@ subject and message filters.
 
 To create a new Single Contact Menu Item:
 
-- Select **Menus **→** \[name of the menu\]** from Administrator menu
-  (for example, **Menus **→** Main Menu**). Then...
+- Select **Menus → \[name of the menu\]** from Administrator menu
+  (for example, **Menus → Main Menu**). Then...
   - Select the **New** button in the Toolbar. Then...
-  - Select the Menu Item Type Select button. <img
-    src="https://docs.joomla.org/images/0/0a/Help-4x-Menu-Item-Type-Select-Button-en.png"
-    decoding="async" data-file-width="96" data-file-height="45" width="96"
-    height="45" alt="Help-4x-Menu-Item-Type-Select-Button-en.png" />
+  - Select the Menu Item Type Select button.
   - In the modal dialog select the Contacts item to open a list and then
     select the **Single Contact** item.
 
@@ -30,19 +27,18 @@ To edit an existing Single Contact menu item:
 src="https://docs.joomla.org/images/6/64/Help-4x-Menus-Menu-Item-Contact-Single-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="812"
 width="800" height="812"
-alt="Help-4x-Menus-Menu-Item-Contact-Single-screen-en.png" />
+alt="Menu Item Single contact screen" />
 
 ## Form Fields
 
 - **Menu Title:** The title that will display for this menu item.
 - **Alias**. The internal name of the item. Normally, you can leave this
   blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces. [Learn
-  more.](https://docs.joomla.org/Alias/en "Special:MyLanguage/Alias/en")
+  with dashes instead of spaces.
 
 ### Details Tab
 
-**Left Panel**
+#### Left Panel
 
 - **Menu Item Type**. The Menu Item Type selected when this menu item
   was created. This can be one of the core menu item types or a menu
@@ -53,7 +49,7 @@ alt="Help-4x-Menus-Menu-Item-Contact-Single-screen-en.png" />
 - **Target Window.** Select from the drop-down list.
 - **Template Style.** Select from the drop-down list.
 
-**Right Panel**
+#### Right Panel
 
 - **Menu**. Shows which menu the link will appear in.
 - **Parent Item.** The parent menu item for this menu item. Used to
@@ -68,14 +64,14 @@ alt="Help-4x-Menus-Menu-Item-Contact-Single-screen-en.png" />
   - Select the Ordering icon <img
     src="https://docs.joomla.org/images/e/ee/Help30-Ordering-colheader-icon.png"
     decoding="async" data-file-width="12" data-file-height="23" width="12"
-    height="23" alt="Help30-Ordering-colheader-icon.png" /> in the Table
+    height="23" alt="Ordering column header icon" /> in the Table
     heading to make it the active ordering item. The ordering icons in
     each row will change from light grey to dark grey and the pointer
     will change to a drag arrow on hover.
   - Select one of the Ordering icons <img
     src="https://docs.joomla.org/images/8/87/Help30-Ordering-colheader-grab-bar-icon.png"
     decoding="async" data-file-width="10" data-file-height="21" width="10"
-    height="21" alt="Help30-Ordering-colheader-grab-bar-icon.png" /> and
+    height="21" alt="Ordering drag icon" /> and
     drag it up or down to change the position of that row in the list.
     The items will display in the new order within the Position.
 - **Status**. The published status of the item.
@@ -88,14 +84,11 @@ alt="Help-4x-Menus-Menu-Item-Contact-Single-screen-en.png" />
 - **Default Page**. If Yes, this menu item is the default or home page
   for the site. There must be exactly one menu item set as the default
   page. You can change the default page in two ways:
-  1.  Click on the Home column of the desired menu item in the [Menus:
-      Items](https://docs.joomla.org/Help4.x:Menus:_Items/en "Special:MyLanguage/Help4.x:Menus: Items/en")
+  1.  Click on the Home column of the desired menu item in the Menus: Items
       screen.
   2.  Open the menu item for the new default page and change the Default
       Page setting to Yes.
-- **Access**. The [viewing Access
-  Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/en")
-  for this item.
+- **Access**. The viewing Access  Level   for this item.
 - **Language**. Item language.
 - **Note**. This is normally for the site administrator's use (for
   example, to document information about this item) and does not show in
@@ -109,28 +102,24 @@ Contact Display Options control the appearance of the list layout.
 src="https://docs.joomla.org/images/2/2a/Help-4x-Menus-Menu-Item-Contact-Category-contact-display-options-parameters-en.png"
 decoding="async" data-file-width="600" data-file-height="343"
 width="600" height="343"
-alt="Help-4x-Menus-Menu-Item-Contact-Category-contact-display-options-parameters-en.png" />
+alt="Menu Item Single contact display options tab" />
 
 - **Display Format**. Determines the style used to display sections of
   the contact form.
-
-The following options are available.
-
-- *Use Global:* Use the default value from the contacts options screen.
-- *Sliders:* Slider contact view.
-- *Tabs:* Tabbed contact view.
-- *Plain:* Plain text contact view.
+    The following options are available.
+    - *Use Global:* Use the default value from the contacts options screen.
+    - *Sliders:* Slider contact view.
+    - *Tabs:* Tabbed contact view.
+    - *Plain:* Plain text contact view.
 - **Contact Category**. Set to control the Contacts Category display
   view.
-
-The following options are available.
-
-- *Use Global:* Use the default value from the contacts options screen.
-- *Hide:* Do not show the Category name of the contacts.
-- *Show Without Link:* Show Category name of contacts as heading styled
-  text only.
-- *Show With Link* Show Category name of contacts as heading styled text
-  linked to Category.
+    The following options are available.
+    - *Use Global:* Use the default value from the contacts options screen.
+    - *Hide:* Do not show the Category name of the contacts.
+    - *Show Without Link:* Show Category name of contacts as heading styled
+      text only.
+    - *Show With Link* Show Category name of contacts as heading styled text
+      linked to Category.
 - **Show Contacts List**. Allow the user to use a drop down list of all
   contacts in one contact category. Set one of the following options:
 - *Use Global:* Use the default value from the contacts options screen.
@@ -138,7 +127,7 @@ The following options are available.
 - *Hide:* Do not display the Contact list.
 - **Tags**. Whether to hide or show any tags for this item.
 
- **Common Contact Display Fields** are:
+#### Common Contact Display Fields
 
 - **Name**. Display the contact's *Name*.
 - **Contact's Position**. Display the contact's *Contact's Position*.
@@ -163,70 +152,53 @@ The following options are available.
 
 All of the **Common Contact Display Fields** have the following options
 available:
-
 - *Use Global:* Use the default value from the contacts options screen.
 - *Show:* Show this field.
 - *Hide:* Do not display this field.
+
 - **Link \<letter\> Label**. \<A to E\> Labels (5) to override shown
   link's label.
 
 ### Mail Options
 
-Contact Mail Options control the appearance of a Contact's
- **→** *Contact Form* if it is enabled.
-
 <img
 src="https://docs.joomla.org/images/0/04/Help-4x-Menus-Menu-Item-Contact-Category-single-contact-mail-options-parameters-en.png"
 decoding="async" data-file-width="600" data-file-height="291"
 width="600" height="291"
-alt="Help-4x-Menus-Menu-Item-Contact-Category-single-contact-mail-options-parameters-en.png" />
+alt="Menu Item Single contact mail options tab" />
 
 - **Show Contact Form**. Display the contact's *contact form*.
-
-It has the following options available:
-
-- *Use Global:* Use the default value from the contacts options screen.
-- *Show:* Display this.
-- *Hide:* Do not display.
+    - *Use Global:* Use the default value from the contacts options screen.
+    - *Show:* Display this.
+    - *Hide:* Do not display.
 - **Send Copy to Submitter**. Display the a check box to allow a
   Submitter to send a copy of email to themselves.
-
-It has the following options available:
-
-- *Use Global:* Use the default value from the contacts options screen.
-- *Show:* Display this.
-- *Hide:* Do not display.
+    - *Use Global:* Use the default value from the contacts options screen.
+    - *Show:* Display this.
+    - *Hide:* Do not display.
 - **Session Check**. Check for the existence of session cookie. Users
   without cookies enabled will not be able to send emails.
-
-It has the following options available:
-
-- *Use Global:* Use the default value from the contacts options screen.
-- *Yes:* Check for session cookie.
-- *No:* Do not check for session cookie.
+    - *Use Global:* Use the default value from the contacts options screen.
+    - *Yes:* Check for session cookie.
+    - *No:* Do not check for session cookie.
 - **Custom Reply**. Turn on or off the custom message reply to contact
   form's submitter.
-
-It has the following options available:
-
-- *Use Global:* Use the default value from the contacts options screen.
-- *Yes:* Send an automated reply email.
-- *No:* Do not send an automated reply email.
+    - *Use Global:* Use the default value from the contacts options screen.
+    - *Yes:* Send an automated reply email.
+    - *No:* Do not send an automated reply email.
 - **Contact Redirect**. Enter alternative URL to redirect submitter
   after a successful contact form email was sent.
 
 ### Common Options
 
-See [Menus: Edit/New
-Item](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en "Help4.x:Menu Item: New Item/en")
-for help on fields common to all Menu Item types located in the
-following Tabs:
+See Menus: New Item for help on fields common to all Menu Item types, including:
 
-- **Link Type**
-- **Page Display**
-- **Metadata**
-- **Associations**
-- **Module Assignment**
+- Right Panel
+- Link Type
+- Page Display
+- Metadata
+- Associations
+- Module Assignment
 
 ## Toolbar
 
@@ -251,14 +223,3 @@ above. The functions are:
 - The Category List layout is a convenient way to list a compact
   directory of contacts in a category that can include filtering and
   searching.
-
-## Related Information
-
-- [Contacts: Options](https://docs.joomla.org/Help4.x:Contacts:_Options/en "Help4.x:Contacts: Options/en") Contact Options configuration allows setting of parameters used globally for all contacts.
-- [Contacts: Categories](https://docs.joomla.org/Help4.x:Contacts:_Categories/en "Help4.x:Contacts: Categories/en") The Contact Category Manager is where you can edit existing Contact Categories and create new ones. Note that Contact Categories are separate from other Categories, such as for Articles, Banners, News Feeds, and Web Links. From this screen, you can also navigate to the [Contacts](https://docs.joomla.org/Help4.x:Contacts/en "Help4.x:Contacts/en") screen.
-- [Contacts: New or Edit Category](https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit_Category) This is where you can add a Contact Category or edit an existing Contact Category. Contact Categories allow you to organize contacts in your web site. Contact Categories are separate from other types of Categories, such as those for Articles, Banners, News Feeds, and so on.
-- [Contacts](https://docs.joomla.org/Help4.x:Contacts/en "Help4.x:Contacts/en") The Contact Manager screen allows you to add contact information to your Joomla! site. You can enter information such as name, address, phone and e-mail. You can also link contacts to registered users. Afterwards, you can use the [Menu Manager](https://docs.joomla.org/Help4.x:Menus/en "Help4.x:Menus/en") to create front-end links to the the contacts.
-- [Contacts: New or Edit](https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit) This is where you can add a Contact or edit an existing Contact. Contacts allow you to list people on your web site. They also allow users to send e-mails to those people.
-- [Menu Item: List Contacts in a Category](https://docs.joomla.org/Help4.x:Menu_Item:_List_Contacts_in_a_Category/en "Help4.x:Menu Item: List Contacts in a Category/en") Used to show contacts belonging to a specific Category in a list layout. Settings include: Contact Details, Contact Form, presentation(slider, tabs, plain view), and Email subject and message filters.
-- [Menu Item: Featured Contacts](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Contacts/en "Help4.x:Menu Item: Featured Contacts/en") Used to show a list of featured contacts.
-| <span class="mw-selflink selflink">Menu Item: Single Contact</span> Used to show a Single Contact. Settings include: Contact Details, Contact Form, presentation(slider, tabs, plain view), and Email subject and message filters.

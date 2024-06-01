@@ -15,7 +15,7 @@ locais definidas pelo usuário. As ferramentas disponíveis incluem:
 
 ## Como acessar
 
-- **Painel inicial **→** Site **→** Mídia**.
+- **Painel inicial → Site → Mídia**.
 
 ## Captura da tela
 

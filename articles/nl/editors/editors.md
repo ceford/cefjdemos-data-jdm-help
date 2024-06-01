@@ -18,8 +18,7 @@ voor de 'Editor - TinyMCE' plugin.
 
 De set 2 werkbalk biedt één rij knoppen zoals hieronder weergegeven.
 
-The set is default assigned to the Public [user
-group](https://docs.joomla.org/Help4.x:Users:_Groups/en "Help4.x:Users: Groups/en").
+The set is default assigned to the Public user group.
 
 <img
 src="https://docs.joomla.org/images/thumb/5/52/Help-4x-editor-tinymce-simple-en.png/600px-Help-4x-editor-tinymce-simple-en.png"
@@ -40,8 +39,7 @@ alt="Help-4x-editor-tinymce-simple-en.png" />
 
 The toolbar set 1 provides two rows of buttons as shown below.
 
-The set is default assigned to the Manager and Registered [user
-group](https://docs.joomla.org/Help4.x:Users:_Groups/en "Help4.x:Users: Groups/en").
+The set is default assigned to the Manager and Registered user group.
 
 <img
 src="https://docs.joomla.org/images/thumb/7/7e/Help-4x-editor-tinymce-advanced-nl.png/800px-Help-4x-editor-tinymce-advanced-nl.png"
@@ -129,8 +127,7 @@ shows as a red dotted line across the article.
   Layout, use the Page Break button.
 
 The buttons in the CMS content dropdown list can be disabled in
-[Plugins -
-editors-xtd.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Button_Group/en "Chunk4x:Extensions Plugin Manager Edit Button Group/en")
+Plugins - editors-xtd.
 
 - Buttons in the upper left allow you to make text: italic. Next to that
   are buttons for align left, right, center, and full.
@@ -156,8 +153,7 @@ editors-xtd.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_But
   een klien anker-icoon getoond op de plaats van het anker. U kunt de
   naam van het anker bewerken door erop te klikken en op deze knop te
   drukken. U kunt het anker verwijderen door het te selecteren en op de
-  verwijder-knop te drukken. [Learn
-  more.](https://docs.joomla.org/Glossary/en#Anchor "Glossary/en")
+  verwijder-knop te drukken.
 - Bewerk broncode: Een popup verschijnt met de HTML broncode, waardoor u
   de HTML broncode kunt bewerken.
 - Insert a horizontal line: To insert a horizontal line, move the cursor
@@ -175,8 +171,7 @@ The toolbar set 0 provides the most extensive editing options, as shown
 below.
 
 The set is default assigned to the Administrator, Editor, and Super
-Users [user
-group](https://docs.joomla.org/Help4.x:Users:_Groups/en "Help4.x:Users: Groups/en").
+Users user group.
 
 <img
 src="https://docs.joomla.org/images/thumb/e/ef/Help-4x-editor-tinymce-extended-nl.png/800px-Help-4x-editor-tinymce-extended-nl.png"
@@ -272,7 +267,7 @@ data-file-width="1977" data-file-height="988" width="800" height="400"
 alt="Help-4x-screenshot-editor-codemirror-example-nl.png" />
 
 - Buttons shown below the edit window provides for access to link to any
-  item of the site. [Learn more.](#cmscontent)
+  item of the site.
 - CodeMirror biedt een aantal van dezelfde voordelen van het gebruik van
   Niet-Editor, maar het maakt het wel wat makkelijker om te werken met
   HTML code.

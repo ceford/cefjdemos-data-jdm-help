@@ -7,7 +7,7 @@ van parameters die algemeen gebruikt worden voor berichten.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Gebruikers **→** Berichten **→** Privéberichten** vanuit
+- Selecteer **Gebruikers → Berichten → Privéberichten** vanuit
   het beheermenu. Dan...
   - Klik op de **Opties** knop in de werkbalk.
 

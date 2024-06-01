@@ -21,7 +21,7 @@ Slim zoeken. Als de lijst leeg is
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Componenten **→** Slim zoeken **→** Indexeren** in het
+- Selecteer **Componenten → Slim zoeken → Indexeren** in het
   beheermenu.
 
 ## Schermafbeelding
@@ -85,7 +85,7 @@ alt="Help31-Components-Smart-Search-Manager-columns-nl.png" />
 ## Lijst filters
 
 **Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande [Screenshot](#screenshot).
+bovenstaande Screenshot.
 
 - **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
   zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat

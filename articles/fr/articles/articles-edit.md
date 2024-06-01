@@ -14,7 +14,7 @@ métadonnées propres à un article.
 
 ## Comment y accéder
 
-**Contenus **→** Articles**
+**Contenus → Articles**
 
 Pour ajouter un article :
 
@@ -43,7 +43,7 @@ alt="Help-4x-content-article-manager-add-new-article-fr.png" />
 
 ### Contenu
 
-**Left Panel**
+#### Left Panel
 
 - **Texte de l'article**. C'est ici que vous entrez le contenu de
   l'article. Joomla inclut des éditeurs , [Éditeur -
@@ -67,7 +67,7 @@ plus.](https://docs.joomla.org/Help4.x:Editors/fr#cmscontent "Help4.x:Editors/fr
   TinyMCE et [Éditeur - Non wysiwyg
   (Aucun)](https://docs.joomla.org/Help4.x:Editors/fr#none "Help4.x:Editors/fr").
 
-**Right Panel**
+#### Right Panel
 
 - **Statut**. Le statut de publication de cet article.
   - Publié: L'article est visible sur le frontend du site.
@@ -75,7 +75,7 @@ plus.](https://docs.joomla.org/Help4.x:Editors/fr#cmscontent "Help4.x:Editors/fr
     frontend du site. Il peut être visible pour les utilisateurs
     connectés et autorisés à modifier l'article.
   - Archivé: L'article n'apparaîtra plus dans les liens de menu
-    [blog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/fr "Help4.x:Menu Item: Category Blog/fr")
+    Blog
     ou
     [liste.](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/fr "Help4.x:Menu Item: Category List/fr")
   - Dans la corbeille: L'article est supprimé du site mais reste dans la
@@ -104,14 +104,13 @@ plus.](https://docs.joomla.org/Help4.x:Editors/fr#cmscontent "Help4.x:Editors/fr
   à propos de cet élément) et cela ne s'affiche pas sur le Frontend du
   site.
 - **Note de version**. Optional field to identify the version of this
-  article in the article's [Version
-  History](https://docs.joomla.org/Help4.x:Components_Version_History/en "Help4.x:Components Version History/en").
+  article in the article's Version History.
 
 ### Images et liens
 
 **Remarque**: Cet onglet peut être masqué par les utilisateurs disposant
 d'une Permission d'Administrateur dans les [Options de
-l'article](https://docs.joomla.org/Help4.x:Articles:_Options/fr "Help4.x:Articles: Options/fr").  
+l'article](https://docs.joomla.org/Help4.x:Articles:_Options/fr "Help4.x:Articles: Options/fr").
 Cette section vous permet d'afficher des images et des liens dans vos
 articles à l'aide d'une mise en page standardisée.
 
@@ -189,7 +188,7 @@ alt="Help-4x-screenshot-article-edit-images-links-fr.png" />
 
 **Remarque**: Cet onglet peut être masqué par les utilisateurs disposant
 d'une Permission d'Administrateur dans les [Options de
-l'article](https://docs.joomla.org/Help4.x:Articles:_Options/fr "Help4.x:Articles: Options/fr").  
+l'article](https://docs.joomla.org/Help4.x:Articles:_Options/fr "Help4.x:Articles: Options/fr").
 Il s'agit d'un ensemble d'options que vous pouvez utiliser pour
 contrôler le mode d'affichage de cet article dans la présentation sous
 forme de blog, En vedette ou Catégorie. Joomla vous permet de définir
@@ -211,8 +210,7 @@ alt="Help-4x-screenshot-article-edit-article-options-fr.png" />
 - **Lien sur les titres**. Show the title as a link to the article.
 - **Tags de l'article**. Enter tags for this article. Select existing
   tags by entering in the first few letters or create new tags by
-  entering them here. [Learn
-  more.](https://docs.joomla.org/J4.x:How_To_Use_Content_Tags_in_Joomla/en "J4.x:How To Use Content Tags in Joomla/en")
+  entering them here.
 - **Texte d'introduction**.
   - Afficher: The Intro Text of the article will show when you drill
     down to the article.
@@ -237,15 +235,13 @@ alt="Help-4x-screenshot-article-edit-article-options-fr.png" />
 **Associations**
 
 - **Associations multilingues**. Show the associated flags or Language
-  Code. [Multilingual
-  only.](https://docs.joomla.org/Help4.x:Multilingual_Associations/en "Help4.x:Multilingual Associations/en")
+  Code. Multilingual only.
 
 **Auteur**
 
 - **Auteur**. Show the author of the Article.
 - **Lien vers sa page de contact**. Activer le lien sur le nom de
-  l'auteur vers sa page de contact.Note: The author must be [set up as a
-  Contact](https://docs.joomla.org/Help4.x:Contacts/en "Help4.x:Contacts/en").
+  l'auteur vers sa page de contact.Note: The author must be set up as a Contact.
 
 **Date**
 
@@ -273,8 +269,7 @@ alt="Help-4x-screenshot-article-edit-article-options-fr.png" />
 
 ### Champs
 
-This section shows the [custom
-fields](https://docs.joomla.org/Help4.x:Fields/en "Help4.x:Fields/en")
+This section shows the custom fields
 which are defined for this article.
 
 <img
@@ -288,9 +283,9 @@ alt="Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-fr.png" />
 
 **Remarque**: Cet onglet peut être masqué par les utilisateurs disposant
 d'une Permission d'Administrateur dans les [Options de
-l'article](https://docs.joomla.org/Help4.x:Articles:_Options/fr "Help4.x:Articles: Options/fr").  
+l'article](https://docs.joomla.org/Help4.x:Articles:_Options/fr "Help4.x:Articles: Options/fr").
 This section allows you to enter parameters and
-[Metadata](https://docs.joomla.org/Using_The_Meta_Description/en "Using The Meta Description/en")
+Metadata
 for this Article.
 
 <img
@@ -339,8 +334,7 @@ alt="Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-fr.png" /
 - **Mots clés**. Entry for keywords. [Pour en savoir
   plus.](https://docs.joomla.org/Using_Keywords/fr "Using Keywords/fr")
 - **Robots**. The instructions for web 'robots' that browse to this
-  page. Set 'Use Global' in [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#robots "Help4.x:Site Global Configuration/en").
+  page. Set 'Use Global' in Global Configuration.
 - **Auteur**. Entry for an Author name within the metadata.
 - **Droits légaux**. Describe what rights others have to use this
   content.
@@ -349,9 +343,8 @@ alt="Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-fr.png" /
 
 **Remarque**: Cet onglet peut être masqué par les utilisateurs disposant
 d'une Permission d'Administrateur dans les [Options de
-l'article](https://docs.joomla.org/Help4.x:Articles:_Options/fr "Help4.x:Articles: Options/fr").  
-Tab is shown on [Multilingual
-Sites](https://docs.joomla.org/Help4.x:Multilingual_Associations/en "Help4.x:Multilingual Associations/en")
+l'article](https://docs.joomla.org/Help4.x:Articles:_Options/fr "Help4.x:Articles: Options/fr").
+Tab is shown on Multilingual Sites
 only.
 
 <img
@@ -374,18 +367,15 @@ srcset="https://docs.joomla.org/images/thumb/1/15/Help-4x-screenshot-article-edi
 data-file-width="2880" data-file-height="962" width="600" height="200"
 alt="Help-4x-screenshot-article-edit-configure-edit-screen-fr.png" />
 
-- **Paramètres de publication**. If Hide, the [Publishing Options
-  tab](https://docs.joomla.org/Help4.x:Articles:_Edit/en#publishing "Help4.x:Articles: Edit/en")
+- **Paramètres de publication**. If Hide, the Publishing Options tab
   will not show in the Backend. This means that Backend users will not
   be able to edit the fields in this tab. These fields will always be
   set to their default values.
-- **Paramètres d'article**. If Hide, the [Article Options
-  tab](https://docs.joomla.org/Help4.x:Articles:_Edit/en#options "Help4.x:Articles: Edit/en")
+- **Paramètres d'article**. If Hide, the Article Options tab
   will not show in the Backend. This means that Backend users will not
   be able to edit the fields in this tab. These fields will always be
   set to their default values.
-- **Images et liens en admin**. If Yes, the [Images and Links
-  tab](https://docs.joomla.org/Help4.x:Articles:_Edit/en#imagesandlinks "Help4.x:Articles: Edit/en")
+- **Images et liens en admin**. If Yes, the Images and Links tab
   will show.
 - **Images et liens en frontal**. If Yes, the Images and Links tab will
   show in the Frontend article editor screen.
@@ -394,7 +384,7 @@ alt="Help-4x-screenshot-article-edit-configure-edit-screen-fr.png" />
 
 **Remarque**: Cet onglet peut être masqué par les utilisateurs disposant
 d'une Permission d'Administrateur dans les [Options de
-l'article](https://docs.joomla.org/Help4.x:Articles:_Options/fr "Help4.x:Articles: Options/fr").  
+l'article](https://docs.joomla.org/Help4.x:Articles:_Options/fr "Help4.x:Articles: Options/fr").
 This is where you can enter permissions for this article. [Pour en
 savoir
 plus.](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/fr#hierarchylevels "J3.x:Access Control List Tutorial/fr")
@@ -460,15 +450,13 @@ En haut de la page, vous verrez la barre d'outils présentée dans la
   en savoir
   plus.](https://docs.joomla.org/Help4.x:Components_Version_History/fr "Help4.x:Components Version History/fr")
 - **Aperçu**. Opens a modal dialog showing a site view of this article.
-  Requires [shared
-  sessions](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#sharedsessions "Help4.x:Site Global Configuration/en")
+  Requires shared sessions
   or being logged in into the Frontend.
 - **Vérification d'accessibilité**. Ouvre une fenêtre montrant les
   résultats du contrôle d'accessibilité de l'article.
 - **Associations**. With a specific language set for an article, allows
   side by side editing in another language. This icon is shown on
-  [Multilingual
-  Sites](https://docs.joomla.org/Help4.x:Multilingual_Associations/en "Help4.x:Multilingual Associations/en")
+  Multilingual Sites
   only.
 - **Afficher/Masquer l'aide**. Show help text below some options.
 - **Aide**. Ouvre l'écran d'aide.
@@ -477,10 +465,8 @@ En haut de la page, vous verrez la barre d'outils présentée dans la
 
 - There are 2 methods to insert an image into article using the TinyMCE
   editor.
-  1.  The [CMS
-      Content](https://docs.joomla.org/Help4.x:Editors/en#cmscontent "Help4.x:Editors/en")
-      dropdown list provides access to the [Media
-      screen](https://docs.joomla.org/Help4.x:Media/en "Help4.x:Media/en")
+  1.  The CMS Content
+      dropdown list provides access to the Media screen
       that lets you browse image files and upload images.
   2.  The 'Insert' dropdown list is a simple form for which you need to
       know the image url. It is used for external images.
@@ -510,7 +496,7 @@ En haut de la page, vous verrez la barre d'outils présentée dans la
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Ecrans d'aide en relation                                                                                                                                             | Description                                                                                                                                                                                 |
 | [Articles : Paramètres](https://docs.joomla.org/Help4.x:Articles:_Options/fr "Help4.x:Articles: Options/fr")                                                          | Used to set global defaults for menu items that display articles. These default values will be used when 'Use Global' is selected for an option in an Articles menu item.                   |
-| [Articles](https://docs.joomla.org/Help4.x:Articles/fr "Help4.x:Articles/fr")                                                                                         | The Article list is used to find, mark featured, add and edit articles.                                                                                                                     |
+| Articles                                                                                         | The Article list is used to find, mark featured, add and edit articles.                                                                                                                     |
 | <span class="mw-selflink selflink">Articles : Edition</span>                                                                                                          | This is where you can add and edit Articles. You can also select the Category for an Article and indicate whether or not it is Published and if it is selected to appear on the Front Page. |
 | [Articles : Articles épinglés](https://docs.joomla.org/Help4.x:Articles:_Featured/fr "Help4.x:Articles: Featured/fr")                                                 | Used to control which 'Featured Articles' are displayed on the Front Page and in what order they are displayed.                                                                             |
 | [Articles : catégories](https://docs.joomla.org/Help4.x:Articles:_Categories/fr "Help4.x:Articles: Categories/fr")                                                    | The Articles Categories list is used to find, add, and edit articles categories.                                                                                                            |

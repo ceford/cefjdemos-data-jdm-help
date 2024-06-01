@@ -8,7 +8,7 @@ bewerken toestaan.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Systeem **→** Update venster **→** Updatesites** vanuit
+- Selecteer **Systeem → Update venster → Updatesites** vanuit
   het beheermenu. Dan...
   - Selecteer een titellink in de Updatesite kolom.
 

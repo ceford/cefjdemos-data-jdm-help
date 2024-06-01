@@ -11,7 +11,7 @@ tijdzone en taal instellingen).
 
 ## Hoe toegang te krijgen
 
-- Klik rechts bovenaan op het **Gebruikersmenu**  **→**  **Bewerk
+- Klik rechts bovenaan op het **Gebruikersmenu**  →  **Bewerk
   account**
 
 <img

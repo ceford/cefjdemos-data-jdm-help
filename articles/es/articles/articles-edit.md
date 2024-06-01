@@ -14,7 +14,7 @@ proporcionar Metadatos para un artículo específico.
 
 ## Cómo Acceder
 
-**Content **→** Articles**
+**Content → Articles**
 
 Para agregar un artículo:
 
@@ -37,15 +37,14 @@ alt="Help-4x-content-article-manager-add-new-article-es.png" />
 - **Título**. El Título para este artículo.
 - **Alias**. El alias se usará en la URL amigable. Si lo deja en blanco,
   Joomla! lo rellenará con un valor predeterminado obtenido a partir del
-  título. [Learn more.](https://docs.joomla.org/Alias/en "Alias/en")
+  título.
 
 ### Contenido
 
 **Panel izquierdo**
 
 - **Texto del artículo**. This is where you enter the contents of the
-  article. Joomla includes 3 editors, the default [Editor -
-  TinyMCE](https://docs.joomla.org/Help4.x:Editors/en#tinymce "Help4.x:Editors/en")
+  article. Joomla includes 3 editors, the default Editor - TinyMCE
   is shown here.
 
 <img
@@ -58,12 +57,10 @@ alt="Help-4x-Article-Editor-buttons-es.png" />
 El Editor WYSIWYG de Artículos es configurable y puede tener un conjunto
 de botones diferente al que se muestra a continuación. La lista
 desplegable Contenido de CMS proporciona acceso a funciones especiales.
-[Learn
-more.](https://docs.joomla.org/Help4.x:Editors/en#cmscontent "Help4.x:Editors/en")
+
 
 - **Alternar editor**. A Toggle Editor button show below the edit
-  window. This button allows you to toggle between TinyMCE and [Editor -
-  None](https://docs.joomla.org/Help4.x:Editors/en#none "Help4.x:Editors/en").
+  window. This button allows you to toggle between TinyMCE and Editor - None.
 
 **Panel Derecho**
 
@@ -71,18 +68,14 @@ more.](https://docs.joomla.org/Help4.x:Editors/en#cmscontent "Help4.x:Editors/en
   - Publicado: Article is visible in the Frontend of the site.
   - Despublicado: Article is will not be visible to guests in the
     Frontend of the site. It may be visible to logged in users who have
-    [edit state permission](#permissions) for the article.
-  - Archivado: Article will no longer show on menu items [Category
-    Blog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/en "Help4.x:Menu Item: Category Blog/en")
+    edit state permission for the article.
+  - Archivado: Article will no longer show on menu items
     or [Category
     List.](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/en "Help4.x:Menu Item: Category List/en")
   - Movido a la papelera: Article is deleted from the site but still in
-    the database. [Learn
-    more.](https://docs.joomla.org/J4.x:Deleting_an_Article/en "J4.x:Deleting an Article/en")
+    the database.
 - **Categoría**. Selecciona la Categoría para este Artículo.
-- **Destacado**. Select Yes if article will be shown in the [Featured
-  menu
-  item.](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/en "Help4.x:Menu Item: Featured Articles/en")
+- **Destacado**. Select Yes if article will be shown in the Featured menu item
 - **Acceso**. Vea [Niveles de
   Acceso](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/es "Help4.x:Users: Viewing Access Levels/es")
   para este artículo.
@@ -99,14 +92,13 @@ more.](https://docs.joomla.org/Help4.x:Editors/en#cmscontent "Help4.x:Editors/en
   to document information about this article) and does not show in the
   Frontend.
 - **Nota de la versión**. Optional field to identify the version of this
-  article in the article's [Version
-  History](https://docs.joomla.org/Help4.x:Components_Version_History/en "Help4.x:Components Version History/en").
+  article in the article's Version History.
 
 ### Imágenes y Enlaces
 
 **Nota**: Esto puede ser ocultado por un usuario con permisos de
 administrador en el [Artículo:
-Opciones](https://docs.joomla.org/Help4.x:Articles:_Options/es "Help4.x:Articles: Options/es").  
+Opciones](https://docs.joomla.org/Help4.x:Articles:_Options/es "Help4.x:Articles: Options/es").
 This section lets you display images and links in your articles using
 standardised layouts.
 
@@ -122,8 +114,7 @@ alt="Help-4x-screenshot-article-edit-images-links-es.png" />
 - **Imagen de introducción**. Click the Select button to select an image
   to be displayed in a fixed location in the Intro Text of this article.
   This will open a window that allows you to select an image from your
-  images folder. [Learn
-  more.](https://docs.joomla.org/Adding_an_image_to_an_article/en "Adding an image to an article/en")
+  images folder.
 - **Descripción de la imagen (texto alternativo)**. Set the alt
   attribute for this image. A few descriptive words for screen readers.
 - **Sin descripción**. Check in the rare instance of a purely decorative
@@ -134,8 +125,7 @@ alt="Help-4x-screenshot-article-edit-images-links-es.png" />
 - **Clase de la imagen**. Puede añadir cualquier clase CSS para sus
   propias ideas de estilo. Para posición de imagen use por ejemplo
   'float-star' y 'float-end'.
-  <a href="https://cassiopeia.joomla.com/help" class="external text"
-  target="_blank" rel="nofollow noreferrer noopener">Learn more.</a>
+
 - **Subtítulo**. Create a caption for this image.
 
 **Imagen para mostrar un artículo al completo**
@@ -143,8 +133,7 @@ alt="Help-4x-screenshot-article-edit-images-links-es.png" />
 - **Imagen para mostrar un artículo al completo**. Click the Select
   button to select an image to be displayed in a fixed location in the
   Full Text of this article. This will open a window that allows you to
-  select an image from your images folder. [Learn
-  more.](https://docs.joomla.org/Adding_an_image_to_an_article/en "Adding an image to an article/en")
+  select an image from your images folder.
 - **Descripción de la imagen (texto alternativo)**. Set the alt
   attribute for this image. A few descriptive words for screen readers.
 - **Sin descripción**. Check in the rare instance of a purely decorative
@@ -155,8 +144,7 @@ alt="Help-4x-screenshot-article-edit-images-links-es.png" />
 - **Clase de la imagen**. Puede añadir cualquier clase CSS para sus
   propias ideas de estilo. Para posición de imagen use por ejemplo
   'float-start' y 'float-end'.
-  <a href="https://cassiopeia.joomla.com/help" class="external text"
-  target="_blank" rel="nofollow noreferrer noopener">Learn more.</a>
+
 - **Subtítulo**. Enter an optional caption for this image.
 
 **Enlace A**
@@ -182,7 +170,7 @@ alt="Help-4x-screenshot-article-edit-images-links-es.png" />
 
 **Nota**: Esto puede ser ocultado por un usuario con permisos de
 administrador en el [Artículo:
-Opciones](https://docs.joomla.org/Help4.x:Articles:_Options/es "Help4.x:Articles: Options/es").  
+Opciones](https://docs.joomla.org/Help4.x:Articles:_Options/es "Help4.x:Articles: Options/es").
 This is a set of options you can use to control how this article will
 show in the Frontend.
 
@@ -203,8 +191,7 @@ alt="Help-4x-screenshot-article-edit-article-options-es.png" />
   mostrar como un enlace al artículo.
 - **Etiquetas**. Enter tags for this article. Select existing tags by
   entering in the first few letters or create new tags by entering them
-  here. [Learn
-  more.](https://docs.joomla.org/J4.x:How_To_Use_Content_Tags_in_Joomla/en "J4.x:How To Use Content Tags in Joomla/en")
+  here.
 - **Texto de introducción**.
   - Mostrar: The Intro Text of the article will show when you drill down
     to the article.
@@ -234,16 +221,14 @@ alt="Help-4x-screenshot-article-edit-article-options-es.png" />
 **Asociaciones**
 
 - **Mostrar asociaciones**. Show the associated flags or Language Code.
-  [Multilingual
-  only.](https://docs.joomla.org/Help4.x:Multilingual_Associations/en "Help4.x:Multilingual Associations/en")
+  Multilingual only.
 
 **Mostrar autor**
 
 - **Mostrar autor**. Show the author of the Article.
 - **Autor enlazable**. Si el autor del Artículo que se muestra, se va a
   mostrar como un enlace a un diseño de Contacto con el autor.Note: The
-  author must be [set up as a
-  Contact](https://docs.joomla.org/Help4.x:Contacts/en "Help4.x:Contacts/en").
+  author must be set up as a Contact.
 
 **Fecha**
 
@@ -273,8 +258,7 @@ alt="Help-4x-screenshot-article-edit-article-options-es.png" />
 
 ### Campos
 
-This section shows the [custom
-fields](https://docs.joomla.org/Help4.x:Fields/en "Help4.x:Fields/en")
+This section shows the custom fields
 which are defined for this article.
 
 <img
@@ -288,9 +272,9 @@ alt="Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-es.png" />
 
 **Nota**: Esto puede ser ocultado por un usuario con permisos de
 administrador en el [Artículo:
-Opciones](https://docs.joomla.org/Help4.x:Articles:_Options/es "Help4.x:Articles: Options/es").  
+Opciones](https://docs.joomla.org/Help4.x:Articles:_Options/es "Help4.x:Articles: Options/es").
 This section allows you to enter parameters and
-[Metadata](https://docs.joomla.org/Using_The_Meta_Description/en "Using The Meta Description/en")
+Metadata
 for this Article.
 
 <img
@@ -339,13 +323,10 @@ alt="Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-es.png" /
 **Metadatos**
 
 - **Metadescripción**. Un párrafo para ser utilizado como la descripción
-  de la página. [Learn
-  more.](https://docs.joomla.org/Using_The_Meta_Description/en "Using The Meta Description/en")
-- **Metapalabras clave**. Entry for keywords. [Learn
-  more.](https://docs.joomla.org/Using_Keywords/en "Using Keywords/en")
+  de la página.
+- **Metapalabras clave**. Entry for keywords.
 - **Robots**. The instructions for web 'robots' that browse to this
-  page. Set 'Use Global' in [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#robots "Help4.x:Site Global Configuration/en").
+  page. Set 'Use Global' in Global Configuration.
 - **Autor**. Entrada para un nombre de Autor dentro de los metadatos.
 - **Derechos del contenido**. Describe what rights others have to use
   this content.
@@ -354,9 +335,8 @@ alt="Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-es.png" /
 
 **Nota**: Esto puede ser ocultado por un usuario con permisos de
 administrador en el [Artículo:
-Opciones](https://docs.joomla.org/Help4.x:Articles:_Options/es "Help4.x:Articles: Options/es").  
-Tab is shown on [Multilingual
-Sites](https://docs.joomla.org/Help4.x:Multilingual_Associations/en "Help4.x:Multilingual Associations/en")
+Opciones](https://docs.joomla.org/Help4.x:Articles:_Options/es "Help4.x:Articles: Options/es").
+Tab is shown on Multilingual Sites
 only.
 
 <img
@@ -379,19 +359,16 @@ srcset="https://docs.joomla.org/images/thumb/2/28/Help-4x-screenshot-article-edi
 data-file-width="2880" data-file-height="1022" width="600" height="213"
 alt="Help-4x-screenshot-article-edit-configure-edit-screen-es.png" />
 
-- **Opciones de publicación**. If Hide, the [Publishing Options
-  tab](https://docs.joomla.org/Help4.x:Articles:_Edit/en#publishing "Help4.x:Articles: Edit/en")
+- **Opciones de publicación**. If Hide, the Publishing Options tab
   will not show in the Backend. This means that Backend users will not
   be able to edit the fields in this tab. These fields will always be
   set to their default values.
-- **Opciones del artículo**. If Hide, the [Article Options
-  tab](https://docs.joomla.org/Help4.x:Articles:_Edit/en#options "Help4.x:Articles: Edit/en")
+- **Opciones del artículo**. If Hide, the Article Options tab
   will not show in the Backend. This means that Backend users will not
   be able to edit the fields in this tab. These fields will always be
   set to their default values.
 - **Mostrar las 'Opciones de imágenes y enlaces' desde la
-  administración**. If Yes, the [Images and Links
-  tab](https://docs.joomla.org/Help4.x:Articles:_Edit/en#imagesandlinks "Help4.x:Articles: Edit/en")
+  administración**. If Yes, the Images and Links tab
   will show.
 - **Mostrar las 'Opciones de imágenes y enlaces' desde el sitio**. If
   Yes, the Images and Links tab will show in the Frontend article editor
@@ -401,9 +378,8 @@ alt="Help-4x-screenshot-article-edit-configure-edit-screen-es.png" />
 
 **Nota**: Esto puede ser ocultado por un usuario con permisos de
 administrador en el [Artículo:
-Opciones](https://docs.joomla.org/Help4.x:Articles:_Options/es "Help4.x:Articles: Options/es").  
-This is where you can enter permissions for this article. [Learn
-more.](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/en#hierarchylevels "J3.x:Access Control List Tutorial/en")
+Opciones](https://docs.joomla.org/Help4.x:Articles:_Options/es "Help4.x:Articles: Options/es").
+This is where you can enter permissions for this article.
 
 <img
 src="https://docs.joomla.org/images/thumb/6/69/Help-4x-screenshot-article-edit-permissions-es.png/600px-Help-4x-screenshot-article-edit-permissions-es.png"
@@ -421,12 +397,9 @@ To change the permissions for this article, do the following.
     - **Editar estado**. User can change the published state and related
       information for this article.
 3.  Select the desired permission for the action you wish to change.
-    - **Heredado**. Inherited for users in this Group from the [Global
-      Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#permissions "Help4.x:Site Global Configuration/en"),
-      [Articles
-      Options](https://docs.joomla.org/Help4.x:Articles:_Options/en#permissions "Help4.x:Articles: Options/en"),
-      or [Articles
-      Category](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/en#permissions "Help4.x:Articles: Edit Category/en").
+    - **Heredado**. Inherited for users in this Group from the Global Configuration,
+      Articles Options,
+      or Articles Category.
     - **Permitido**. Allowed for users in this Group.Note: If this
       action is Denied at one of the higher levels, the Allowed
       permission here will not take effect. A Denied setting cannot be
@@ -439,7 +412,7 @@ To change the permissions for this article, do the following.
 ## Barra de herramientas
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Guardar**. Saves the article and stays in the current screen.
 - **Guardar y cerrar**. Saves the article and closes the current screen.
@@ -453,18 +426,15 @@ At the top of the page you will see the toolbar shown in the
   screen without saving any modifications you may have made.
 - **Versiones**. Opens the Article Version History window to show any
   prior versions of this article. This allows you to view older versions
-  of this article and, if desired, restore from an older version. [Learn
-  more.](https://docs.joomla.org/Help4.x:Components_Version_History/en "Help4.x:Components Version History/en")
+  of this article and, if desired, restore from an older version.
 - **Previsualizar**. Opens a modal dialog showing a site view of this
-  article. Requires [shared
-  sessions](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#sharedsessions "Help4.x:Site Global Configuration/en")
+  article. Requires shared sessions
   or being logged in into the Frontend.
 - **Comprobación de accesibilidad**. Opens a window showing
   accessibility check results of the article.
 - **Asociaciones**. With a specific language set for an article, allows
   side by side editing in another language. This icon is shown on
-  [Multilingual
-  Sites](https://docs.joomla.org/Help4.x:Multilingual_Associations/en "Help4.x:Multilingual Associations/en")
+  Multilingual Sites
   only.
 - **Alternar la ayuda interna**. Show help text below some options.
 - **Ayuda**. Se abre esta pantalla de ayuda.
@@ -473,18 +443,14 @@ At the top of the page you will see the toolbar shown in the
 
 - There are 2 methods to insert an image into article using the TinyMCE
   editor.
-  1.  The [CMS
-      Content](https://docs.joomla.org/Help4.x:Editors/en#cmscontent "Help4.x:Editors/en")
-      dropdown list provides access to the [Media
-      screen](https://docs.joomla.org/Help4.x:Media/en "Help4.x:Media/en")
+  1.  The CMS Content
+      dropdown list provides access to the Media screen
       that lets you browse image files and upload images.
   2.  The 'Insert' dropdown list is a simple form for which you need to
       know the image url. It is used for external images.
-- [Read
-  more](https://docs.joomla.org/Help4.x:Editors/en#readmore "Help4.x:Editors/en")
+- **Read more**
   breaks allow you to save space on the Front Page or on any blog layout
-  page by showing just the first portion of an Article. [Page
-  break](https://docs.joomla.org/Help4.x:Editors/en#pagebreak "Help4.x:Editors/en")
+  page by showing just the first portion of an Article. Page break
   allow you to provide multi-page navigation for long Articles. You can
   use both on one Article, if desired.For example, you could put a Read
   more break after the first paragraph of a multi-page article, and have

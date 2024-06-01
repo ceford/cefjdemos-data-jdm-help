@@ -8,7 +8,7 @@ s'appliquent à l'ensemble du site.
 
 ## Comment y accéder
 
-- **Système **→** Réglages **→** Configuration globale**
+- **Système → Réglages → Configuration globale**
 
 ## Capture d'écran
 
@@ -62,7 +62,7 @@ d'écran.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/fr "He
 - **Feed Email Address**. The RSS and Atom newsfeeds include the
   author's email address.
   - E-mail de l'auteur : Use each author's email from
-    [Users](https://docs.joomla.org/Help4.x:Users/en "Help4.x:Users/en")
+  User Profile
     in the news feed.
   - E-mail du site : Include the site [From Email](#fromemail) address
     for each article.

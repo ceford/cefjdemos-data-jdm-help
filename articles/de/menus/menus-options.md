@@ -8,7 +8,7 @@ Berechtigungen.
 
 ## Wie darauf zugreifen
 
-- Im Administrator-Menü **Menüs **→** Verwalten** auswählen, dann ...
+- Im Administrator-Menü **Menüs → Verwalten** auswählen, dann ...
   - die Schaltfläche **Optionen** in der Symbolleiste anklicken.
 
 ## Bildschirmfoto

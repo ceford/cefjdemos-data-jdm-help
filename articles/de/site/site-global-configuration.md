@@ -8,7 +8,7 @@ Bildschirm vorgenommenen Einstellungen gelten für die gesamte Website.
 
 ## Wie darauf zugreifen
 
-- **System **→** Einstellungen **→** Konfiguration**
+- **System → Einstellungen → Konfiguration**
 
 ## Bildschirmfoto
 

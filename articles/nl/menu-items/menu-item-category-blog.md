@@ -9,7 +9,7 @@ dezelfde categorie.
 
 ## Hoe toegang te krijgen
 
-**Menu's **→** \[naam van het menu\]**
+**Menu's → \[naam van het menu\]**
 
 Om een menu-item aan te maken:
 
@@ -63,7 +63,7 @@ alt="Help-4x-Menus-Item-Articles-Category-Blog-screen-nl.png" />
 
 De categorie opties controleren de manier waarop informatie van de
 categorie wordt weergegeven. De categorieblog weergaven heeft de
-volgende opties zoals hieronder weergegeven.  
+volgende opties zoals hieronder weergegeven.
 Merk op dat deze opties "Gebruik algemeen" bevatten. Als dit gekozen is,
 dan worden de instellingen van de [Artikelbeheer
 opties](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl")
@@ -139,12 +139,12 @@ alt="Help-4x-Menus-Item-Articles-Category-Blog-blog-layout-subscreen-nl.png" />
     eerste kolom totdat deze vol is, en vervolgens in de volgende kolom,
     bijvoorbeeld:
 
-- 
+-
   - Links naar rechts: Om de artikelen van links naar rechts te tonen
     over de kolommen heen tot de laatste kolom is bereikt, en vervolgens
     weer terug naar de eerste kolom, bijvoorbeeld:
 
-- 
+-
 - **\# Links**. Het aantal artikelen waarvan alleen de titel als link
   getoond moet worden in het 'Links' gedeelte van de pagina. Deze links
   staan een Gebruiker toe om te navigeren naar aanvullende Artikelen als
@@ -221,7 +221,7 @@ alt="Help-4x-Menus-Item-Articles-Category-Blog-blog-layout-subscreen-nl.png" />
 ### Opties
 
 De opties bepalen hoe de artikelen getoond worden in de blog
-menu-item.  
+menu-item.
 Naast het toevoegen van Ja/Nee of Verberg/Toon, hebben de opties de
 volgende instellingen.
 
@@ -340,7 +340,7 @@ inclusief:
   venster](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#rightpanel "Help4.x:Menu Item: New Item/nl")
 - [Linktype](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#linktype "Help4.x:Menu Item: New Item/nl")
 - [Paginaweergave](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#pagedisplay "Help4.x:Menu Item: New Item/nl")
-- [Metadata](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#metadata "Help4.x:Menu Item: New Item/nl")
+- Metadata
 - [Associaties](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#associations "Help4.x:Menu Item: New Item/nl")
 - [Moduletoewijzing](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#moduleassignment "Help4.x:Menu Item: New Item/nl")
 

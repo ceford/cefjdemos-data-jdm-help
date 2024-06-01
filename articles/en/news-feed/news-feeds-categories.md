@@ -7,7 +7,7 @@ entering your site for better organisation.
 
 ## How to Access
 
-- Select **Components **→** News Feeds **→** Categories** from the
+- Select **Components → News Feeds → Categories** from the
   Administrator menu.
 
 ## Screenshot
@@ -16,7 +16,7 @@ entering your site for better organisation.
 src="https://docs.joomla.org/images/5/5c/Help-4x-Components-Newsfeeds-Categories-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="336"
 width="800" height="336"
-alt="Help-4x-Components-Newsfeeds-Categories-screen-en.png" />
+alt="Newsfeeds Categories screen" />
 
 ## Column Headers
 
@@ -37,22 +37,20 @@ Click on the column heading to sort the list by that column's value.
   - Select the Ordering icon <img
     src="https://docs.joomla.org/images/e/ee/Help30-Ordering-colheader-icon.png"
     decoding="async" data-file-width="12" data-file-height="23" width="12"
-    height="23" alt="Help30-Ordering-colheader-icon.png" /> in the Table
+    height="23" alt="Ordering column header icon" /> in the Table
     heading to make it the active ordering item. The ordering icons in
     each row will change from light grey to dark grey and the pointer
     will change to a drag arrow on hover.
   - Select one of the Ordering icons <img
     src="https://docs.joomla.org/images/8/87/Help30-Ordering-colheader-grab-bar-icon.png"
     decoding="async" data-file-width="10" data-file-height="21" width="10"
-    height="21" alt="Help30-Ordering-colheader-grab-bar-icon.png" /> and
+    height="21" alt="Ordering drag icon" /> and
     drag it up or down to change the position of that row in the list.
     The items will display in the new order within the Position.
 - **Status**. The published status of the item.
 - **Title**. The name or title of the feed. Make it as descriptive as
   possible.
-- **Access**. The [viewing Access
-  Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/en")
-  for this item.
+- **Access**. The viewing Access  Level   for this item.
 - **Associations:** Shows which language this item is associated.
 - **Language**. Item language.
 - **ID**. This is a unique identification number for this item assigned
@@ -63,8 +61,10 @@ Click on the column heading to sort the list by that column's value.
 
 ## List Filters
 
-**Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+### Search bar
+
+Near the top of the page you will see the search bar
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -81,10 +81,9 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Special:MyLanguage/Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
-**Filter Options**
+### Filter Options
 
 - **Select Status.** Use the drop-down list box to select the published
   state: Published, Unpublished, Trashed, or All. For Articles, you may
@@ -94,16 +93,13 @@ shown in the [Screenshot](#screenshot) above.
   items to Trashed, the Trashed items will disappear from the screen.
   However, they have not been permanently deleted. To do that you need
   to:
-
-1.  Change the filter to Trashed. The Delete icon will now show in the
+    1.  Change the filter to Trashed. The Delete icon will now show in the
     toolbar.
-2.  Select the items you want to permanently delete.
-3.  Click on the Delete icon.
-
-You can see all items, regardless of their published state, by selecting
-All for this filter. You can also re-publish Trashed items by selecting
-them and clicking on the Publish icon in the toolbar.
-
+    2.  Select the items you want to permanently delete.
+    3.  Click on the Delete icon.
+    You can see all items, regardless of their published state, by selecting
+    All for this filter. You can also re-publish Trashed items by selecting
+    them and clicking on the Publish icon in the toolbar.
 - **Select Access**. Select from the list of available viewing access
   levels.
 - **Select Language**. Select from the list of available languages, if
@@ -114,7 +110,7 @@ them and clicking on the Publish icon in the toolbar.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **New**. Opens the editing screen to create a new category.
 - **Edit**. Opens the editing screen for the selected category. If more
@@ -146,10 +142,3 @@ At the top of the page you will see the toolbar shown in the
 - **Options.** Opens the Options window where settings such as default
   parameters can be edited.
 - **Help**. Opens this help screen.
-
-## Related Information
-
-- To work with News Feeds: [News
-  Feeds](https://docs.joomla.org/Help4.x:News_Feeds "Help4.x:News Feeds")
-- To add new News Feeds Categories: [News Feeds: Edit
-  Category](https://docs.joomla.org/Help4.x:News_Feeds:_Edit_Category "Help4.x:News Feeds: Edit Category")

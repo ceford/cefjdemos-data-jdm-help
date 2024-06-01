@@ -7,7 +7,7 @@ associatie component.
 
 ## Hoe toegang te krijgen
 
-- **Componenten **→** Meertaligheid associaties**
+- **Componenten → Meertaligheid associaties**
   - Klik de **Opties** werkbalk knop.
 
 ## Schermafbeelding

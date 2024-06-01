@@ -61,8 +61,8 @@ plugins**.](https://docs.joomla.org/Chunk4x:List_of_Plugins/nl "Chunk4x:List of 
 
 Vanaf het beheermenu:
 
-- Selecteer **Home Controlepaneel **→** Plugins**. Or..
-- Selecteer **Systeem **→** Beheren venster **→** Plugins**. Dan...
+- Selecteer **Home Controlepaneel → Plugins**. Or..
+- Selecteer **Systeem → Beheren venster → Plugins**. Dan...
   - Selecteer de naam van de plugin uit de lijst met plugins.
 
 ## Schermafbeelding

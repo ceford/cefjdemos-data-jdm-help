@@ -9,9 +9,8 @@ of Categories, such as those for Articles, Contacts, and News Feeds.
 
 ## How to Access
 
-Navigate to the [Banner Category
-Manager](https://docs.joomla.org/Help4.x:Banners:_Categories/en "Help4.x:Banners: Categories/en"),
-**Components **→** Banners **→** Categories**
+Navigate to the Banner Categories list:
+**Components → Banners → Categories**
 
 - **New**. Click on **New** icon in toolbar.
 - **Edit**. To edit an existing Banner Category, click on the
@@ -23,7 +22,7 @@ Manager](https://docs.joomla.org/Help4.x:Banners:_Categories/en "Help4.x:Banners
 src="https://docs.joomla.org/images/f/f8/Help-4x-Components-Banners-Categories-Edit-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="651"
 width="800" height="651"
-alt="Help-4x-Components-Banners-Categories-Edit-screen-en.png" />
+alt="Banners edit category form" />
 
 ## Form Fields
 
@@ -31,19 +30,18 @@ alt="Help-4x-Components-Banners-Categories-Edit-screen-en.png" />
   page, depending on the parameter values you choose.
 - **Alias**. The internal name of the item. Normally, you can leave this
   blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces. [Learn
-  more.](https://docs.joomla.org/Alias/en "Special:MyLanguage/Alias/en")
+  with dashes instead of spaces.
 
-### Details Tab
+### Category tab
 
-**Left panel**
+#### Left Panel
 
 - **Description**. The description for the item. Category, Subcategory
   and Web Link descriptions may be shown on web pages, depending on the
   parameter settings. These descriptions are entered using the same
   editor that is used for Articles.
 
-**Right Panel**
+#### Right Panel
 
 - **Parent**. The item (category, menu item, and so on) that is the
   parent of the item being edited.
@@ -55,12 +53,10 @@ alt="Help-4x-Components-Banners-Categories-Edit-screen-en.png" />
   - *Archived:* Item will no longer show on blog or list menu items.
   - *Trashed:* Item is deleted from the site but still in the database.
     It can be permanently deleted from the database with the Empty Trash
-    function in Toolbar (see also [Deleting an
-    Article](https://docs.joomla.org/Deleting_an_Article/en "Special:MyLanguage/Deleting an Article/en")).
+    function in Toolbar (see also Deleting an Article.
 - **Access**. Select the viewing access level for this item from the
   list box. The access levels that display will depend on the what has
-  been set up for this site in [Users → Access
-  Levels](https://docs.joomla.org/Help40:Users:_Viewing_Access_Levels/en "Special:MyLanguage/Help40:Users: Viewing Access Levels/en").
+  been set up for this site in Users → Access Levels.
   Note that access levels are separate from ACL permissions. Access
   levels control what a user can see. ACL permissions control what
   actions a user can perform.
@@ -73,8 +69,7 @@ alt="Help-4x-Components-Banners-Categories-Edit-screen-en.png" />
   example, to document information about this item) and does not show in
   the Frontend of the site.
 - **Version Note**. Optional field to identify this version of the item
-  in the item's [Version
-  History](https://docs.joomla.org/Help40:Components_Version_History/en "Special:MyLanguage/Help40:Components Version History/en")
+  in the item's Version History
   window.
 
 ## Options Tab
@@ -91,7 +86,7 @@ alt="Help-4x-Components-Banners-Categories-Edit-screen-en.png" />
 src="https://docs.joomla.org/images/4/46/Help-4x-Banners-Categories-Edit-screen-publish-options-tab-en.png"
 decoding="async" data-file-width="600" data-file-height="443"
 width="600" height="443"
-alt="Help-4x-Banners-Categories-Edit-screen-publish-options-tab-en.png" />
+alt="Banners categories edit publishing tab" />
 
 ### Publishing
 
@@ -127,15 +122,10 @@ The grayed out fields are for information only and may not be edited.
     this, you would:
     - Add the keywords 'dog' and 'cat' to the appropriate Articles.
     - Add the Tags 'dog' and 'cat' to the appropriate Banners in the
-      [Banner Manager
-      New/Edit](https://docs.joomla.org/Help4.x:Banners:_Edit/en "Help4.x:Banners: Edit/en")
-      screen.
+      Banner New/Edit screen.
     - Set the Banner module Parameter 'Search By Tags' to 'Yes in the
-      [Banner Module
-      Edit](https://docs.joomla.org/Help4.x:Site_Modules:_Banners/en "Help4.x:Site Modules: Banners/en")
-      screen.
-  - For articles only, in combination with the [Related
-    Articles](https://docs.joomla.org/Help4.x:Site_Modules:_Articles_-_Related/en "Help4.x:Site Modules: Articles - Related/en")
+    Banner Module Edit page.
+  - For articles only, in combination with the Related Articles
     module, to display Articles that share at least one keyword in
     common. For example, if the current Article displayed has the
     keywords "cats, dogs, monkeys", any other Articles with at least one
@@ -166,7 +156,7 @@ src="https://docs.joomla.org/images/thumb/e/e3/Help-4x-Banners-Categories-Edit-s
 decoding="async"
 srcset="https://docs.joomla.org/images/e/e3/Help-4x-Banners-Categories-Edit-screen-permissions-tab-en.png 1.5x"
 data-file-width="800" data-file-height="406" width="600" height="305"
-alt="Help-4x-Banners-Categories-Edit-screen-permissions-tab-en.png" />
+alt="Banners categories edit permissions tab" />
 
 To change the permissions for this extension, do the following.
 
@@ -199,7 +189,7 @@ To change the permissions for this extension, do the following.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Save**. Saves the item and stays in the current screen.
 - **Save & Close**. Saves the item and closes the current screen.
@@ -215,21 +205,10 @@ At the top of the page you will see the toolbar shown in the
   toolbar icon is not shown if you are creating a new item.
 - **Versions**. Opens the Item Version History window to show any prior
   versions of this item. This allows you to view older versions of this
-  item and, if desired, restore from an older version. See [Version
-  History](https://docs.joomla.org/Help40:Components_Version_History/en "Special:MyLanguage/Help40:Components Version History/en")
+  item and, if desired, restore from an older version. See Version History
   for more information.
 - **Associations**. With a specific language set for an item, allows
   side by side editing in another language. This toolbar icon is shown
-  on [Multilingual
-  Sites](https://docs.joomla.org/Help4.x:Multilingual_Associations/en "Special:MyLanguage/Help4.x:Multilingual Associations/en")
+  on Multilingual Sites
   only.
 - **Help**. Opens this help screen.
-
-## Related Information
-
-- To create or edit Banners: [Banner Category Manager -
-  New/Edit](https://docs.joomla.org/Help4.x:Banners:_Categories/en "Help4.x:Banners: Categories/en")
-- To work with Banner Clients: [Banner Client
-  Manager](https://docs.joomla.org/Help4.x:Banners:_Clients/en "Help4.x:Banners: Clients/en")
-- To place Banners on Pages: [Module
-  Manager](https://docs.joomla.org/Help4.x:Modules/en "Help4.x:Modules/en")

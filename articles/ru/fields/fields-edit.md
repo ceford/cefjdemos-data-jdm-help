@@ -9,7 +9,7 @@ The helpscreen show as example Users.
 
 ## Как открыть
 
-**Пользователи **→** Поля**
+**Пользователи → Поля**
 
 To add a Field:
 
@@ -34,13 +34,12 @@ alt="Help-4x-Fields-Edit-screen-ru.png" />
 
 ### Подробности
 
-**Left Panel**
+#### Left Panel
 
 Parameters for all fields:
 
 - **Тип** If you create a field you can choose one of the 16 field
-  types. When you save the field this type is permanent. [Learn
-  more.](https://docs.joomla.org/J3.x:Adding_custom_fields/Calendar_Field/en "J3.x:Adding custom fields/Calendar Field/en")
+  types. When you save the field this type is permanent.
 - **Имя**. The name will be used to identify the field. Leave this blank
   and Joomla will fill in a default value from the title.
 - **Название**. Use a descriptive text of the field for the label of the
@@ -55,7 +54,7 @@ Parameters for all fields:
   has to be filled before submitting an article or a contact or a third
   party component that supports fields.
 
-**Right Panel**
+#### Right Panel
 
 - **Состояние**. The published status of this field.
   - Опубликовано: The field is visible while editing an article or an
@@ -64,22 +63,19 @@ Parameters for all fields:
     editing an article or an contact.
   - В архиве: The field will no longer show on edition an article or an
     contact. You can open it in
-    [Fields](https://docs.joomla.org/Help4.x:Fields/en#selectstatus "Help4.x:Fields/en")
+    Fields
     when you set the filter to archived.
   - В корзине: The field is deleted but still in the database. It can be
     permanently deleted from the database in
-    [Fields](https://docs.joomla.org/Help4.x:Fields/en#selectstatus "Help4.x:Fields/en")
-    with the Empty Trash function. [Learn
-    more.](https://docs.joomla.org/J4.x:Deleting_an_Article/en "J4.x:Deleting an Article/en")
+    Fields
+    with the Empty Trash function.
 - **Группа поля**. You can assign a field to one or more field groups.
 - **Категория**. You can assign a field to one or more categories. Note
   that the default 'All' does not include 'uncategorised' articles.
 - **Доступ**. Select the viewing access level for this field. The access
-  levels depend on what has been set up in [Users: Access
-  Levels](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Help4.x:Users: Viewing Access Levels/en").
+  levels depend on what has been set up in Users: Access Levels.
 - **Язык**. Select the language for this field. If you are not using the
-  [multi-language
-  feature](https://docs.joomla.org/Help4.x:Extensions:_Languages/en "Help4.x:Extensions: Languages/en")
+  multi-language feature
   of Joomla, keep the default of 'All'.
 - **Примечание**. An optional field to make your personal notes for the
   field.
@@ -180,8 +176,7 @@ alt="Help-4x-Fields-Edit-publishing-subscreen-ru.png" />
 
 This is where you can enter permissions for this field.
 
-[Learn
-more.](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/en#hierarchylevels "J3.x:Access Control List Tutorial/en")
+
 
 <img
 src="https://docs.joomla.org/images/thumb/1/1c/Help-4x-Fields-Edit-permissions-subscreen-ru.png/600px-Help-4x-Fields-Edit-permissions-subscreen-ru.png"
@@ -200,8 +195,7 @@ To change the permissions for this field, do the following.
       information for this field.
     - **Edit Custom Field Value.** Users can edit the field value.
 3.  Select the desired permission for the action you wish to change.
-    - **Inherited**. Inherited for users in this Group from the [Global
-      Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#permissions "Help4.x:Site Global Configuration/en"),
+    - **Inherited**. Inherited for users in this Group from the Global Configuration,
       parent group, or category.
     - **Allowed**. Allowed for users in this Group.Note: If this action
       is Denied at one of the higher levels, the Allowed permission here
@@ -214,7 +208,7 @@ To change the permissions for this field, do the following.
 ## Панель инструментов
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Save**. Saves the field and stays in the current screen.
 - **Save & Close**. Saves the field and closes the current screen.

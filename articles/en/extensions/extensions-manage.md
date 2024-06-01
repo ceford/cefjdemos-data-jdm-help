@@ -7,7 +7,7 @@ and Unpublish it, or to uninstall extensions no longer required.
 
 ## How to Access
 
-- Select **System **→** Manage Panel **→** Extensions** from the
+- Select **System → Manage Panel → Extensions** from the
   Administrator menus.
 
 ## Screenshot
@@ -16,7 +16,7 @@ and Unpublish it, or to uninstall extensions no longer required.
 src="https://docs.joomla.org/images/7/70/Help-4x-Extensions-Manage-Manage-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="511"
 width="800" height="511"
-alt="Help-4x-Extensions-Manage-Manage-screen-en.png" />
+alt="Extensions Manage screen" />
 
 ## Column Headers
 
@@ -55,7 +55,7 @@ on a column heading to sort the list by that column's value.
 ### List Filters
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -72,12 +72,11 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
 ### Filter by Location, Status, Type and Folder
 
-**Location**
+#### Location
 
 - **-Select Location-.** Select an extension client from the drop-down
   list box of available locations.
@@ -88,7 +87,7 @@ shown in the [Screenshot](#screenshot) above.
   would only directly interact with these extensions through the
   administrator web interface.
 
-**Status**
+#### Status
 
 - **-Select Status-.** Select the status of Extensions from the
   drop-down list box.
@@ -99,12 +98,12 @@ shown in the [Screenshot](#screenshot) above.
 - **Unprotected.** Installed extensions that are unprotected. Extensions
   of this type can be uninstalled, enabled or disabled.
 
-**Extension Type**
+#### Extension Type
 
 - **-Select Type-.** Select the extension type from the drop-down list
   box of available types.
 
-**Folder**
+#### Folder
 
 - **-Select Folder-.** Select a plug-in folder from the drop-down list
   box of available folders. There is a separate folder for each type of
@@ -114,7 +113,7 @@ shown in the [Screenshot](#screenshot) above.
 
 **Page Controls**. When the number of extension(s) is more than one
 page, you will see a page control bar near the bottom of the page shown
-in the [Screenshot](#screenshot) above. The current page number being
+in the Screenshot above. The current page number being
 viewed has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -126,7 +125,7 @@ viewed has a dark colour background.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Enable**. Makes the selected item available for use on your website.
 - **Disable**. Makes the selected extension(s) unavailable for use on

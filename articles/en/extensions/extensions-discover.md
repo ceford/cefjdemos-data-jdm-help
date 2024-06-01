@@ -36,7 +36,7 @@ steps:
 
 ## How to Access
 
-- Select **System **→** Install Panel **→** Discover** from the
+- Select **System → Install Panel → Discover** from the
   Administrator menu.
 
 ## Screenshot
@@ -45,7 +45,7 @@ steps:
 src="https://docs.joomla.org/images/6/67/Help-4x-Extensions-Extension-Manager-Discover-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="252"
 width="800" height="252"
-alt="Help-4x-Extensions-Extension-Manager-Discover-screen-en.png" />
+alt="Extensions Discover screen" />
 
 ## Column Headers
 
@@ -76,7 +76,7 @@ alt="Help-4x-Extensions-Extension-Manager-Discover-screen-en.png" />
 ## List Filters
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -93,10 +93,9 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
-**Filter Options**
+### Filter Options
 
 You can use one of the available filters or any combination of them to
 limit the number of extensions displayed to just the extensions which
@@ -112,7 +111,7 @@ match your filter parameters.
 
 **Page Controls**. When the number of items is more than one page, you
 will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -124,7 +123,7 @@ has a dark colour background.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Install**. Installs the selected extension.
 - **Discover**. Searches the Joomla! installation directories for
@@ -142,59 +141,3 @@ At the top of the page you will see the toolbar shown in the
   then use this screen to discover all of them in one operation. You can
   then install all of the extensions in one step by selecting all of
   them and pressing the **Install** button in the toolbar.
-
-## Related Information
-
-- If you install a Component Extension, it will be listed as a new Menu
-  Item in the *Components* menu.
-- You can assign a Menu Item to an installed Component Extension in the
-  [Menu Item
-  Manager](https://docs.joomla.org/Help4.x:Menus:_Items/en "Help4.x:Menus: Items/en")
-  by clicking the *New* toolbar button. The new Component will show in
-  the Internal Link list of Menu Item Types.
-- If you install a Module Extension, it will be added to the list of the
-  Modules in the [Module
-  Manager](https://docs.joomla.org/Help4.x:Modules/en "Help4.x:Modules/en"),
-  where you can enable/disable it. You can also customize it's
-  parameters in the [Module
-  Edit](https://docs.joomla.org/Help4.x:Extensions_Module_Manager_Edit/en "Help4.x:Extensions Module Manager Edit/en")
-  screen.
-- An installed Plugin Extension will be added to the list of the [Plugin
-  Manager](https://docs.joomla.org/Help4.x:Plugins/en "Help4.x:Plugins/en"),
-  where you can enable/disable it. You can also customize its parameters
-  in the [Plugin
-  Edit](https://docs.joomla.org/Help4.x:Plugins:_Name_of_Plugin/en "Help4.x:Plugins: Name of Plugin/en")
-  screen.
-- An installed Template Extension will be added to the Site or
-  Administrator list of the [Template
-  Manager](https://docs.joomla.org/Help4.x:Templates:_Styles/en "Help4.x:Templates: Styles/en")
-  where you can assign it to all of the pages or to the selected ones.
-  You can also customize its parameters, edit the HTML or CSS source, or
-  preview the available Module positions.
-- An installed Language Extension will be added to the Site or
-  Administrator list of the [Language
-  Manager](https://docs.joomla.org/Help4.x:Languages:_Installed/en "Help4.x:Languages: Installed/en"),
-  depending on the client attribute of the Extension. This screen let's
-  you assign it as the default language, if desired.
-
-**Related Screens**
-
-- **Install.** Links to the [Install
-  Screen](https://docs.joomla.org/Help4.x:Extensions:_Install/en "Help4.x:Extensions: Install/en").
-- **Update.** Links to the [Update
-  Screen](https://docs.joomla.org/Help4.x:Extensions:_Update/en "Help4.x:Extensions: Update/en").
-- **Manage.** Links to the [Manage
-  Screen](https://docs.joomla.org/Help4.x:Extensions:_Manage/en "Help4.x:Extensions: Manage/en").
-- **Discover.** Links to the <span class="mw-selflink selflink">Discover
-  Screen</span>.
-- **Database.** Links to the [Database
-  Screen](https://docs.joomla.org/Help4.x:Information:_Database/en "Help4.x:Information: Database/en").
-- **Warnings.** Links to the [Warnings
-  Screen](https://docs.joomla.org/Help4.x:Information:_Warnings/en "Help4.x:Information: Warnings/en").
-- **Install Languages.** Links to the [Install Languages
-  Screen](https://docs.joomla.org/Help4.x:Extensions_Extension_Manager_Languages/en "Help4.x:Extensions Extension Manager Languages/en").
-- **Update Sites.** Links to the <a
-  href="https://docs.joomla.org/index.php?title=Help4.x:Extensions_Extension_Manager_Update_Sites/en&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Help4.x:Extensions Extension Manager Update Sites/en (page does not exist)">Update
-  Sites Screen</a>.

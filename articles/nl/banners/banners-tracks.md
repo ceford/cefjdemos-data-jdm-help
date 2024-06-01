@@ -6,7 +6,7 @@ Wordt gebruikt om een bestaande lijst met volg-informatie te bekijken.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Componenten **→** Advertenties **→** Volgen**
+- Selecteer **Componenten → Advertenties → Volgen**
 
 ## Schermafbeelding
 
@@ -34,7 +34,7 @@ Bovenaan de pagina ziet u de filterbalk zoals in de afbeelding
 hierboven. De functies zijn:
 
 **Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande [Screenshot](#screenshot).
+bovenstaande Screenshot.
 
 - **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
   zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat
@@ -57,7 +57,7 @@ bovenstaande [Screenshot](#screenshot).
   categorieën.
 - **Selecteer client**. Selecteer uit de lijst met beschikbare clients.
 
-  
+
 **Filter op type.** Laat u alleen items met een bepaald type zien. De
 keuzelijst toont de gedefinieerde types.
 
@@ -82,7 +82,7 @@ gekoppeld zijn.
 
 **Paginabesturing** Als het aantal items meer is dan een pagina, zie je
 een paginabesturing bij de onderkant van de pagina zoals in bovenstaande
-[Screenshot](#screenshot). Het huidige paginanummer heeft een donkere
+Screenshot. Het huidige paginanummer heeft een donkere
 achtergrond.
 
 - **Begin**. Klik om naar de eerste pagina te gaan.

@@ -6,7 +6,7 @@ Standaardrechten gebruikt voor alle cache van de cache component.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Systeem **→** Wis cache** scherm vanuit het beheermenu.
+- Selecteer **Systeem → Wis cache** scherm vanuit het beheermenu.
   Dan...
 - Klik op de **Opties** knop rechtsboven aan het scherm. Dit opent het
   **Cache: Rechten scherm**.

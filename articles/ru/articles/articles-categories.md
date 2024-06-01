@@ -12,7 +12,7 @@ child Category.
 
 ## Как открыть
 
-**Панель управления **→** Site **→** Категории**
+**Панель управления → Site → Категории**
 
 To add a Category:
 
@@ -59,12 +59,9 @@ alt="Help-4x-Content-Categories-screen-ru.png" />
 - **Icons**. Counts of number of Published, Unpublished, Archived and
   Trashed Articles in each Category. Click on a number to get a list of
   the categories.
-- **Доступ**. The viewing [Access
-  Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Help4.x:Users: Viewing Access Levels/en")
-  for this category.
+- **Доступ**. The viewing Access level  for this category.
 - **Связи**. Shows the associated categories. Click on the Language Code
-  to open the category. [Multilingual
-  only.](https://docs.joomla.org/Help4.x:Multilingual_Associations/en "Help4.x:Multilingual Associations/en")
+  to open the category. Multilingual only.
 - **Язык**. Categories language, default is 'All'.
 - **ID**. A unique identification number for this category, you cannot
   change this number.
@@ -72,7 +69,7 @@ alt="Help-4x-Content-Categories-screen-ru.png" />
 ## List Filters
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -89,13 +86,12 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of categories in a list.
   Select from the dropdown list to change the number displayed.The
-  default for a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  default for a site is '20' but this may be changed in the Global Configuration.
 
 ### Параметры поиска
 
 Near the top of the page you will see the filter bar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Выбор состояния**. Select from Trashed / Unpublished / Published /
   Archived / All.
@@ -109,7 +105,7 @@ Near the top of the page you will see the filter bar shown in the
 
 **Page Controls**. When the number of categories is more than one page,
 you will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -121,7 +117,7 @@ has a dark colour background.
 ## Панель инструментов
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Создать**. Opens the editing screen to create a new category.
 - **Действия**. Reveals a list of actions for selected categories. Check
@@ -131,18 +127,15 @@ At the top of the page you will see the toolbar shown in the
   - **Снять с публикации**. Makes the selected categories unavailable to
     visitors to your website.
   - **В архив**. Changes the status of the selected categories to
-    indicate that they are archived. [Learn
-    more.](https://docs.joomla.org/J4.x:How_to_Archive_an_Article/en "J4.x:How to Archive an Article/en")
+    indicate that they are archived.
   - **Разблокировать**. Checks-in the selected categories.
   - **В корзину**. Changes the status of the selected categories to
-    indicate that they are trashed. [Learn
-    more.](https://docs.joomla.org/J4.x:Deleting_an_Article/en "J4.x:Deleting an Article/en")
+    indicate that they are trashed.
   - **Пакетная обработка**. Batch processes the selected categories.
 - **Перестроить**. Reconstructs and refreshes the categories table.
   Normally, you do not need to rebuild this table. This function is
   provided in case the data in the table becomes corrupted.
-- **Настройки**. Opens [Articles:
-  Options](https://docs.joomla.org/Help4.x:Articles:_Options/en "Help4.x:Articles: Options/en").
+- **Настройки**. Opens Articles: Options.
 - **Справка**. Opens this help screen.
 
 ## Пакетная обработка

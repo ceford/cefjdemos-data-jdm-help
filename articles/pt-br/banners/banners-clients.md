@@ -46,13 +46,13 @@ coluna.
 - **Publicado**:
   <img src="https://docs.joomla.org/images/1/10/Help-4x-icon-tick.png"
   decoding="async" data-file-width="27" data-file-height="20" width="27"
-  height="20" alt="Help-4x-icon-tick.png" /> a quantidade de itens
+  height="20" alt="tick icon" /> a quantidade de itens
   publicados. Acione o (clique no) botão numerado para mostrar uma lista
   apenas desses itens.
 - **Despublicado**:
   <img src="https://docs.joomla.org/images/c/c9/Help-4x-icon-cross.png"
   decoding="async" data-file-width="21" data-file-height="20" width="21"
-  height="20" alt="Help-4x-icon-cross.png" /> A quantidade de itens
+  height="20" alt="cross icon" /> A quantidade de itens
   despublicados. Clique no botão numerado para mostrar uma lista apenas
   desses itens.
 - **Arquivado**: Se e quantos itens foram arquivados. Você vê os itens
@@ -60,7 +60,7 @@ coluna.
 - **Lixeira**
   <img src="https://docs.joomla.org/images/5/59/Help-4x-icon-bin.png"
   decoding="async" data-file-width="18" data-file-height="20" width="18"
-  height="20" alt="Help-4x-icon-bin.png" /> A quantidade de itens na
+  height="20" alt="bin icon" /> A quantidade de itens na
   lixeira. Acione o (clique no) botão numerado para mostrar uma lista
   apenas desses itens.
 - **Tipo da compra**: O tipo da compra do banner do cliente. Isso é

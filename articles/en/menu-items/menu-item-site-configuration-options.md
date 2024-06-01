@@ -14,14 +14,11 @@ site development.
 
 To create a new **Display Site Configuration** menu item type:
 
-- Select **Menus **→** \[name of the menu\]** from the from the
-  Administrator menu (for example, **Menus **→** Main Menu**). Then...
+- Select **Menus → \[name of the menu\]** from the from the
+  Administrator menu (for example, **Menus → Main Menu**). Then...
   - Click the New button in the Toolbar. Then...
-  - Select the Menu Item Type Select button. <img
-    src="https://docs.joomla.org/images/0/0a/Help-4x-Menu-Item-Type-Select-Button-en.png"
-    decoding="async" data-file-width="96" data-file-height="45" width="96"
-    height="45" alt="Help-4x-Menu-Item-Type-Select-Button-en.png" />
-  - In the modal dialog select the Configuration Manager item to open a
+  - Select the Menu Item Type Select button.
+  - In the modal dialog select the Configuration item to open a
     list and then select the **Site Configuration Options** item..
 
 To edit an existing Site Configuration Options menu item: Select its
@@ -33,19 +30,18 @@ Title in the Menus: Items list.
 src="https://docs.joomla.org/images/9/94/Help-4x-Menus-Menu-Display_Configuration-screenshot-en.png"
 decoding="async" data-file-width="800" data-file-height="812"
 width="800" height="812"
-alt="Help-4x-Menus-Menu-Display Configuration-screenshot-en.png" />
+alt="Menu Site Configuration options screenshot" />
 
 ## Form Fields
 
 - **Menu Title:** The title that will display for this menu item.
 - **Alias**. The internal name of the item. Normally, you can leave this
   blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces. [Learn
-  more.](https://docs.joomla.org/Alias/en "Special:MyLanguage/Alias/en")
+  with dashes instead of spaces.
 
 ### Details Tab
 
-**Left Panel**
+#### Left Panel
 
 - **Menu Item Type**. The Menu Item Type selected when this menu item
   was created. This can be one of the core menu item types or a menu
@@ -55,7 +51,7 @@ alt="Help-4x-Menus-Menu-Display Configuration-screenshot-en.png" />
 - **Target Window.** Select from the drop-down list.
 - **Template Style.** Select from the drop-down list.
 
-**Right Panel**
+#### Right Panel
 
 - **Menu**. Shows which menu the link will appear in.
 - **Parent Item.** The parent menu item for this menu item. Used to
@@ -70,14 +66,14 @@ alt="Help-4x-Menus-Menu-Display Configuration-screenshot-en.png" />
   - Select the Ordering icon <img
     src="https://docs.joomla.org/images/e/ee/Help30-Ordering-colheader-icon.png"
     decoding="async" data-file-width="12" data-file-height="23" width="12"
-    height="23" alt="Help30-Ordering-colheader-icon.png" /> in the Table
+    height="23" alt="Ordering column header icon" /> in the Table
     heading to make it the active ordering item. The ordering icons in
     each row will change from light grey to dark grey and the pointer
     will change to a drag arrow on hover.
   - Select one of the Ordering icons <img
     src="https://docs.joomla.org/images/8/87/Help30-Ordering-colheader-grab-bar-icon.png"
     decoding="async" data-file-width="10" data-file-height="21" width="10"
-    height="21" alt="Help30-Ordering-colheader-grab-bar-icon.png" /> and
+    height="21" alt="Ordering drag icon" /> and
     drag it up or down to change the position of that row in the list.
     The items will display in the new order within the Position.
 - **Status**. The published status of the item.
@@ -90,14 +86,11 @@ alt="Help-4x-Menus-Menu-Display Configuration-screenshot-en.png" />
 - **Default Page**. If Yes, this menu item is the default or home page
   for the site. There must be exactly one menu item set as the default
   page. You can change the default page in two ways:
-  1.  Click on the Home column of the desired menu item in the [Menus:
-      Items](https://docs.joomla.org/Help4.x:Menus:_Items/en "Special:MyLanguage/Help4.x:Menus: Items/en")
+  1.  Click on the Home column of the desired menu item in the Menus: Items
       screen.
   2.  Open the menu item for the new default page and change the Default
       Page setting to Yes.
-- **Access**. The [viewing Access
-  Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/en")
-  for this item.
+- **Access**. The viewing Access  Level   for this item.
 - **Language**. Item language.
 - **Note**. This is normally for the site administrator's use (for
   example, to document information about this item) and does not show in
@@ -105,16 +98,14 @@ alt="Help-4x-Menus-Menu-Display Configuration-screenshot-en.png" />
 
 ### Common Options
 
-See [Menus: Edit/New
-Item](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en "Help4.x:Menu Item: New Item/en")
-for help on fields common to all Menu Item types located in the
-following Tabs:
+See Menus: New Item for help on fields common to all Menu Item types, including:
 
-- **Link Type**
-- **Page Display**
-- **Metadata**
-- **Associations**
-- **Module Assignment**
+- Right Panel
+- Link Type
+- Page Display
+- Metadata
+- Associations
+- Module Assignment
 
 ## Toolbar
 
@@ -140,4 +131,4 @@ above. The functions are:
 src="https://docs.joomla.org/images/1/16/Help-4x-Menus-Menu-Display_Configuration-front-end-screenshot-en.png"
 decoding="async" data-file-width="588" data-file-height="843"
 width="588" height="843"
-alt="Help-4x-Menus-Menu-Display Configuration-front-end-screenshot-en.png" />
+alt="Menu Site Configuration options frontend screenshot" />

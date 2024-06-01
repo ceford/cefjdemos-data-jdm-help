@@ -7,7 +7,7 @@ bepaalde gebruiker van alle items in uw Joomla! installatie.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Gebruikers **→** Beheren** vanuit het beheermenu. Dan...
+- Selecteer **Gebruikers → Beheren** vanuit het beheermenu. Dan...
   - Selecteer het icoon in de **Rechten** kolom voor een specifieke
     gebruiker.
 
@@ -78,7 +78,7 @@ hierboven. De functies zijn:
 
 **Paginabesturing** Als het aantal items meer is dan een pagina, zie je
 een paginabesturing bij de onderkant van de pagina zoals in bovenstaande
-[Screenshot](#screenshot). Het huidige paginanummer heeft een donkere
+Screenshot. Het huidige paginanummer heeft een donkere
 achtergrond.
 
 - **Begin**. Klik om naar de eerste pagina te gaan.

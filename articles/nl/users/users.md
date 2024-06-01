@@ -7,7 +7,7 @@ hen.
 
 ## Hoe toegang te krijgen
 
-**Controlepaneel **→** Site **→** Gebruikers**
+**Controlepaneel → Site → Gebruikers**
 
 To add a User:
 
@@ -59,7 +59,7 @@ alt="Help-4x-Users-screen-nl.png" />
 ## Lijst filters
 
 **Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande [Screenshot](#screenshot).
+bovenstaande Screenshot.
 
 - **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
   zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat
@@ -109,7 +109,7 @@ Bovenaan de pagina ziet u de filterbalk zoals in de
 
 **Paginabesturing**. When the number of articles is more than one page,
 you will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Begin**. Klik om naar de eerste pagina te gaan.

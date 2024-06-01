@@ -11,7 +11,7 @@ erlaubt.
 
 ## Wie darauf zugreifen
 
-- Select **Users **→** Groups** from the Administrator menu. Then...
+- Select **Users → Groups** from the Administrator menu. Then...
   - Select the **New** button from the Toolbar. Or...
   - Select a link from the **Group Title** column to edit an existing
     group.
@@ -73,10 +73,3 @@ functions are:
   can save work by making the new group a child of the existing group.
   That way, you only need to change the permissions that are different
   for the new group.
-
-## Related information
-
-- [Users:
-  Groups](https://docs.joomla.org/Help4.x:Users:_Groups/en "Help4.x:Users: Groups/en")
-- [ACL Tutorial for Joomla!
-  3.x](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/en "J3.x:Access Control List Tutorial/en")

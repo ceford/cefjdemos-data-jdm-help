@@ -11,7 +11,7 @@ Global Check-in releases all such items.
 
 ## How to access
 
-- Select **System **→** Maintenance Panel **→** Global Check-in** from
+- Select **System → Maintenance Panel → Global Check-in** from
   the Administrator menu.
 
 ## Screenshot
@@ -37,7 +37,7 @@ alt="Help-4x-system-maintenance-global-check-in-en.png" />
 ## List Filters
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -54,8 +54,7 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Special:MyLanguage/Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
 **Filter Options**
 
@@ -64,7 +63,7 @@ shown in the [Screenshot](#screenshot) above.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Check-In**. Checks-in the selected items. Works with one or multiple
   items selected.
@@ -78,7 +77,3 @@ At the top of the page you will see the toolbar shown in the
   check-in. When a Global Check-in is done, *all* items are checked in,
   including those currently being edited.
 
-## Related Information
-
-- To see all logged in users:
-  [Users](https://docs.joomla.org/Help4.x:Users/en "Help4.x:Users/en")

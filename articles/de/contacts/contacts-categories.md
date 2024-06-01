@@ -8,7 +8,7 @@ Kategorietypen, wie z.B. denen für Artikel, Banner, Newsfeeds usw.
 
 ## Wie darauf zugreifen
 
-- Im Administrator-Menü **Komponenten **→** Kontakte **→** Kategorien**
+- Im Administrator-Menü **Komponenten → Kontakte → Kategorien**
   anklicken.
 
 ## Bildschirmfoto
@@ -43,7 +43,7 @@ sortieren.
   - Das Reihenfolge-Symbol <img
     src="https://docs.joomla.org/images/e/ee/Help30-Ordering-colheader-icon.png"
     decoding="async" data-file-width="12" data-file-height="23" width="12"
-    height="23" alt="Help30-Ordering-colheader-icon.png" /> in der
+    height="23" alt="Ordering column header icon" /> in der
     Tabellenüberschrift anklicken, um diese Spalte zur aktiven
     Sortierung zu machen. Die Ordnungssymbole in jeder Zeile ändern sich
     von hellgrau zu dunkelgrau, und der Mauszeiger verwandelt sich beim
@@ -51,7 +51,7 @@ sortieren.
   - Eines der Reihenfolge-Symbole <img
     src="https://docs.joomla.org/images/8/87/Help30-Ordering-colheader-grab-bar-icon.png"
     decoding="async" data-file-width="10" data-file-height="21" width="10"
-    height="21" alt="Help30-Ordering-colheader-grab-bar-icon.png" />
+    height="21" alt="Ordering drag icon" />
     wählen und es nach oben oder unten ziehen, um die Position dieser
     Zeile in der Liste zu ändern. Die Einträge werden in der neuen
     Reihenfolge innerhalb der Position angezeigt.
@@ -64,13 +64,13 @@ sortieren.
 - **Veröffentlicht:**
   <img src="https://docs.joomla.org/images/1/10/Help-4x-icon-tick.png"
   decoding="async" data-file-width="27" data-file-height="20" width="27"
-  height="20" alt="Help-4x-icon-tick.png" /> Die Anzahl der
+  height="20" alt="tick icon" /> Die Anzahl der
   veröffentlichten Artikel. Ein Klick auf die Ziffer zeigt eine Liste
   mit genau diesen Einträgen an.
 - **Versteckt:**
   <img src="https://docs.joomla.org/images/c/c9/Help-4x-icon-cross.png"
   decoding="async" data-file-width="21" data-file-height="20" width="21"
-  height="20" alt="Help-4x-icon-cross.png" /> Die Anzahl der versteckten
+  height="20" alt="cross icon" /> Die Anzahl der versteckten
   Artikel. Ein Klick auf die Ziffer zeigt eine Liste mit genau diesen
   Einträgen an.
 - **Archiviert.** Ob und wenn ja wie viele Einträge archiviert sind. Ein
@@ -78,7 +78,7 @@ sortieren.
 - **Papierkorb**
   <img src="https://docs.joomla.org/images/5/59/Help-4x-icon-bin.png"
   decoding="async" data-file-width="18" data-file-height="20" width="18"
-  height="20" alt="Help-4x-icon-bin.png" /> Die Anzahl der im Papierkorb
+  height="20" alt="bin icon" /> Die Anzahl der im Papierkorb
   liegenden Einträge. Ein Klick auf die Ziffer zeigt eine Liste mit
   genau diesen Einträgen an.
 - **Zugriffsebene**. Die [Zugriffsebene für die
@@ -121,7 +121,7 @@ im oberen Bereich.
   / Archiviert / Alle.
 - **Zugriffsebene wählen**. Aus den verfügbaren Zugriffsebenen
   auswählen.
-- 
+-
 
 **Sprache wählen**. Aus den verfügbaren Sprachen auswählen.
 

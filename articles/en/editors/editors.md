@@ -7,24 +7,21 @@ allows users a familiar word-processing interface to use when editing
 Content.
 
 TinyMCE can be configured with 3 different sets of toolbar buttons. This
-is set in the [Editor -
-TinyMCE](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Editor_Group/en#tinymce "Chunk4x:Extensions Plugin Manager Edit Editor Group/en")
-plugin.
+is set in the Editor - TinyMCE plugin.
 
 ### Toolbars
 
 #### Simple Preset
 
 The toolbar set 2 provides one row of buttons as shown below. The set is
-default assigned to the Public [user
-group](https://docs.joomla.org/Help4.x:Users:_Groups/en "Help4.x:Users: Groups/en").
+default assigned to the Public user group.
 
 <img
 src="https://docs.joomla.org/images/thumb/5/52/Help-4x-editor-tinymce-simple-en.png/600px-Help-4x-editor-tinymce-simple-en.png"
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/52/Help-4x-editor-tinymce-simple-en.png/900px-Help-4x-editor-tinymce-simple-en.png 1.5x, https://docs.joomla.org/images/thumb/5/52/Help-4x-editor-tinymce-simple-en.png/1200px-Help-4x-editor-tinymce-simple-en.png 2x"
 data-file-width="1451" data-file-height="80" width="600" height="33"
-alt="Help-4x-editor-tinymce-simple-en.png" />
+alt="tinymce simple preset toolbar" />
 
 - Buttons allow you to make text: bold, underlined, or strikethrough.
 - Undo and Re-do.
@@ -37,20 +34,19 @@ alt="Help-4x-editor-tinymce-simple-en.png" />
 #### Medium Preset
 
 The toolbar set 1 provides two rows of buttons as shown below. The set
-is default assigned to the Manager and Registered [user
-group](https://docs.joomla.org/Help4.x:Users:_Groups/en "Help4.x:Users: Groups/en").
+is default assigned to the Manager and Registered user group.
 
 <img
 src="https://docs.joomla.org/images/thumb/0/07/Help-4x-editor-tinymce-advanced-en.png/800px-Help-4x-editor-tinymce-advanced-en.png"
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/0/07/Help-4x-editor-tinymce-advanced-en.png/1200px-Help-4x-editor-tinymce-advanced-en.png 1.5x, https://docs.joomla.org/images/thumb/0/07/Help-4x-editor-tinymce-advanced-en.png/1600px-Help-4x-editor-tinymce-advanced-en.png 2x"
 data-file-width="1977" data-file-height="236" width="800" height="95"
-alt="Help-4x-editor-tinymce-advanced-en.png" />
+alt="tinymce medium preset toolbar" />
 
 This option provides all of the same buttons as documented in the Set 2
 Toolbar above. In addition, the following options are available.
 
-**Top Row**
+##### Medium: Top Row
 
 - CMS Content: The Dropdown list provides access to link to an Article,
   Contact, Field, Media, Menu, or Module.
@@ -63,7 +59,7 @@ src="https://docs.joomla.org/images/thumb/5/52/Help-4x-article-quick-link-button
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/52/Help-4x-article-quick-link-button-en.png/900px-Help-4x-article-quick-link-button-en.png 1.5x, https://docs.joomla.org/images/thumb/5/52/Help-4x-article-quick-link-button-en.png/1200px-Help-4x-article-quick-link-button-en.png 2x"
 data-file-width="2304" data-file-height="1321" width="600" height="344"
-alt="Help-4x-article-quick-link-button-en.png" />
+alt="article selection dialog" />
 
 To create a link to the desired article:
 
@@ -88,7 +84,7 @@ src="https://docs.joomla.org/images/thumb/6/66/Help-4x-editor-pagebreak-button-e
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/6/66/Help-4x-editor-pagebreak-button-en.png/900px-Help-4x-editor-pagebreak-button-en.png 1.5x, https://docs.joomla.org/images/thumb/6/66/Help-4x-editor-pagebreak-button-en.png/1200px-Help-4x-editor-pagebreak-button-en.png 2x"
 data-file-width="1542" data-file-height="862" width="600" height="335"
-alt="Help-4x-editor-pagebreak-button-en.png" />
+alt="pagebreak button" />
 
 - **Page Title**. Enter the title to display for the new page (for
   example, 'Page 2').
@@ -123,8 +119,7 @@ shows as a red dotted line across the article.
   Layout, use the Page Break button.
 
 The buttons in the CMS content dropdown list can be disabled in
-[Plugins -
-editors-xtd.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Button_Group/en "Chunk4x:Extensions Plugin Manager Edit Button Group/en")
+Plugins - editors-xtd.
 
 - Buttons in the upper left allow you to make text: italic. Next to that
   are buttons for align left, right, center, and full.
@@ -133,7 +128,7 @@ editors-xtd.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_But
 - Outdent (move left) and Indent (indent right).
 - 3 dots: Show second Toolbar row.
 
-**Second Row**
+##### Medium: Second Row
 
 - Insert/edit Link: To insert or edit a link, select the linked text and
   press this button. A popup dialog displays that lets you enter details
@@ -141,8 +136,7 @@ editors-xtd.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_But
 - Remove Link: To remove a link, highlight the linked text and press
   this button.
 - Anchor: An anchor is a bookmark inside an article that lets you link
-  directly to that point in the article. [Learn
-  more.](https://docs.joomla.org/Glossary/en#Anchor "Glossary/en")
+  directly to that point in the article.
 - Source code: A popup displays showing the HTML source code, allowing
   you to edit the HTML source code.
 - Insert a horizontal line: To insert a horizontal line, move the cursor
@@ -158,20 +152,19 @@ editors-xtd.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_But
 
 The toolbar set 0 provides the most extensive editing options, as shown
 below. The set is default assigned to the Administrator, Editor, and
-Super Users [user
-group](https://docs.joomla.org/Help4.x:Users:_Groups/en "Help4.x:Users: Groups/en").
+Super Users user group.
 
 <img
 src="https://docs.joomla.org/images/thumb/6/6a/Help-4x-editor-tinymce-extended-en.png/800px-Help-4x-editor-tinymce-extended-en.png"
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/6/6a/Help-4x-editor-tinymce-extended-en.png/1200px-Help-4x-editor-tinymce-extended-en.png 1.5x, https://docs.joomla.org/images/thumb/6/6a/Help-4x-editor-tinymce-extended-en.png/1600px-Help-4x-editor-tinymce-extended-en.png 2x"
 data-file-width="1977" data-file-height="393" width="800" height="159"
-alt="Help-4x-editor-tinymce-extended-en.png" />
+alt="tinymce advanced preset toolbar" />
 
 This option provides all of the same buttons as documented in the Set 1
 Toolbar above. In addition, the following options are available.
 
-**Top Row**
+##### Advanced: Top Row
 
 - Blocks: Paragraph, Headings, Preformatted.
 - Fonts: Select the desired font.
@@ -182,7 +175,7 @@ Toolbar above. In addition, the following options are available.
   allows you to enter the Source, Width or Height and other information
   about the image.
 
-**Second Row**
+##### Advanced: Second Row
 
 - Select Text color or Background color.
 - Fullscreen.
@@ -201,7 +194,7 @@ Toolbar above. In addition, the following options are available.
 - Blockquote.
 - Insert Template.
 
-**Third Row**
+##### Advanced: Third Row
 
 - Print the article text.
 - Insert/edit code sample.
@@ -212,15 +205,13 @@ Toolbar above. In addition, the following options are available.
 
 TinyMCE is compatible with screen readers such as
 <a href="https://www.freedomscientific.com/products/software/jaws/"
-class="external text" target="_blank"
 rel="nofollow noreferrer noopener">JAWS</a> and
-<a href="https://www.nvaccess.org/" class="external text"
-target="_blank" rel="nofollow noreferrer noopener">NVDA</a>. You can use
+<a href="https://www.nvaccess.org/"
+rel="nofollow noreferrer noopener">NVDA</a>. You can use
 it effectively even if you don't use the mouse.
 
-|                                          |                        |                        |
-|------------------------------------------|------------------------|------------------------|
 | Task                                     | PC                     | macOS                  |
+|------------------------------------------|------------------------|------------------------|
 | Focus/jump to menu bar                   | Alt+F9                 | âŒ¥+F9                 |
 | Focus/jump to toolbar                    | Alt+F10                | âŒ¥+F10                |
 | Focus/jump to element path               | Alt+F11                | âŒ¥+F11                |
@@ -233,11 +224,9 @@ Keyboard shortcuts
 See for more information:
 
 - <a href="https://www.tiny.cloud/docs/advanced/accessibility/"
-  class="external text" target="_blank"
   rel="nofollow noreferrer noopener">TinyMCE - Accessibility</a>
 - A list of available
   <a href="https://www.tiny.cloud/docs/advanced/keyboard-shortcuts/"
-  class="external text" target="_blank"
   rel="nofollow noreferrer noopener">keyboard shortcuts</a> (pc, mac)
   within the editor body.
 
@@ -252,10 +241,10 @@ src="https://docs.joomla.org/images/thumb/f/fa/Help-4x-screenshot-editor-codemir
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/fa/Help-4x-screenshot-editor-codemirror-example-en.png/1200px-Help-4x-screenshot-editor-codemirror-example-en.png 1.5x, https://docs.joomla.org/images/thumb/f/fa/Help-4x-screenshot-editor-codemirror-example-en.png/1600px-Help-4x-screenshot-editor-codemirror-example-en.png 2x"
 data-file-width="1977" data-file-height="905" width="800" height="366"
-alt="Help-4x-screenshot-editor-codemirror-example-en.png" />
+alt="codemirror example" />
 
 - Buttons shown below the edit window provides for access to link to any
-  item of the site. [Learn more.](#cmscontent)
+  item of the site.
 - CodeMirror offers some of the same advantages of using 'Editor -
   None', but makes it somewhat easier to work with raw HTML code.
 - The configuration is set in the [Editor -

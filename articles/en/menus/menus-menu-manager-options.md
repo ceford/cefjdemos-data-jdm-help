@@ -98,9 +98,3 @@ The functions are:
 - When you create a new menu, use only alphanumeric characters without
   spaces in the *Unique Name* field. It is a good idea to use only a-z,
   0-9 and underscore (\_) characters. Please read the tooltips as well.
-
-## Related information
-
-- [Menus](https://docs.joomla.org/Help4.x:Menus "Special:MyLanguage/Help4.x:Menus")
-- [Control
-  Panel](https://docs.joomla.org/Help4.x:Site_Control_Panel "Special:MyLanguage/Help4.x:Site Control Panel")

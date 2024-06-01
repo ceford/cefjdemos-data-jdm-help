@@ -7,7 +7,7 @@ for Plugins.
 
 ## How to Access
 
-- Select **System **→** Plugins (in the Manage panel)** from the
+- Select **System → Plugins (in the Manage panel)** from the
   Administrator menu. Then...
   - Select the **Options** button on the Toolbar.
 

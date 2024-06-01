@@ -8,7 +8,7 @@ those for Articles, Banners, News Feeds, and so on.
 
 ## How to Access
 
-- Select **Components **→** Contacts **→** Categories** from the
+- Select **Components → Contacts → Categories** from the
   Administrator menu. Then...
   - Select the **New** button in Toolbar to create a new category. Or...
   - Select a category title in the Title column to **Edit** an existing
@@ -20,7 +20,7 @@ those for Articles, Banners, News Feeds, and so on.
 src="https://docs.joomla.org/images/1/10/Help-4x-Components-Contact-Categories-Edit-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="623"
 width="800" height="623"
-alt="Help-4x-Components-Contact-Categories-Edit-screen-en.png" />
+alt="Contacts edit category" />
 
 ## Form Fields
 
@@ -28,19 +28,18 @@ alt="Help-4x-Components-Contact-Categories-Edit-screen-en.png" />
   page, depending on the parameter values you choose.
 - **Alias**. The internal name of the item. Normally, you can leave this
   blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces. [Learn
-  more.](https://docs.joomla.org/Alias "Special:MyLanguage/Alias")
+  with dashes instead of spaces.
 
 ### Category Tab
 
-**Left Panel**
+#### Left Panel
 
 - **Description**. The description for the item. Category, Subcategory
   and Web Link descriptions may be shown on web pages, depending on the
   parameter settings. These descriptions are entered using the same
   editor that is used for Articles.
 
-**Right Panel**
+#### Right Panel
 
 - **Parent.** The item (category, menu item, and so on) that is the
   parent of the item being edited.
@@ -64,8 +63,7 @@ alt="Help-4x-Components-Contact-Categories-Edit-screen-en.png" />
   (for example, to document information about this item) and does not
   show in the front end of the site.
 - **Version Note.** Optional field to identify this version of the item
-  in the item's [Version
-  History](https://docs.joomla.org/Help4.x:Components_Version_History/en "Help4.x:Components Version History/en")
+  in the item's Version History
   window.
 
 ### Options Tab
@@ -74,7 +72,7 @@ alt="Help-4x-Components-Contact-Categories-Edit-screen-en.png" />
 src="https://docs.joomla.org/images/1/1b/Help-4x-Categories-Edit-screen-options-tab-en.png"
 decoding="async" data-file-width="600" data-file-height="371"
 width="600" height="371"
-alt="Help-4x-Categories-Edit-screen-options-tab-en.png" />
+alt="edit form options tab" />
 
 - **Layout.** Use a different layout from the supplied components view
   or overrides in the templates.
@@ -89,7 +87,7 @@ alt="Help-4x-Categories-Edit-screen-options-tab-en.png" />
 src="https://docs.joomla.org/images/b/b7/Help-4x-Categories-Edit-screen-publish-options-tab-en.png"
 decoding="async" data-file-width="600" data-file-height="479"
 width="600" height="479"
-alt="Help-4x-Categories-Edit-screen-publish-options-tab-en.png" />
+alt="edit form publishing tab" />
 
 The grayed out fields are for information only and may not be edited.
 
@@ -123,15 +121,12 @@ The grayed out fields are for information only and may not be edited.
     this, you would:
     - Add the keywords 'dog' and 'cat' to the appropriate Articles.
     - Add the Tags 'dog' and 'cat' to the appropriate Banners in the
-      [Banner Manager
-      New/Edit](https://docs.joomla.org/Help4.x:Banners:_Edit/en "Help4.x:Banners: Edit/en")
+      Banner Manager New/Edit
       screen.
     - Set the Banner module Parameter 'Search By Tags' to 'Yes in the
-      [Banner Module
-      Edit](https://docs.joomla.org/Help4.x:Site_Modules:_Banners/en "Help4.x:Site Modules: Banners/en")
+      Banner Module Edit
       screen.
-  - For articles only, in combination with the [Related
-    Articles](https://docs.joomla.org/Help4.x:Site_Modules:_Articles_-_Related/en "Help4.x:Site Modules: Articles - Related/en")
+  - For articles only, in combination with the Related Articles
     module, to display Articles that share at least one keyword in
     common. For example, if the current Article displayed has the
     keywords "cats, dogs, monkeys", any other Articles with at least one
@@ -161,7 +156,7 @@ The grayed out fields are for information only and may not be edited.
 src="https://docs.joomla.org/images/5/5d/Help-4x-Categories-Edit-screen-publish-associations-tab-en.png"
 decoding="async" data-file-width="600" data-file-height="229"
 width="600" height="229"
-alt="Help-4x-Categories-Edit-screen-publish-associations-tab-en.png" />
+alt="edit form association tab" />
 
 ### Permissions Tab
 
@@ -170,7 +165,7 @@ src="https://docs.joomla.org/images/thumb/8/87/Help-4x-Categories-Edit-screen-pe
 decoding="async"
 srcset="https://docs.joomla.org/images/8/87/Help-4x-Categories-Edit-screen-permissions-tab-en.png 1.5x"
 data-file-width="800" data-file-height="432" width="600" height="324"
-alt="Help-4x-Categories-Edit-screen-permissions-tab-en.png" />
+alt="edit form permissions tab" />
 
 To change the permissions for this extension, do the following.
 
@@ -203,7 +198,7 @@ To change the permissions for this extension, do the following.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Save**. Saves the item and stays in the current screen.
 - **Save & Close**. Saves the item and closes the current screen.
@@ -219,17 +214,10 @@ At the top of the page you will see the toolbar shown in the
   toolbar icon is not shown if you are creating a new item.
 - **Versions**. Opens the Item Version History window to show any prior
   versions of this item. This allows you to view older versions of this
-  item and, if desired, restore from an older version. See [Version
-  History](https://docs.joomla.org/Help40:Components_Version_History "Special:MyLanguage/Help40:Components Version History")
+  item and, if desired, restore from an older version. See Version History
   for more information.
 - **Associations**. With a specific language set for an item, allows
   side by side editing in another language. This toolbar icon is shown
-  on [Multilingual
-  Sites](https://docs.joomla.org/Help4.x:Multilingual_Associations "Special:MyLanguage/Help4.x:Multilingual Associations")
+  on Multilingual Sites
   only.
 - **Help**. Opens this help screen.
-
-## Related Information
-
-To find and edit existing Contacts: [Contact
-Manager](https://docs.joomla.org/Help4.x:Contacts/en "Help4.x:Contacts/en").

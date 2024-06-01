@@ -49,7 +49,3 @@ De functies zijn.
   scherm zonder wijzigingen die u misschien heeft gedaan op te slaan.
 - **Help**. Opent dit helpscherm.
 
-## Verwante informatie
-
-Zie [Post-installatie berichten voor het Joomla
-CMS](https://docs.joomla.org/Help4.x:Post-installation_Messages_for_Joomla_CMS/nl "Help4.x:Post-installation Messages for Joomla CMS/nl")

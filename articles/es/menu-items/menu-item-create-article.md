@@ -8,11 +8,11 @@ in to the Frontend of the site.
 
 Users must have permission to create articles. When the Create Article
 page is shown in the Frontend, the screen shows as examples in the
-[Frontend Screenshot](#frontend) section below.
+Frontend Screenshot section below.
 
 ## Cómo Acceder
 
-**Menus **→** \[name of the menu\]**
+Select **Menus → \[name of the menu\]** from the Administrator menu.
 
 To add a Menu Item:
 
@@ -82,8 +82,7 @@ alt="Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-es.png" />
 
 ### Opciones comunes
 
-See [Menus: New
-Item](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en "Help4.x:Menu Item: New Item/en")
+See Menus: New Item
 for help on fields common to all Menu Item types, including:
 
 - [Panel
@@ -100,7 +99,7 @@ for help on fields common to all Menu Item types, including:
 ## Barra de herramientas
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Guardar**. Guarda el elemento de menú y se queda en la pantalla
   actual.
@@ -116,8 +115,7 @@ At the top of the page you will see the toolbar shown in the
 ## Frontend Screenshots
 
 Screenshots shows Joomla core Frontend Template **Cassiopeia**, all
-[Editing Layout
-options](https://docs.joomla.org/Help4.x:Articles:_Options/en#editinglayout "Help4.x:Articles: Options/en")
+Editing Layout options
 set to 'Hide'.
 
 **Contenido**
@@ -160,8 +158,7 @@ alt="Help-4x-Menus-Item-Articles-Create-Article-frontend-language-es.png" />
 
 An unauthorised user will normally get an error if they click on a
 Create Article menu item. For this reason, it is normal practice to give
-the menu item a [viewing Access
-Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Help4.x:Users: Viewing Access Levels/en")
+the menu item a viewing Access Level
 that can only be seen by users authorised to add articles.
 
 ## Información relacionada

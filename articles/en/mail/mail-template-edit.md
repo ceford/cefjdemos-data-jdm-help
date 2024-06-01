@@ -7,7 +7,7 @@ the Subject, Body and/or HTML Body.
 
 ## How to Access
 
-- Select **System **→** Templates panel **→** Mail Templates** from the
+- Select **System → Templates panel → Mail Templates** from the
   Administrator menu. Then...
   - Select the Title of the template you wish to edit. Select the
     language version you wish to edit from the pop-up list.
@@ -18,7 +18,7 @@ the Subject, Body and/or HTML Body.
 src="https://docs.joomla.org/images/b/be/Help-4x-Mail-Template-Edit-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="473"
 width="800" height="473"
-alt="Help-4x-Mail-Template-Edit-screen-en.png" />
+alt="Mail Template Edit screen" />
 
 ## Form Fields
 
@@ -36,7 +36,7 @@ alt="Help-4x-Mail-Template-Edit-screen-en.png" />
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Save**. Saves the item and stays in the current screen.
 - **Save & Close**. Saves the item and closes the current screen.

@@ -10,7 +10,7 @@ ferramentas.
 
 ## Como acessar
 
-Selecione **Usuários **→** Registros das ações dos usuários** no menu
+Selecione **Usuários → Registros das ações dos usuários** no menu
 administrativo.
 
 ## Captura da tela

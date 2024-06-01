@@ -9,7 +9,7 @@ A tela de ajuda mostra, como exemplo, "usuários".
 
 ## Como acessar
 
-**Usuários **→** Campos**
+**Usuários → Campos**
 
 Para adicionar um campo:
 
@@ -246,18 +246,18 @@ personalizados](https://docs.joomla.org/J3.x:Adding_custom_fields/pt-br "J3.x:Ad
 |                                                                                                               |                                                                                                                                                                            |
 |---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Telas de ajuda relacionadas                                                                                   | Descrição                                                                                                                                                                  |
-| <a                                                                                                            
- href="https://docs.joomla.org/index.php?title=Help4.x:Fields/pt-br&amp;action=edit&amp;redlink=1"              
- class="new"                                                                                                    
+| <a
+ href="https://docs.joomla.org/index.php?title=Help4.x:Fields/pt-br&amp;action=edit&amp;redlink=1"
+ class="new"
  title="Help4.x:Fields/pt-br (page does not exist)">Campos</a>                                                  | Os campos são usados para mostrar atributos adicionais dos artigos, contatos e usuários. Os dados são inseridos na administração (backend) e mostrados no site (frontend). |
 | <span class="mw-selflink selflink">Campos: Editar</span>                                                      | É aqui que você pode adicionar e editar os campos em artigos, contatos e usuários.                                                                                         |
-| <a                                                                                                            
- href="https://docs.joomla.org/index.php?title=Help4.x:Field_Groups/pt-br&amp;action=edit&amp;redlink=1"        
- class="new"                                                                                                    
- title="Help4.x:Field Groups/pt-br (page does not exist)">Grupos de                                             
+| <a
+ href="https://docs.joomla.org/index.php?title=Help4.x:Field_Groups/pt-br&amp;action=edit&amp;redlink=1"
+ class="new"
+ title="Help4.x:Field Groups/pt-br (page does not exist)">Grupos de
  campos</a>                                                                                                     | A tela dos grupos de campos é usada para listar, adicionar e editar grupos de campos.                                                                                      |
-| <a                                                                                                            
- href="https://docs.joomla.org/index.php?title=Help4.x:Field_Groups:_Edit/pt-br&amp;action=edit&amp;redlink=1"  
- class="new"                                                                                                    
- title="Help4.x:Field Groups: Edit/pt-br (page does not exist)">Grupos de                                       
+| <a
+ href="https://docs.joomla.org/index.php?title=Help4.x:Field_Groups:_Edit/pt-br&amp;action=edit&amp;redlink=1"
+ class="new"
+ title="Help4.x:Field Groups: Edit/pt-br (page does not exist)">Grupos de
  campos: Editar</a>                                                                                             | Grupos de campos são usados para coletar campos relacionados em uma aba (guia) nomeada em um formulário de entrada de dados.                                               |

@@ -8,7 +8,7 @@ Kategorie.
 
 ## Wie darauf zugreifen
 
-**Menüs **→** \[Name des Menüs\]**
+**Menüs → \[Name des Menüs\]**
 
 Einen Menüeintrag hinzufügen:
 
@@ -59,7 +59,7 @@ alt="Help-4x-Menus-Item-Articles-Category-Blog-screen-de.png" />
 ### Kategorie
 
 Die Optionen kontrollieren, wie Kategorieinformationen im Menüeintrag
-gezeigt werden.  
+gezeigt werden.
 Die Auswahl "Global" übernimmt Einstellungen aus [Beiträge:
 Optionen](https://docs.joomla.org/Help4.x:Articles:_Options/de "Help4.x:Articles: Options/de").
 
@@ -128,11 +128,11 @@ alt="Help-4x-Menus-Item-Articles-Category-Blog-blog-layout-subscreen-de.png" />
   - Abwärts: Beiträge werden innerhalb der ersten Spalte abwärts
     sortiert, dann in der nächsten Spalte. Zum Beispiel:
 
-- 
+-
   - Seitlich: Beiträge werden quer durch die Spalten sortiert, dann
     zurück in die erste Spalte. Zum Beispiel:
 
-- 
+-
 - **\# Links**. Anzahl der Beiträge, deren Überschriften als Links
   gezeigt werden, normalerweise unterhalb der Einleitungstexte. Damit
   können Benutzer weitere Beiträge aufrufen, falls mehr Beiträge
@@ -200,7 +200,7 @@ alt="Help-4x-Menus-Item-Articles-Category-Blog-blog-layout-subscreen-de.png" />
 
 ### Optionen
 
-Die Optionen legen fest, wie Beiträge im Frontend gezeigt werden.  
+Die Optionen legen fest, wie Beiträge im Frontend gezeigt werden.
 Die Auswahl "Beitragseinstellungen verwenden" übernimmt Einstellungen
 aus [Beiträge:
 Optionen](https://docs.joomla.org/Help4.x:Articles:_Edit/de "Help4.x:Articles: Edit/de").

@@ -6,7 +6,7 @@ Standardberechtigungen für sämtliche Inhalte der Sprachverknüpfungen.
 
 ## Wie darauf zugreifen
 
-- **Komponenten **→** Sprachverknüpfungen**
+- **Komponenten → Sprachverknüpfungen**
   - auf den Button **Optionen** der Werkzeugleiste klicken.
 
 ## Bildschirmfoto

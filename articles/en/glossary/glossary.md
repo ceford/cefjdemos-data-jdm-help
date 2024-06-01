@@ -57,7 +57,7 @@ a method to display and store its content logically. The usual method is
 by categories and subcategories. Joomla! allows for multiple ways to
 display and use content controlled by categorisation. Some of the
 content types which have categorisation are
-[articles](https://docs.joomla.org/Article "Article") (Main content of
+Articles (Main content of
 web pages), banners, contacts and web links.
 
 Joomla! category named "Uncategorised" is the default category, assigned
@@ -67,7 +67,7 @@ which do not fall under a specific category.
 
 When creating and assigning categories, you should have a planned
 structure. As an example, this is one way of how you would categorise
-several Joomla [articles](https://docs.joomla.org/Article "Article") on
+several Joomla Articles on
 birds. Create two top article categories called "Animals" and "Plants".
 Under the "Animals" category, you might have sub categories called
 "Birds" and "Mammals". Under the "Birds" sub category, you might have 3

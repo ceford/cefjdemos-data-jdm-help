@@ -12,7 +12,7 @@ Category.
 
 ## How to access
 
-- Select **Users **→** User Note Categories** from the Administrator
+- Select **Users → User Note Categories** from the Administrator
   menu. Then...
   - Select the **New** button in the Toolbar to create a new category.
     Or...
@@ -25,15 +25,15 @@ Category.
 src="https://docs.joomla.org/images/e/e6/Help-4x-users-category-manager-add-a-new-user-notes-category-en.png"
 decoding="async" data-file-width="800" data-file-height="721"
 width="800" height="721"
-alt="Help-4x-users-category-manager-add-a-new-user-notes-category-en.png" />
+alt="user notes edit category screen" />
 
 ## Details
 
 - **Title:** Title of the Category.
 - **Alias:** The Alias will be used in the SEF URL. Leave this blank and
   Joomla will fill in a default value from the title. This value will
-  depend on the SEO settings (**System **→** Global
-  Configuration **→** Site**). Using Unicode will produce UTF-8 aliases.
+  depend on the SEO settings (**System → Global
+  Configuration → Site**). Using Unicode will produce UTF-8 aliases.
   You may also enter manually any UTF-8 character. Spaces and some
   forbidden characters will be changed to hyphens.When using default
   transliteration it will produce an alias in lower case and with dashes
@@ -64,7 +64,7 @@ alt="Help-4x-users-category-manager-add-a-new-user-notes-category-en.png" />
 src="https://docs.joomla.org/images/f/fa/Help-4x-users-category-manager-add-a-new-user-notes-category-options-en.png"
 decoding="async" data-file-width="600" data-file-height="351"
 width="800" height="468"
-alt="Help-4x-users-category-manager-add-a-new-user-notes-category-options-en.png" />
+alt="user notes edit category options tab" />
 
 **Layout:** (*Use Global*). Use a layout from the supplied component
 view or overrides in the templates.
@@ -79,7 +79,7 @@ view or overrides in the templates.
 src="https://docs.joomla.org/images/b/b8/Help-4x-users-category-manager-add-a-new-user-notes-category-publishing-en.png"
 decoding="async" data-file-width="800" data-file-height="317"
 width="800" height="317"
-alt="Help-4x-users-category-manager-add-a-new-user-notes-category-publishing-en.png" />
+alt="user notes edit category publishing tab" />
 
 - **Created Date:** The date and time this item was first created. This
   is entered by the system automatically.
@@ -104,7 +104,7 @@ alt="Help-4x-users-category-manager-add-a-new-user-notes-category-publishing-en.
 src="https://docs.joomla.org/images/5/56/Help-4x-users-category-manager-add-a-new-user-notes-category-permissions-en.png"
 decoding="async" data-file-width="600" data-file-height="419"
 width="800" height="559"
-alt="Help-4x-users-category-manager-add-a-new-user-notes-category-permissions-en.png" />
+alt="user notes edit category permissions tab" />
 
 Manage the permission settings for the user groups below. See notes at
 the bottom.
@@ -132,10 +132,7 @@ the bottom.
 
 ## Toolbar
 
-At the top of the page you will see the toolbar shown in the Screenshot
-above. The functions are:
-
-**User Notes: New Category**: The functions are:
+### User Notes: New Category
 
 - **Save.** Saves the category and stays in the current screen.
 - **Save & Close**. Saves the category and closes the current screen.
@@ -145,7 +142,7 @@ above. The functions are:
   screen without saving any modifications you may have made.
 - **Help**. Opens this help screen.
 
-**User Notes: Edit Category**: The functions are:
+### User Notes: Edit Category
 
 - **Save.** Saves the category and stays in the current screen.
 - **Save & Close**. Saves the category and closes the current screen.
@@ -159,16 +156,3 @@ above. The functions are:
 - **Associations**. With a specific language set for an article, allows
   side by side editing in another language.
 - **Help**. Opens this help screen.
-
-## Related Information
-
-- [User Notes: New or
-  Edit](https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit/en "Help4.x:User Notes: New or Edit/en")
-- [User Notes: Users
-  Notes](https://docs.joomla.org/Help4.x:User_Notes/en "Help4.x:User Notes/en")
-- [User Notes:
-  Categories](https://docs.joomla.org/Help4.x:User_Notes:_Categories/en "Help4.x:User Notes: Categories/en")
-- To work with existing Categories: [Articles:
-  Categories](https://docs.joomla.org/Help4.x:Articles:_Categories/en "Help4.x:Articles: Categories/en")
-- To work with Articles:
-  [Articles](https://docs.joomla.org/Help4.x:Articles/en "Help4.x:Articles/en")

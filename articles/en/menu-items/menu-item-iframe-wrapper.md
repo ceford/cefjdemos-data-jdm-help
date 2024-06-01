@@ -3,47 +3,39 @@
 ## Description
 
 The Iframe Wrapper menu item type is used to create a page with embedded
-content using an
-<a href="https://en.wikipedia.org/wiki/HTML_element#Frames"
-class="extiw" title="wikipedia:HTML element">IFrame</a> with control of
-iframe size, width and height.
+content using an IFrame with control of iframe size, width and height.
 
 ## How To Access
 
 To create a new IFrame Wrapper Menu Item:
 
-- Select **Menus **→** \[name of the menu\]** from the drop-down menu on
+- Select **Menus → \[name of the menu\]** from the drop-down menu on
   the back-end of your Joomla! installation (for example,
-  **Menus **→** Main Menu**).
+  **Menus → Main Menu**).
 - Click the New Toolbar button to create a new menu item.
-- Click the Menu Item Type Select button <img
-  src="https://docs.joomla.org/images/0/0a/Help-4x-Menu-Item-Type-Select-Button-en.png"
-  decoding="async" data-file-width="96" data-file-height="45" width="96"
-  height="45" alt="Help-4x-Menu-Item-Type-Select-Button-en.png" /> and
+- Click the Menu Item Type Select button and
   then click the Iframe Wrapper Menu Item link under Wrapper.
 
-To edit an existing IFrame Wrapper Menu Item, click its Title in [Menu
-Manager: Menu
-Items](https://docs.joomla.org/Help4.x:Menus:_Items/en "Help4.x:Menus: Items/en").
+To edit an existing IFrame Wrapper Menu Item, click its Title in the
+Menus: Items list.
 
 ## Screenshot
 
 <img
 src="https://docs.joomla.org/images/4/4a/Help-4x-Menus-Menu-Item-Wrapper-en.png"
 decoding="async" data-file-width="800" data-file-height="812"
-width="800" height="812" alt="Help-4x-Menus-Menu-Item-Wrapper-en.png" />
+width="800" height="812" alt="Menu Item Wrapper screenshot" />
 
 ## Form Fields
 
 - **Menu Title:** The title that will display for this menu item.
 - **Alias**. The internal name of the item. Normally, you can leave this
   blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces. [Learn
-  more.](https://docs.joomla.org/Alias/en "Special:MyLanguage/Alias/en")
+  with dashes instead of spaces.
 
 ### Details Tab
 
-**Left Panel**
+#### Left Panel
 
 - **Menu Item Type**. The Menu Item Type selected when this menu item
   was created. This can be one of the core menu item types or a menu
@@ -51,8 +43,7 @@ width="800" height="812" alt="Help-4x-Menus-Menu-Item-Wrapper-en.png" />
 - **URL**. Field to enter a URL (web page address.
 
 Generally, it is a good idea to always add http:// or https:// when
-providing a URL. There is a [Auto
-add](https://docs.joomla.org/Help4.x:Menu_Item:_Iframe_Wrapper/en#Advanced_Tab "Help4.x:Menu Item: Iframe Wrapper/en")
+providing a URL. There is an Auto add
 function to prefix a URL with http:// unless it detects the prefix in
 the URL. *NOTE - Use the relative path to a web page address on Joomla
 installation. If your Joomla! website is `http://www.example.com`, then
@@ -64,7 +55,7 @@ make sure the 'Auto add' function is disabled.*
 - **Target Window.** Select from the drop-down list.
 - **Template Style.** Select from the drop-down list.
 
-**Right Panel**
+#### Right Panel
 
 - **Menu:** (*Main Menu*/*User Menu*/...). Shows which menu a link will
   appear in.
@@ -87,7 +78,7 @@ make sure the 'Auto add' function is disabled.*
 src="https://docs.joomla.org/images/7/7e/Help-4x-Menus-Menu-Item-Wrapper-Scroll-Bar-parameters-screenshot-en.png"
 decoding="async" data-file-width="600" data-file-height="255"
 width="600" height="255"
-alt="Help-4x-Menus-Menu-Item-Wrapper-Scroll-Bar-parameters-screenshot-en.png" />
+alt="Menu Item Wrapper Scroll Bar tab screenshot" />
 
 - **Scroll Bars:** *(No/Yes/Auto)* Whether or not to include horizontal
   and vertical scroll bars, no or yes. Auto will add the scroll bars
@@ -105,7 +96,7 @@ alt="Help-4x-Menus-Menu-Item-Wrapper-Scroll-Bar-parameters-screenshot-en.png" />
 src="https://docs.joomla.org/images/8/80/Help-4x-Menus-Menu-Item-Wrapper-Advanced-options-screenshot-en.png"
 decoding="async" data-file-width="600" data-file-height="223"
 width="600" height="223"
-alt="Help-4x-Menus-Menu-Item-Wrapper-Advanced-options-screenshot-en.png" />
+alt="Menu Item Wrapper Advanced tab screenshot" />
 
 - **Auto height**. Automatically set height to height of external page.
   *Note* - this will only work if the external page is on the **same
@@ -117,49 +108,16 @@ alt="Help-4x-Menus-Menu-Item-Wrapper-Advanced-options-screenshot-en.png" />
   https:// already used in the URL.
 - **Frame border**. Add a border around the IFrame window.
 
-### Link Type Tab
+### Common Options
 
-See [Menus: New
-Item](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en "Help4.x:Menu Item: New Item/en")
-page.
+See Menus: New Item for help on fields common to all Menu Item types, including:
 
-(ToDo - make chunk)
-
-### Page Display
-
-See [Menus: New
-Item](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en "Help4.x:Menu Item: New Item/en")
-page.
-
-(ToDo - make chunk)
-
-### Metadata Tab
-
-See [Menus: New
-Item](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en "Help4.x:Menu Item: New Item/en")
-page.
-
-(ToDo - make chunk)
-
-### Associations Tab
-
-If the Language in the Details tab is not set to All a list of languages
-will appear here to allow selection of alternative languages in which to
-display this page.
-
-<img
-src="https://docs.joomla.org/images/4/41/Help-4x-Menus-Menu-Item-Wrapper-Associations-screenshot-en.png"
-decoding="async" data-file-width="600" data-file-height="252"
-width="600" height="252"
-alt="Help-4x-Menus-Menu-Item-Wrapper-Associations-screenshot-en.png" />
-
-### Module Assignment Tab
-
-See [Menu Item Manager: New Menu
-Item](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en "Help4.x:Menu Item: New Item/en")
-for help on fields in **[Module
-Assignments](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en#Module_Assignment_Tab "Help4.x:Menu Item: New Item/en")**
-for this Menu Item.
+- Right Panel
+- Link Type
+- Page Display
+- Metadata
+- Associations
+- Module Assignment
 
 ## Toolbar
 

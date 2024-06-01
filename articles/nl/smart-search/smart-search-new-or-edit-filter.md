@@ -7,7 +7,7 @@ bestaande aan te passen.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Componenten **→** Slim zoeken **→** Filters** in het
+- Selecteer **Componenten → Slim zoeken → Filters** in het
   beheermenu. Dan...
   - Selecteer de **Nieuw** knop in de werkbalk om een nieuw filter aan
     te maken.

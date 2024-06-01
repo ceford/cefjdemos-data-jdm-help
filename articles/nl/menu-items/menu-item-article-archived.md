@@ -14,7 +14,7 @@ niet getoond wordt in de lijst met gearchiveerde artikelen.
 
 ## Hoe toegang te krijgen
 
-**Menu's **→** \[naam van het menu\]**
+**Menu's → \[naam van het menu\]**
 
 Om een menu-item aan te maken:
 
@@ -127,8 +127,7 @@ alt="Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-nl.png" />
   - Verberg: Alleen het deel van het artikel na de 'Lees meer' wordt
     getoond.
 - **Positie van artikelinformatie**.
-  - Gebruik artikelinstellingen: Use the value from [Articles:
-    Edit](https://docs.joomla.org/Help4.x:Articles:_Edit/en "Help4.x:Articles: Edit/en").This
+  - Gebruik artikelinstellingen: Use the value from Articles: Edit.This
     setting allows you to have different options for different articles
     in the List layout.
   - Boven: Plaatst het artikel-informatieblok boven de tekst.
@@ -190,7 +189,7 @@ inclusief:
   venster](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#rightpanel "Help4.x:Menu Item: New Item/nl")
 - [Linktype](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#linktype "Help4.x:Menu Item: New Item/nl")
 - [Paginaweergave](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#pagedisplay "Help4.x:Menu Item: New Item/nl")
-- [Metadata](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#metadata "Help4.x:Menu Item: New Item/nl")
+- Metadata
 - [Associaties](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#associations "Help4.x:Menu Item: New Item/nl")
 - [Moduletoewijzing](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#moduleassignment "Help4.x:Menu Item: New Item/nl")
 

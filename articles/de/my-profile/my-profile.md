@@ -10,7 +10,7 @@ Spracheinstellungen, Editor und Zeitzone.
 
 ## Wie darauf zugreifen
 
-- Oben rechts auf das **Benutzermenü**  **→**  **Konto bearbeiten**
+- Oben rechts auf das **Benutzermenü**  →  **Konto bearbeiten**
   klicken
 
 <img

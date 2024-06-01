@@ -13,12 +13,10 @@ and one Banner Category **before** a Banner can be created.
 
 ## How to Access
 
-- Select **Components **→** Banners **→** Banners** from the
+- Select **Components → Banners → Banners** from the
   Administrator menu.
-- Or Select a numbered button in the [Banner Categories
-  Manager](https://docs.joomla.org/Help4.x:Banners:_Categories/en "Help4.x:Banners: Categories/en")
-  or the [Banner Clients
-  Manager](https://docs.joomla.org/Help4.x:Banners:_Clients/en "Help4.x:Banners: Clients/en")
+- Or Select a numbered button in the Banner Categories Manager
+  or the Banner Clients Manager
   pages.
 
 ## Screenshot
@@ -50,14 +48,14 @@ list by that column's value.
   - Select the Ordering icon <img
     src="https://docs.joomla.org/images/e/ee/Help30-Ordering-colheader-icon.png"
     decoding="async" data-file-width="12" data-file-height="23" width="12"
-    height="23" alt="Help30-Ordering-colheader-icon.png" /> in the Table
+    height="23" alt="Ordering column header icon" /> in the Table
     heading to make it the active ordering item. The ordering icons in
     each row will change from light grey to dark grey and the pointer
     will change to a drag arrow on hover.
   - Select one of the Ordering icons <img
     src="https://docs.joomla.org/images/8/87/Help30-Ordering-colheader-grab-bar-icon.png"
     decoding="async" data-file-width="10" data-file-height="21" width="10"
-    height="21" alt="Help30-Ordering-colheader-grab-bar-icon.png" /> and
+    height="21" alt="Ordering drag icon" /> and
     drag it up or down to change the position of that row in the list.
     The items will display in the new order within the Position.
 - **Status**. The published status of the item.
@@ -93,7 +91,7 @@ displaying automatically.*
 ## List Filters
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -110,8 +108,7 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
 **Filter Options**
 
@@ -128,7 +125,7 @@ Screenshot above. The functions are:
 
 **Page Controls**. When the number of items is more than one page, you
 will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -140,7 +137,7 @@ has a dark colour background.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **New**. Opens the editing screen to create a new banner.
 - **Actions:** Reveals a list of actions for selected Items. Check one
@@ -168,33 +165,11 @@ At the top of the page you will see the toolbar shown in the
   parameters can be edited.
 - **Help**. Opens this help screen.
 
-See [Banner Manager
-Options](https://docs.joomla.org/Help4.x:Banners:_Options/en "Help4.x:Banners: Options/en")
+See Banner Manager Options
 for more information.
 
 ## Quick Tips
 
-- You must add at least one [Banner
-  Client](https://docs.joomla.org/Help4.x:Banners:_Clients/en "Help4.x:Banners: Clients/en")
-  and [Banner
-  Category](https://docs.joomla.org/Help4.x:Banners:_Categories/en "Help4.x:Banners: Categories/en")
-  *before* you can [add a
-  Banner](https://docs.joomla.org/Help4.x:Banners:_Edit/en "Help4.x:Banners: Edit/en").
-
-## Related Information
-
-|                                                                                                                                              |                                                                                                                                                                                                                                                                                                                           |
-|----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Related Help Screens                                                                                                                         | Description                                                                                                                                                                                                                                                                                                               |
-| [Banners: Edit](https://docs.joomla.org/Help4.x:Banners:_Edit/en "Help4.x:Banners: Edit/en")                                                 | Used to add or edit banners which can be displayed on your Joomla! website. Remember to create at least one <a href="https://docs.joomla.org/Help4.x:Components_Banners_Clients/en"                                                                                                                                       
-                                                                                                                                                class="mw-redirect" title="Help4.x:Components Banners Clients/en">Banner                                                                                                                                                                                                                                                   
-                                                                                                                                                Client</a> and one<a                                                                                                                                                                                                                                                                                                       
-                                                                                                                                                href="https://docs.joomla.org/Help4.x:Components_Banners_Categories/en"                                                                                                                                                                                                                                                    
-                                                                                                                                                class="mw-redirect"                                                                                                                                                                                                                                                                                                        
-                                                                                                                                                title="Help4.x:Components Banners Categories/en">Banner Category</a> before creating any Banners.                                                                                                                                                                                                                          |
-| [Banners: Options](https://docs.joomla.org/Help4.x:Banners:_Options/en "Help4.x:Banners: Options/en")                                        | Global options (configuration) for Banner Clients.                                                                                                                                                                                                                                                                        |
-| [Banners: Categories](https://docs.joomla.org/Help4.x:Banners:_Categories/en "Help4.x:Banners: Categories/en")                               | Used to view a list of existing Banner Categories, edit current and create new Banner Categories. Note that Banner Categories are separate from other Categories, such as for Articles, Contacts, News Feeds, and Web Links. There must be at least one Banner Client and Banner Category before a Banner can be created. |
-| [Banners: New or Edit Category](https://docs.joomla.org/Help4.x:Banners:_New_or_Edit_Category/en "Help4.x:Banners: New or Edit Category/en") | This is where you can add a new Banner Category or edit an existing one. Note that you need to create at least one Banner Category before you can create a Banner. Also, Banner Categories are separate from other types of Categories, such as those for Articles, Contacts, and News Feeds.                             |
-| [Banners: Clients](https://docs.joomla.org/Help4.x:Banners:_Clients/en "Help4.x:Banners: Clients/en")                                        | The Banner Client Manager is where you can edit existing Banner Clients or create new ones. Note that you must have at least one Banner Client and one Banner Category defined before you can add your first Banner.                                                                                                      |
-| [Banners: New or Edit Client](https://docs.joomla.org/Help4.x:Banners:_New_or_Edit_Client/en "Help4.x:Banners: New or Edit Client/en")       | This is where you add a new Banner Client or edit an existing one. Note that you need to create at least one Banner Client before you can create a Banner.                                                                                                                                                                |
-| [Banners: Tracks](https://docs.joomla.org/Help4.x:Banners:_Tracks/en "Help4.x:Banners: Tracks/en")                                           | Used to view a list of existing Banner Tracking information.                                                                                                                                                                                                                               
+- You must add at least one Banner Client
+  and Banner Category
+  *before* you can add a Banner.

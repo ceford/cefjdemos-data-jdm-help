@@ -18,7 +18,7 @@ functie gebruiken om het origineel te vervangen.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Systeem **→** Beheren venster **→** Taal overrides**.
+- Selecteer **Systeem → Beheren venster → Taal overrides**.
   Dan...
   - Selecteer een **Taal en website deel** vanuit de uitklaplijst.
     Dan...

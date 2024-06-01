@@ -42,7 +42,7 @@ Map Group as well as to multiple Map Groups.
 
 ## How to access
 
-- Select **Components **→** Smart Search **→** Content Maps** from the
+- Select **Components → Smart Search → Content Maps** from the
   Administrator menu.
 
 ## Screenshot
@@ -51,19 +51,13 @@ Map Group as well as to multiple Map Groups.
 src="https://docs.joomla.org/images/e/e5/Help-4x-Components-Finder-ContentMaps-subscreen-en.png"
 decoding="async" data-file-width="800" data-file-height="411"
 width="800" height="411"
-alt="Help-4x-Components-Finder-ContentMaps-subscreen-en.png" />
+alt="Smart search content maps screen" />
 
 ## Column Headers
 
 In the table containing the indexed content for your Joomla! site you
 will see different columns. Here you can read what they mean and what is
 displayed in each column.
-
-<img
-src="https://docs.joomla.org/images/9/9f/Help31-Components-Smart-Search-Content-Maps-columns-en.png"
-decoding="async" data-file-width="1030" data-file-height="32"
-width="1030" height="32"
-alt="Help31-Components-Smart-Search-Content-Maps-columns-en.png" />
 
 - **Checkbox**. Check this box to select one or more items. To select
   all items, check the box in the column heading. After one or more
@@ -90,8 +84,10 @@ alt="Help31-Components-Smart-Search-Content-Maps-columns-en.png" />
 
 ## List Filters
 
-**Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+### Search bar
+
+Near the top of the page you will see the search bar
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -108,10 +104,9 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
-**Filter Options**
+### Filter Options
 
 - **Filter by published status.** Choose whether to show only published
   or unpublished maps by selecting the appropriate item from the
@@ -136,7 +131,7 @@ shown in the [Screenshot](#screenshot) above.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Actions:** Reveals a list of actions for selected Items. Check one
   or more Item checkboxes to activate the list.
@@ -155,8 +150,7 @@ At the top of the page you will see the toolbar shown in the
   indexer again.
 - **Options.** Opens the Options window where settings such as default
   parameters can be edited.
-- **Help**. Opens this help screen. See [Smart Search:
-  Options](https://docs.joomla.org/Help4.x:Smart_Search:_Options/en "Help4.x:Smart Search: Options/en")
+- **Help**. Opens this help screen. See Smart Search: Options
   for further details.
 
 ## Quick Tips
@@ -166,5 +160,3 @@ At the top of the page you will see the toolbar shown in the
 - If you are new to Smart Search then you should read the [Smart Search
   Quickstart
   Guide](https://docs.joomla.org/Smart_Search_quickstart_guide "Smart Search quickstart guide").
-
-## Related information

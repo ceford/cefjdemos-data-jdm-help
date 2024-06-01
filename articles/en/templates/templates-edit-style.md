@@ -11,9 +11,9 @@ toolbar. Then edit the duplicate.
 
 ## How to Access
 
-- Select **System **→** Templates Panel **→** Site Templates Styles**
+- Select **System → Templates Panel → Site Templates Styles**
   from the Administrator menu. Or...
-- Select **System **→** Templates Panel **→** Administrator Templates
+- Select **System → Templates Panel → Administrator Templates
   Styles** from the Administrator menu. Then...
   - Select the name of the Template Style to edit in the Style column.
 
@@ -23,7 +23,7 @@ toolbar. Then edit the duplicate.
 src="https://docs.joomla.org/images/2/29/Help-4x-Extensions-Template-Manager-Styles-Edit-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="349"
 width="800" height="349"
-alt="Help-4x-Extensions-Template-Manager-Styles-Edit-screen-en.png" />
+alt="Template Styles Edit screen" />
 
 ## Form Fields
 
@@ -78,15 +78,14 @@ Selection* button to invert the menu item selections.
 
 **Note**: If a checkbox is grayed out and cannot be checked then it
 could be because the menu item is in use by another user. You can see if
-this is the case by going to the [menu manager screen for the
-menu](https://docs.joomla.org/Help4.x:Menus:_Items/en "Help4.x:Menus: Items/en")
+this is the case by going to the menu manager screen for the menu
 concerned. If there is a padlock symbol next to the menu item then it is
 currently in use by another user.
 
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Save**. Saves the item and stays in the current screen.
 - **Save & Close**. Saves the item and closes the current screen.
@@ -96,8 +95,3 @@ At the top of the page you will see the toolbar shown in the
 - **Cancel**. Closes the current screen and returns to the previous
   screen without saving any modifications you may have made.
 - **Help**. Opens this help screen.
-
-## Related Information
-
-- To install templates: [Extension Manager:
-  Install](https://docs.joomla.org/Help4.x:Extensions:_Install/en "Help4.x:Extensions: Install/en")

@@ -8,7 +8,7 @@ editing.
 
 ## How to access
 
-- Select **System **→** Update panel **→** Update Sites** from the
+- Select **System → Update panel → Update Sites** from the
   Administrator menu. Then...
   - Select a Title link in the Update Site column.
 
@@ -18,7 +18,7 @@ editing.
 src="https://docs.joomla.org/images/8/8c/Help-4x-edit-update-site-screenshot-en.png"
 decoding="async" data-file-width="800" data-file-height="223"
 width="800" height="223"
-alt="Help-4x-edit-update-site-screenshot-en.png" />
+alt="edit update site screenshot" />
 
 ## Form Fields
 

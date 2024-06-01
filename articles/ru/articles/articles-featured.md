@@ -8,7 +8,7 @@ Home page of a web site, but it can be any page in the site.
 
 ## Как открыть
 
-**Контент **→** Избранные материалы**
+**Контент → Избранные материалы**
 
 To add a Article:
 
@@ -53,13 +53,10 @@ alt="Help-4x-Content-Featured-Articles-screen-ru.png" />
 - **Состояние**. Status of article. Hover icon for informations.
 - **Заголовок**. The title of the article. Edit the article by clicking
   on the Title.
-- **Доступ**. The viewing [Access
-  Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Help4.x:Users: Viewing Access Levels/en")
-  for this article.
+- **Доступ**. The viewing Access level  for this article.
 - **Автор**. Name of the User who created this article.
 - **Связи**. Shows the associated articles. Click on the Language Code
-  to open the article. [Multilingual
-  only.](https://docs.joomla.org/Help4.x:Multilingual_Associations/en "Help4.x:Multilingual Associations/en")
+  to open the article. Multilingual only.
 - **Язык**. Articles language, default is 'All'.
 - **Дата создания**. The date this article was created.
 - **Кол-во просмотров**. The number of times an article has been viewed.
@@ -70,7 +67,7 @@ alt="Help-4x-Content-Featured-Articles-screen-ru.png" />
 ## List Filters
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -87,13 +84,12 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of articles in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
 ### Параметры поиска
 
 Near the top of the page you will see the filter bar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Выбор состояния**. Select from Trashed / Unpublished / Published /
   Archived / All.
@@ -109,7 +105,7 @@ Near the top of the page you will see the filter bar shown in the
 
 **Page Controls**. When the number of articles is more than one page,
 you will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -121,7 +117,7 @@ has a dark colour background.
 ## Панель инструментов
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Создать**. Opens the editing screen to create a new article.
 - **Действия**. Reveals a list of actions for selected articles. Check
@@ -132,14 +128,11 @@ At the top of the page you will see the toolbar shown in the
     visitors to your website.
   - **Простой**. Changes the status of featured articles to unfeatured.
   - **В архив**. Changes the status of the selected articles to indicate
-    that they are archived. [Learn
-    more.](https://docs.joomla.org/J4.x:How_to_Archive_an_Article/en "J4.x:How to Archive an Article/en")
+    that they are archived.
   - **Разблокировать**. Checks-in the selected articles.
   - **В корзину**. Changes the status of the selected articles to
-    indicate that they are trashed. [Learn
-    more.](https://docs.joomla.org/J4.x:Deleting_an_Article/en "J4.x:Deleting an Article/en")
-- **Настройки**. Opens [Articles:
-  Options](https://docs.joomla.org/Help4.x:Articles:_Options/en "Help4.x:Articles: Options/en").
+    indicate that they are trashed.
+- **Настройки**. Opens Articles: Options.
 - **Справка**. Opens this help screen.
 
 ## Быстрые советы

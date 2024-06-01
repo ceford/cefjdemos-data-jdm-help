@@ -11,7 +11,7 @@ options. Your Joomla site will work with the default settings.
 
 ## How to Access
 
-- Select **Components **→** Tags** from the Administrator menu. Then...
+- Select **Components → Tags** from the Administrator menu. Then...
   - Select the **Options** button in the Toolbar.
 
 ## Screenshot
@@ -20,7 +20,7 @@ options. Your Joomla site will work with the default settings.
 src="https://docs.joomla.org/images/2/2b/Help-4x-components-tags-configuration-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="723"
 width="800" height="723"
-alt="Help-4x-components-tags-configuration-screen-en.png" />
+alt="tags configuration screen" />
 
 ## Form Fields
 
@@ -38,8 +38,7 @@ alt="Help-4x-components-tags-configuration-screen-en.png" />
   0, then versions will never be deleted automatically. Also, specific
   versions may be flagged as "Keep Forever" and will not be deleted
   automatically. Note that versions may be deleted manually using the
-  Delete button in the [Version
-  History](https://docs.joomla.org/Help310:Components_Version_History/en "Help310:Components Version History/en")
+  Delete button in the Version History
   screen.
 - **Show Tag Name**. For a layout with one tag, show the tag name.
 - **Tag Image**. For a layout with one tag, show the image for the tag.
@@ -65,7 +64,7 @@ alt="Help-4x-components-tags-configuration-screen-en.png" />
 src="https://docs.joomla.org/images/2/2f/Help-4x-components-tags-configuration-item-selection-options-screen-en.png"
 decoding="async" data-file-width="600" data-file-height="363"
 width="600" height="363"
-alt="Help-4x-components-tags-configuration-item-selection-options-screen-en.png" />
+alt="tags configuration item selection screen" />
 
 - **Minimum Search Length**. This setting controls the minimum character
   length for the search and adding tags using the tags field Ajax mode.
@@ -83,7 +82,7 @@ alt="Help-4x-components-tags-configuration-item-selection-options-screen-en.png"
 src="https://docs.joomla.org/images/c/ce/Help-4x-components-tags-configuration-list-all-tags-options-screen-en.png"
 decoding="async" data-file-width="600" data-file-height="393"
 width="600" height="393"
-alt="Help-4x-components-tags-configuration-list-all-tags-options-screen-en.png" />
+alt="tags configuration list all tags tab" />
 
 - **Default List All Tags Layout**. Choose a default layout for List of
   all tags.
@@ -103,7 +102,7 @@ alt="Help-4x-components-tags-configuration-list-all-tags-options-screen-en.png" 
 src="https://docs.joomla.org/images/d/d4/Help-4x-components-tags-configuration-shared-layout-options-screen-en.png"
 decoding="async" data-file-width="600" data-file-height="307"
 width="600" height="307"
-alt="Help-4x-components-tags-configuration-shared-layout-options-screen-en.png" />
+alt="tags configuration shared layout tab" />
 
 - **Filter Field**. Whether to show a Filter field for the list. Select
   Hide to hide the filter field.
@@ -122,7 +121,7 @@ alt="Help-4x-components-tags-configuration-shared-layout-options-screen-en.png" 
 src="https://docs.joomla.org/images/d/df/Help-4x-components-tags-configuration-data-entry-options-screen-en.png"
 decoding="async" data-file-width="600" data-file-height="194"
 width="600" height="194"
-alt="Help-4x-components-tags-configuration-data-entry-options-screen-en.png" />
+alt="tags configuration data entry tab" />
 
 - **Tag Entry Mode**. Ajax mode searches tag while typing and allows you
   on the fly tag creation. Nested tags show you a nested view with all
@@ -134,7 +133,7 @@ alt="Help-4x-components-tags-configuration-data-entry-options-screen-en.png" />
 src="https://docs.joomla.org/images/6/6c/Help-4x-components-tags-configuration-integration-screen-en.png"
 decoding="async" data-file-width="600" data-file-height="216"
 width="600" height="216"
-alt="Help-4x-components-tags-configuration-integration-screen-en.png" />
+alt="tags configuration integration tab" />
 
 - **Show Feed Link**. Show or hide an RSS Feed Link. (A Feed Link will
   show up as a feed icon in the address bar of most modern browsers).
@@ -148,7 +147,7 @@ These permissions may be overridden for specific tags.
 src="https://docs.joomla.org/images/e/ee/Help-4x-components-tags-configuration-permissions-screen-en.png"
 decoding="async" data-file-width="600" data-file-height="624"
 width="600" height="624"
-alt="Help-4x-components-tags-configuration-permissions-screen-en.png" />
+alt="tags configuration permissions tab" />
 
 To change the permissions for this extension, do the following.
 

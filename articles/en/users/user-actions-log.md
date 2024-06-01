@@ -9,14 +9,14 @@ Options button in the Toolbar.
 
 ## How to Access
 
-Select **Users **→** User Actions Log** from the Administrator menu.
+Select **Users → User Actions Log** from the Administrator menu.
 
 ## Screenshot
 
 <img
 src="https://docs.joomla.org/images/e/eb/Help-4x-user-actions-log-en.png"
 decoding="async" data-file-width="800" data-file-height="416"
-width="800" height="416" alt="Help-4x-user-actions-log-en.png" />
+width="800" height="416" alt="user actions log screen" />
 
 ## Column Headers
 
@@ -41,8 +41,10 @@ purpose of each column is as follows:
 
 ## List Filters
 
-**Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+### Search bar
+
+Near the top of the page you will see the search bar
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -59,10 +61,9 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
-**Filter Options**
+### Filter Options
 
 - **Select Extension**. Select the desired extension to limit the list
   based on a specific extension
@@ -71,9 +72,11 @@ shown in the [Screenshot](#screenshot) above.
 - **Select User**. Select the desired name to limit the list based on
   the actions on a specific user.
 
-**Page Controls**. When the number of items is more than one page, you
+### Pagination
+
+When the number of items is more than one page, you
 will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -85,7 +88,7 @@ has a dark colour background.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Export Selected as CSV.** Allows you to export as CSV the User
   Action Logs you have selected.
@@ -96,8 +99,3 @@ At the top of the page you will see the toolbar shown in the
 - **Options.** Opens the Options window where settings such as default
   parameters can be edited.
 - **Help**. Opens this help screen.
-
-## Related Information
-
-- [Joomla 3 Tutorial: User Action
-  Logs](https://docs.joomla.org/J3.x:User_Action_Logs/en "J3.x:User Action Logs/en")

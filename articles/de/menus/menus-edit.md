@@ -6,9 +6,9 @@ Man kann auf dieser Seite Menüs Hinzufügen oder Bearbeiten.
 
 ## Wie darauf zugreifen
 
-- Im Administrator-Menü **Menüs **→** Verwalten** auswählen, dann ...
+- Im Administrator-Menü **Menüs → Verwalten** auswählen, dann ...
   - die Schaltfläche **„+ Neu“** in der Werkzeugleiste wählen, um ein
-    neues Menü zu erstellen  
+    neues Menü zu erstellen
     oder ...
   - einen Menü-**Titel** in der Spalte Titel auswählen, um ein
     vorhandenes Menü zu bearbeiten.

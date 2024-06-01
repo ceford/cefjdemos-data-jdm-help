@@ -9,13 +9,10 @@ page ...
 
 To create a new Compact List of Tagged Items menu item:
 
-- Select **Menus **→** \[name of the menu\]** from the Administrator
-  menu (for example, **Menus **→** Main Menu**). Then...
+- Select **Menus → \[name of the menu\]** from the Administrator
+  menu (for example, **Menus → Main Menu**). Then...
   - Select the New button in the Toolbar.
-  - Select the Menu Item Type Select button. <img
-    src="https://docs.joomla.org/images/0/0a/Help-4x-Menu-Item-Type-Select-Button-en.png"
-    decoding="async" data-file-width="96" data-file-height="45" width="96"
-    height="45" alt="Help-4x-Menu-Item-Type-Select-Button-en.png" />
+  - Select the Menu Item Type Select button.
   - In the modal dialog select the Tags item to open a list and then
     select the **Compact List of Tagged Items** item.
 
@@ -29,19 +26,18 @@ To edit an existing Compact List of Tags Items menu item:
 src="https://docs.joomla.org/images/3/31/Help-4x-Menus-Menu-Item-Tags-Items-Compact-List-en.png"
 decoding="async" data-file-width="800" data-file-height="812"
 width="800" height="812"
-alt="Help-4x-Menus-Menu-Item-Tags-Items-Compact-List-en.png" />
+alt="Menu Item Tags Items Compact List" />
 
 ## Form Fields
 
 - **Menu Title:** The title that will display for this menu item.
 - **Alias**. The internal name of the item. Normally, you can leave this
   blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces. [Learn
-  more.](https://docs.joomla.org/Alias/en "Special:MyLanguage/Alias/en")
+  with dashes instead of spaces.
 
 ### Details Tab
 
-**Left Panel**
+#### Left Panel
 
 - **Menu Item Type**. The Menu Item Type selected when this menu item
   was created. This can be one of the core menu item types or a menu
@@ -56,7 +52,7 @@ alt="Help-4x-Menus-Menu-Item-Tags-Items-Compact-List-en.png" />
 - **Target Window.** Select from the drop-down list.
 - **Template Style.** Select from the drop-down list.
 
-**Right Panel**
+#### Right Panel
 
 - **Menu**. Shows which menu the link will appear in.
 - **Parent Item.** The parent menu item for this menu item. Used to
@@ -71,14 +67,14 @@ alt="Help-4x-Menus-Menu-Item-Tags-Items-Compact-List-en.png" />
   - Select the Ordering icon <img
     src="https://docs.joomla.org/images/e/ee/Help30-Ordering-colheader-icon.png"
     decoding="async" data-file-width="12" data-file-height="23" width="12"
-    height="23" alt="Help30-Ordering-colheader-icon.png" /> in the Table
+    height="23" alt="Ordering column header icon" /> in the Table
     heading to make it the active ordering item. The ordering icons in
     each row will change from light grey to dark grey and the pointer
     will change to a drag arrow on hover.
   - Select one of the Ordering icons <img
     src="https://docs.joomla.org/images/8/87/Help30-Ordering-colheader-grab-bar-icon.png"
     decoding="async" data-file-width="10" data-file-height="21" width="10"
-    height="21" alt="Help30-Ordering-colheader-grab-bar-icon.png" /> and
+    height="21" alt="Ordering drag icon" /> and
     drag it up or down to change the position of that row in the list.
     The items will display in the new order within the Position.
 - **Status**. The published status of the item.
@@ -91,14 +87,11 @@ alt="Help-4x-Menus-Menu-Item-Tags-Items-Compact-List-en.png" />
 - **Default Page**. If Yes, this menu item is the default or home page
   for the site. There must be exactly one menu item set as the default
   page. You can change the default page in two ways:
-  1.  Click on the Home column of the desired menu item in the [Menus:
-      Items](https://docs.joomla.org/Help4.x:Menus:_Items/en "Special:MyLanguage/Help4.x:Menus: Items/en")
+  1.  Click on the Home column of the desired menu item in the Menus: Items
       screen.
   2.  Open the menu item for the new default page and change the Default
       Page setting to Yes.
-- **Access**. The [viewing Access
-  Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/en")
-  for this item.
+- **Access**. The viewing Access  Level   for this item.
 - **Language**. Item language.
 - **Note**. This is normally for the site administrator's use (for
   example, to document information about this item) and does not show in
@@ -110,7 +103,7 @@ alt="Help-4x-Menus-Menu-Item-Tags-Items-Compact-List-en.png" />
 src="https://docs.joomla.org/images/4/4f/Help-4x-Menus-Menu-Item-Tags-Items-Items-Compact-List-Tags-options-screenshot-en.png"
 decoding="async" data-file-width="600" data-file-height="441"
 width="600" height="441"
-alt="Help-4x-Menus-Menu-Item-Tags-Items-Items-Compact-List-Tags-options-screenshot-en.png" />
+alt="Menu Item Tags Items Compact List tag options tab" />
 
 - **Show Tag Name.** (Use Global(Hide)/Hide/Show). For a layout with one
   tag, show the tag name.
@@ -134,7 +127,7 @@ alt="Help-4x-Menus-Menu-Item-Tags-Items-Items-Compact-List-Tags-options-screensh
 src="https://docs.joomla.org/images/c/c7/Help-4x-Menus-Menu-Item-Tags-Items-Items-Compact-List-ListLayout-options-screenshot-en.png"
 decoding="async" data-file-width="600" data-file-height="255"
 width="600" height="255"
-alt="Help-4x-Menus-Menu-Item-Tags-Items-Items-Compact-List-ListLayout-options-screenshot-en.png" />
+alt="Menu Item Tags Items Compact List List Layouts tab" />
 
 - **Item Image.** (Use Global/Hide/Show). Show the image for each item.
 - **Item Description.** (Use Global/Hide/Show). Show or hide the
@@ -145,22 +138,10 @@ alt="Help-4x-Menus-Menu-Item-Tags-Items-Items-Compact-List-ListLayout-options-sc
 - **Filter Field.** The Filter Field creates a text field where a user
   can enter a field to be used to filter the articles shown in the list.
   An example of how this looks in the front-end layout is shown below.
-  <img
-  src="https://docs.joomla.org/images/d/d6/Help30-article-category-list-filter-field-en.png"
-  decoding="async" data-file-width="175" data-file-height="32" width="175"
-  height="32" alt="Help30-article-category-list-filter-field-en.png" />
 
-The possible options for this (in the back-end menu item edit) are shown
-below.
+The possible options for this (in the back-end menu item edit):
 
-<img
-src="https://docs.joomla.org/images/4/4f/Help30-article-category-list-filter-field-options-en.png"
-decoding="async" data-file-width="226" data-file-height="183"
-width="226" height="183"
-alt="Help30-article-category-list-filter-field-options-en.png" />
-
-- *Use Global:* Use the value from [Articles:
-  Options](https://docs.joomla.org/Help4.x:Articles:_Options/en "Help4.x:Articles: Options/en").
+- *Use Global:* Use the value from Articles: Options.
   Only appears in Menu Item Type Options.
 - *Hide:* Don't show a filter field.
 - *Title:* Filter on article title.
@@ -170,12 +151,6 @@ alt="Help30-article-category-list-filter-field-options-en.png" />
   Display \# control that allows the user to select the number of items
   to show in the list. An example of how it is shown in the Front End
   (website) view below.
-
-<img
-src="https://docs.joomla.org/images/0/09/Help30-article-category-list-display-select-en.png"
-decoding="async" data-file-width="198" data-file-height="125"
-width="198" height="125"
-alt="Help30-article-category-list-display-select-en.png" />
 
 If there are more items than this number, you can use the page
 navigation buttons (Start, Prev, Next, End, and page numbers) to
@@ -188,45 +163,26 @@ headings, to limit which items display.
 - **Pagination.** Hide or Show Pagination support. Pagination provides
   page links at the bottom of the page that allow the User to navigate
   to additional pages. These are needed if the listed items will not fit
-  on one page. An example is shown below.
-
-<img src="https://docs.joomla.org/images/8/81/Help30-pagination-en.png"
-decoding="async" data-file-width="299" data-file-height="29" width="299"
-height="29" alt="Help30-pagination-en.png" />
-
-The following options are available.
-
-- *Use Global:* Use the default value from the component options screen.
-- *Auto:* Pagination links shown if needed.
-- *Show:* Pagination links shown if needed.
-- *Hide:* Pagination links not shown. Note: In this case, Users will not
-  be able to navigate to additional pages.
+  on one page.
+    - *Use Global:* Use the default value from the component options screen.
+    - *Auto:* Pagination links shown if needed.
+    - *Show:* Pagination links shown if needed.
+    - *Hide:* Pagination links not shown. Note: In this case, Users will not
+      be able to navigate to additional pages.
 - **Pagination Results.** Hide or Show the current page number and total
   pages (e.g., "Page 1 of 2") at the bottom of each page. Use Global
   will use the default value from the component options.
 - **Show Date.** This option allows you to show a date in the list. The
   options are as follows.
-
-<img
-src="https://docs.joomla.org/images/9/9d/Help30-article-category-list-show-date-en.png"
-decoding="async" data-file-width="220" data-file-height="153"
-width="220" height="153"
-alt="Help30-article-category-list-show-date-en.png" />
-
-- *Use Global:* Use the value set in [Article
-  Manager→Options](https://docs.joomla.org/Help4.x:Articles:_Options/en "Help4.x:Articles: Options/en").
-- *Hide:* Don't show any date.
-- *Created:* Show the created date.
-- *Modified:* Show the date of the last modification.
-- *Created:* Show the start publishing date.
+    - *Use Global:* Use the value set in Article Manager→Options.
+    - *Hide:* Don't show any date.
+    - *Created:* Show the created date.
+    - *Modified:* Show the date of the last modification.
+    - *Created:* Show the start publishing date.
 - **Date Format.** Optional format string to control the format of the
   date (if shown). If left blank, the date will use the DATE_FORMAT_LC1
   format from the language file (for example, "D M Y" for "31 December
-  2012" or "m-d-y" for "12-31-12"). See
-  <a href="http://www.php.net/manual/en/function.date.php"
-  class="external text" target="_blank"
-  rel="nofollow noreferrer noopener">PHP Date Documentation</a> for more
-  information.
+  2012" or "m-d-y" for "12-31-12").
 
 ### Item Selection Options Tab
 
@@ -234,7 +190,7 @@ alt="Help30-article-category-list-show-date-en.png" />
 src="https://docs.joomla.org/images/f/f2/Help-4x-Menus-Menu-Item-Tags-Items-Items-Compact-List-Item-Selection-options-screenshot-en.png"
 decoding="async" data-file-width="600" data-file-height="187"
 width="600" height="187"
-alt="Help-4x-Menus-Menu-Item-Tags-Items-Items-Compact-List-Item-Selection-options-screenshot-en.png" />
+alt="Menu Item Tags Items Compact List Item Selection options tab" />
 
 - **Match Type.** (Use Global (Any), All, Any) All will return items
   that have all of the tags. Any will return items that have at least
@@ -244,18 +200,19 @@ alt="Help-4x-Menus-Menu-Item-Tags-Items-Items-Compact-List-Item-Selection-option
 
 ### Integration Tab
 
+- **RSS Feed Link**. If set to Show, a Feed Link will show up as a feed
+  icon in the address bar of most browsers.
+
 ### Common Options
 
-See [Menus: Edit/New
-Item](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en "Help4.x:Menu Item: New Item/en")
-for help on fields common to all Menu Item types located in the
-following Tabs:
+See Menus: New Item for help on fields common to all Menu Item types, including:
 
-- **Link Type**
-- **Page Display**
-- **Metadata**
-- **Associations**
-- **Module Assignment**
+- Right Panel
+- Link Type
+- Page Display
+- Metadata
+- Associations
+- Module Assignment
 
 ## Toolbar
 
@@ -275,12 +232,10 @@ above. The functions are:
 *Example Front End Site images are generic images using Joomla! core
 installation supplied free Front End Templates. The actual view can
 depend on the installed custom template used and the template's style
-for those views on a Joomla! website.* Tags List Layout: <img
+for those views on a Joomla! website.* Tags List Layout:
+
+<img
 src="https://docs.joomla.org/images/6/68/Help-4x-Menus-Menu-Tags-Compact-List-front-end-screenshot-en.png"
 decoding="async" data-file-width="569" data-file-height="421"
 width="569" height="421"
-alt="Help-4x-Menus-Menu-Tags-Compact-List-front-end-screenshot-en.png" />
-
-## Related Information
-- [Menu Item: Tagged Items List](https://docs.joomla.org/Help4.x:Menu_Item:_Tagged_Items)       | Used to create a 'Tagged List of Items' page per tag(s) selected. |
-- [Menu Item: List All Tags](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Tags) | Used to create a 'List of All Tags' page per tag(s) selected.     |
+alt="Menu Tags Compact List front end screenshot" />

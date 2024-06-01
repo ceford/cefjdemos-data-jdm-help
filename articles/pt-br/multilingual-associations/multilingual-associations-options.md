@@ -7,7 +7,7 @@ associações multilíngues.
 
 ## Como acessar
 
-- **Componentes **→** Associações multilíngues**
+- **Componentes → Associações multilíngues**
   - acione o (clique no) botão **Opções** na barra das ferramentas
 
 ## Captura da tela

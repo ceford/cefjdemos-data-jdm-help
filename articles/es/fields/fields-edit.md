@@ -9,7 +9,7 @@ The helpscreen show as example Users.
 
 ## Cómo Acceder
 
-**Usuarios **→** Campos**
+**Usuarios → Campos**
 
 Para agregar un campo:
 
@@ -40,8 +40,7 @@ Parámetros para todos los Campos Personalizados:
 
 - **Tipo**. Si crea un campo, puede elegir uno de los 16 tipos de
   campos. Al guardar el campo, el tipo es permanente. No se puede
-  cambiar más adelante. [Learn
-  more.](https://docs.joomla.org/J3.x:Adding_custom_fields/Calendar_Field/en "J3.x:Adding custom fields/Calendar Field/en")
+  cambiar más adelante.
 - **Nombre**. El nombre se utilizará para identificar el campo. Deje
   esto en blanco y Joomla completará el valor predeterminado con el
   título.
@@ -73,8 +72,7 @@ Parámetros para todos los Campos Personalizados:
     puede eliminar permanentemente de la base de datos con la función
     Vaciar Papelera en el Administrador de
     [Campos](https://docs.joomla.org/Help4.x:Fields/es#selectstatus "Help4.x:Fields/es").
-    [Learn
-    more.](https://docs.joomla.org/J4.x:Deleting_an_Article/en "J4.x:Deleting an Article/en")
+
 - **Grupo de campos**. Puede asignar un campo personalizado a uno o más
   grupos de campos.
 - **Categoría**. Puede asignar un campo personalizado a una o más
@@ -192,8 +190,7 @@ alt="Help-4x-Fields-Edit-publishing-subscreen-es.png" />
 
 This is where you can enter permissions for this field.
 
-[Learn
-more.](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/en#hierarchylevels "J3.x:Access Control List Tutorial/en")
+
 
 <img
 src="https://docs.joomla.org/images/thumb/a/ad/Help-4x-Fields-Edit-permissions-subscreen-es.png/600px-Help-4x-Fields-Edit-permissions-subscreen-es.png"
@@ -212,8 +209,7 @@ To change the permissions for this field, do the following.
       information for this field.
     - **Edit Custom Field Value.** Users can edit the field value.
 3.  Select the desired permission for the action you wish to change.
-    - **Inherited**. Inherited for users in this Group from the [Global
-      Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#permissions "Help4.x:Site Global Configuration/en"),
+    - **Inherited**. Inherited for users in this Group from the Global Configuration,
       parent group, or category.
     - **Allowed**. Allowed for users in this Group.Note: If this action
       is Denied at one of the higher levels, the Allowed permission here
@@ -226,7 +222,7 @@ To change the permissions for this field, do the following.
 ## Barra de herramientas
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Save**. Saves the field and stays in the current screen.
 - **Save & Close**. Saves the field and closes the current screen.

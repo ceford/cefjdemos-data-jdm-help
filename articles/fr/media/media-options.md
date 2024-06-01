@@ -8,7 +8,7 @@ check, MIME type blacklisting, and more options.
 
 ## Comment y accéder ?
 
-**Contenus **→** Médias**
+**Contenus → Médias**
 
 - Cliquez sur le bouton **Paramètres** dans la barre d'outils.
 
@@ -63,8 +63,7 @@ alt="Help-4x-Media-Options-screen-fr.png" />
 
 ### Droits
 
-This section lets you set up the default [Access Control
-List](https://docs.joomla.org/Access_Control_List/en "Access Control List/en")
+This section lets you set up the default Access Control List
 permissions for all media.
 
 <img
@@ -89,8 +88,7 @@ To change the permissions for media, do the following.
     - **Edit**. Users can edit media.
 3.  Sélectionnez l'autorisation souhaitée pour l'action que vous
     souhaitez modifier.
-    - **Inherited**. Inherited for users in this Group from the [Global
-      Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#permissions "Help4.x:Site Global Configuration/en")
+    - **Inherited**. Inherited for users in this Group from the Global Configuration
       permissions.
     - **Autorisé**. Autorisé pour les utilisateurs de ce groupe. Note:
       If this action is Denied at one of the higher levels, the Allowed
@@ -125,6 +123,6 @@ En haut de la page, vous verrez la barre d'outils présentée dans la
 ## Informations connexes
 
 - Related Help screen:
-  [Media](https://docs.joomla.org/Help4.x:Media/en "Help4.x:Media/en").
+  Media.
 - Tutorial: [Managing
   Media](https://docs.joomla.org/J4.x:Managing_Media/en "J4.x:Managing Media/en").

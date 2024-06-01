@@ -18,7 +18,7 @@ filho acesso a níveis aos quais seu grupo pai já tem acesso.
 
 ## Como acessar
 
-- Selecione **Usuários **→** Níveis de acesso** no menu da
+- Selecione **Usuários → Níveis de acesso** no menu da
   administração. Então...
   - Selecione um link da coluna **Nome do nível** para editar um nível
     existente ou...

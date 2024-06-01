@@ -7,7 +7,7 @@ die het kenmerk 'Speciaal' hebben in een blogweergave te tonen.
 
 ## Hoe toegang te krijgen
 
-**Menu's **→** \[naam van het menu\]**
+**Menu's → \[naam van het menu\]**
 
 Om een menu-item aan te maken:
 
@@ -108,12 +108,12 @@ alt="Help-4x-Menus-Item-Articles-Featured-Articles-blog-layout-subscreen-nl.png"
     de eerste kolom totdat deze vol is, en vervolgens in de volgende
     kolom, bijvoorbeeld:
 
-- 
+-
   - Across: Links naar rechts: Om de artikelen van links naar rechts te
     tonen over de kolommen heen tot de laatste kolom is bereikt, en
     vervolgens weer terug naar de eerste kolom, bijvoorbeeld:
 
-- 
+-
 - **\# Links**. **\# Links**. Het aantal artikelen waarvan alleen de
   titel als link getoond moet worden in het 'Links' gedeelte van de
   pagina. Deze links staan een Gebruiker toe om te navigeren naar
@@ -186,7 +186,7 @@ alt="Help-4x-Menus-Item-Articles-Featured-Articles-blog-layout-subscreen-nl.png"
 ### Opties
 
 De speciale artikelen weergave heeft de volgende artikelopties, zoals
-hieronder blogweergegeven.  
+hieronder blogweergegeven.
 \**Gebruik artikel instellingen:* Gebruik de waarde van [Artikelen:
 Bewerken](https://docs.joomla.org/Help4.x:Articles:_Edit/nl "Help4.x:Articles: Edit/nl").
 Deze instelling geeft u de mogelijkheid om verschillende opties te
@@ -226,28 +226,24 @@ Categorie
 - **Category**. **Toon categorie**. Het al dan niet tonen van de
   categorie van een artikel.
 - **Link Category**. nlNote: You can set this to be either a blog or
-  list layout with the [Choose a
-  Layout](https://docs.joomla.org/Help4.x:Articles:_Options/en#choosealayout "Help4.x:Articles: Options/en")
+  list layout with the Choose a Layout
   option in the Category Tab.
 - **Parent Category**. nl
 - **Link Parent Category**. nlNote: You can set this to be either a blog
-  or list layout with the [Choose a
-  Layout](https://docs.joomla.org/Help4.x:Articles:_Options/en#choosealayout "Help4.x:Articles: Options/en")
+  or list layout with the Choose a Layout
   option in the Category Tab.
 
 Associaties
 
-- **Associations**. nl [Multilingual
-  only.](https://docs.joomla.org/Help4.x:Multilingual_Associations/en "Help4.x:Multilingual Associations/en")
+- **Associations**. nl Multilingual only.
 
 Auteur
 
 - **Author**. nl
 - **Link to Author's Contact Page**. nlNote: The author must be set up
   as a
-  [Contact](https://docs.joomla.org/Help4.x:Contacts:_Edit/en "Help4.x:Contacts: Edit/en").
-  Also, a link will not show if there is an [Author
-  Alias](https://docs.joomla.org/Help4.x:Articles:_Edit/en#createdbyalias "Help4.x:Articles: Edit/en")
+  Contact.
+  Also, a link will not show if there is an Author Alias
   value for the article.
 
 **Date**
@@ -303,7 +299,7 @@ inclusief:
   venster](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#rightpanel "Help4.x:Menu Item: New Item/nl")
 - [Linktype](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#linktype "Help4.x:Menu Item: New Item/nl")
 - [Paginaweergave](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#pagedisplay "Help4.x:Menu Item: New Item/nl")
-- [Metadata](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#metadata "Help4.x:Menu Item: New Item/nl")
+- Metadata
 - [Associaties](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#associations "Help4.x:Menu Item: New Item/nl")
 - [Moduletoewijzing](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#moduleassignment "Help4.x:Menu Item: New Item/nl")
 

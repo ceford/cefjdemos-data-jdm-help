@@ -7,7 +7,7 @@ composant d'associations multilingues.
 
 ## Comment y accéder ?
 
-- **Composants **→** Associations multilingues**
+- **Composants → Associations multilingues**
   - Cliquez sur le bouton **Paramètres** dans la barre d'outils.
 
 ## Capture d'écran
@@ -35,8 +35,7 @@ To change the permissions for associations, do the following.
       accéder à l'interface d'administration utilisateur.
 3.  Sélectionnez l'autorisation souhaitée pour l'action que vous
     souhaitez modifier.
-    - **Inherited**. Inherited for users in this Group from the [Global
-      Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#permissions "Help4.x:Site Global Configuration/en")
+    - **Inherited**. Inherited for users in this Group from the Global Configuration
       permissions.
     - **Autorisé**. Autorisé pour les utilisateurs de ce groupe.Note: If
       this action is Denied at one of the higher levels, the Allowed

@@ -7,7 +7,7 @@ beschikbaar voor een Joomla website.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Systeem **→** Beheren venster **→** Beheerder modules**
+- Selecteer **Systeem → Beheren venster → Beheerder modules**
   vanuit het beheermenu. Dan...
   - Selecteer de **Nieuw** knop in de werkbalk om een lijst met
     beschikbare modules te zien en om een nieuwe aan te maken.
@@ -43,4 +43,4 @@ alt="Help-4x-Modules-Administrators-New-nl.png" />
 
 ## Verwante informatie
 
-- [Modules](https://docs.joomla.org/Help4.x:Modules/nl "Help4.x:Modules/nl")
+- Modules

@@ -9,7 +9,7 @@ MIME-type zwarte lijs en meer opties voor mediabeheer.
 
 ## Hoe toegang te krijgen
 
-**Inhoud **→** Media**
+**Inhoud → Media**
 
 - Klik de **Opties** werkbalk knop.
 
@@ -64,8 +64,7 @@ alt="Help-4x-Media-Options-screen-nl.png" />
 
 ### Rechten
 
-This section lets you set up the default [Access Control
-List](https://docs.joomla.org/Access_Control_List/en "Access Control List/en")
+This section lets you set up the default Access Control List
 permissions for all media.
 
 <img
@@ -127,6 +126,6 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 ## Verwante informatie
 
 - Verwante helpschermen:
-  [Media](https://docs.joomla.org/Help4.x:Media/nl "Help4.x:Media/nl").
+  Media.
 - Tutorial: [Managing
   Media](https://docs.joomla.org/J4.x:Managing_Media/en "J4.x:Managing Media/en").

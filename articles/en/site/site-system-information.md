@@ -1,4 +1,4 @@
-<!-- Filename: Help4.x:Site_System_Information / Display title: Site System Information -->
+<!-- Filename: Help4.x:Site_System_Information / Display title: System Information -->
 
 ## Description
 
@@ -14,14 +14,13 @@ troubleshooting setup problems.
   This must be done in different locations throughout your Joomla!
   installation, depending on the specific setting.
 - Many settings in the Configuration File screen can be changed from the
-  [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en "Help4.x:Site Global Configuration/en")
+  Global Configuration
   screen. Some settings shown here depend on your host server
   configuration and cannot be changed from inside Joomla!.
 
 ## How to access
 
-- Select **System **→** Information Panel **→** System Information**
+- Select **System → Information Panel → System Information**
   from the Administrator menu.
 
 ## Screenshot
@@ -30,9 +29,9 @@ troubleshooting setup problems.
 src="https://docs.joomla.org/images/e/eb/Help-4x-system-system-information-en.png"
 decoding="async" data-file-width="800" data-file-height="577"
 width="800" height="577"
-alt="Help-4x-system-system-information-en.png" />
+alt="system information screenshot" />
 
-## Details
+## Form Tabs
 
 - System Information
 - PHP Settings
@@ -75,7 +74,7 @@ Joomla! site.
 <img
 src="https://docs.joomla.org/images/3/34/Help-4x-system-php-settings-en.png"
 decoding="async" data-file-width="400" data-file-height="400"
-width="400" height="400" alt="Help-4x-system-php-settings-en.png" />
+width="400" height="400" alt="system php settings screenshot" />
 
 This screen shows the relevant PHP Settings information. If any of these
 is highlighted as incorrect should be taken care of to rectify the
@@ -105,7 +104,7 @@ situation.
 src="https://docs.joomla.org/images/7/7f/Help-4x-system-configuration-file-en.png"
 decoding="async" data-file-width="600" data-file-height="420"
 width="600" height="420"
-alt="Help-4x-system-configuration-file-en.png" />
+alt="system configuration file screenshot" />
 
 This screen shows the contents of the current Joomla!
 *configuration.php* file which is stored under the main **\<path to
@@ -122,7 +121,7 @@ to see more information about these settings and to make changes.
 src="https://docs.joomla.org/images/a/a7/Help-4x-system-folder-permissions-en.png"
 decoding="async" data-file-width="600" data-file-height="381"
 width="600" height="381"
-alt="Help-4x-system-folder-permissions-en.png" />
+alt="system folder permissions screenshot" />
 
 This screen shows a list of the directories that the webserver should
 have write access to. Please note that all directories listed on this
@@ -134,7 +133,7 @@ permissions to be able to install and use Joomla! successfully.
 <img
 src="https://docs.joomla.org/images/f/fc/Help-4x-system-php-information-en.png"
 decoding="async" data-file-width="600" data-file-height="324"
-width="600" height="324" alt="Help-4x-system-php-information-en.png" />
+width="600" height="324" alt="system php information screenshot" />
 
 This screen displays the full configuration of the PHP server side
 scripting language that Joomla! runs on, together with all the
@@ -162,13 +161,13 @@ about how PHP is implemented on the server.
 
 For full details on the information contained within the PHP Info screen
 visit:
-<a href="http://php.net/phpinfo" class="external text" target="_blank"
+<a href="http://php.net/phpinfo"
 rel="nofollow noreferrer noopener">http://php.net/phpinfo</a>.
 
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Download as text.** Downloads the System Information in a text file.
 - **Download as JSON.** Downloads the System Information in a JSON file.

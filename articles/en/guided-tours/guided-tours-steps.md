@@ -31,8 +31,8 @@ Enter a tour's steps screen by selecting the steps number from the Steps column.
 
 ## List Filters
 
-**Search bar**. Near the top of the page you will see the search bar shown in the [Screenshot](#screenshot) above.
-- **Search by Text**. Enter part of the search term and click the Search icon. Hover to see a Tooltip indicating which fields will be searched.  
+**Search bar**. Near the top of the page you will see the search bar shown in the Screenshot above.
+- **Search by Text**. Enter part of the search term and click the Search icon. Hover to see a Tooltip indicating which fields will be searched.
   To 'Search by ID' enter "id:x", where "x" is the ID number (for example, "id:19").
   Note that when step titles and descriptions are language keys, they are not searchable.
 - **Filter Options**. Click to display the additional filters.
@@ -41,18 +41,18 @@ Enter a tour's steps screen by selecting the steps number from the Steps column.
   - Select from the dropdown list. Ordering may be in ascending or descending order.
   - Click a column heading. The column heading toggles between ascending and
      descending order.
-- **Number to Display**. Shows the number of steps in a list. Select from the dropdown list to change the number displayed.  
+- **Number to Display**. Shows the number of steps in a list. Select from the dropdown list to change the number displayed.
   The default for a site is '20' but this may be changed in the Global Configuration.
 
 ## Filter options
 
-Near the top of the page you will see the filter bar shown in the [Screenshot](#screenshot) above.
+Near the top of the page you will see the filter bar shown in the Screenshot above.
 
 - **Select Status**. Select from Trashed / Unpublished / Published / Archived / All.
 
 ## Pagination
 
-**Page Controls**. When the number of steps is more than one page, you will see a page control bar near the bottom of the page shown in the [Screenshot](#screenshot) above. The current page number being viewed has a dark colour background.
+**Page Controls**. When the number of steps is more than one page, you will see a page control bar near the bottom of the page shown in the Screenshot above. The current page number being viewed has a dark colour background.
 
 - **Start**. Click to go to the first page.
 - **Prev**. Click to go to the previous page.
@@ -62,7 +62,7 @@ Near the top of the page you will see the filter bar shown in the [Screenshot](#
 
 ## Toolbar
 
-At the top of the page you will see the toolbar shown in the [Screenshot](#screenshot) above.
+At the top of the page you will see the toolbar shown in the Screenshot above.
 
 - **New**. Opens the editing screen to create a new step.
 - **Actions**. Reveals a list of actions for selected steps. Check one or more steps checkboxes to activate the list.

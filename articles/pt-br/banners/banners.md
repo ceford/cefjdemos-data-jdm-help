@@ -12,7 +12,7 @@ categoria para banners **antes** que um banner possa ser criado.
 
 ## Como acessar
 
-- Selecione **Componentes **→** Banners **→** Banners** no menu
+- Selecione **Componentes → Banners → Banners** no menu
   administrativo.
 - Ou selecione um botão numerado na [Gerenciador das categorias para
   banners](https://docs.joomla.org/Help4.x:Banners:_Categories/pt-br "Help4.x:Banners: Categories/pt-br")
@@ -50,14 +50,14 @@ banners para classificar a lista pelo valor dessa coluna.
   - Selecione o ícone de "Ordenação" <img
     src="https://docs.joomla.org/images/e/ee/Help30-Ordering-colheader-icon.png"
     decoding="async" data-file-width="12" data-file-height="23" width="12"
-    height="23" alt="Help30-Ordering-colheader-icon.png" /> no cabeçalho
+    height="23" alt="Ordering column header icon" /> no cabeçalho
     da tabela para torná-lo o item de ordenação ativo. Os ícones de
     ordenação em cada linha mudarão de cinza claro para cinza escuro e o
     ponteiro mudará para uma seta de arrastar ao passar o mouse.
   - Selecione um dos ícones de "Ordenação" <img
     src="https://docs.joomla.org/images/8/87/Help30-Ordering-colheader-grab-bar-icon.png"
     decoding="async" data-file-width="10" data-file-height="21" width="10"
-    height="21" alt="Help30-Ordering-colheader-grab-bar-icon.png" /> e
+    height="21" alt="Ordering drag icon" /> e
     arraste-o para cima ou para baixo para alterar a posição dessa linha
     na lista. Os itens serão exibidos na nova ordem dentro da posição.
 - **Estado**: O estado de publicação do item.
@@ -128,7 +128,7 @@ captura de tela acima. As funções são:
   disponíveis.
 - **Selecionar cliente**: Selecione a partir da lista dos clientes
   disponíveis.
-- 
+-
 
 **Selecionar linguagem**: Seleciona na lista de linguagens disponíveis.
 
@@ -203,14 +203,14 @@ para mais informações.
 |                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                              |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Telas de ajuda relacionadas                                                                                                                                      | Descrição                                                                                                                                                                                                                                                                                                                                                                                    |
-| [Banners: Editar](https://docs.joomla.org/Help4.x:Banners:_Edit/pt-br "Help4.x:Banners: Edit/pt-br")                                                             | Usado para adicionar ou editar banners que podem ser mostrados em seu website Joomla!. Lembre-se de criar pelo menos um <a                                                                                                                                                                                                                                                                   
-                                                                                                                                                                    href="https://docs.joomla.org/index.php?title=Help4.x:Components_Banners_Clients/pt-br&amp;action=edit&amp;redlink=1"                                                                                                                                                                                                                                                                         
-                                                                                                                                                                    class="new"                                                                                                                                                                                                                                                                                                                                                                                   
-                                                                                                                                                                    title="Help4.x:Components Banners Clients/pt-br (page does not exist)">cliente                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                    dos banners</a> e uma<a                                                                                                                                                                                                                                                                                                                                                                       
-                                                                                                                                                                    href="https://docs.joomla.org/index.php?title=Help4.x:Components_Banners_Categories/pt-br&amp;action=edit&amp;redlink=1"                                                                                                                                                                                                                                                                      
-                                                                                                                                                                    class="new"                                                                                                                                                                                                                                                                                                                                                                                   
-                                                                                                                                                                    title="Help4.x:Components Banners Categories/pt-br (page does not exist)">categoria                                                                                                                                                                                                                                                                                                           
+| [Banners: Editar](https://docs.joomla.org/Help4.x:Banners:_Edit/pt-br "Help4.x:Banners: Edit/pt-br")                                                             | Usado para adicionar ou editar banners que podem ser mostrados em seu website Joomla!. Lembre-se de criar pelo menos um <a
+                                                                                                                                                                    href="https://docs.joomla.org/index.php?title=Help4.x:Components_Banners_Clients/pt-br&amp;action=edit&amp;redlink=1"
+                                                                                                                                                                    class="new"
+                                                                                                                                                                    title="Help4.x:Components Banners Clients/pt-br (page does not exist)">cliente
+                                                                                                                                                                    dos banners</a> e uma<a
+                                                                                                                                                                    href="https://docs.joomla.org/index.php?title=Help4.x:Components_Banners_Categories/pt-br&amp;action=edit&amp;redlink=1"
+                                                                                                                                                                    class="new"
+                                                                                                                                                                    title="Help4.x:Components Banners Categories/pt-br (page does not exist)">categoria
                                                                                                                                                                     para banners</a> antes de criar quaisquer banners.                                                                                                                                                                                                                                                                                                                                            |
 | [Banners: Opções](https://docs.joomla.org/Help4.x:Banners:_Options/pt-br "Help4.x:Banners: Options/pt-br")                                                       | Opções globais (configurações) para clientes dos banners.                                                                                                                                                                                                                                                                                                                                    |
 | [Banners: Categorias](https://docs.joomla.org/Help4.x:Banners:_Categories/pt-br "Help4.x:Banners: Categories/pt-br")                                             | Usado para visualizar uma lista contendo as categorias para banners existentes, editar categorias para banners atuais e criar novas. Observe que as categorias para banners são separadas das outras categorias, como artigos, contatos, feeds para notícias e links da web. Deve haver pelo menos um cliente dos banners e uma categoria para banners antes que um banner possa ser criado. |

@@ -9,7 +9,7 @@ rapporteren
 ## Hoe toegang te krijgen
 
 U kunt toegang krijgen tot de Extensie mogelijkheden door middel van het
-menu **Gebruikers **→** Privacy **→** Mogelijkheden**.
+menu **Gebruikers → Privacy → Mogelijkheden**.
 
 ## Schermafbeelding
 

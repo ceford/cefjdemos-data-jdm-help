@@ -8,7 +8,7 @@ whole site.
 
 ## How to access
 
-- **System **→** Setup Panel **→** Global Configuration**
+- **System → Setup Panel → Global Configuration**
 
 ## Screenshot
 
@@ -33,8 +33,7 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/en "
   various locations (for example the Backend browser title bar and Site
   Offline pages).
 - **Site Offline**. Select whether access to the Frontend is available.
-  [Learn
-  more.](https://docs.joomla.org/J3.x:Taking_the_website_temporarily_offline/en "J3.x:Taking the website temporarily offline/en")
+
   - **Offline Message**.
     - Use Custom Message: The message uses the value defined in the
       'Custom Message' field.
@@ -46,8 +45,7 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/en "
 - **Default Editor**. Select the default text editor. Registered Users
   will be able to change their preference in their personal details.
 - **Default Captcha**. Select the default captcha for your site. You may
-  need to enter required information in the [captcha
-  plugin](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_CAPTCHA_Group/en "Chunk4x:Extensions Plugin Manager Edit CAPTCHA Group/en").
+  need to enter required information in the captcha plugin.
 - **Default Access Level**. Select the default access level for new
   items.
 - **Default List Limit**. Sets the default length of lists in the
@@ -57,7 +55,7 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/en "
 - **Feed Email Address**. The RSS and Atom newsfeeds include the
   author's email address.
   - Author Email: Use each author's email from
-    [Users](https://docs.joomla.org/Help4.x:Users/en "Help4.x:Users/en")
+  User Profile
     in the news feed.
   - Site Email: Include the site [From Email](#fromemail) address for
     each article.
@@ -135,8 +133,7 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_System/en
 
 #### Cache
 
-- **System Cache**. Enable caching and set caching level. [Learn
-  more.](https://docs.joomla.org/Cache/en "Cache/en")
+- **System Cache**. Enable caching and set caching level.
   - Conservative level: smaller system cache.
   - Progressive level: faster, bigger system cache, includes module
     renderers cache. Not appropriate for extremely large sites.
@@ -407,7 +404,7 @@ components and content.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Save**. Saves the global configuration options and stays in the
   current screen.
@@ -426,13 +423,3 @@ At the top of the page you will see the toolbar shown in the
 - The settings are saved in '\[Joomla\]/configuration.php'. You have to
   either activate the FTP-layer or make the 'configuration.php' file
   writable to save your changes.
-
-## Related Information
-
-- [Backup
-  Basics](https://docs.joomla.org/Backup_Basics_for_a_Joomla!_Web_Site/en "Backup Basics for a Joomla! Web Site/en")
-- [Security
-  Checklist](https://docs.joomla.org/Security_Checklist/en "Security Checklist/en")
-- <img src="https://docs.joomla.org/images/4/49/Compat_icon_3_x_long.png"
-  decoding="async" data-file-width="75" data-file-height="16" width="75"
-  height="16" alt="Joomla 3.x" />

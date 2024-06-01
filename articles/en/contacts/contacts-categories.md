@@ -8,7 +8,7 @@ those for Articles, Banners, News Feeds, and so on.
 
 ## How to Access
 
-- Select **Components **→** Contacts **→** Categories** from the
+- Select **Components → Contacts → Categories** from the
   Administrator menu.
 
 ## Screenshot
@@ -17,7 +17,7 @@ those for Articles, Banners, News Feeds, and so on.
 src="https://docs.joomla.org/images/7/72/Help-4x-Components-Contact-Categories-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="338"
 width="800" height="338"
-alt="Help-4x-Components-Contact-Categories-screen-en.png" />
+alt="Contacts categories list" />
 
 ## Column Headers
 
@@ -38,14 +38,14 @@ Click on the column heading to sort the list by that column's value.
   - Select the Ordering icon <img
     src="https://docs.joomla.org/images/e/ee/Help30-Ordering-colheader-icon.png"
     decoding="async" data-file-width="12" data-file-height="23" width="12"
-    height="23" alt="Help30-Ordering-colheader-icon.png" /> in the Table
+    height="23" alt="Ordering column header icon" /> in the Table
     heading to make it the active ordering item. The ordering icons in
     each row will change from light grey to dark grey and the pointer
     will change to a drag arrow on hover.
   - Select one of the Ordering icons <img
     src="https://docs.joomla.org/images/8/87/Help30-Ordering-colheader-grab-bar-icon.png"
     decoding="async" data-file-width="10" data-file-height="21" width="10"
-    height="21" alt="Help30-Ordering-colheader-grab-bar-icon.png" /> and
+    height="21" alt="Ordering drag icon" /> and
     drag it up or down to change the position of that row in the list.
     The items will display in the new order within the Position.
 - **Status**. The published status of the item.
@@ -56,23 +56,21 @@ Click on the column heading to sort the list by that column's value.
 - **Published:**
   <img src="https://docs.joomla.org/images/1/10/Help-4x-icon-tick.png"
   decoding="async" data-file-width="27" data-file-height="20" width="27"
-  height="20" alt="Help-4x-icon-tick.png" /> The number of published
+  height="20" alt="tick icon" /> The number of published
   items. Click the numbered button to show a list of just those items.
 - **Unpublished:**
   <img src="https://docs.joomla.org/images/c/c9/Help-4x-icon-cross.png"
   decoding="async" data-file-width="21" data-file-height="20" width="21"
-  height="20" alt="Help-4x-icon-cross.png" /> The number of unpublished
+  height="20" alt="cross icon" /> The number of unpublished
   items. Click the numbered button to show a list of just those items.
 - **Archived:** Whether and how many items has been archived. You see
   the Archived items by clicking on the icon in this column.
 - **Trashed**
   <img src="https://docs.joomla.org/images/5/59/Help-4x-icon-bin.png"
   decoding="async" data-file-width="18" data-file-height="20" width="18"
-  height="20" alt="Help-4x-icon-bin.png" /> The number of trashed items.
+  height="20" alt="bin icon" /> The number of trashed items.
   Click the numbered button to show a list of just those items.
-- **Access**. The [viewing Access
-  Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/en")
-  for this item.
+- **Access**. The viewing Access  Level   for this item.
 - **Association:** Shows which menu item this item is associated.
 - **Language**. Item language.
 - **ID**. This is a unique identification number for this item assigned
@@ -84,7 +82,7 @@ Click on the column heading to sort the list by that column's value.
 ## List Filters
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -101,8 +99,7 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 - **Select Status**. Select from Trashed / Unpublished / Published /
   Archived / All.
 - **Select Access**. Select from the list of available viewing access
@@ -114,7 +111,7 @@ shown in the [Screenshot](#screenshot) above.
 
 **Page Controls**. When the number of items is more than one page, you
 will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -135,7 +132,7 @@ open a pop up window as shown below.
 src="https://docs.joomla.org/images/e/ef/Help4x-colheader-batch-process-categories-en.png"
 decoding="async" data-file-width="600" data-file-height="385"
 width="600" height="385"
-alt="Help4x-colheader-batch-process-categories-en.png" />
+alt="batch process categories dialog" />
 
 You can change one value or all four values at one time.
 
@@ -179,25 +176,21 @@ values. Note that this does *not* uncheck the check boxes for the items.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **New**. Opens the editing screen to create a new category.
 - **Actions:** Reveals a list of actions for selected Items. Check one
   or more Item checkboxes to activate the list.
   - **Publish**. Makes the selected category available to visitors to
     your website.
-
   - **Unpublish.** Makes the selected category unavailable to visitors
     to your website.
-
   - **Archive**. Changes the status of the selected category to indicate
     that they are archived. Archived category can be moved back to the
     published or unpublished state by selecting 'Archived' in the
     'Select Status' filter and changing the status of the category.
-
   - **Check-In**. Checks-in the selected category. Works with one or
     multiple category selected.
-
   - **Trash**. Changes the status of the selected category to indicate
     that they are trashed.Trashed category can still be recovered by
     selecting 'Trashed' in the 'Select Status' filter and changing the
@@ -205,24 +198,12 @@ At the top of the page you will see the toolbar shown in the
     permanently delete trashed category, select 'Trashed' in the 'Select
     Status' filter, select the category to be permanently deleted, then
     click the 'Empty Trash' toolbar icon.
-
   - **Batch**. Batch processes the selected category. Works with one or
     multiple items selected.
 - **Rebuild.** Reconstructs and refreshes the category table. Normally,
   you do *not* need to rebuild this table. This function is provided in
   case the data in the table becomes corrupted.
 - **Options.** Opens the Options window where settings such as default
-  parameters can be edited. See [Contact Manager
-  Options](https://docs.joomla.org/Help4.x:Contacts:_Options/en "Help4.x:Contacts: Options/en")
+  parameters can be edited. See Contact Options
   for more information.
 - **Help**. Opens this help screen.
-
-## Related Information
-
-- To work with Contacts: [Contact Manager:
-  Contacts](https://docs.joomla.org/Help4.x:Contacts/en "Help4.x:Contacts/en")
-- To add new Contact Categories: <a
-  href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit_Category/en&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Help4.x:Contacts: New or Edit Category/en (page does not exist)">Category
-  Manager - New/Edit</a>

@@ -16,7 +16,7 @@ options in order for the redirects you create to function.
 
 ## How to access
 
-- Select **System **→** Manage panel **→** Redirects** from the
+- Select **System → Manage panel → Redirects** from the
   Administrator menu.
 
 ## Screenshot
@@ -25,7 +25,7 @@ options in order for the redirects you create to function.
 src="https://docs.joomla.org/images/e/ec/Help-4x-Components-Redirect-Manager-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="397"
 width="800" height="397"
-alt="Help-4x-Components-Redirect-Manager-screen-en.png" />
+alt="Redirect links screenshot" />
 
 ## Column Headers
 
@@ -60,8 +60,10 @@ Click on the column heading to sort the list by that column's value.
 
 ## List Filters
 
-**Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+### Search bar
+
+Near the top of the page you will see the search bar
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -78,17 +80,18 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
-**Filter Options**
+### Filter Option
 
 - Status
 - HTTP Status code
 
-**Page Controls**. When the number of items is more than one page, you
+### Page Controls
+
+When the number of items is more than one page, you
 will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -108,7 +111,7 @@ src="https://docs.joomla.org/images/thumb/a/af/Help-4x-Components-Redirect-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/a/af/Help-4x-Components-Redirect-Manager-batch_update-subscreen-en.png 1.5x"
 data-file-width="600" data-file-height="203" width="400" height="135"
-alt="Help-4x-Components-Redirect-Manager-batch update-subscreen-en.png" />
+alt="Redirect batch update dialog" />
 
 - **New URL.** The destination URL to set for the selected redirects.
 - **Comment.** The comment to set for the selected redirects.
@@ -118,7 +121,7 @@ alt="Help-4x-Components-Redirect-Manager-batch update-subscreen-en.png" />
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **New**. Opens the editing screen to create a new item.
 - **Actions:** Reveals a list of actions for selected Items. Check one
@@ -145,12 +148,6 @@ At the top of the page you will see the toolbar shown in the
 - **Options.** Opens the Options window where settings such as default
   parameters can be edited.
 - **Help**. Opens this help screen.
-
-## Options
-
-Click the
-[Options](https://docs.joomla.org/Help4.x:Redirect:_Options/en "Help4.x:Redirect: Options/en")
-button screen to configure this component.
 
 ## Quick Tips
 

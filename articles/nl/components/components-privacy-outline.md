@@ -42,7 +42,7 @@ Dit is een typische volgorde van gebeurtenissen:
 - Als het bericht niet ingestuurd is via een persoonlijk
   informatieformulier:
   - De beheerder gaat naar
-    **Gebruikers **→** Privacy **→** Verzoeken **→** Nieuw** on een
+    **Gebruikers → Privacy → Verzoeken → Nieuw** on een
     nieuw informatieverzoek aan te maken. Het bericht wordt verstuurd
     naar het e-mailadres opgegeven in het verzoek om te bevestigen dat
     het een legitiem verzoek is.
@@ -53,7 +53,7 @@ Dit is een typische volgorde van gebeurtenissen:
   bevestigingsbericht.
 - De beheerder ziet dat privéberichten in de titelbalk openstaande
   berichten heeft.Er zal ook een systeembericht zijn.
-- De beheerder gaat naar **Gebruikers **→** Privacy **→** Verzoeken** en
+- De beheerder gaat naar **Gebruikers → Privacy → Verzoeken** en
   ziet dat de verzoekstatus veranderd is in **Bevestigd**.
 - Voor een gegevens export verzoek zijn gelijksoortige export en e-mail
   knoppen.

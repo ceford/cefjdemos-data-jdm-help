@@ -14,7 +14,7 @@ festgelegt werden sollen.
 
 ## Wie darauf zugreifen
 
-**Inhalt **→** Beiträge**
+**Inhalt → Beiträge**
 
 Einen Beitrag hinzufügen:
 
@@ -46,8 +46,7 @@ alt="Help-4x-content-article-manager-add-new-article-de.png" />
 **Linke Seite**
 
 - **Beitragsinhalt**. Den Inhalt des Beitrages eingeben. Joomla hat 3
-  Editoren, der Standard-[Editor -
-  TinyMCE](https://docs.joomla.org/Help4.x:Editors/de#tinymce "Help4.x:Editors/de")
+  Editoren, der Standard-Editor - TinyMCE
   wird hier gezeigt.
 
 <img
@@ -111,7 +110,7 @@ erfahren.](https://docs.joomla.org/Help4.x:Editors/de#cmscontent "Help4.x:Editor
 **Hinweis**: Dieser Abschnitt kann von einem Benutzer mit
 Administrator-Rechten in [Beiträge:
 Optionen](https://docs.joomla.org/Help4.x:Articles:_Options/de "Help4.x:Articles: Options/de")
-ausgeblendet werden.  
+ausgeblendet werden.
 Dieser Teil zeigt in Beiträgen, Bilder und Links in standardisierten
 Layouts.
 
@@ -188,7 +187,7 @@ alt="Help-4x-screenshot-article-edit-images-links-de.png" />
 **Hinweis**: Dieser Abschnitt kann von einem Benutzer mit
 Administrator-Rechten in [Beiträge:
 Optionen](https://docs.joomla.org/Help4.x:Articles:_Options/de "Help4.x:Articles: Options/de")
-ausgeblendet werden.  
+ausgeblendet werden.
 Optionen, um das Aussehen eines Beitrages im Frontend einzustellen.
 
 <img
@@ -288,7 +287,7 @@ alt="Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-de.png" />
 **Hinweis**: Dieser Abschnitt kann von einem Benutzer mit
 Administrator-Rechten in [Beiträge:
 Optionen](https://docs.joomla.org/Help4.x:Articles:_Options/de "Help4.x:Articles: Options/de")
-ausgeblendet werden.  
+ausgeblendet werden.
 Dieser Teil erlaubt die Eingabe von Parametern und
 [Metadaten](https://docs.joomla.org/Using_The_Meta_Description/de "Using The Meta Description/de")
 des Beitrages.
@@ -349,7 +348,7 @@ alt="Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-de.png" /
 **Hinweis**: Dieser Abschnitt kann von einem Benutzer mit
 Administrator-Rechten in [Beiträge:
 Optionen](https://docs.joomla.org/Help4.x:Articles:_Options/de "Help4.x:Articles: Options/de")
-ausgeblendet werden.  
+ausgeblendet werden.
 Der Tab wird nur bei [Mehrsprachigen
 Seiten](https://docs.joomla.org/Help4.x:Multilingual_Associations/de "Help4.x:Multilingual Associations/de")
 gezeigt.
@@ -399,7 +398,7 @@ alt="Help-4x-screenshot-article-edit-configure-edit-screen-de.png" />
 **Hinweis**: Dieser Abschnitt kann von einem Benutzer mit
 Administrator-Rechten in [Beiträge:
 Optionen](https://docs.joomla.org/Help4.x:Articles:_Options/de "Help4.x:Articles: Options/de")
-ausgeblendet werden.  
+ausgeblendet werden.
 Hier können die Berechtigungen für den Beitrag eingegeben werden. [Mehr
 erfahren.](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/de#hierarchylevels "J3.x:Access Control List Tutorial/de")
 

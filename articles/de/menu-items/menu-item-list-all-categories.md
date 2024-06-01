@@ -8,7 +8,7 @@ werden, um die Beiträge der Kategorie zu zeigen.
 
 ## Wie darauf zugreifen
 
-**Menüs **→** \[Name des Menüs\]**
+**Menüs → \[Name des Menüs\]**
 
 Einen Menüeintrag hinzufügen:
 

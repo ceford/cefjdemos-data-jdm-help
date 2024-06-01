@@ -7,7 +7,7 @@ parameters die algemeen gebruikt worden voor talen.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Systeem **→** Talen in het Beheren venster** vanuit het
+- Selecteer **Systeem → Talen in het Beheren venster** vanuit het
   beheermenu. **Let op:** Talen zitten ook in het Installeren venster.
   Dan ..
   - **Selecteer** de Opties knop in de werkbalk.

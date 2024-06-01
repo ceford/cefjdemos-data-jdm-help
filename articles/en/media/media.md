@@ -15,7 +15,7 @@ defined local folders. Tools available include:
 
 ## How to access
 
-- **Home Dashboard **→** Site **→** Media**.
+- **Home Dashboard → Site → Media**.
 
 ## Screenshot
 
@@ -24,14 +24,14 @@ src="https://docs.joomla.org/images/thumb/5/5a/Help-4x-Media-screen-en.png/800px
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/5a/Help-4x-Media-screen-en.png/1200px-Help-4x-Media-screen-en.png 1.5x, https://docs.joomla.org/images/thumb/5/5a/Help-4x-Media-screen-en.png/1600px-Help-4x-Media-screen-en.png 2x"
 data-file-width="2240" data-file-height="1400" width="800" height="500"
-alt="Help-4x-Media-screen-en.png" />
+alt="Media screen" />
 
 ## Image Display Area
 
 ### Local
 
 This area shows the structure of the local folders of your site, by
-default the **images** folder. [Quick Tip](#quicktips)
+default the **images** folder.
 
 The currently selected folder is also shown in the **Breadcrumbs** above
 the image display area.
@@ -79,37 +79,23 @@ icons appear offering the following actions:
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Upload**. Opens window for uploading images.
 - **Create New Folder**. Opens a dialog to prompt for a new folder name.
   The new folder is created in the currently selected folder.
 - **Delete**. Deletes the selected images.
-- **Options**. Opens [Media
-  Options](https://docs.joomla.org/Help4.x:Media:_Options/en "Help4.x:Media: Options/en").
+- **Options**. Opens the Media Options.
 - **Help**. Opens this help screen.
 
 ## Quick Tips
 
 - If you wish to keep images and documents in separate local folders:
   1.  create a folder in the root of your site, say **files**
-  2.  go to the [Filesystem -
-      Local](https://docs.joomla.org/J4.x:Media:_Options/en "J4.x:Media: Options/en")
+  2.  go to the Filesystem - Local
       plugin and add **files** under **Select directories**.
   3.  Back in the Media component you will see *images* and *files* as
       separate items in the Local panel.
 - The Media's maximum upload size can be changed to an amount other than
-  "10 MB" in the [Media
-  Options](https://docs.joomla.org/Help4.x:Media:_Options/en "Help4.x:Media: Options/en").
+  "10 MB" in the Media Options.
 - You can upload or delete multiple files at the same time.
-
-## Related information
-
-- Tutorial: [Managing
-  Media](https://docs.joomla.org/J4.x:Managing_Media/en "J4.x:Managing Media/en").
-- [Home
-  Dashboard](https://docs.joomla.org/Help4.x:Home_Dashboard/en "Help4.x:Home Dashboard/en"):
-  Access to many default Joomla functions.
-- This
-  [Portal](https://docs.joomla.org/Portal:Joomla_4/en "Portal:Joomla 4/en")
-  brings together information related specifically to Joomla 4.

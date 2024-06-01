@@ -39,7 +39,7 @@ ausgeführt werden:
 ## Wie darauf zugreifen
 
 - Im Administrator-Menü die Option
-  **System **→** Installierenen **→** Überprüfen** wählen.
+  **System → Installierenen → Überprüfen** wählen.
 
 ## Bildschirmfoto
 

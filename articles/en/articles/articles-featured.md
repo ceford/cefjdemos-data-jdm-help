@@ -8,15 +8,10 @@ Home page of a web site, but it can be any page in the site.
 
 ## How to Access
 
-**Content **→** Featured Articles**
-
-To add a Article:
-
-- click the **New** toolbar button
-
-To edit a Article:
-
-- select a **Title** from the list
+* Select **Content → Featured Articles** from the Administrator menu. Then...
+    * Select an existing article **Title** in the list to edit it. Or...
+    * Select the **New** button in the Toolbar to create a new article which
+    you need to mark as Featured.
 
 ## Screenshot
 
@@ -25,7 +20,7 @@ src="https://docs.joomla.org/images/thumb/0/0e/Help-4x-Content-Featured-Articles
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/0/0e/Help-4x-Content-Featured-Articles-screen-en.png/1200px-Help-4x-Content-Featured-Articles-screen-en.png 1.5x, https://docs.joomla.org/images/thumb/0/0e/Help-4x-Content-Featured-Articles-screen-en.png/1600px-Help-4x-Content-Featured-Articles-screen-en.png 2x"
 data-file-width="2648" data-file-height="1600" width="800" height="483"
-alt="Help-4x-Content-Featured-Articles-screen-en.png" />
+alt="Articles featured list" />
 
 ## Column Headers
 
@@ -53,13 +48,10 @@ alt="Help-4x-Content-Featured-Articles-screen-en.png" />
 - **Status**. Status of article. Hover icon for informations.
 - **Title**. The title of the article. Edit the article by clicking on
   the Title.
-- **Access**. The viewing [Access
-  Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Help4.x:Users: Viewing Access Levels/en")
-  for this article.
+- **Access**. The viewing Access level  for this article.
 - **Author**. Name of the User who created this article.
 - **Associations**. Shows the associated articles. Click on the Language
-  Code to open the article. [Multilingual
-  only.](https://docs.joomla.org/Help4.x:Multilingual_Associations/en "Help4.x:Multilingual Associations/en")
+  Code to open the article. Multilingual only.
 - **Language**. Articles language, default is 'All'.
 - **Date Created**. The date this article was created.
 - **Hits**. The number of times an article has been viewed.
@@ -70,7 +62,7 @@ alt="Help-4x-Content-Featured-Articles-screen-en.png" />
 ## List Filters
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -87,13 +79,12 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of articles in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
 ### Filter Options
 
 Near the top of the page you will see the filter bar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Select Status**. Select from Trashed / Unpublished / Published /
   Archived / All.
@@ -109,7 +100,7 @@ Near the top of the page you will see the filter bar shown in the
 
 **Page Controls**. When the number of articles is more than one page,
 you will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -121,7 +112,7 @@ has a dark colour background.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **New**. Opens the editing screen to create a new article.
 - **Actions**. Reveals a list of actions for selected articles. Check
@@ -133,14 +124,11 @@ At the top of the page you will see the toolbar shown in the
   - **Unfeature**. Changes the status of featured articles to
     unfeatured.
   - **Archive**. Changes the status of the selected articles to indicate
-    that they are archived. [Learn
-    more.](https://docs.joomla.org/J4.x:How_to_Archive_an_Article/en "J4.x:How to Archive an Article/en")
+    that they are archived.
   - **Check-In**. Checks-in the selected articles.
   - **Trash**. Changes the status of the selected articles to indicate
-    that they are trashed. [Learn
-    more.](https://docs.joomla.org/J4.x:Deleting_an_Article/en "J4.x:Deleting an Article/en")
-- **Options**. Opens [Articles:
-  Options](https://docs.joomla.org/Help4.x:Articles:_Options/en "Help4.x:Articles: Options/en").
+    that they are trashed.
+- **Options**. Opens Articles: Options.
 - **Help**. Opens this help screen.
 
 ## Quick Tips
@@ -151,18 +139,3 @@ At the top of the page you will see the toolbar shown in the
 - To change the ordering of articles within a category, click on the
   Ordering column heading to sort by this column. Also, it is easier to
   see the ordering if you filter on the desired category.
-
-## Related Information
-
-- [Articles: Options](https://docs.joomla.org/Help4.x:Articles:_Options) Used to set global defaults for menu items that display articles. These default values will be used when 'Use Global' is selected for an option in an Articles menu item.
-- [Articles](https://docs.joomla.org/Help4.x:Articles) The Article list is used to find, mark featured, add and edit articles.
-- [Articles: Edit](https://docs.joomla.org/Help4.x:Articles:_Edit) This is where you can add and edit Articles. You can also select the Category for an Article and indicate whether or not it is Published and if it is selected to appear on the Front Page. |
-| <span class="mw-selflink selflink">Articles: Featured</span> Used to control which 'Featured Articles' are displayed on the Front Page and in what order they are displayed.
-- [Articles: Categories](https://docs.joomla.org/Help4.x:Articles:_Categories) The Articles Categories list is used to find, add, and edit articles categories.
-- [Menus: Archived Articles](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived) Shows a customised list of articles ordered by date or title. Archived articles are no longer published but are still stored on the site.
-- [Menus: Category Blog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog) Used to show articles belonging to a specific Category in a blog layout. Controls the Leading Articles, Intro Articles and additional links to more Articles.
-- [Menus: Category List](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List) Used to show articles belonging to a specific Category in a list layout.
-- [Menus: Create Article](https://docs.joomla.org/Help4.x:Menu_Item:_Create_Article) Allows users to submit an article. Normally this is available only to users who have logged in to the Frontend of the site. Users must have permission to create articles.
-- [Menus: Featured Articles](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles) Used to show all Articles that have been tagged as Featured. Articles are shown in a Blog Layout.
-- [Menus: List All Categories in an Article Category Tree](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories) | Used to show a hierarchical list of Categories. Depending on the selected options for this layout, you can click on a category Title to show the articles in that category.
-- [Menus: Single Article](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article) Used to show one article.

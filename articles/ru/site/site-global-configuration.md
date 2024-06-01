@@ -8,7 +8,7 @@ whole site.
 
 ## Как открыть
 
-- **Система **→** Настройки **→** Общие настройки**
+- **Система → Настройки → Общие настройки**
 
 ## Скриншот
 
@@ -32,8 +32,7 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/en "
   various locations (for example the Backend browser title bar and Site
   Offline pages).
 - **Site Offline**. Select whether access to the Frontend is available.
-  [Learn
-  more.](https://docs.joomla.org/J3.x:Taking_the_website_temporarily_offline/en "J3.x:Taking the website temporarily offline/en")
+
   - **Сообщение при выключенном сайте**.
     - Пользовательское сообщение The message uses the value defined in
       the 'Custom Message' field.
@@ -45,8 +44,7 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/en "
 - **Default Editor**. Select the default text editor. Registered Users
   will be able to change their preference in their personal details.
 - **Default Captcha**. Select the default captcha for your site. You may
-  need to enter required information in the [captcha
-  plugin](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_CAPTCHA_Group/en "Chunk4x:Extensions Plugin Manager Edit CAPTCHA Group/en").
+  need to enter required information in the captcha plugin.
 - **Default Access Level**. Select the default access level for new
   items.
 - **Default List Limit**. Sets the default length of lists in the
@@ -56,7 +54,7 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/en "
 - **Feed Email Address**. The RSS and Atom newsfeeds include the
   author's email address.
   - E-mail автора: Use each author's email from
-    [Users](https://docs.joomla.org/Help4.x:Users/en "Help4.x:Users/en")
+  User Profile
     in the news feed.
   - E-mail сайта: Include the site [From Email](#fromemail) address for
     each article.
@@ -132,8 +130,7 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_System/en
 
 #### Параметры кэша
 
-- **System Cache**. Enable caching and set caching level. [Learn
-  more.](https://docs.joomla.org/Cache/en "Cache/en")
+- **System Cache**. Enable caching and set caching level.
   - Conservative level: smaller system cache.
   - Progressive level: faster, bigger system cache, includes module
     renderers cache. Not appropriate for extremely large sites.
@@ -405,7 +402,7 @@ Manage the permission settings for user groups.
 ## Панель инструментов
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Сохранить**. Сохраняет данный пункт меню и оставляет данный экран
   открытым.

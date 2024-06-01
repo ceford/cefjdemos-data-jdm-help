@@ -8,7 +8,7 @@ advertentie kunt aanmaken.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Componenten **→** Advertenties **→** Adverteerders** in
+- Selecteer **Componenten → Advertenties → Adverteerders** in
   het beheermenu.
   - Klik op de 'Nieuw' knop in de werkbalk om een nieuwe adverteerder
     aan te maken.

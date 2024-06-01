@@ -61,8 +61,8 @@ Plugins**.](https://docs.joomla.org/Chunk4x:List_of_Plugins/en "Chunk4x:List of 
 
 Starting from the Administrator menu:
 
-- Select **Home Dashboard **→** Plugins**. Or..
-- Select **System **→** Manage panel **→** Plugins**. Then...
+- Select **Home Dashboard → Plugins**. Or..
+- Select **System → Manage panel → Plugins**. Then...
   - Select the Plugin's Name in the list of plugins.
 
 ## Screenshot
@@ -71,20 +71,20 @@ Starting from the Administrator menu:
 src="https://docs.joomla.org/images/4/41/Help-4x-Extensions-Plugin-Manager-Edit-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="469"
 width="800" height="469"
-alt="Help-4x-Extensions-Plugin-Manager-Edit-screen-en.png" />
+alt="Plugins by group screen" />
 
 ## Form Fields
 
 ### Plugin Tab
 
-**Left Panel**
+#### Left Panel
 
 If the plugin has configurable options they will appear here. The
 example shown in the Screenshot is the *Content - Confirm Consent*
 plugin which has several configurable parameters which change as options
 are selected.
 
-**Right Panel**
+#### Right Panel
 
 The right panel is the same for all plugins and has the following
 fields:
@@ -115,7 +115,7 @@ fields:
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Save**. Saves the item and stays in the current screen.
 - **Save & Close**. Saves the item and closes the current screen.
@@ -134,10 +134,3 @@ At the top of the page you will see the toolbar shown in the
   to as 'parameters'. You may see the terms 'options' and 'parameters'
   used interchangeably in help documentation and tutorials you
   encounter.
-
-## Related Information
-
-- To install new Plugin Extensions: [Extension Manager - Install
-  Screen](https://docs.joomla.org/Help4.x:Extensions:_Install/en "Help4.x:Extensions: Install/en")
-- To uninstall third-party Plugins: [Extension Manager -
-  Manage](https://docs.joomla.org/Help4.x:Extensions:_Manage/en "Help4.x:Extensions: Manage/en")

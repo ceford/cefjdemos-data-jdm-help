@@ -10,12 +10,8 @@ and one Banner Category defined before you can add your first Banner.
 
 - Select **Components â†’ Banners â†’ Clients** from the drop-down menu
   of the ***Joomla! Administrator Panel***. You can also select the
-  'Clients' menu link from the [Banner Categories
-  Manager](https://docs.joomla.org/Help4.x:Banners:_Categories/en "Help4.x:Banners: Categories/en"),
-  [Banner
-  Manager](https://docs.joomla.org/Help4.x:Banners:_Edit/en "Help4.x:Banners: Edit/en")
-  or the [Banner Tracks
-  Manager](https://docs.joomla.org/Help4.x:Banners:_Tracks/en "Help4.x:Banners: Tracks/en").
+  'Clients' menu link from the Banner Categories Manager,
+  Banners list or the Banners Tracks list.
 
 ## Screenshot
 
@@ -23,7 +19,7 @@ and one Banner Category defined before you can add your first Banner.
 src="https://docs.joomla.org/images/3/3f/Help-4x-components-banner-manager-clients-en.png"
 decoding="async" data-file-width="800" data-file-height="304"
 width="800" height="304"
-alt="Help-4x-components-banner-manager-clients-en.png" />
+alt="banners clients list" />
 
 ## Column Headers
 
@@ -43,19 +39,19 @@ Click on the column heading to sort the list by that column's value.
 - **Published:**
   <img src="https://docs.joomla.org/images/1/10/Help-4x-icon-tick.png"
   decoding="async" data-file-width="27" data-file-height="20" width="27"
-  height="20" alt="Help-4x-icon-tick.png" /> The number of published
+  height="20" alt="published icon tick" /> The number of published
   items. Click the numbered button to show a list of just those items.
 - **Unpublished:**
   <img src="https://docs.joomla.org/images/c/c9/Help-4x-icon-cross.png"
   decoding="async" data-file-width="21" data-file-height="20" width="21"
-  height="20" alt="Help-4x-icon-cross.png" /> The number of unpublished
+  height="20" alt="unpublished icon cross" /> The number of unpublished
   items. Click the numbered button to show a list of just those items.
 - **Archived:** Whether and how many items has been archived. You see
   the Archived items by clicking on the icon in this column.
 - **Trashed**
   <img src="https://docs.joomla.org/images/5/59/Help-4x-icon-bin.png"
   decoding="async" data-file-width="18" data-file-height="20" width="18"
-  height="20" alt="Help-4x-icon-bin.png" /> The number of trashed items.
+  height="20" alt="trashed icon bin" /> The number of trashed items.
   Click the numbered button to show a list of just those items.
 - **Purchase Type.** The banner purchase type of the client. This is
   used to indicate how the client purchased the display time for their
@@ -69,7 +65,7 @@ Click on the column heading to sort the list by that column's value.
 ## List Filters
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -86,8 +82,7 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
 ### Filter Options
 
@@ -96,14 +91,10 @@ Screenshot above. The functions are:
 
 - **Select Status**. Select from Trashed / Unpublished / Published /
   Archived / All.
-
-**Filter by Purchase Type**
-
-<img
-src="https://docs.joomla.org/images/7/77/Help35-colheader-select-type-en.png"
-decoding="async" data-file-width="228" data-file-height="187"
-width="228" height="187" alt="Help35-colheader-select-type-en.png" />
-
+- **Filter by Purchase Type** <img
+    src="https://docs.joomla.org/images/7/77/Help35-colheader-select-type-en.png"
+    decoding="async" data-file-width="228" data-file-height="187"
+    width="228" height="187" alt="filter by purchase type" />
 - **Select Type.** Select the Purchase Type from the drop-down list box
   of available Purchase Types.
 
@@ -111,7 +102,7 @@ width="228" height="187" alt="Help35-colheader-select-type-en.png" />
 
 **Page Controls**. When the number of items is more than one page, you
 will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -123,25 +114,21 @@ has a dark colour background.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **New**. Opens the editing screen to create a new client.
 - **Actions:** Reveals a list of actions for selected Items. Check one
   or more Item checkboxes to activate the list.
   - **Publish**. Makes the selected client available to visitors to your
     website.
-
   - **Unpublish.** Makes the selected client unavailable to visitors to
     your website.
-
   - **Archive**. Changes the status of the selected client to indicate
     that they are archived. Archived client can be moved back to the
     published or unpublished state by selecting 'Archived' in the
     'Select Status' filter and changing the status of the client.
-
   - **Check-In**. Checks-in the selected client. Works with one or
     multiple client selected.
-
   - **Trash**. Changes the status of the selected client to indicate
     that they are trashed.Trashed client can still be recovered by
     selecting 'Trashed' in the 'Select Status' filter and changing the
@@ -155,12 +142,4 @@ At the top of the page you will see the toolbar shown in the
 
 ## Options
 
-See [Banners:
-Options](https://docs.joomla.org/Help4.x:Banners:_Options/en "Help4.x:Banners: Options/en").
-
-## Related Information
-
-- To create or edit Banners: [Banner -
-  New/Edit](https://docs.joomla.org/Help4.x:Banners:_Edit/en "Help4.x:Banners: Edit/en")
-- To work with Banner Categories: [Banner Category
-  Manager](https://docs.joomla.org/Help4.x:Banners:_Categories/en "Help4.x:Banners: Categories/en")
+See Banners: Options.

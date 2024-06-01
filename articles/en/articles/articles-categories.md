@@ -11,15 +11,9 @@ child Category.
 
 ## How to Access
 
-**Home Dashboard **→** Site **→** Article Categories**
-
-To add a Category:
-
-- click the **New** toolbar button
-
-To edit a Category:
-
-- select a **Title** from the list
+There are two routes to the Categories list page:
+* From the **Home Dashboard → Site panel** Select **Article Categories**
+* From Administrator menu select **Content → Categories**
 
 ## Screenshot
 
@@ -53,12 +47,9 @@ To edit a Category:
 - **Icons**. Counts of number of Published, Unpublished, Archived and
   Trashed Articles in each Category. Click on a number to get a list of
   the categories.
-- **Access**. The viewing [Access
-  Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Help4.x:Users: Viewing Access Levels/en")
-  for this category.
+- **Access**. The viewing Access level  for this category.
 - **Associations**. Shows the associated categories. Click on the
-  Language Code to open the category. [Multilingual
-  only.](https://docs.joomla.org/Help4.x:Multilingual_Associations/en "Help4.x:Multilingual Associations/en")
+  Language Code to open the category. Multilingual only!
 - **Language**. Categories language, default is 'All'.
 - **ID**. A unique identification number for this category, you cannot
   change this number.
@@ -66,7 +57,7 @@ To edit a Category:
 ## List Filters
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -83,13 +74,13 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of categories in a list.
   Select from the dropdown list to change the number displayed.The
-  default for a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  default for a site is '20' but this may be changed in the Global
+  Configuration.
 
 ### Filter Options
 
 Near the top of the page you will see the filter bar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Select Status**. Select from Trashed / Unpublished / Published /
   Archived / All.
@@ -103,7 +94,7 @@ Near the top of the page you will see the filter bar shown in the
 
 **Page Controls**. When the number of categories is more than one page,
 you will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -115,7 +106,7 @@ has a dark colour background.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **New**. Opens the editing screen to create a new category.
 - **Actions**. Reveals a list of actions for selected categories. Check
@@ -125,18 +116,15 @@ At the top of the page you will see the toolbar shown in the
   - **Unpublish**. Makes the selected categories unavailable to visitors
     to your website.
   - **Archive**. Changes the status of the selected categories to
-    indicate that they are archived. [Learn
-    more.](https://docs.joomla.org/J4.x:How_to_Archive_an_Article/en "J4.x:How to Archive an Article/en")
+    indicate that they are archived.
   - **Check-In**. Checks-in the selected categories.
   - **Trash**. Changes the status of the selected categories to indicate
-    that they are trashed. [Learn
-    more.](https://docs.joomla.org/J4.x:Deleting_an_Article/en "J4.x:Deleting an Article/en")
+    that they are trashed.
   - **Batch**. Batch processes the selected categories.
 - **Rebuild**. Reconstructs and refreshes the categories table.
   Normally, you do not need to rebuild this table. This function is
   provided in case the data in the table becomes corrupted.
-- **Options**. Opens [Articles:
-  Options](https://docs.joomla.org/Help4.x:Articles:_Options/en "Help4.x:Articles: Options/en").
+- **Options**. Opens Articles: Options.
 - **Help**. Opens this help screen.
 
 ## Batch Process
@@ -149,7 +137,7 @@ src="https://docs.joomla.org/images/thumb/9/92/Help-4x-Content-Categories-batch-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/9/92/Help-4x-Content-Categories-batch-en.png/900px-Help-4x-Content-Categories-batch-en.png 1.5x, https://docs.joomla.org/images/thumb/9/92/Help-4x-Content-Categories-batch-en.png/1200px-Help-4x-Content-Categories-batch-en.png 2x"
 data-file-width="1598" data-file-height="900" width="600" height="338"
-alt="Help-4x-Content-Categories-batch-en.png" />
+alt="Articles: Categories list batch process selected categories dialog" />
 
 **How to Batch Process** a group of categories:
 
@@ -184,23 +172,3 @@ alt="Help-4x-Content-Categories-batch-en.png" />
 
 - Click on the icon in the Status column to toggle between Published and
   Unpublished.
-
-## Related Information
-
-- The [Articles](https://docs.joomla.org/Help4.x:Articles) list is used to find and edit articles.
-- [Articles: Options](https://docs.joomla.org/Help4.x:Articles:_Options) is used to set global defaults for menu items that display articles. These default values will be used when 'Use Global' is selected for an option in an Articles menu item.
-- [Articles: Edit](https://docs.joomla.org/Help4.x:Articles:_Edit) is used to edit Articles, select the Category for an Article and indicate whether or not it is Published or Featued.
-- [Articles: Edit Category](https://docs.joomla.org/Help4.x:Articles:_Edit_Categor)
-- [Articles: Featured](https://docs.joomla.org/Help4.x:Articles:_Featured) are displayed on the Front Page and in what order they are displayed.
-- Articles: Categories is used to find, add, and edit articles categories.
-- [Menus: Archived Articles](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived) shows a customised list of articles ordered by date or title. Archived articles are no longer published but are still stored on the site.
-- [Menus: Category Blog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog) is used to show articles belonging to a specific Category in a blog layout. It controls the Leading Articles, Intro Articles and additional links to more Articles.
-- [Menus: Category List](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List) is used to show articles belonging to a specific Category in a list layout.
-- [Menus: Create Article](https://docs.joomla.org/Help4.x:Menu_Item:_Create_Article) allows users to submit an article. Normally this is available only to users who have logged in to the Frontend of the site. Users must have permission to create articles.
-- [Menus: Featured Articles](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles) is used to show all Articles that have been tagged as Featured. Articles are shown in a Blog Layout.
-- [Menus: List All Categories in an Article Category Tree](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories) is used to show a hierarchical list of Categories. Depending on the selected options for this layout, you can click on a category Title to show the articles in that category.
-- [Menus: Single Article](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article) is used to show one article.
-
-## Sources
-
-https://docs.joomla.org/Help4.x:Articles:_Categories

@@ -31,7 +31,7 @@ Extensies worden als volgt gecategoriseerd in vijf types:
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Systeem **→** Installeren venster **→** Extensies** vanuit
+- Selecteer **Systeem → Installeren venster → Extensies** vanuit
   het beheermenu.
 
 Er is een korte vertraging aangezien Joomla een initieel deel van
@@ -67,9 +67,9 @@ installeren van een Joomla! extensie is als volgt:
     een foutboodschap getoond.
 4.  Afhankelijk van de extensie, kan het noodzakelijk zijn de extensie
     te activeren (bijvoorbeeld, in
-    [Modules](https://docs.joomla.org/Help4.x:Modules/nl "Help4.x:Modules/nl")
+    Modules
     of
-    [Plugins](https://docs.joomla.org/Help4.x:Plugins/nl "Help4.x:Plugins/nl")).
+    **Plugins:**
 
 ### Installeren vanaf web tabblad
 

@@ -12,7 +12,7 @@ specify when you create a redirect must be the full URL as well.
 
 ## How to access
 
-- Select **System **→** Redirects** from the Administrator menu. Then...
+- Select **System → Redirects** from the Administrator menu. Then...
   - To create a new redirect click the **New** button in the Toolbar.
   - To edit an existing redirect click its link in the **Expired URL**
     column.
@@ -23,11 +23,11 @@ specify when you create a redirect must be the full URL as well.
 src="https://docs.joomla.org/images/6/64/Help-4x-Components-Redirect-Manager-Edit-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="493"
 width="800" height="493"
-alt="Help-4x-Components-Redirect-Manager-Edit-screen-en.png" />
+alt="Redirect Edit screenshot" />
 
 ## Form Fields
 
-**Edit/New Link \#1**
+### Edit/New Link \#1 tab
 
 - **Expired URL.** The URL to be redirected.
 - **New URL.** The URL to redirect to.
@@ -47,11 +47,12 @@ alt="Help-4x-Components-Redirect-Manager-Edit-screen-en.png" />
 - **Created Date**. Date the item(Article, Category, Weblink, etc.) was
   created.
 - **Last Updated Date.** Shows the last date the item was modified.
+- **Redirect Status Code** Typically 301 meaning permanent rediection.
 
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Save**. Saves the item and stays in the current screen.
 - **Save & Close**. Saves the item and closes the current screen.
@@ -75,11 +76,7 @@ At the top of the page you will see the toolbar shown in the
     additional configuration directives. In the Apache configuration
     file this setting is named 'AccessFileName' and by default this is
     set to '.htaccess'
-2.  Next open the
-    <a href="https://docs.joomla.org/Help4.x:Components_Redirect_Manager/en"
-    class="mw-redirect"
-    title="Help4.x:Components Redirect Manager/en">Redirect: Links</a>
-    screen and click the 'New' toolbar button.
+2.  Next open the Redirect: Links screen and click the 'New' toolbar button.
 3.  In the screen that appears, enter the redirect information. When
     entering URLs into the *Expired URL* and *New URL* fields, enter the
     complete URL as you would type it into your web browser to view it.

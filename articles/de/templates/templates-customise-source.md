@@ -9,9 +9,9 @@ to read.
 
 ## How to Access
 
-- Select **System **→** Templates Panel **→** Site Templates** from the
+- Select **System → Templates Panel → Site Templates** from the
   Administrator menu. Or...
-- Select **System **→** Templates Panel **→** Administrator Templates**
+- Select **System → Templates Panel → Administrator Templates**
   from the Administrator menu. Then...
   - Select a template name from the **Templates** column. Then...
     - Select a file to edit from the Editor tab.
@@ -86,8 +86,3 @@ are absent on some screens.
   idea to make a backup of the file you are editing. Also, you can edit
   these files outside of Joomla! using the HTML or CSS editor of your
   choice.
-
-## Related Information
-
-- To install templates: [Extension Manager:
-  Install](https://docs.joomla.org/Help4.x:Extensions:_Install/en "Help4.x:Extensions: Install/en")

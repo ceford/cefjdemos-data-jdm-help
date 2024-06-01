@@ -3,16 +3,15 @@
 ## Description
 
 The Menus: Items page lists the menu items contained in a menu created
-using the [Menu
-Manager](https://docs.joomla.org/Help4.x:Menus/en "Help4.x:Menus/en").
+using the Menu list.
 The Title bar shows the name of the selected menu or *All Menu Items* if
 that list is selected.
 
 ## How to access
 
-- Select **Menus **→** All Menu Items** from the Administrator menu.
+- Select **Menus → All Menu Items** from the Administrator menu.
   Or...
-- Select **Menus **→** \[*Menu Name*\]** from the Administrator menu to
+- Select **Menus → \[*Menu Name*\]** from the Administrator menu to
   select items for a specific menu.
 
 ## Screenshot
@@ -21,7 +20,7 @@ that list is selected.
 src="https://docs.joomla.org/images/c/cd/Help-4x-menus-menu-manager-menu-items-en.png"
 decoding="async" data-file-width="800" data-file-height="737"
 width="800" height="737"
-alt="Help-4x-menus-menu-manager-menu-items-en.png" />
+alt="menus items list screenshot" />
 
 ## Column Headers
 
@@ -41,9 +40,7 @@ alt="Help-4x-menus-menu-manager-menu-items-en.png" />
 - **Home**. The yellow star icon designates which menu item is the
   current Home Page. Clicking on an empty Star icon will designate that
   menu item as the new Home Page.
-- **Access**. The [viewing Access
-  Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/en")
-  for this item.
+- **Access**. The viewing Access  Level   for this item.
 - **Association:** Shows which menu item this item is associated.
 - **Language**. Item language.
 - **ID**. This is a unique identification number for this item assigned
@@ -65,7 +62,7 @@ Screenshot above. The functions are:
 - **Ordering:** (default). The column in which to sort displayed items
   in the table. The values are the same as the column heading names.
 
-**Filter Options:**
+### Filter Options
 
 - **Select Status**. Select from Trashed / Unpublished / Published /
   Archived / All.
@@ -74,43 +71,9 @@ Screenshot above. The functions are:
 - **Select Language**. Select from the list of available languages, if
   the site manages more than 1 language.
 - **Select Max Levels**. Select from the list of available levels.
+- **Select Parent Menu Item**. Show all menu items.
 - **Select Component.** Select from the list of components used by the
   menu items
-
-**Filter by Parent Menu Item**. Lets you show only items of a menu item.
-
-- **- Select Parent Menu Item -:** Show all menu items.
-- **\<your menu item\>:** Show items only for this menu item.
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
-
-- **New**. Opens the editing screen to create a new menu item.
-- **Actions:** Reveals a list of actions for selected Items. Check one
-  or more Item checkboxes to activate the list.
-- **Publish**. Makes the selected menu items available to visitors to
-  your website.
-- **Unpublish.** Makes the selected menu items unavailable to visitors
-  to your website.
-- **Check-In**. Checks-in the selected menu items. Works with one or
-  multiple menu items selected.
-- **Trash**. Changes the status of the selected menu items to indicate
-  that they are trashed.Trashed menu items can still be recovered by
-  selecting 'Trashed' in the 'Select Status' filter and changing the
-  status of the articles to Published or Unpublished as preferred.To
-  permanently delete trashed menu items, select 'Trashed' in the 'Select
-  Status' filter, select the menu items to be permanently deleted, then
-  click the 'Empty Trash' toolbar icon.
-- **Batch**. Batch processes the selected menu items. Works with one or
-  multiple items selected.
-- **Rebuild.** Reconstructs and refreshes the relevant table. Normally,
-  you do *not* need to rebuild this table. This function is provided in
-  case the data in the table becomes corrupted.
-- **Options.** Opens the Options window where settings such as default
-  parameters can be edited.
-- **Help**. Opens this help screen.
 
 ## Batch Process
 
@@ -122,7 +85,7 @@ items being viewed to activate the drop down field area.
 src="https://docs.joomla.org/images/f/ff/Help-4x-colheader-batch-process-view-link-en.png"
 decoding="async" data-file-width="600" data-file-height="363"
 width="600" height="363"
-alt="Help-4x-colheader-batch-process-view-link-en.png" />
+alt="menus items list batch process dialog" />
 
 ***\<Item Type\>** refers to the page name of items.*
 
@@ -166,12 +129,38 @@ If you wish to clear your entered selections, click on the Clear button.
 This will return all of the Batch controls to their default values. Note
 that this does *not* uncheck the check boxes for the items.
 
+## Toolbar
+
+At the top of the page you will see the toolbar shown in the
+Screenshot above. The functions are:
+
+- **New**. Opens the editing screen to create a new menu item.
+- **Actions:** Reveals a list of actions for selected Items. Check one
+  or more Item checkboxes to activate the list.
+- **Publish**. Makes the selected menu items available to visitors to
+  your website.
+- **Unpublish.** Makes the selected menu items unavailable to visitors
+  to your website.
+- **Check-In**. Checks-in the selected menu items. Works with one or
+  multiple menu items selected.
+- **Trash**. Changes the status of the selected menu items to indicate
+  that they are trashed.Trashed menu items can still be recovered by
+  selecting 'Trashed' in the 'Select Status' filter and changing the
+  status of the articles to Published or Unpublished as preferred.To
+  permanently delete trashed menu items, select 'Trashed' in the 'Select
+  Status' filter, select the menu items to be permanently deleted, then
+  click the 'Empty Trash' toolbar icon.
+- **Batch**. Batch processes the selected menu items. Works with one or
+  multiple items selected.
+- **Rebuild.** Reconstructs and refreshes the relevant table. Normally,
+  you do *not* need to rebuild this table. This function is provided in
+  case the data in the table becomes corrupted.
+- **Options.** Opens the Options window where settings such as default
+  parameters can be edited.
+- **Help**. Opens this help screen.
+
 ## Quick Tips
 
 - Select an item and click on the *Home* button to set your Home page.
 - Set different filter options to only show some of the menu items.
 
-## Related information
-
-- [Menu
-  Manager](https://docs.joomla.org/Help4.x:Menus/en "Help4.x:Menus/en")

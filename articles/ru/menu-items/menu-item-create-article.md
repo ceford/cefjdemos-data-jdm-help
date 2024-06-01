@@ -8,11 +8,11 @@ in to the Frontend of the site.
 
 Users must have permission to create articles. When the Create Article
 page is shown in the Frontend, the screen shows as examples in the
-[Frontend Screenshot](#frontend) section below.
+Frontend Screenshot section below.
 
 ## Как открыть
 
-**Menus **→** \[name of the menu\]**
+Select **Menus → \[name of the menu\]** from the Administrator menu.
 
 To add a Menu Item:
 
@@ -39,12 +39,11 @@ alt="Help-4x-Menus-Item-Articles-Create-Article-screen-ru.png" />
 - **Заголовок**. The title that will display for this menu item.
 - **Алиас**. The internal name of the menu item. Normally, you can leave
   this blank and Joomla will fill in a default value Title in lower case
-  and with dashes instead of spaces. [Learn
-  more.](https://docs.joomla.org/Alias/en "Alias/en")
+  and with dashes instead of spaces.
 
 ### Подробности
 
-**Left Panel**
+#### Left Panel
 
 - **Тип пункта меню**. The Menu Item Type selected when this menu item
   was created. This can be one of the core menu item types or a menu
@@ -54,7 +53,7 @@ alt="Help-4x-Menus-Item-Articles-Create-Article-screen-ru.png" />
 - **Окно браузера**. Select from the dropdown list.
 - **Стиль шаблона**. Select from the dropdown list.
 
-**Right Panel**
+#### Right Panel
 
 - **Меню**. Shows which menu the link will appear in.
 
@@ -84,12 +83,10 @@ alt="Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-ru.png" />
 
 ### Common Options
 
-See [Menus: New
-Item](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en "Help4.x:Menu Item: New Item/en")
+See Menus: New Item
 for help on fields common to all Menu Item types, including:
 
-- [Right
-  Panel](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en#rightpanel "Help4.x:Menu Item: New Item/en")
+- Right Panel
 - [Тип
   ссылки](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/ru#linktype "Help4.x:Menu Item: New Item/ru")
 - [Страница](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/ru#pagedisplay "Help4.x:Menu Item: New Item/ru")
@@ -101,7 +98,7 @@ for help on fields common to all Menu Item types, including:
 ## Панель инструментов
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Сохранить**. Saves the menu item and stays in the current screen.
 - **Сохранить и закрыть**. Saves the menu item and closes the current
@@ -115,8 +112,7 @@ At the top of the page you will see the toolbar shown in the
 ## Frontend Screenshots
 
 Screenshots shows Joomla core Frontend Template **Cassiopeia**, all
-[Editing Layout
-options](https://docs.joomla.org/Help4.x:Articles:_Options/en#editinglayout "Help4.x:Articles: Options/en")
+Editing Layout options
 set to 'Hide'.
 
 **Материал**
@@ -159,8 +155,7 @@ alt="Help-4x-Menus-Item-Articles-Create-Article-frontend-language-ru.png" />
 
 An unauthorised user will normally get an error if they click on a
 Create Article menu item. For this reason, it is normal practice to give
-the menu item a [viewing Access
-Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Help4.x:Users: Viewing Access Levels/en")
+the menu item a viewing Access Level
 that can only be seen by users authorised to add articles.
 
 ## Связанная информация

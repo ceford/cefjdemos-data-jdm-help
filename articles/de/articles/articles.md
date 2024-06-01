@@ -11,7 +11,7 @@ Beitrag gehört zu genau einer Kategorie.
 
 ## Wie darauf zugreifen
 
-**Dashboard **→** Site **→** Beiträge**
+**Dashboard → Site → Beiträge**
 
 Einen Beitrag hinzufügen:
 

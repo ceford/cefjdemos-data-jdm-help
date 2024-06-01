@@ -10,7 +10,7 @@ A tela de notas de usuários apresenta uma lista das notas existentes.
 
 ## Como acessar
 
-- Selecione **Usuários **→** Notas de usuários** no menu da
+- Selecione **Usuários → Notas de usuários** no menu da
   administração.
 - Ou selecione o **ícone do painel de usuários** no menu da
   administração. Então ...

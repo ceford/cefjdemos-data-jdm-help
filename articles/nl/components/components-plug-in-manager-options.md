@@ -7,7 +7,7 @@ parameters die algemeen gebruikt worden voor plugins.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Systeem **→** Plugins (in het Beheren venster)** vanuit
+- Selecteer **Systeem → Plugins (in het Beheren venster)** vanuit
   het beheermenu. Dan...
   - Klik op de **Opties** knop in de werkbalk.
 

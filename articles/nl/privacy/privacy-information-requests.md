@@ -19,7 +19,7 @@ maken.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Gebruikers **→** Privacy **→** Verzoeken** in het
+- Selecteer **Gebruikers → Privacy → Verzoeken** in het
   beheermenu.
 
 ## Schermafbeelding
@@ -65,7 +65,7 @@ Bovenaan de pagina ziet u de filterbalk zoals in de afbeelding
 hierboven. De functies zijn:
 
 **Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande [Screenshot](#screenshot).
+bovenstaande Screenshot.
 
 - **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
   zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat

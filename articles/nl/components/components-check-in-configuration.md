@@ -6,7 +6,7 @@ Standaardrechten voor de check-in component.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Systeem **→** Algemene check-in** scherm vanuit het
+- Selecteer **Systeem → Algemene check-in** scherm vanuit het
   beheermenu. Dan...
   - Klik op de **Opties** knop rechtsboven aan het scherm. Dit opent het
     **Inchecken - Opties scherm**.

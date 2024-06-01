@@ -10,7 +10,7 @@ Seitensprachen bearbeitet.
 
 ## Wie darauf zugreifen
 
-- **Komponenten **→** Sprachverknüpfungen**
+- **Komponenten → Sprachverknüpfungen**
   1.  **Eintragstyp** wählen.
   2.  **Sprache** wählen.
 

@@ -26,7 +26,7 @@ volgt:
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Menu's **→** Beheren** vanuit het beheermenu.
+- Selecteer **Menu's → Beheren** vanuit het beheermenu.
 
 ## Schermafbeelding
 

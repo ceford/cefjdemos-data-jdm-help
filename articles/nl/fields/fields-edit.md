@@ -11,7 +11,7 @@ The helpscreen show as example Users.
 
 ## Hoe toegang te krijgen
 
-**Gebruikers **→** Velden**
+**Gebruikers → Velden**
 
 Om een veld aan te maken:
 

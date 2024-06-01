@@ -17,7 +17,7 @@ funcionalidade «Substituição de Idioma» para substituir o original.
 
 ## Como Aceder
 
-- Selecione **Sistema **→** Painel de Gestão **→** Substituição de
+- Selecione **Sistema → Painel de Gestão → Substituição de
   Idioma**. Depois...
   - Selecione um **Idioma e Cliente** na lista suspensa. Depois...
     - Clique no botão **Novo** na «Barra de Ferramentas» para criar uma
@@ -65,7 +65,7 @@ Próximo do topo da página irá ver a barra de filtro mostrada na «Captura
 de Ecrã» acima. As funções são:
 
 - **Guardar**. Guarda o item e fica no ecrã atual.
-- 
+-
 
 **Save & Close**. Saves the item and closes the current screen.
 

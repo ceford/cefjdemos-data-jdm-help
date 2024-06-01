@@ -10,9 +10,9 @@ Menu-items* als die lijst is geselecteerd.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Menu's **→** Alle menu-items** vanuit het beheermenu.
+- Selecteer **Menu's → Alle menu-items** vanuit het beheermenu.
   Of...
-- Selecteer **Menu's **→** \[*Menunaam*\]** vanuit het Beheermenu om de
+- Selecteer **Menu's → \[*Menunaam*\]** vanuit het Beheermenu om de
   items van een specifiek menu te selecteren.
 
 ## Schermafbeelding
@@ -77,7 +77,7 @@ hierboven. De functies zijn:
   Gepubliceerd / Gearchiveerd / Alles.
 - **Selecteer toegang**. Selecteer uit de lijst met beschikbare weergave
   toegangsniveaus.
-- 
+-
 
 **Selecteer taal**. Selecteer uit de lijst met beschikbare talen.
 

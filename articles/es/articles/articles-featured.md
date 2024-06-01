@@ -8,7 +8,7 @@ Home page of a web site, but it can be any page in the site.
 
 ## Cómo Acceder
 
-**Contenido **→** Artículos destacados**
+**Contenido → Artículos destacados**
 
 To add a Article:
 
@@ -58,8 +58,7 @@ alt="Help-4x-Content-Featured-Articles-screen-es.png" />
   para este artículo.
 - **Autor**. Nombre del usuario de Joomla! que creó este artículo.
 - **Asociación**. Shows the associated articles. Click on the Language
-  Code to open the article. [Multilingual
-  only.](https://docs.joomla.org/Help4.x:Multilingual_Associations/en "Help4.x:Multilingual Associations/en")
+  Code to open the article. Multilingual only.
 - **Idioma**. Idioma del artículo.
 - **Fecha de creación**. La fecha en la cual este Artículo fue creado.
 - **Veces visto**. El número de veces que un artículo ha sido visto.
@@ -70,7 +69,7 @@ alt="Help-4x-Content-Featured-Articles-screen-es.png" />
 ## Filtros de lista
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -87,13 +86,12 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of articles in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
 ### Opciones de filtro
 
 Near the top of the page you will see the filter bar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Seleccionar estado**. Select from Trashed / Unpublished / Published
   / Archived / All.
@@ -111,7 +109,7 @@ Near the top of the page you will see the filter bar shown in the
 
 **Page Controls**. When the number of articles is more than one page,
 you will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -123,7 +121,7 @@ has a dark colour background.
 ## Barra de herramientas
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Nuevo**. Opens the editing screen to create a new article.
 - **Acciones**. Reveals a list of actions for selected articles. Check
@@ -135,14 +133,11 @@ At the top of the page you will see the toolbar shown in the
   - **Sin destacar**. Changes the status of featured articles to
     unfeatured.
   - **Archivar**. Changes the status of the selected articles to
-    indicate that they are archived. [Learn
-    more.](https://docs.joomla.org/J4.x:How_to_Archive_an_Article/en "J4.x:How to Archive an Article/en")
+    indicate that they are archived.
   - **Desbloquear**. Checks-in the selected articles.
   - **Papelera**. Changes the status of the selected articles to
-    indicate that they are trashed. [Learn
-    more.](https://docs.joomla.org/J4.x:Deleting_an_Article/en "J4.x:Deleting an Article/en")
-- **Opciones**. Opens [Articles:
-  Options](https://docs.joomla.org/Help4.x:Articles:_Options/en "Help4.x:Articles: Options/en").
+    indicate that they are trashed.
+- **Opciones**. Opens Articles: Options.
 - **Ayuda**. Se abre esta pantalla de ayuda.
 
 ## Consejos Rápidos

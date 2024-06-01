@@ -8,9 +8,9 @@ Sprachen Server angezeigt, die mit einem Klick installierbar sind.
 
 ## Wie darauf zugreifen
 
-- Im Administrator-Menü **System **→** Installieren **→** Sprachen**
+- Im Administrator-Menü **System → Installieren → Sprachen**
   wählen.
-- Oder im Administrator-Menü **System **→** Verwalten **→** Sprachen**
+- Oder im Administrator-Menü **System → Verwalten → Sprachen**
   wählen und dann...
   - auf die Schaltfläche „Installieren" klicken.
 

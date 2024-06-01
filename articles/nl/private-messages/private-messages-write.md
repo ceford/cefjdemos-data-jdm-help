@@ -9,9 +9,9 @@ rechten.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Gebruikers **→** Berichten **→** Privéberichten **→** +**
+- Selecteer **Gebruikers → Berichten → Privéberichten → +**
   vanuit het beheermenu.
-- Selecteer **Gebruikers **→** Berichten **→** Privéberichten** en klik
+- Selecteer **Gebruikers → Berichten → Privéberichten** en klik
   op het "Nieuw" icoon op het 'Privéberichten' scherm.
 
 ## Schermafbeelding

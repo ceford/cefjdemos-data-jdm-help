@@ -7,7 +7,7 @@ beschikbare talen en de huidige versie.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Systeem **→** Installeren venster **→** Talen** vanuit het
+- Selecteer **Systeem → Installeren venster → Talen** vanuit het
   beheermenu.
 
 ## Schermafbeelding
@@ -31,7 +31,7 @@ alt="Help-4x-Extensions-Extension-Manager-InstallLanguages-screen-nl.png" />
 ## Lijst filters
 
 **Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande [Screenshot](#screenshot).
+bovenstaande Screenshot.
 
 - **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
   zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat

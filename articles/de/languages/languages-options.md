@@ -7,7 +7,7 @@ Sprachen ein.
 
 ## Wie darauf zugreifen
 
-Aus dem Administration-Menü **System **→** Verwalten **→** Sprachen**
+Aus dem Administration-Menü **System → Verwalten → Sprachen**
 wählen. **Achtung:** Sprachen werden auch im Fenster Installieren
 angezeigt, dann...
 

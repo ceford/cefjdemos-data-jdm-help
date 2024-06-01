@@ -13,7 +13,7 @@ een bestaande categorie te bewerken.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Gebruikers **→** Gebruikersnotitie categorieën** vanuit
+- Selecteer **Gebruikers → Gebruikersnotitie categorieën** vanuit
   het beheermenu. Dan...
   - Selecteer de **Nieuw** knop in de werkbalk om een nieuwe categorie
     aan te maken. Of...
@@ -34,8 +34,8 @@ alt="Help-4x-users-category-manager-add-a-new-user-notes-category-nl.png" />
 - **Titel:** Titel van de categorie.
 - **Alias:** De alias wordt gebruikt in de SEF URL. Laat dit leeg en
   Joomla zal dit invullen met een standaardwaarde vanuit de titel. Deze
-  waarde hangt af van de SEO instellingen (**Systeem **→** Algemene
-  instellingen **→** Website**). Bij gebruik van Unicode worden UTF-8
+  waarde hangt af van de SEO instellingen (**Systeem → Algemene
+  instellingen → Website**). Bij gebruik van Unicode worden UTF-8
   aliassen aangemaakt. U kunt ook handmatig UTF-8 tekens invoeren.
   Spaties en enkele verboden tekens worden veranderd in koppeltekens.Bij
   gebruik van standaard transliteratie worden aliassen aangemaakt met

@@ -12,7 +12,7 @@ toegekend worden aan een hoofdcategorie of een onderliggende categorie.
 
 ## Hoe toegang te krijgen
 
-**Controlepaneel **→** Site **→** Artikelcategorieën**
+**Controlepaneel → Site → Artikelcategorieën**
 
 Om een categorie toe te voegen:
 
@@ -76,7 +76,7 @@ alt="Help-4x-Content-Categories-screen-nl.png" />
 ## Lijst filters
 
 **Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande [Screenshot](#screenshot).
+bovenstaande Screenshot.
 
 - **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
   zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat
@@ -115,7 +115,7 @@ Bovenaan de pagina ziet u de filterbalk zoals in de
 
 **Paginabesturing**. When the number of categories is more than one
 page, you will see a page control bar near the bottom of the page shown
-in the [Screenshot](#screenshot) above. The current page number being
+in the Screenshot above. The current page number being
 viewed has a dark colour background.
 
 - **Begin**. Klik om naar de eerste pagina te gaan.

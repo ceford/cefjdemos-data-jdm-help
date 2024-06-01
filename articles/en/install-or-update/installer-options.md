@@ -7,7 +7,7 @@ globally for Installer.
 
 ## How to Access
 
-- Select **System **→** Manage panel **→** Extensions** from the
+- Select **System → Manage panel → Extensions** from the
   Administrator menu. Then...
   - Click the **Options** button on the Toolbar.
 
@@ -17,7 +17,7 @@ globally for Installer.
 src="https://docs.joomla.org/images/c/c4/Help-4x-Components-Installer-Options-en.png"
 decoding="async" data-file-width="800" data-file-height="335"
 width="800" height="335"
-alt="Help-4x-Components-Installer-Options-en.png" />
+alt="Installer Options preferences tab" />
 
 ## Form Fields
 
@@ -40,9 +40,8 @@ alt="Help-4x-Components-Installer-Options-en.png" />
 src="https://docs.joomla.org/images/1/1f/Help-4x-Components-Installer-Options-Permissions-en.png"
 decoding="async" data-file-width="600" data-file-height="603"
 width="800" height="804"
-alt="Help-4x-Components-Installer-Options-Permissions-en.png" />
+alt="Installer Options Permissions tab" />
 
-  
 To change the permissions for this extension, do the following.
 
 - Select the **Group** by clicking its title located on the left.

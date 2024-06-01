@@ -7,9 +7,9 @@ template's master files and stylesheets from this screen.
 
 ## How to Access
 
-- Select **System **→** Templates Panel **→** Site Templates** from the
+- Select **System → Templates Panel → Site Templates** from the
   Administrator menu. Or...
-- Select **System **→** Templates Panel **→** Administrator Templates**
+- Select **System → Templates Panel → Administrator Templates**
   from the Administrator menu. Then...
   - Select a template name from the **Templates** column.
 
@@ -23,7 +23,7 @@ src="https://docs.joomla.org/images/thumb/5/54/Help-4x-Extensions-Template-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/5/54/Help-4x-Extensions-Template-Manager-Templates-Edit-screen-en.png 1.5x"
 data-file-width="1000" data-file-height="508" width="800" height="406"
-alt="Help-4x-Extensions-Template-Manager-Templates-Edit-screen-en.png" />
+alt="Templates Edit screen" />
 
 ## Form Fields
 
@@ -62,7 +62,7 @@ editing.
 ### No file selected
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Create Child Template.** Select to make a complete a new child
   template. You will be prompted for a new child template name. There is
@@ -80,7 +80,7 @@ src="https://docs.joomla.org/images/thumb/c/ca/Help-4x-Extensions-Template-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/c/ca/Help-4x-Extensions-Template-Manager-Templates-Edit-new-folder-dialog-en.png 1.5x"
 data-file-width="600" data-file-height="329" width="500" height="274"
-alt="Help-4x-Extensions-Template-Manager-Templates-Edit-new-folder-dialog-en.png" />
+alt="Templates Edit manage folder dialog" />
 
 - **New File.** Select to create a new file or to upload a file from
   your computer to your Joomla! template hierarchy. A popup window
@@ -91,7 +91,7 @@ src="https://docs.joomla.org/images/thumb/f/fe/Help-4x-Extensions-Template-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/f/fe/Help-4x-Extensions-Template-Manager-Templates-Edit-upload-file-dialog-en.png 1.5x"
 data-file-width="600" data-file-height="334" width="500" height="278"
-alt="Help-4x-Extensions-Template-Manager-Templates-Edit-upload-file-dialog-en.png" />
+alt="Templates Edit upload file dialog" />
 
 - **Check Overrides.** Activated when an Override is selected in the
   **Overrides** tab. The options are:
@@ -121,8 +121,3 @@ alt="Help-4x-Extensions-Template-Manager-Templates-Edit-upload-file-dialog-en.pn
   idea to make a backup of the file you are editing. Also, you can edit
   these files outside of Joomla! using the HTML or CSS editor of your
   choice.
-
-## Related Information
-
-- To install templates: [Extensions:
-  Install](https://docs.joomla.org/Help4.x:Extensions:_Install/en "Help4.x:Extensions: Install/en")

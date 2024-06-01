@@ -9,7 +9,7 @@ The helpscreen show as example Users.
 
 ## Comment y accéder ?
 
-**Utilisateurs **→** Champs**
+**Utilisateurs → Champs**
 
 Pour ajouter un champ :
 
@@ -34,7 +34,7 @@ alt="Help-4x-Fields-Edit-screen-fr.png" />
 
 ### Général
 
-**Left Panel**
+#### Left Panel
 
 Paramètres pour tous les Champs personnalisés:
 
@@ -59,7 +59,7 @@ Paramètres pour tous les Champs personnalisés:
   composant tiers prenant en charge des champs personnalisés. Vous
   pouvez choisir les options Oui ou Non.
 
-**Right Panel**
+#### Right Panel
 
 - **Statut**. Le statut de publication de cet champ.
   - Publié : le champ est visible lors de la modification d'un article

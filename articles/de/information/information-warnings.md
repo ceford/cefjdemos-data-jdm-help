@@ -7,7 +7,7 @@ Konflikte in der Installation oder Abhängigkeitsfehler sein.
 
 ## Wie darauf zugreifen
 
-- Im Administrator-Menü **System **→** Informationen **→** Warnungen**
+- Im Administrator-Menü **System → Informationen → Warnungen**
   auswählen.
 
 ## Bildschirmfoto

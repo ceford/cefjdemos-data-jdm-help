@@ -7,13 +7,13 @@ globally for Templates.
 
 ## How to Access
 
-- Select **System **→** Site Templates in the Templates Panel** from the
+- Select **System → Site Templates in the Templates Panel** from the
   Administrator menu. Or...
-- Select **System **→** Site Templates Styles in the Templates Panel**
+- Select **System → Site Templates Styles in the Templates Panel**
   from the Administrator menu. Or...
-- Select **System **→** Administrator Templates in the Templates Panel**
+- Select **System → Administrator Templates in the Templates Panel**
   from the Administrator menu. Or...
-- Select **System **→** Administrator Templates Styles in the Templates
+- Select **System → Administrator Templates Styles in the Templates
   Panel** from the Administrator menu. Then...
   - Select the **Options** button in the Toolbar.
 
@@ -23,7 +23,7 @@ globally for Templates.
 src="https://docs.joomla.org/images/2/2a/Help-4x-Components-Templates-Options-en.png"
 decoding="async" data-file-width="800" data-file-height="495"
 width="800" height="495"
-alt="Help-4x-Components-Templates-Options-en.png" />
+alt="Templates Options screen" />
 
 ## Form Fields
 
@@ -47,7 +47,7 @@ alt="Help-4x-Components-Templates-Options-en.png" />
 src="https://docs.joomla.org/images/3/36/Help-4x-Components-Templates-Options-Permissions-en.png"
 decoding="async" data-file-width="600" data-file-height="661"
 width="600" height="661"
-alt="Help-4x-Components-Templates-Options-Permissions-en.png" />
+alt="Templates Options Permissions tab" />
 
 To change the permissions for this extension, do the following.
 

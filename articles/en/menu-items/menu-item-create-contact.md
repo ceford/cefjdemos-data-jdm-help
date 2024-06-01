@@ -9,13 +9,10 @@ user to provide contact data.
 
 To create a new **Create Contact** menu item:
 
-- Select **Menus **→** \[name of the menu\]** from Administrator menu
-  (for example, **Menus **→** Main Menu**). Then...
+- Select **Menus → \[name of the menu\]** from Administrator menu
+  (for example, **Menus → Main Menu**). Then...
   - Select the **New** button in the Toolbar. Then...
-  - Select the Menu Item Type Select button. <img
-    src="https://docs.joomla.org/images/0/0a/Help-4x-Menu-Item-Type-Select-Button-en.png"
-    decoding="async" data-file-width="96" data-file-height="45" width="96"
-    height="45" alt="Help-4x-Menu-Item-Type-Select-Button-en.png" />
+  - Select the Menu Item Type Select button.
   - In the modal dialog select the Contacts item to open a list and then
     select the **Create Contact** item.
 
@@ -29,19 +26,18 @@ To edit an existing Create Contact menu item:
 src="https://docs.joomla.org/images/7/7e/Help-4x-Menus-Menu-Item-Create-Contact-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="750"
 width="800" height="750"
-alt="Help-4x-Menus-Menu-Item-Create-Contact-screen-en.png" />
+alt="Menu Item Create Contact screen" />
 
 ## Form Fields
 
 - **Menu Title:** The title that will display for this menu item.
 - **Alias**. The internal name of the item. Normally, you can leave this
   blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces. [Learn
-  more.](https://docs.joomla.org/Alias/en "Special:MyLanguage/Alias/en")
+  with dashes instead of spaces.
 
 ### Details Tab
 
-**Left Panel**
+#### Left Panel
 
 - **Menu Item Type**. The Menu Item Type selected when this menu item
   was created. This can be one of the core menu item types or a menu
@@ -51,7 +47,7 @@ alt="Help-4x-Menus-Menu-Item-Create-Contact-screen-en.png" />
 - **Target Window.** Select from the drop-down list.
 - **Template Style.** Select from the drop-down list.
 
-**Right Panel**
+#### Right Panel
 
 - **Menu**. Shows which menu the link will appear in.
 - **Parent Item.** The parent menu item for this menu item. Used to
@@ -66,14 +62,14 @@ alt="Help-4x-Menus-Menu-Item-Create-Contact-screen-en.png" />
   - Select the Ordering icon <img
     src="https://docs.joomla.org/images/e/ee/Help30-Ordering-colheader-icon.png"
     decoding="async" data-file-width="12" data-file-height="23" width="12"
-    height="23" alt="Help30-Ordering-colheader-icon.png" /> in the Table
+    height="23" alt="Ordering column header icon" /> in the Table
     heading to make it the active ordering item. The ordering icons in
     each row will change from light grey to dark grey and the pointer
     will change to a drag arrow on hover.
   - Select one of the Ordering icons <img
     src="https://docs.joomla.org/images/8/87/Help30-Ordering-colheader-grab-bar-icon.png"
     decoding="async" data-file-width="10" data-file-height="21" width="10"
-    height="21" alt="Help30-Ordering-colheader-grab-bar-icon.png" /> and
+    height="21" alt="Ordering drag icon" /> and
     drag it up or down to change the position of that row in the list.
     The items will display in the new order within the Position.
 - **Status**. The published status of the item.
@@ -86,14 +82,11 @@ alt="Help-4x-Menus-Menu-Item-Create-Contact-screen-en.png" />
 - **Default Page**. If Yes, this menu item is the default or home page
   for the site. There must be exactly one menu item set as the default
   page. You can change the default page in two ways:
-  1.  Click on the Home column of the desired menu item in the [Menus:
-      Items](https://docs.joomla.org/Help4.x:Menus:_Items/en "Special:MyLanguage/Help4.x:Menus: Items/en")
+  1.  Click on the Home column of the desired menu item in the Menus: Items
       screen.
   2.  Open the menu item for the new default page and change the Default
       Page setting to Yes.
-- **Access**. The [viewing Access
-  Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/en")
-  for this item.
+- **Access**. The viewing Access  Level   for this item.
 - **Language**. Item language.
 - **Note**. This is normally for the site administrator's use (for
   example, to document information about this item) and does not show in
@@ -101,18 +94,14 @@ alt="Help-4x-Menus-Menu-Item-Create-Contact-screen-en.png" />
 
 ### Common Options
 
-See <a
-href="https://docs.joomla.org/Help4.x:Menus_Menu_Item_Manager_Edit/en"
-class="mw-redirect"
-title="Help4.x:Menus Menu Item Manager Edit/en">Menus: Edit/New Item</a>
-for help on fields common to all Menu Item types located in the
-following Tabs:
+See Menus: New Item for help on fields common to all Menu Item types, including:
 
-- **Link Type**
-- **Page Display**
-- **Metadata**
-- **Associations**
-- **Module Assignment**
+- Right Panel
+- Link Type
+- Page Display
+- Metadata
+- Associations
+- Module Assignment
 
 ## Toolbar
 
@@ -131,14 +120,3 @@ above. The functions are:
 - **Close**. Closes the current screen and returns to the previous
   screen without saving any modifications you may have made.
 - **Help**. Opens this help screen.
-
-## Related Information
-
-- [Contacts: Options](https://docs.joomla.org/Help4.x:Contacts:_Options) Contact Options configuration allows setting of parameters used globally for all contacts.
-- [Contacts: Categories](https://docs.joomla.org/Help4.x:Contacts:_Categories) The Contact Category Manager is where you can edit existing Contact Categories and create new ones. Note that Contact Categories are separate from other Categories, such as for Articles, Banners, News Feeds, and Web Links. From this screen, you can also navigate to the [Contacts](https://docs.joomla.org/Help4.x:Contacts) screen. 
-- [New or Edit Category](https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit_Category)] This is where you can add a Contact Category or edit an existing Contact Category. Contact Categories allow you to organize contacts in your web site. Contact Categories are separate from other types of Categories, such as those for Articles, Banners, News Feeds, and so on.
-- [Contacts](https://docs.joomla.org/Help4.x:Contacts) The Contact Manager screen allows you to add contact information to your Joomla! site. You can enter information such as name, address, phone and e-mail. You can also link contacts to registered users. Afterwards, you can use the [Menu Manager](https://docs.joomla.org/Help4.x:Menus) to create front-end links to the the contacts.
-- [Contacts: New or Edit](https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit) This is where you can add a Contact or edit an existing Contact. Contacts allow you to list people on your web site. They also allow users to send e-mails to those people.
-- [Menu Item: List Contacts in a Category](https://docs.joomla.org/Help4.x:Menu_Item:_List_Contacts_in_a_Category) Used to show contacts belonging to a specific Category in a list layout. Settings include: Contact Details, Contact Form, presentation(slider, tabs, plain view), and Email subject and message filters.
-- [Menu Item: Featured Contacts](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Contacts) Used to show a list of featured contacts.
-- [Menu Item: Single Contact](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Contact) Used to show a Single Contact. Settings include: Contact Details, Contact Form, presentation(slider, tabs, plain view), and Email subject and message filters.

@@ -7,7 +7,7 @@ globally for Messaging.
 
 ## How to Access
 
-- Select **Users **→** Messaging **→** Private Messages** from the
+- Select **Users → Messaging → Private Messages** from the
   Administrator menu. Then...
   - Select the **Options** button in the Toolbar.
 
@@ -17,7 +17,7 @@ globally for Messaging.
 src="https://docs.joomla.org/images/5/53/Help-4x-Components-Messaging-Options-en.png"
 decoding="async" data-file-width="800" data-file-height="503"
 width="800" height="503"
-alt="Help-4x-Components-Messaging-Options-en.png" />
+alt="Messages Options screenshot" />
 
 ## Form Fields
 

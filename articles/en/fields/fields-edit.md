@@ -9,15 +9,19 @@ The helpscreen show as example Users.
 
 ## How to Access
 
-**Users **→** Fields**
+Select **Content → Field Groups** from tha Administrator menu. Or...
+Select **Contact → Field Groups** from tha Administrator menu. Or...
+Select **Users → Field Groups** from tha Administrator menu. Then...
 
-To add a Field:
+Select an item from the list in the filter bar. The options are:
 
-- click the **New** toolbar button
+- Content: Articles or Category.
+- Contact: Contact, Mail or Category.
+- User: No options.
 
-To edit a Field:
+To add a Field Group: select the **New** toolbar button
 
-- Select a **Title** from the list
+To edit a Field Group: select a **Title** from the list
 
 ## Screenshot
 
@@ -26,21 +30,20 @@ src="https://docs.joomla.org/images/thumb/6/6f/Help-4x-Fields-Edit-screen-en.png
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/6/6f/Help-4x-Fields-Edit-screen-en.png/1200px-Help-4x-Fields-Edit-screen-en.png 1.5x, https://docs.joomla.org/images/thumb/6/6f/Help-4x-Fields-Edit-screen-en.png/1600px-Help-4x-Fields-Edit-screen-en.png 2x"
 data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Help-4x-Fields-Edit-screen-en.png" />
+alt="Fields Edit screen" />
 
 ## Form Fields
 
 - **Title**. The Title for this field.
 
-### General
+### General tab
 
-**Left Panel**
+#### Left Panel
 
 Parameters for all fields:
 
 - **Type**. If you create a field you can choose one of the 16 field
-  types. When you save the field this type is permanent. [Learn
-  more.](https://docs.joomla.org/J3.x:Adding_custom_fields/Calendar_Field/en "J3.x:Adding custom fields/Calendar Field/en")
+  types. When you save the field this type is permanent.
 - **Name**. The name will be used to identify the field. Leave this
   blank and Joomla will fill in a default value from the title.
 - **Label**. Use a descriptive text of the field for the label of the
@@ -55,7 +58,7 @@ Parameters for all fields:
   be filled before submitting an article or a contact or a third party
   component that supports fields.
 
-**Right Panel**
+#### Right Panel
 
 - **Status**. The published status of this field.
   - Published: The field is visible while editing an article or an
@@ -63,36 +66,30 @@ Parameters for all fields:
   - Unpublished: The field will not be visible to users while editing an
     article or an contact.
   - Archived: The field will no longer show on edition an article or an
-    contact. You can open it in
-    [Fields](https://docs.joomla.org/Help4.x:Fields/en#selectstatus "Help4.x:Fields/en")
-    when you set the filter to archived.
+    contact. You can open it in Fields when you set the filter to archived.
   - Trashed: The field is deleted but still in the database. It can be
-    permanently deleted from the database in
-    [Fields](https://docs.joomla.org/Help4.x:Fields/en#selectstatus "Help4.x:Fields/en")
-    with the Empty Trash function. [Learn
-    more.](https://docs.joomla.org/J4.x:Deleting_an_Article/en "J4.x:Deleting an Article/en")
+    permanently deleted from the database in Fields with the Empty Trash
+    function.
 - **Field Group**. You can assign a field to one or more field groups.
 - **Category**. You can assign a field to one or more categories. Note
   that the default 'All' does not include 'uncategorised' articles.
 - **Access**. Select the viewing access level for this field. The access
-  levels depend on what has been set up in [Users: Access
-  Levels](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Help4.x:Users: Viewing Access Levels/en").
+  levels depend on what has been set up in Users: Access Levels.
 - **Language**. Select the language for this field. If you are not using
-  the [multi-language
-  feature](https://docs.joomla.org/Help4.x:Extensions:_Languages/en "Help4.x:Extensions: Languages/en")
+  the multi-language feature
   of Joomla, keep the default of 'All'.
 - **Note**. An optional field to make your personal notes for the field.
 
-### Options
+### Options tab
 
 <img
 src="https://docs.joomla.org/images/thumb/5/55/Help-4x-Fields-Edit-options-subscreen-en.png/600px-Help-4x-Fields-Edit-options-subscreen-en.png"
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/55/Help-4x-Fields-Edit-options-subscreen-en.png/900px-Help-4x-Fields-Edit-options-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/5/55/Help-4x-Fields-Edit-options-subscreen-en.png/1200px-Help-4x-Fields-Edit-options-subscreen-en.png 2x"
 data-file-width="1259" data-file-height="531" width="600" height="253"
-alt="Help-4x-Fields-Edit-options-subscreen-en.png" />
+alt="Fields Edit options tab" />
 
-**Form Options**
+#### Form Options
 
 - **Placeholder**. A placeholder text which will appear inside the field
   as a hint for the input. The placeholder is active in the Backend
@@ -131,7 +128,7 @@ instead of *list-of-items*, where ID is the id of the field
 field you are creating need be: `field36:value1[OR]field36:value2` where
 36 is the ID of the field 'List of items'.
 
-**Display Options**
+#### Display Options
 
 - **Display Class**. The class of the field container in the output.
 - **Value Class**. The class of the field value in the output.
@@ -161,7 +158,7 @@ src="https://docs.joomla.org/images/thumb/7/77/Help-4x-Fields-Edit-publishing-su
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/77/Help-4x-Fields-Edit-publishing-subscreen-en.png/900px-Help-4x-Fields-Edit-publishing-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/7/77/Help-4x-Fields-Edit-publishing-subscreen-en.png/1200px-Help-4x-Fields-Edit-publishing-subscreen-en.png 2x"
 data-file-width="2880" data-file-height="980" width="600" height="204"
-alt="Help-4x-Fields-Edit-publishing-subscreen-en.png" />
+alt="Fields Edit publishing tab" />
 
 - **Created Date**. The current time when the field was created. Enter
   in a different date and time or click on the calendar icon to find the
@@ -177,15 +174,14 @@ alt="Help-4x-Fields-Edit-publishing-subscreen-en.png" />
 
 ### Permissions
 
-This is where you can enter permissions for this field. [Learn
-more.](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/en#hierarchylevels "J3.x:Access Control List Tutorial/en")
+This is where you can enter permissions for this field.
 
 <img
 src="https://docs.joomla.org/images/thumb/c/c0/Help-4x-Fields-Edit-permissions-subscreen-en.png/600px-Help-4x-Fields-Edit-permissions-subscreen-en.png"
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/c0/Help-4x-Fields-Edit-permissions-subscreen-en.png/900px-Help-4x-Fields-Edit-permissions-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/c/c0/Help-4x-Fields-Edit-permissions-subscreen-en.png/1200px-Help-4x-Fields-Edit-permissions-subscreen-en.png 2x"
 data-file-width="2880" data-file-height="1260" width="600" height="263"
-alt="Help-4x-Fields-Edit-permissions-subscreen-en.png" />
+alt="Fields Edit permissions tab" />
 
 To change the permissions for this field, do the following.
 
@@ -197,8 +193,7 @@ To change the permissions for this field, do the following.
       information for this field.
     - **Edit Custom Field Value.** Users can edit the field value.
 3.  Select the desired permission for the action you wish to change.
-    - **Inherited**. Inherited for users in this Group from the [Global
-      Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#permissions "Help4.x:Site Global Configuration/en"),
+    - **Inherited**. Inherited for users in this Group from the Global Configuration,
       parent group, or category.
     - **Allowed**. Allowed for users in this Group.Note: If this action
       is Denied at one of the higher levels, the Allowed permission here
@@ -211,7 +206,7 @@ To change the permissions for this field, do the following.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Save**. Saves the field and stays in the current screen.
 - **Save & Close**. Saves the field and closes the current screen.
@@ -222,15 +217,3 @@ At the top of the page you will see the toolbar shown in the
 - **Close**. Closes the current screen and returns to the previous
   screen without saving any modifications you may have made.
 - **Help**. Opens this help screen.
-
-## Quick Tips
-
-If you want to know how to use fields: [Managing Custom
-Fields](https://docs.joomla.org/J3.x:Adding_custom_fields/en "J3.x:Adding custom fields/en").
-
-## Related Information
-
-- [Fields](https://docs.joomla.org/Help4.x:Fields)                                     | Fields are used to display additional attributes of Articles, Contacts and Users. The data are entered in the Backend and displayed in the Frontend.
-- <span class="mw-selflink selflink">Fields: Edit</span> This is where you can add and edit Fields in Articles, Contacts, and Users.
-- [Field Groups](https://docs.joomla.org/Help4.x:Field_Groups) The Field Groups screen is used to list, add and edit Field Groups.
-- [Field Groups: Edit](https://docs.joomla.org/Help4.x:Field_Groups:_Edit) | Field Groups are used to collect related fields under a named Tab in a data entry form.

@@ -19,13 +19,13 @@ the help screen for each type.
 
 Pour ajouter un nouvel élément de menu ː
 
-- **Menus **→** \[name of the menu\]**
+- **Menus → \[name of the menu\]**
   1.  Cliquez sur le bouton **Nouveau** dans la barre d'outils.
   2.  Cliquez sur le bouton **sélectionner** du type de lien de menu.
 
 To edit a Menu Item:
 
-- **Menus **→** \[name of the menu\]**
+- **Menus → \[name of the menu\]**
   - select a **Title** from the list
 
 ## Capture d'écran
@@ -46,7 +46,7 @@ alt="Help-4x-Menus-New-Item-screen-fr.png" />
 
 ### Détails
 
-**Left Panel**
+#### Left Panel
 
 - **Menu Item Type**. The Menu Item Type selected when this menu item
   was created.
@@ -55,7 +55,7 @@ alt="Help-4x-Menus-New-Item-screen-fr.png" />
 - **Target Window**. Select from the dropdown list.
 - **Template Style**. Select from the dropdown list.
 
-**Right Panel**
+#### Right Panel
 
 - **Menu**. Shows which menu the link will appear in.
 - **Parent Item**. The parent menu item for this menu item. Used to
@@ -77,14 +77,11 @@ alt="Help-4x-Menus-New-Item-screen-fr.png" />
 - **Default Page**. If Yes, this menu item is the default page for the
   site. There must be exactly one menu item set as the default page. You
   can change the default page in two ways:
-  1.  Click on the Home column of the desired menu item in the [Menus:
-      Items](https://docs.joomla.org/Help4.x:Menus:_Items/fr "Special:MyLanguage/Help4.x:Menus: Items/fr")
+  1.  Click on the Home column of the desired menu item in the Menus: Items
       screen.
   2.  Open the menu item for the new default page and change the Default
       Page setting to Yes.
-- **Access**. The [viewing Access
-  Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/fr "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/fr")
-  for this menu item.
+- **Access**. The viewing Access  Level   for this menu item.
 - **Language**. Menu items language.
 - **Note**. This is normally for the site administrator's use and does
   not show in the Frontend of the site.
@@ -161,8 +158,7 @@ srcset="https://docs.joomla.org/images/thumb/a/ac/Help-4x-Menus-New-Item-associa
 data-file-width="2880" data-file-height="570" width="600" height="119"
 alt="Help-4x-Menus-New-Item-associations-subscreen-fr.png" />
 
-[Multilingual
-only.](https://docs.joomla.org/Help4.x:Multilingual_Associations/fr "Special:MyLanguage/Help4.x:Multilingual Associations/fr")
+Multilingual only!
 
 ### Assignation de modules
 

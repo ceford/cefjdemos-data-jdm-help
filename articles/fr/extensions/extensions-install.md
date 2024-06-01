@@ -29,7 +29,7 @@ Extensions are categorised into five types, as follows:
 
 ## How to Access
 
-- Select **System **→** Install Panel **→** Extensions** from the
+- Select **System → Install Panel → Extensions** from the
   Adminstrator menu.
 
 There will be a brief delay as Joomla downloads an initial selection of
@@ -125,7 +125,7 @@ archive file on your local computer.*
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Options.** Opens the Options window where settings such as default
   parameters can be edited.
@@ -145,8 +145,7 @@ At the top of the page you will see the toolbar shown in the
   Screen](https://docs.joomla.org/Help4.x:Information:_Database/en "Help4.x:Information: Database/en").
 - **Warnings.** Links to the [Warnings
   Screen](https://docs.joomla.org/Help4.x:Information:_Warnings/en "Help4.x:Information: Warnings/en").
-- **Install Languages.** Links to the [Install Languages
-  Screen](https://docs.joomla.org/Help4.x:Extensions:_Languages/en "Help4.x:Extensions: Languages/en").
+- **Install Languages.** Links to the Install Languages Screen.
 - **Update Sites.** Links to the <a
   href="https://docs.joomla.org/index.php?title=Help4.x:Extensions_Extension_Manager_Update_Sites/en&amp;action=edit&amp;redlink=1"
   class="new"
@@ -182,37 +181,3 @@ At the top of the page you will see the toolbar shown in the
   generally recommended that you use the "Install from Web", "Upload
   Package File" or "Install from Folder" options when installing new
   Extensions.
-
-## Related Information
-
-- If you install a Component Extension, it will be listed as a new Menu
-  Item in the *Components* menu.
-- You can assign a Menu Item to an installed Component Extension in the
-  [Menu Items
-  list](https://docs.joomla.org/Help4.x:Menus:_Items/en "Help4.x:Menus: Items/en")
-  by clicking the *New* toolbar button. The new Component will show in
-  the Internal Link list of Menu Item Types.
-- If you install a Module Extension, it will be added to the list of the
-  Modules in the [Modules
-  list](https://docs.joomla.org/Help4.x:Modules/en "Help4.x:Modules/en"),
-  where you can enable/disable it. You can also customize it's
-  parameters in the [Module
-  Edit](https://docs.joomla.org/Help4.x:Extensions_Module_Manager_Edit/en "Help4.x:Extensions Module Manager Edit/en")
-  screen.
-- An installed Plugin Extension will be added to the list of the
-  [Plugins
-  list](https://docs.joomla.org/Help4.x:Plugins/en "Help4.x:Plugins/en"),
-  where you can enable/disable it. By clicking the [Plugin
-  Name](https://docs.joomla.org/Help4.x:Plugins:_Name_of_Plugin/en "Help4.x:Plugins: Name of Plugin/en"),
-  you can customize its parameters on the following screen.
-- An installed Template Extension will be added to the Site or
-  Administrator list of the [Template Styles
-  list](https://docs.joomla.org/Help4.x:Templates:_Styles/en "Help4.x:Templates: Styles/en")
-  where you can assign it to all of the pages or to the selected ones.
-  You can also customize its parameters, edit the HTML or CSS source, or
-  preview the available Module positions.
-- An installed Language Extension will be added to the Site or
-  Administrator list of the [Languages
-  list](https://docs.joomla.org/Help4.x:Languages:_Installed/en "Help4.x:Languages: Installed/en"),
-  depending on the client attribute of the Extension. This screen let's
-  you assign it as the default language, if desired.

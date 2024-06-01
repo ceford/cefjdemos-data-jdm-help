@@ -12,9 +12,9 @@ over de iframe grootte, breedte en hoogte.
 
 Om een nieuw 'Iframe wrapper' menu-item aan te maken:
 
-- Selecteer **Menu's **→** \[naam van het menu\]** uit het drop-down
+- Selecteer **Menu's → \[naam van het menu\]** uit het drop-down
   menu in de back-end van uw Joomla! installatie (bijvoorbeeld
-  **Menu's **→** Hoofdmenu**).
+  **Menu's → Hoofdmenu**).
 - Klik op de knop Nieuw in de werkbalk om een nieuw menu-item te maken.
 - Klik op de Menu-itemtype selectie knop <img
   src="https://docs.joomla.org/images/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png"

@@ -17,9 +17,9 @@ useful for debugging user access problems.
 <img
 src="https://docs.joomla.org/images/0/02/Help-4x-debug_groups-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="787"
-width="800" height="787" alt="Help-4x-debug groups-screen-en.png" />
+width="800" height="787" alt="permissions for group 2 registered screen" />
 
-## Column Headers
+### Column Headers
 
 In the table containing the assets from your Joomla! site, you will see
 different columns. For each asset the permission for this group is
@@ -63,7 +63,7 @@ shown, color coded as per legend.
   field displays "0" until you save the new entry, at which point a new
   ID is assigned to it.
 
-## List Filters
+### List Filters
 
 Near the top of the page you will see the filter bar shown in the
 Screenshot above. The functions are:
@@ -75,9 +75,24 @@ Screenshot above. The functions are:
 - **Start Level**. Start level of the item.
 - **End Level**. End level of the item.
 
-**Page Controls**. When the number of items is more than one page, you
+### Legend
+
+At the bottom you will see the legend:
+
+<img
+src="https://docs.joomla.org/images/a/a5/Help31-Help-Permissions-Report-Legend-en.png"
+decoding="async" data-file-width="320" data-file-height="36" width="320"
+height="36" alt="Permissions Report Legend" />
+
+- **Not Allowed**. Action not allowed.
+- **Allowed**. Action allowed.
+- **Forbidden**. Action forbidden.
+
+### Page Controls
+
+When the number of items is more than one page, you
 will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -96,21 +111,3 @@ above. The functions are:
 - **Options.** Opens the Options window where settings such as default
   parameters can be edited.
 - **Help**. Opens this help screen.
-
-## Legend
-
-At the bottom you will see the legend:
-
-<img
-src="https://docs.joomla.org/images/a/a5/Help31-Help-Permissions-Report-Legend-en.png"
-decoding="async" data-file-width="320" data-file-height="36" width="320"
-height="36" alt="Help31-Help-Permissions-Report-Legend-en.png" />
-
-- **Not Allowed**. Action not allowed.
-- **Allowed**. Action allowed.
-- **Forbidden**. Action forbidden.
-
-## Related Information
-
-- [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en "Help4.x:Site Global Configuration/en")

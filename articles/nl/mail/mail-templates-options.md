@@ -7,7 +7,7 @@ systeem e-mails.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Systeem **→** E-mail templates in het Templates venster**
+- Selecteer **Systeem → E-mail templates in het Templates venster**
   vanuit het beheermenu. Dan...
   - **Selecteer** de Opties knop in de werkbalk.
 

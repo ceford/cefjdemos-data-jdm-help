@@ -11,7 +11,7 @@ artikel een onderdeel van één enkele categorie.
 
 ## Hoe toegang te krijgen
 
-**Controlepaneel **→** Site **→** Artikelen**
+**Controlepaneel → Site → Artikelen**
 
 Om een artikel aan te maken:
 
@@ -82,7 +82,7 @@ alt="Help-4x-Content-Article-screen-nl.png" />
 ## Lijst filters
 
 **Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande [Screenshot](#screenshot).
+bovenstaande Screenshot.
 
 - **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
   zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat
@@ -126,7 +126,7 @@ Bovenaan de pagina ziet u de filterbalk zoals in de
 
 **Paginabesturing**. Als het aantal artikelen meer is dan een pagina,
 zie je een paginabesturing bij de onderkant van de pagina zoals in
-bovenstaande [Screenshot](#screenshot). Het huidige paginanummer heeft
+bovenstaande Screenshot. Het huidige paginanummer heeft
 een donkere achtergrond.
 
 - **Begin**. Klik om naar de eerste pagina te gaan.

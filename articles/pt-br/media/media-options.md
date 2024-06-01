@@ -9,7 +9,7 @@ tipo das MIME e mais opções.
 
 ## Como acessar
 
-**CConteúdo **→** Mídia**
+**CConteúdo → Mídia**
 
 - acione o (clique no) botão **Opções** na barra das ferramentas
 

@@ -9,7 +9,7 @@ worden op basis van groepen.
 
 ## Hoe krijg ik toegang
 
-Selecteer **Gebruikers **→** Groepsmail gebruikers** vanuit het
+Selecteer **Gebruikers → Groepsmail gebruikers** vanuit het
 beheermenu.
 
 ## Schermafbeelding
@@ -45,8 +45,7 @@ alt="Help-4x-users-mass-mail-nl.png" />
   zal voor de het onderwerp geplaatst worden dat u hier opgeeft.
 - **Bericht.** Voer het bericht van de e-mail hier in. Tekst die u heeft
   opgegeven in de *Mailbericht achtervoegsel* parameter bij de opties
-  ([User Options → Mass
-  Mail](https://docs.joomla.org/Help4.x:Users:_Options/nl#Mass_Email "Help4.x:Users: Options/nl"))
+  (User Options → Mass Mail
   zal worden toegevoegd aan de tekst die u hier opgeeft.
 
 ## Werkbalk

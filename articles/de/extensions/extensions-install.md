@@ -30,7 +30,7 @@ zusammenfassen lassen:
 ## Wie darauf zugreifen
 
 - Im Administrator-Menü die Option
-  **System **→** Erweiterungen **→** Erweiterungen** wählen.
+  **System → Erweiterungen → Erweiterungen** wählen.
 
 Es wird vermutlich eine kurze Verzögerung geben, da Joomla die erste
 Vorauswahl an Daten über Erweiterungen aus dem „Joomla Extensions
@@ -160,8 +160,7 @@ Werkzeugleiste im oberen Bereich. Die Funktionen sind:
   Screen](https://docs.joomla.org/Help4.x:Information:_Database/en "Help4.x:Information: Database/en").
 - **Warnungen.** Link führt zu [Warnings
   Screen](https://docs.joomla.org/Help4.x:Information:_Warnings/en "Help4.x:Information: Warnings/en").
-- **Sprachen installieren.** Link führt zu [Install Languages
-  Screen](https://docs.joomla.org/Help4.x:Extensions:_Languages/en "Help4.x:Extensions: Languages/en").
+- **Sprachen installieren.** Link führt zu Install Languages Screen.
 - **Website aktualisieren.** Link führt zu <a
   href="https://docs.joomla.org/index.php?title=Help4.x:Extensions_Extension_Manager_Update_Sites/en&amp;action=edit&amp;redlink=1"
   class="new"

@@ -12,7 +12,7 @@ een algemene check-in geeft zo'n item vrij.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Systeem **→** Onderhoud venster **→** Algemene check-in**
+- Selecteer **Systeem → Onderhoud venster → Algemene check-in**
   vanuit het beheermenu.
 
 ## Schermafbeelding
@@ -41,7 +41,7 @@ alt="Help-4x-system-maintenance-global-check-in-nl.png" />
 ## Lijst filters
 
 **Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande [Screenshot](#screenshot).
+bovenstaande Screenshot.
 
 - **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
   zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat

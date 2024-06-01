@@ -17,7 +17,7 @@ Meer informatie:
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Componenten **→** Joomla! patchtester** in het beheermenu.
+- Selecteer **Componenten → Joomla! patchtester** in het beheermenu.
   - Klik op de *Opties* knop in de werkbalk.
 
 ## Schermafbeelding

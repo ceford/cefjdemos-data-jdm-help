@@ -15,9 +15,9 @@ Navigeer, om een nieuwe advertentie '**toe te voegen'** of te
 '**bewerken'**, naar
 [Advertentiebeheer](https://docs.joomla.org/Help4.x:Banners/nl "Help4.x:Banners/nl"):
 
-- Selecteer **Componenten **→** Advertenties **→** Nieuw** om een nieuwe
+- Selecteer **Componenten → Advertenties → Nieuw** om een nieuwe
   advertentie aan te maken.
-- Selecteer **Componenten **→** Advertenties** en klik op een
+- Selecteer **Componenten → Advertenties** en klik op een
   advertentienaam om een bestaande advertentie te '**Bewerken'**.
 
 ## Schermafbeeldingen
@@ -54,7 +54,7 @@ alt="Help-4x-Components-Banners-Banners-Edit-screen-nl.png" />
   - **Afbeelding**. Afbeeldingsbestand dat getoond moet worden als
     advertentie. Klik op de *Selecteren* knop om het te gebruiken
     afbeeldingsbestand te selecteren. Gebruik
-    [Media](https://docs.joomla.org/Help4.x:Media/nl "Help4.x:Media/nl")
+    Media
     pagina om een advertentie afbeeldingsbestand te uploaden naar uw
     site. Afbeeldingen voor advertenties moeten in de
     https://docs.joomla.org/images/banners/ map staan.
@@ -73,7 +73,7 @@ alt="Help-4x-Components-Banners-Banners-Edit-screen-nl.png" />
     advertentie wilt invoeren.
     - **Aangepaste code**. Gebruik {CLICKURL} en {NAME} om 'Klik URL' en
       'Naam' waarden in uw aangepaste code in te voegen. Bijvoorbeeld:
-      [![`{NAME}`](voer%20URL%20naar%20afbeelding%20in "{NAME}")](%7BCLICKURL%7D).  
+      [![`{NAME}`](voer%20URL%20naar%20afbeelding%20in "{NAME}")](%7BCLICKURL%7D).
       Een andere optie is eigen HTML code in te voeren. Bijvoorbeeld:
       [![](patnaaruwafbeelding)](https://uwdomein.com)
 - **Klik URL**. De URL waar naartoe genavigeerd moet worden als de

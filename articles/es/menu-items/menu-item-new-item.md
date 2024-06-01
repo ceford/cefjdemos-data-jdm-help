@@ -19,13 +19,13 @@ the help screen for each type.
 
 To add a Menu Item:
 
-- **Menus **→** \[name of the menu\]**
+- **Menus → \[name of the menu\]**
   1.  click the **New** toolbar button.
   2.  click the Menu Item Type **Select** button.
 
 To edit a Menu Item:
 
-- **Menus **→** \[name of the menu\]**
+- **Menus → \[name of the menu\]**
   - select a **Title** from the list
 
 ## Captura de pantalla
@@ -42,8 +42,7 @@ alt="Help-4x-Menus-New-Item-screen-es.png" />
 - **Título**. El título que se visualiza para este elemento del menú.
 - **Alias**. El alias se usará en la URL amigable. Si lo deja en blanco,
   Joomla! lo rellenará con un valor predeterminado obtenido a partir del
-  título. [Learn
-  more.](https://docs.joomla.org/Alias/es "Special:MyLanguage/Alias/es")
+  título.
 
 ### Detalles
 
@@ -78,8 +77,7 @@ alt="Help-4x-Menus-New-Item-screen-es.png" />
 - **Default Page**. If Yes, this menu item is the default page for the
   site. There must be exactly one menu item set as the default page. You
   can change the default page in two ways:
-  1.  Click on the Home column of the desired menu item in the [Menus:
-      Items](https://docs.joomla.org/Help4.x:Menus:_Items/es "Special:MyLanguage/Help4.x:Menus: Items/es")
+  1.  Click on the Home column of the desired menu item in the Menus: Items
       screen.
   2.  Open the menu item for the new default page and change the Default
       Page setting to Yes.
@@ -162,8 +160,7 @@ srcset="https://docs.joomla.org/images/thumb/2/20/Help-4x-Menus-New-Item-associa
 data-file-width="2878" data-file-height="570" width="600" height="119"
 alt="Help-4x-Menus-New-Item-associations-subscreen-es.png" />
 
-[Multilingual
-only.](https://docs.joomla.org/Help4.x:Multilingual_Associations/es "Special:MyLanguage/Help4.x:Multilingual Associations/es")
+Multilingual only!
 
 ### Asignación de módulos
 
@@ -180,7 +177,7 @@ alt="Help-4x-Menus-New-Item-module-assignment-subscreen-es.png" />
 ## Barra de herramientas
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Guardar**. Guarda el elemento de menú y se queda en la pantalla
   actual.

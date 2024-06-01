@@ -7,7 +7,7 @@ globally for Smart Search.
 
 ## How to Access
 
-- Select **Components **→** Smart Search **→** Index** from the
+- Select **Components → Smart Search → Index** from the
   Administrator menu. Then...
   - Select the Options button from the Toolbar.
 
@@ -17,7 +17,7 @@ globally for Smart Search.
 src="https://docs.joomla.org/images/a/a0/Help4.x-Components-Finder-Options-en.png"
 decoding="async" data-file-width="800" data-file-height="810"
 width="800" height="810"
-alt="Help4.x-Components-Finder-Options-en.png" />
+alt="Smart searcg Options screen" />
 
 ## Form Fields
 
@@ -67,7 +67,7 @@ src="https://docs.joomla.org/images/thumb/2/23/Help4x-Components-Finder-Options-
 decoding="async"
 srcset="https://docs.joomla.org/images/2/23/Help4x-Components-Finder-Options-Index-en.png 1.5x"
 data-file-width="788" data-file-height="1231" width="600" height="937"
-alt="Help4x-Components-Finder-Options-Index-en.png" />
+alt="smart search Options Index tab" />
 
 - **Search for Phrases.** (Disabled/Enabled) Performance versus quality
   of results.
@@ -119,9 +119,9 @@ follows.
 src="https://docs.joomla.org/images/6/6d/Help4x-Components-Finder-Options-Permissions-en.png"
 decoding="async" data-file-width="600" data-file-height="670"
 width="600" height="670"
-alt="Help4x-Components-Finder-Options-Permissions-en.png" />
+alt="smart search Options Permissions tab" />
 
-  
+
 To change the permissions for this extension, do the following.
 
 - Select the **Group** by clicking its title located on the left.
@@ -153,7 +153,7 @@ To change the permissions for this extension, do the following.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Save**. Saves the item and stays in the current screen.
 - **Save & Close**. Saves the item and closes the current screen.

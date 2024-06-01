@@ -6,7 +6,7 @@ This screen provides a sortable list of privacy policy consents.
 
 ## How to access
 
-- Select **Users **→** Privacy **→** Consents** from the Administrator
+- Select **Users → Privacy → Consents** from the Administrator
   menu.
 
 ## Screenshot
@@ -16,7 +16,7 @@ src="https://docs.joomla.org/images/thumb/c/cb/Help-4x-component-privacy-consent
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/cb/Help-4x-component-privacy-consents-en.png/1200px-Help-4x-component-privacy-consents-en.png 1.5x, https://docs.joomla.org/images/c/cb/Help-4x-component-privacy-consents-en.png 2x"
 data-file-width="1278" data-file-height="758" width="800" height="474"
-alt="Help-4x-component-privacy-consents-en.png" />
+alt="privacy consents list" />
 
 ## Column Headers
 
@@ -33,7 +33,7 @@ alt="Help-4x-component-privacy-consents-en.png" />
 ## List Filters
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -50,20 +50,14 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Invalid Consent.** Activated when an item is selected.
 - **Options.** Opens the Options window where settings such as default
   parameters can be edited.
 - **Help**. Opens this help screen.
-
-## Related Information
-
-- [The Privacy Tool
-  Suite](https://docs.joomla.org/J3.x:Privacy/en "J3.x:Privacy/en")

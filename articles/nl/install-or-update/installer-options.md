@@ -7,7 +7,7 @@ van parameters die algemeen gebruikt worden voor het installeren.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Systeem **→** Extensies** vanuit het beheermenu. Daarna...
+- Selecteer **Systeem → Extensies** vanuit het beheermenu. Daarna...
   - Klik op de **Opties** knop in de werkbalk.
 
 ## Schermafbeelding
@@ -43,7 +43,7 @@ srcset="https://docs.joomla.org/images/f/fd/Help-4x-Components-Installer-Options
 data-file-width="860" data-file-height="734" width="800" height="683"
 alt="Help-4x-Components-Installer-Options-Permissions-nl.png" />
 
-  
+
 Om de rechten van deze extensie te wijzigen moet u de volgende
 handelingen uitvoeren.
 

@@ -7,7 +7,7 @@ globally for Redirects.
 
 ## How to Access
 
-- Select **System **→** Redirects in the Manage Panel** from the
+- Select **System → Redirects in the Manage Panel** from the
   Administrator menu. Then...
   - Select the **Options** button in the Toolbar.
 
@@ -17,9 +17,9 @@ If you see this error message:
 src="https://docs.joomla.org/images/4/4e/Help-j4x-Components-Redirect-Manager-Options-error-plugin-en.png"
 decoding="async" data-file-width="600" data-file-height="71" width="600"
 height="71"
-alt="Help-j4x-Components-Redirect-Manager-Options-error-plugin-en.png" />
+alt="Redirect Options plugin error message" />
 
-Go to **System **→** Plugins** and enable the System Redirect plugin.
+Go to **System → Plugins** and enable the System Redirect plugin.
 Then come back here.
 
 ## Screenshot
@@ -28,7 +28,7 @@ Then come back here.
 src="https://docs.joomla.org/images/1/10/Help-4x-Components-Redirect-Options-en.png"
 decoding="async" data-file-width="800" data-file-height="329"
 width="800" height="329"
-alt="Help-4x-Components-Redirect-Options-en.png" />
+alt="Redirect Options screenshot" />
 
 ## Form Fields
 
@@ -51,7 +51,7 @@ alt="Help-4x-Components-Redirect-Options-en.png" />
 src="https://docs.joomla.org/images/5/55/Help-4x-Components-Redirects-Options-Permissions-en.png"
 decoding="async" data-file-width="600" data-file-height="661"
 width="600" height="661"
-alt="Help-4x-Components-Redirects-Options-Permissions-en.png" />
+alt="Redirects Options Permissions tab" />
 
 To change the permissions for this extension, do the following.
 

@@ -3,16 +3,15 @@
 ## Description
 
 The Menus: Items page lists the menu items contained in a menu created
-using the [Menu
-Manager](https://docs.joomla.org/Help4.x:Menus/en "Help4.x:Menus/en").
+using the Menu list.
 The Title bar shows the name of the selected menu or *All Menu Items* if
 that list is selected.
 
 ## How to access
 
-- Select **Menus **→** All Menu Items** from the Administrator menu.
+- Select **Menus → All Menu Items** from the Administrator menu.
   Or...
-- Select **Menus **→** \[*Menu Name*\]** from the Administrator menu to
+- Select **Menus → \[*Menu Name*\]** from the Administrator menu to
   select items for a specific menu.
 
 ## Screenshot
@@ -41,9 +40,7 @@ alt="Help-4x-menus-menu-manager-menu-items-en.png" />
 - **Home**. The yellow star icon designates which menu item is the
   current Home Page. Clicking on an empty Star icon will designate that
   menu item as the new Home Page.
-- **Access**. The [viewing Access
-  Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/en")
-  for this item.
+- **Access**. The viewing Access  Level   for this item.
 - **Association:** Shows which menu item this item is associated.
 - **Language**. Item language.
 - **ID**. This is a unique identification number for this item assigned
@@ -85,7 +82,7 @@ Screenshot above. The functions are:
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **New**. Opens the editing screen to create a new menu item.
 - **Actions:** Reveals a list of actions for selected Items. Check one
@@ -170,8 +167,3 @@ that this does *not* uncheck the check boxes for the items.
 
 - Select an item and click on the *Home* button to set your Home page.
 - Set different filter options to only show some of the menu items.
-
-## Related information
-
-- [Menu
-  Manager](https://docs.joomla.org/Help4.x:Menus/en "Help4.x:Menus/en")

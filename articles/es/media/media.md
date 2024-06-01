@@ -15,7 +15,7 @@ defined local folders. Tools available include:
 
 ## Cómo Acceder
 
-- **Panel de inicio **→** Site **→** Multimedia**
+- **Panel de inicio → Site → Multimedia**
 
 ## Captura de pantalla
 
@@ -82,28 +82,25 @@ icons appear offering the following actions:
 ## Barra de herramientas
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Subir**. Opens window for uploading images.
 - **Crear una carpeta nueva**. Opens a dialog to prompt for a new folder
   name. The new folder is created in the currently selected folder.
 - **Borrar**. Deletes the selected images.
-- **Opciones**. Opens [Media
-  Options](https://docs.joomla.org/Help4.x:Media:_Options/en "Help4.x:Media: Options/en").
+- **Opciones**. Opens the Media Options.
 - **Ayuda**. Opens this help screen.
 
 ## Consejos Rápidos
 
 - If you wish to keep images and documents in separate local folders:
   1.  create a folder in the root of your site, say **files**
-  2.  go to the [Filesystem -
-      Local](https://docs.joomla.org/J4.x:Media:_Options/en "J4.x:Media: Options/en")
+  2.  go to the Filesystem - Local
       plugin and add **files** under **Select directories**.
   3.  Back in the Media component you will see *images* and *files* as
       separate items in the Local panel.
 - The Media's maximum upload size can be changed to an amount other than
-  "10 MB" in the [Media
-  Options](https://docs.joomla.org/Help4.x:Media:_Options/en "Help4.x:Media: Options/en").
+  "10 MB" in the Media Options.
 - You can upload or delete multiple files at the same time.
 
 ## Información relacionada

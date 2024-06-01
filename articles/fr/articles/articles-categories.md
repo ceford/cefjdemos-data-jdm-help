@@ -12,7 +12,7 @@ child Category.
 
 ## Comment y accéder ?
 
-**Panneau d'administration **→** Site **→** Catégories d’articles**
+**Panneau d'administration → Site → Catégories d’articles**
 
 To add a Category:
 
@@ -60,12 +60,9 @@ alt="Help-4x-Content-Categories-screen-fr.png" />
 - **Icons**. Counts of number of Published, Unpublished, Archived and
   Trashed Articles in each Category. Click on a number to get a list of
   the categories.
-- **Accès**. The viewing [Access
-  Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Help4.x:Users: Viewing Access Levels/en")
-  for this category.
+- **Accès**. The viewing Access level  for this category.
 - **Association**. Shows the associated categories. Click on the
-  Language Code to open the category. [Multilingual
-  only.](https://docs.joomla.org/Help4.x:Multilingual_Associations/en "Help4.x:Multilingual Associations/en")
+  Language Code to open the category. Multilingual only.
 - **Langue**. Categories language, default is 'All'.
 - **Id**. A unique identification number for this category, you cannot
   change this number.
@@ -73,7 +70,7 @@ alt="Help-4x-Content-Categories-screen-fr.png" />
 ## Liste des filtres
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Recherche par texte**. Saisissez une partie du terme à rechercher et
   cliquez sur l'icône de recherche. Passez la souris sur l'icône pour
@@ -91,8 +88,7 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of categories in a list.
   Select from the dropdown list to change the number displayed.The
-  default for a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  default for a site is '20' but this may be changed in the Global Configuration.
 
 ### Paramètres des champs
 
@@ -111,7 +107,7 @@ En haut de la page, vous verrez la barre d'outils présentée dans la
 
 **Page Controls**. When the number of categories is more than one page,
 you will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -208,7 +204,7 @@ alt="Help-4x-Content-Categories-batch-fr.png" />
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Ecrans d'aide en relation                                                                                                                                             | Description                                                                                                                                                                                 |
 | [Articles : Paramètres](https://docs.joomla.org/Help4.x:Articles:_Options/fr "Help4.x:Articles: Options/fr")                                                          | Used to set global defaults for menu items that display articles. These default values will be used when 'Use Global' is selected for an option in an Articles menu item.                   |
-| [Articles](https://docs.joomla.org/Help4.x:Articles/fr "Help4.x:Articles/fr")                                                                                         | The Article list is used to find, mark featured, add and edit articles.                                                                                                                     |
+| Articles                                                                                         | The Article list is used to find, mark featured, add and edit articles.                                                                                                                     |
 | [Articles : Edition](https://docs.joomla.org/Help4.x:Articles:_Edit/fr "Help4.x:Articles: Edit/fr")                                                                   | This is where you can add and edit Articles. You can also select the Category for an Article and indicate whether or not it is Published and if it is selected to appear on the Front Page. |
 | [Articles : Articles épinglés](https://docs.joomla.org/Help4.x:Articles:_Featured/fr "Help4.x:Articles: Featured/fr")                                                 | Used to control which 'Featured Articles' are displayed on the Front Page and in what order they are displayed.                                                                             |
 | <span class="mw-selflink selflink">Articles : catégories</span>                                                                                                       | The Articles Categories list is used to find, add, and edit articles categories.                                                                                                            |

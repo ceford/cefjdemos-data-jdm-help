@@ -8,9 +8,8 @@ check, MIME type blacklisting, and more options.
 
 ## How to Access
 
-**Content **→** Media**
-
-- click the **Options** toolbar button
+- Select **Content → Media** from the Administrator menu.
+- Select the **Options** button in the Toolbar.
 
 ## Screenshot
 
@@ -19,7 +18,7 @@ src="https://docs.joomla.org/images/thumb/2/29/Help-4x-Media-Options-screen-en.p
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/29/Help-4x-Media-Options-screen-en.png/1200px-Help-4x-Media-Options-screen-en.png 1.5x, https://docs.joomla.org/images/thumb/2/29/Help-4x-Media-Options-screen-en.png/1600px-Help-4x-Media-Options-screen-en.png 2x"
 data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Help-4x-Media-Options-screen-en.png" />
+alt="Media Options screen" />
 
 ## Form Fields
 
@@ -65,8 +64,7 @@ alt="Help-4x-Media-Options-screen-en.png" />
 
 ### Permissions
 
-This section lets you set up the default [Access Control
-List](https://docs.joomla.org/Access_Control_List/en "Access Control List/en")
+This section lets you set up the default Access Control List
 permissions for all media.
 
 <img
@@ -74,7 +72,7 @@ src="https://docs.joomla.org/images/thumb/c/c3/Help-4x-Media-Options-permissions
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/c3/Help-4x-Media-Options-permissions-subscreen-en.png/900px-Help-4x-Media-Options-permissions-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/c/c3/Help-4x-Media-Options-permissions-subscreen-en.png/1200px-Help-4x-Media-Options-permissions-subscreen-en.png 2x"
 data-file-width="2001" data-file-height="1340" width="600" height="402"
-alt="Help-4x-Media-Options-permissions-subscreen-en.png" />
+alt="Media Options permissions tab" />
 
 To change the permissions for media, do the following.
 
@@ -90,8 +88,7 @@ To change the permissions for media, do the following.
     - **Delete**. Users can delete media.
     - **Edit**. Users can edit media.
 3.  Select the desired permission for the action you wish to change.
-    - **Inherited**. Inherited for users in this Group from the [Global
-      Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#permissions "Help4.x:Site Global Configuration/en")
+    - **Inherited**. Inherited for users in this Group from the Global Configuration
       permissions.
     - **Allowed**. Allowed for users in this Group. Note: If this action
       is Denied at one of the higher levels, the Allowed permission here
@@ -104,7 +101,7 @@ To change the permissions for media, do the following.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Save**. Saves the Media options and stays in the current screen.
 - **Save & Close**. Saves the Media options and closes the current
@@ -120,10 +117,3 @@ At the top of the page you will see the toolbar shown in the
   until you learn more about using global options.
 - If you are an advanced user, you can save time by creating good
   default values here.
-
-## Related Information
-
-- Related Help screen:
-  [Media](https://docs.joomla.org/Help4.x:Media/en "Help4.x:Media/en").
-- Tutorial: [Managing
-  Media](https://docs.joomla.org/J4.x:Managing_Media/en "J4.x:Managing Media/en").

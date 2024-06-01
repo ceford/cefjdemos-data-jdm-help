@@ -6,7 +6,7 @@ You can add or modify menus in this screen.
 
 ## How to Access
 
-- Select **Menus **→** Manage** from the Administrator menu. Then...
+- Select **Menus → Manage** from the Administrator menu. Then...
   - Select the **New** button in the Toolbar to create a new menu. Or...
   - Select a menu **Title** in the Title column to edit an existing
     menu.
@@ -17,7 +17,7 @@ You can add or modify menus in this screen.
 src="https://docs.joomla.org/images/f/f4/Help-4x-menus-menu-manager-add-menu-en.png"
 decoding="async" data-file-width="800" data-file-height="475"
 width="800" height="475"
-alt="Help-4x-menus-menu-manager-add-menu-en.png" />
+alt="menus edit screenshot" />
 
 ## Form Fields
 
@@ -56,7 +56,7 @@ The available settings for each are:
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Save**. Saves the item and stays in the current screen.
 - **Save & Close**. Saves the item and closes the current screen.
@@ -68,8 +68,7 @@ At the top of the page you will see the toolbar shown in the
 
 ## Quick Tips
 
-- If you forgot to create a module for this menu, go to the [Module
-  Manager](https://docs.joomla.org/Help4.x:Modules/en "Help4.x:Modules/en"),
+- If you forgot to create a module for this menu, go to the Modules list,
   found by going to **Home Dashboard â†’ Site â†’ Module**. Click on
   **New**, and then on **Menu**. Fill in a title and select the Menu in
   the Module Parameters.
@@ -82,10 +81,3 @@ At the top of the page you will see the toolbar shown in the
   spaces in the *Unique Name* field. It is a good idea to use only a-z,
   0-9 and underscore (\_) characters.
 
-## Related information
-
-- [Menus](https://docs.joomla.org/Help4.x:Menus/en "Special:MyLanguage/Help4.x:Menus/en")
-- <a href="https://docs.joomla.org/Help4.x:Site_Control_Panel/en"
-  class="new"
-  title="Special:MyLanguage/Help4.x:Site Control Panel/en (page does not exist)">Control
-  Panel</a>

@@ -7,7 +7,7 @@ independently for the Site and Administrator interfaces.
 
 ## How to Access
 
-- Select **System **→** Manage Panel **→** Languages** from the
+- Select **System → Manage Panel → Languages** from the
   Administrator menu.
 
 ## Screenshot
@@ -16,7 +16,7 @@ independently for the Site and Administrator interfaces.
 src="https://docs.joomla.org/images/a/a6/Help-4x-Extensions-Language-Manager-Installed-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="370"
 width="800" height="370"
-alt="Help-4x-Extensions-Language-Manager-Installed-screen-en.png" />
+alt="Language Installed screen" />
 
 ## Column Headers
 
@@ -45,7 +45,7 @@ Click on the column heading to sort the list by that column's value.
 
 ## List Filters
 
-**Filter by Site or Administrator**
+### Filter by Site or Administrator
 
 - **Site.** Shows the installed Languages for the Frontend part. Here
   you can set the default language for the Frontend of your Joomla
@@ -55,7 +55,7 @@ Click on the column heading to sort the list by that column's value.
   website.
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -72,14 +72,13 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
 **Filter Options.** This screen has no Filter Options
 
 **Page Controls**. When the number of items is more than one page, you
 will see a page control bar near the bottom of the page shown in the
-[Screenshot](#screenshot) above. The current page number being viewed
+Screenshot above. The current page number being viewed
 has a dark colour background.
 
 - **Start**. Click to go to the first page.
@@ -91,20 +90,16 @@ has a dark colour background.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Default:** Makes the selected item the default item. The default
-  star symbol
-  (<img src="https://docs.joomla.org/images/7/7e/Icon-16-default.png"
-  decoding="async" data-file-width="30" data-file-height="20" width="30"
-  height="20" alt="Icon-16-default.png" />) will show in the Default
-  column, indicating that this is now the default item.
+  star symbol will show in the Default column, indicating that this is now
+  the default item.
 - **Switch Languages.** In the Administrator screen only, select a
   language radio button and then this button. The Administrator language
   will change and there will be a message such as *Message La langue de
   l'administration a Ã©tÃ© changÃ©e en "French (France)"*.
-- **Install Languages.** Links to the [Install Languages
-  Screen](https://docs.joomla.org/Help4.x:Extensions_Extension_Manager_Languages/en "Help4.x:Extensions Extension Manager Languages/en").
+- **Install Languages.** Links to the Install Languages Screen.
 - **Close**. Closes the current screen and returns to the previous
   screen without saving any modifications you may have made. This
   toolbar icon is not shown if you are creating a new item.
@@ -115,8 +110,7 @@ At the top of the page you will see the toolbar shown in the
 ## Quick Tips
 
 - Users can use any Language from the list of installed Languages,
-  either by having it assigned in the [Users
-  list](https://docs.joomla.org/Help4.x:Users/en "Help4.x:Users/en") or
+  either by having it assigned in the Users list or
   by filling out a [Menu Item list - New/Edit - User Form
   Layout](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en#User_Form_Layout "Help4.x:Menu Item: New Item/en")
   at the Frontend. This will cause the Joomla! system prompts to be
@@ -129,20 +123,8 @@ At the top of the page you will see the toolbar shown in the
   website's Articles and other content.
 - **Important**: Do not delete the default language files (for example,
   with FTP). This will create errors on both the Frontend and Backend.
-- Additional Languages can be added using the [Install Languages
-  Screen](https://docs.joomla.org/Help4.x:Extensions_Extension_Manager_Languages/en "Help4.x:Extensions Extension Manager Languages/en").
+- Additional Languages can be added using the Install Languages Screen.
 - If desired, you can show the Frontend site in one Language and show
   the Backend administration pages in a different Language. Also,
   individual articles can be configured to use a different language in
   the Advanced Parameter pane when editing the Article.
-
-## Related Information
-
-- To install more Languages: [Install Languages
-  Screen](https://docs.joomla.org/Help4.x:Extensions_Extension_Manager_Languages/en "Help4.x:Extensions Extension Manager Languages/en").
-- To uninstall a Language: [Extensions -
-  Manage](https://docs.joomla.org/Help4.x:Extensions:_Manage/en "Help4.x:Extensions: Manage/en")
-- To change the Language for a User: [Users -
-  New/Edit](https://docs.joomla.org/Help4.x:Users:_Edit_Profile/en "Help4.x:Users: Edit Profile/en")
-- To set the Language of an Article: [Articles - New/Edit - Parameters -
-  Advanced](https://docs.joomla.org/Help4.x:Articles:_Edit/en#Parameters_-_Advanced "Help4.x:Articles: Edit/en")

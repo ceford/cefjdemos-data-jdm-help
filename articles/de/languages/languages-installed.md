@@ -9,7 +9,7 @@ werden.
 ## Wie darauf zugreifen
 
 - Im Administrator-Menü die Option
-  **System **→** Verwalten **→** Sprachen** wählen.
+  **System → Verwalten → Sprachen** wählen.
 
 ## Bildschirmfoto
 
@@ -122,8 +122,7 @@ Werkzeugleiste im oberen Bereich. Die Funktionen sind:
 ## Tipps
 
 - Users can use any Language from the list of installed Languages,
-  either by having it assigned in the [Users
-  list](https://docs.joomla.org/Help4.x:Users/en "Help4.x:Users/en") or
+  either by having it assigned in the Users list or
   by filling out a [Menu Item list - New/Edit - User Form
   Layout](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en#User_Form_Layout "Help4.x:Menu Item: New Item/en")
   at the Frontend. This will cause the Joomla! system prompts to be

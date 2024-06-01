@@ -7,7 +7,7 @@ specific Category in a list layout.
 
 ## How To Access
 
-**Menus **→** \[name of the menu\]**
+Select **Menus → \[name of the menu\]** from the Administrator menu.
 
 To add a Menu Item:
 
@@ -27,19 +27,18 @@ src="https://docs.joomla.org/images/thumb/4/42/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/42/Help-4x-Menus-Item-Articles-Category-List-screen-en.png/1200px-Help-4x-Menus-Item-Articles-Category-List-screen-en.png 1.5x, https://docs.joomla.org/images/thumb/4/42/Help-4x-Menus-Item-Articles-Category-List-screen-en.png/1600px-Help-4x-Menus-Item-Articles-Category-List-screen-en.png 2x"
 data-file-width="2880" data-file-height="1407" width="800" height="391"
-alt="Help-4x-Menus-Item-Articles-Category-List-screen-en.png" />
+alt="Menu Item Category List screen" />
 
 ## Form Fields
 
 - **Title**. The title that will display for this menu item.
 - **Alias**. The internal name of the menu item. Normally, you can leave
   this blank and Joomla will fill in a default value Title in lower case
-  and with dashes instead of spaces. [Learn
-  more.](https://docs.joomla.org/Alias/en "Alias/en")
+  and with dashes instead of spaces.
 
 ### Details
 
-**Left Panel**
+#### Left Panel
 
 - **Menu Item Type**. The Menu Item Type selected when this menu item
   was created. This can be one of the core menu item types or a menu
@@ -53,17 +52,16 @@ alt="Help-4x-Menus-Item-Articles-Category-List-screen-en.png" />
 - **Target Window**. Select from the dropdown list.
 - **Template Style**. Select from the dropdown list.
 
-**Right Panel**
+#### Right Panel
 
 - **Menu**. Shows which menu the link will appear in.
 
 ### Category
 
 The Options control the way that category information is shown in the
-menu item.  
+menu item.
 Options include "Use Global". If this is selected, the setting from the
-[Articles:
-Options](https://docs.joomla.org/Help4.x:Articles:_Options/en "Help4.x:Articles: Options/en")
+Articles: Options
 will be used.
 
 <img
@@ -71,7 +69,7 @@ src="https://docs.joomla.org/images/thumb/7/72/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/72/Help-4x-Menus-Item-Articles-Category-List-category-subscreen-en.png/900px-Help-4x-Menus-Item-Articles-Category-List-category-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/7/72/Help-4x-Menus-Item-Articles-Category-List-category-subscreen-en.png/1200px-Help-4x-Menus-Item-Articles-Category-List-category-subscreen-en.png 2x"
 data-file-width="2878" data-file-height="1337" width="600" height="279"
-alt="Help-4x-Menus-Item-Articles-Category-List-category-subscreen-en.png" />
+alt="Menus Item Category List category tab" />
 
 - **Category Title**. Show the title of the category.
 - **Category Description**. Show the description for the category.
@@ -99,7 +97,7 @@ src="https://docs.joomla.org/images/thumb/a/a4/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/a/a4/Help-4x-Menus-Item-Articles-Category-List-list-layouts-subscreen-en.png/900px-Help-4x-Menus-Item-Articles-Category-List-list-layouts-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/a/a4/Help-4x-Menus-Item-Articles-Category-List-list-layouts-subscreen-en.png/1200px-Help-4x-Menus-Item-Articles-Category-List-list-layouts-subscreen-en.png 2x"
 data-file-width="2878" data-file-height="1326" width="600" height="276"
-alt="Help-4x-Menus-Item-Articles-Category-List-list-layouts-subscreen-en.png" />
+alt="Menus Item Category List list layouts tab" />
 
 - **Display Select**. Show the Display \# control that allows the user
   to select the number of articles to show.
@@ -130,12 +128,10 @@ alt="Help-4x-Menus-Item-Articles-Category-List-list-layouts-subscreen-en.png" />
   - Title Reverse Alphabetical: Categories are displayed in reverse
     alphabetical order (Z to A).
   - Category Order: Categories are ordered according to the Order column
-    entered in [Articles:
-    Categories](https://docs.joomla.org/Help4.x:Articles:_Categories/en#ordering "Help4.x:Articles: Categories/en").
+    entered in Articles: Categories.
 - **Article Order**.
   - Featured Articles Order: Articles are ordered according to the Order
-    column entered in [Articles:
-    Featured](https://docs.joomla.org/Help4.x:Articles:_Featured/en#ordering "Help4.x:Articles: Featured/en").
+    column entered in Articles: Featured.
   - Most Recent First: Articles are displayed starting with the most
     recent and ending with the oldest.
   - Oldest First: Articles are displayed starting with the oldest and
@@ -157,10 +153,10 @@ alt="Help-4x-Menus-Item-Articles-Category-List-list-layouts-subscreen-en.png" />
   - Random Order: Articles are displayed in random order.
   - Article Order: Articles are ordered according to the Order column
     entered in
-    [Articles](https://docs.joomla.org/Help4.x:Articles/en#ordering "Help4.x:Articles/en").
+    Articles.
   - Article Reverse Order: Articles are ordered reverse to the according
     of the Order column entered in
-    [Articles](https://docs.joomla.org/Help4.x:Articles/en#ordering "Help4.x:Articles/en").
+    Articles.
 - **Date for Ordering**. The date used when articles are sorted by date.
   - Created: Use the article created date.
   - Modified: Use the article modified date.
@@ -189,9 +185,7 @@ src="https://docs.joomla.org/images/thumb/0/0c/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/0/0c/Help-4x-Menus-Item-Articles-Category-List-options-subscreen-en.png/900px-Help-4x-Menus-Item-Articles-Category-List-options-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/0/0c/Help-4x-Menus-Item-Articles-Category-List-options-subscreen-en.png/1200px-Help-4x-Menus-Item-Articles-Category-List-options-subscreen-en.png 2x"
 data-file-width="2878" data-file-height="1344" width="600" height="280"
-alt="Help-4x-Menus-Item-Articles-Category-List-options-subscreen-en.png" />
-
-**Layout**
+alt="Menus Item Category List options tab" />
 
 - **Choose a Layout**. Select from the dropdown list.
 - **Title**. Show the Article's Title.
@@ -201,45 +195,26 @@ alt="Help-4x-Menus-Item-Articles-Category-List-options-subscreen-en.png" />
     the article.
   - Hide: Only the part of the article after the Read More break will
     show.
-
-**Category**
-
 - **Category**. Show the Article's Category Title.
 - **Link Category**. Show the title as a link to that Category.Note: You
-  can set this to be either a blog or list layout with the [Choose a
-  Layout](https://docs.joomla.org/Help4.x:Articles:_Options/en#choosealayout "Help4.x:Articles: Options/en")
+  can set this to be either a blog or list layout with the Choose a Layout
   option in the Category Tab.
 - **Parent Category**. Show the Article's Parent Category Title.
 - **Link Parent Category**. Show the title as a link to that
   Category.Note: You can set this to be either a blog or list layout
-  with the [Choose a
-  Layout](https://docs.joomla.org/Help4.x:Articles:_Options/en#choosealayout "Help4.x:Articles: Options/en")
+  with the Choose a Layout
   option in the Category Tab.
-
-**Associations**
-
 - **Associations**. Show the associated flags or Language Code.
-  [Multilingual
-  only.](https://docs.joomla.org/Help4.x:Multilingual_Associations/en "Help4.x:Multilingual Associations/en")
-
-**Author**
-
+  Multilingual only.
 - **Author**. Show the author of the Article.
 - **Link to Author's Contact Page**. Show it as a link to a Contact
   layout for that author.Note: The author must be set up as a
-  [Contact](https://docs.joomla.org/Help4.x:Contacts:_Edit/en "Help4.x:Contacts: Edit/en").
-  Also, a link will not show if there is an [Author
-  Alias](https://docs.joomla.org/Help4.x:Articles:_Edit/en#createdbyalias "Help4.x:Articles: Edit/en")
+  Contact.
+  Also, a link will not show if there is an Author Alias
   value for the article.
-
-**Date**
-
 - **Create Date**. Show the Article's create date.
 - **Modify Date**. Show the Article's modify date.
 - **Publish Date**. Show the Article's start publishing date.
-
-**Options**
-
 - **Navigation**. Show a navigation link 'Prev' or 'Next' when you drill
   down to the article.
 - **"Read More" Link**. Show the Read More link to link from the part of
@@ -267,7 +242,7 @@ src="https://docs.joomla.org/images/thumb/d/d6/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/d/d6/Help-4x-Menus-Item-Articles-Category-List-integration-subscreen-en.png/900px-Help-4x-Menus-Item-Articles-Category-List-integration-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/d/d6/Help-4x-Menus-Item-Articles-Category-List-integration-subscreen-en.png/1200px-Help-4x-Menus-Item-Articles-Category-List-integration-subscreen-en.png 2x"
 data-file-width="2878" data-file-height="710" width="600" height="148"
-alt="Help-4x-Menus-Item-Articles-Category-List-integration-subscreen-en.png" />
+alt="Menus Item Category List integration tab" />
 
 - **RSS Feed Link**. If set to Show, a Feed Link will show up as a feed
   icon in the address bar of most browsers.
@@ -277,25 +252,20 @@ alt="Help-4x-Menus-Item-Articles-Category-List-integration-subscreen-en.png" />
 
 ### Common Options
 
-See [Menus: New
-Item](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en "Help4.x:Menu Item: New Item/en")
+See Menus: New Item
 for help on fields common to all Menu Item types, including:
 
-- [Right
-  Panel](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en#rightpanel "Help4.x:Menu Item: New Item/en")
-- [Link
-  Type](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en#linktype "Help4.x:Menu Item: New Item/en")
-- [Page
-  Display](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en#pagedisplay "Help4.x:Menu Item: New Item/en")
-- [Metadata](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en#metadata "Help4.x:Menu Item: New Item/en")
-- [Associations](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en#associations "Help4.x:Menu Item: New Item/en")
-- [Module
-  Assignment](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en#moduleassignment "Help4.x:Menu Item: New Item/en")
+- Right Panel
+- Link Type
+- Page Display
+- Metadata
+- Associations
+- Module Assignment
 
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Save**. Saves the menu item and stays in the current screen.
 - **Save & Close**. Saves the menu item and closes the current screen.
@@ -310,22 +280,5 @@ At the top of the page you will see the toolbar shown in the
 - The Category List layout is a convenient way to list a compact
   directory of articles in a category that can include filtering and
   searching.
-- To create a new Category see [Articles: Edit
-  Category.](https://docs.joomla.org/Help4.x:Articles:_Edit_Category)
-- To create a new menu see
-  [Menus.](https://docs.joomla.org/Help4.x:Menus)
-
-## Related Information
-
-- [Articles: Options](https://docs.joomla.org/Help4.x:Articles:_Options) Used to set global defaults for menu items that display articles. These default values will be used when 'Use Global' is selected for an option in an Articles menu item.
-- [Articles](https://docs.joomla.org/Help4.x:Articles) The Article list is used to find, mark featured, add and edit articles.
-- [Articles: Edit](https://docs.joomla.org/Help4.x:Articles:_Edit) This is where you can add and edit Articles. You can also select the Category for an Article and indicate whether or not it is Published and if it is selected to appear on the Front Page.
-- [Articles: Featured](https://docs.joomla.org/Help4.x:Articles:_Featured) Used to control which 'Featured Articles' are displayed on the Front Page and in what order they are displayed.
-- [Articles: Categories](https://docs.joomla.org/Help4.x:Articles:_Categories) The Articles Categories list is used to find, add, and edit articles categories.
-- [Menus: Archived Articles](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived) Shows a customised list of articles ordered by date or title. Archived articles are no longer published but are still stored on the site.
-- [Menus: Category Blog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog) Used to show articles belonging to a specific Category in a blog layout. Controls the Leading Articles, Intro Articles and additional links to more Articles.
-| <span class="mw-selflink selflink">Menus: Category List</span> Used to show articles belonging to a specific Category in a list layout.
-- [Menus: Create Article](https://docs.joomla.org/Help4.x:Menu_Item:_Create_Article) Allows users to submit an article. Normally this is available only to users who have logged in to the Frontend of the site. Users must have permission to create articles.
-- [Menus: Featured Articles](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles) Used to show all Articles that have been tagged as Featured. Articles are shown in a Blog Layout.
-- [Menus: List All Categories in an Article Category Tree](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories) Used to show a hierarchical list of Categories. Depending on the selected options for this layout, you can click on a category Title to show the articles in that category.
-- [Menus: Single Article](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article) Used to show one article.
+- To create a new Category see Articles: Edit Category.
+- To create a new menu see Menus.

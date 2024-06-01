@@ -6,7 +6,7 @@ Der Menüeintrag zeigt Beiträge einer Kategorie in einer Liste.
 
 ## Wie darauf zugreifen
 
-**Menüs **→** \[Name des Menüs\]**
+**Menüs → \[Name des Menüs\]**
 
 Einen Menüeintrag hinzufügen:
 
@@ -57,7 +57,7 @@ alt="Help-4x-Menus-Item-Articles-Category-List-screen-de.png" />
 ### Kategorie
 
 Die Optionen kontrollieren, wie Kategorieinformationen im Menüeintrag
-gezeigt werden.  
+gezeigt werden.
 Die Auswahl "Global" übernimmt Einstellungen aus [Beiträge:
 Optionen](https://docs.joomla.org/Help4.x:Articles:_Options/de "Help4.x:Articles: Options/de").
 

@@ -25,7 +25,7 @@ The process for adding a menu to the site is normally as follows:
 
 ## Comment y accéder
 
-- Select **Menus **→** Manage** from the Administrator menu.
+- Select **Menus → Manage** from the Administrator menu.
 
 ## Capture d'écran
 
@@ -65,7 +65,7 @@ ascending order.
 ## Barre d'outils
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **New**. Opens the editing screen to create a new menu.
 - **Edit**. Opens the editing screen for the selected menu. If more than
@@ -122,5 +122,4 @@ At the top of the page you will see the toolbar shown in the
   Configuration](https://docs.joomla.org/Help4.x:Menus:_Options/en "Help4.x:Menus: Options/en")
 - To add or edit Menu Items: [Menu Item
   Manager](https://docs.joomla.org/Help4.x:Menus:_Items/en "Help4.x:Menus: Items/en")
-- To add or edit Menu Modules: [Module
-  Manager](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en "Help4.x:Menu Item: New Item/en")
+- To add or edit Menu Modules: Modules list

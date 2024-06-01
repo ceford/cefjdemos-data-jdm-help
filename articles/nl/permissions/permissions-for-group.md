@@ -8,7 +8,7 @@ is handig om problemen met gebruikerstoegang op te lossen.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Gebruikers **→** Groepen** vanuit het beheermenu. Dan...
+- Selecteer **Gebruikers → Groepen** vanuit het beheermenu. Dan...
   - Selecteer het **Rechten** icoon voor een specifieke groep uit de
     lijst met gebruikersgroepen.
 
@@ -82,7 +82,7 @@ hierboven. De functies zijn:
 
 **Paginabesturing** Als het aantal items meer is dan een pagina, zie je
 een paginabesturing bij de onderkant van de pagina zoals in bovenstaande
-[Screenshot](#screenshot). Het huidige paginanummer heeft een donkere
+Screenshot. Het huidige paginanummer heeft een donkere
 achtergrond.
 
 - **Begin**. Klik om naar de eerste pagina te gaan.

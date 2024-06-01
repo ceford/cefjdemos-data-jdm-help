@@ -9,7 +9,7 @@ deïnstalleren.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Systeem **→** Beheren venster **→** Extensies** vanuit het
+- Selecteer **Systeem → Beheren venster → Extensies** vanuit het
   beheermenu.
 
 ## Schermafbeelding
@@ -59,7 +59,7 @@ Klik op de kolomkop om de lijst op de waarde in die kolom te sorteren.
 #### Lijst filters
 
 **Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande [Screenshot](#screenshot).
+bovenstaande Screenshot.
 
 - **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
   zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat
@@ -118,7 +118,7 @@ bovenstaande [Screenshot](#screenshot).
 
 **Paginabesturing** Als het aantal extensie(s) meer is dan een pagina,
 zie je een paginabesturing bij de onderkant van de pagina zoals in
-bovenstaande [Screenshot](#screenshot). Het huidige paginanummer heeft
+bovenstaande Screenshot. Het huidige paginanummer heeft
 een donkere achtergrond.
 
 - **Begin**. Klik om naar de eerste pagina te gaan.

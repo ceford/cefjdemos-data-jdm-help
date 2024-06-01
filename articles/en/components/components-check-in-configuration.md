@@ -6,7 +6,7 @@ Default permissions for the Check-in Component.
 
 ## How to Access
 
-- Select **System **→** Global Check-in** from the Administrator menu.
+- Select **System → Global Check-in** from the Administrator menu.
   Then...
   - Click the **Options** button at the top right. This opens the
     **Check-in: Optons - Permissions screen**.

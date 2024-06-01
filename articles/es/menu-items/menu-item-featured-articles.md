@@ -7,7 +7,7 @@ have been tagged as Featured in a Blog Layout.
 
 ## Cómo Acceder
 
-**Menus **→** \[name of the menu\]**
+Select **Menus → \[name of the menu\]** from the Administrator menu.
 
 To add a Menu Item:
 
@@ -35,8 +35,7 @@ alt="Help-4x-Menus-Item-Articles-Featured-Articles-screen-es.png" />
   del menú.
 - **Alias**. **Alias**. El alias se usará en la URL amigable. Si lo deja
   en blanco, Joomla! lo rellenará con un valor predeterminado obtenido a
-  partir del título. [Learn
-  more.](https://docs.joomla.org/Alias/en "Alias/en")
+  partir del título.
 
 ### Detalles
 
@@ -107,12 +106,12 @@ alt="Help-4x-Menus-Item-Articles-Featured-Articles-blog-layout-subscreen-es.png"
   - Down: Abajo: Orden de los artículos van hacia abajo en la primera
     columna y, a continuación, a la siguiente columna, por ejemplo:
 
-- 
+-
   - Across: Cruzado: El orden de los artículos va a través de las
     columnas y, a continuación, vuelve a la primera columna, por
     ejemplo:
 
-- 
+-
 - **\# Links**. **\# Cantidad de enlaces**. El número de Enlaces a
   mostrar en los "Links" de la página. Estos enlaces permiten a un
   Usuario ver enlaces a otros Artículos, si no caben más Artículos en la
@@ -127,12 +126,10 @@ alt="Help-4x-Menus-Item-Articles-Featured-Articles-blog-layout-subscreen-es.png"
   - Title Reverse Alphabetical: Categories are displayed in reverse
     alphabetical order (Z to A).
   - Category Order: Categories are ordered according to the Order column
-    entered in [Articles:
-    Categories](https://docs.joomla.org/Help4.x:Articles:_Categories/en#ordering "Help4.x:Articles: Categories/en").
+    entered in Articles: Categories.
 - Orden del artículo**.**.
   - Featured Articles Order: Articles are ordered according to the Order
-    column entered in [Articles:
-    Featured](https://docs.joomla.org/Help4.x:Articles:_Featured/en#ordering "Help4.x:Articles: Featured/en").
+    column entered in Articles: Featured.
   - Most Recent First: Articles are displayed starting with the most
     recent and ending with the oldest.
   - Oldest First: Articles are displayed starting with the oldest and
@@ -154,10 +151,10 @@ alt="Help-4x-Menus-Item-Articles-Featured-Articles-blog-layout-subscreen-es.png"
   - Random Order: Articles are displayed in random order.
   - Article Order: Articles are ordered according to the Order column
     entered in
-    [Articles](https://docs.joomla.org/Help4.x:Articles/en#ordering "Help4.x:Articles/en").
+    Articles.
   - Article Reverse Order: Articles are ordered reverse to the according
     of the Order column entered in
-    [Articles](https://docs.joomla.org/Help4.x:Articles/en#ordering "Help4.x:Articles/en").
+    Articles.
 - **Date for Ordering**. The date used when articles are sorted by date.
   - Created: Use the article created date.
   - Modified: Use the article modified date.
@@ -176,10 +173,9 @@ alt="Help-4x-Menus-Item-Articles-Featured-Articles-blog-layout-subscreen-es.png"
 ### Opciones
 
 The Options determine how the articles will show in the blog menu
-item.  
+item.
 Options include "Use Article Settings". If this is selected, the setting
-from [Articles:
-Edit](https://docs.joomla.org/Help4.x:Articles:_Edit/en "Help4.x:Articles: Edit/en")
+from Articles: Edit
 will be used.
 
 <img
@@ -210,30 +206,26 @@ Categoría
 
 - **Category**. Show the Article's Category Title.
 - **Link Category**. Show the title as a link to that Category.Note: You
-  can set this to be either a blog or list layout with the [Choose a
-  Layout](https://docs.joomla.org/Help4.x:Articles:_Options/en#choosealayout "Help4.x:Articles: Options/en")
+  can set this to be either a blog or list layout with the Choose a Layout
   option in the Category Tab.
 - **Parent Category**. Show the Article's Parent Category Title.
 - **Link Parent Category**. Show the title as a link to that
   Category.Note: You can set this to be either a blog or list layout
-  with the [Choose a
-  Layout](https://docs.joomla.org/Help4.x:Articles:_Options/en#choosealayout "Help4.x:Articles: Options/en")
+  with the Choose a Layout
   option in the Category Tab.
 
 Asociaciones
 
 - **Associations**. Show the associated flags or Language Code.
-  [Multilingual
-  only.](https://docs.joomla.org/Help4.x:Multilingual_Associations/en "Help4.x:Multilingual Associations/en")
+  Multilingual only.
 
 Mostrar autor
 
 - **Author**. Show the author of the Article.
 - **Link to Author's Contact Page**. Show it as a link to a Contact
   layout for that author.Note: The author must be set up as a
-  [Contact](https://docs.joomla.org/Help4.x:Contacts:_Edit/en "Help4.x:Contacts: Edit/en").
-  Also, a link will not show if there is an [Author
-  Alias](https://docs.joomla.org/Help4.x:Articles:_Edit/en#createdbyalias "Help4.x:Articles: Edit/en")
+  Contact.
+  Also, a link will not show if there is an Author Alias
   value for the article.
 
 Fecha
@@ -282,8 +274,7 @@ alt="Help-4x-Menus-Item-Articles-Featured-Articles-integration-subscreen-es.png"
 
 ### Opciones comunes
 
-See [Menus: New
-Item](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en "Help4.x:Menu Item: New Item/en")
+See Menus: New Item
 for help on fields common to all Menu Item types, including:
 
 - [Panel
@@ -300,7 +291,7 @@ for help on fields common to all Menu Item types, including:
 ## Barra de herramientas
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Guardar**. Guarda el elemento de menú y se queda en la pantalla
   actual.
@@ -317,8 +308,7 @@ At the top of the page you will see the toolbar shown in the
 
 - To see an example of the featured layout, install Joomla with the
   sample data and select the Home page.
-- Featured articles are selected using [Articles:
-  Featured](https://docs.joomla.org/Help4.x:Articles:_Featured/en "Help4.x:Articles: Featured/en").
+- Featured articles are selected using Articles: Featured.
 
 ## Información relacionada
 

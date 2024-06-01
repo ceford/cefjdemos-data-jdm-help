@@ -16,7 +16,7 @@ standaard instellingen werken.
 
 ## Hoe toegang te krijgen
 
-**Inhoud **→** Artikelen**
+**Inhoud → Artikelen**
 
 - Klik de **Opties** werkbalk knop.
 
@@ -34,7 +34,7 @@ alt="Help-4x-Content-Article-Manager-Options-screen-nl.png" />
 ### Artikel
 
 Opties gebruikt in artikelen en de menu-items
-[Blog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/nl#options "Help4.x:Menu Item: Category Blog/nl"),
+Blog,
 [Lijst](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/nl#options "Help4.x:Menu Item: Category List/nl"),
 [Speciale
 Artikelen](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/nl#options "Help4.x:Menu Item: Featured Articles/nl"),
@@ -142,8 +142,7 @@ srcset="https://docs.joomla.org/images/thumb/c/cb/Help-4x-Content-Article-Manage
 data-file-width="2003" data-file-height="1348" width="600" height="404"
 alt="Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-nl.png" />
 
-- **Gebruik captcha voor verzenden**. Selecteer de [captcha
-  plugin](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_CAPTCHA_Group/nl "Chunk4x:Extensions Plugin Manager Edit CAPTCHA Group/nl")
+- **Gebruik captcha voor verzenden**. Selecteer de captcha plugin
   die gebruikt zal worden voor het artikel verzendformulier. Zorg dat er
   een captcha plugin is geselecteerd bij de [Algemene
   instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#captcha "Help4.x:Site Global Configuration/nl")
@@ -210,7 +209,7 @@ alt="Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-nl.png" />
 
 Opties die bepalen hoe een categorie en zijn artikelen getoond worden.
 Ze worden gebruikt bij categorieën en de menu-items
-[Blog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/nl#category "Help4.x:Menu Item: Category Blog/nl"),
+Blog,
 [Lijst](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/nl#category "Help4.x:Menu Item: Category List/nl")
 en [Alle
 categorieën](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/nl#category "Help4.x:Menu Item: List All Categories/nl").
@@ -266,7 +265,7 @@ alt="Help-4x-Content-Article-Manager-Options-categories-subscreen-nl.png" />
 ### Weergave blog / speciale artikelen
 
 Deze opties bepalen de weergave van de menu-items
-[Blog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/nl#blog "Help4.x:Menu Item: Category Blog/nl"),
+Blog,
 [Speciale
 artikelen](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/nl#blog "Help4.x:Menu Item: Featured Articles/nl")
 en [Lijst met alle
@@ -315,12 +314,12 @@ alt="Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-nl.p
     eerste kolom totdat deze vol is, en vervolgens in de volgende kolom,
     bijvoorbeeld:
 
-- 
+-
   - Links naar rechts: Om de artikelen van links naar rechts te tonen
     over de kolommen heen tot de laatste kolom is bereikt, en vervolgens
     weer terug naar de eerste kolom, bijvoorbeeld:
 
-- 
+-
 - **\# Links**. Het aantal artikelen waarvan alleen de titel als link
   getoond moet worden in het 'Links' gedeelte van de pagina. Deze links
   staan een Gebruiker toe om te navigeren naar aanvullende Artikelen als
@@ -338,7 +337,7 @@ alt="Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-nl.p
 ### Lijstweergave
 
 Deze opties bepalen de weergave van de menu-items
-[List](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/nl#listlayouts "Help4.x:Menu Item: Category List/nl")
+List
 en [Lijst met alle
 categorieën](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/nl#listlayouts "Help4.x:Menu Item: List All Categories/nl").
 
@@ -375,7 +374,7 @@ alt="Help-4x-Content-Article-Manager-Options-list-layout-subscreen-nl.png" />
 ### Gedeeld
 
 Opties gedeeld door de menu-items
-[Blog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/nl#blog "Help4.x:Menu Item: Category Blog/nl"),
+Blog,
 [Lijst](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/nl#listlayouts "Help4.x:Menu Item: Category List/nl")
 en [Speciale
 artikelen](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/nl#blog "Help4.x:Menu Item: Featured Articles/nl").

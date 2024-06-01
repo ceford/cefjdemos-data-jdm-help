@@ -7,8 +7,7 @@ Editor ermöglicht Benutzern bei der Bearbeitung von Inhalten eine
 vertraute Textverarbeitungsoberfläche zu verwenden.
 
 TinyMCE kann mit 3 unterschiedlichen Sätzen von Werkzeugleisten-Buttons
-im Plugin [Editor -
-TinyMCE](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Editor_Group/de#tinymce "Chunk4x:Extensions Plugin Manager Edit Editor Group/de")
+im Plugin Editor - TinyMCE
 konfiguriert werden.
 
 ### Werkzeugleisten

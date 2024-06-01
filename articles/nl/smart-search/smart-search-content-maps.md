@@ -45,7 +45,7 @@ takken.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Componenten **→** Slim zoeken **→** Indhoudsschema's** in
+- Selecteer **Componenten → Slim zoeken → Indhoudsschema's** in
   het beheermenu.
 
 ## Schermafbeelding
@@ -97,7 +97,7 @@ alt="Help31-Components-Smart-Search-Content-Maps-columns-nl.png" />
 ## Lijst filters
 
 **Zoekbalk**. Bovenaan de pagina vind je de zoekbalk, zoals in
-bovenstaande [Screenshot](#screenshot).
+bovenstaande Screenshot.
 
 - **Zoeken op tekst**. Voer een deel van de zoekterm in en klik op het
   zoekicoon. *Hover* (muis boven item) om een *Tooltip* te zien dat

@@ -10,14 +10,14 @@ zone.
 
 ## How to access
 
-- At the top right, click on the **User Menu**  **→**  **Edit Account**
+- At the top right, click on the **User Menu**  →  **Edit Account**
 
 <img
 src="https://docs.joomla.org/images/thumb/a/a8/Help-4x-User-Menu-en.png/400px-Help-4x-User-Menu-en.png"
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/a/a8/Help-4x-User-Menu-en.png/600px-Help-4x-User-Menu-en.png 1.5x, https://docs.joomla.org/images/a/a8/Help-4x-User-Menu-en.png 2x"
 data-file-width="674" data-file-height="323" width="400" height="192"
-alt="Help-4x-User-Menu-en.png" />
+alt="User Menu dropdown list" />
 
 ## Screenshot
 
@@ -26,11 +26,11 @@ src="https://docs.joomla.org/images/thumb/7/78/Help-4x-my-profile-screenshot-en.
 decoding="async"
 srcset="https://docs.joomla.org/images/7/78/Help-4x-my-profile-screenshot-en.png 1.5x"
 data-file-width="1084" data-file-height="1226" width="800" height="905"
-alt="Help-4x-my-profile-screenshot-en.png" />
+alt="my profile screenshot" />
 
 ## Form Fields
 
-### Account Details
+### Account Details tab
 
 - **Name:** The (full) name of the user.
 - **Login Name**. The user name that will be entered during login.
@@ -52,12 +52,12 @@ alt="Help-4x-my-profile-screenshot-en.png" />
   field displays "0" until you save the new entry, at which point a new
   ID is assigned to it.
 
-#### Basic Settings
+### Basic Settings tab
 
 <img
 src="https://docs.joomla.org/images/4/49/Help-4x-Site-My-Profile-basic-en.png"
 decoding="async" data-file-width="600" data-file-height="252"
-width="600" height="252" alt="Help-4x-Site-My-Profile-basic-en.png" />
+width="600" height="252" alt="my profile basic settings tab" />
 
 - **Backend Template Style**. The template style to use for this user in
   the administrative backend.
@@ -71,26 +71,26 @@ width="600" height="252" alt="Help-4x-Site-My-Profile-basic-en.png" />
 - **Time Zone**. Set the time zone of the user. Default is the Time Zone
   set in the Global Configuration.
 
-#### Accessibility Settings
+### Accessibility Settings tab
 
 <img
 src="https://docs.joomla.org/images/3/33/Help-4x-users-user-manager-super-user-accessibility-settings-en.png"
 decoding="async" data-file-width="600" data-file-height="192"
 width="600" height="192"
-alt="Help-4x-users-user-manager-super-user-accessibility-settings-en.png" />
+alt="my profile accessibility settings tab" />
 
 - **Monochrome**. Yes/No
 - **High Contrast**. Yes/No
 - **Highlight Links**. Yes/No
 - **Increase Font Size**. Yes/No
 
-#### User Actions Log Options *(tab available for Super Users only)*
+### User Actions Log Options tab *(tab available for Super Users only)*
 
 <img
 src="https://docs.joomla.org/images/0/0a/Help-4x-Site-My-Profile-User-Actions-Log-Options-en.png"
 decoding="async" data-file-width="600" data-file-height="169"
 width="600" height="169"
-alt="Help-4x-Site-My-Profile-User-Actions-Log-Options-en.png" />
+alt="my profile User Actions Log Options tab" />
 
 - **Send notifications for User Actions Log**. (*Yes/No*) If set to yes,
   the User will receive user actions log notification by email
@@ -115,12 +115,5 @@ above. The functions are:
   settings by using this interface. If you change your password remember
   that it is case sensitive.
 - You can also access and edit your administrator account from the
-  [Users: Edit
-  Profile](https://docs.joomla.org/Help4.x:Users:_Edit_Profile/en "Help4.x:Users: Edit Profile/en")
-  screen which is available through the
-  [Users](https://docs.joomla.org/Help4.x:Users/en "Help4.x:Users/en").
-
-## Related Information
-
-- See [Users: Edit
-  Profile](https://docs.joomla.org/Help4.x:Users:_Edit_Profile/en "Help4.x:Users: Edit Profile/en")
+  Users: Edit Profile screen which is available through the
+User Profile.

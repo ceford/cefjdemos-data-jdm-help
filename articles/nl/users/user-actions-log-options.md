@@ -12,7 +12,7 @@ de rechten voor iedere gebruikersgroep.
 
 Om dit scherm te benaderen:
 
-- Selecteer **Gebruikers **→** Gebruikersactie log** vanuit het
+- Selecteer **Gebruikers → Gebruikersactie log** vanuit het
   beheermenu. Dan...
   - Klik op de **Opties** knop in de werkbalk.
 

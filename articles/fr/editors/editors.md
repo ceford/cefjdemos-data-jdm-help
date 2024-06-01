@@ -8,8 +8,7 @@ you get) qui offre aux utilisateurs une interface familière de
 traitement de texte pour l'édition d'articles et d'autres contenus.
 
 TinyMCE peut être configuré avec 3 jeux différents de boutons de barre
-d'outils. Ceci est défini dans le plugin [Editor -
-TinyMCE](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Editor_Group/fr#tinymce "Chunk4x:Extensions Plugin Manager Edit Editor Group/fr").
+d'outils. Ceci est défini dans le plugin Editor - TinyMCE.
 
 ### Barre d'outils
 
@@ -43,8 +42,7 @@ alt="Help-4x-editor-tinymce-simple-en.png" />
 La barre d'outils simple fournit une rangée de boutons comme indiqué
 ci-dessous.
 
-The set is default assigned to the Manager and Registered [user
-group](https://docs.joomla.org/Help4.x:Users:_Groups/en "Help4.x:Users: Groups/en").
+The set is default assigned to the Manager and Registered user group.
 
 <img
 src="https://docs.joomla.org/images/thumb/d/db/Help-4x-editor-tinymce-advanced-fr.png/800px-Help-4x-editor-tinymce-advanced-fr.png"
@@ -132,8 +130,7 @@ shows as a red dotted line across the article.
   Layout, use the Page Break button.
 
 The buttons in the CMS content dropdown list can be disabled in
-[Plugins -
-editors-xtd.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Button_Group/en "Chunk4x:Extensions Plugin Manager Edit Button Group/en")
+Plugins - editors-xtd.
 
 - Buttons in the upper left allow you to make text: italic. Next to that
   are buttons for align left, right, center, and full.
@@ -150,8 +147,7 @@ editors-xtd.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_But
 - Remove Link: To remove a link, highlight the linked text and press
   this button.
 - Anchor: An anchor is a bookmark inside an article that lets you link
-  directly to that point in the article. [Learn
-  more.](https://docs.joomla.org/Glossary/en#Anchor "Glossary/en")
+  directly to that point in the article.
 - Source code: A popup displays showing the HTML source code, allowing
   you to edit the HTML source code.
 - Insert a horizontal line: To insert a horizontal line, move the cursor
@@ -169,8 +165,7 @@ The toolbar set 0 provides the most extensive editing options, as shown
 below.
 
 The set is default assigned to the Administrator, Editor, and Super
-Users [user
-group](https://docs.joomla.org/Help4.x:Users:_Groups/en "Help4.x:Users: Groups/en").
+Users user group.
 
 <img
 src="https://docs.joomla.org/images/thumb/c/cc/Help-4x-editor-tinymce-extended-fr.png/800px-Help-4x-editor-tinymce-extended-fr.png"
@@ -267,7 +262,7 @@ data-file-width="1975" data-file-height="989" width="800" height="401"
 alt="Help-4x-screenshot-editor-codemirror-example-fr.png" />
 
 - Buttons shown below the edit window provides for access to link to any
-  item of the site. [Learn more.](#cmscontent)
+  item of the site.
 - CodeMirror propose certains des mêmes avantages que lors de
   l'utilisation de No Editor mais le rend plus facile à utiliser avec du
   code HTML brut.

@@ -19,13 +19,13 @@ the help screen for each type.
 
 To add a Menu Item:
 
-- **Menus **→** \[name of the menu\]**
+- **Menus → \[name of the menu\]**
   1.  click the **New** toolbar button.
   2.  click the Menu Item Type **Select** button.
 
 To edit a Menu Item:
 
-- **Menus **→** \[name of the menu\]**
+- **Menus → \[name of the menu\]**
   - select a **Title** from the list
 
 ## Screenshot
@@ -35,19 +35,18 @@ src="https://docs.joomla.org/images/thumb/a/a4/Help-4x-Menus-New-Item-screen-en.
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/a/a4/Help-4x-Menus-New-Item-screen-en.png/1200px-Help-4x-Menus-New-Item-screen-en.png 1.5x, https://docs.joomla.org/images/a/a4/Help-4x-Menus-New-Item-screen-en.png 2x"
 data-file-width="1440" data-file-height="1319" width="800" height="733"
-alt="Help-4x-Menus-New-Item-screen-en.png" />
+alt="Menu New Item screen" />
 
 ## Form Fields
 
 - **Title**. The title that will display for this menu item.
 - **Alias**. The internal name of the menu item. Normally, you can leave
   this blank and Joomla will fill in a default value Title in lower case
-  and with dashes instead of spaces. [Learn
-  more.](https://docs.joomla.org/Alias/en "Special:MyLanguage/Alias/en")
+  and with dashes instead of spaces.
 
 ### Details
 
-**Left Panel**
+#### Left Panel
 
 - **Menu Item Type**. The Menu Item Type selected when this menu item
   was created.
@@ -56,7 +55,7 @@ alt="Help-4x-Menus-New-Item-screen-en.png" />
 - **Target Window**. Select from the dropdown list.
 - **Template Style**. Select from the dropdown list.
 
-**Right Panel**
+#### Right Panel
 
 - **Menu**. Shows which menu the link will appear in.
 - **Parent Item**. The parent menu item for this menu item. Used to
@@ -67,8 +66,7 @@ alt="Help-4x-Menus-New-Item-screen-en.png" />
   default Order is to add the menu item to the end of the Menu. This
   menu item will moved to the order position just after the menu item
   selected from the dropdown list. Note: The Order can also be changed
-  in [Menus:
-  Items](https://docs.joomla.org/Help4.x:Menus:_Items/en "Special:MyLanguage/Help4.x:Menus: Items/en").
+  in *Menus: Items*.
 - **Status**. The published status of the menu item.
 - **Start Publishing**. Date and time to start publishing. Use this
   field if you want to enter the menu item ahead of time and then have
@@ -80,14 +78,11 @@ alt="Help-4x-Menus-New-Item-screen-en.png" />
 - **Default Page**. If Yes, this menu item is the default page for the
   site. There must be exactly one menu item set as the default page. You
   can change the default page in two ways:
-  1.  Click on the Home column of the desired menu item in the [Menus:
-      Items](https://docs.joomla.org/Help4.x:Menus:_Items/en "Special:MyLanguage/Help4.x:Menus: Items/en")
+  1.  Click on the Home column of the desired menu item in the Menus: Items
       screen.
   2.  Open the menu item for the new default page and change the Default
       Page setting to Yes.
-- **Access**. The [viewing Access
-  Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/en")
-  for this menu item.
+- **Access**. The viewing Access  Level   for this menu item.
 - **Language**. Menu items language.
 - **Note**. This is normally for the site administrator's use and does
   not show in the Frontend of the site.
@@ -99,7 +94,7 @@ src="https://docs.joomla.org/images/thumb/f/f0/Help-4x-Menus-New-Item-link-type-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/f0/Help-4x-Menus-New-Item-link-type-subscreen-en.png/900px-Help-4x-Menus-New-Item-link-type-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/f/f0/Help-4x-Menus-New-Item-link-type-subscreen-en.png/1200px-Help-4x-Menus-New-Item-link-type-subscreen-en.png 2x"
 data-file-width="2880" data-file-height="1340" width="600" height="279"
-alt="Help-4x-Menus-New-Item-link-type-subscreen-en.png" />
+alt="Menu New Item link type tab" />
 
 - **Link Title Attribute**. An optional, custom description for the
   title attribute of the menu hyperlink.
@@ -123,12 +118,7 @@ src="https://docs.joomla.org/images/thumb/c/c1/Help-4x-Menus-New-Item-page-displ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/c1/Help-4x-Menus-New-Item-page-display-subscreen-en.png/900px-Help-4x-Menus-New-Item-page-display-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/c/c1/Help-4x-Menus-New-Item-page-display-subscreen-en.png/1200px-Help-4x-Menus-New-Item-page-display-subscreen-en.png 2x"
 data-file-width="2880" data-file-height="970" width="600" height="202"
-alt="Help-4x-Menus-New-Item-page-display-subscreen-en.png" />
-
-Note: Options include "**Use Global**". If this is selected, the setting
-from the [Menus:
-Options](https://docs.joomla.org/Help4.x:Menus:_Options/en "Special:MyLanguage/Help4.x:Menus: Options/en")
-will be used.
+alt="Menu New Item page display tab" />
 
 - **Browser Page Title**. Optional text for the 'Browser page title'
   element. If blank, a default value is used based on the Menu Item
@@ -148,14 +138,12 @@ src="https://docs.joomla.org/images/thumb/b/b2/Help-4x-Menus-New-Item-metadata-s
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/b2/Help-4x-Menus-New-Item-metadata-subscreen-en.png/900px-Help-4x-Menus-New-Item-metadata-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/b/b2/Help-4x-Menus-New-Item-metadata-subscreen-en.png/1200px-Help-4x-Menus-New-Item-metadata-subscreen-en.png 2x"
 data-file-width="2880" data-file-height="830" width="600" height="173"
-alt="Help-4x-Menus-New-Item-metadata-subscreen-en.png" />
+alt="Menu New Item metadata tab" />
 
 - **Meta Description**. An paragraph to be used as the description of
-  the page. [Learn
-  more.](https://docs.joomla.org/Using_The_Meta_Description/en "Special:MyLanguage/Using The Meta Description/en")
+  the page.
 - **Robots**. The instructions for web 'robots' that browse to this
-  page. Set 'Use Global' in [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#robots "Special:MyLanguage/Help4.x:Site Global Configuration/en").
+  page. Set 'Use Global' in Global Configuration.
 
 ### Associations
 
@@ -164,10 +152,9 @@ src="https://docs.joomla.org/images/thumb/d/d9/Help-4x-Menus-New-Item-associatio
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/d/d9/Help-4x-Menus-New-Item-associations-subscreen-en.png/900px-Help-4x-Menus-New-Item-associations-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/d/d9/Help-4x-Menus-New-Item-associations-subscreen-en.png/1200px-Help-4x-Menus-New-Item-associations-subscreen-en.png 2x"
 data-file-width="2880" data-file-height="570" width="600" height="119"
-alt="Help-4x-Menus-New-Item-associations-subscreen-en.png" />
+alt="Menu New Item associations tab" />
 
-[Multilingual
-only.](https://docs.joomla.org/Help4.x:Multilingual_Associations/en "Special:MyLanguage/Help4.x:Multilingual Associations/en")
+Multilingual only!
 
 ### Module Assignment
 
@@ -176,7 +163,7 @@ src="https://docs.joomla.org/images/thumb/f/f8/Help-4x-Menus-New-Item-module-ass
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/f8/Help-4x-Menus-New-Item-module-assignment-subscreen-en.png/900px-Help-4x-Menus-New-Item-module-assignment-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/f/f8/Help-4x-Menus-New-Item-module-assignment-subscreen-en.png/1200px-Help-4x-Menus-New-Item-module-assignment-subscreen-en.png 2x"
 data-file-width="2880" data-file-height="1340" width="600" height="279"
-alt="Help-4x-Menus-New-Item-module-assignment-subscreen-en.png" />
+alt="Menu New Item module assignment tab" />
 
 - **Unassigned Modules**. Show modules unassigned to this menu item
 - **Unpublished Modules**. Show modules that are unpublished
@@ -184,7 +171,7 @@ alt="Help-4x-Menus-New-Item-module-assignment-subscreen-en.png" />
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Save**. Saves the menu item and stays in the current screen.
 - **Save & Close**. Saves the menu item and closes the current screen.
@@ -200,21 +187,11 @@ Saved menu items have additional buttons:
   - **Save as Copy**. Saves your changes to a copy of the current menu
     item. Does not affect the current menu item.
 - **Associations**. With a specific language set for an menu item,
-  allows side by side editing in another language. [Multilingual
-  only](https://docs.joomla.org/Help4.x:Multilingual_Associations/en "Special:MyLanguage/Help4.x:Multilingual Associations/en").
+  allows side by side editing in another language. Multilingual
+  only.
 - **Close** instead 'Cancel', same function.
 
 ## Quick Tips
 
-- To add an menu item [Archived
-  Articles](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived/en "Special:MyLanguage/Help4.x:Menu Item: Article Archived/en").
 - The core distribution of Joomla provides 38 different Menu Item types.
   If you install third-party extensions, these may add more menu types.
-
-## Related Information
-
-- Tutorial: [How to Add a New
-  Menu](https://docs.joomla.org/J4.x:Adding_a_New_Menu/en "Special:MyLanguage/J4.x:Adding a New Menu/en").
-- This
-  [Portal](https://docs.joomla.org/Portal:Joomla_4/en "Special:MyLanguage/Portal:Joomla 4/en")
-  brings together information related specifically to Joomla 4.

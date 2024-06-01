@@ -8,7 +8,7 @@ contactpersonen.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Componenten **→** Contactpersonen** in het beheermenu. Dan
+- Selecteer **Componenten → Contactpersonen** in het beheermenu. Dan
   ...
   - Selecteer de **Opties** knop in de werkbalk. De 'Opties' knop is
     beschikbaar bij 'Contactpersonen' en 'Categorieën'.
@@ -45,8 +45,7 @@ menu-item
   0, then versions will never be deleted automatically. Also, specific
   versions may be flagged as "Keep Forever" and will not be deleted
   automatically. Note that versions may be deleted manually using the
-  Delete button in the [Version
-  History](https://docs.joomla.org/Help4.x:Components_Version_History/en "Help4.x:Components Version History/en")
+  Delete button in the Version History
   screen.
 - **Toon Contactpersonenlijst.** Indien 'Toon' is ingesteld, kan de
   gebruiker selecteren welke contactpersoon weergegeven wordt door

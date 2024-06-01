@@ -13,13 +13,13 @@ Beispiele: TinyMCE, JCE, CodeMirror.
 
 ## Wie darauf zugreifen
 
-- Im Administrator-Menü **Benutzer **→** Benutzerhinweise** auswählen,
+- Im Administrator-Menü **Benutzer → Benutzerhinweise** auswählen,
   dann ...
   - aus der Werkzeugleiste **Neu** wählen, um einen neuen Hinweis
     anzulegen oder ...
   - einen Link aus der Spalte **Betreff** auswählen, um einen
     vorhandenen Benutzerhinweis zu bearbeiten.
-- Oder im Administrator-Menü **Benutzer **→** Verwalten** auswählen,
+- Oder im Administrator-Menü **Benutzer → Verwalten** auswählen,
   dann ...
   - einen Benutzer über Benutzername oder E-Mail aussuchen, dann ...
   - **+ Hinweis hinzufügen** wählen, um einen neuen Hinweis zu erstellen

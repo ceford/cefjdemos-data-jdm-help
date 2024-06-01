@@ -8,7 +8,7 @@ set to **Yes** to allow statistics to be collected.
 
 ## How to Access
 
-- Select **Components **→** SmartSearch **→** Statistics** from the
+- Select **Components → SmartSearch → Statistics** from the
   Administrator menu.
 
 ## Screenshot

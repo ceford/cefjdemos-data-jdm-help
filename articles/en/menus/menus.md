@@ -25,7 +25,7 @@ The process for adding a menu to the site is normally as follows:
 
 ## How to Access
 
-- Select **Menus **→** Manage** from the Administrator menu.
+- Select **Menus → Manage** from the Administrator menu.
 
 ## Screenshot
 
@@ -33,7 +33,7 @@ The process for adding a menu to the site is normally as follows:
 src="https://docs.joomla.org/images/0/00/Help-4x-menus-menu-manager-menus-en.png"
 decoding="async" data-file-width="800" data-file-height="633"
 width="800" height="633"
-alt="Help-4x-menus-menu-manager-menus-en.png" />
+alt="menus list screenshot" />
 
 ## Column Headers
 
@@ -65,7 +65,7 @@ ascending order.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **New**. Opens the editing screen to create a new menu.
 - **Edit**. Opens the editing screen for the selected menu. If more than
@@ -82,8 +82,7 @@ At the top of the page you will see the toolbar shown in the
   do *not* need to rebuild this table. This function is provided in case
   the data in the table becomes corrupted.
 - **Options.** Opens the Options window where settings such as default
-  parameters can be edited. See [Menus
-  Configuration](https://docs.joomla.org/Help4.x:Components_Menus_Configuration "Special:MyLanguage/Help4.x:Components Menus Configuration").
+  parameters can be edited.
 - **Help**. Opens this help screen.
 
 ## Quick Tips
@@ -113,14 +112,3 @@ At the top of the page you will see the toolbar shown in the
   the default menu item, make sure that you don't delete that menu item
   either! The menu with the default menu item is marked with an asterisk
   (\*) in the *Menus* menu.
-
-## Related Information
-
-- To add new Menus: [Menu Manager
-  New/Edit](https://docs.joomla.org/Help4.x:Menus:_Edit/en "Help4.x:Menus: Edit/en")
-- To set action permissions for menus: [Menus
-  Configuration](https://docs.joomla.org/Help4.x:Menus:_Options/en "Help4.x:Menus: Options/en")
-- To add or edit Menu Items: [Menu Item
-  Manager](https://docs.joomla.org/Help4.x:Menus:_Items/en "Help4.x:Menus: Items/en")
-- To add or edit Menu Modules: [Module
-  Manager](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en "Help4.x:Menu Item: New Item/en")

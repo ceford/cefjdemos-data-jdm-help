@@ -7,7 +7,7 @@ Inhalten nach Schlagwortnamen verwendet werden.
 
 ## Wie darauf zugreifen
 
-- Select **Components **→** Tags** in the Administrator menu. Then
+- Select **Components → Tags** in the Administrator menu. Then
   - Select the '**New'** button in the Toolbar to create a new Tag.
   - Select a Tags's Title from the **Title** column of the list to edit
     an existing tag.
@@ -25,8 +25,7 @@ alt="Help-4x-Components-Tags-Tags-Edit-screen-en.png" />
 - **Title.** The Name of this item. This field is required.
 - **Alias**. The internal name of the item. Normally, you can leave this
   blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces. [Learn
-  more.](https://docs.joomla.org/Alias/de "Special:MyLanguage/Alias/de")
+  with dashes instead of spaces.
 
 ### Tag Details Tab
 
@@ -37,16 +36,13 @@ alt="Help-4x-Components-Tags-Tags-Edit-screen-en.png" />
 - **Parent**. The item (category, menu item, and so on) that is the
   parent of the item being edited.
 - **Status**. The published status of the item.
-- **Access**. The [viewing Access
-  Level](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/de "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/de")
-  for this item.
+- **Access**. The viewing Access  Level   for this item.
 - **Language**. Item language.
 - **Note**. This is normally for the site administrator's use (for
   example, to document information about this item) and does not show in
   the Frontend of the site.
 - **Version Note**. Optional field to identify this version of the item
-  in the item's [Version
-  History](https://docs.joomla.org/Help40:Components_Version_History/de "Special:MyLanguage/Help40:Components Version History/de")
+  in the item's Version History
   window.
 
 ### Options Tab
@@ -118,13 +114,10 @@ alt="Help-4x-Components-Tags-Tags-Edit-Publishing-Options-Tab-en.png" />
       Article. To do this, you would:
       - Add the keywords "dog" and "cat" to the appropriate Articles.
       - Add the Tags "dog" and "cat" to the appropriate Banners in
-        [Banners:
-        Edit](https://docs.joomla.org/Help40:Banners:_Edit/de "Special:MyLanguage/Help40:Banners: Edit/de").
+        Banners: Edit.
       - Set the Banner module Parameter 'Search By Tags' to "Yes" in
-        [Site Modules:
-        Banners](https://docs.joomla.org/Help40:Site_Modules:_Banners/de "Special:MyLanguage/Help40:Site Modules: Banners/de").
-  3.  For articles only, in combination with the ['Articles - Related'
-      module](https://docs.joomla.org/Help40:Site_Modules:_Articles_-_Related/de "Special:MyLanguage/Help40:Site Modules: Articles - Related/de"),
+        the Site Modules: Banners list.
+  3.  For articles only, in combination with the Articles - Related module,
       to display Articles that share at least one keyword in common. For
       example, if the current Article displayed has the keywords "cats,
       dogs, monkeys", any other Articles with at least one of these
@@ -145,13 +138,13 @@ alt="Help-4x-Components-Tags-Tags-Edit-Publishing-Options-Tab-en.png" />
     do not want to index each event.
   - *noindex, nofollow:* Do not index this page or follow any links on
     the page.
-  - *Use Global:* Set in [Global Configuration: Metadata
-    Settings](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#Metadata_Settings "Special:MyLanguage/Help4.x:Site Global Configuration/de").
+  - *Use Global:* Set in Global Configuration: Metadata
+ Settings.
 
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Save**. Saves the item and stays in the current screen.
 - **Save & Close**. Saves the item and closes the current screen.
@@ -165,7 +158,6 @@ At the top of the page you will see the toolbar shown in the
   toolbar icon is not shown if you are creating a new item.
 - **Versions**. Opens the Item Version History window to show any prior
   versions of this item. This allows you to view older versions of this
-  item and, if desired, restore from an older version. See [Version
-  History](https://docs.joomla.org/Help40:Components_Version_History/de "Special:MyLanguage/Help40:Components Version History/de")
+  item and, if desired, restore from an older version. See Version History
   for more information.
 - **Help**. Opens this help screen.

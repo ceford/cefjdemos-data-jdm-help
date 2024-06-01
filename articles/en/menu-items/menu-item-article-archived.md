@@ -6,14 +6,13 @@ The Archived Articles Menu Item Type shows a customised list of articles
 ordered by date or title.
 
 Archived articles are no longer published but are still stored on the
-site. Articles are Archived using the [Articles list
-screen](https://docs.joomla.org/Help4.x:Articles/en "Help4.x:Articles/en").
+site. Articles are Archived using the Articles list screen.
 Articles assigned to the 'Uncategorised' Category will not show on the
 Archived Article Menu Item.
 
 ## How To Access
 
-**Menus **→** \[name of the menu\]**
+Select **Menus → \[name of the menu\]** from the Administrator menu.
 
 To add a Menu Item:
 
@@ -33,19 +32,18 @@ src="https://docs.joomla.org/images/thumb/e/e3/Help-4x-Menus-Item-Articles-Artic
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/e3/Help-4x-Menus-Item-Articles-Article-Archived-screen-en.png/1200px-Help-4x-Menus-Item-Articles-Article-Archived-screen-en.png 1.5x, https://docs.joomla.org/images/thumb/e/e3/Help-4x-Menus-Item-Articles-Article-Archived-screen-en.png/1600px-Help-4x-Menus-Item-Articles-Article-Archived-screen-en.png 2x"
 data-file-width="2880" data-file-height="1265" width="800" height="351"
-alt="Help-4x-Menus-Item-Articles-Article-Archived-screen-en.png" />
+alt="Menus Archived articles screen" />
 
 ## Form Fields
 
 - **Title**. The title that will display for this menu item.
 - **Alias**. The internal name of the menu item. Normally, you can leave
   this blank and Joomla will fill in a default value Title in lower case
-  and with dashes instead of spaces. [Learn
-  more.](https://docs.joomla.org/Alias/en "Alias/en")
+  and with dashes instead of spaces.
 
-### Details
+### Details tab
 
-**Left Panel**
+#### Left Panel
 
 - **Menu Item Type**. The Menu Item Type selected when this menu item
   was created. This can be one of the core menu item types or a menu
@@ -56,23 +54,21 @@ alt="Help-4x-Menus-Item-Articles-Article-Archived-screen-en.png" />
 - **Target Window**. Select from the dropdown list.
 - **Template Style**. Select from the dropdown list.
 
-**Right Panel**
+#### Right Panel
 
 - **Menu**. Shows which menu the link will appear in.
 
-### Archive
+### Archive tab
 
 Options include "Use Global". If this is selected, the setting from the
-[Articles:
-Options](https://docs.joomla.org/Help4.x:Articles:_Options/en "Help4.x:Articles: Options/en")
-will be used.
+Articles: Options will be used.
 
 <img
 src="https://docs.joomla.org/images/thumb/b/ba/Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-en.png/600px-Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-en.png"
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/ba/Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-en.png/900px-Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/b/ba/Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-en.png/1200px-Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-en.png 2x"
 data-file-width="2880" data-file-height="1092" width="600" height="228"
-alt="Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-en.png" />
+alt="Archived articles archive tab" />
 
 - **Article Order**.
   - Oldest First: Articles are displayed starting with the oldest and
@@ -95,7 +91,7 @@ alt="Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-en.png" />
     most hits.
   - Ordering: Articles are ordered according to the Order column entered
     in
-    [Articles](https://docs.joomla.org/Help4.x:Articles/en#ordering "Help4.x:Articles/en").
+    Articles.
 - **Date for Ordering**. The date used when articles are sorted by date.
   - Created: Use the article created date.
   - Modified: Use the article modified date.
@@ -107,7 +103,7 @@ alt="Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-en.png" />
   Text to show. If the Intro Text is longer than this value, it will be
   truncated to this length.
 
-### Options
+### Options tab
 
 The Options determine how the article will show on the Frontend Site
 layout.
@@ -117,9 +113,7 @@ src="https://docs.joomla.org/images/thumb/a/a4/Help-4x-Menus-Item-Articles-Artic
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/a/a4/Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-en.png/900px-Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/a/a4/Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-en.png/1200px-Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-en.png 2x"
 data-file-width="2880" data-file-height="1340" width="600" height="279"
-alt="Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-en.png" />
-
-**Layout**
+alt="Archived articles options tab" />
 
 - **Intro Text**.
   - Show: The Intro Text of the article will show when you drill down to
@@ -127,8 +121,7 @@ alt="Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-en.png" />
   - Hide: Only the part of the article after the Read More break will
     show.
 - **Position of Article Info**.
-  - Use Article Settings: Use the value from [Articles:
-    Edit](https://docs.joomla.org/Help4.x:Articles:_Edit/en "Help4.x:Articles: Edit/en").This
+  - Use Article Settings: Use the value from Articles: Edit. This
     setting allows you to have different options for different articles
     in the List layout.
   - Above: Puts the article information block above the text.
@@ -137,40 +130,25 @@ alt="Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-en.png" />
     One block is above and the other is below the text.
 - **Article Info Title**. Displays 'Details' on top of the article
   information block.
-
-**Category**
-
 - **Category**. Show the Article's Category Title.
 - **Link Category**. Show the title as a link to that Category.Note: You
-  can set this to be either a blog or list layout with the [Choose a
-  Layout](https://docs.joomla.org/Help4.x:Articles:_Options/en#choosealayout "Help4.x:Articles: Options/en")
+  can set this to be either a blog or list layout with the Choose a Layout
   option in the Category Tab.
 - **Parent Category**. Show the Article's Parent Category Title.
 - **Link Parent Category**. Show the title as a link to that
   Category.Note: You can set this to be either a blog or list layout
-  with the [Choose a
-  Layout](https://docs.joomla.org/Help4.x:Articles:_Options/en#choosealayout "Help4.x:Articles: Options/en")
+  with the Choose a Layout
   option in the Category Tab.
 - **Linked Titles**. Show the title as a link to the article.
-
-**Author**
-
 - **Author**. Show the author of the Article.
 - **Link to Author's Contact Page**. Show it as a link to a Contact
   layout for that author.Note: The author must be set up as a
-  [Contact](https://docs.joomla.org/Help4.x:Contacts:_Edit/en "Help4.x:Contacts: Edit/en").
-  Also, a link will not show if there is an [Author
-  Alias](https://docs.joomla.org/Help4.x:Articles:_Edit/en#createdbyalias "Help4.x:Articles: Edit/en")
+  Contact.
+  Also, a link will not show if there is an Author Alias
   value for the article.
-
-**Date**
-
 - **Create Date**. Show the Article's create date.
 - **Modify Date**. Show the Article's modify date.
 - **Publish Date**. Show the Article's start publishing date.
-
-**Options**
-
 - **Navigation**. Show a navigation link 'Prev' or 'Next' when you drill
   down to the article.
 - **Hits**. Show the number of times the article has been displayed by a
@@ -178,25 +156,19 @@ alt="Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-en.png" />
 
 ### Common Options
 
-See [Menus: New
-Item](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en "Help4.x:Menu Item: New Item/en")
-for help on fields common to all Menu Item types, including:
+See Menus: New Item for help on fields common to all Menu Item types, including:
 
-- [Right
-  Panel](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en#rightpanel "Help4.x:Menu Item: New Item/en")
-- [Link
-  Type](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en#linktype "Help4.x:Menu Item: New Item/en")
-- [Page
-  Display](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en#pagedisplay "Help4.x:Menu Item: New Item/en")
-- [Metadata](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en#metadata "Help4.x:Menu Item: New Item/en")
-- [Associations](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en#associations "Help4.x:Menu Item: New Item/en")
-- [Module
-  Assignment](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en#moduleassignment "Help4.x:Menu Item: New Item/en")
+- Right Panel
+- Link Type
+- Page Display
+- Metadata
+- Associations
+- Module Assignment
 
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Save**. Saves the menu item and stays in the current screen.
 - **Save & Close**. Saves the menu item and closes the current screen.
@@ -213,18 +185,3 @@ At the top of the page you will see the toolbar shown in the
 - If you want to be able to see old articles in a category blog or list,
   create a category for older articles and move them to this category
   (instead of changing the Published state to Archived).
-
-## Related Information
-
-- [Articles: Options](https://docs.joomla.org/Help4.x:Articles:_Options) Used to set global defaults for menu items that display articles. These default values will be used when 'Use Global' is selected for an option in an Articles menu item.
-- [Articles](https://docs.joomla.org/Help4.x:Articles) The Article list is used to find, mark featured, add and edit articles.
-- [Articles: Edit](https://docs.joomla.org/Help4.x:Articles:_Edit) This is where you can add and edit Articles. You can also select the Category for an Article and indicate whether or not it is Published and if it is selected to appear on the Front Page.
-- [Articles: Featured](https://docs.joomla.org/Help4.x:Articles:_Featured) Used to control which 'Featured Articles' are displayed on the Front Page and in what order they are displayed.
-- [Articles: Categories](https://docs.joomla.org/Help4.x:Articles:_Categories) The Articles Categories list is used to find, add, and edit articles categories.
-| <span class="mw-selflink selflink">Menus: Archived Articles</span> Shows a customised list of articles ordered by date or title. Archived articles are no longer published but are still stored on the site.
-- [Menus: Category Blog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog) Used to show articles belonging to a specific Category in a blog layout. Controls the Leading Articles, Intro Articles and additional links to more Articles.
-- [Menus: Category List](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List) Used to show articles belonging to a specific Category in a list layout.
-- [Menus: Create Article](https://docs.joomla.org/Help4.x:Menu_Item:_Create_Article) Allows users to submit an article. Normally this is available only to users who have logged in to the Frontend of the site. Users must have permission to create articles.
-- [Menus: Featured Articles](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles) Used to show all Articles that have been tagged as Featured. Articles are shown in a Blog Layout.
-- [Menus: List All Categories in an Article Category Tree](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories) Used to show a hierarchical list of Categories. Depending on the selected options for this layout, you can click on a category Title to show the articles in that category.
-- [Menus: Single Article](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article) Used to show one article.

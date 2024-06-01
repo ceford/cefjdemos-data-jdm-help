@@ -8,10 +8,10 @@ geändert und angepasst.
 
 ## Wie darauf zugreifen
 
-- Im Administrator-Menü die Option **System **→** Templates **→** Site
+- Im Administrator-Menü die Option **System → Templates → Site
   Templates** wählen oder ...
 - im Administrator-Menü die Option
-  **System **→** Templates **→** Administrator Templates** wählen. Dann
+  **System → Templates → Administrator Templates** wählen. Dann
   ...
   - aus der Spalte **Templates** einen Template-Namen auswählen.
 

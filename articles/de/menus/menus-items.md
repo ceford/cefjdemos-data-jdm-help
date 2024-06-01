@@ -10,9 +10,9 @@ oder *Alle Menüeinträge*, falls diese Liste ausgewählt wurde.
 
 ## Wie darauf zugreifen
 
-- Im Administrator-Menü **Menüs **→** Alle Menüeinträge** auswählen oder
+- Im Administrator-Menü **Menüs → Alle Menüeinträge** auswählen oder
   ...
-- im Administrator-Menü **Menüs **→** \[*Menü-Name*\]** anklicken um die
+- im Administrator-Menü **Menüs → \[*Menü-Name*\]** anklicken um die
   Einträge eines bestimmten Menüs auszuwählen.
 
 ## Bildschirmfoto
@@ -80,7 +80,7 @@ dargestellte Filterleiste. Die Funktionen sind:
   / Archiviert / Alle.
 - **Zugriffsebene wählen**. Aus den verfügbaren Zugriffsebenen
   auswählen.
-- 
+-
 
 **Sprache wählen**. Aus den verfügbaren Sprachen auswählen.
 

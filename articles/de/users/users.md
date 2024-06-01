@@ -7,7 +7,7 @@ und zu bearbeiten.
 
 ## Wie darauf zugreifen
 
-**Dashboard **→** Site **→** Benutzer**
+**Dashboard → Site → Benutzer**
 
 Einen Benutzer hinzufügen:
 

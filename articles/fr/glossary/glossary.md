@@ -39,7 +39,7 @@ logique. La méthode habituelle est d'utiliser les catégories et
 sous-catégories. Joomla! propose de multiples possibilités pour afficher
 et utiliser le contenu contrôlé par la catégorisation. Certains types de
 contenu qui utilisent la catégorisation sont les
-[articles](https://docs.joomla.org/Article "Special:MyLanguage/Article")
+Articles
 (contenu principal des pages web), les bannières, les contacts et les
 liens web.
 
@@ -50,7 +50,7 @@ types de contenus qui ne sont pas classés dans une catégorie spécifique.
 
 Lorsque vous créez et assignez des catégories, vous devez définir une
 structure. Par exemple, voici une possibilité pour catégoriser plusieurs
-[articles](https://docs.joomla.org/Article "Special:MyLanguage/Article")
+Articles
 Joomla! parlant d'oiseaux. Créez deux catégories principales d'articles
 nommés "Animaux" et "Plantes". Sous la catégorie "Animaux", vous
 pourriez avoir des sous-catégories nommées "Oiseaux" et "Mammifères".
@@ -134,9 +134,9 @@ de
 [template](https://docs.joomla.org/template "Special:MyLanguage/template")
 contenant quelques templates de base permettant l'affichage du Frontend
 (affichage du site web pour l'internaute), un gestionnaire des
-[modules](https://docs.joomla.org/module "Special:MyLanguage/module") de
+modules de
 base, un gestionnaire des
-[plugins](https://docs.joomla.org/plugin "Special:MyLanguage/plugin") de
+**Plugins:**de
 base, et quelques autres
 [extensions](https://docs.joomla.org/extension "Special:MyLanguage/extension")
 permettant d'élargir les fonctionnalités d'une installation de base de

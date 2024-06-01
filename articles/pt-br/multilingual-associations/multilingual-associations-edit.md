@@ -9,14 +9,14 @@ em um site multilíngue.
 
 Para adicionar uma associação:
 
-- **Componentes **→** associações multilíngues**
+- **Componentes → associações multilíngues**
   1.  selecione o **tipo do item**.
   2.  selecione a **Linguagem**.
   3.  Selecione uma linguagem de destino na coluna **Não associado**.
 
 Para editar uma associação:
 
-- **Componentes **→** associações multilíngues**
+- **Componentes → associações multilíngues**
   1.  selecione o **tipo do item**.
   2.  selecione a **linguagem**.
   3.  Selecione uma linguagem de destino na coluna **associado**.
@@ -58,11 +58,11 @@ As telas dependem do item selecionado, então acesse:
 
 ### Images and Links
 
-- [Articles](https://docs.joomla.org/Help4.x:Articles:_Edit/en#imagesandlinks "Help4.x:Articles: Edit/en")
+- Articles
 
 ### Options
 
-- [Articles](https://docs.joomla.org/Help4.x:Articles:_Edit/en#options "Help4.x:Articles: Edit/en")
+- Articles
 - [Articles
   Categories](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/en#options "Help4.x:Articles: Edit Category/en")
 - [Contacts
@@ -74,7 +74,7 @@ As telas dependem do item selecionado, então acesse:
 
 ### Publishing
 
-- [Articles](https://docs.joomla.org/Help4.x:Articles:_Edit/en#publishing "Help4.x:Articles: Edit/en")
+- Articles
 - [Articles
   Categories](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/en#publishing "Help4.x:Articles: Edit Category/en")
 - [Contacts](https://docs.joomla.org/Help4.x:Contacts:_Edit/en#publishing "Help4.x:Contacts: Edit/en")
@@ -87,7 +87,7 @@ As telas dependem do item selecionado, então acesse:
 
 ### Associations
 
-- [Articles](https://docs.joomla.org/Help4.x:Articles:_Edit/en#associations "Help4.x:Articles: Edit/en")
+- Articles
 - [Articles
   Categories](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/en#associations "Help4.x:Articles: Edit Category/en")
 - [Contacts](https://docs.joomla.org/Help4.x:Contacts:_Edit/en#associations "Help4.x:Contacts: Edit/en")
@@ -100,11 +100,11 @@ As telas dependem do item selecionado, então acesse:
 
 ### Configure Edit Screen
 
-- [Articles](https://docs.joomla.org/Help4.x:Articles:_Edit/en#configureeditscreen "Help4.x:Articles: Edit/en")
+- Articles
 
 ### Permissions
 
-- [Articles](https://docs.joomla.org/Help4.x:Articles:_Edit/en#permissions "Help4.x:Articles: Edit/en")
+- Articles
 - [Articles
   Categories](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/en#permissions "Help4.x:Articles: Edit Category/en")
 - [Contacts
@@ -127,7 +127,7 @@ As telas dependem do item selecionado, então acesse:
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#screenshot) above.
+Screenshot above.
 
 - **Save Reference**. Saves the Reference and stays in the current
   screen.
@@ -137,16 +137,3 @@ At the top of the page you will see the toolbar shown in the
 - **Close**. Closes the current screen and returns to the previous
   screen without saving any modifications you may have made.
 - **Help**. Opens this help screen.
-
-## Related Information
-
-- This
-  [Portal](https://docs.joomla.org/Portal:Joomla_4/en "Portal:Joomla 4/en")
-  brings together information related specifically to Joomla 4.
-
-|                                                                                                                                                             |                                                                                            |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Related Help Screens                                                                                                                                        | Description                                                                                |
-| [Multilingual Associations: Options](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Options/en "Help4.x:Multilingual Associations: Options/en") | Default permissions used for all content in the Multilingual Associations Component.       |
-| [Multilingual Associations](https://docs.joomla.org/Help4.x:Multilingual_Associations/en "Help4.x:Multilingual Associations/en")                            | This screen is used to set up an Association between an item and installed site languages. |
-| <span class="mw-selflink selflink">Multilingual Associations: Edit</span>                                                                                   | Used to add or edit associations between languages displayed on a multilingual website.    |

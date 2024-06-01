@@ -6,7 +6,7 @@ Esta tela mostra uma lista de categorias de notas de usuários.
 
 ## Como acessar
 
-- Selecione **Usuários **→** Categorias de notas do usuário** no menu de
+- Selecione **Usuários → Categorias de notas do usuário** no menu de
   administração.
 
 ## Captura de tela
@@ -39,14 +39,14 @@ Joomla!, você verá colunas diferentes.
   - Selecione o ícone de "Ordenação" <img
     src="https://docs.joomla.org/images/e/ee/Help30-Ordering-colheader-icon.png"
     decoding="async" data-file-width="12" data-file-height="23" width="12"
-    height="23" alt="Help30-Ordering-colheader-icon.png" /> no cabeçalho
+    height="23" alt="Ordering column header icon" /> no cabeçalho
     da tabela para torná-lo o item de ordenação ativo. Os ícones de
     ordenação em cada linha mudarão de cinza claro para cinza escuro e o
     ponteiro mudará para uma seta de arrastar ao passar o mouse.
   - Selecione um dos ícones de "Ordenação" <img
     src="https://docs.joomla.org/images/8/87/Help30-Ordering-colheader-grab-bar-icon.png"
     decoding="async" data-file-width="10" data-file-height="21" width="10"
-    height="21" alt="Help30-Ordering-colheader-grab-bar-icon.png" /> e
+    height="21" alt="Ordering drag icon" /> e
     arraste-o para cima ou para baixo para alterar a posição dessa linha
     na lista. Os itens serão exibidos na nova ordem dentro da posição.
 - **Estado**: O estado de publicação do item.
@@ -93,7 +93,7 @@ pesquisa mostrada na [captura de tela](#screenshot) acima.
   publicado / arquivado / todos.
 - **Selecionar acesso**. Seleciona na lista de níveis de acesso de
   visualização disponíveis.
-- 
+-
 
 **Selecionar linguagem**: Seleciona na lista de linguagens disponíveis.
 

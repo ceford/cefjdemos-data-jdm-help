@@ -6,9 +6,9 @@ This module lets you install sample data.
 
 ## Wie darauf zugreifen
 
-- Select **Content **→** Administrator Modules** from the Administrator
+- Select **Content → Administrator Modules** from the Administrator
   menu. Then...
-  - Select **Filter Options **→** Sample Data** to check whether the
+  - Select **Filter Options → Sample Data** to check whether the
     module is already installed and enabled. If absent...
   - Select **New** in the Toolbar.
     - Select the **Sample Data** module.
@@ -55,7 +55,3 @@ above. The functions are:
 - **Close**. Closes the current screen and returns to the previous
   screen without saving any modifications you may have made.
 - **Help**. Opens this help screen.
-
-## Quick Tips
-
-## Related information

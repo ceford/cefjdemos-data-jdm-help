@@ -12,7 +12,7 @@ u opgeeft als u een verwijzing aanmaakt moet ook een volledige URL zijn.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Systeem **→** Verwijzingen** vanuit het beheermenu.
+- Selecteer **Systeem → Verwijzingen** vanuit het beheermenu.
   Daarna...
   - Klik, om een nieuwe verwijzing aan te maken, op de **Nieuw** knop in
     de werkbalk.

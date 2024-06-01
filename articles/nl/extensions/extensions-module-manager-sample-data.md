@@ -6,9 +6,9 @@ Deze module laat u de voorbeelddata installeren.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Inhoud **→** Beheerder modules** vanuit het beheermenu.
+- Selecteer **Inhoud → Beheerder modules** vanuit het beheermenu.
   Daarna...
-  - Selecteer **Filter opties **→** Voorbeelddata** om te controleren of
+  - Selecteer **Filter opties → Voorbeelddata** om te controleren of
     de module al geïnstalleerd en geactiveerd is. Indien afwezig...
   - Selecteer **Nieuw** in de werkbalk.
     - Selecteer de **Voorbeelddata** module.

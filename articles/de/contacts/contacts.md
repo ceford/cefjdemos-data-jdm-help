@@ -11,7 +11,7 @@ Frontend-Links zu den Kontakten erstellen.
 
 ## Wie darauf zugreifen
 
-- Im Administrator-Menü **Komponenten **→** Kontakte **→** Kontakte**
+- Im Administrator-Menü **Komponenten → Kontakte → Kontakte**
   wählen. Oder ...
 - Im Fenster [Kontakt:
   Kategorien](https://docs.joomla.org/Help4.x:Contacts:_Categories/de "Help4.x:Contacts: Categories/de")
@@ -95,7 +95,7 @@ im oberen Bereich.
 - **Kategorie wählen**. Aus den verfügbaren Kategorien auswählen.
 - **Zugriffsebene wählen**. Aus den verfügbaren Zugriffsebenen
   auswählen.
-- 
+-
 
 **Sprache wählen**. Aus den verfügbaren Sprachen auswählen.
 
@@ -168,18 +168,18 @@ Werkzeugleiste im oberen Bereich. Die Funktionen sind:
 |                                                                                                                        |                                                                                                                                                                                                                                                                                                     |
 |------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Verwandte Hilfeseiten                                                                                                  | Beschreibung                                                                                                                                                                                                                                                                                        |
-| [Kontakte: Kategorien](https://docs.joomla.org/Help4.x:Contacts:_Categories/de "Help4.x:Contacts: Categories/de")      | Im Kontaktkategorie-Manager können vorhandene Kontaktkategorien bearbeitet und neue Kontaktkategorien erstellt werden. Zu beachten ist, dass Kontaktkategorien von anderen Kategorien unabhängig sind, z.B. für Artikel, Banner, Newsfeeds und Weblinks. Von diesem Bildschirm aus kann auch zum <a 
-                                                                                                                          href="https://docs.joomla.org/Help4.x:Components_Contacts_Contacts/en"                                                                                                                                                                                                                               
-                                                                                                                          class="mw-redirect"                                                                                                                                                                                                                                                                                  
-                                                                                                                          title="Help4.x:Components Contacts Contacts/en">Kontakt-Manager:                                                                                                                                                                                                                                     
+| [Kontakte: Kategorien](https://docs.joomla.org/Help4.x:Contacts:_Categories/de "Help4.x:Contacts: Categories/de")      | Im Kontaktkategorie-Manager können vorhandene Kontaktkategorien bearbeitet und neue Kontaktkategorien erstellt werden. Zu beachten ist, dass Kontaktkategorien von anderen Kategorien unabhängig sind, z.B. für Artikel, Banner, Newsfeeds und Weblinks. Von diesem Bildschirm aus kann auch zum <a
+                                                                                                                          href="https://docs.joomla.org/Help4.x:Components_Contacts_Contacts/en"
+                                                                                                                          class="mw-redirect"
+                                                                                                                          title="Help4.x:Components Contacts Contacts/en">Kontakt-Manager:
                                                                                                                           Kontakte-Übersicht</a> gewechselt werden.                                                                                                                                                                                                                                                            |
-| <a                                                                                                                     
- href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit_Category/de&amp;action=edit&amp;redlink=1"  
- class="new"                                                                                                             
- title="Help4.x:Contacts: New or Edit Category/de (page does not exist)">Kontakte:                                       
+| <a
+ href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit_Category/de&amp;action=edit&amp;redlink=1"
+ class="new"
+ title="Help4.x:Contacts: New or Edit Category/de (page does not exist)">Kontakte:
  Kategorie neu erstellen oder bearbeiten</a>                                                                             | In der Kontakt-Kategorieverwaltung werden bestehende Kontakt-Kategorien bearbeitet und neue erstellt. Kontakt-Kategorien erlauben das Organisieren von Kontakten der Website. Kontakt-Kategorien sind getrennt von anderen Kategorien wie die für Beiträge, Banner, Newsfeeds usw.                  |
-| <a                                                                                                                     
- href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit/de&amp;action=edit&amp;redlink=1"           
- class="new"                                                                                                             
- title="Help4.x:Contacts: New or Edit/de (page does not exist)">Kontakte:                                                
+| <a
+ href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit/de&amp;action=edit&amp;redlink=1"
+ class="new"
+ title="Help4.x:Contacts: New or Edit/de (page does not exist)">Kontakte:
  neu erstellen oder bearbeiten</a>                                                                                       | Hier werden neue Kontakte erstellt oder bestehende Kontakte bearbeitet. Mit Kontakten können Personen auf der Website aufgelistet werden. Seitenbesucher können diesen Personen E-Mails senden.                                                                                                     |

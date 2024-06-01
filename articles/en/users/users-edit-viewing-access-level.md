@@ -17,7 +17,7 @@ group already has access to.
 
 ## How to access
 
-- Select **Users **→** Access Levels** from the Administrator menu.
+- Select **Users → Access Levels** from the Administrator menu.
   Then...
   - Select a link from the **Level Name** column to edit an existing
     level. Or...
@@ -29,7 +29,7 @@ group already has access to.
 src="https://docs.joomla.org/images/b/b8/Help-4x-users-user-manager-add-new-viewing-access-level-en.png"
 decoding="async" data-file-width="600" data-file-height="562"
 width="600" height="562"
-alt="Help-4x-users-user-manager-add-new-viewing-access-level-en.png" />
+alt="add new viewing access level screen" />
 
 ## Level Details
 
@@ -47,7 +47,7 @@ permissions. This feature should only be used for custom groups!
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **Save**. Saves the item and stays in the current screen.
 - **Save & Close**. Saves the item and closes the current screen.
@@ -61,12 +61,3 @@ At the top of the page you will see the toolbar shown in the
 
 - If you add a new group, you may need to edit any access levels that
   this group should have access to.
-
-## Related information
-
-- [Users: Viewing Access
-  Levels](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/en "Help4.x:Users: Viewing Access Levels/en")
-- [User Manager: User:
-  Groups](https://docs.joomla.org/Help4.x:Users:_Groups/en "Help4.x:Users: Groups/en")
-- [ACL Tutorial for Joomla!
-  3.x](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/en "J3.x:Access Control List Tutorial/en")

@@ -9,11 +9,11 @@ het gespecificeerde aantal dagen. De standaard instelling is 14 dagen.
 
 ## Hoe toegang te krijgen
 
-- Selecteer **Gebruikers **→** Privacy **→** Verzoeken** in het
+- Selecteer **Gebruikers → Privacy → Verzoeken** in het
   beheermenu. Of...
-- Selecteer **Gebruikers **→** Privacy **→** Mogelijkheden** in het
+- Selecteer **Gebruikers → Privacy → Mogelijkheden** in het
   beheermenu. Of...
-- Selecteer **Gebruikers **→** Privacy **→** Toestemmingen** in het
+- Selecteer **Gebruikers → Privacy → Toestemmingen** in het
   beheermenu. Dan...
   - Klik op de **Opties** knop in de werkbalk.
 
@@ -51,4 +51,4 @@ De functies zijn.
 
 - [De privacy
   hulpmiddelen](https://docs.joomla.org/J3.x:Privacy/nl "J3.x:Privacy/nl")
-- 
+-

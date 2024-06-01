@@ -6,7 +6,7 @@ This screen shows a list of User Access Levels.
 
 ## Comment y accéder ?
 
-Select **Users **→** Access Levels** from the Administrator menu.
+Select **Users → Access Levels** from the Administrator menu.
 
 ## Capture d'écran
 
@@ -53,7 +53,7 @@ restore the list of levels.
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **New**. Opens the editing screen to create a new access level.
 - **Edit**. Opens the editing screen for the selected access level. If
@@ -71,18 +71,6 @@ At the top of the page you will see the toolbar shown in the
 
 ## Quick Tips
 
-- Click on the name of an access level to edit it. 
+- Click on the name of an access level to edit it.
 - Click on the Column
 Headers to sort the users by that column, ascending or descending.
-
-## Related information
-
-- [Users: Edit Viewing Access
-Level](https://docs.joomla.org/Help4.x:Users:_Edit_Viewing_Access_Level/en "Help4.x:Users: Edit Viewing Access Level/en")
-- [Users:
-Options](https://docs.joomla.org/Help4.x:Users:_Options/en "Help4.x:Users: Options/en")
-- [Users](https://docs.joomla.org/Help4.x:Users/en "Help4.x:Users/en")
-- [Users:
-Groups](https://docs.joomla.org/Help4.x:Users:_Groups/en "Help4.x:Users: Groups/en")
-- [ACL Tutorial for Joomla!
-3.x](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/en "J3.x:Access Control List Tutorial/en")

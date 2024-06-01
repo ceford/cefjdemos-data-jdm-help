@@ -9,8 +9,8 @@ eigen profielinstellingen van een gebruiker toont.
 
 Aanmaken van een nieuw 'Gebruikersprofiel' menu-item.
 
-- Selecteer **Menu's **→** \[naam van het menu\]** vanuit het beheermenu
-  (bijvoorbeeld, **Menu's **→** Hoofdmenu**). Dan...
+- Selecteer **Menu's → \[naam van het menu\]** vanuit het beheermenu
+  (bijvoorbeeld, **Menu's → Hoofdmenu**). Dan...
   - Selecteer de **Nieuw** knop in de werkbalk. Dan...
   - Klik op de Menu-itemtype selectie knop. <img
     src="https://docs.joomla.org/images/thumb/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png/81px-Help-4x-Menu-Item-Type-Select-Button-nl.png"
@@ -71,14 +71,14 @@ alt="Help-4x-Menus-Menu-Item-User-Profile-nl.png" />
   - Selecteer het volgorde icoon <img
     src="https://docs.joomla.org/images/e/ee/Help30-Ordering-colheader-icon.png"
     decoding="async" data-file-width="12" data-file-height="23" width="12"
-    height="23" alt="Help30-Ordering-colheader-icon.png" /> in de
+    height="23" alt="Ordering column header icon" /> in de
     tabelkop om het het actieve volgorde item te maken. De volgorde
     iconen in iedere rij veranderen van licht naar donker grijs en de
     pijl verandert in een sleepsymbool als u eroverheen gaat.
   - Selecteer één van de volgorde iconen <img
     src="https://docs.joomla.org/images/8/87/Help30-Ordering-colheader-grab-bar-icon.png"
     decoding="async" data-file-width="10" data-file-height="21" width="10"
-    height="21" alt="Help30-Ordering-colheader-grab-bar-icon.png" /> en
+    height="21" alt="Ordering drag icon" /> en
     sleep het naar boven of beneden om de positie van die rij in de
     lijst te veranderen. De items worden in de nieuwe volgorde binnen de
     positie getoond.

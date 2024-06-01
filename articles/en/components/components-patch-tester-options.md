@@ -17,7 +17,7 @@ More Information:
 
 ## How to Access
 
-- Select **Components **→** Patch Tester** from the Administrator menu.
+- Select **Components → Patch Tester** from the Administrator menu.
   - Click the *Options* button on the Toolbar.
 
 ## Screenshot
@@ -108,14 +108,3 @@ above. The functions are:
 - **Help**. Opens this help screen.
 
 ## Quick Tips
-
-## Related Information
-
-- [Component Patchtester for
-  Testers](https://docs.joomla.org/Component_Patchtester_for_Testers "Component Patchtester for Testers")
-- [Testing Joomla
-  Patches](https://docs.joomla.org/Testing_Joomla!_patches "Testing Joomla! patches")
-- <a
-  href="https://www.pizza-bugs-fun.com/en/guides?view=article&amp;id=41&amp;catid=2"
-  class="external text" target="_blank"
-  rel="nofollow noreferrer noopener">Manual Patch Tester</a>

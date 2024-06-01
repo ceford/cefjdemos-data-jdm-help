@@ -16,7 +16,7 @@ integriert:
 
 ## Wie darauf zugreifen
 
-- **Dashboard **→** Site **→** Medien**
+- **Dashboard → Site → Medien**
 
 ## Bildschirmfoto
 

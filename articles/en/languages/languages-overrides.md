@@ -17,7 +17,7 @@ feature to replace the original.
 
 ## How to Access
 
-- Select **System **→** Manage Panel **→** Language Overrides**
+- Select **System → Manage Panel → Language Overrides**
 
 ## Screenshot
 
@@ -26,7 +26,7 @@ src="https://docs.joomla.org/images/thumb/b/bb/Help-4x-Extensions-Language-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/bb/Help-4x-Extensions-Language-Manager-Overrides-screen-en.png/1200px-Help-4x-Extensions-Language-Manager-Overrides-screen-en.png 1.5x, https://docs.joomla.org/images/b/bb/Help-4x-Extensions-Language-Manager-Overrides-screen-en.png 2x"
 data-file-width="1212" data-file-height="440" width="800" height="290"
-alt="Help-4x-Extensions-Language-Manager-Overrides-screen-en.png" />
+alt="Languages Overrides screen" />
 
 ## Column Headers
 
@@ -47,13 +47,13 @@ Click on the column heading to sort the list by that column's value.
 
 ## List Filters
 
-**Language Selector**
+### Language Selector
 
 - **Select Language and Client.** The drop down list shows languages
   installed for Site and Administrator interfaces.
 
 **Search bar**. Near the top of the page you will see the search bar
-shown in the [Screenshot](#screenshot) above.
+shown in the Screenshot above.
 
 - **Search by Text**. Enter part of the search term and click the Search
   icon. *Hover* to see a *Tooltip* indicating which fields will be
@@ -70,17 +70,17 @@ shown in the [Screenshot](#screenshot) above.
     and descending order.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
-  a site is '20' but this may be changed in the [Global
-  Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#defaultlistlimit "Special:MyLanguage/Help4.x:Site Global Configuration/en").
+  a site is '20' but this may be changed in the Global Configuration.
 
-**Filter Options**
+### Filter Options
 
-- This list has no filter options
+- This list has no filter options, indicated by the Options button being
+    inactive.
 
 ## Toolbar
 
 At the top of the page you will see the toolbar shown in the
-[Screenshot](#Screenshot) above. The functions are:
+Screenshot above. The functions are:
 
 - **New**. Opens the editing screen to create a new item.
 - **Delete:** Deletes the selected items. Works with one or multiple
@@ -92,8 +92,3 @@ At the top of the page you will see the toolbar shown in the
 - **Help**. Opens this help screen.
 
 ## Quick Tips
-
-## Related Information
-
-[Layout Overrides in Joomla
-3](https://docs.joomla.org/J3.x:Language_Overrides_in_Joomla/en "J3.x:Language Overrides in Joomla/en")
