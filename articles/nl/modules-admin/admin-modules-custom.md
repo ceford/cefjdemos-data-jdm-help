@@ -28,7 +28,7 @@ src="https://docs.joomla.org/images/thumb/d/da/Help-4x-modules-administrator-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/d/da/Help-4x-modules-administrator-module-manager-module-custom-html-nl.png 1.5x"
 data-file-width="1086" data-file-height="871" width="800" height="642"
-alt="Help-4x-modules-administrator-module-manager-module-custom-html-nl.png" />
+alt="modules administrator module manager module custom html" />
 
 ## Formulier velden
 
@@ -96,7 +96,7 @@ alt="Help-4x-modules-administrator-module-manager-module-custom-html-nl.png" />
 src="https://docs.joomla.org/images/2/2a/Help-4x-modules-manager-admin-module-site-advanced-options-nl.png"
 decoding="async" data-file-width="1003" data-file-height="532"
 width="1003" height="532"
-alt="Help-4x-modules-manager-admin-module-site-advanced-options-nl.png" />
+alt="modules manager admin module site advanced options" />
 
 - **Weergave.** Als u één of meer alternatieve lay-outs voor een module
   heeft gedefinieerd of in het template of in Joomla! core, dan kunt u
@@ -136,7 +136,7 @@ alt="Help-4x-modules-manager-admin-module-site-advanced-options-nl.png" />
 src="https://docs.joomla.org/images/4/4f/Help-4x-modules-manager-admin-module-administrator-permissions-nl.png"
 decoding="async" data-file-width="977" data-file-height="665"
 width="977" height="665"
-alt="Help-4x-modules-manager-admin-module-administrator-permissions-nl.png" />
+alt="modules manager admin module administrator permissions" />
 
 Doe, om de rechten te veranderen, het volgende.
 

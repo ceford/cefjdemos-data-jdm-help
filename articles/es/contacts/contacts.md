@@ -21,7 +21,7 @@ create front-end links to the the contacts.
 src="https://docs.joomla.org/images/b/b4/Help-4x-Components-Contacts-Contacts-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="378"
 width="800" height="378"
-alt="Help-4x-Components-Contacts-Contacts-screen-en.png" />
+alt="Components Contacts Contacts screen" />
 
 ## Column Headers
 

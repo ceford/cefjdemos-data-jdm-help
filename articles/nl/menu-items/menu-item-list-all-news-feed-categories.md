@@ -20,7 +20,7 @@ maken:
   - Klik op de Menu-itemtype selectie knop. <img
     src="https://docs.joomla.org/images/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png"
     decoding="async" data-file-width="124" data-file-height="43" width="124"
-    height="43" alt="Help-4x-Menu-Item-Type-Select-Button-nl.png" />
+    height="43" alt="Menu Item Type Select Button" />
   - Selecteer in de modale dialoog het 'Nieuwsfeed' item om een lijst te
     openen en selecteer daarna het **Lijst met alle
     nieuwsfeedcategorieën** item.
@@ -37,7 +37,7 @@ src="https://docs.joomla.org/images/thumb/6/69/Help-4x-Menus-Menu-Item-News-Feed
 decoding="async"
 srcset="https://docs.joomla.org/images/6/69/Help-4x-Menus-Menu-Item-News-Feed-Categories-screen-nl.png 1.5x"
 data-file-width="1092" data-file-height="872" width="800" height="639"
-alt="Help-4x-Menus-Menu-Item-News-Feed-Categories-screen-nl.png" />
+alt="Menus Menu Item News Feed Categories screen" />
 
 ## Formulier velden
 
@@ -125,7 +125,7 @@ src="https://docs.joomla.org/images/thumb/f/fa/Help-4x-Menus-Menu-Item-News-Feed
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/fa/Help-4x-Menus-Menu-Item-News-Feeds-Categories-categories-options-parameters-nl.png/900px-Help-4x-Menus-Menu-Item-News-Feeds-Categories-categories-options-parameters-nl.png 1.5x, https://docs.joomla.org/images/f/fa/Help-4x-Menus-Menu-Item-News-Feeds-Categories-categories-options-parameters-nl.png 2x"
 data-file-width="947" data-file-height="351" width="600" height="222"
-alt="Help-4x-Menus-Menu-Item-News-Feeds-Categories-categories-options-parameters-nl.png" />
+alt="Menus Menu Item News Feeds Categories categories options parameters" />
 
 - **Hoofdcategorie beschrijving.** (Gebruik algemeen/Toon/Verberg) Toon
   of verberg de beschrijving van de hoofdcategorie. Merk op dat deze
@@ -155,7 +155,7 @@ src="https://docs.joomla.org/images/thumb/d/df/Help-4x-Menus-Menu-Item-News-Feed
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/d/df/Help-4x-Menus-Menu-Item-News-Feeds-Categories-categories-category-options-parameters-nl.png/900px-Help-4x-Menus-Menu-Item-News-Feeds-Categories-categories-category-options-parameters-nl.png 1.5x, https://docs.joomla.org/images/d/df/Help-4x-Menus-Menu-Item-News-Feeds-Categories-categories-category-options-parameters-nl.png 2x"
 data-file-width="948" data-file-height="381" width="600" height="241"
-alt="Help-4x-Menus-Menu-Item-News-Feeds-Categories-categories-category-options-parameters-nl.png" />
+alt="Menus Menu Item News Feeds Categories categories category options parameters" />
 
 - **Categorietitel.** (Gebruik algemeen/Verberg/Toon) Indien dit is
   ingesteld op toon wordt de categorietitel als subkop weergegeven op
@@ -185,7 +185,7 @@ src="https://docs.joomla.org/images/thumb/f/fa/Help-4x-Menus-Menu-Item-News-Feed
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/fa/Help-4x-Menus-Menu-Item-News-Feeds-Categories-categories-list-layout-options-parameters-nl.png/900px-Help-4x-Menus-Menu-Item-News-Feeds-Categories-categories-list-layout-options-parameters-nl.png 1.5x, https://docs.joomla.org/images/f/fa/Help-4x-Menus-Menu-Item-News-Feeds-Categories-categories-list-layout-options-parameters-nl.png 2x"
 data-file-width="947" data-file-height="389" width="600" height="246"
-alt="Help-4x-Menus-Menu-Item-News-Feeds-Categories-categories-list-layout-options-parameters-nl.png" />
+alt="Menus Menu Item News Feeds Categories categories list layout options parameters" />
 
 - **Filterveld**. (Gebruik algemeen/Verberg/Toon) Toon of verberg een
   filterveld voor de lijst.
@@ -198,7 +198,7 @@ alt="Help-4x-Menus-Menu-Item-News-Feeds-Categories-categories-list-layout-option
 src="https://docs.joomla.org/images/1/1a/Help30-article-category-list-display-select-nl.png"
 decoding="async" data-file-width="700" data-file-height="334"
 width="700" height="334"
-alt="Help30-article-category-list-display-select-nl.png" />
+alt="Help30 article category list display select nl.png" />
 
 Indien er meer items zijn dan dit aantal kunnen de pagina
 navigatieknoppen (Start, Vorige, Volgende, Einde en paginanummers)
@@ -213,7 +213,7 @@ worden.
 <img
 src="https://docs.joomla.org/images/9/9e/Help30-article-category-list-table-headings-nl.png"
 decoding="async" data-file-width="736" data-file-height="33" width="736"
-height="33" alt="Help30-article-category-list-table-headings-nl.png" />
+height="33" alt="Help30 article category list table headings nl.png" />
 
 Indien ingesteld op *Toon* dan wordt deze kop getoond boven een lijst.
 Indien ingesteld op *Verberg* dan wordt de lijst zonder kop getoond.
@@ -231,7 +231,7 @@ Indien ingesteld op *Verberg* dan wordt de lijst zonder kop getoond.
 
 <img src="https://docs.joomla.org/images/2/25/Help30-pagination-nl.png"
 decoding="async" data-file-width="251" data-file-height="61" width="251"
-height="61" alt="Help30-pagination-nl.png" />
+height="61" alt="Help30 pagination nl.png" />
 
 De volgende opties zijn beschikbaar.
 
@@ -253,7 +253,7 @@ src="https://docs.joomla.org/images/thumb/0/07/Help-4x-Menus-Menu-Item-News-Feed
 decoding="async"
 srcset="https://docs.joomla.org/images/0/07/Help-4x-Menus-Menu-Item-News-Feeds-Categories-feed-display-options-parameters-nl.png 1.5x"
 data-file-width="820" data-file-height="310" width="600" height="227"
-alt="Help-4x-Menus-Menu-Item-News-Feeds-Categories-feed-display-options-parameters-nl.png" />
+alt="Menus Menu Item News Feeds Categories feed display options parameters" />
 
 De lijst met alle nieuwsfeedcategorieën weergave heeft de volgende
 Feedweergave opties, zoals hieronder getoond. Naast Ja/Nee of

@@ -24,7 +24,7 @@ src="https://docs.joomla.org/images/thumb/5/56/Help-4x-modules-site-module-manag
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/56/Help-4x-modules-site-module-manager-module-articles-categories-nl.png/1200px-Help-4x-modules-site-module-manager-module-articles-categories-nl.png 1.5x, https://docs.joomla.org/images/5/56/Help-4x-modules-site-module-manager-module-articles-categories-nl.png 2x"
 data-file-width="1211" data-file-height="1291" width="800" height="853"
-alt="Help-4x-modules-site-module-manager-module-articles-categories-nl.png" />
+alt="modules site module manager module articles categories" />
 
 ## Formulier velden
 
@@ -91,7 +91,7 @@ src="https://docs.joomla.org/images/thumb/c/cc/Help-4x-modules-manager-site-modu
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/cc/Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png/1200px-Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png 1.5x, https://docs.joomla.org/images/c/cc/Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png 2x"
 data-file-width="1267" data-file-height="725" width="800" height="458"
-alt="Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png" />
+alt="modules manager site module menu assignment tab" />
 
 - **Moduletoewijzing.** Selecteer **Op alle pagina's**, **Geen
   pagina's**, **Alleen op de geselecteerde pagina's** of **Op alle
@@ -112,7 +112,7 @@ src="https://docs.joomla.org/images/thumb/7/7d/Help-4x-modules-manager-admin-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/7d/Help-4x-modules-manager-admin-module-latestactions-advanced-options-nl.png/1200px-Help-4x-modules-manager-admin-module-latestactions-advanced-options-nl.png 1.5x, https://docs.joomla.org/images/7/7d/Help-4x-modules-manager-admin-module-latestactions-advanced-options-nl.png 2x"
 data-file-width="1202" data-file-height="564" width="800" height="375"
-alt="Help-4x-modules-manager-admin-module-latestactions-advanced-options-nl.png" />
+alt="modules manager admin module latestactions advanced options" />
 
 - **Weergave.** Als u één of meer alternatieve lay-outs voor een module
   heeft gedefinieerd of in het template of in Joomla! core, dan kunt u
@@ -153,7 +153,7 @@ src="https://docs.joomla.org/images/thumb/4/4f/Help-4x-modules-manager-admin-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/4/4f/Help-4x-modules-manager-admin-module-administrator-permissions-nl.png 1.5x"
 data-file-width="977" data-file-height="665" width="800" height="545"
-alt="Help-4x-modules-manager-admin-module-administrator-permissions-nl.png" />
+alt="modules manager admin module administrator permissions" />
 
 Doe, om de rechten te veranderen, het volgende.
 
@@ -205,7 +205,7 @@ categorieën module toont:
 src="https://docs.joomla.org/images/c/c9/Help-4x-module-manager-articles-categories-frontend-screenshot-nl.png"
 decoding="async" data-file-width="297" data-file-height="124"
 width="297" height="124"
-alt="Help-4x-module-manager-articles-categories-frontend-screenshot-nl.png" />
+alt="module manager articles categories frontend screenshot" />
 
 De module type naam voor deze module is "mod_articles_categories". Het
 is gerelateerd aan de inhoud component.

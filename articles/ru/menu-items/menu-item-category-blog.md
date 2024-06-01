@@ -29,7 +29,7 @@ src="https://docs.joomla.org/images/thumb/5/56/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/56/Help-4x-Menus-Item-Articles-Category-Blog-screen-ru.png/1200px-Help-4x-Menus-Item-Articles-Category-Blog-screen-ru.png 1.5x, https://docs.joomla.org/images/thumb/5/56/Help-4x-Menus-Item-Articles-Category-Blog-screen-ru.png/1600px-Help-4x-Menus-Item-Articles-Category-Blog-screen-ru.png 2x"
 data-file-width="2880" data-file-height="1607" width="800" height="446"
-alt="Help-4x-Menus-Item-Articles-Category-Blog-screen-ru.png" />
+alt="Menus Item Articles Category Blog screen" />
 
 ## Form Fields
 
@@ -72,7 +72,7 @@ src="https://docs.joomla.org/images/thumb/8/88/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/88/Help-4x-Menus-Item-Articles-Category-Blog-category-subscreen-ru.png/900px-Help-4x-Menus-Item-Articles-Category-Blog-category-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/8/88/Help-4x-Menus-Item-Articles-Category-Blog-category-subscreen-ru.png/1200px-Help-4x-Menus-Item-Articles-Category-Blog-category-subscreen-ru.png 2x"
 data-file-width="2880" data-file-height="1247" width="600" height="260"
-alt="Help-4x-Menus-Item-Articles-Category-Blog-category-subscreen-ru.png" />
+alt="Menus Item Articles Category Blog category subscreen" />
 
 - **Заголовок категории**. Show the title of the category.
 - **Описание категории**. Show the description for the category.
@@ -99,7 +99,7 @@ src="https://docs.joomla.org/images/thumb/2/21/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/21/Help-4x-Menus-Item-Articles-Category-Blog-blog-layout-subscreen-ru.png/900px-Help-4x-Menus-Item-Articles-Category-Blog-blog-layout-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/2/21/Help-4x-Menus-Item-Articles-Category-Blog-blog-layout-subscreen-ru.png/1200px-Help-4x-Menus-Item-Articles-Category-Blog-blog-layout-subscreen-ru.png 2x"
 data-file-width="2880" data-file-height="1300" width="600" height="271"
-alt="Help-4x-Menus-Item-Articles-Category-Blog-blog-layout-subscreen-ru.png" />
+alt="Menus Item Articles Category Blog blog layout subscreen" />
 
 - **Во всю ширину**. Number of Articles to show using the full width of
   the main display area. "0" means that no Articles will show when using
@@ -219,7 +219,7 @@ src="https://docs.joomla.org/images/thumb/0/0a/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/0/0a/Help-4x-Menus-Item-Articles-Category-Blog-options-subscreen-ru.png/900px-Help-4x-Menus-Item-Articles-Category-Blog-options-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/0/0a/Help-4x-Menus-Item-Articles-Category-Blog-options-subscreen-ru.png/1200px-Help-4x-Menus-Item-Articles-Category-Blog-options-subscreen-ru.png 2x"
 data-file-width="2880" data-file-height="1300" width="600" height="271"
-alt="Help-4x-Menus-Item-Articles-Category-Blog-options-subscreen-ru.png" />
+alt="Menus Item Articles Category Blog options subscreen" />
 
 **Макет**
 
@@ -304,7 +304,7 @@ src="https://docs.joomla.org/images/thumb/b/bf/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/bf/Help-4x-Menus-Item-Articles-Category-Blog-integration-subscreen-ru.png/900px-Help-4x-Menus-Item-Articles-Category-Blog-integration-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/b/bf/Help-4x-Menus-Item-Articles-Category-Blog-integration-subscreen-ru.png/1200px-Help-4x-Menus-Item-Articles-Category-Blog-integration-subscreen-ru.png 2x"
 data-file-width="2880" data-file-height="810" width="600" height="169"
-alt="Help-4x-Menus-Item-Articles-Category-Blog-integration-subscreen-ru.png" />
+alt="Menus Item Articles Category Blog integration subscreen" />
 
 - **Ссылка на RSS**. If set to Show, a Feed Link will show up as a feed
   icon in the address bar of most browsers.

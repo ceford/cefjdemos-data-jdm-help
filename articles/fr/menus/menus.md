@@ -33,7 +33,7 @@ The process for adding a menu to the site is normally as follows:
 src="https://docs.joomla.org/images/0/00/Help-4x-menus-menu-manager-menus-en.png"
 decoding="async" data-file-width="800" data-file-height="633"
 width="800" height="633"
-alt="Help-4x-menus-menu-manager-menus-en.png" />
+alt="menus menu manager menus" />
 
 ## En-têtes de colonne
 

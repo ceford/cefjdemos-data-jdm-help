@@ -19,7 +19,7 @@ src="https://docs.joomla.org/images/thumb/5/5a/Help-4x-Media-Options-screen-ru.p
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/5a/Help-4x-Media-Options-screen-ru.png/1200px-Help-4x-Media-Options-screen-ru.png 1.5x, https://docs.joomla.org/images/thumb/5/5a/Help-4x-Media-Options-screen-ru.png/1600px-Help-4x-Media-Options-screen-ru.png 2x"
 data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Help-4x-Media-Options-screen-ru.png" />
+alt="Media Options screen" />
 
 ## Form Fields
 
@@ -73,7 +73,7 @@ src="https://docs.joomla.org/images/thumb/1/1b/Help-4x-Media-Options-permissions
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/1/1b/Help-4x-Media-Options-permissions-subscreen-ru.png/900px-Help-4x-Media-Options-permissions-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/1/1b/Help-4x-Media-Options-permissions-subscreen-ru.png/1200px-Help-4x-Media-Options-permissions-subscreen-ru.png 2x"
 data-file-width="1979" data-file-height="1478" width="600" height="448"
-alt="Help-4x-Media-Options-permissions-subscreen-ru.png" />
+alt="Media Options permissions subscreen" />
 
 To change the permissions for media, do the following.
 

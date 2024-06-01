@@ -27,7 +27,7 @@ src="https://docs.joomla.org/images/thumb/3/3f/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/3/3f/Help-4x-Menus-Item-Articles-Category-List-screen-es.png/1200px-Help-4x-Menus-Item-Articles-Category-List-screen-es.png 1.5x, https://docs.joomla.org/images/thumb/3/3f/Help-4x-Menus-Item-Articles-Category-List-screen-es.png/1600px-Help-4x-Menus-Item-Articles-Category-List-screen-es.png 2x"
 data-file-width="2880" data-file-height="1656" width="800" height="460"
-alt="Help-4x-Menus-Item-Articles-Category-List-screen-es.png" />
+alt="Menus Item Articles Category List screen" />
 
 ## Campos del formulario
 
@@ -71,7 +71,7 @@ src="https://docs.joomla.org/images/thumb/f/ff/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/ff/Help-4x-Menus-Item-Articles-Category-List-category-subscreen-es.png/900px-Help-4x-Menus-Item-Articles-Category-List-category-subscreen-es.png 1.5x, https://docs.joomla.org/images/thumb/f/ff/Help-4x-Menus-Item-Articles-Category-List-category-subscreen-es.png/1200px-Help-4x-Menus-Item-Articles-Category-List-category-subscreen-es.png 2x"
 data-file-width="2878" data-file-height="1338" width="600" height="279"
-alt="Help-4x-Menus-Item-Articles-Category-List-category-subscreen-es.png" />
+alt="Menus Item Articles Category List category subscreen" />
 
 - **Título de la categoría**. Show the title of the category.
 - **Descripción de la categoría**. Show the description for the
@@ -100,7 +100,7 @@ src="https://docs.joomla.org/images/thumb/f/f2/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/f2/Help-4x-Menus-Item-Articles-Category-List-list-layouts-subscreen-es.png/900px-Help-4x-Menus-Item-Articles-Category-List-list-layouts-subscreen-es.png 1.5x, https://docs.joomla.org/images/thumb/f/f2/Help-4x-Menus-Item-Articles-Category-List-list-layouts-subscreen-es.png/1200px-Help-4x-Menus-Item-Articles-Category-List-list-layouts-subscreen-es.png 2x"
 data-file-width="2878" data-file-height="1324" width="600" height="276"
-alt="Help-4x-Menus-Item-Articles-Category-List-list-layouts-subscreen-es.png" />
+alt="Menus Item Articles Category List list layouts subscreen" />
 
 - **Seleccionar 'Cantidad a mostrar'**. Show the Display \# control that
   allows the user to select the number of articles to show.
@@ -189,7 +189,7 @@ src="https://docs.joomla.org/images/thumb/9/98/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/9/98/Help-4x-Menus-Item-Articles-Category-List-options-subscreen-es.png/900px-Help-4x-Menus-Item-Articles-Category-List-options-subscreen-es.png 1.5x, https://docs.joomla.org/images/thumb/9/98/Help-4x-Menus-Item-Articles-Category-List-options-subscreen-es.png/1200px-Help-4x-Menus-Item-Articles-Category-List-options-subscreen-es.png 2x"
 data-file-width="2878" data-file-height="1344" width="600" height="280"
-alt="Help-4x-Menus-Item-Articles-Category-List-options-subscreen-es.png" />
+alt="Menus Item Articles Category List options subscreen" />
 
 **Presentación**
 
@@ -270,7 +270,7 @@ src="https://docs.joomla.org/images/thumb/5/56/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/56/Help-4x-Menus-Item-Articles-Category-List-integration-subscreen-es.png/900px-Help-4x-Menus-Item-Articles-Category-List-integration-subscreen-es.png 1.5x, https://docs.joomla.org/images/thumb/5/56/Help-4x-Menus-Item-Articles-Category-List-integration-subscreen-es.png/1200px-Help-4x-Menus-Item-Articles-Category-List-integration-subscreen-es.png 2x"
 data-file-width="2880" data-file-height="710" width="600" height="148"
-alt="Help-4x-Menus-Item-Articles-Category-List-integration-subscreen-es.png" />
+alt="Menus Item Articles Category List integration subscreen" />
 
 - **Sindicar el enlace**. If set to Show, a Feed Link will show up as a
   feed icon in the address bar of most browsers.

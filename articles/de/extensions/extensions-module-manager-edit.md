@@ -27,7 +27,7 @@ src="https://docs.joomla.org/images/thumb/3/37/Help-4x-extensions-module-manager
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/3/37/Help-4x-extensions-module-manager-new-de.png/1200px-Help-4x-extensions-module-manager-new-de.png 1.5x, https://docs.joomla.org/images/thumb/3/37/Help-4x-extensions-module-manager-new-de.png/1600px-Help-4x-extensions-module-manager-new-de.png 2x"
 data-file-width="1647" data-file-height="1029" width="800" height="500"
-alt="Help-4x-extensions-module-manager-new-de.png" />
+alt="extensions module manager new" />
 
 Eines davon auswählen, um zum Bearbeitungsbildschirm zu wechseln.
 
@@ -44,7 +44,7 @@ src="https://docs.joomla.org/images/thumb/8/84/Help-4x-extensions-module-manager
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/84/Help-4x-extensions-module-manager-edit-de.png/1200px-Help-4x-extensions-module-manager-edit-de.png 1.5x, https://docs.joomla.org/images/8/84/Help-4x-extensions-module-manager-edit-de.png 2x"
 data-file-width="1378" data-file-height="1254" width="800" height="728"
-alt="Help-4x-extensions-module-manager-edit-de.png" />
+alt="extensions module manager edit" />
 
 ## Formular Felder
 
@@ -135,7 +135,7 @@ src="https://docs.joomla.org/images/thumb/e/ee/Help-4x-Module-Manager-Edit-menu-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/ee/Help-4x-Module-Manager-Edit-menu-assignment-de.png/900px-Help-4x-Module-Manager-Edit-menu-assignment-de.png 1.5x, https://docs.joomla.org/images/thumb/e/ee/Help-4x-Module-Manager-Edit-menu-assignment-de.png/1200px-Help-4x-Module-Manager-Edit-menu-assignment-de.png 2x"
 data-file-width="1232" data-file-height="1058" width="600" height="515"
-alt="Help-4x-Module-Manager-Edit-menu-assignment-de.png" />
+alt="Module Manager Edit menu assignment" />
 
 #### Modulzuweisung
 
@@ -182,7 +182,7 @@ src="https://docs.joomla.org/images/thumb/c/ce/Help-4x-Module-Manager-Edit-advan
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/ce/Help-4x-Module-Manager-Edit-advanced-de.png/900px-Help-4x-Module-Manager-Edit-advanced-de.png 1.5x, https://docs.joomla.org/images/thumb/c/ce/Help-4x-Module-Manager-Edit-advanced-de.png/1200px-Help-4x-Module-Manager-Edit-advanced-de.png 2x"
 data-file-width="1253" data-file-height="635" width="600" height="304"
-alt="Help-4x-Module-Manager-Edit-advanced-de.png" />
+alt="Module Manager Edit advanced" />
 
 ### Modulberechtigungen
 
@@ -191,7 +191,7 @@ src="https://docs.joomla.org/images/thumb/8/86/Help-4x-Module-Manager-Edit-permi
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/86/Help-4x-Module-Manager-Edit-permissions-de.png/900px-Help-4x-Module-Manager-Edit-permissions-de.png 1.5x, https://docs.joomla.org/images/thumb/8/86/Help-4x-Module-Manager-Edit-permissions-de.png/1200px-Help-4x-Module-Manager-Edit-permissions-de.png 2x"
 data-file-width="1258" data-file-height="788" width="600" height="376"
-alt="Help-4x-Module-Manager-Edit-permissions-de.png" />
+alt="Module Manager Edit permissions" />
 
 ## Werkzeugleiste
 

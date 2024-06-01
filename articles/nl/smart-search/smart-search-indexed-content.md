@@ -31,7 +31,7 @@ src="https://docs.joomla.org/images/thumb/0/00/Help-4x-Components-Finder-Manage-
 decoding="async"
 srcset="https://docs.joomla.org/images/0/00/Help-4x-Components-Finder-Manage-Indexed-Content-screen-nl.png 1.5x"
 data-file-width="1186" data-file-height="888" width="800" height="599"
-alt="Help-4x-Components-Finder-Manage-Indexed-Content-screen-nl.png" />
+alt="Components Finder Manage Indexed Content screen" />
 
 ## Een index aanmaken
 
@@ -54,7 +54,7 @@ elke kolom wordt getoond.
 src="https://docs.joomla.org/images/3/3a/Help31-Components-Smart-Search-Manager-columns-nl.png"
 decoding="async" data-file-width="702" data-file-height="25" width="702"
 height="25"
-alt="Help31-Components-Smart-Search-Manager-columns-nl.png" />
+alt="Help31 Components Smart Search Manager columns nl.png" />
 
 - **Selectievakje**. Vink dit vakje aan om één of meer items te
   selecteren. Vink het vakje in de kolomkop aan om alle selectievakjes

@@ -18,7 +18,7 @@ Om een nieuw menu-item alias aan te maken:
     decoding="async"
     srcset="https://docs.joomla.org/images/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png 1.5x"
     data-file-width="124" data-file-height="43" width="87" height="30"
-    alt="Help-4x-Menu-Item-Type-Select-Button-nl.png" />
+    alt="Menu Item Type Select Button" />
   - Selecteer in de modale dialoog het 'Systeemlinks' item om een lijst
     te openen en selecteer daarna het **Menu-item alias** item.
 
@@ -33,7 +33,7 @@ src="https://docs.joomla.org/images/thumb/f/f3/Help-4x-Menus-Menu-Item-Alias-scr
 decoding="async"
 srcset="https://docs.joomla.org/images/f/f3/Help-4x-Menus-Menu-Item-Alias-screen-nl.png 1.5x"
 data-file-width="1189" data-file-height="927" width="800" height="624"
-alt="Help-4x-Menus-Menu-Item-Alias-screen-nl.png" />
+alt="Menus Menu Item Alias screen" />
 
 ## Formulier velden
 

@@ -29,7 +29,7 @@ src="https://docs.joomla.org/images/thumb/1/12/Help-4x-Content-Categories-screen
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/1/12/Help-4x-Content-Categories-screen-ru.png/1200px-Help-4x-Content-Categories-screen-ru.png 1.5x, https://docs.joomla.org/images/thumb/1/12/Help-4x-Content-Categories-screen-ru.png/1600px-Help-4x-Content-Categories-screen-ru.png 2x"
 data-file-width="2880" data-file-height="1680" width="800" height="467"
-alt="Help-4x-Content-Categories-screen-ru.png" />
+alt="Content Categories screen" />
 
 ## Column Headers
 
@@ -148,7 +148,7 @@ src="https://docs.joomla.org/images/thumb/b/b1/Help-4x-Content-Categories-batch-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/b1/Help-4x-Content-Categories-batch-ru.png/900px-Help-4x-Content-Categories-batch-ru.png 1.5x, https://docs.joomla.org/images/thumb/b/b1/Help-4x-Content-Categories-batch-ru.png/1200px-Help-4x-Content-Categories-batch-ru.png 2x"
 data-file-width="1598" data-file-height="975" width="600" height="366"
-alt="Help-4x-Content-Categories-batch-ru.png" />
+alt="Content Categories batch" />
 
 **How to Batch Process** a group of categories:
 

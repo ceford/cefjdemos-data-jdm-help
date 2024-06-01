@@ -36,7 +36,7 @@ src="https://docs.joomla.org/images/thumb/a/a0/Help-4x-menus-menu-manager-menus-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/a/a0/Help-4x-menus-menu-manager-menus-de.png/1200px-Help-4x-menus-menu-manager-menus-de.png 1.5x, https://docs.joomla.org/images/thumb/a/a0/Help-4x-menus-menu-manager-menus-de.png/1600px-Help-4x-menus-menu-manager-menus-de.png 2x"
 data-file-width="1630" data-file-height="1105" width="800" height="542"
-alt="Help-4x-menus-menu-manager-menus-de.png" />
+alt="menus menu manager menus" />
 
 ## Spalten-Überschriften
 

@@ -21,7 +21,7 @@ src="https://docs.joomla.org/images/thumb/d/d9/Help-4x-Components-Associations-r
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/d/d9/Help-4x-Components-Associations-ru.png/1200px-Help-4x-Components-Associations-ru.png 1.5x, https://docs.joomla.org/images/thumb/d/d9/Help-4x-Components-Associations-ru.png/1600px-Help-4x-Components-Associations-ru.png 2x"
 data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Help-4x-Components-Associations-ru.png" />
+alt="Components Associations" />
 
 ## Заголовки столбцов
 
@@ -95,7 +95,7 @@ src="https://docs.joomla.org/images/thumb/f/f6/Help-4x-Components-Associations-t
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/f6/Help-4x-Components-Associations-toolbar-subscreen-ru.png/1200px-Help-4x-Components-Associations-toolbar-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/f/f6/Help-4x-Components-Associations-toolbar-subscreen-ru.png/1600px-Help-4x-Components-Associations-toolbar-subscreen-ru.png 2x"
 data-file-width="2751" data-file-height="288" width="800" height="84"
-alt="Help-4x-Components-Associations-toolbar-subscreen-ru.png" />
+alt="Components Associations toolbar subscreen" />
 
 - **Delete All Associations**. Lets you delete all associations. After a
   question to confirm, all associations will be deleted.

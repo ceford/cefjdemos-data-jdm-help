@@ -28,7 +28,7 @@ src="https://docs.joomla.org/images/thumb/7/7b/Help-4x-Menus-Item-Articles-List-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/7b/Help-4x-Menus-Item-Articles-List-All-Categories-screen-ru.png/1200px-Help-4x-Menus-Item-Articles-List-All-Categories-screen-ru.png 1.5x, https://docs.joomla.org/images/thumb/7/7b/Help-4x-Menus-Item-Articles-List-All-Categories-screen-ru.png/1600px-Help-4x-Menus-Item-Articles-List-All-Categories-screen-ru.png 2x"
 data-file-width="2880" data-file-height="1538" width="800" height="427"
-alt="Help-4x-Menus-Item-Articles-List-All-Categories-screen-ru.png" />
+alt="Menus Item Articles List All Categories screen" />
 
 ## Form Fields
 
@@ -67,7 +67,7 @@ src="https://docs.joomla.org/images/thumb/1/19/Help-4x-Menus-Item-Articles-List-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/1/19/Help-4x-Menus-Item-Articles-List-All-Categories-categories-subscreen-ru.png/900px-Help-4x-Menus-Item-Articles-List-All-Categories-categories-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/1/19/Help-4x-Menus-Item-Articles-List-All-Categories-categories-subscreen-ru.png/1200px-Help-4x-Menus-Item-Articles-List-All-Categories-categories-subscreen-ru.png 2x"
 data-file-width="2880" data-file-height="1300" width="600" height="271"
-alt="Help-4x-Menus-Item-Articles-List-All-Categories-categories-subscreen-ru.png" />
+alt="Menus Item Articles List All Categories categories subscreen" />
 
 Note: Options include "**Use Global**". If this is selected, the setting
 from the Articles: Options
@@ -96,7 +96,7 @@ src="https://docs.joomla.org/images/thumb/d/d1/Help-4x-Menus-Item-Articles-List-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/d/d1/Help-4x-Menus-Item-Articles-List-All-Categories-category-subscreen-ru.png/900px-Help-4x-Menus-Item-Articles-List-All-Categories-category-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/d/d1/Help-4x-Menus-Item-Articles-List-All-Categories-category-subscreen-ru.png/1200px-Help-4x-Menus-Item-Articles-List-All-Categories-category-subscreen-ru.png 2x"
 data-file-width="2880" data-file-height="1300" width="600" height="271"
-alt="Help-4x-Menus-Item-Articles-List-All-Categories-category-subscreen-ru.png" />
+alt="Menus Item Articles List All Categories category subscreen" />
 
 - **Category Title**. Show the title of the category.
 - **Category Description**. Show the description for the category.
@@ -127,7 +127,7 @@ src="https://docs.joomla.org/images/thumb/0/03/Help-4x-Menus-Item-Articles-List-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/0/03/Help-4x-Menus-Item-Articles-List-All-Categories-blog-layout-subscreen-ru.png/900px-Help-4x-Menus-Item-Articles-List-All-Categories-blog-layout-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/0/03/Help-4x-Menus-Item-Articles-List-All-Categories-blog-layout-subscreen-ru.png/1200px-Help-4x-Menus-Item-Articles-List-All-Categories-blog-layout-subscreen-ru.png 2x"
 data-file-width="2880" data-file-height="1300" width="600" height="271"
-alt="Help-4x-Menus-Item-Articles-List-All-Categories-blog-layout-subscreen-ru.png" />
+alt="Menus Item Articles List All Categories blog layout subscreen" />
 
 - **Leading Article Class**. You can add any CSS class for your own
   styling ideas. Add a border on top with class boxed.For image position
@@ -210,7 +210,7 @@ src="https://docs.joomla.org/images/thumb/0/05/Help-4x-Menus-Item-Articles-List-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/0/05/Help-4x-Menus-Item-Articles-List-All-Categories-list-layouts-subscreen-ru.png/900px-Help-4x-Menus-Item-Articles-List-All-Categories-list-layouts-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/0/05/Help-4x-Menus-Item-Articles-List-All-Categories-list-layouts-subscreen-ru.png/1200px-Help-4x-Menus-Item-Articles-List-All-Categories-list-layouts-subscreen-ru.png 2x"
 data-file-width="2880" data-file-height="1300" width="600" height="271"
-alt="Help-4x-Menus-Item-Articles-List-All-Categories-list-layouts-subscreen-ru.png" />
+alt="Menus Item Articles List All Categories list layouts subscreen" />
 
 - **Display Select**. Show the Display \# control that allows the user
   to select the number of articles to show.
@@ -243,7 +243,7 @@ src="https://docs.joomla.org/images/thumb/5/57/Help-4x-Menus-Item-Articles-List-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/57/Help-4x-Menus-Item-Articles-List-All-Categories-shared-subscreen-ru.png/900px-Help-4x-Menus-Item-Articles-List-All-Categories-shared-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/5/57/Help-4x-Menus-Item-Articles-List-All-Categories-shared-subscreen-ru.png/1200px-Help-4x-Menus-Item-Articles-List-All-Categories-shared-subscreen-ru.png 2x"
 data-file-width="2880" data-file-height="1010" width="600" height="210"
-alt="Help-4x-Menus-Item-Articles-List-All-Categories-shared-subscreen-ru.png" />
+alt="Menus Item Articles List All Categories shared subscreen" />
 
 - **Pagination**. Pagination provides page links at the bottom of the
   page that allow the User to navigate to additional pages. These are
@@ -264,7 +264,7 @@ src="https://docs.joomla.org/images/thumb/6/6e/Help-4x-Menus-Item-Articles-List-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/6/6e/Help-4x-Menus-Item-Articles-List-All-Categories-options-subscreen-ru.png/900px-Help-4x-Menus-Item-Articles-List-All-Categories-options-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/6/6e/Help-4x-Menus-Item-Articles-List-All-Categories-options-subscreen-ru.png/1200px-Help-4x-Menus-Item-Articles-List-All-Categories-options-subscreen-ru.png 2x"
 data-file-width="2880" data-file-height="1300" width="600" height="271"
-alt="Help-4x-Menus-Item-Articles-List-All-Categories-options-subscreen-ru.png" />
+alt="Menus Item Articles List All Categories options subscreen" />
 
 **Макет**
 
@@ -333,7 +333,7 @@ src="https://docs.joomla.org/images/thumb/5/5f/Help-4x-Menus-Item-Articles-List-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/5f/Help-4x-Menus-Item-Articles-List-All-Categories-integration-subscreen-ru.png/900px-Help-4x-Menus-Item-Articles-List-All-Categories-integration-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/5/5f/Help-4x-Menus-Item-Articles-List-All-Categories-integration-subscreen-ru.png/1200px-Help-4x-Menus-Item-Articles-List-All-Categories-integration-subscreen-ru.png 2x"
 data-file-width="2880" data-file-height="900" width="600" height="188"
-alt="Help-4x-Menus-Item-Articles-List-All-Categories-integration-subscreen-ru.png" />
+alt="Menus Item Articles List All Categories integration subscreen" />
 
 - **RSS Feed Link**. If set to Show, a Feed Link will show up as a feed
   icon in the address bar of most browsers.

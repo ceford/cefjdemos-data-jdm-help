@@ -15,7 +15,7 @@ beantwoorden.
 src="https://docs.joomla.org/images/8/86/Help-4x-Components-Messaging-Read-mymessages-subscreen-nl.png"
 decoding="async" data-file-width="71" data-file-height="60" width="71"
 height="60"
-alt="Help-4x-Components-Messaging-Read-mymessages-subscreen-nl.png" />
+alt="Components Messaging Read mymessages subscreen" />
 
 - Klik vervolgens op de onderwerp-link van het bericht om het
   **Privéberichten: Toon** scherm te openen.
@@ -27,7 +27,7 @@ src="https://docs.joomla.org/images/thumb/e/e0/Help-4x-Components-Messaging-Read
 decoding="async"
 srcset="https://docs.joomla.org/images/e/e0/Help-4x-Components-Messaging-Read-screen-nl.png 1.5x"
 data-file-width="1153" data-file-height="586" width="800" height="407"
-alt="Help-4x-Components-Messaging-Read-screen-nl.png" />
+alt="Components Messaging Read screen" />
 
 ## Gegevens
 

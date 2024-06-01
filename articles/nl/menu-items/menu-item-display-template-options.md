@@ -20,7 +20,7 @@ Om een nieuw **Toon template-opties** menu-item aan te maken:
     decoding="async"
     srcset="https://docs.joomla.org/images/thumb/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png/110px-Help-4x-Menu-Item-Type-Select-Button-nl.png 1.5x, https://docs.joomla.org/images/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png 2x"
     data-file-width="124" data-file-height="43" width="73" height="25"
-    alt="Help-4x-Menu-Item-Type-Select-Button-nl.png" />
+    alt="Menu Item Type Select Button" />
   - Selecteer in de modale dialoogbox het 'Instellingenbeheer' item om
     een lijst te openen en selecteer daarna het **Toon template-opties**
     item.
@@ -36,7 +36,7 @@ src="https://docs.joomla.org/images/thumb/d/d3/Help-4x-Menus-Menu-Display_Templa
 decoding="async"
 srcset="https://docs.joomla.org/images/d/d3/Help-4x-Menus-Menu-Display_Template_Options-screen-nl.png 1.5x"
 data-file-width="959" data-file-height="889" width="800" height="742"
-alt="Help-4x-Menus-Menu-Display Template Options-screen-nl.png" />
+alt="Menus Menu Display Template Options screen" />
 
 ## Formulier velden
 
@@ -151,7 +151,7 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 src="https://docs.joomla.org/images/0/0a/Help-4x-Menus-Menu-Display_Template_Options-front-end-screenshot-nl.png"
 decoding="async" data-file-width="585" data-file-height="449"
 width="585" height="449"
-alt="Help-4x-Menus-Menu-Display Template Options-front-end-screenshot-nl.png" />
+alt="Menus Menu Display Template Options front end screenshot" />
 
 ## Verwante items
 

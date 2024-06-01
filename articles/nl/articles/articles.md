@@ -28,7 +28,7 @@ src="https://docs.joomla.org/images/thumb/3/37/Help-4x-Content-Article-screen-nl
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/3/37/Help-4x-Content-Article-screen-nl.png/1200px-Help-4x-Content-Article-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/3/37/Help-4x-Content-Article-screen-nl.png/1600px-Help-4x-Content-Article-screen-nl.png 2x"
 data-file-width="2814" data-file-height="1700" width="800" height="483"
-alt="Help-4x-Content-Article-screen-nl.png" />
+alt="Content Article screen" />
 
 ## Kolomkoppen
 
@@ -173,7 +173,7 @@ src="https://docs.joomla.org/images/thumb/b/b4/Help-4x-batch-process-articles-nl
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/b4/Help-4x-batch-process-articles-nl.png/900px-Help-4x-batch-process-articles-nl.png 1.5x, https://docs.joomla.org/images/thumb/b/b4/Help-4x-batch-process-articles-nl.png/1200px-Help-4x-batch-process-articles-nl.png 2x"
 data-file-width="1598" data-file-height="736" width="600" height="276"
-alt="Help-4x-batch-process-articles-nl.png" />
+alt="batch process articles" />
 
 **Hoe batchverwerking** voor een groep artikelen toepassen:
 

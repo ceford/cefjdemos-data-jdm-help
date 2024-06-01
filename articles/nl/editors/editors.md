@@ -25,7 +25,7 @@ src="https://docs.joomla.org/images/thumb/5/52/Help-4x-editor-tinymce-simple-en.
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/52/Help-4x-editor-tinymce-simple-en.png/900px-Help-4x-editor-tinymce-simple-en.png 1.5x, https://docs.joomla.org/images/thumb/5/52/Help-4x-editor-tinymce-simple-en.png/1200px-Help-4x-editor-tinymce-simple-en.png 2x"
 data-file-width="1451" data-file-height="80" width="600" height="33"
-alt="Help-4x-editor-tinymce-simple-en.png" />
+alt="editor tinymce simple" />
 
 - Knoppen waarmee u tekst vet, onderstreept of doorgehaald kunt maken.
 - Ongedaan maken en Opnieuw uitvoeren.
@@ -46,7 +46,7 @@ src="https://docs.joomla.org/images/thumb/7/7e/Help-4x-editor-tinymce-advanced-n
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/7e/Help-4x-editor-tinymce-advanced-nl.png/1200px-Help-4x-editor-tinymce-advanced-nl.png 1.5x, https://docs.joomla.org/images/thumb/7/7e/Help-4x-editor-tinymce-advanced-nl.png/1600px-Help-4x-editor-tinymce-advanced-nl.png 2x"
 data-file-width="1976" data-file-height="236" width="800" height="96"
-alt="Help-4x-editor-tinymce-advanced-nl.png" />
+alt="editor tinymce advanced" />
 
 This option provides all of the same buttons as documented in the Set 2
 Toolbar above. In addition, the following options are available.
@@ -64,7 +64,7 @@ src="https://docs.joomla.org/images/thumb/1/10/Help-4x-article-quick-link-button
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/1/10/Help-4x-article-quick-link-button-nl.png/900px-Help-4x-article-quick-link-button-nl.png 1.5x, https://docs.joomla.org/images/1/10/Help-4x-article-quick-link-button-nl.png 2x"
 data-file-width="1161" data-file-height="801" width="600" height="414"
-alt="Help-4x-article-quick-link-button-nl.png" />
+alt="article quick link button" />
 
 Om een koppeling te maken naar het gewenste artikel:
 
@@ -90,7 +90,7 @@ src="https://docs.joomla.org/images/thumb/4/4d/Help-4x-editor-pagebreak-button-n
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/4d/Help-4x-editor-pagebreak-button-nl.png/900px-Help-4x-editor-pagebreak-button-nl.png 1.5x, https://docs.joomla.org/images/thumb/4/4d/Help-4x-editor-pagebreak-button-nl.png/1200px-Help-4x-editor-pagebreak-button-nl.png 2x"
 data-file-width="1542" data-file-height="862" width="600" height="335"
-alt="Help-4x-editor-pagebreak-button-nl.png" />
+alt="editor pagebreak button" />
 
 - **Paginatitel**. Voer de titel die getoond moet worden op de nieuwe
   pagina (bijvoorbeeld, 'Pagina 2').
@@ -178,7 +178,7 @@ src="https://docs.joomla.org/images/thumb/e/ef/Help-4x-editor-tinymce-extended-n
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/ef/Help-4x-editor-tinymce-extended-nl.png/1200px-Help-4x-editor-tinymce-extended-nl.png 1.5x, https://docs.joomla.org/images/thumb/e/ef/Help-4x-editor-tinymce-extended-nl.png/1600px-Help-4x-editor-tinymce-extended-nl.png 2x"
 data-file-width="1975" data-file-height="392" width="800" height="159"
-alt="Help-4x-editor-tinymce-extended-nl.png" />
+alt="editor tinymce extended" />
 
 This option provides all of the same buttons as documented in the Set 1
 Toolbar above. In addition, the following options are available.
@@ -264,7 +264,7 @@ src="https://docs.joomla.org/images/thumb/e/e6/Help-4x-screenshot-editor-codemir
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/e6/Help-4x-screenshot-editor-codemirror-example-nl.png/1200px-Help-4x-screenshot-editor-codemirror-example-nl.png 1.5x, https://docs.joomla.org/images/thumb/e/e6/Help-4x-screenshot-editor-codemirror-example-nl.png/1600px-Help-4x-screenshot-editor-codemirror-example-nl.png 2x"
 data-file-width="1977" data-file-height="988" width="800" height="400"
-alt="Help-4x-screenshot-editor-codemirror-example-nl.png" />
+alt="screenshot editor codemirror example" />
 
 - Buttons shown below the edit window provides for access to link to any
   item of the site.

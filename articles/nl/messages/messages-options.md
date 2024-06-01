@@ -18,7 +18,7 @@ src="https://docs.joomla.org/images/thumb/9/94/Help-4x-Components-Messaging-Opti
 decoding="async"
 srcset="https://docs.joomla.org/images/9/94/Help-4x-Components-Messaging-Options-nl.png 1.5x"
 data-file-width="1167" data-file-height="694" width="800" height="476"
-alt="Help-4x-Components-Messaging-Options-nl.png" />
+alt="Components Messaging Options" />
 
 ### Formulier velden
 

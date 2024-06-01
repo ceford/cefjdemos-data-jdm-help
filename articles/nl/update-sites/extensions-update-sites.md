@@ -17,7 +17,7 @@ src="https://docs.joomla.org/images/thumb/b/b1/Help-4x-Extensions-Update-Sites-s
 decoding="async"
 srcset="https://docs.joomla.org/images/b/b1/Help-4x-Extensions-Update-Sites-screen-nl.png 1.5x"
 data-file-width="1090" data-file-height="497" width="800" height="365"
-alt="Help-4x-Extensions-Update-Sites-screen-nl.png" />
+alt="Extensions Update Sites screen" />
 
 ## Kolomkoppen
 
@@ -46,7 +46,7 @@ weergave is zoals hieronder.
 <img
 src="https://docs.joomla.org/images/8/88/Help-4x-colheader-filter-field-nl.png"
 decoding="async" data-file-width="848" data-file-height="61" width="848"
-height="61" alt="Help-4x-colheader-filter-field-nl.png" />
+height="61" alt="colheader filter field" />
 
 - **Zoeken op tekst.** Voer een deel van de zoekterm in en klik op het
   zoekicoon. Het zoeken kan een of meer velden omvatten. *Hover* (muis

@@ -18,7 +18,7 @@ src="https://docs.joomla.org/images/thumb/1/1e/Help-4x-Components-Cache-Options-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/1/1e/Help-4x-Components-Cache-Options-screen-nl.png/1200px-Help-4x-Components-Cache-Options-screen-nl.png 1.5x, https://docs.joomla.org/images/1/1e/Help-4x-Components-Cache-Options-screen-nl.png 2x"
 data-file-width="1252" data-file-height="875" width="800" height="559"
-alt="Help-4x-Components-Cache-Options-screen-nl.png" />
+alt="Components Cache Options screen" />
 
 ## Rechten
 

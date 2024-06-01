@@ -25,7 +25,7 @@ src="https://docs.joomla.org/images/thumb/a/a0/Help-4x-Content-Featured-Articles
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/a/a0/Help-4x-Content-Featured-Articles-screen-ru.png/1200px-Help-4x-Content-Featured-Articles-screen-ru.png 1.5x, https://docs.joomla.org/images/thumb/a/a0/Help-4x-Content-Featured-Articles-screen-ru.png/1600px-Help-4x-Content-Featured-Articles-screen-ru.png 2x"
 data-file-width="2560" data-file-height="1600" width="800" height="500"
-alt="Help-4x-Content-Featured-Articles-screen-ru.png" />
+alt="Content Featured Articles screen" />
 
 ## Column Headers
 

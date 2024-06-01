@@ -48,7 +48,7 @@ src="https://docs.joomla.org/images/thumb/5/5a/Help-4x-Extensions-Extension-Mana
 decoding="async"
 srcset="https://docs.joomla.org/images/5/5a/Help-4x-Extensions-Extension-Manager-Discover-screen-de.png 1.5x"
 data-file-width="1000" data-file-height="308" width="800" height="246"
-alt="Help-4x-Extensions-Extension-Manager-Discover-screen-de.png" />
+alt="Extensions Extension Manager Discover screen" />
 
 ## Spalten-Überschriften
 

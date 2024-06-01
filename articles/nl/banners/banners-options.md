@@ -20,7 +20,7 @@ src="https://docs.joomla.org/images/thumb/9/94/Help-4x-Banner-Options-screen-nl.
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/9/94/Help-4x-Banner-Options-screen-nl.png/1200px-Help-4x-Banner-Options-screen-nl.png 1.5x, https://docs.joomla.org/images/9/94/Help-4x-Banner-Options-screen-nl.png 2x"
 data-file-width="1264" data-file-height="764" width="800" height="484"
-alt="Help-4x-Banner-Options-screen-nl.png" />
+alt="Banner Options screen" />
 
 ### Formulier velden
 
@@ -48,7 +48,7 @@ src="https://docs.joomla.org/images/thumb/c/c1/Help-4x-Banner-Options-screen-his
 decoding="async"
 srcset="https://docs.joomla.org/images/c/c1/Help-4x-Banner-Options-screen-history-tab-nl.png 1.5x"
 data-file-width="912" data-file-height="404" width="800" height="354"
-alt="Help-4x-Banner-Options-screen-history-tab-nl.png" />
+alt="Banner Options screen history tab" />
 
 - **Versies inschakelen.** (Ja/Nee). Of wel of niet versie historie voor
   deze component moet worden opgeslagen. Indien Nee, versie historie zal
@@ -75,7 +75,7 @@ src="https://docs.joomla.org/images/thumb/b/b5/Help-4x-Banner-Options-screen-per
 decoding="async"
 srcset="https://docs.joomla.org/images/b/b5/Help-4x-Banner-Options-screen-permissions-tab-nl.png 1.5x"
 data-file-width="906" data-file-height="830" width="800" height="733"
-alt="Help-4x-Banner-Options-screen-permissions-tab-nl.png" />
+alt="Banner Options screen permissions tab" />
 
 Om de rechten van deze extensie te wijzigen moet u de volgende
 handelingen uitvoeren.

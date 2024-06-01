@@ -29,7 +29,7 @@ src="https://docs.joomla.org/images/thumb/2/27/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/27/Help-4x-Menus-Item-Articles-Category-Blog-screen-nl.png/1200px-Help-4x-Menus-Item-Articles-Category-Blog-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/2/27/Help-4x-Menus-Item-Articles-Category-Blog-screen-nl.png/1600px-Help-4x-Menus-Item-Articles-Category-Blog-screen-nl.png 2x"
 data-file-width="2880" data-file-height="1404" width="800" height="390"
-alt="Help-4x-Menus-Item-Articles-Category-Blog-screen-nl.png" />
+alt="Menus Item Articles Category Blog screen" />
 
 ## Formulier velden
 
@@ -74,7 +74,7 @@ src="https://docs.joomla.org/images/thumb/1/17/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/1/17/Help-4x-Menus-Item-Articles-Category-Blog-category-subscreen-nl.png/900px-Help-4x-Menus-Item-Articles-Category-Blog-category-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/1/17/Help-4x-Menus-Item-Articles-Category-Blog-category-subscreen-nl.png/1200px-Help-4x-Menus-Item-Articles-Category-Blog-category-subscreen-nl.png 2x"
 data-file-width="2880" data-file-height="1340" width="600" height="279"
-alt="Help-4x-Menus-Item-Articles-Category-Blog-category-subscreen-nl.png" />
+alt="Menus Item Articles Category Blog category subscreen" />
 
 - **Categorietitel**. Toon de titel van de categorie.
 - **Beschrijving van categorie**. Toon de beschrijving van de categorie.
@@ -101,7 +101,7 @@ src="https://docs.joomla.org/images/thumb/1/1d/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/1/1d/Help-4x-Menus-Item-Articles-Category-Blog-blog-layout-subscreen-nl.png/900px-Help-4x-Menus-Item-Articles-Category-Blog-blog-layout-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/1/1d/Help-4x-Menus-Item-Articles-Category-Blog-blog-layout-subscreen-nl.png/1200px-Help-4x-Menus-Item-Articles-Category-Blog-blog-layout-subscreen-nl.png 2x"
 data-file-width="2880" data-file-height="1340" width="600" height="279"
-alt="Help-4x-Menus-Item-Articles-Category-Blog-blog-layout-subscreen-nl.png" />
+alt="Menus Item Articles Category Blog blog layout subscreen" />
 
 - **\# Hoofdartikelen**. Aantal Artikelen te tonen met behulp van de
   volledige breedte van de blog pagina. "0" betekent dat er geen
@@ -230,7 +230,7 @@ src="https://docs.joomla.org/images/thumb/a/a5/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/a/a5/Help-4x-Menus-Item-Articles-Category-Blog-options-subscreen-nl.png/900px-Help-4x-Menus-Item-Articles-Category-Blog-options-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/a/a5/Help-4x-Menus-Item-Articles-Category-Blog-options-subscreen-nl.png/1200px-Help-4x-Menus-Item-Articles-Category-Blog-options-subscreen-nl.png 2x"
 data-file-width="2880" data-file-height="1340" width="600" height="279"
-alt="Help-4x-Menus-Item-Articles-Category-Blog-options-subscreen-nl.png" />
+alt="Menus Item Articles Category Blog options subscreen" />
 
 **Weergave**
 
@@ -319,7 +319,7 @@ src="https://docs.joomla.org/images/thumb/5/5a/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/5a/Help-4x-Menus-Item-Articles-Category-Blog-integration-subscreen-nl.png/900px-Help-4x-Menus-Item-Articles-Category-Blog-integration-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/5/5a/Help-4x-Menus-Item-Articles-Category-Blog-integration-subscreen-nl.png/1200px-Help-4x-Menus-Item-Articles-Category-Blog-integration-subscreen-nl.png 2x"
 data-file-width="2880" data-file-height="710" width="600" height="148"
-alt="Help-4x-Menus-Item-Articles-Category-Blog-integration-subscreen-nl.png" />
+alt="Menus Item Articles Category Blog integration subscreen" />
 
 - **RSS feed link**. Als deze ingesteld staat op Toon zal de Feedlink
   verschijnen als een feedicoon in de adresbalk bij de meeste browsers.

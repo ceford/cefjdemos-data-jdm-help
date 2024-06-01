@@ -18,7 +18,7 @@ src="https://docs.joomla.org/images/thumb/3/3c/Help-4x-permissions-for-user-scre
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/3/3c/Help-4x-permissions-for-user-screen-nl.png/1200px-Help-4x-permissions-for-user-screen-nl.png.jpeg 1.5x, https://docs.joomla.org/images/3/3c/Help-4x-permissions-for-user-screen-nl.png 2x"
 data-file-width="1300" data-file-height="908" width="800" height="559"
-alt="Help-4x-permissions-for-user-screen-nl.png" />
+alt="permissions for user screen" />
 
 ## Kolomkoppen
 
@@ -103,7 +103,7 @@ Onderaan ziet u de legenda:
 <img
 src="https://docs.joomla.org/images/8/84/Help31-Help-Permissions-Report-Legend-nl.png"
 decoding="async" data-file-width="362" data-file-height="39" width="362"
-height="39" alt="Help31-Help-Permissions-Report-Legend-nl.png" />
+height="39" alt="Help31 Help Permissions Report Legend nl.png" />
 
 - **Niet toegestaan**. Actie is niet toegestaan.
 - **Toegestaan**. Actie toegestaan.

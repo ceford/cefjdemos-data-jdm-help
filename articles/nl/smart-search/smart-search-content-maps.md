@@ -55,7 +55,7 @@ src="https://docs.joomla.org/images/thumb/8/89/Help-4x-Components-Finder-Content
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/89/Help-4x-Components-Finder-ContentMaps-subscreen-nl.png/1200px-Help-4x-Components-Finder-ContentMaps-subscreen-nl.png 1.5x, https://docs.joomla.org/images/8/89/Help-4x-Components-Finder-ContentMaps-subscreen-nl.png 2x"
 data-file-width="1215" data-file-height="745" width="800" height="491"
-alt="Help-4x-Components-Finder-ContentMaps-subscreen-nl.png" />
+alt="Components Finder ContentMaps subscreen" />
 
 ## Kolomkoppen
 
@@ -67,7 +67,7 @@ elke kolom wordt getoond.
 src="https://docs.joomla.org/images/7/78/Help31-Components-Smart-Search-Content-Maps-columns-nl.png"
 decoding="async" data-file-width="1046" data-file-height="24"
 width="1046" height="24"
-alt="Help31-Components-Smart-Search-Content-Maps-columns-nl.png" />
+alt="Help31 Components Smart Search Content Maps columns nl.png" />
 
 - **Selectievakje**. Vink dit vakje aan om één of meer items te
   selecteren. Vink het vakje in de kolomkop aan om alle selectievakjes

@@ -19,7 +19,7 @@ src="https://docs.joomla.org/images/thumb/5/54/Help-4x-users-mass-mail-nl.png/80
 decoding="async"
 srcset="https://docs.joomla.org/images/5/54/Help-4x-users-mass-mail-nl.png 1.5x"
 data-file-width="1050" data-file-height="670" width="800" height="510"
-alt="Help-4x-users-mass-mail-nl.png" />
+alt="users mass mail" />
 
 ## Gegevens en bericht
 

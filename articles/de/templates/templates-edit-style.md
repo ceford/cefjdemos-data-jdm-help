@@ -25,7 +25,7 @@ src="https://docs.joomla.org/images/thumb/f/f3/Help-4x-Extensions-Template-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/f3/Help-4x-Extensions-Template-Manager-Styles-Edit-screen-de.png/1200px-Help-4x-Extensions-Template-Manager-Styles-Edit-screen-de.png 1.5x, https://docs.joomla.org/images/f/f3/Help-4x-Extensions-Template-Manager-Styles-Edit-screen-de.png 2x"
 data-file-width="1498" data-file-height="689" width="800" height="368"
-alt="Help-4x-Extensions-Template-Manager-Styles-Edit-screen-de.png" />
+alt="Extensions Template Manager Styles Edit screen" />
 
 ## Formular Felder
 

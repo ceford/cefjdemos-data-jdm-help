@@ -19,7 +19,7 @@ src="https://docs.joomla.org/images/thumb/b/bd/Help-4x-Components-Messaging-Inbo
 decoding="async"
 srcset="https://docs.joomla.org/images/b/bd/Help-4x-Components-Messaging-Inbox-screen-nl.png 1.5x"
 data-file-width="1142" data-file-height="737" width="800" height="516"
-alt="Help-4x-Components-Messaging-Inbox-screen-nl.png" />
+alt="Components Messaging Inbox screen" />
 
 ## Kolomkoppen
 

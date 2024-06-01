@@ -15,7 +15,7 @@ Om een nieuw *Uitlog'* menu-item aan te maken:
   - Klik op de Menu-itemtype selectie knop. <img
     src="https://docs.joomla.org/images/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png"
     decoding="async" data-file-width="124" data-file-height="43" width="124"
-    height="43" alt="Help-4x-Menu-Item-Type-Select-Button-nl.png" />
+    height="43" alt="Menu Item Type Select Button" />
   - Selecteer in de modale dialoog het 'Gebruikers' item om een lijst te
     openen en selecteer daarna het **Uitloggen** item.
 
@@ -30,7 +30,7 @@ src="https://docs.joomla.org/images/thumb/d/d3/Help-4x-Help-4x-Menus-Menu-Item-U
 decoding="async"
 srcset="https://docs.joomla.org/images/d/d3/Help-4x-Help-4x-Menus-Menu-Item-User-Logout-nl.png 1.5x"
 data-file-width="981" data-file-height="917" width="800" height="748"
-alt="Help-4x-Help-4x-Menus-Menu-Item-User-Logout-nl.png" />
+alt="Help 4x Menus Menu Item User Logout" />
 
 ## Formulier velden
 
@@ -112,7 +112,7 @@ alt="Help-4x-Help-4x-Menus-Menu-Item-User-Logout-nl.png" />
 src="https://docs.joomla.org/images/9/98/Help-4x-Menus-Menu-Item-User-Logout-options-screenshot-nl.png"
 decoding="async" data-file-width="570" data-file-height="245"
 width="570" height="245"
-alt="Help-4x-Menus-Menu-Item-User-Logout-options-screenshot-nl.png" />
+alt="Menus Menu Item User Logout options screenshot" />
 
 - **Pagina na uitloggen.** Selecteer, of maak de pagina aan, waarnaar de
   gebruiker doorverwezen wordt nadat de huidige sessie beëindigd is door

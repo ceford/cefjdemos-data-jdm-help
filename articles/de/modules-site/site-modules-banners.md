@@ -22,7 +22,7 @@ Component.
 src="https://docs.joomla.org/images/3/3f/Help-4x-modules-site-module-manager-module-banners-en.png"
 decoding="async" data-file-width="800" data-file-height="700"
 width="800" height="700"
-alt="Help-4x-modules-site-module-manager-module-banners-en.png" />
+alt="modules site module manager module banners" />
 
 ## Form Fields
 
@@ -82,7 +82,7 @@ in the Modules page
 src="https://docs.joomla.org/images/0/05/Help-4x-modules-manager-site-module-menu-assignment-tab-en.png"
 decoding="async" data-file-width="600" data-file-height="595"
 width="600" height="595"
-alt="Help-4x-modules-manager-site-module-menu-assignment-tab-en.png" />
+alt="modules manager site module menu assignment tab" />
 
 - **Module Assignment.** Select **On All Pages**, **No Pages**, **Only
   on the pages selected** or **On all pages except those selected** from
@@ -101,7 +101,7 @@ alt="Help-4x-modules-manager-site-module-menu-assignment-tab-en.png" />
 src="https://docs.joomla.org/images/4/4b/Help-4x-modules-manager-admin-module-site-advanced-options-en.png"
 decoding="async" data-file-width="600" data-file-height="422"
 width="600" height="422"
-alt="Help-4x-modules-manager-admin-module-site-advanced-options-en.png" />
+alt="modules manager admin module site advanced options" />
 
 - **Layout.** If you have defined one or more alternative layouts for a
   module either in the template or Joomla! Core, you can select the
@@ -137,7 +137,7 @@ alt="Help-4x-modules-manager-admin-module-site-advanced-options-en.png" />
 src="https://docs.joomla.org/images/d/d8/Help-4x-modules-manager-admin-module-administrator-permissions-en.png"
 decoding="async" data-file-width="600" data-file-height="374"
 width="600" height="374"
-alt="Help-4x-modules-manager-admin-module-administrator-permissions-en.png" />
+alt="modules manager admin module administrator permissions" />
 
 To change the permissions, do the following.
 

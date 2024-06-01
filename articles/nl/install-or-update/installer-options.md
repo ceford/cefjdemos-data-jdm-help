@@ -17,7 +17,7 @@ src="https://docs.joomla.org/images/thumb/b/b7/Help-4x-Components-Installer-Opti
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/b7/Help-4x-Components-Installer-Options-nl.png/1200px-Help-4x-Components-Installer-Options-nl.png 1.5x, https://docs.joomla.org/images/b/b7/Help-4x-Components-Installer-Options-nl.png 2x"
 data-file-width="1201" data-file-height="686" width="800" height="457"
-alt="Help-4x-Components-Installer-Options-nl.png" />
+alt="Components Installer Options" />
 
 ### Formulier velden
 
@@ -41,7 +41,7 @@ src="https://docs.joomla.org/images/thumb/f/fd/Help-4x-Components-Installer-Opti
 decoding="async"
 srcset="https://docs.joomla.org/images/f/fd/Help-4x-Components-Installer-Options-Permissions-nl.png 1.5x"
 data-file-width="860" data-file-height="734" width="800" height="683"
-alt="Help-4x-Components-Installer-Options-Permissions-nl.png" />
+alt="Components Installer Options Permissions" />
 
 
 Om de rechten van deze extensie te wijzigen moet u de volgende

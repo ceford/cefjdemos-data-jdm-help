@@ -19,7 +19,7 @@ maken:
     decoding="async"
     srcset="https://docs.joomla.org/images/thumb/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png/122px-Help-4x-Menu-Item-Type-Select-Button-nl.png 1.5x, https://docs.joomla.org/images/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png 2x"
     data-file-width="124" data-file-height="43" width="81" height="28"
-    alt="Help-4x-Menu-Item-Type-Select-Button-nl.png" />
+    alt="Menu Item Type Select Button" />
   - Selecteer in de modale dialoog het 'Gebruikers' item om een lijst te
     openen en selecteer daarna het **Aanvraag herinnering
     gebruikersnaam** item.
@@ -36,7 +36,7 @@ src="https://docs.joomla.org/images/thumb/e/e5/Help-4x-Menus-Menu-Item-User-Remi
 decoding="async"
 srcset="https://docs.joomla.org/images/e/e5/Help-4x-Menus-Menu-Item-User-Reminder-nl.png 1.5x"
 data-file-width="975" data-file-height="889" width="800" height="729"
-alt="Help-4x-Menus-Menu-Item-User-Reminder-nl.png" />
+alt="Menus Menu Item User Reminder" />
 
 ## Formulier velden
 
@@ -153,7 +153,7 @@ herinnering formulier: <img
 src="https://docs.joomla.org/images/5/5f/Help-4x-Menus-Menu-User-Reminder-front-end-screenshot-nl.png"
 decoding="async" data-file-width="577" data-file-height="149"
 width="600" height="155"
-alt="Help-4x-Menus-Menu-User-Reminder-front-end-screenshot-nl.png" />
+alt="Menus Menu User Reminder front end screenshot" />
 
 ## Verwante informatie
 

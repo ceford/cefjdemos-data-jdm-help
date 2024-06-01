@@ -28,7 +28,7 @@ src="https://docs.joomla.org/images/thumb/4/49/Help-4x-Components-Assocations-Ed
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/49/Help-4x-Components-Assocations-Edit-screen-es.png/1200px-Help-4x-Components-Assocations-Edit-screen-es.png 1.5x, https://docs.joomla.org/images/thumb/4/49/Help-4x-Components-Assocations-Edit-screen-es.png/1600px-Help-4x-Components-Assocations-Edit-screen-es.png 2x"
 data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Help-4x-Components-Assocations-Edit-screen-es.png" />
+alt="Components Assocations Edit screen" />
 
 The Multilingual Associations edit screen shows the item content in
 source and destination side by side. Each is a scrollable window with

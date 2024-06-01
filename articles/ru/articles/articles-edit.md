@@ -29,7 +29,7 @@ src="https://docs.joomla.org/images/thumb/8/84/Help-4x-content-article-manager-a
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/84/Help-4x-content-article-manager-add-new-article-en.png/1200px-Help-4x-content-article-manager-add-new-article-en.png 1.5x, https://docs.joomla.org/images/thumb/8/84/Help-4x-content-article-manager-add-new-article-en.png/1600px-Help-4x-content-article-manager-add-new-article-en.png 2x"
 data-file-width="2880" data-file-height="1584" width="800" height="440"
-alt="Help-4x-content-article-manager-add-new-article-en.png" />
+alt="content article manager add new article" />
 
 ## Form Fields
 
@@ -51,7 +51,7 @@ src="https://docs.joomla.org/images/thumb/7/7a/Help-4x-Article-Editor-buttons-ru
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/7a/Help-4x-Article-Editor-buttons-ru.png/900px-Help-4x-Article-Editor-buttons-ru.png 1.5x, https://docs.joomla.org/images/thumb/7/7a/Help-4x-Article-Editor-buttons-ru.png/1200px-Help-4x-Article-Editor-buttons-ru.png 2x"
 data-file-width="1966" data-file-height="758" width="600" height="231"
-alt="Help-4x-Article-Editor-buttons-ru.png" />
+alt="Article Editor buttons" />
 
 The CMS Content dropdown list provides for access to link to an Article,
 Contact, Field, Media, Menu, or Module.
@@ -100,7 +100,7 @@ src="https://docs.joomla.org/images/thumb/7/7a/Help-4x-screenshot-article-edit-i
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/7a/Help-4x-screenshot-article-edit-images-links-ru.png/900px-Help-4x-screenshot-article-edit-images-links-ru.png 1.5x, https://docs.joomla.org/images/thumb/7/7a/Help-4x-screenshot-article-edit-images-links-ru.png/1200px-Help-4x-screenshot-article-edit-images-links-ru.png 2x"
 data-file-width="2880" data-file-height="1244" width="600" height="259"
-alt="Help-4x-screenshot-article-edit-images-links-ru.png" />
+alt="screenshot article edit images links" />
 
 **Изображение вводного текста**
 
@@ -170,7 +170,7 @@ src="https://docs.joomla.org/images/thumb/c/c9/Help-4x-screenshot-article-edit-a
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/c9/Help-4x-screenshot-article-edit-article-options-ru.png/900px-Help-4x-screenshot-article-edit-article-options-ru.png 1.5x, https://docs.joomla.org/images/thumb/c/c9/Help-4x-screenshot-article-edit-article-options-ru.png/1200px-Help-4x-screenshot-article-edit-article-options-ru.png 2x"
 data-file-width="2880" data-file-height="1244" width="600" height="259"
-alt="Help-4x-screenshot-article-edit-article-options-ru.png" />
+alt="screenshot article edit article options" />
 
 **Макет**
 
@@ -247,7 +247,7 @@ src="https://docs.joomla.org/images/thumb/d/dc/Help-4x-Content-Article-Manager-E
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/d/dc/Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-ru.png/900px-Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/d/dc/Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-ru.png/1200px-Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-ru.png 2x"
 data-file-width="2880" data-file-height="730" width="600" height="152"
-alt="Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-ru.png" />
+alt="Content Article Manager Edit Fields options subscreen" />
 
 ### Публикация
 
@@ -262,7 +262,7 @@ src="https://docs.joomla.org/images/thumb/c/c4/Help-4x-Content-Article-Manager-E
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/c4/Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-ru.png/900px-Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/c/c4/Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-ru.png/1200px-Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-ru.png 2x"
 data-file-width="2880" data-file-height="1244" width="600" height="259"
-alt="Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-ru.png" />
+alt="Content Article Manager Edit publishing options subscreen" />
 
 **Публикация**
 
@@ -317,7 +317,7 @@ src="https://docs.joomla.org/images/thumb/5/5d/Help-4x-screenshot-article-edit-a
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/5d/Help-4x-screenshot-article-edit-associations-ru.png/900px-Help-4x-screenshot-article-edit-associations-ru.png 1.5x, https://docs.joomla.org/images/thumb/5/5d/Help-4x-screenshot-article-edit-associations-ru.png/1200px-Help-4x-screenshot-article-edit-associations-ru.png 2x"
 data-file-width="2880" data-file-height="1244" width="600" height="259"
-alt="Help-4x-screenshot-article-edit-associations-ru.png" />
+alt="screenshot article edit associations" />
 
 ### Форма
 
@@ -329,7 +329,7 @@ src="https://docs.joomla.org/images/thumb/0/07/Help-4x-screenshot-article-edit-c
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/0/07/Help-4x-screenshot-article-edit-configure-edit-screen-ru.png/900px-Help-4x-screenshot-article-edit-configure-edit-screen-ru.png 1.5x, https://docs.joomla.org/images/thumb/0/07/Help-4x-screenshot-article-edit-configure-edit-screen-ru.png/1200px-Help-4x-screenshot-article-edit-configure-edit-screen-ru.png 2x"
 data-file-width="2880" data-file-height="1140" width="600" height="238"
-alt="Help-4x-screenshot-article-edit-configure-edit-screen-ru.png" />
+alt="screenshot article edit configure edit screen" />
 
 - **Публикация**. If Hide, the Publishing Options tab
   will not show in the Backend. This means that Backend users will not
@@ -357,7 +357,7 @@ src="https://docs.joomla.org/images/thumb/7/7e/Help-4x-screenshot-article-edit-p
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/7e/Help-4x-screenshot-article-edit-permissions-ru.png/900px-Help-4x-screenshot-article-edit-permissions-ru.png 1.5x, https://docs.joomla.org/images/thumb/7/7e/Help-4x-screenshot-article-edit-permissions-ru.png/1200px-Help-4x-screenshot-article-edit-permissions-ru.png 2x"
 data-file-width="2880" data-file-height="1244" width="600" height="259"
-alt="Help-4x-screenshot-article-edit-permissions-ru.png" />
+alt="screenshot article edit permissions" />
 
 To change the permissions for this article, do the following.
 

@@ -21,7 +21,7 @@ src="https://docs.joomla.org/images/thumb/c/c3/Help-4x-Components-Associations-f
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/c3/Help-4x-Components-Associations-fr.png/1200px-Help-4x-Components-Associations-fr.png 1.5x, https://docs.joomla.org/images/thumb/c/c3/Help-4x-Components-Associations-fr.png/1600px-Help-4x-Components-Associations-fr.png 2x"
 data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Help-4x-Components-Associations-fr.png" />
+alt="Components Associations" />
 
 ## En-Têtes de colonne
 
@@ -95,7 +95,7 @@ src="https://docs.joomla.org/images/thumb/7/7a/Help-4x-Components-Associations-t
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/7a/Help-4x-Components-Associations-toolbar-subscreen-fr.png/1200px-Help-4x-Components-Associations-toolbar-subscreen-fr.png 1.5x, https://docs.joomla.org/images/thumb/7/7a/Help-4x-Components-Associations-toolbar-subscreen-fr.png/1600px-Help-4x-Components-Associations-toolbar-subscreen-fr.png 2x"
 data-file-width="2771" data-file-height="273" width="800" height="79"
-alt="Help-4x-Components-Associations-toolbar-subscreen-fr.png" />
+alt="Components Associations toolbar subscreen" />
 
 - **Delete All Associations**. Lets you delete all associations. After a
   question to confirm, all associations will be deleted.

@@ -27,7 +27,7 @@ src="https://docs.joomla.org/images/thumb/7/73/Help4x-Extensions-Manage-Install-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/73/Help4x-Extensions-Manage-Install-Languages-screen-nl.png/1200px-Help4x-Extensions-Manage-Install-Languages-screen-nl.png 1.5x, https://docs.joomla.org/images/7/73/Help4x-Extensions-Manage-Install-Languages-screen-nl.png 2x"
 data-file-width="1351" data-file-height="925" width="800" height="548"
-alt="Help4x-Extensions-Manage-Install-Languages-screen-nl.png" />
+alt="Help4x Extensions Manage Install Languages screen nl.png" />
 
 ## Werkbalk
 
@@ -48,7 +48,7 @@ src="https://docs.joomla.org/images/thumb/8/88/Help-4x-colheader-filter-field-nl
 decoding="async"
 srcset="https://docs.joomla.org/images/8/88/Help-4x-colheader-filter-field-nl.png 1.5x"
 data-file-width="848" data-file-height="61" width="600" height="43"
-alt="Help-4x-colheader-filter-field-nl.png" />
+alt="colheader filter field" />
 
 - **Zoeken op tekst.** Voer een deel van de zoekterm in en klik op het
   zoekicoon. Het zoeken kan een of meer velden omvatten. *Hover* (muis

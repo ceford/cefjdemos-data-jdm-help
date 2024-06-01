@@ -17,7 +17,7 @@ Erweiterungen der Joomla! Installation hinweg.
 src="https://docs.joomla.org/images/0/02/Help-4x-permissions-for-user-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="800"
 width="800" height="800"
-alt="Help-4x-permissions-for-user-screen-en.png" />
+alt="permissions for user screen" />
 
 ## Column Headers
 
@@ -100,7 +100,7 @@ At the bottom you will see the legend:
 <img
 src="https://docs.joomla.org/images/a/a5/Help31-Help-Permissions-Report-Legend-en.png"
 decoding="async" data-file-width="320" data-file-height="36" width="320"
-height="36" alt="Help31-Help-Permissions-Report-Legend-en.png" />
+height="36" alt="Help31 Help Permissions Report Legend en.png" />
 
 - **Not Allowed**. Action not allowed.
 - **Allowed**. Action allowed.

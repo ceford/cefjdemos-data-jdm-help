@@ -28,7 +28,7 @@ src="https://docs.joomla.org/images/thumb/8/85/Help-4x-Content-Article-screen-pt
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/85/Help-4x-Content-Article-screen-pt.png/1200px-Help-4x-Content-Article-screen-pt.png 1.5x, https://docs.joomla.org/images/thumb/8/85/Help-4x-Content-Article-screen-pt.png/1600px-Help-4x-Content-Article-screen-pt.png 2x"
 data-file-width="2814" data-file-height="1700" width="800" height="483"
-alt="Help-4x-Content-Article-screen-pt.png" />
+alt="Content Article screen" />
 
 ## Cabeçalhos de Coluna
 
@@ -155,7 +155,7 @@ src="https://docs.joomla.org/images/thumb/1/1a/Help-4x-batch-process-articles-pt
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/1/1a/Help-4x-batch-process-articles-pt.png/900px-Help-4x-batch-process-articles-pt.png 1.5x, https://docs.joomla.org/images/thumb/1/1a/Help-4x-batch-process-articles-pt.png/1200px-Help-4x-batch-process-articles-pt.png 2x"
 data-file-width="1598" data-file-height="736" width="600" height="276"
-alt="Help-4x-batch-process-articles-pt.png" />
+alt="batch process articles" />
 
 **How to Batch Process** a group of articles:
 

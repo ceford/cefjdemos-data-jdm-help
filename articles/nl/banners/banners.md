@@ -27,7 +27,7 @@ src="https://docs.joomla.org/images/thumb/e/e4/Help-4x-components-banner-manager
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/e4/Help-4x-components-banner-manager-banners-nl.png/1200px-Help-4x-components-banner-manager-banners-nl.png 1.5x, https://docs.joomla.org/images/e/e4/Help-4x-components-banner-manager-banners-nl.png 2x"
 data-file-width="1403" data-file-height="507" width="800" height="289"
-alt="Help-4x-components-banner-manager-banners-nl.png" />
+alt="components banner manager banners" />
 
 ## Kolomkoppen
 

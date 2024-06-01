@@ -15,7 +15,7 @@ Om een nieuw 'Speciale contactpersonen' menu-item te maken:
 - Klik op de Menu-itemtype selectie knop <img
   src="https://docs.joomla.org/images/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png"
   decoding="async" data-file-width="124" data-file-height="43" width="124"
-  height="43" alt="Help-4x-Menu-Item-Type-Select-Button-nl.png" />
+  height="43" alt="Menu Item Type Select Button" />
   - Selecteer in de modale dialoog het 'Contactpersonen' item om een
     lijst te openen en selecteer daarna het **Speciale contactpersonen**
     item.
@@ -31,7 +31,7 @@ src="https://docs.joomla.org/images/thumb/3/36/Help-4x-Menus-Menu-Item-Contact-F
 decoding="async"
 srcset="https://docs.joomla.org/images/3/36/Help-4x-Menus-Menu-Item-Contact-FeaturedContacts-screen-nl.png 1.5x"
 data-file-width="1094" data-file-height="872" width="800" height="638"
-alt="Help-4x-Menus-Menu-Item-Contact-FeaturedContacts-screen-nl.png" />
+alt="Menus Menu Item Contact FeaturedContacts screen" />
 
 ## Formulier velden
 
@@ -116,7 +116,7 @@ src="https://docs.joomla.org/images/thumb/3/36/Help-4x-Menus-Menu-Item-Contact-C
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/3/36/Help-4x-Menus-Menu-Item-Contact-Category-list-layout-options-parameters-nl.png/900px-Help-4x-Menus-Menu-Item-Contact-Category-list-layout-options-parameters-nl.png 1.5x, https://docs.joomla.org/images/3/36/Help-4x-Menus-Menu-Item-Contact-Category-list-layout-options-parameters-nl.png 2x"
 data-file-width="1113" data-file-height="465" width="600" height="251"
-alt="Help-4x-Menus-Menu-Item-Contact-Category-list-layout-options-parameters-nl.png" />
+alt="Menus Menu Item Contact Category list layout options parameters" />
 
 - **Weergave selectielijst.** (Gebruik algemeen/Toon/Verberg) Tonen of
   verbergen van de selectielijst waarmee de gebruiker het aantal weer te
@@ -127,7 +127,7 @@ alt="Help-4x-Menus-Menu-Item-Contact-Category-list-layout-options-parameters-nl.
 src="https://docs.joomla.org/images/1/1a/Help30-article-category-list-display-select-nl.png"
 decoding="async" data-file-width="700" data-file-height="334"
 width="700" height="334"
-alt="Help30-article-category-list-display-select-nl.png" />
+alt="Help30 article category list display select nl.png" />
 
 Indien er meer items zijn dan dit aantal kunnen de pagina
 navigatieknoppen (Start, Vorige, Volgende, Einde en paginanummers)
@@ -142,7 +142,7 @@ worden.
 <img
 src="https://docs.joomla.org/images/9/9e/Help30-article-category-list-table-headings-nl.png"
 decoding="async" data-file-width="736" data-file-height="33" width="736"
-height="33" alt="Help30-article-category-list-table-headings-nl.png" />
+height="33" alt="Help30 article category list table headings nl.png" />
 
 Indien ingesteld op *Toon* dan wordt deze kop getoond boven een lijst.
 Indien ingesteld op *Verberg* dan wordt de lijst zonder kop getoond.
@@ -213,7 +213,7 @@ De volgende opties zijn beschikbaar.
 
 <img src="https://docs.joomla.org/images/2/25/Help30-pagination-nl.png"
 decoding="async" data-file-width="251" data-file-height="61" width="251"
-height="61" alt="Help30-pagination-nl.png" />
+height="61" alt="Help30 pagination nl.png" />
 
 De volgende opties zijn beschikbaar.
 
@@ -237,7 +237,7 @@ src="https://docs.joomla.org/images/thumb/b/bf/Help-4x-Menus-Menu-Item-Contact-f
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/bf/Help-4x-Menus-Menu-Item-Contact-featured-contact-form-parameters-nl.png/900px-Help-4x-Menus-Menu-Item-Contact-featured-contact-form-parameters-nl.png 1.5x, https://docs.joomla.org/images/b/bf/Help-4x-Menus-Menu-Item-Contact-featured-contact-form-parameters-nl.png 2x"
 data-file-width="1110" data-file-height="405" width="600" height="219"
-alt="Help-4x-Menus-Menu-Item-Contact-featured-contact-form-parameters-nl.png" />
+alt="Menus Menu Item Contact featured contact form parameters" />
 
 **Algemene contact formuliervelden** zijn:
 
@@ -265,7 +265,7 @@ src="https://docs.joomla.org/images/thumb/f/f6/Help-4x-Menus-Menu-Item-Contact-C
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/f6/Help-4x-Menus-Menu-Item-Contact-Category-contact-mail-options-parameters-nl.png/900px-Help-4x-Menus-Menu-Item-Contact-Category-contact-mail-options-parameters-nl.png 1.5x, https://docs.joomla.org/images/f/f6/Help-4x-Menus-Menu-Item-Contact-Category-contact-mail-options-parameters-nl.png 2x"
 data-file-width="1110" data-file-height="297" width="600" height="161"
-alt="Help-4x-Menus-Menu-Item-Contact-Category-contact-mail-options-parameters-nl.png" />
+alt="Menus Menu Item Contact Category contact mail options parameters" />
 
 - **Toon contactformulier**. Geeft de *contactformulier* van de
   contactpersoon weer.

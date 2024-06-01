@@ -18,7 +18,7 @@ src="https://docs.joomla.org/images/thumb/a/ad/Help-4x-Extensions-Language-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/a/ad/Help-4x-Extensions-Language-Manager-Installed-screen-de.png 1.5x"
 data-file-width="1000" data-file-height="374" width="800" height="299"
-alt="Help-4x-Extensions-Language-Manager-Installed-screen-de.png" />
+alt="Extensions Language Manager Installed screen" />
 
 ## Spalten-Überschriften
 
@@ -103,7 +103,7 @@ Werkzeugleiste im oberen Bereich. Die Funktionen sind:
   standardmäßige Sternsymbol
   (<img src="https://docs.joomla.org/images/7/7e/Icon-16-default.png"
   decoding="async" data-file-width="30" data-file-height="20" width="30"
-  height="20" alt="Icon-16-default.png" />) wird in der Spalte Standard
+  height="20" alt="Icon 16 default.png" />) wird in der Spalte Standard
   angezeigt und weist darauf hin, dass dies nun das Standard-item ist.
 - **Sprache wechseln.** Nur auf dem Bildschirm "Administrator", ein
   Optionsfeld für eine Sprache selektieren und dann diese Schaltfläche

@@ -23,7 +23,7 @@ src="https://docs.joomla.org/images/thumb/8/85/Help-4x-component-actionlogs-opti
 decoding="async"
 srcset="https://docs.joomla.org/images/8/85/Help-4x-component-actionlogs-options-nl.png 1.5x"
 data-file-width="1190" data-file-height="616" width="800" height="414"
-alt="Help-4x-component-actionlogs-options-nl.png" />
+alt="component actionlogs options" />
 
 ### Formulier velden
 

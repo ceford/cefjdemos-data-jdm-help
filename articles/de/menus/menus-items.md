@@ -22,7 +22,7 @@ src="https://docs.joomla.org/images/thumb/1/18/Help-4x-menus-menu-manager-menu-i
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/1/18/Help-4x-menus-menu-manager-menu-items-de.png/1200px-Help-4x-menus-menu-manager-menu-items-de.png 1.5x, https://docs.joomla.org/images/1/18/Help-4x-menus-menu-manager-menu-items-de.png 2x"
 data-file-width="1426" data-file-height="1263" width="800" height="709"
-alt="Help-4x-menus-menu-manager-menu-items-de.png" />
+alt="menus menu manager menu items" />
 
 ## Spalten-Überschriften
 
@@ -137,7 +137,7 @@ src="https://docs.joomla.org/images/thumb/c/cb/Help-4x-colheader-batch-process-v
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/cb/Help-4x-colheader-batch-process-view-link-de.png/900px-Help-4x-colheader-batch-process-view-link-de.png 1.5x, https://docs.joomla.org/images/c/cb/Help-4x-colheader-batch-process-view-link-de.png 2x"
 data-file-width="1000" data-file-height="529" width="600" height="317"
-alt="Help-4x-colheader-batch-process-view-link-de.png" />
+alt="colheader batch process view link" />
 
 * bezieht sich auf den Seitennamen der Einträge.*
 

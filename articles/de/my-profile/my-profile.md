@@ -18,7 +18,7 @@ src="https://docs.joomla.org/images/thumb/c/ca/Help-4x-User-Menu-de.png/400px-He
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/ca/Help-4x-User-Menu-de.png/600px-Help-4x-User-Menu-de.png 1.5x, https://docs.joomla.org/images/c/ca/Help-4x-User-Menu-de.png 2x"
 data-file-width="717" data-file-height="327" width="400" height="182"
-alt="Help-4x-User-Menu-de.png" />
+alt="User Menu" />
 
 ## Bildschirmfoto
 
@@ -27,7 +27,7 @@ src="https://docs.joomla.org/images/thumb/9/91/Help-4x-my-profile-screenshot-de.
 decoding="async"
 srcset="https://docs.joomla.org/images/9/91/Help-4x-my-profile-screenshot-de.png 1.5x"
 data-file-width="1051" data-file-height="1222" width="800" height="930"
-alt="Help-4x-my-profile-screenshot-de.png" />
+alt="my profile screenshot" />
 
 ## Formular Felder
 
@@ -64,7 +64,7 @@ src="https://docs.joomla.org/images/thumb/3/3e/Help-4x-Site-My-Profile-basic-de.
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/3/3e/Help-4x-Site-My-Profile-basic-de.png/900px-Help-4x-Site-My-Profile-basic-de.png 1.5x, https://docs.joomla.org/images/3/3e/Help-4x-Site-My-Profile-basic-de.png 2x"
 data-file-width="1038" data-file-height="561" width="600" height="324"
-alt="Help-4x-Site-My-Profile-basic-de.png" />
+alt="Site My Profile basic" />
 
 - **Backend-Template-Stil.** (*Standard verwenden*/*Atum - Default*)
   Wahl des Template-Stils für das Administrator-Backend. Gilt nur für
@@ -91,7 +91,7 @@ alt="Help-4x-Site-My-Profile-basic-de.png" />
 src="https://docs.joomla.org/images/3/33/Help-4x-users-user-manager-super-user-accessibility-settings-en.png"
 decoding="async" data-file-width="600" data-file-height="192"
 width="600" height="192"
-alt="Help-4x-users-user-manager-super-user-accessibility-settings-en.png" />
+alt="users user manager super user accessibility settings" />
 
 - **Monochrome** Ja/Nein
 - **Hoher Kontrast.** Ja/Nein
@@ -105,7 +105,7 @@ src="https://docs.joomla.org/images/thumb/d/dc/Help-4x-Site-My-Profile-User-Acti
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/d/dc/Help-4x-Site-My-Profile-User-Actions-Log-Options-de.png/900px-Help-4x-Site-My-Profile-User-Actions-Log-Options-de.png 1.5x, https://docs.joomla.org/images/thumb/d/dc/Help-4x-Site-My-Profile-User-Actions-Log-Options-de.png/1200px-Help-4x-Site-My-Profile-User-Actions-Log-Options-de.png 2x"
 data-file-width="1393" data-file-height="452" width="600" height="195"
-alt="Help-4x-Site-My-Profile-User-Actions-Log-Options-de.png" />
+alt="Site My Profile User Actions Log Options" />
 
 - **Benachrichtung über Benutzeraktivitäten senden**. (*Ja/Nein*) Wenn
   diese Option auf *Ja* gesetzt ist, erhält der Benutzer per E-Mail eine

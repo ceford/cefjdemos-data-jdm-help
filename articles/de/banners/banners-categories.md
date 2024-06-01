@@ -18,7 +18,7 @@ Web Links. There must be at least one Banner Client and Banner Category
 src="https://docs.joomla.org/images/5/59/Help-4x-Components-Banners-Categories-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="328"
 width="800" height="328"
-alt="Help-4x-Components-Banners-Categories-screen-en.png" />
+alt="Components Banners Categories screen" />
 
 ## Column Headers
 
@@ -153,7 +153,7 @@ open a pop up window as shown below.
 src="https://docs.joomla.org/images/b/bf/Help-4x-colheader-batch-process-categories-en.png"
 decoding="async" data-file-width="600" data-file-height="364"
 width="600" height="364"
-alt="Help-4x-colheader-batch-process-categories-en.png" />
+alt="colheader batch process categories" />
 
 You can change one value or all three values at one time.
 

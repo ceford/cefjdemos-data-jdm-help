@@ -34,7 +34,7 @@ src="https://docs.joomla.org/images/thumb/9/91/Help-4x-Menus-Item-Articles-Artic
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/9/91/Help-4x-Menus-Item-Articles-Article-Archived-screen-nl.png/1200px-Help-4x-Menus-Item-Articles-Article-Archived-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/9/91/Help-4x-Menus-Item-Articles-Article-Archived-screen-nl.png/1600px-Help-4x-Menus-Item-Articles-Article-Archived-screen-nl.png 2x"
 data-file-width="2880" data-file-height="1260" width="800" height="350"
-alt="Help-4x-Menus-Item-Articles-Article-Archived-screen-nl.png" />
+alt="Menus Item Articles Article Archived screen" />
 
 ## Formulier velden
 
@@ -73,7 +73,7 @@ src="https://docs.joomla.org/images/thumb/a/a8/Help-4x-Menus-Item-Articles-Artic
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/a/a8/Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-nl.png/900px-Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/a/a8/Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-nl.png/1200px-Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-nl.png 2x"
 data-file-width="2880" data-file-height="1086" width="600" height="226"
-alt="Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-nl.png" />
+alt="Menus Item Articles Article Archived archive subscreen" />
 
 - **Volgorde artikelen**.
   - Oudste eerst: Artikelen worden getoond met de oudste als eerste en
@@ -117,7 +117,7 @@ src="https://docs.joomla.org/images/thumb/9/98/Help-4x-Menus-Item-Articles-Artic
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/9/98/Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-nl.png/900px-Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/9/98/Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-nl.png/1200px-Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-nl.png 2x"
 data-file-width="2880" data-file-height="1340" width="600" height="279"
-alt="Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-nl.png" />
+alt="Menus Item Articles Article Archived options subscreen" />
 
 **Weergave**
 

@@ -23,7 +23,7 @@ src="https://docs.joomla.org/images/thumb/7/79/Help-4x-modules-site-module-manag
 decoding="async"
 srcset="https://docs.joomla.org/images/7/79/Help-4x-modules-site-module-manager-module-articles-category-nl.png 1.5x"
 data-file-width="1188" data-file-height="1356" width="800" height="913"
-alt="Help-4x-modules-site-module-manager-module-articles-category-nl.png" />
+alt="modules site module manager module articles category" />
 
 ### Formulier velden
 
@@ -91,7 +91,7 @@ src="https://docs.joomla.org/images/thumb/c/cc/Help-4x-modules-manager-site-modu
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/cc/Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png/1200px-Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png 1.5x, https://docs.joomla.org/images/c/cc/Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png 2x"
 data-file-width="1267" data-file-height="725" width="800" height="458"
-alt="Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png" />
+alt="modules manager site module menu assignment tab" />
 
 - **Moduletoewijzing.** Selecteer **Op alle pagina's**, **Geen
   pagina's**, **Alleen op de geselecteerde pagina's** of **Op alle
@@ -112,7 +112,7 @@ src="https://docs.joomla.org/images/thumb/d/d4/Help-4x-modules-site-module-manag
 decoding="async"
 srcset="https://docs.joomla.org/images/d/d4/Help-4x-modules-site-module-manager-module-articles-category-filtering-options-nl.png 1.5x"
 data-file-width="1186" data-file-height="693" width="800" height="467"
-alt="Help-4x-modules-site-module-manager-module-articles-category-filtering-options-nl.png" />
+alt="modules site module manager module articles category filtering options" />
 
 - **Speciale artikelen:** (*Toon*/*Verberg*/*Alleen*). Selecteer om
   speciale artikelen te tonen, verbergen of alleen te tonen.
@@ -157,7 +157,7 @@ src="https://docs.joomla.org/images/thumb/c/c6/Help-4x-modules-site-module-manag
 decoding="async"
 srcset="https://docs.joomla.org/images/c/c6/Help-4x-modules-site-module-manager-module-articles-category-ordering-options-nl.png 1.5x"
 data-file-width="1140" data-file-height="435" width="800" height="305"
-alt="Help-4x-modules-site-module-manager-module-articles-category-ordering-options-nl.png" />
+alt="modules site module manager module articles category ordering options" />
 
 - **Artikelveld sortering:** (*Volgorde artikelen*/*Volgorde speciale
   artikelen*/*Hits*/*Titel*/*ID*/*Alias*/*Aanmaakdatum*/...). Selecteer
@@ -174,7 +174,7 @@ src="https://docs.joomla.org/images/thumb/a/af/Help-4x-modules-site-module-manag
 decoding="async"
 srcset="https://docs.joomla.org/images/a/af/Help-4x-modules-site-module-manager-module-articles-category-grouping-options-nl.png 1.5x"
 data-file-width="1151" data-file-height="348" width="800" height="242"
-alt="Help-4x-modules-site-module-manager-module-articles-category-grouping-options-nl.png" />
+alt="modules site module manager module articles category grouping options" />
 
 - **Groepering voor artikelen:** (*Geen*/*Jaar*/*Maand en
   Jaar*/*Auteur*/*Categorie*). Selecteer hoe u wilt dat artikelen
@@ -194,7 +194,7 @@ src="https://docs.joomla.org/images/thumb/a/a2/Help-4x-modules-site-module-manag
 decoding="async"
 srcset="https://docs.joomla.org/images/a/a2/Help-4x-modules-site-module-manager-module-articles-category-display-options-nl.png 1.5x"
 data-file-width="1141" data-file-height="441" width="800" height="309"
-alt="Help-4x-modules-site-module-manager-module-articles-category-display-options-nl.png" />
+alt="modules site module manager module articles category display options" />
 
 - **Gelinkte titels:** (*Ja*/*Nee*).
 - **Datum:** (*Toon*/*Verberg*). Selecteer 'Toon' als u de datum wilt
@@ -231,7 +231,7 @@ src="https://docs.joomla.org/images/thumb/c/c0/Help-4x-modules-site-module-manag
 decoding="async"
 srcset="https://docs.joomla.org/images/c/c0/Help-4x-modules-site-module-manager-module-articles-category-advanced-options-nl.png 1.5x"
 data-file-width="1124" data-file-height="486" width="800" height="346"
-alt="Help-4x-modules-site-module-manager-module-articles-category-advanced-options-nl.png" />
+alt="modules site module manager module articles category advanced options" />
 
 - **Weergave.** Als u één of meer alternatieve lay-outs voor een module
   heeft gedefinieerd of in het template of in Joomla! core, dan kunt u
@@ -272,7 +272,7 @@ src="https://docs.joomla.org/images/thumb/4/4f/Help-4x-modules-manager-admin-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/4/4f/Help-4x-modules-manager-admin-module-administrator-permissions-nl.png 1.5x"
 data-file-width="977" data-file-height="665" width="800" height="545"
-alt="Help-4x-modules-manager-admin-module-administrator-permissions-nl.png" />
+alt="modules manager admin module administrator permissions" />
 
 Doe, om de rechten te veranderen, het volgende.
 
@@ -323,7 +323,7 @@ module:
 src="https://docs.joomla.org/images/0/0f/Help-4x-module-manager-articles-category-frontend-screenshot-nl.png"
 decoding="async" data-file-width="278" data-file-height="303"
 width="278" height="303"
-alt="Help-4x-module-manager-articles-category-frontend-screenshot-nl.png" />
+alt="module manager articles category frontend screenshot" />
 
 De module type naam voor deze module is "mod_articles_category". Het is
 gerelateerd aan de inhoud component.

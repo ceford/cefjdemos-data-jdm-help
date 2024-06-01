@@ -15,7 +15,7 @@ Om een nieuw "Getagde items" menu-item aan te maken:
   - Klik op de Menu-itemtype selectie knop. <img
     src="https://docs.joomla.org/images/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png"
     decoding="async" data-file-width="124" data-file-height="43" width="124"
-    height="43" alt="Help-4x-Menu-Item-Type-Select-Button-nl.png" />
+    height="43" alt="Menu Item Type Select Button" />
   - Selecteer in de modale dialoog het 'Tags' item om een lijst te
     openen en selecteer daarna het **Getagde items** item.
 
@@ -30,7 +30,7 @@ src="https://docs.joomla.org/images/thumb/1/14/Help-4x-Menus-Menu-Item-Tags-Item
 decoding="async"
 srcset="https://docs.joomla.org/images/1/14/Help-4x-Menus-Menu-Item-Tags-Items-List-screen-nl.png 1.5x"
 data-file-width="1045" data-file-height="889" width="800" height="681"
-alt="Help-4x-Menus-Menu-Item-Tags-Items-List-screen-nl.png" />
+alt="Menus Menu Item Tags Items List screen" />
 
 ## Formulier velden
 
@@ -118,7 +118,7 @@ src="https://docs.joomla.org/images/thumb/c/cb/Help-4x-Menus-Menu-Item-Tags-Item
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/cb/Help-4x-Menus-Menu-Item-Tags-Items-Items-List-Tags-options-screenshot-nl.png/900px-Help-4x-Menus-Menu-Item-Tags-Items-Items-List-Tags-options-screenshot-nl.png 1.5x, https://docs.joomla.org/images/c/cb/Help-4x-Menus-Menu-Item-Tags-Items-Items-List-Tags-options-screenshot-nl.png 2x"
 data-file-width="1063" data-file-height="466" width="600" height="263"
-alt="Help-4x-Menus-Menu-Item-Tags-Items-Items-List-Tags-options-screenshot-nl.png" />
+alt="Menus Menu Item Tags Items Items List Tags options screenshot" />
 
 - **Tagnaam.** (Gebruik algemeen(Verberg)/Verberg/Toon). Voor een
   wergave met een tag, toon de tagnaam.
@@ -146,7 +146,7 @@ src="https://docs.joomla.org/images/thumb/f/f4/Help-4x-Menus-Menu-Item-Tags-Item
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/f4/Help-4x-Menus-Menu-Item-Tags-Items-Items-List-Item-options-screenshot-nl.png/900px-Help-4x-Menus-Menu-Item-Tags-Items-Items-List-Item-options-screenshot-nl.png 1.5x, https://docs.joomla.org/images/f/f4/Help-4x-Menus-Menu-Item-Tags-Items-Items-List-Item-options-screenshot-nl.png 2x"
 data-file-width="948" data-file-height="318" width="600" height="201"
-alt="Help-4x-Menus-Menu-Item-Tags-Items-Items-List-Item-options-screenshot-nl.png" />
+alt="Menus Menu Item Tags Items Items List Item options screenshot" />
 
 - **Itemafbeelding:** Toon de afbeelding van ieder item.
 - **Itembeschrijving:** Toon of verberg de beschrijving van ieder item
@@ -163,7 +163,7 @@ src="https://docs.joomla.org/images/thumb/7/7c/Help-4x-Menus-Menu-Item-Tags-Item
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/7c/Help-4x-Menus-Menu-Item-Tags-Items-Items-List-Pagination-options-screenshot-nl.png/900px-Help-4x-Menus-Menu-Item-Tags-Items-Items-List-Pagination-options-screenshot-nl.png 1.5x, https://docs.joomla.org/images/7/7c/Help-4x-Menus-Menu-Item-Tags-Items-Items-List-Pagination-options-screenshot-nl.png 2x"
 data-file-width="932" data-file-height="280" width="600" height="180"
-alt="Help-4x-Menus-Menu-Item-Tags-Items-Items-List-Pagination-options-screenshot-nl.png" />
+alt="Menus Menu Item Tags Items Items List Pagination options screenshot" />
 
 - **Weergave selectielijst.** (Gebruik algemeen/Toon/Verberg) Tonen of
   verbergen van de selectielijst waarmee de gebruiker het aantal weer te
@@ -174,7 +174,7 @@ alt="Help-4x-Menus-Menu-Item-Tags-Items-Items-List-Pagination-options-screenshot
 src="https://docs.joomla.org/images/1/1a/Help30-article-category-list-display-select-nl.png"
 decoding="async" data-file-width="700" data-file-height="334"
 width="700" height="334"
-alt="Help30-article-category-list-display-select-nl.png" />
+alt="Help30 article category list display select nl.png" />
 
 Indien er meer items zijn dan dit aantal kunnen de pagina
 navigatieknoppen (Start, Vorige, Volgende, Einde en paginanummers)
@@ -191,7 +191,7 @@ worden.
 
 <img src="https://docs.joomla.org/images/2/25/Help30-pagination-nl.png"
 decoding="async" data-file-width="251" data-file-height="61" width="251"
-height="61" alt="Help30-pagination-nl.png" />
+height="61" alt="Help30 pagination nl.png" />
 
 De volgende opties zijn beschikbaar.
 
@@ -213,7 +213,7 @@ src="https://docs.joomla.org/images/thumb/6/65/Help-4x-Menus-Menu-Item-Tags-Item
 decoding="async"
 srcset="https://docs.joomla.org/images/6/65/Help-4x-Menus-Menu-Item-Tags-Items-Items-List-Item-Selection-options-screenshot-nl.png 1.5x"
 data-file-width="601" data-file-height="288" width="600" height="288"
-alt="Help-4x-Menus-Menu-Item-Tags-Items-Items-List-Item-Selection-options-screenshot-nl.png" />
+alt="Menus Menu Item Tags Items Items List Item Selection options screenshot" />
 
 - **Overeenkomsttype:** Alle zal de items weergeven die alle tags
   hebben. Enkele zal de items weergeven die tenminste één van de tags
@@ -227,7 +227,7 @@ alt="Help-4x-Menus-Menu-Item-Tags-Items-Items-List-Item-Selection-options-screen
 src="https://docs.joomla.org/images/5/57/Help-4x-Menus-Menu-Item-Tags-Items-Items-List-Integration-options-screenshot-nl.png"
 decoding="async" data-file-width="585" data-file-height="226"
 width="600" height="232"
-alt="Help-4x-Menus-Menu-Item-Tags-Items-Items-List-Integration-options-screenshot-nl.png" />
+alt="Menus Menu Item Tags Items Items List Integration options screenshot" />
 
 - **Toon feedlink.** (Gebruik algemeen/Toon/Verberg) Toon of verberg een
   link naar een nieuwsfeed (RSS Feed). Indien tonen is ingesteld wordt
@@ -274,7 +274,7 @@ weergave: <img
 src="https://docs.joomla.org/images/6/6b/Help-4x-Menus-Menu-Tags-List-front-end-screenshot-nl.png"
 decoding="async" data-file-width="574" data-file-height="461"
 width="574" height="461"
-alt="Help-4x-Menus-Menu-Tags-List-front-end-screenshot-nl.png" />
+alt="Menus Menu Tags List front end screenshot" />
 
 ## Verwante informatie
 

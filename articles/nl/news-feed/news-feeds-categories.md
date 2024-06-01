@@ -17,7 +17,7 @@ src="https://docs.joomla.org/images/thumb/7/76/Help-4x-Components-Newsfeeds-Cate
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/76/Help-4x-Components-Newsfeeds-Categories-screen-nl.png/1200px-Help-4x-Components-Newsfeeds-Categories-screen-nl.png 1.5x, https://docs.joomla.org/images/7/76/Help-4x-Components-Newsfeeds-Categories-screen-nl.png 2x"
 data-file-width="1282" data-file-height="577" width="800" height="360"
-alt="Help-4x-Components-Newsfeeds-Categories-screen-nl.png" />
+alt="Components Newsfeeds Categories screen" />
 
 ## Kolomkoppen
 

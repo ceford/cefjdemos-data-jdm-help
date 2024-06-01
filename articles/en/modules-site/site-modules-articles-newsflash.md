@@ -22,7 +22,7 @@ Articles from a specific Category or a set of Categories.
 src="https://docs.joomla.org/images/4/48/Help-4x-modules-site-module-manager-module-articles-newsflash-en.png"
 decoding="async" data-file-width="800" data-file-height="813"
 width="800" height="813"
-alt="Help-4x-modules-site-module-manager-module-articles-newsflash-en.png" />
+alt="modules site module manager module articles newsflash" />
 
 ## Form Fields
 
@@ -89,7 +89,7 @@ in the Modules page
 src="https://docs.joomla.org/images/0/05/Help-4x-modules-manager-site-module-menu-assignment-tab-en.png"
 decoding="async" data-file-width="600" data-file-height="595"
 width="800" height="793"
-alt="Help-4x-modules-manager-site-module-menu-assignment-tab-en.png" />
+alt="modules manager site module menu assignment tab" />
 
 - **Module Assignment.** Select **On All Pages**, **No Pages**, **Only
   on the pages selected** or **On all pages except those selected** from
@@ -108,7 +108,7 @@ alt="Help-4x-modules-manager-site-module-menu-assignment-tab-en.png" />
 src="https://docs.joomla.org/images/6/63/Help-4x-modules-site-module-manager-module-articles-category-advanced-options-en.png"
 decoding="async" data-file-width="600" data-file-height="286"
 width="800" height="381"
-alt="Help-4x-modules-site-module-manager-module-articles-category-advanced-options-en.png" />
+alt="modules site module manager module articles category advanced options" />
 
 - **Layout.** If you have defined one or more alternative layouts for a
   module either in the template or Joomla! Core, you can select the
@@ -144,7 +144,7 @@ alt="Help-4x-modules-site-module-manager-module-articles-category-advanced-optio
 src="https://docs.joomla.org/images/d/d8/Help-4x-modules-manager-admin-module-administrator-permissions-en.png"
 decoding="async" data-file-width="600" data-file-height="374"
 width="800" height="499"
-alt="Help-4x-modules-manager-admin-module-administrator-permissions-en.png" />
+alt="modules manager admin module administrator permissions" />
 
 To change the permissions, do the following.
 
@@ -196,7 +196,7 @@ Articles Newsflash module shown:
 src="https://docs.joomla.org/images/8/82/Help-4x-module-manager-articles-newsflash-frontend-screenshot-en.png"
 decoding="async" data-file-width="270" data-file-height="260"
 width="270" height="260"
-alt="Help-4x-module-manager-articles-newsflash-frontend-screenshot-en.png" />
+alt="module manager articles newsflash frontend screenshot" />
 
 The Module Type name for this Module is "mod_articles_newsflash". It is
 related to the content component.

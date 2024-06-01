@@ -17,7 +17,7 @@ src="https://docs.joomla.org/images/thumb/9/96/Help-4x-Extensions-Extension-Mana
 decoding="async"
 srcset="https://docs.joomla.org/images/9/96/Help-4x-Extensions-Extension-Manager-InstallLanguages-screen-nl.png 1.5x"
 data-file-width="1142" data-file-height="538" width="800" height="377"
-alt="Help-4x-Extensions-Extension-Manager-InstallLanguages-screen-nl.png" />
+alt="Extensions Extension Manager InstallLanguages screen" />
 
 ## Kolomkoppen
 

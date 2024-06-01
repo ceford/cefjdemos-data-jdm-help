@@ -18,7 +18,7 @@ src="https://docs.joomla.org/images/thumb/1/1b/Help-4x-Components-Plugins-Option
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/1/1b/Help-4x-Components-Plugins-Options-de.png/1200px-Help-4x-Components-Plugins-Options-de.png 1.5x, https://docs.joomla.org/images/thumb/1/1b/Help-4x-Components-Plugins-Options-de.png/1600px-Help-4x-Components-Plugins-Options-de.png 2x"
 data-file-width="1626" data-file-height="1086" width="800" height="534"
-alt="Help-4x-Components-Plugins-Options-de.png" />
+alt="Components Plugins Options" />
 
 ## Formular Felder
 

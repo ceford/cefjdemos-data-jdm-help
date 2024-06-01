@@ -19,7 +19,7 @@ src="https://docs.joomla.org/images/thumb/0/0e/Help-4x-joomla-update-manager-scr
 decoding="async"
 srcset="https://docs.joomla.org/images/0/0e/Help-4x-joomla-update-manager-screen-default-nl.png 1.5x"
 data-file-width="1159" data-file-height="463" width="800" height="320"
-alt="Help-4x-joomla-update-manager-screen-default-nl.png" />
+alt="joomla update manager screen default" />
 
 U beschikt al over de nieuwste Joomla versie, u hoeft dus niets te doen.
 
@@ -60,7 +60,7 @@ src="https://docs.joomla.org/images/thumb/8/82/Help-4x-joomla-update-manager-scr
 decoding="async"
 srcset="https://docs.joomla.org/images/8/82/Help-4x-joomla-update-manager-screen-upload-nl.png 1.5x"
 data-file-width="1150" data-file-height="717" width="800" height="499"
-alt="Help-4x-joomla-update-manager-screen-upload-nl.png" />
+alt="joomla update manager screen upload" />
 
 U kunt deze functie om Joomla te updaten gebruiken als uw server achter
 een firewall zit of dat u anderszins geen contact met de updateservers

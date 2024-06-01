@@ -32,7 +32,7 @@ src="https://docs.joomla.org/images/thumb/3/3b/Help-4x-users-user-manager-add-ne
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/3/3b/Help-4x-users-user-manager-add-new-user-nl.png/1200px-Help-4x-users-user-manager-add-new-user-nl.png.jpeg 1.5x, https://docs.joomla.org/images/3/3b/Help-4x-users-user-manager-add-new-user-nl.png 2x"
 data-file-width="1299" data-file-height="1127" width="800" height="694"
-alt="Help-4x-users-user-manager-add-new-user-nl.png" />
+alt="users user manager add new user" />
 
 ### Formulier velden
 
@@ -70,7 +70,7 @@ src="https://docs.joomla.org/images/thumb/9/9a/Help-4x-users-user-manager-add-ne
 decoding="async"
 srcset="https://docs.joomla.org/images/9/9a/Help-4x-users-user-manager-add-new-user-assigned-user-groups-nl.png 1.5x"
 data-file-width="763" data-file-height="567" width="600" height="446"
-alt="Help-4x-users-user-manager-add-new-user-assigned-user-groups-nl.png" />
+alt="users user manager add new user assigned user groups" />
 
 ### Basisinstellingen
 
@@ -79,7 +79,7 @@ src="https://docs.joomla.org/images/thumb/2/29/Help-4x-users-user-manager-add-ne
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/29/Help-4x-users-user-manager-add-new-user-basic-settings-nl.png/900px-Help-4x-users-user-manager-add-new-user-basic-settings-nl.png.jpeg 1.5x, https://docs.joomla.org/images/2/29/Help-4x-users-user-manager-add-new-user-basic-settings-nl.png 2x"
 data-file-width="990" data-file-height="398" width="600" height="241"
-alt="Help-4x-users-user-manager-add-new-user-basic-settings-nl.png" />
+alt="users user manager add new user basic settings" />
 
 - **Template beheergedeelte**. (*Gebruik standaard*/*Hathor -
   Default*/*isis - Default*) Selecteer het template voor het
@@ -103,7 +103,7 @@ src="https://docs.joomla.org/images/thumb/7/7a/Help-4x-users-user-manager-super-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/7a/Help-4x-users-user-manager-super-user-accessibility-settings-nl.png/900px-Help-4x-users-user-manager-super-user-accessibility-settings-nl.png 1.5x, https://docs.joomla.org/images/7/7a/Help-4x-users-user-manager-super-user-accessibility-settings-nl.png 2x"
 data-file-width="949" data-file-height="350" width="600" height="221"
-alt="Help-4x-users-user-manager-super-user-accessibility-settings-nl.png" />
+alt="users user manager super user accessibility settings" />
 
 - **Monochroom**. Ja/Nee
 - **Hoog contrast**. Ja/Nee
@@ -117,7 +117,7 @@ src="https://docs.joomla.org/images/thumb/0/03/Help-4x-users-user-manager-super-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/0/03/Help-4x-users-user-manager-super-user-actionslog-settings-nl.png/900px-Help-4x-users-user-manager-super-user-actionslog-settings-nl.png.jpeg 1.5x, https://docs.joomla.org/images/0/03/Help-4x-users-user-manager-super-user-actionslog-settings-nl.png 2x"
 data-file-width="1051" data-file-height="516" width="600" height="295"
-alt="Help-4x-users-user-manager-super-user-actionslog-settings-nl.png" />
+alt="users user manager super user actionslog settings" />
 
 - **Stuur meldingen van gebruikersacties log**. (*Ja/Nee*) Indien op Ja,
   dan ontvangt de gebruiker gebruikersactie log berichten per e-mail

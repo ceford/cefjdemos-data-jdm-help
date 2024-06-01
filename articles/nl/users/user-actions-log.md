@@ -19,7 +19,7 @@ src="https://docs.joomla.org/images/thumb/c/c8/Help-4x-user-actions-log-nl.png/8
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/c8/Help-4x-user-actions-log-nl.png/1200px-Help-4x-user-actions-log-nl.png 1.5x, https://docs.joomla.org/images/c/c8/Help-4x-user-actions-log-nl.png 2x"
 data-file-width="1300" data-file-height="826" width="800" height="508"
-alt="Help-4x-user-actions-log-nl.png" />
+alt="user actions log" />
 
 ## Kolomkoppen
 

@@ -16,7 +16,7 @@ Konflikte in der Installation oder Abhängigkeitsfehler sein.
 src="https://docs.joomla.org/images/2/26/Help4x-Extensions-Extension-Manager-Warnings-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="301"
 width="800" height="301"
-alt="Help4x-Extensions-Extension-Manager-Warnings-screen-en.png" />
+alt="Help4x Extensions Extension Manager Warnings screen en.png" />
 
 ## Werkzeugleiste
 

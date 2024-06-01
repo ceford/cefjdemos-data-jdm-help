@@ -20,7 +20,7 @@ src="https://docs.joomla.org/images/thumb/8/86/Help-4x-Media-Options-screen-nl.p
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/86/Help-4x-Media-Options-screen-nl.png/1200px-Help-4x-Media-Options-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/8/86/Help-4x-Media-Options-screen-nl.png/1600px-Help-4x-Media-Options-screen-nl.png 2x"
 data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Help-4x-Media-Options-screen-nl.png" />
+alt="Media Options screen" />
 
 ## Formulier velden
 
@@ -72,7 +72,7 @@ src="https://docs.joomla.org/images/thumb/1/11/Help-4x-Media-Options-permissions
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/1/11/Help-4x-Media-Options-permissions-subscreen-nl.png/900px-Help-4x-Media-Options-permissions-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/1/11/Help-4x-Media-Options-permissions-subscreen-nl.png/1200px-Help-4x-Media-Options-permissions-subscreen-nl.png 2x"
 data-file-width="2002" data-file-height="1341" width="600" height="402"
-alt="Help-4x-Media-Options-permissions-subscreen-nl.png" />
+alt="Media Options permissions subscreen" />
 
 To change the permissions for media, do the following.
 

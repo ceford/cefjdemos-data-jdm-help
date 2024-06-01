@@ -19,7 +19,7 @@ l'utilisateur** :
     decoding="async"
     srcset="https://docs.joomla.org/images/thumb/0/0a/Help-4x-Menu-Item-Type-Select-Button-en.png/90px-Help-4x-Menu-Item-Type-Select-Button-en.png 1.5x, https://docs.joomla.org/images/0/0a/Help-4x-Menu-Item-Type-Select-Button-en.png 2x"
     data-file-width="96" data-file-height="45" width="60" height="28"
-    alt="Help-4x-Menu-Item-Type-Select-Button-en.png" />
+    alt="Menu Item Type Select Button" />
   - In the modal dialog select the Users item to open a list and then
     select the **Edit User Profile** item.
 
@@ -33,7 +33,7 @@ To edit an existing User Profile Edit menu item:
 src="https://docs.joomla.org/images/3/36/Help-4x-Menus-Menu-Item-User-Profile-Edit-en.png"
 decoding="async" data-file-width="800" data-file-height="812"
 width="800" height="812"
-alt="Help-4x-Menus-Menu-Item-User-Profile-Edit-en.png" />
+alt="Menus Menu Item User Profile Edit" />
 
 ## Form Fields
 
@@ -140,4 +140,4 @@ User Profile Edit shown:
 src="https://docs.joomla.org/images/5/53/Help-4x-Menus-Menu-User-Profile-Edit-front-end-screenshot-en.png"
 decoding="async" data-file-width="600" data-file-height="691"
 width="600" height="691"
-alt="Help-4x-Menus-Menu-User-Profile-Edit-front-end-screenshot-en.png" />
+alt="Menus Menu User Profile Edit front end screenshot" />

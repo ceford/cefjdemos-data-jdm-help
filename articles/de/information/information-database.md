@@ -27,7 +27,7 @@ the Fix button.
 src="https://docs.joomla.org/images/c/c0/Help-4x-extension_manager-database-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="368"
 width="800" height="368"
-alt="Help-4x-extension manager-database-screen-en.png" />
+alt="extension manager database screen" />
 
 ## Column Headers
 

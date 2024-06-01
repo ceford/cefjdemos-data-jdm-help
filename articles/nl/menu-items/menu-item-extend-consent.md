@@ -16,7 +16,7 @@ Om een nieuw "Breid toestemming uit" menu-item aan te maken:
   - Klik op de Menu-itemtype selectie knop. <img
     src="https://docs.joomla.org/images/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png"
     decoding="async" data-file-width="124" data-file-height="43" width="124"
-    height="43" alt="Help-4x-Menu-Item-Type-Select-Button-nl.png" />
+    height="43" alt="Menu Item Type Select Button" />
   - Selecteer in de modale dialoog het 'Privacy' item om een lijst te
     openen en selecteer daarna het **Breid toestemming uit** item.
 
@@ -31,7 +31,7 @@ src="https://docs.joomla.org/images/thumb/d/de/Help-4x-Menus-Menu-Item-Privacy-E
 decoding="async"
 srcset="https://docs.joomla.org/images/d/de/Help-4x-Menus-Menu-Item-Privacy-Extend-Consent-screen-nl.png 1.5x"
 data-file-width="977" data-file-height="888" width="800" height="727"
-alt="Help-4x-Menus-Menu-Item-Privacy-Extend-Consent-screen-nl.png" />
+alt="Menus Menu Item Privacy Extend Consent screen" />
 
 ## Formulier velden
 

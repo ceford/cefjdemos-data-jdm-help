@@ -19,7 +19,7 @@ src="https://docs.joomla.org/images/thumb/a/a0/Help-4x-Extensions-Manage-Manage-
 decoding="async"
 srcset="https://docs.joomla.org/images/a/a0/Help-4x-Extensions-Manage-Manage-screen-nl.png 1.5x"
 data-file-width="1200" data-file-height="809" width="800" height="539"
-alt="Help-4x-Extensions-Manage-Manage-screen-nl.png" />
+alt="Extensions Manage Manage screen" />
 
 ## Kolomkoppen
 

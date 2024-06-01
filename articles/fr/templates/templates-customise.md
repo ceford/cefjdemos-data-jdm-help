@@ -23,7 +23,7 @@ src="https://docs.joomla.org/images/thumb/5/54/Help-4x-Extensions-Template-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/5/54/Help-4x-Extensions-Template-Manager-Templates-Edit-screen-en.png 1.5x"
 data-file-width="1000" data-file-height="508" width="800" height="406"
-alt="Help-4x-Extensions-Template-Manager-Templates-Edit-screen-en.png" />
+alt="Extensions Template Manager Templates Edit screen" />
 
 ## Form Fields
 
@@ -80,7 +80,7 @@ src="https://docs.joomla.org/images/thumb/c/ca/Help-4x-Extensions-Template-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/c/ca/Help-4x-Extensions-Template-Manager-Templates-Edit-new-folder-dialog-en.png 1.5x"
 data-file-width="600" data-file-height="329" width="500" height="274"
-alt="Help-4x-Extensions-Template-Manager-Templates-Edit-new-folder-dialog-en.png" />
+alt="Extensions Template Manager Templates Edit new folder dialog" />
 
 - **New File.** Select to create a new file or to upload a file from
   your computer to your Joomla! template hierarchy. A popup window
@@ -91,7 +91,7 @@ src="https://docs.joomla.org/images/thumb/f/fe/Help-4x-Extensions-Template-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/f/fe/Help-4x-Extensions-Template-Manager-Templates-Edit-upload-file-dialog-en.png 1.5x"
 data-file-width="600" data-file-height="334" width="500" height="278"
-alt="Help-4x-Extensions-Template-Manager-Templates-Edit-upload-file-dialog-en.png" />
+alt="Extensions Template Manager Templates Edit upload file dialog" />
 
 - **Check Overrides.** Activated when an Override is selected in the
   **Overrides** tab. The options are:

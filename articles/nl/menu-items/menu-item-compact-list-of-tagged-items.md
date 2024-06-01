@@ -15,7 +15,7 @@ Om een nieuw 'Compacte lijst met getagde items' item-menu aan te maken:
   - Klik op de Menu-itemtype selectie knop. <img
     src="https://docs.joomla.org/images/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png"
     decoding="async" data-file-width="124" data-file-height="43" width="124"
-    height="43" alt="Help-4x-Menu-Item-Type-Select-Button-nl.png" />
+    height="43" alt="Menu Item Type Select Button" />
   - Selecteer in de modale dialoog het 'Tags' item om een lijst te
     openen en selecteer daarna het **Compacte lijst met getagde items**
     item.
@@ -31,7 +31,7 @@ src="https://docs.joomla.org/images/thumb/7/7c/Help-4x-Menus-Menu-Item-Tags-Item
 decoding="async"
 srcset="https://docs.joomla.org/images/7/7c/Help-4x-Menus-Menu-Item-Tags-Items-Compact-List-nl.png 1.5x"
 data-file-width="1048" data-file-height="886" width="800" height="676"
-alt="Help-4x-Menus-Menu-Item-Tags-Items-Compact-List-nl.png" />
+alt="Menus Menu Item Tags Items Compact List" />
 
 ## Formulier velden
 
@@ -119,7 +119,7 @@ src="https://docs.joomla.org/images/thumb/d/d0/Help-4x-Menus-Menu-Item-Tags-Item
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/d/d0/Help-4x-Menus-Menu-Item-Tags-Items-Items-Compact-List-Tags-options-screenshot-nl.png/900px-Help-4x-Menus-Menu-Item-Tags-Items-Items-Compact-List-Tags-options-screenshot-nl.png 1.5x, https://docs.joomla.org/images/d/d0/Help-4x-Menus-Menu-Item-Tags-Items-Items-Compact-List-Tags-options-screenshot-nl.png 2x"
 data-file-width="964" data-file-height="461" width="600" height="287"
-alt="Help-4x-Menus-Menu-Item-Tags-Items-Items-Compact-List-Tags-options-screenshot-nl.png" />
+alt="Menus Menu Item Tags Items Items Compact List Tags options screenshot" />
 
 - **Tagnaam.** (Gebruik algemeen(Verberg)/Verberg/Toon). Voor een
   wergave met een tag, toon de tagnaam.
@@ -147,7 +147,7 @@ src="https://docs.joomla.org/images/thumb/9/9b/Help-4x-Menus-Menu-Item-Tags-Item
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/9/9b/Help-4x-Menus-Menu-Item-Tags-Items-Items-Compact-List-ListLayout-options-screenshot-nl.png/900px-Help-4x-Menus-Menu-Item-Tags-Items-Items-Compact-List-ListLayout-options-screenshot-nl.png 1.5x, https://docs.joomla.org/images/9/9b/Help-4x-Menus-Menu-Item-Tags-Items-Items-Compact-List-ListLayout-options-screenshot-nl.png 2x"
 data-file-width="970" data-file-height="415" width="600" height="257"
-alt="Help-4x-Menus-Menu-Item-Tags-Items-Items-Compact-List-ListLayout-options-screenshot-nl.png" />
+alt="Menus Menu Item Tags Items Items Compact List ListLayout options screenshot" />
 
 - **Itemafbeelding.** (Gebruik algemeen/Verberg/Toon). Toon de
   afbeelding voor ieder item.
@@ -162,7 +162,7 @@ alt="Help-4x-Menus-Menu-Item-Tags-Items-Items-Compact-List-ListLayout-options-sc
   eruit ziet op de website wordt hieronder getoond. <img
   src="https://docs.joomla.org/images/f/f7/Help30-article-category-list-filter-field-nl.png"
   decoding="async" data-file-width="239" data-file-height="40" width="239"
-  height="40" alt="Help30-article-category-list-filter-field-nl.png" />
+  height="40" alt="Help30 article category list filter field nl.png" />
 
 De mogelijke opties hiervoor (in het beheergedeelte menu-item bewerken)
 staan hieronder.
@@ -171,7 +171,7 @@ staan hieronder.
 src="https://docs.joomla.org/images/a/a1/Help30-article-category-list-filter-field-options-nl.png"
 decoding="async" data-file-width="241" data-file-height="174"
 width="241" height="174"
-alt="Help30-article-category-list-filter-field-options-nl.png" />
+alt="Help30 article category list filter field options nl.png" />
 
 - *Gebruik algemeen:* Gebruik de waarde uit [Artikelen:
   Opties](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl").
@@ -189,7 +189,7 @@ alt="Help30-article-category-list-filter-field-options-nl.png" />
 src="https://docs.joomla.org/images/1/1a/Help30-article-category-list-display-select-nl.png"
 decoding="async" data-file-width="700" data-file-height="334"
 width="700" height="334"
-alt="Help30-article-category-list-display-select-nl.png" />
+alt="Help30 article category list display select nl.png" />
 
 Indien er meer items zijn dan dit aantal kunnen de pagina
 navigatieknoppen (Start, Vorige, Volgende, Einde en paginanummers)
@@ -208,7 +208,7 @@ worden.
 
 <img src="https://docs.joomla.org/images/2/25/Help30-pagination-nl.png"
 decoding="async" data-file-width="251" data-file-height="61" width="251"
-height="61" alt="Help30-pagination-nl.png" />
+height="61" alt="Help30 pagination nl.png" />
 
 De volgende opties zijn beschikbaar.
 
@@ -229,7 +229,7 @@ De volgende opties zijn beschikbaar.
 src="https://docs.joomla.org/images/b/b0/Help30-article-category-list-show-date-nl.png"
 decoding="async" data-file-width="225" data-file-height="159"
 width="225" height="159"
-alt="Help30-article-category-list-show-date-nl.png" />
+alt="Help30 article category list show date nl.png" />
 
 - *Gebruik algemeen:* Gebruik de waarde ingesteld bij
   [Artikelen→Opties](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl").
@@ -253,7 +253,7 @@ src="https://docs.joomla.org/images/thumb/b/b0/Help-4x-Menus-Menu-Item-Tags-Item
 decoding="async"
 srcset="https://docs.joomla.org/images/b/b0/Help-4x-Menus-Menu-Item-Tags-Items-Items-Compact-List-Item-Selection-options-screenshot-nl.png 1.5x"
 data-file-width="791" data-file-height="293" width="600" height="222"
-alt="Help-4x-Menus-Menu-Item-Tags-Items-Items-Compact-List-Item-Selection-options-screenshot-nl.png" />
+alt="Menus Menu Item Tags Items Items Compact List Item Selection options-screenshot" />
 
 - **Overeenkomsttype.** (Gebruik algemeen (Enkele), Alle, Enkele) Alle
   zal de items weergeven die alle tags hebben. Enkele zal de items
@@ -301,7 +301,7 @@ weergave: <img
 src="https://docs.joomla.org/images/5/51/Help-4x-Menus-Menu-Tags-Compact-List-front-end-screenshot-nl.png"
 decoding="async" data-file-width="578" data-file-height="436"
 width="578" height="436"
-alt="Help-4x-Menus-Menu-Tags-Compact-List-front-end-screenshot-nl.png" />
+alt="Menus Menu Tags Compact List front end screenshot" />
 
 ## Verwante informatie
 

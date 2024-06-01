@@ -25,7 +25,7 @@ src="https://docs.joomla.org/images/thumb/4/46/Help-4x-Media-screen-de.png/800px
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/46/Help-4x-Media-screen-de.png/1200px-Help-4x-Media-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/4/46/Help-4x-Media-screen-de.png/1600px-Help-4x-Media-screen-de.png 2x"
 data-file-width="2240" data-file-height="1400" width="800" height="500"
-alt="Help-4x-Media-screen-de.png" />
+alt="Media screen" />
 
 ## Bilderansicht
 

@@ -26,7 +26,7 @@ src="https://docs.joomla.org/images/thumb/1/1e/Help-4x-Users-Options-screen-nl.p
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/1/1e/Help-4x-Users-Options-screen-nl.png/1200px-Help-4x-Users-Options-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/1/1e/Help-4x-Users-Options-screen-nl.png/1600px-Help-4x-Users-Options-screen-nl.png 2x"
 data-file-width="2400" data-file-height="1500" width="800" height="500"
-alt="Help-4x-Users-Options-screen-nl.png" />
+alt="Users Options screen" />
 
 ## Formulier velden
 
@@ -85,7 +85,7 @@ src="https://docs.joomla.org/images/thumb/e/ec/Help-4x-Users-Options-email-domai
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/ec/Help-4x-Users-Options-email-domain-subscreen-nl.png/900px-Help-4x-Users-Options-email-domain-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/e/ec/Help-4x-Users-Options-email-domain-subscreen-nl.png/1200px-Help-4x-Users-Options-email-domain-subscreen-nl.png 2x"
 data-file-width="2002" data-file-height="1074" width="600" height="322"
-alt="Help-4x-Users-Options-email-domain-subscreen-nl.png" />
+alt="Users Options email domain subscreen" />
 
 - **Domeinnaam**. Voer een lijst met toegestane en niet toegestane
   e-mail domeinen in. Standaard zijn alle domeinen toegestaan.Wildcards
@@ -102,7 +102,7 @@ src="https://docs.joomla.org/images/thumb/c/c8/Help-4x-Users-Options-password-su
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/c8/Help-4x-Users-Options-password-subscreen-nl.png/900px-Help-4x-Users-Options-password-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/c/c8/Help-4x-Users-Options-password-subscreen-nl.png/1200px-Help-4x-Users-Options-password-subscreen-nl.png 2x"
 data-file-width="2002" data-file-height="1230" width="600" height="369"
-alt="Help-4x-Users-Options-password-subscreen-nl.png" />
+alt="Users Options password subscreen" />
 
 - **Maximum aantal keer herinstellen**. Het maximale aantal
   herinstellingen van het wachtwoord gedurende een bepaalde tijd. Nul
@@ -127,7 +127,7 @@ src="https://docs.joomla.org/images/thumb/f/f7/Help-4x-Users-Options-multi-facto
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/f7/Help-4x-Users-Options-multi-factor-authentication-subscreen-nl.png/900px-Help-4x-Users-Options-multi-factor-authentication-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/f/f7/Help-4x-Users-Options-multi-factor-authentication-subscreen-nl.png/1200px-Help-4x-Users-Options-multi-factor-authentication-subscreen-nl.png 2x"
 data-file-width="2002" data-file-height="1518" width="600" height="455"
-alt="Help-4x-Users-Options-multi-factor-authentication-subscreen-nl.png" />
+alt="Users Options multi factor authentication subscreen" />
 
 - **Toegestane website module posities**. Wanneer de website meervoudige
   authenticatie pagina wordt weergegeven, worden alle modules verborgen
@@ -186,7 +186,7 @@ src="https://docs.joomla.org/images/thumb/e/e3/Help-4x-Users-Options-user-notes-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/e3/Help-4x-Users-Options-user-notes-history-subscreen-nl.png/900px-Help-4x-Users-Options-user-notes-history-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/e/e3/Help-4x-Users-Options-user-notes-history-subscreen-nl.png/1200px-Help-4x-Users-Options-user-notes-history-subscreen-nl.png 2x"
 data-file-width="2002" data-file-height="565" width="600" height="169"
-alt="Help-4x-Users-Options-user-notes-history-subscreen-nl.png" />
+alt="Users Options user notes history subscreen" />
 
 - **Versies inschakelen**. Save version history for User Notes.
 - **Maximum aantal versies**.
@@ -202,7 +202,7 @@ src="https://docs.joomla.org/images/thumb/c/ce/Help-4x-Users-Options-mass-mail-u
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/ce/Help-4x-Users-Options-mass-mail-users-subscreen-nl.png/900px-Help-4x-Users-Options-mass-mail-users-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/c/ce/Help-4x-Users-Options-mass-mail-users-subscreen-nl.png/1200px-Help-4x-Users-Options-mass-mail-users-subscreen-nl.png 2x"
 data-file-width="2002" data-file-height="878" width="600" height="263"
-alt="Help-4x-Users-Options-mass-mail-users-subscreen-nl.png" />
+alt="Users Options mass mail users subscreen" />
 
 - **Voorvoegsel onderwerp**. Geef optionele tekst die automatisch
   ingevoegd moet worden voor het onderwerp van de groepsmail.
@@ -217,7 +217,7 @@ src="https://docs.joomla.org/images/thumb/7/77/Help-4x-Users-Options-integration
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/77/Help-4x-Users-Options-integration-subscreen-nl.png/900px-Help-4x-Users-Options-integration-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/7/77/Help-4x-Users-Options-integration-subscreen-nl.png/1200px-Help-4x-Users-Options-integration-subscreen-nl.png 2x"
 data-file-width="2002" data-file-height="593" width="600" height="178"
-alt="Help-4x-Users-Options-integration-subscreen-nl.png" />
+alt="Users Options integration subscreen" />
 
 - **Extra velden inschakelen**. Extra velden aanmaken inschakelen.
 
@@ -231,7 +231,7 @@ src="https://docs.joomla.org/images/thumb/0/08/Help-4x-Users-Options-permissions
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/0/08/Help-4x-Users-Options-permissions-subscreen-nl.png/900px-Help-4x-Users-Options-permissions-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/0/08/Help-4x-Users-Options-permissions-subscreen-nl.png/1200px-Help-4x-Users-Options-permissions-subscreen-nl.png 2x"
 data-file-width="2002" data-file-height="1498" width="600" height="449"
-alt="Help-4x-Users-Options-permissions-subscreen-nl.png" />
+alt="Users Options permissions subscreen" />
 
 To change the permissions for users, do the following.
 

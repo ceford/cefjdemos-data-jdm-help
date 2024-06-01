@@ -24,7 +24,7 @@ src="https://docs.joomla.org/images/thumb/e/e5/Help-4x-components-banner-manager
 decoding="async"
 srcset="https://docs.joomla.org/images/e/e5/Help-4x-components-banner-manager-clients-nl.png 1.5x"
 data-file-width="1173" data-file-height="495" width="800" height="338"
-alt="Help-4x-components-banner-manager-clients-nl.png" />
+alt="components banner manager clients" />
 
 ## Kolomkoppen
 
@@ -109,7 +109,7 @@ hierboven. De functies zijn:
 <img
 src="https://docs.joomla.org/images/6/68/Help35-colheader-select-type-nl.png"
 decoding="async" data-file-width="227" data-file-height="187"
-width="227" height="187" alt="Help35-colheader-select-type-nl.png" />
+width="227" height="187" alt="Help35 colheader select type nl.png" />
 
 - **Selecteer type.** Selecteer het aankooptype uit de drop-down lijst
   met beschikbare aankooptypes.

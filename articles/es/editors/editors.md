@@ -23,7 +23,7 @@ src="https://docs.joomla.org/images/thumb/5/52/Help-4x-editor-tinymce-simple-en.
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/52/Help-4x-editor-tinymce-simple-en.png/900px-Help-4x-editor-tinymce-simple-en.png 1.5x, https://docs.joomla.org/images/thumb/5/52/Help-4x-editor-tinymce-simple-en.png/1200px-Help-4x-editor-tinymce-simple-en.png 2x"
 data-file-width="1451" data-file-height="80" width="600" height="33"
-alt="Help-4x-editor-tinymce-simple-en.png" />
+alt="editor tinymce simple" />
 
 - Buttons allow you to make text: bold, underlined, or strikethrough.
 - Undo and Re-do.
@@ -44,7 +44,7 @@ src="https://docs.joomla.org/images/thumb/0/07/Help-4x-editor-tinymce-advanced-e
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/0/07/Help-4x-editor-tinymce-advanced-en.png/1200px-Help-4x-editor-tinymce-advanced-en.png 1.5x, https://docs.joomla.org/images/thumb/0/07/Help-4x-editor-tinymce-advanced-en.png/1600px-Help-4x-editor-tinymce-advanced-en.png 2x"
 data-file-width="1977" data-file-height="236" width="800" height="95"
-alt="Help-4x-editor-tinymce-advanced-en.png" />
+alt="editor tinymce advanced" />
 
 This option provides all of the same buttons as documented in the Set 2
 Toolbar above. In addition, the following options are available.
@@ -62,7 +62,7 @@ src="https://docs.joomla.org/images/thumb/5/52/Help-4x-article-quick-link-button
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/52/Help-4x-article-quick-link-button-en.png/900px-Help-4x-article-quick-link-button-en.png 1.5x, https://docs.joomla.org/images/thumb/5/52/Help-4x-article-quick-link-button-en.png/1200px-Help-4x-article-quick-link-button-en.png 2x"
 data-file-width="2304" data-file-height="1321" width="600" height="344"
-alt="Help-4x-article-quick-link-button-en.png" />
+alt="article quick link button" />
 
 To create a link to the desired article:
 
@@ -87,7 +87,7 @@ src="https://docs.joomla.org/images/thumb/6/66/Help-4x-editor-pagebreak-button-e
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/6/66/Help-4x-editor-pagebreak-button-en.png/900px-Help-4x-editor-pagebreak-button-en.png 1.5x, https://docs.joomla.org/images/thumb/6/66/Help-4x-editor-pagebreak-button-en.png/1200px-Help-4x-editor-pagebreak-button-en.png 2x"
 data-file-width="1542" data-file-height="862" width="600" height="335"
-alt="Help-4x-editor-pagebreak-button-en.png" />
+alt="editor pagebreak button" />
 
 - **Título**. Escribe el título de la nueva página (por ejemplo, 'Página
   2').
@@ -166,7 +166,7 @@ src="https://docs.joomla.org/images/thumb/6/6a/Help-4x-editor-tinymce-extended-e
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/6/6a/Help-4x-editor-tinymce-extended-en.png/1200px-Help-4x-editor-tinymce-extended-en.png 1.5x, https://docs.joomla.org/images/thumb/6/6a/Help-4x-editor-tinymce-extended-en.png/1600px-Help-4x-editor-tinymce-extended-en.png 2x"
 data-file-width="1977" data-file-height="393" width="800" height="159"
-alt="Help-4x-editor-tinymce-extended-en.png" />
+alt="editor tinymce extended" />
 
 This option provides all of the same buttons as documented in the Set 1
 Toolbar above. In addition, the following options are available.
@@ -252,7 +252,7 @@ src="https://docs.joomla.org/images/thumb/f/fa/Help-4x-screenshot-editor-codemir
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/fa/Help-4x-screenshot-editor-codemirror-example-en.png/1200px-Help-4x-screenshot-editor-codemirror-example-en.png 1.5x, https://docs.joomla.org/images/thumb/f/fa/Help-4x-screenshot-editor-codemirror-example-en.png/1600px-Help-4x-screenshot-editor-codemirror-example-en.png 2x"
 data-file-width="1977" data-file-height="905" width="800" height="366"
-alt="Help-4x-screenshot-editor-codemirror-example-en.png" />
+alt="screenshot editor codemirror example" />
 
 - Buttons shown below the edit window provides for access to link to any
   item of the site.

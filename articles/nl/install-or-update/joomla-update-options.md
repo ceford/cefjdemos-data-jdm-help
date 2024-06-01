@@ -18,7 +18,7 @@ src="https://docs.joomla.org/images/thumb/6/64/Help-4x-Components-Joomla-Update-
 decoding="async"
 srcset="https://docs.joomla.org/images/6/64/Help-4x-Components-Joomla-Update-Options-nl.png 1.5x"
 data-file-width="1200" data-file-height="722" width="800" height="481"
-alt="Help-4x-Components-Joomla-Update-Options-nl.png" />
+alt="Components Joomla Update Options" />
 
 ### Formulier velden
 

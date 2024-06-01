@@ -18,7 +18,7 @@ src="https://docs.joomla.org/images/thumb/1/1d/Help-4x-Components-Mail-Templates
 decoding="async"
 srcset="https://docs.joomla.org/images/1/1d/Help-4x-Components-Mail-Templates-Options-nl.png 1.5x"
 data-file-width="1006" data-file-height="441" width="800" height="351"
-alt="Help-4x-Components-Mail-Templates-Options-nl.png" />
+alt="Components Mail Templates Options" />
 
 ## Formulier velden
 

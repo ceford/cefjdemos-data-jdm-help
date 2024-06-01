@@ -26,7 +26,7 @@ src="https://docs.joomla.org/images/thumb/b/ba/Help-4x-Components-Redirect-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/ba/Help-4x-Components-Redirect-Manager-Edit-screen-nl.png/1200px-Help-4x-Components-Redirect-Manager-Edit-screen-nl.png 1.5x, https://docs.joomla.org/images/b/ba/Help-4x-Components-Redirect-Manager-Edit-screen-nl.png 2x"
 data-file-width="1296" data-file-height="778" width="800" height="480"
-alt="Help-4x-Components-Redirect-Manager-Edit-screen-nl.png" />
+alt="Components Redirect Manager Edit screen" />
 
 ### Formulier velden
 

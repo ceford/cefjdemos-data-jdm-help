@@ -18,7 +18,7 @@ src="https://docs.joomla.org/images/thumb/6/6c/Help-4x-Components-Contacts-Conta
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/6/6c/Help-4x-Components-Contacts-Contacts-options1-de.png/1200px-Help-4x-Components-Contacts-Contacts-options1-de.png 1.5x, https://docs.joomla.org/images/thumb/6/6c/Help-4x-Components-Contacts-Contacts-options1-de.png/1600px-Help-4x-Components-Contacts-Contacts-options1-de.png 2x"
 data-file-width="1655" data-file-height="2288" width="800" height="1106"
-alt="Help-4x-Components-Contacts-Contacts-options1-de.png" />
+alt="Components Contacts Contacts options1" />
 
 ## Formular Felder
 
@@ -93,7 +93,7 @@ werden für einen bestimmten Menüpunkt oder Kontakt geändert
 src="https://docs.joomla.org/images/c/c8/Help-4x-Component-Contact-Manager-Options-icons-options-subscreen-en.png"
 decoding="async" data-file-width="600" data-file-height="579"
 width="800" height="772"
-alt="Help-4x-Component-Contact-Manager-Options-icons-options-subscreen-en.png" />
+alt="Component Contact Manager Options icons options subscreen" />
 
 These settings apply for single Contact unless they are changed for a
 specific menu item or Contact
@@ -122,7 +122,7 @@ Category to view its contacts.
 src="https://docs.joomla.org/images/b/b9/Help-4x-Component-Contact-Manager-Options-category-options-subscreen-en.png"
 decoding="async" data-file-width="600" data-file-height="444"
 width="800" height="592"
-alt="Help-4x-Component-Contact-Manager-Options-category-options-subscreen-en.png" />
+alt="Component Contact Manager Options category options subscreen" />
 
 - **Choose a Layout.** (Blog/List/user defined). This lets you select
   the default layout to show when you click on a Category link. If you
@@ -153,7 +153,7 @@ changed for a specific menu item.
 src="https://docs.joomla.org/images/7/70/Help-4x-Component-Contact-Manager-Options-categories-options-subscreen-en.png"
 decoding="async" data-file-width="600" data-file-height="300"
 width="800" height="400"
-alt="Help-4x-Component-Contact-Manager-Options-categories-options-subscreen-en.png" />
+alt="Component Contact Manager Options categories options subscreen" />
 
 - **Top Level Category Description.** (Show/Hide). Hide or Show the
   description of the top-level category.
@@ -175,7 +175,7 @@ for a specific menu item.
 src="https://docs.joomla.org/images/1/13/Help-4x-Component-Contact-Manager-Options-list-options-subscreen-en.png"
 decoding="async" data-file-width="600" data-file-height="659"
 width="800" height="879"
-alt="Help-4x-Component-Contact-Manager-Options-list-options-subscreen-en.png" />
+alt="Component Contact Manager Options list options subscreen" />
 
 - **Filter Field.** The Filter Field creates a text field where a user
   can enter a field to be used to filter the articles shown in the list.
@@ -184,7 +184,7 @@ alt="Help-4x-Component-Contact-Manager-Options-list-options-subscreen-en.png" />
 <img
 src="https://docs.joomla.org/images/0/0b/Help-4x-article-category-list-filter-field-en.png"
 decoding="async" data-file-width="175" data-file-height="32" width="175"
-height="32" alt="Help30-article-category-list-filter-field-en.png" />
+height="32" alt="Help30 article category list filter field en.png" />
 
 The possible options for this (in the back-end menu item edit) are shown
 below.
@@ -201,7 +201,7 @@ below.
 src="https://docs.joomla.org/images/4/46/Help-4x-article-category-list-display-select-en.png"
 decoding="async" data-file-width="200" data-file-height="133"
 width="200" height="133"
-alt="Help-4x-article-category-list-display-select-en.png" />
+alt="article category list display select" />
 
 If there are more items than this number, you can use the page
 navigation buttons (Start, Prev, Next, End, and page numbers) to
@@ -216,7 +216,7 @@ headings, to limit which items display.
 src="https://docs.joomla.org/images/0/06/Help-4x-chunk-article-category-list-table-headings-en.png"
 decoding="async" data-file-width="600" data-file-height="57" width="600"
 height="57"
-alt="Help-4x-chunk-article-category-list-table-headings-en.png" />
+alt="chunk article category list table headings" />
 
 If set to *Show*, this heading will show about the list. Otherwise the
 list will show with no headings.
@@ -239,7 +239,7 @@ list will show with no headings.
 
 <img src="https://docs.joomla.org/images/8/81/Help30-pagination-en.png"
 decoding="async" data-file-width="299" data-file-height="29" width="299"
-height="29" alt="Help30-pagination-en.png" />
+height="29" alt="Help30 pagination en.png" />
 
 The following options are available.
 
@@ -262,7 +262,7 @@ specific menu item or Contact.
 src="https://docs.joomla.org/images/e/ed/Help-4x-Component-Contact-Manager-Options-form-options-subscreen-en.png"
 decoding="async" data-file-width="600" data-file-height="586"
 width="800" height="781"
-alt="Help-4x-Component-Contact-Manager-Options-form-options-subscreen-en.png" />
+alt="Component Contact Manager Options form options subscreen" />
 
 - **Allow Captcha on Contact.** Use Default or None Selected. Select the
   captcha plugin that will be used in the contact form. Captcha is the
@@ -294,7 +294,7 @@ other extensions.
 src="https://docs.joomla.org/images/5/56/Help-4x-Component-Contact-Manager-Options-integration-options-subscreen-en.png"
 decoding="async" data-file-width="600" data-file-height="359"
 width="800" height="479"
-alt="Help-4x-Component-Contact-Manager-Options-integration-options-subscreen-en.png" />
+alt="Component Contact Manager Options integration options subscreen" />
 
 - **Show Feed Links.** (Show or Hide) Show or hide the feed links URLs.
   A feed link will show up as a feed icon in the address bar of most
@@ -313,7 +313,7 @@ follows.
 src="https://docs.joomla.org/images/e/e2/Help-4x-Component-Contact-Manager-Options-permissions-options-subscreen-en.png"
 decoding="async" data-file-width="600" data-file-height="651"
 width="800" height="868"
-alt="Help-4x-Component-Contact-Manager-Options-permissions-options-subscreen-en.png" />
+alt="Component Contact Manager Options permissions options subscreen" />
 
 To change the permissions for this extension, do the following.
 

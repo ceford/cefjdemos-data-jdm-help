@@ -39,7 +39,7 @@ src="https://docs.joomla.org/images/thumb/4/4b/Help-4x-Menus-New-Item-screen-nl.
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/4b/Help-4x-Menus-New-Item-screen-nl.png/1200px-Help-4x-Menus-New-Item-screen-nl.png 1.5x, https://docs.joomla.org/images/4/4b/Help-4x-Menus-New-Item-screen-nl.png 2x"
 data-file-width="1440" data-file-height="1343" width="800" height="746"
-alt="Help-4x-Menus-New-Item-screen-nl.png" />
+alt="Menus New Item screen" />
 
 ## Formulier velden
 
@@ -103,7 +103,7 @@ src="https://docs.joomla.org/images/thumb/f/fc/Help-4x-Menus-New-Item-link-type-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/fc/Help-4x-Menus-New-Item-link-type-subscreen-nl.png/900px-Help-4x-Menus-New-Item-link-type-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/f/fc/Help-4x-Menus-New-Item-link-type-subscreen-nl.png/1200px-Help-4x-Menus-New-Item-link-type-subscreen-nl.png 2x"
 data-file-width="2880" data-file-height="1340" width="600" height="279"
-alt="Help-4x-Menus-New-Item-link-type-subscreen-nl.png" />
+alt="Menus New Item link type subscreen" />
 
 - **Titelattribuut van link**. Een optionele, aangepaste beschrijving
   van het titelattribuut voor de menu hyperlink.
@@ -127,7 +127,7 @@ src="https://docs.joomla.org/images/thumb/1/16/Help-4x-Menus-New-Item-page-displ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/1/16/Help-4x-Menus-New-Item-page-display-subscreen-nl.png/900px-Help-4x-Menus-New-Item-page-display-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/1/16/Help-4x-Menus-New-Item-page-display-subscreen-nl.png/1200px-Help-4x-Menus-New-Item-page-display-subscreen-nl.png 2x"
 data-file-width="2880" data-file-height="970" width="600" height="202"
-alt="Help-4x-Menus-New-Item-page-display-subscreen-nl.png" />
+alt="Menus New Item page display subscreen" />
 
 Merk op dat deze opties "**Gebruik algemeen**" bevatten. Als dit gekozen
 is, dan worden de instellingen van de [Menu's:
@@ -153,7 +153,7 @@ src="https://docs.joomla.org/images/thumb/c/c3/Help-4x-Menus-New-Item-metadata-s
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/c3/Help-4x-Menus-New-Item-metadata-subscreen-nl.png/900px-Help-4x-Menus-New-Item-metadata-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/c/c3/Help-4x-Menus-New-Item-metadata-subscreen-nl.png/1200px-Help-4x-Menus-New-Item-metadata-subscreen-nl.png 2x"
 data-file-width="2880" data-file-height="830" width="600" height="173"
-alt="Help-4x-Menus-New-Item-metadata-subscreen-nl.png" />
+alt="Menus New Item metadata subscreen" />
 
 - **Metabeschrijving**. Een optionele paragraaf die gebruikt wordt als
   beschrijving van de pagina.
@@ -167,7 +167,7 @@ src="https://docs.joomla.org/images/thumb/5/50/Help-4x-Menus-New-Item-associatio
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/50/Help-4x-Menus-New-Item-associations-subscreen-nl.png/900px-Help-4x-Menus-New-Item-associations-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/5/50/Help-4x-Menus-New-Item-associations-subscreen-nl.png/1200px-Help-4x-Menus-New-Item-associations-subscreen-nl.png 2x"
 data-file-width="2880" data-file-height="570" width="600" height="119"
-alt="Help-4x-Menus-New-Item-associations-subscreen-nl.png" />
+alt="Menus New Item associations subscreen" />
 
 Dit tabblad wordt alleen getoond op meertalige websites.
 
@@ -184,7 +184,7 @@ src="https://docs.joomla.org/images/thumb/8/84/Help-4x-Menus-New-Item-module-ass
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/84/Help-4x-Menus-New-Item-module-assignment-subscreen-nl.png/900px-Help-4x-Menus-New-Item-module-assignment-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/8/84/Help-4x-Menus-New-Item-module-assignment-subscreen-nl.png/1200px-Help-4x-Menus-New-Item-module-assignment-subscreen-nl.png 2x"
 data-file-width="2880" data-file-height="1340" width="600" height="279"
-alt="Help-4x-Menus-New-Item-module-assignment-subscreen-nl.png" />
+alt="Menus New Item module assignment subscreen" />
 
 - **Niet toegewezen modules**. Toon modules die niet toegewezen zijn aan
   dit menu.

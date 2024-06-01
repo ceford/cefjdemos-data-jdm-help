@@ -27,7 +27,7 @@ src="https://docs.joomla.org/images/thumb/f/f3/Help-4x-Menus-Item-Articles-Singl
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/f3/Help-4x-Menus-Item-Articles-Single-Article-screen-es.png/1200px-Help-4x-Menus-Item-Articles-Single-Article-screen-es.png 1.5x, https://docs.joomla.org/images/thumb/f/f3/Help-4x-Menus-Item-Articles-Single-Article-screen-es.png/1600px-Help-4x-Menus-Item-Articles-Single-Article-screen-es.png 2x"
 data-file-width="2880" data-file-height="1512" width="800" height="420"
-alt="Help-4x-Menus-Item-Articles-Single-Article-screen-es.png" />
+alt="Menus Item Articles Single Article screen" />
 
 ## Campos del formulario
 
@@ -71,7 +71,7 @@ src="https://docs.joomla.org/images/thumb/3/35/Help-4x-Menus-Item-Articles-Singl
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/3/35/Help-4x-Menus-Item-Articles-Single-Article-options-subscreen-es.png/900px-Help-4x-Menus-Item-Articles-Single-Article-options-subscreen-es.png 1.5x, https://docs.joomla.org/images/thumb/3/35/Help-4x-Menus-Item-Articles-Single-Article-options-subscreen-es.png/1200px-Help-4x-Menus-Item-Articles-Single-Article-options-subscreen-es.png 2x"
 data-file-width="2880" data-file-height="1340" width="600" height="279"
-alt="Help-4x-Menus-Item-Articles-Single-Article-options-subscreen-es.png" />
+alt="Menus Item Articles Single Article options subscreen" />
 
 Note: Options include "**Use Global**". If this is selected, the setting
 from the Articles: Options

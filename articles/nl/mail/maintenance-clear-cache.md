@@ -27,7 +27,7 @@ src="https://docs.joomla.org/images/thumb/3/32/Help-4x-System-Clear-Cache-screen
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/3/32/Help-4x-System-Clear-Cache-screen-nl.png/1200px-Help-4x-System-Clear-Cache-screen-nl.png 1.5x, https://docs.joomla.org/images/3/32/Help-4x-System-Clear-Cache-screen-nl.png 2x"
 data-file-width="1277" data-file-height="430" width="800" height="269"
-alt="Help-4x-System-Clear-Cache-screen-nl.png" />
+alt="System Clear Cache screen" />
 
 ## Kolomkoppen
 

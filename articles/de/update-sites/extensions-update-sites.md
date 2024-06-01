@@ -17,7 +17,7 @@ src="https://docs.joomla.org/images/thumb/b/bc/Help-4x-Extensions-Update-Sites-s
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/bc/Help-4x-Extensions-Update-Sites-screen-de.png/1200px-Help-4x-Extensions-Update-Sites-screen-de.png 1.5x, https://docs.joomla.org/images/b/bc/Help-4x-Extensions-Update-Sites-screen-de.png 2x"
 data-file-width="1308" data-file-height="596" width="800" height="365"
-alt="Help-4x-Extensions-Update-Sites-screen-de.png" />
+alt="Extensions Update Sites screen" />
 
 ## Spalten-Überschriften
 

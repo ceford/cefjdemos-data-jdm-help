@@ -29,7 +29,7 @@ src="https://docs.joomla.org/images/thumb/b/bc/Help-4x-Content-Categories-screen
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/bc/Help-4x-Content-Categories-screen-nl.png/1200px-Help-4x-Content-Categories-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/b/bc/Help-4x-Content-Categories-screen-nl.png/1600px-Help-4x-Content-Categories-screen-nl.png 2x"
 data-file-width="2880" data-file-height="1530" width="800" height="425"
-alt="Help-4x-Content-Categories-screen-nl.png" />
+alt="Content Categories screen" />
 
 ## Kolomkoppen
 
@@ -161,7 +161,7 @@ src="https://docs.joomla.org/images/thumb/8/80/Help-4x-Content-Categories-batch-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/80/Help-4x-Content-Categories-batch-nl.png/900px-Help-4x-Content-Categories-batch-nl.png 1.5x, https://docs.joomla.org/images/thumb/8/80/Help-4x-Content-Categories-batch-nl.png/1200px-Help-4x-Content-Categories-batch-nl.png 2x"
 data-file-width="1598" data-file-height="900" width="600" height="338"
-alt="Help-4x-Content-Categories-batch-nl.png" />
+alt="Content Categories batch" />
 
 **Hoe batchverwerking** voor een groep categorieën toepassen:
 

@@ -132,7 +132,7 @@ campo suspenso.
 src="https://docs.joomla.org/images/f/ff/Help-4x-colheader-batch-process-view-link-en.png"
 decoding="async" data-file-width="600" data-file-height="363"
 width="600" height="363"
-alt="Help-4x-colheader-batch-process-view-link-en.png" />
+alt="colheader batch process view link" />
 
 * refere-se ao nome da página dos itens.*
 

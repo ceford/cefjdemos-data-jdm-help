@@ -26,7 +26,7 @@ src="https://docs.joomla.org/images/thumb/8/82/Help-4x-Content-Featured-Articles
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/82/Help-4x-Content-Featured-Articles-screen-nl.png/1200px-Help-4x-Content-Featured-Articles-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/8/82/Help-4x-Content-Featured-Articles-screen-nl.png/1600px-Help-4x-Content-Featured-Articles-screen-nl.png 2x"
 data-file-width="2648" data-file-height="1600" width="800" height="483"
-alt="Help-4x-Content-Featured-Articles-screen-nl.png" />
+alt="Content Featured Articles screen" />
 
 ## Kolomkoppen
 

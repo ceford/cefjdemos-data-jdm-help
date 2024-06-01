@@ -22,7 +22,7 @@ src="https://docs.joomla.org/images/thumb/9/9e/Help-4x-modules-site-module-manag
 decoding="async"
 srcset="https://docs.joomla.org/images/9/9e/Help-4x-modules-site-module-manager-module-sample-data-module-nl.png 1.5x"
 data-file-width="1135" data-file-height="504" width="800" height="355"
-alt="Help-4x-modules-site-module-manager-module-sample-data-module-nl.png" />
+alt="modules site module manager module sample data module" />
 
 ### Formulier velden
 

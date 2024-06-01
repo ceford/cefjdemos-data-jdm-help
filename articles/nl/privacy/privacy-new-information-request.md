@@ -17,7 +17,7 @@ src="https://docs.joomla.org/images/thumb/3/3d/Help-4x-component-privacy-informa
 decoding="async"
 srcset="https://docs.joomla.org/images/3/3d/Help-4x-component-privacy-information-request-nl.png 1.5x"
 data-file-width="1139" data-file-height="437" width="800" height="307"
-alt="Help-4x-component-privacy-information-request-nl.png" />
+alt="component privacy information request" />
 
 ### Formulier velden
 

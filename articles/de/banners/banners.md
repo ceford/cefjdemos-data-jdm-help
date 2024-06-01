@@ -25,7 +25,7 @@ and one Banner Category **before** a Banner can be created.
 src="https://docs.joomla.org/images/4/49/Help-4x-components-banner-manager-banners-en.png"
 decoding="async" data-file-width="800" data-file-height="331"
 width="800" height="331"
-alt="Help-4x-components-banner-manager-banners-en.png" />
+alt="components banner manager banners" />
 
 ## Column Headers
 

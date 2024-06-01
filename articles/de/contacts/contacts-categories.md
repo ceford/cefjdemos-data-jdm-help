@@ -18,7 +18,7 @@ src="https://docs.joomla.org/images/thumb/8/82/Help-4x-Components-Contact-Catego
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/82/Help-4x-Components-Contact-Categories-screen-de.png/1200px-Help-4x-Components-Contact-Categories-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/8/82/Help-4x-Components-Contact-Categories-screen-de.png/1600px-Help-4x-Components-Contact-Categories-screen-de.png 2x"
 data-file-width="1719" data-file-height="557" width="800" height="259"
-alt="Help-4x-Components-Contact-Categories-screen-de.png" />
+alt="Components Contact Categories screen" />
 
 ## Spalten-Überschriften
 

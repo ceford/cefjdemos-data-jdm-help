@@ -16,7 +16,7 @@ aktueller Version werden angezeigt.
 src="https://docs.joomla.org/images/a/ac/Help-4x-Extensions-Extension-Manager-InstallLanguages-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="402"
 width="800" height="402"
-alt="Help-4x-Extensions-Extension-Manager-InstallLanguages-screen-en.png" />
+alt="Extensions Extension Manager InstallLanguages screen" />
 
 ## Column Headers
 

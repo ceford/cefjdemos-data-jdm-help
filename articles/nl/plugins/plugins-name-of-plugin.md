@@ -72,7 +72,7 @@ src="https://docs.joomla.org/images/thumb/e/e2/Help-4x-Extensions-Plugin-Manager
 decoding="async"
 srcset="https://docs.joomla.org/images/e/e2/Help-4x-Extensions-Plugin-Manager-Edit-screen-nl.png 1.5x"
 data-file-width="1144" data-file-height="684" width="800" height="478"
-alt="Help-4x-Extensions-Plugin-Manager-Edit-screen-nl.png" />
+alt="Extensions Plugin Manager Edit screen" />
 
 ### Formulier velden
 

@@ -23,7 +23,7 @@ src="https://docs.joomla.org/images/thumb/9/99/Help-4x-Users-screen-es.png/800px
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/9/99/Help-4x-Users-screen-es.png/1200px-Help-4x-Users-screen-es.png 1.5x, https://docs.joomla.org/images/thumb/9/99/Help-4x-Users-screen-es.png/1600px-Help-4x-Users-screen-es.png 2x"
 data-file-width="2618" data-file-height="1500" width="800" height="458"
-alt="Help-4x-Users-screen-es.png" />
+alt="Users screen" />
 
 ## Encabezados de columna
 
@@ -131,7 +131,7 @@ src="https://docs.joomla.org/images/thumb/e/e2/Help-4x-Users-batch-subscreen-es.
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/e2/Help-4x-Users-batch-subscreen-es.png/900px-Help-4x-Users-batch-subscreen-es.png 1.5x, https://docs.joomla.org/images/thumb/e/e2/Help-4x-Users-batch-subscreen-es.png/1200px-Help-4x-Users-batch-subscreen-es.png 2x"
 data-file-width="1598" data-file-height="717" width="600" height="269"
-alt="Help-4x-Users-batch-subscreen-es.png" />
+alt="Users batch subscreen" />
 
 **How to Batch Process** a group of users:
 

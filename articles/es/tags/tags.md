@@ -14,7 +14,7 @@ Select **Components → Tags** from the Administrator menu.
 src="https://docs.joomla.org/images/8/82/Help-4x-Components-Tags-Manager-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="332"
 width="800" height="332"
-alt="Help-4x-Components-Tags-Manager-screen-en.png" />
+alt="Components Tags Manager screen" />
 
 ## Column Headers
 
@@ -25,7 +25,7 @@ the list by that column's value.
 <img
 src="https://docs.joomla.org/images/2/2c/Help31-Tags-Manager-columns-en.png"
 decoding="async" data-file-width="1363" data-file-height="34"
-width="1363" height="34" alt="Help31-Tags-Manager-columns-en.png" />
+width="1363" height="34" alt="Help31 Tags Manager columns en.png" />
 
 - **Checkbox**. Check this box to select one or more items. To select
   all items, check the box in the column heading. After one or more
@@ -117,7 +117,7 @@ defined.
 src="https://docs.joomla.org/images/8/89/Help30-colheader-select-tag-type-en.png"
 decoding="async" data-file-width="228" data-file-height="115"
 width="228" height="115"
-alt="Help30-colheader-select-tag-type-en.png" />
+alt="Help30 colheader select tag type en.png" />
 
 ### Automatic Pagination
 

@@ -21,7 +21,7 @@ Erstellen eines neuen Menüpunkts **Template-Optionen anzeigen**:
     decoding="async"
     srcset="https://docs.joomla.org/images/thumb/1/1e/Help-4x-Menu-Item-Type-Select-Button-de.png/113px-Help-4x-Menu-Item-Type-Select-Button-de.png 1.5x, https://docs.joomla.org/images/1/1e/Help-4x-Menu-Item-Type-Select-Button-de.png 2x"
     data-file-width="145" data-file-height="49" width="74" height="25"
-    alt="Help-4x-Menu-Item-Type-Select-Button-de.png" />
+    alt="Menu Item Type Select Button" />
   - Im modalen Dialog den Punkt Konfiguration auswählen, um eine Liste
     zu öffnen, und dann den Punkt **Template-Optionen anzeigen**
     auswählen.
@@ -37,7 +37,7 @@ src="https://docs.joomla.org/images/thumb/f/f4/Help-4x-Menus-Menu-Display_Templa
 decoding="async"
 srcset="https://docs.joomla.org/images/f/f4/Help-4x-Menus-Menu-Display_Template_Options-screen-de.png 1.5x"
 data-file-width="1106" data-file-height="1175" width="800" height="850"
-alt="Help-4x-Menus-Menu-Display Template Options-screen-de.png" />
+alt="Menus Menu Display Template Options screen" />
 
 ## Formular Felder
 
@@ -156,7 +156,7 @@ Werkzeugleiste im oberen Bereich. Die Funktionen sind:
 src="https://docs.joomla.org/images/8/8b/Help-4x-Menus-Menu-Display_Template_Options-front-end-screenshot-en.png"
 decoding="async" data-file-width="600" data-file-height="646"
 width="600" height="646"
-alt="Help-4x-Menus-Menu-Display Template Options-front-end-screenshot-en.png" />
+alt="Menus Menu Display Template Options front end screenshot" />
 
 ## Zugehörige Informationen
 

@@ -20,7 +20,7 @@ src="https://docs.joomla.org/images/thumb/9/9c/Help-4x-Component-Newsfeed-Manage
 decoding="async"
 srcset="https://docs.joomla.org/images/9/9c/Help-4x-Component-Newsfeed-Manager-Options-screenshot-nl.png 1.5x"
 data-file-width="1165" data-file-height="848" width="800" height="582"
-alt="Help-4x-Component-Newsfeed-Manager-Options-screenshot-nl.png" />
+alt="Component Newsfeed Manager Options screenshot" />
 
 ### Formulier velden
 
@@ -67,7 +67,7 @@ categorie feeds bekijkt.
 src="https://docs.joomla.org/images/9/91/Help-4x-Component-Newsfeed-Manager-Options-category-options-subscreen-nl.png"
 decoding="async" data-file-width="706" data-file-height="611"
 width="706" height="611"
-alt="Help-4x-Component-Newsfeed-Manager-Options-category-options-subscreen-nl.png" />
+alt="Component Newsfeed Manager Options category options subscreen" />
 
 - **Kies een weergave.** (Blog/List/van component). Laat u de standaard
   weergave selecteren die getoond wordt als u op een categorie link
@@ -101,7 +101,7 @@ behalve als ze veranderd worden in een bepaald menu-item.
 src="https://docs.joomla.org/images/6/61/Help-4x-Component-Newsfeed-Manager-Options-categories-options-subscreen-nl.png"
 decoding="async" data-file-width="703" data-file-height="460"
 width="703" height="460"
-alt="Help-4x-Component-Newsfeed-Manager-Options-categories-options-subscreen-nl.png" />
+alt="Component Newsfeed Manager Options categories options subscreen" />
 
 - **Hoofdniveau categoriebeschrijving.** (Toon/Verberg). Toon of verberg
   de beschrijving van de hoofdcategorie.
@@ -123,7 +123,7 @@ veranderd worden in een bepaald menu-item.
 src="https://docs.joomla.org/images/7/76/Help-4x-Component-Newsfeed-Manager-Options-list-options-subscreen-nl.png"
 decoding="async" data-file-width="703" data-file-height="521"
 width="703" height="521"
-alt="Help-4x-Component-Newsfeed-Manager-Options-list-options-subscreen-nl.png" />
+alt="Component Newsfeed Manager Options list options subscreen" />
 
 - **Filterveld.** Het Filterveld maakt een tekstveld aan waar een
   gebruiker een veld kan opgeven dat gebruikt moet worden om de
@@ -133,7 +133,7 @@ alt="Help-4x-Component-Newsfeed-Manager-Options-list-options-subscreen-nl.png" /
 <img
 src="https://docs.joomla.org/images/d/d8/Help-4x-article-category-list-filter-field-nl.png"
 decoding="async" data-file-width="265" data-file-height="53" width="265"
-height="53" alt="Help-4x-article-category-list-filter-field-nl.png" />
+height="53" alt="article category list filter field" />
 
 De mogelijke opties hiervoor (in het beheergedeelte menu-item bewerken)
 staan hieronder.
@@ -151,7 +151,7 @@ staan hieronder.
 src="https://docs.joomla.org/images/9/9d/Help-4x-article-category-list-display-select-nl.png"
 decoding="async" data-file-width="81" data-file-height="215" width="81"
 height="215"
-alt="Help-4x-article-category-list-display-select-nl.png" />
+alt="article category list display select" />
 
 Indien er meer items zijn dan dit aantal kunnen de pagina
 navigatieknoppen (Start, Vorige, Volgende, Einde en paginanummers)
@@ -167,7 +167,7 @@ worden.
 src="https://docs.joomla.org/images/1/13/Help-4x-chunk-article-category-list-table-headings-nl.png"
 decoding="async" data-file-width="881" data-file-height="150"
 width="881" height="150"
-alt="Help-4x-chunk-article-category-list-table-headings-nl.png" />
+alt="chunk article category list table headings" />
 
 Indien ingesteld op *Toon* dan wordt deze kop getoond boven een lijst.
 Anders wordt de lijst zonder kop getoond.
@@ -183,7 +183,7 @@ Anders wordt de lijst zonder kop getoond.
 
 <img src="https://docs.joomla.org/images/8/81/Help30-pagination-en.png"
 decoding="async" data-file-width="299" data-file-height="29" width="299"
-height="29" alt="Help30-pagination-en.png" />
+height="29" alt="Help30 pagination en.png" />
 
 The following options are available.
 
@@ -204,7 +204,7 @@ Deze opties bepalen de weergave van de nieuwsfeeds.
 src="https://docs.joomla.org/images/e/e0/Help-4x-Component-Newsfeed-Manager-Options-integration-options-subscreen-nl.png"
 decoding="async" data-file-width="697" data-file-height="267"
 width="697" height="267"
-alt="Help-4x-Component-Newsfeed-Manager-Options-integration-options-subscreen-nl.png" />
+alt="Component Newsfeed Manager Options integration options subscreen" />
 
 - **Verwijder ID's uit URL's.** (Ja of Nee) Of al dan niet de
   database-ID van een artikel in een link moet worden getoond.
@@ -218,7 +218,7 @@ zichtbaar.
 src="https://docs.joomla.org/images/1/10/Help-4x-Component-Newsfeed-Manager-Options-permissions-options-subscreen-nl.png"
 decoding="async" data-file-width="703" data-file-height="717"
 width="703" height="717"
-alt="Help-4x-Component-Newsfeed-Manager-Options-permissions-options-subscreen-nl.png" />
+alt="Component Newsfeed Manager Options permissions options subscreen" />
 
 Om de rechten van deze extensie te wijzigen moet u de volgende
 handelingen uitvoeren.

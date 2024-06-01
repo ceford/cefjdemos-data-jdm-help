@@ -21,7 +21,7 @@ src="https://docs.joomla.org/images/thumb/8/86/Help-4x-Components-Messaging-Writ
 decoding="async"
 srcset="https://docs.joomla.org/images/8/86/Help-4x-Components-Messaging-Write-screen-nl.png 1.5x"
 data-file-width="1070" data-file-height="894" width="800" height="668"
-alt="Help-4x-Components-Messaging-Write-screen-nl.png" />
+alt="Components Messaging Write screen" />
 
 ## Gegevens
 

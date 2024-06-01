@@ -36,7 +36,7 @@ src="https://docs.joomla.org/images/thumb/f/f9/Help-4x-Components-Version-Histor
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/f9/Help-4x-Components-Version-History-screen-de.png/900px-Help-4x-Components-Version-History-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/f/f9/Help-4x-Components-Version-History-screen-de.png/1200px-Help-4x-Components-Version-History-screen-de.png 2x"
 data-file-width="1668" data-file-height="977" width="600" height="351"
-alt="Help-4x-Components-Version-History-screen-de.png" />
+alt="Components Version History screen" />
 
 ## Spalten-Überschriften
 
@@ -89,7 +89,7 @@ Bereich.
   decoding="async"
   srcset="https://docs.joomla.org/images/thumb/e/e8/Help-4x-Version-History-Help-preview-de.png/900px-Help-4x-Version-History-Help-preview-de.png 1.5x, https://docs.joomla.org/images/thumb/e/e8/Help-4x-Version-History-Help-preview-de.png/1200px-Help-4x-Version-History-Help-preview-de.png 2x"
   data-file-width="1602" data-file-height="1203" width="600" height="451"
-  alt="Help-4x-Version-History-Help-preview-de.png" /> Zum Beenden der
+  alt="Version History Help preview" /> Zum Beenden der
   Vorschau das Browserfenster schließen.
 - **Vergleichen**. Um zwei Versionen auf Veränderungen zu prüfen das
   Kontrollkästchen jeder Version markieren, danach den
@@ -99,7 +99,7 @@ Bereich.
   decoding="async"
   srcset="https://docs.joomla.org/images/thumb/4/46/Help-4x-Version-History-Help-compare-de.png/900px-Help-4x-Version-History-Help-compare-de.png 1.5x, https://docs.joomla.org/images/thumb/4/46/Help-4x-Version-History-Help-compare-de.png/1200px-Help-4x-Version-History-Help-compare-de.png 2x"
   data-file-width="2002" data-file-height="1203" width="600" height="361"
-  alt="Help-4x-Version-History-Help-compare-de.png" /> Die erste Spalte
+  alt="Version History Help compare" /> Die erste Spalte
   zeigt den Feldnamen, die zweite die alte Version, die dritte die neue
   Version, die letzte Spalte zeigt die Veränderungen zwischen beiden
   Versionen.

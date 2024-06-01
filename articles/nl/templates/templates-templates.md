@@ -21,7 +21,7 @@ src="https://docs.joomla.org/images/thumb/9/92/Help-4x-Extensions-Template-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/9/92/Help-4x-Extensions-Template-Manager-Templates-screen-nl.png 1.5x"
 data-file-width="1137" data-file-height="412" width="800" height="290"
-alt="Help-4x-Extensions-Template-Manager-Templates-screen-nl.png" />
+alt="Extensions Template Manager Templates screen" />
 
 ## Kolomkoppen
 

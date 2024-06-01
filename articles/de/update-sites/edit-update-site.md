@@ -19,7 +19,7 @@ src="https://docs.joomla.org/images/thumb/e/eb/Help-4x-edit-update-site-screensh
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/eb/Help-4x-edit-update-site-screenshot-de.png/1200px-Help-4x-edit-update-site-screenshot-de.png 1.5x, https://docs.joomla.org/images/e/eb/Help-4x-edit-update-site-screenshot-de.png 2x"
 data-file-width="1334" data-file-height="447" width="800" height="268"
-alt="Help-4x-edit-update-site-screenshot-de.png" />
+alt="edit update site screenshot" />
 
 ## Formular Felder
 

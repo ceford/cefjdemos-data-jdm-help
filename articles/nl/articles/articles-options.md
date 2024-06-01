@@ -27,7 +27,7 @@ src="https://docs.joomla.org/images/thumb/e/ed/Help-4x-Content-Article-Manager-O
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/ed/Help-4x-Content-Article-Manager-Options-screen-nl.png/1200px-Help-4x-Content-Article-Manager-Options-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/e/ed/Help-4x-Content-Article-Manager-Options-screen-nl.png/1600px-Help-4x-Content-Article-Manager-Options-screen-nl.png 2x"
 data-file-width="2880" data-file-height="1629" width="800" height="453"
-alt="Help-4x-Content-Article-Manager-Options-screen-nl.png" />
+alt="Content Article Manager Options screen" />
 
 ## Formulier velden
 
@@ -140,7 +140,7 @@ src="https://docs.joomla.org/images/thumb/c/cb/Help-4x-Content-Article-Manager-O
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/cb/Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-nl.png/900px-Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/c/cb/Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-nl.png/1200px-Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-nl.png 2x"
 data-file-width="2003" data-file-height="1348" width="600" height="404"
-alt="Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-nl.png" />
+alt="Content Article Manager Options editing layout subscreen" />
 
 - **Gebruik captcha voor verzenden**. Selecteer de captcha plugin
   die gebruikt zal worden voor het artikel verzendformulier. Zorg dat er
@@ -219,7 +219,7 @@ src="https://docs.joomla.org/images/thumb/9/93/Help-4x-Content-Article-Manager-O
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/9/93/Help-4x-Content-Article-Manager-Options-category-subscreen-nl.png/900px-Help-4x-Content-Article-Manager-Options-category-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/9/93/Help-4x-Content-Article-Manager-Options-category-subscreen-nl.png/1200px-Help-4x-Content-Article-Manager-Options-category-subscreen-nl.png 2x"
 data-file-width="2003" data-file-height="1348" width="600" height="404"
-alt="Help-4x-Content-Article-Manager-Options-category-subscreen-nl.png" />
+alt="Content Article Manager Options category subscreen" />
 
 - **Kies een weergave**. Selecteer de standaard weergave selecteren die
   getoond wordt als u op een categorie link klikt.
@@ -250,7 +250,7 @@ src="https://docs.joomla.org/images/thumb/5/5c/Help-4x-Content-Article-Manager-O
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/5c/Help-4x-Content-Article-Manager-Options-categories-subscreen-nl.png/900px-Help-4x-Content-Article-Manager-Options-categories-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/5/5c/Help-4x-Content-Article-Manager-Options-categories-subscreen-nl.png/1200px-Help-4x-Content-Article-Manager-Options-categories-subscreen-nl.png 2x"
 data-file-width="2002" data-file-height="1082" width="600" height="324"
-alt="Help-4x-Content-Article-Manager-Options-categories-subscreen-nl.png" />
+alt="Content Article Manager Options categories subscreen" />
 
 - **Hoofdniveau categoriebeschrijving**. Toon de beschrijving van de
   hoofdcategorie.
@@ -276,7 +276,7 @@ src="https://docs.joomla.org/images/thumb/7/76/Help-4x-Content-Article-Manager-O
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/76/Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-nl.png/900px-Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/7/76/Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-nl.png/1200px-Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-nl.png 2x"
 data-file-width="2004" data-file-height="1348" width="600" height="404"
-alt="Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-nl.png" />
+alt="Content Article Manager Options blog featured layout subscreen" />
 
 - **\# Hoofdartikelen**. Aantal Artikelen te tonen met behulp van de
   volledige breedte van de blog pagina. "0" betekent dat er geen
@@ -346,7 +346,7 @@ src="https://docs.joomla.org/images/thumb/9/94/Help-4x-Content-Article-Manager-O
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/9/94/Help-4x-Content-Article-Manager-Options-list-layout-subscreen-nl.png/900px-Help-4x-Content-Article-Manager-Options-list-layout-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/9/94/Help-4x-Content-Article-Manager-Options-list-layout-subscreen-nl.png/1200px-Help-4x-Content-Article-Manager-Options-list-layout-subscreen-nl.png 2x"
 data-file-width="2005" data-file-height="1300" width="600" height="389"
-alt="Help-4x-Content-Article-Manager-Options-list-layout-subscreen-nl.png" />
+alt="Content Article Manager Options list layout subscreen" />
 
 - **Weergave selectielijst**. Of het Toon \# control getoond of
   verborgen moet worden, welke de gebruiker de mogelijkheid geeft het
@@ -384,7 +384,7 @@ src="https://docs.joomla.org/images/thumb/f/f0/Help-4x-Content-Article-Manager-O
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/f0/Help-4x-Content-Article-Manager-Options-shared-subscreen-nl.png/900px-Help-4x-Content-Article-Manager-Options-shared-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/f/f0/Help-4x-Content-Article-Manager-Options-shared-subscreen-nl.png/1200px-Help-4x-Content-Article-Manager-Options-shared-subscreen-nl.png 2x"
 data-file-width="2004" data-file-height="1257" width="600" height="376"
-alt="Help-4x-Content-Article-Manager-Options-shared-subscreen-nl.png" />
+alt="Content Article Manager Options shared subscreen" />
 
 - **Volgorde categorieën**.
   - Geen volgorde: Artikelen worden alleen gesorteerd op
@@ -450,7 +450,7 @@ src="https://docs.joomla.org/images/thumb/7/78/Help-4x-Content-Article-Manager-O
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/78/Help-4x-Content-Article-Manager-Options-integration-subscreen-nl.png/900px-Help-4x-Content-Article-Manager-Options-integration-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/7/78/Help-4x-Content-Article-Manager-Options-integration-subscreen-nl.png/1200px-Help-4x-Content-Article-Manager-Options-integration-subscreen-nl.png 2x"
 data-file-width="2005" data-file-height="1333" width="600" height="399"
-alt="Help-4x-Content-Article-Manager-Options-integration-subscreen-nl.png" />
+alt="Content Article Manager Options integration subscreen" />
 
 **Nieuwsfeeds**
 
@@ -490,7 +490,7 @@ src="https://docs.joomla.org/images/thumb/4/4f/Help-4x-Content-Article-Manager-O
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/4f/Help-4x-Content-Article-Manager-Options-permissions-subscreen-nl.png/900px-Help-4x-Content-Article-Manager-Options-permissions-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/4/4f/Help-4x-Content-Article-Manager-Options-permissions-subscreen-nl.png/1200px-Help-4x-Content-Article-Manager-Options-permissions-subscreen-nl.png 2x"
 data-file-width="2004" data-file-height="1348" width="600" height="404"
-alt="Help-4x-Content-Article-Manager-Options-permissions-subscreen-nl.png" />
+alt="Content Article Manager Options permissions subscreen" />
 
 Om de rechten van artikelen en categorieën te wijzigen moet het volgende
 gedaan worden.

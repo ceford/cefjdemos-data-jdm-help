@@ -29,7 +29,7 @@ src="https://docs.joomla.org/images/thumb/2/2f/Help-4x-Content-Categories-screen
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/2f/Help-4x-Content-Categories-screen-fr.png/1200px-Help-4x-Content-Categories-screen-fr.png 1.5x, https://docs.joomla.org/images/thumb/2/2f/Help-4x-Content-Categories-screen-fr.png/1600px-Help-4x-Content-Categories-screen-fr.png 2x"
 data-file-width="2880" data-file-height="1530" width="800" height="425"
-alt="Help-4x-Content-Categories-screen-fr.png" />
+alt="Content Categories screen" />
 
 ## En-Têtes de colonne
 
@@ -153,7 +153,7 @@ src="https://docs.joomla.org/images/thumb/e/ea/Help-4x-Content-Categories-batch-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/ea/Help-4x-Content-Categories-batch-fr.png/900px-Help-4x-Content-Categories-batch-fr.png 1.5x, https://docs.joomla.org/images/thumb/e/ea/Help-4x-Content-Categories-batch-fr.png/1200px-Help-4x-Content-Categories-batch-fr.png 2x"
 data-file-width="1598" data-file-height="900" width="600" height="338"
-alt="Help-4x-Content-Categories-batch-fr.png" />
+alt="Content Categories batch" />
 
 **How to Batch Process** a group of categories:
 

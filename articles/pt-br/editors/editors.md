@@ -28,7 +28,7 @@ src="https://docs.joomla.org/images/thumb/5/52/Help-4x-editor-tinymce-simple-en.
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/52/Help-4x-editor-tinymce-simple-en.png/900px-Help-4x-editor-tinymce-simple-en.png 1.5x, https://docs.joomla.org/images/thumb/5/52/Help-4x-editor-tinymce-simple-en.png/1200px-Help-4x-editor-tinymce-simple-en.png 2x"
 data-file-width="1451" data-file-height="80" width="600" height="33"
-alt="Help-4x-editor-tinymce-simple-en.png" />
+alt="editor tinymce simple" />
 
 - Os botões permitem que você torne o texto: negrito, sublinhado e ou
   tachado.

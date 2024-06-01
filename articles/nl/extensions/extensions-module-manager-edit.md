@@ -25,7 +25,7 @@ src="https://docs.joomla.org/images/thumb/9/95/Help-4x-extensions-module-manager
 decoding="async"
 srcset="https://docs.joomla.org/images/9/95/Help-4x-extensions-module-manager-new-nl.png 1.5x"
 data-file-width="1131" data-file-height="919" width="800" height="650"
-alt="Help-4x-extensions-module-manager-new-nl.png" />
+alt="extensions module manager new" />
 
 Selecteer er een om op het bewerkscherm te komen.
 
@@ -41,7 +41,7 @@ src="https://docs.joomla.org/images/thumb/2/2d/Help-4x-extensions-module-manager
 decoding="async"
 srcset="https://docs.joomla.org/images/2/2d/Help-4x-extensions-module-manager-edit-nl.png 1.5x"
 data-file-width="1114" data-file-height="924" width="800" height="664"
-alt="Help-4x-extensions-module-manager-edit-nl.png" />
+alt="extensions module manager edit" />
 
 ### Formulier velden
 
@@ -132,7 +132,7 @@ src="https://docs.joomla.org/images/thumb/8/85/Help-4x-Module-Manager-Edit-menu-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/85/Help-4x-Module-Manager-Edit-menu-assignment-nl.png/900px-Help-4x-Module-Manager-Edit-menu-assignment-nl.png 1.5x, https://docs.joomla.org/images/8/85/Help-4x-Module-Manager-Edit-menu-assignment-nl.png 2x"
 data-file-width="1101" data-file-height="866" width="600" height="472"
-alt="Help-4x-Module-Manager-Edit-menu-assignment-nl.png" />
+alt="Module Manager Edit menu assignment" />
 
 #### Menutoewijzing tabblad - Moduletoewijzing
 
@@ -177,7 +177,7 @@ src="https://docs.joomla.org/images/thumb/1/1e/Help-4x-Module-Manager-Edit-advan
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/1/1e/Help-4x-Module-Manager-Edit-advanced-nl.png/900px-Help-4x-Module-Manager-Edit-advanced-nl.png 1.5x, https://docs.joomla.org/images/1/1e/Help-4x-Module-Manager-Edit-advanced-nl.png 2x"
 data-file-width="1131" data-file-height="448" width="600" height="238"
-alt="Help-4x-Module-Manager-Edit-advanced-nl.png" />
+alt="Module Manager Edit advanced" />
 
 ### Rechten tabblad
 
@@ -186,7 +186,7 @@ src="https://docs.joomla.org/images/thumb/9/94/Help-4x-Module-Manager-Edit-permi
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/9/94/Help-4x-Module-Manager-Edit-permissions-nl.png/900px-Help-4x-Module-Manager-Edit-permissions-nl.png 1.5x, https://docs.joomla.org/images/9/94/Help-4x-Module-Manager-Edit-permissions-nl.png 2x"
 data-file-width="1128" data-file-height="546" width="600" height="290"
-alt="Help-4x-Module-Manager-Edit-permissions-nl.png" />
+alt="Module Manager Edit permissions" />
 
 ## Werkbalk
 

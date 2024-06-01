@@ -19,7 +19,7 @@ src="https://docs.joomla.org/images/thumb/2/28/Help-4x-Components-Contact-Catego
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/28/Help-4x-Components-Contact-Categories-screen-nl.png/1200px-Help-4x-Components-Contact-Categories-screen-nl.png 1.5x, https://docs.joomla.org/images/2/28/Help-4x-Components-Contact-Categories-screen-nl.png 2x"
 data-file-width="1279" data-file-height="549" width="800" height="343"
-alt="Help-4x-Components-Contact-Categories-screen-nl.png" />
+alt="Components Contact Categories screen" />
 
 ## Kolomkoppen
 

@@ -23,7 +23,7 @@ src="https://docs.joomla.org/images/thumb/1/1d/Help-4x-Extensions-Template-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/1/1d/Help-4x-Extensions-Template-Manager-Templates-Edit-screen-nl.png 1.5x"
 data-file-width="1140" data-file-height="596" width="800" height="418"
-alt="Help-4x-Extensions-Template-Manager-Templates-Edit-screen-nl.png" />
+alt="Extensions Template Manager Templates Edit screen" />
 
 ### Formulier velden
 
@@ -80,7 +80,7 @@ src="https://docs.joomla.org/images/thumb/8/8e/Help-4x-Extensions-Template-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/8/8e/Help-4x-Extensions-Template-Manager-Templates-Edit-new-folder-dialog-nl.png 1.5x"
 data-file-width="703" data-file-height="544" width="500" height="387"
-alt="Help-4x-Extensions-Template-Manager-Templates-Edit-new-folder-dialog-nl.png" />
+alt="Extensions Template Manager Templates Edit new folder dialog" />
 
 - **Nieuw bestand.** Selecteer om een bestand aan te maken of van uw
   computer naar uw Joomla! template hiërarchie te uploaden. Er
@@ -91,7 +91,7 @@ src="https://docs.joomla.org/images/thumb/a/a8/Help-4x-Extensions-Template-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/a/a8/Help-4x-Extensions-Template-Manager-Templates-Edit-upload-file-dialog-nl.png 1.5x"
 data-file-width="692" data-file-height="544" width="500" height="393"
-alt="Help-4x-Extensions-Template-Manager-Templates-Edit-upload-file-dialog-nl.png" />
+alt="Extensions Template Manager Templates Edit upload file dialog" />
 
 - **Check Overrides.** Activated when an Override is selected in the
   **Overrides** tab. The options are:

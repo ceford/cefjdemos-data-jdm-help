@@ -17,7 +17,7 @@ Default permissions for the Check-in Component.
 src="https://docs.joomla.org/images/7/7d/Help-4x-Components-Checkin-Options-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="500"
 width="800" height="500"
-alt="Help-4x-Components-Checkin-Options-screen-en.png" />
+alt="Components Checkin Options screen" />
 
 ## Permissions
 

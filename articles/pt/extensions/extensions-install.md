@@ -41,7 +41,7 @@ Extension data from the Joomla Extensions Directory.
 src="https://docs.joomla.org/images/8/86/Help-4x-Extensions-Extension-Manager-Install-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="996"
 width="800" height="996"
-alt="Help-4x-Extensions-Extension-Manager-Install-screen-en.png" />
+alt="Extensions Extension Manager Install screen" />
 
 ## Dos Campos
 
@@ -82,7 +82,7 @@ can search by partial name.
 src="https://docs.joomla.org/images/0/06/Help-4x-Extensions-Manager-Install-UploadPackageFilescreen-en.png"
 decoding="async" data-file-width="600" data-file-height="325"
 width="600" height="325"
-alt="Help-4x-Extensions-Manager-Install-UploadPackageFilescreen-en.png" />
+alt="Extensions Manager Install UploadPackageFilescreen" />
 
 - Arraste e largue ou explore a localização onde transferiu o ficheiro
   de arquivo da «Extensão».
@@ -97,7 +97,7 @@ pode utilizar "Instalar da Pasta".
 src="https://docs.joomla.org/images/d/d9/Help-4x-Extensions-Manager-Install-InstallfromFolder-screen-en.png"
 decoding="async" data-file-width="600" data-file-height="248"
 width="600" height="248"
-alt="Help-4x-Extensions-Manager-Install-InstallfromFolder-screen-en.png" />
+alt="Extensions Manager Install InstallfromFolder screen" />
 
 1.  Create a temporary directory on your local hard drive and unpack the
     Extension's archive file in this temporary directory.
@@ -117,7 +117,7 @@ unpacked extension in the tmp folder of your Joomla site.
 src="https://docs.joomla.org/images/6/69/Help-4x-Extensions-Manager-Install-InstallfromUrl-screen-en.png"
 decoding="async" data-file-width="600" data-file-height="251"
 width="600" height="251"
-alt="Help-4x-Extensions-Manager-Install-InstallfromUrl-screen-en.png" />
+alt="Extensions Manager Install InstallfromUrl screen" />
 
 Instead of downloading the archive file to your local computer, just
 specify the URL of the target archive file. Then click the "Check and

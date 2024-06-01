@@ -101,7 +101,7 @@ src="https://docs.joomla.org/images/thumb/9/90/Help-4x-Components-Contacts-Conta
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/9/90/Help-4x-Components-Contacts-Contacts-Edit-Miscellaneous-Information-Tab-en.png/900px-Help-4x-Components-Contacts-Contacts-Edit-Miscellaneous-Information-Tab-en.png 1.5x, https://docs.joomla.org/images/9/90/Help-4x-Components-Contacts-Contacts-Edit-Miscellaneous-Information-Tab-en.png 2x"
 data-file-width="1088" data-file-height="623" width="600" height="344"
-alt="Miscellaneous Information Tab-en" />
+alt="Miscellaneous Information Tab en" />
 
 Other information about this Contact can be entered using the editor.
 

@@ -17,7 +17,7 @@ src="https://docs.joomla.org/images/thumb/8/8d/Help-4x-global-configuration-scre
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/8d/Help-4x-global-configuration-screen-de.png/1125px-Help-4x-global-configuration-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/8/8d/Help-4x-global-configuration-screen-de.png/1500px-Help-4x-global-configuration-screen-de.png 2x"
 data-file-width="2720" data-file-height="1700" width="750" height="469"
-alt="Help-4x-global-configuration-screen-de.png" />
+alt="global configuration screen" />
 
 ## Formular Felder
 

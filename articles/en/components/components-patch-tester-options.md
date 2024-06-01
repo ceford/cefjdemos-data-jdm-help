@@ -26,7 +26,7 @@ More Information:
 src="https://docs.joomla.org/images/a/a3/Help-4x-Component-Patch-Tester-Options-screenshot-en.png"
 decoding="async" data-file-width="800" data-file-height="290"
 width="800" height="290"
-alt="Help-4x-Component-Patch-Tester-Options-screenshot-en.png" />
+alt="Component Patch Tester Options screenshot" />
 
 ## Form Fields
 
@@ -43,7 +43,7 @@ Authentication Tab for details.
 src="https://docs.joomla.org/images/5/5c/Help-4x-Component-Patch-Tester-Options-github-authentication-subscreen-en.png"
 decoding="async" data-file-width="600" data-file-height="459"
 width="600" height="459"
-alt="Help-4x-Component-Patch-Tester-Options-github-authentication-subscreen-en.png" />
+alt="Component Patch Tester Options github authentication subscreen" />
 
 - **GitHub Authentication Method.** Choose the Token method. The
   Credentials method will not work from September 2020.
@@ -58,7 +58,7 @@ manual testing
 src="https://docs.joomla.org/images/7/7c/Help-4x-Component-Patch-Tester-Options-ci-server-settings-subscreen-en.png"
 decoding="async" data-file-width="600" data-file-height="257"
 width="600" height="257"
-alt="Help-4x-Component-Patch-Tester-Options-ci-server-settings-subscreen-en.png" />
+alt="Component Patch Tester Options ci server settings subscreen" />
 
 - **CI Server Address.** Default:
   <a href="https://ci.joomla.org" class="external free" target="_blank"
@@ -74,7 +74,7 @@ for this Component!
 src="https://docs.joomla.org/images/b/b6/Help-4x-Component-Patch-Tester-Options-permissions-subscreen-en.png"
 decoding="async" data-file-width="600" data-file-height="518"
 width="600" height="518"
-alt="Help-4x-Component-Patch-Tester-Options-permissions-subscreen-en.png" />
+alt="Component Patch Tester Options permissions subscreen" />
 
 To change the permissions for this extension, do the following.
 

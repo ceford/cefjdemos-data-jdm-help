@@ -24,7 +24,7 @@ src="https://docs.joomla.org/images/thumb/3/3a/Help-4x-Components-Templates-Opti
 decoding="async"
 srcset="https://docs.joomla.org/images/3/3a/Help-4x-Components-Templates-Options-nl.png 1.5x"
 data-file-width="1126" data-file-height="619" width="800" height="440"
-alt="Help-4x-Components-Templates-Options-nl.png" />
+alt="Components Templates Options" />
 
 ## Formulier velden
 
@@ -49,7 +49,7 @@ alt="Help-4x-Components-Templates-Options-nl.png" />
 src="https://docs.joomla.org/images/3/3a/Help-4x-Components-Templates-Options-Permissions-nl.png"
 decoding="async" data-file-width="700" data-file-height="715"
 width="700" height="715"
-alt="Help-4x-Components-Templates-Options-Permissions-nl.png" />
+alt="Components Templates Options Permissions" />
 
 Om de rechten van deze extensie te wijzigen moet u de volgende
 handelingen uitvoeren.

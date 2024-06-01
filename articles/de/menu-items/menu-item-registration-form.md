@@ -20,7 +20,7 @@ So erstellt man einen neuen Menüpunkt **Registrierungsformular**:
     decoding="async"
     srcset="https://docs.joomla.org/images/thumb/1/1e/Help-4x-Menu-Item-Type-Select-Button-de.png/125px-Help-4x-Menu-Item-Type-Select-Button-de.png 1.5x, https://docs.joomla.org/images/1/1e/Help-4x-Menu-Item-Type-Select-Button-de.png 2x"
     data-file-width="145" data-file-height="49" width="83" height="28"
-    alt="Help-4x-Menu-Item-Type-Select-Button-de.png" />
+    alt="Menu Item Type Select Button" />
   - In the modal dialog select the Users item to open a list and then
     select the **Registration Form** item.
 
@@ -34,7 +34,7 @@ To edit an existing Registration Form menu item:
 src="https://docs.joomla.org/images/b/b3/Help-4x-Menus-Menu-Item-User-Registration-en.png"
 decoding="async" data-file-width="800" data-file-height="812"
 width="800" height="812"
-alt="Help-4x-Menus-Menu-Item-User-Registration-en.png" />
+alt="Menus Menu Item User Registration" />
 
 ## Form Fields
 
@@ -139,7 +139,7 @@ for those views on a Joomla! website.* Default User Registration form:
 src="https://docs.joomla.org/images/9/9d/Help-4x-Menus-Menu-User-Registration-front-end-screenshot-en.png"
 decoding="async" data-file-width="600" data-file-height="467"
 width="600" height="467"
-alt="Help-4x-Menus-Menu-User-Registration-front-end-screenshot-en.png" />
+alt="Menus Menu User Registration front end screenshot" />
 
 ## Quick Tips
 

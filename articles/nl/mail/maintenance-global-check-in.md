@@ -22,7 +22,7 @@ src="https://docs.joomla.org/images/thumb/4/4a/Help-4x-system-maintenance-global
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/4a/Help-4x-system-maintenance-global-check-in-nl.png/1200px-Help-4x-system-maintenance-global-check-in-nl.png 1.5x, https://docs.joomla.org/images/4/4a/Help-4x-system-maintenance-global-check-in-nl.png 2x"
 data-file-width="1284" data-file-height="418" width="800" height="260"
-alt="Help-4x-system-maintenance-global-check-in-nl.png" />
+alt="system maintenance global check in" />
 
 ## Kolomkoppen
 

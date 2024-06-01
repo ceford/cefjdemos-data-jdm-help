@@ -20,7 +20,7 @@ src="https://docs.joomla.org/images/thumb/f/f4/Help-4x-Extensions-Plugin-Manager
 decoding="async"
 srcset="https://docs.joomla.org/images/f/f4/Help-4x-Extensions-Plugin-Manager-screen-nl.png 1.5x"
 data-file-width="1136" data-file-height="678" width="800" height="477"
-alt="Help-4x-Extensions-Plugin-Manager-screen-nl.png" />
+alt="Extensions Plugin Manager screen" />
 
 ## Kolomkoppen
 

@@ -17,7 +17,7 @@ Suchindex ein.
 src="https://docs.joomla.org/images/a/a0/Help4.x-Components-Finder-Options-en.png"
 decoding="async" data-file-width="800" data-file-height="810"
 width="800" height="810"
-alt="Help4.x-Components-Finder-Options-en.png" />
+alt="Help4.x Components Finder Options en.png" />
 
 ## Form Fields
 
@@ -67,7 +67,7 @@ src="https://docs.joomla.org/images/thumb/2/23/Help4x-Components-Finder-Options-
 decoding="async"
 srcset="https://docs.joomla.org/images/2/23/Help4x-Components-Finder-Options-Index-en.png 1.5x"
 data-file-width="788" data-file-height="1231" width="600" height="937"
-alt="Help4x-Components-Finder-Options-Index-en.png" />
+alt="Help4x Components Finder Options Index en.png" />
 
 - **Search for Phrases.** (Disabled/Enabled) Performance versus quality
   of results.
@@ -119,7 +119,7 @@ follows.
 src="https://docs.joomla.org/images/6/6d/Help4x-Components-Finder-Options-Permissions-en.png"
 decoding="async" data-file-width="600" data-file-height="670"
 width="600" height="670"
-alt="Help4x-Components-Finder-Options-Permissions-en.png" />
+alt="Help4x Components Finder Options Permissions en.png" />
 
 
 To change the permissions for this extension, do the following.

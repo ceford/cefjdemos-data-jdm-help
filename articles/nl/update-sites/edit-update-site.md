@@ -19,7 +19,7 @@ src="https://docs.joomla.org/images/thumb/5/5a/Help-4x-edit-update-site-screensh
 decoding="async"
 srcset="https://docs.joomla.org/images/5/5a/Help-4x-edit-update-site-screenshot-nl.png 1.5x"
 data-file-width="880" data-file-height="312" width="800" height="284"
-alt="Help-4x-edit-update-site-screenshot-nl.png" />
+alt="edit update site screenshot" />
 
 ## Formulier velden
 

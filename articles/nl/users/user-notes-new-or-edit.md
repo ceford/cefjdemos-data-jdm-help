@@ -37,7 +37,7 @@ src="https://docs.joomla.org/images/thumb/a/a0/Help-4x-users-notes-nl.png/800px-
 decoding="async"
 srcset="https://docs.joomla.org/images/a/a0/Help-4x-users-notes-nl.png 1.5x"
 data-file-width="1112" data-file-height="768" width="800" height="553"
-alt="Help-4x-users-notes-nl.png" />
+alt="users notes" />
 
 ## Gegevens
 

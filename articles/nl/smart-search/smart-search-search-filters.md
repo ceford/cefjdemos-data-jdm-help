@@ -20,7 +20,7 @@ src="https://docs.joomla.org/images/thumb/c/cd/Help-4x-Components-Finder-Manage-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/cd/Help-4x-Components-Finder-Manage-Search-Filters-screen-nl.png/1200px-Help-4x-Components-Finder-Manage-Search-Filters-screen-nl.png.jpeg 1.5x, https://docs.joomla.org/images/c/cd/Help-4x-Components-Finder-Manage-Search-Filters-screen-nl.png 2x"
 data-file-width="1212" data-file-height="543" width="800" height="358"
-alt="Help-4x-Components-Finder-Manage-Search-Filters-screen-nl.png" />
+alt="Components Finder Manage Search Filters screen" />
 
 ## Kolomkoppen
 
@@ -32,7 +32,7 @@ elke kolom wordt getoond.
 src="https://docs.joomla.org/images/2/20/Help38-Components-Smart-Search-Search-Filters-columns-nl.png"
 decoding="async" data-file-width="1062" data-file-height="24"
 width="1062" height="24"
-alt="Help38-Components-Smart-Search-Search-Filters-columns-nl.png" />
+alt="Help38 Components Smart Search Search Filters columns nl.png" />
 
 - **Selectievakje**. Vink dit vakje aan om één of meer items te
   selecteren. Vink het vakje in de kolomkop aan om alle selectievakjes

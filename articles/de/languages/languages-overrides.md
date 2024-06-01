@@ -19,7 +19,7 @@ src="https://docs.joomla.org/images/thumb/b/bb/Help-4x-Extensions-Language-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/bb/Help-4x-Extensions-Language-Manager-Overrides-screen-en.png/1200px-Help-4x-Extensions-Language-Manager-Overrides-screen-en.png 1.5x, https://docs.joomla.org/images/b/bb/Help-4x-Extensions-Language-Manager-Overrides-screen-en.png 2x"
 data-file-width="1212" data-file-height="440" width="800" height="290"
-alt="Help-4x-Extensions-Language-Manager-Overrides-screen-en.png" />
+alt="Extensions Language Manager Overrides screen" />
 
 ## Column Headers
 

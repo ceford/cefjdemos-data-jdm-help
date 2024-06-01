@@ -22,7 +22,7 @@ src="https://docs.joomla.org/images/thumb/6/61/Help-4x-menus-menu-manager-menu-i
 decoding="async"
 srcset="https://docs.joomla.org/images/6/61/Help-4x-menus-menu-manager-menu-items-nl.png 1.5x"
 data-file-width="1132" data-file-height="891" width="800" height="630"
-alt="Help-4x-menus-menu-manager-menu-items-nl.png" />
+alt="menus menu manager menu items" />
 
 ## Kolomkoppen
 
@@ -135,7 +135,7 @@ src="https://docs.joomla.org/images/thumb/4/49/Help-4x-colheader-batch-process-v
 decoding="async"
 srcset="https://docs.joomla.org/images/4/49/Help-4x-colheader-batch-process-view-link-nl.png 1.5x"
 data-file-width="813" data-file-height="494" width="600" height="365"
-alt="Help-4x-colheader-batch-process-view-link-nl.png" />
+alt="colheader batch process view link" />
 
 * verwijst naar de naam van de pagina items.*
 

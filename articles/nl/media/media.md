@@ -24,7 +24,7 @@ src="https://docs.joomla.org/images/thumb/1/1b/Help-4x-Media-screen-nl.png/800px
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/1/1b/Help-4x-Media-screen-nl.png/1200px-Help-4x-Media-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/1/1b/Help-4x-Media-screen-nl.png/1600px-Help-4x-Media-screen-nl.png 2x"
 data-file-width="2240" data-file-height="1400" width="800" height="500"
-alt="Help-4x-Media-screen-nl.png" />
+alt="Media screen" />
 
 ## Paginaweergave tabblad
 

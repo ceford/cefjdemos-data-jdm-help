@@ -24,7 +24,7 @@ src="https://docs.joomla.org/images/thumb/f/f0/Help-4x-modules-site-module-manag
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/f0/Help-4x-modules-site-module-manager-module-statistics-de.png/1200px-Help-4x-modules-site-module-manager-module-statistics-de.png 1.5x, https://docs.joomla.org/images/f/f0/Help-4x-modules-site-module-manager-module-statistics-de.png 2x"
 data-file-width="1350" data-file-height="1167" width="800" height="692"
-alt="Help-4x-modules-site-module-manager-module-statistics-de.png" />
+alt="modules site module manager module statistics" />
 
 ## Formular Felder
 
@@ -85,7 +85,7 @@ src="https://docs.joomla.org/images/thumb/e/e4/Help-4x-modules-manager-site-modu
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/e4/Help-4x-modules-manager-site-module-menu-assignment-tab-de.png/900px-Help-4x-modules-manager-site-module-menu-assignment-tab-de.png 1.5x, https://docs.joomla.org/images/thumb/e/e4/Help-4x-modules-manager-site-module-menu-assignment-tab-de.png/1200px-Help-4x-modules-manager-site-module-menu-assignment-tab-de.png 2x"
 data-file-width="1330" data-file-height="1048" width="600" height="473"
-alt="Help-4x-modules-manager-site-module-menu-assignment-tab-de.png" />
+alt="modules manager site module menu assignment tab" />
 
 - **Menüzuweisung**. Eine der Optionen **Auf allen Seiten**, **Auf
   keiner Seite**, **Nur auf den gewählten Seiten** oder **Auf allen,
@@ -106,7 +106,7 @@ src="https://docs.joomla.org/images/thumb/c/ce/Help-4x-modules-manager-admin-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/ce/Help-4x-modules-manager-admin-module-site-advanced-options-de.png/900px-Help-4x-modules-manager-admin-module-site-advanced-options-de.png 1.5x, https://docs.joomla.org/images/c/ce/Help-4x-modules-manager-admin-module-site-advanced-options-de.png 2x"
 data-file-width="1168" data-file-height="843" width="600" height="433"
-alt="Help-4x-modules-manager-admin-module-site-advanced-options-de.png" />
+alt="modules manager admin module site advanced options" />
 
 - **Layout.** Wenn ein oder mehrere alternative Layouts für ein Modul
   definiert wurden, entweder im Template oder im Joomla!-Core, kann ein
@@ -148,7 +148,7 @@ src="https://docs.joomla.org/images/thumb/1/1d/Help-4x-modules-manager-admin-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/1/1d/Help-4x-modules-manager-admin-module-administrator-permissions-de.png/900px-Help-4x-modules-manager-admin-module-administrator-permissions-de.png 1.5x, https://docs.joomla.org/images/thumb/1/1d/Help-4x-modules-manager-admin-module-administrator-permissions-de.png/1200px-Help-4x-modules-manager-admin-module-administrator-permissions-de.png 2x"
 data-file-width="1236" data-file-height="789" width="600" height="383"
-alt="Help-4x-modules-manager-admin-module-administrator-permissions-de.png" />
+alt="modules manager admin module administrator permissions" />
 
 Um die Berechtigungen zu ändern:
 
@@ -206,4 +206,4 @@ Ein Beispiel für dieses Modul ist hier zu sehen:
 src="https://docs.joomla.org/images/2/24/Help-4x-Extensions-Module-Manager-Statistics-example-output-de.png"
 decoding="async" data-file-width="299" data-file-height="413"
 width="299" height="413"
-alt="Help-4x-Extensions-Module-Manager-Statistics-example-output-de.png" />
+alt="Extensions Module Manager Statistics example output" />

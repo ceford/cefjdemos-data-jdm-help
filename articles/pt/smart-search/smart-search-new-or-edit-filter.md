@@ -19,7 +19,7 @@ existing one.
 src="https://docs.joomla.org/images/a/a4/Help-4x-Components-Finder-Manage-Search-Filters-Edit-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="900"
 width="800" height="900"
-alt="Help-4x-Components-Finder-Manage-Search-Filters-Edit-screen-en.png" />
+alt="Components Finder Manage Search Filters Edit screen" />
 
 ## Form Fields
 
@@ -44,7 +44,7 @@ alt="Help-4x-Components-Finder-Manage-Search-Filters-Edit-screen-en.png" />
 src="https://docs.joomla.org/images/3/35/Help-4x-Components-Finder-Manage-Search-Filters-subscreen-Options-tab-en.png"
 decoding="async" data-file-width="600" data-file-height="438"
 width="800" height="584"
-alt="Help-4x-Components-Finder-Manage-Search-Filters-subscreen-Options-tab-en.png" />
+alt="Components Finder Manage Search Filters subscreen Options tab" />
 
 **Publishing panel**
 

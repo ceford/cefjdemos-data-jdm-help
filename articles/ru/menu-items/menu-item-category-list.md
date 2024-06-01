@@ -27,7 +27,7 @@ src="https://docs.joomla.org/images/thumb/f/fa/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/fa/Help-4x-Menus-Item-Articles-Category-List-screen-ru.png/1200px-Help-4x-Menus-Item-Articles-Category-List-screen-ru.png 1.5x, https://docs.joomla.org/images/thumb/f/fa/Help-4x-Menus-Item-Articles-Category-List-screen-ru.png/1600px-Help-4x-Menus-Item-Articles-Category-List-screen-ru.png 2x"
 data-file-width="2880" data-file-height="1606" width="800" height="446"
-alt="Help-4x-Menus-Item-Articles-Category-List-screen-ru.png" />
+alt="Menus Item Articles Category List screen" />
 
 ## Form Fields
 
@@ -70,7 +70,7 @@ src="https://docs.joomla.org/images/thumb/1/1a/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/1/1a/Help-4x-Menus-Item-Articles-Category-List-category-subscreen-ru.png/900px-Help-4x-Menus-Item-Articles-Category-List-category-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/1/1a/Help-4x-Menus-Item-Articles-Category-List-category-subscreen-ru.png/1200px-Help-4x-Menus-Item-Articles-Category-List-category-subscreen-ru.png 2x"
 data-file-width="2880" data-file-height="1300" width="600" height="271"
-alt="Help-4x-Menus-Item-Articles-Category-List-category-subscreen-ru.png" />
+alt="Menus Item Articles Category List category subscreen" />
 
 - **Заголовок категории**. Show the title of the category.
 - **Описание категории**. Show the description for the category.
@@ -97,7 +97,7 @@ src="https://docs.joomla.org/images/thumb/d/da/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/d/da/Help-4x-Menus-Item-Articles-Category-List-list-layouts-subscreen-ru.png/900px-Help-4x-Menus-Item-Articles-Category-List-list-layouts-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/d/da/Help-4x-Menus-Item-Articles-Category-List-list-layouts-subscreen-ru.png/1200px-Help-4x-Menus-Item-Articles-Category-List-list-layouts-subscreen-ru.png 2x"
 data-file-width="2880" data-file-height="1300" width="600" height="271"
-alt="Help-4x-Menus-Item-Articles-Category-List-list-layouts-subscreen-ru.png" />
+alt="Menus Item Articles Category List list layouts subscreen" />
 
 - **Поле выбора количества элементов на странице**. Show the Display \#
   control that allows the user to select the number of articles to show.
@@ -187,7 +187,7 @@ src="https://docs.joomla.org/images/thumb/2/2c/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/2c/Help-4x-Menus-Item-Articles-Category-List-options-subscreen-ru.png/900px-Help-4x-Menus-Item-Articles-Category-List-options-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/2/2c/Help-4x-Menus-Item-Articles-Category-List-options-subscreen-ru.png/1200px-Help-4x-Menus-Item-Articles-Category-List-options-subscreen-ru.png 2x"
 data-file-width="2880" data-file-height="1252" width="600" height="261"
-alt="Help-4x-Menus-Item-Articles-Category-List-options-subscreen-ru.png" />
+alt="Menus Item Articles Category List options subscreen" />
 
 **Макет**
 
@@ -264,7 +264,7 @@ src="https://docs.joomla.org/images/thumb/7/79/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/79/Help-4x-Menus-Item-Articles-Category-List-integration-subscreen-ru.png/900px-Help-4x-Menus-Item-Articles-Category-List-integration-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/7/79/Help-4x-Menus-Item-Articles-Category-List-integration-subscreen-ru.png/1200px-Help-4x-Menus-Item-Articles-Category-List-integration-subscreen-ru.png 2x"
 data-file-width="2880" data-file-height="810" width="600" height="169"
-alt="Help-4x-Menus-Item-Articles-Category-List-integration-subscreen-ru.png" />
+alt="Menus Item Articles Category List integration subscreen" />
 
 - **Ссылка на RSS**. If set to Show, a Feed Link will show up as a feed
   icon in the address bar of most browsers.

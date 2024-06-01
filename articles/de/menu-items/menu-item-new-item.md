@@ -34,7 +34,7 @@ src="https://docs.joomla.org/images/thumb/b/b8/Help-4x-Menus-New-Item-screen-de.
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/b8/Help-4x-Menus-New-Item-screen-de.png/1200px-Help-4x-Menus-New-Item-screen-de.png 1.5x, https://docs.joomla.org/images/b/b8/Help-4x-Menus-New-Item-screen-de.png 2x"
 data-file-width="1440" data-file-height="1343" width="800" height="746"
-alt="Help-4x-Menus-New-Item-screen-de.png" />
+alt="Menus New Item screen" />
 
 ## Formular Felder
 
@@ -101,7 +101,7 @@ src="https://docs.joomla.org/images/thumb/7/7a/Help-4x-Menus-New-Item-link-type-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/7a/Help-4x-Menus-New-Item-link-type-subscreen-de.png/900px-Help-4x-Menus-New-Item-link-type-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/7/7a/Help-4x-Menus-New-Item-link-type-subscreen-de.png/1200px-Help-4x-Menus-New-Item-link-type-subscreen-de.png 2x"
 data-file-width="2880" data-file-height="1340" width="600" height="279"
-alt="Help-4x-Menus-New-Item-link-type-subscreen-de.png" />
+alt="Menus New Item link type subscreen" />
 
 - **Titel Attribut für Menülink**. Eine optionale, benutzerdefinierte
   Beschreibung für das Titel-Attribut für diesen Menülink (HTML Title
@@ -128,7 +128,7 @@ src="https://docs.joomla.org/images/thumb/0/06/Help-4x-Menus-New-Item-page-displ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/0/06/Help-4x-Menus-New-Item-page-display-subscreen-de.png/900px-Help-4x-Menus-New-Item-page-display-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/0/06/Help-4x-Menus-New-Item-page-display-subscreen-de.png/1200px-Help-4x-Menus-New-Item-page-display-subscreen-de.png 2x"
 data-file-width="2880" data-file-height="970" width="600" height="202"
-alt="Help-4x-Menus-New-Item-page-display-subscreen-de.png" />
+alt="Menus New Item page display subscreen" />
 
 Hinweis: Die Auswahl "**Global**" übernimmt Einstellungen aus [Menüs:
 Optionen](https://docs.joomla.org/Help4.x:Menus:_Options/de "Special:MyLanguage/Help4.x:Menus: Options/de").
@@ -150,7 +150,7 @@ src="https://docs.joomla.org/images/thumb/b/b9/Help-4x-Menus-New-Item-metadata-s
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/b9/Help-4x-Menus-New-Item-metadata-subscreen-de.png/900px-Help-4x-Menus-New-Item-metadata-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/b/b9/Help-4x-Menus-New-Item-metadata-subscreen-de.png/1200px-Help-4x-Menus-New-Item-metadata-subscreen-de.png 2x"
 data-file-width="2880" data-file-height="830" width="600" height="173"
-alt="Help-4x-Menus-New-Item-metadata-subscreen-de.png" />
+alt="Menus New Item metadata subscreen" />
 
 - **Meta-Beschreibung**. Ein Absatz zur Beschreibung der Seite. [Mehr
   erfahren.](https://docs.joomla.org/Using_The_Meta_Description/de "Special:MyLanguage/Using The Meta Description/de")
@@ -166,7 +166,7 @@ src="https://docs.joomla.org/images/thumb/4/4a/Help-4x-Menus-New-Item-associatio
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/4a/Help-4x-Menus-New-Item-associations-subscreen-de.png/900px-Help-4x-Menus-New-Item-associations-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/4/4a/Help-4x-Menus-New-Item-associations-subscreen-de.png/1200px-Help-4x-Menus-New-Item-associations-subscreen-de.png 2x"
 data-file-width="2880" data-file-height="570" width="600" height="119"
-alt="Help-4x-Menus-New-Item-associations-subscreen-de.png" />
+alt="Menus New Item associations subscreen" />
 
 [Nur bei mehrsprachigen
 Seiten](https://docs.joomla.org/Help4.x:Multilingual_Associations/de "Special:MyLanguage/Help4.x:Multilingual Associations/de").
@@ -178,7 +178,7 @@ src="https://docs.joomla.org/images/thumb/5/56/Help-4x-Menus-New-Item-module-ass
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/56/Help-4x-Menus-New-Item-module-assignment-subscreen-de.png/900px-Help-4x-Menus-New-Item-module-assignment-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/5/56/Help-4x-Menus-New-Item-module-assignment-subscreen-de.png/1200px-Help-4x-Menus-New-Item-module-assignment-subscreen-de.png 2x"
 data-file-width="2880" data-file-height="1340" width="600" height="279"
-alt="Help-4x-Menus-New-Item-module-assignment-subscreen-de.png" />
+alt="Menus New Item module assignment subscreen" />
 
 - **Unzugeordnete Module**. Zeigt Module, die diesem Menüeintrag nicht
   zugeordnet sind.

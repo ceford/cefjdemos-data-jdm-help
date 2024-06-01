@@ -15,7 +15,7 @@ Om een nieuw "Contactpersonen aanmaken" menu-item aan te maken:
   - Klik op de Menu-itemtype selectie knop. <img
     src="https://docs.joomla.org/images/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png"
     decoding="async" data-file-width="124" data-file-height="43" width="124"
-    height="43" alt="Help-4x-Menu-Item-Type-Select-Button-nl.png" />
+    height="43" alt="Menu Item Type Select Button" />
   - Selecteer in de modale dialoog het 'Contactpersonen' item om een
     lijst te openen en selecteer daarna het **Contactpersonen aanmaken**
     item.
@@ -31,7 +31,7 @@ src="https://docs.joomla.org/images/thumb/7/7f/Help-4x-Menus-Menu-Item-Create-Co
 decoding="async"
 srcset="https://docs.joomla.org/images/7/7f/Help-4x-Menus-Menu-Item-Create-Contact-screen-nl.png 1.5x"
 data-file-width="872" data-file-height="908" width="800" height="833"
-alt="Help-4x-Menus-Menu-Item-Create-Contact-screen-nl.png" />
+alt="Menus Menu Item Create Contact screen" />
 
 ## Formulier velden
 

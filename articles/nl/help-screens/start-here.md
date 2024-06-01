@@ -12,7 +12,7 @@ titelbalk. Voorbeeld:
 <img
 src="https://docs.joomla.org/images/0/07/Help-4x-Start-Here-Help-toolbar-nl.png"
 decoding="async" data-file-width="437" data-file-height="107"
-width="800" height="196" alt="Help-4x-Start-Here-Help-toolbar-nl.png" />
+width="800" height="196" alt="Start Here Help toolbar" />
 
 Er komt een modal scherm op in het midden van het scherm welke
 help-informatie bevat voor de betreffende pagina.

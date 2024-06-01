@@ -19,7 +19,7 @@ src="https://docs.joomla.org/images/thumb/7/7e/Help-4x-debug_groups-screen-nl.pn
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/7e/Help-4x-debug_groups-screen-nl.png/1200px-Help-4x-debug_groups-screen-nl.png 1.5x, https://docs.joomla.org/images/7/7e/Help-4x-debug_groups-screen-nl.png 2x"
 data-file-width="1285" data-file-height="910" width="800" height="567"
-alt="Help-4x-debug groups-screen-nl.png" />
+alt="debug groups screen" />
 
 ## Kolomkoppen
 
@@ -109,7 +109,7 @@ Onderaan ziet u de legenda:
 <img
 src="https://docs.joomla.org/images/8/84/Help31-Help-Permissions-Report-Legend-nl.png"
 decoding="async" data-file-width="362" data-file-height="39" width="362"
-height="39" alt="Help31-Help-Permissions-Report-Legend-nl.png" />
+height="39" alt="Help31 Help Permissions Report Legend nl.png" />
 
 - "'Niet Toegestaan'. Actie is niet toegestaan.
 - **Toegestaan**. Actie toegestaan.

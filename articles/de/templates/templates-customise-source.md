@@ -22,7 +22,7 @@ to read.
 src="https://docs.joomla.org/images/9/90/Help-4x-Extensions-Template-Manager-Templates-Edit-Source-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="430"
 width="800" height="430"
-alt="Help-4x-Extensions-Template-Manager-Templates-Edit-Source-screen-en.png" />
+alt="Extensions Template Manager Templates Edit Source screen" />
 
 ## Form Fields
 

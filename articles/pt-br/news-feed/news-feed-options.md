@@ -183,7 +183,7 @@ Caso não, a lista será mostrada sem os títulos.
 
 <img src="https://docs.joomla.org/images/8/81/Help30-pagination-en.png"
 decoding="async" data-file-width="299" data-file-height="29" width="299"
-height="29" alt="Help30-pagination-en.png" />
+height="29" alt="Help30 pagination en.png" />
 
 The following options are available.
 

@@ -18,7 +18,7 @@ Inhalten nach Schlagwortnamen verwendet werden.
 src="https://docs.joomla.org/images/b/b8/Help-4x-Components-Tags-Tags-Edit-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="572"
 width="800" height="572"
-alt="Help-4x-Components-Tags-Tags-Edit-screen-en.png" />
+alt="Components Tags Tags Edit screen" />
 
 ## Form Fields
 
@@ -51,7 +51,7 @@ alt="Help-4x-Components-Tags-Tags-Edit-screen-en.png" />
 src="https://docs.joomla.org/images/d/d6/Help-4x-Components-Tags-Tags-Edit-Options-Details-Tab-en.png"
 decoding="async" data-file-width="800" data-file-height="387"
 width="800" height="387"
-alt="Help-4x-Components-Tags-Tags-Edit-Options-Details-Tab-en.png" />
+alt="Components Tags Tags Edit Options Details Tab" />
 
 **Options Panel**
 
@@ -76,7 +76,7 @@ alt="Help-4x-Components-Tags-Tags-Edit-Options-Details-Tab-en.png" />
 src="https://docs.joomla.org/images/6/61/Help-4x-Components-Tags-Tags-Edit-Publishing-Options-Tab-en.png"
 decoding="async" data-file-width="800" data-file-height="355"
 width="800" height="355"
-alt="Help-4x-Components-Tags-Tags-Edit-Publishing-Options-Tab-en.png" />
+alt="Components Tags Tags Edit Publishing Options Tab" />
 
 - **Created Date**. Date the item(Article, Category, Weblink, etc.) was
   created.

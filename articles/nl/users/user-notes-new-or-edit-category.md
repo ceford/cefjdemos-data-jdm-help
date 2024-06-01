@@ -27,7 +27,7 @@ src="https://docs.joomla.org/images/thumb/4/4f/Help-4x-users-category-manager-ad
 decoding="async"
 srcset="https://docs.joomla.org/images/4/4f/Help-4x-users-category-manager-add-a-new-user-notes-category-nl.png 1.5x"
 data-file-width="1120" data-file-height="1045" width="800" height="746"
-alt="Help-4x-users-category-manager-add-a-new-user-notes-category-nl.png" />
+alt="users category manager add a new user notes category" />
 
 ## Gegevens
 
@@ -70,7 +70,7 @@ src="https://docs.joomla.org/images/thumb/0/0e/Help-4x-users-category-manager-ad
 decoding="async"
 srcset="https://docs.joomla.org/images/0/0e/Help-4x-users-category-manager-add-a-new-user-notes-category-options-nl.png 1.5x"
 data-file-width="1034" data-file-height="547" width="800" height="423"
-alt="Help-4x-users-category-manager-add-a-new-user-notes-category-options-nl.png" />
+alt="users category manager add a new user notes category options" />
 
 - **Weergave** (*Gebruik algemeen*). Gebruik een weergave uit de
   beschikbare componentenweergave of overrides van de templates.
@@ -85,7 +85,7 @@ src="https://docs.joomla.org/images/thumb/2/20/Help-4x-users-category-manager-ad
 decoding="async"
 srcset="https://docs.joomla.org/images/2/20/Help-4x-users-category-manager-add-a-new-user-notes-category-publishing-nl.png 1.5x"
 data-file-width="1023" data-file-height="759" width="800" height="594"
-alt="Help-4x-users-category-manager-add-a-new-user-notes-category-publishing-nl.png" />
+alt="users category manager add a new user notes category publishing" />
 
 - **Aanmaakdatum:** De datum en tijd dat dit item voor het eerst is
   aangemaakt. Dit wordt automatisch door het systeem ingevoerd.
@@ -112,7 +112,7 @@ src="https://docs.joomla.org/images/thumb/c/c2/Help-4x-users-category-manager-ad
 decoding="async"
 srcset="https://docs.joomla.org/images/c/c2/Help-4x-users-category-manager-add-a-new-user-notes-category-permissions-nl.png 1.5x"
 data-file-width="1020" data-file-height="682" width="800" height="535"
-alt="Help-4x-users-category-manager-add-a-new-user-notes-category-permissions-nl.png" />
+alt="users category manager add a new user notes category permissions" />
 
 Beheer de instellingen van de rechten voor onderstaande groepen. Zie de
 opmerkingen onderaan.

@@ -22,7 +22,7 @@ src="https://docs.joomla.org/images/thumb/9/92/Help-4x-users-user-manager-add-ne
 decoding="async"
 srcset="https://docs.joomla.org/images/9/92/Help-4x-users-user-manager-add-new-user-group-nl.png 1.5x"
 data-file-width="1135" data-file-height="432" width="800" height="304"
-alt="Help-4x-users-user-manager-add-new-user-group-nl.png" />
+alt="users user manager add new user group" />
 
 ## Gegevens gebruikersgroep
 

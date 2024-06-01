@@ -34,7 +34,7 @@ src="https://docs.joomla.org/images/thumb/a/a1/Help-4x-Extensions-Language-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/a/a1/Help-4x-Extensions-Language-Manager-Overrides-Edit-screen-nl.png 1.5x"
 data-file-width="1159" data-file-height="921" width="800" height="636"
-alt="Help-4x-Extensions-Language-Manager-Overrides-Edit-screen-nl.png" />
+alt="Extensions Language Manager Overrides Edit screen" />
 
 ### Formulier velden
 

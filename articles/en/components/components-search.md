@@ -174,7 +174,7 @@ src="https://docs.joomla.org/images/thumb/b/be/Help-35-Components-Search-Filter-
 decoding="async"
 srcset="https://docs.joomla.org/images/b/be/Help-35-Components-Search-Filter-ShowHideSearchResults-Number-en.png 1.5x"
 data-file-width="1122" data-file-height="35" width="800" height="25"
-alt="Help-35-Components-Search-Filter-ShowHideSearchResults-Number-en.png" />
+alt="Help 35 Components Search Filter ShowHideSearchResults Number en.png" />
 
 Above the column headers on the right, there is a drop down to set a
 **number** to display.
@@ -189,14 +189,14 @@ src="https://docs.joomla.org/images/thumb/e/e2/Help35-Components-Search-alert-di
 decoding="async"
 srcset="https://docs.joomla.org/images/e/e2/Help35-Components-Search-alert-disabled-en.png 1.5x"
 data-file-width="952" data-file-height="59" width="800" height="50"
-alt="Help35-Components-Search-alert-disabled-en.png" />
+alt="Help35 Components Search alert disabled en.png" />
 
 <img
 src="https://docs.joomla.org/images/thumb/f/fd/Help35-Components-Search-alert-enabled-en.png/800px-Help35-Components-Search-alert-enabled-en.png"
 decoding="async"
 srcset="https://docs.joomla.org/images/f/fd/Help35-Components-Search-alert-enabled-en.png 1.5x"
 data-file-width="952" data-file-height="59" width="800" height="50"
-alt="Help35-Components-Search-alert-enabled-en.png" />
+alt="Help35 Components Search alert enabled en.png" />
 
 - **Gathering statistics enabled / Gathering statistics disabled**. If
   the options parameter called "Gather Search Statistics" is set to
@@ -213,7 +213,7 @@ src="https://docs.joomla.org/images/thumb/d/d1/Help35-Reset-Options-Help-toolbar
 decoding="async"
 srcset="https://docs.joomla.org/images/d/d1/Help35-Reset-Options-Help-toolbar-en.png 1.5x"
 data-file-width="1123" data-file-height="41" width="800" height="29"
-alt="Help35-Reset-Options-Help-toolbar-en.png" />
+alt="Help35 Reset Options Help toolbar en.png" />
 
 The functions are:
 
@@ -256,7 +256,7 @@ for Search Statistics, as shown below:
 src="https://docs.joomla.org/images/b/bc/Help35-Components-Search-options-screen-component-tab-en.png"
 decoding="async" data-file-width="471" data-file-height="365"
 width="471" height="365"
-alt="Help35-Components-Search-options-screen-component-tab-en.png" />
+alt="Help35 Components Search options screen component tab en.png" />
 
 - **Gather Search Statistics**. Whether or not to gather search
   statistics for the web site. If set to "No", no information will be
@@ -287,7 +287,7 @@ src="https://docs.joomla.org/images/thumb/e/e5/Help35-Components-Search-options-
 decoding="async"
 srcset="https://docs.joomla.org/images/e/e5/Help35-Components-Search-options-screen-permissions-tab-en.png 1.5x"
 data-file-width="943" data-file-height="734" width="800" height="623"
-alt="Help35-Components-Search-options-screen-permissions-tab-en.png" />
+alt="Help35 Components Search options screen permissions tab en.png" />
 
 
 For more information, please refer to:

@@ -21,7 +21,7 @@ src="https://docs.joomla.org/images/thumb/c/c1/Help-4x-Components-Associations-e
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/c1/Help-4x-Components-Associations-es.png/1200px-Help-4x-Components-Associations-es.png 1.5x, https://docs.joomla.org/images/thumb/c/c1/Help-4x-Components-Associations-es.png/1600px-Help-4x-Components-Associations-es.png 2x"
 data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Help-4x-Components-Associations-es.png" />
+alt="Components Associations" />
 
 ## Encabezados de columna
 
@@ -95,7 +95,7 @@ src="https://docs.joomla.org/images/thumb/7/7e/Help-4x-Components-Associations-t
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/7e/Help-4x-Components-Associations-toolbar-subscreen-es.png/1200px-Help-4x-Components-Associations-toolbar-subscreen-es.png 1.5x, https://docs.joomla.org/images/thumb/7/7e/Help-4x-Components-Associations-toolbar-subscreen-es.png/1600px-Help-4x-Components-Associations-toolbar-subscreen-es.png 2x"
 data-file-width="2769" data-file-height="270" width="800" height="78"
-alt="Help-4x-Components-Associations-toolbar-subscreen-es.png" />
+alt="Components Associations toolbar subscreen" />
 
 - **Delete All Associations**. Lets you delete all associations. After a
   question to confirm, all associations will be deleted.

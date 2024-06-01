@@ -18,7 +18,7 @@ src="https://docs.joomla.org/images/thumb/6/67/Help4.x-Components-Finder-Options
 decoding="async"
 srcset="https://docs.joomla.org/images/6/67/Help4.x-Components-Finder-Options-nl.png 1.5x"
 data-file-width="1188" data-file-height="1192" width="800" height="803"
-alt="Help4.x-Components-Finder-Options-nl.png" />
+alt="Help4.x Components Finder Options nl.png" />
 
 ### Formulier velden
 
@@ -68,7 +68,7 @@ src="https://docs.joomla.org/images/thumb/4/4a/Help4x-Components-Finder-Options-
 decoding="async"
 srcset="https://docs.joomla.org/images/4/4a/Help4x-Components-Finder-Options-Index-nl.png 1.5x"
 data-file-width="697" data-file-height="840" width="600" height="723"
-alt="Help4x-Components-Finder-Options-Index-nl.png" />
+alt="Help4x Components Finder Options Index nl.png" />
 
 - **Zoeken naar termen.** (Uitgeschakeld/Ingeschakeld) Performance ten
   opzichte van kwaliteit van het resultaat.
@@ -128,7 +128,7 @@ src="https://docs.joomla.org/images/thumb/e/e9/Help4x-Components-Finder-Options-
 decoding="async"
 srcset="https://docs.joomla.org/images/e/e9/Help4x-Components-Finder-Options-Permissions-nl.png 1.5x"
 data-file-width="703" data-file-height="706" width="600" height="603"
-alt="Help4x-Components-Finder-Options-Permissions-nl.png" />
+alt="Help4x Components Finder Options Permissions nl.png" />
 
 
 Om de rechten van deze extensie te wijzigen moet u de volgende

@@ -25,7 +25,7 @@ src="https://docs.joomla.org/images/thumb/0/0f/Help-4x-extension_manager-databas
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/0/0f/Help-4x-extension_manager-database-screen-nl.png/1200px-Help-4x-extension_manager-database-screen-nl.png 1.5x, https://docs.joomla.org/images/0/0f/Help-4x-extension_manager-database-screen-nl.png 2x"
 data-file-width="1201" data-file-height="418" width="800" height="278"
-alt="Help-4x-extension manager-database-screen-nl.png" />
+alt="extension manager database screen" />
 
 ## Kolomkoppen
 

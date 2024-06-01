@@ -27,7 +27,7 @@ src="https://docs.joomla.org/images/thumb/3/33/Help-4x-Menus-Item-Articles-Singl
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/3/33/Help-4x-Menus-Item-Articles-Single-Article-screen-nl.png/1200px-Help-4x-Menus-Item-Articles-Single-Article-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/3/33/Help-4x-Menus-Item-Articles-Single-Article-screen-nl.png/1600px-Help-4x-Menus-Item-Articles-Single-Article-screen-nl.png 2x"
 data-file-width="2880" data-file-height="1260" width="800" height="350"
-alt="Help-4x-Menus-Item-Articles-Single-Article-screen-nl.png" />
+alt="Menus Item Articles Single Article screen" />
 
 ## Formulier velden
 
@@ -72,7 +72,7 @@ src="https://docs.joomla.org/images/thumb/e/e2/Help-4x-Menus-Item-Articles-Singl
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/e2/Help-4x-Menus-Item-Articles-Single-Article-options-subscreen-nl.png/900px-Help-4x-Menus-Item-Articles-Single-Article-options-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/e/e2/Help-4x-Menus-Item-Articles-Single-Article-options-subscreen-nl.png/1200px-Help-4x-Menus-Item-Articles-Single-Article-options-subscreen-nl.png 2x"
 data-file-width="2880" data-file-height="1340" width="600" height="279"
-alt="Help-4x-Menus-Item-Articles-Single-Article-options-subscreen-nl.png" />
+alt="Menus Item Articles Single Article options subscreen" />
 
 Merk op dat deze opties "**Gebruik algemeen**" bevatten. Als dit gekozen
 is, dan worden de instellingen van de [Artikelbeheer

@@ -22,7 +22,7 @@ src="https://docs.joomla.org/images/thumb/c/cc/Help-4x-Components-Banners-Client
 decoding="async"
 srcset="https://docs.joomla.org/images/c/cc/Help-4x-Components-Banners-Clients-Edit-screen-nl.png 1.5x"
 data-file-width="1170" data-file-height="875" width="800" height="598"
-alt="Help-4x-Components-Banners-Clients-Edit-screen-nl.png" />
+alt="Components Banners Clients Edit screen" />
 
 ### Formulier velden
 
@@ -60,7 +60,7 @@ alt="Help-4x-Components-Banners-Clients-Edit-screen-nl.png" />
 src="https://docs.joomla.org/images/e/ea/Help-4x-Components-Banners-Clients-Edit-screen-metadata-nl.png"
 decoding="async" data-file-width="611" data-file-height="486"
 width="611" height="486"
-alt="Help-4x-Components-Banners-Clients-Edit-screen-metadata-nl.png" />
+alt="Components Banners Clients Edit screen metadata" />
 
 - **Trefwoorden**. Optionele invoer voor trefwoorden. Dient ingevoerd
   worden gescheiden door komma's (bijvoorbeeld, "katten, honden,

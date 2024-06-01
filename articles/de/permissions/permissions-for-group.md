@@ -20,7 +20,7 @@ src="https://docs.joomla.org/images/thumb/1/18/Help-4x-debug_groups-screen-de.pn
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/1/18/Help-4x-debug_groups-screen-de.png/1200px-Help-4x-debug_groups-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/1/18/Help-4x-debug_groups-screen-de.png/1600px-Help-4x-debug_groups-screen-de.png 2x"
 data-file-width="2182" data-file-height="980" width="800" height="359"
-alt="Help-4x-debug groups-screen-de.png" />
+alt="debug groups screen" />
 
 ## Spalten-Überschriften
 
@@ -114,7 +114,7 @@ Am Seitenende befindet sich diese Legende:
 <img
 src="https://docs.joomla.org/images/4/4a/Help31-Help-Permissions-Report-Legend-de.png"
 decoding="async" data-file-width="296" data-file-height="22" width="296"
-height="22" alt="Help31-Help-Permissions-Report-Legend-de.png" />
+height="22" alt="Help31 Help Permissions Report Legend de.png" />
 
 - **Nicht erlaubt**. Die Aktion ist nicht erlaubt.
 - **Erlaubt**. Die Aktion ist erlaubt.

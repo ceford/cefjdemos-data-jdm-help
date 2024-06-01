@@ -16,7 +16,7 @@ and delete User Groups.
 src="https://docs.joomla.org/images/a/a9/Help-4x-users-user-manager-user-groups-en.png"
 decoding="async" data-file-width="800" data-file-height="773"
 width="800" height="773"
-alt="Help-4x-users-user-manager-user-groups-en.png" />
+alt="users user manager user groups" />
 
 ## Column Headers
 

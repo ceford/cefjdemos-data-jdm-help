@@ -23,7 +23,7 @@ src="https://docs.joomla.org/images/thumb/2/2a/Help-4x-modules-administrator-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/2/2a/Help-4x-modules-administrator-module-manager-module-toolbar-nl.png 1.5x"
 data-file-width="1094" data-file-height="868" width="800" height="635"
-alt="Help-4x-modules-administrator-module-manager-module-toolbar-nl.png" />
+alt="modules administrator module manager module toolbar" />
 
 ## Formulier velden
 
@@ -78,7 +78,7 @@ src="https://docs.joomla.org/images/thumb/2/2a/Help-4x-modules-manager-admin-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/2a/Help-4x-modules-manager-admin-module-site-advanced-options-nl.png/900px-Help-4x-modules-manager-admin-module-site-advanced-options-nl.png 1.5x, https://docs.joomla.org/images/2/2a/Help-4x-modules-manager-admin-module-site-advanced-options-nl.png 2x"
 data-file-width="1003" data-file-height="532" width="600" height="318"
-alt="Help-4x-modules-manager-admin-module-site-advanced-options-nl.png" />
+alt="modules manager admin module site advanced options" />
 
 - **Weergave.** Als u één of meer alternatieve lay-outs voor een module
   heeft gedefinieerd of in het template of in Joomla! core, dan kunt u
@@ -119,7 +119,7 @@ src="https://docs.joomla.org/images/thumb/4/4f/Help-4x-modules-manager-admin-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/4f/Help-4x-modules-manager-admin-module-administrator-permissions-nl.png/900px-Help-4x-modules-manager-admin-module-administrator-permissions-nl.png 1.5x, https://docs.joomla.org/images/4/4f/Help-4x-modules-manager-admin-module-administrator-permissions-nl.png 2x"
 data-file-width="977" data-file-height="665" width="600" height="408"
-alt="Help-4x-modules-manager-admin-module-administrator-permissions-nl.png" />
+alt="modules manager admin module administrator permissions" />
 
 Doe, om de rechten te veranderen, het volgende.
 

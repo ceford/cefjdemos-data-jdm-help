@@ -17,7 +17,7 @@ Om een nieuw **URL** menu-item aan te maken:
     decoding="async"
     srcset="https://docs.joomla.org/images/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png 1.5x"
     data-file-width="124" data-file-height="43" width="87" height="30"
-    alt="Help-4x-Menu-Item-Type-Select-Button-nl.png" />
+    alt="Menu Item Type Select Button" />
   - Selecteer in de modale dialoog het 'Systeemlinks' item om een lijst
     te openen en selecteer daarna het **URL** item.
 

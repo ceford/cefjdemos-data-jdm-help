@@ -32,7 +32,7 @@ src="https://docs.joomla.org/images/thumb/e/e6/Help-4x-Menus-Item-Articles-Artic
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/e6/Help-4x-Menus-Item-Articles-Article-Archived-screen-ru.png/1200px-Help-4x-Menus-Item-Articles-Article-Archived-screen-ru.png 1.5x, https://docs.joomla.org/images/thumb/e/e6/Help-4x-Menus-Item-Articles-Article-Archived-screen-ru.png/1600px-Help-4x-Menus-Item-Articles-Article-Archived-screen-ru.png 2x"
 data-file-width="2880" data-file-height="1448" width="800" height="402"
-alt="Help-4x-Menus-Item-Articles-Article-Archived-screen-ru.png" />
+alt="Menus Item Articles Article Archived screen" />
 
 ## Form Fields
 
@@ -69,7 +69,7 @@ src="https://docs.joomla.org/images/thumb/e/ee/Help-4x-Menus-Item-Articles-Artic
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/ee/Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-ru.png/900px-Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/e/ee/Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-ru.png/1200px-Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-ru.png 2x"
 data-file-width="2880" data-file-height="1250" width="600" height="260"
-alt="Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-ru.png" />
+alt="Menus Item Articles Article Archived archive subscreen" />
 
 - **Порядок материалов**.
   - Старые первыми: Articles are displayed starting with the oldest and
@@ -116,7 +116,7 @@ src="https://docs.joomla.org/images/thumb/0/04/Help-4x-Menus-Item-Articles-Artic
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/0/04/Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-ru.png/900px-Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/0/04/Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-ru.png/1200px-Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-ru.png 2x"
 data-file-width="2880" data-file-height="1300" width="600" height="271"
-alt="Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-ru.png" />
+alt="Menus Item Articles Article Archived options subscreen" />
 
 **Макет**
 

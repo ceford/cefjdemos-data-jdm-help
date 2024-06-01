@@ -24,7 +24,7 @@ src="https://docs.joomla.org/images/thumb/1/11/Help-4x-modules-site-module-manag
 decoding="async"
 srcset="https://docs.joomla.org/images/1/11/Help-4x-modules-site-module-manager-module-archived-articles-nl.png 1.5x"
 data-file-width="1196" data-file-height="1291" width="800" height="864"
-alt="Help-4x-modules-site-module-manager-module-archived-articles-nl.png" />
+alt="modules site module manager module archived articles" />
 
 ### Formulier velden
 
@@ -77,7 +77,7 @@ src="https://docs.joomla.org/images/thumb/c/cc/Help-4x-modules-manager-site-modu
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/cc/Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png/900px-Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png 1.5x, https://docs.joomla.org/images/thumb/c/cc/Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png/1200px-Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png 2x"
 data-file-width="1267" data-file-height="725" width="600" height="343"
-alt="Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png" />
+alt="modules manager site module menu assignment tab" />
 
 - **Moduletoewijzing.** Selecteer **Op alle pagina's**, **Geen
   pagina's**, **Alleen op de geselecteerde pagina's** of **Op alle
@@ -98,7 +98,7 @@ src="https://docs.joomla.org/images/thumb/2/2a/Help-4x-modules-manager-admin-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/2a/Help-4x-modules-manager-admin-module-site-advanced-options-nl.png/900px-Help-4x-modules-manager-admin-module-site-advanced-options-nl.png 1.5x, https://docs.joomla.org/images/2/2a/Help-4x-modules-manager-admin-module-site-advanced-options-nl.png 2x"
 data-file-width="1003" data-file-height="532" width="600" height="318"
-alt="Help-4x-modules-manager-admin-module-site-advanced-options-nl.png" />
+alt="modules manager admin module site advanced options" />
 
 - **Weergave.** Als u één of meer alternatieve lay-outs voor een module
   heeft gedefinieerd of in het template of in Joomla! core, dan kunt u
@@ -139,7 +139,7 @@ src="https://docs.joomla.org/images/thumb/4/4f/Help-4x-modules-manager-admin-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/4f/Help-4x-modules-manager-admin-module-administrator-permissions-nl.png/900px-Help-4x-modules-manager-admin-module-administrator-permissions-nl.png 1.5x, https://docs.joomla.org/images/4/4f/Help-4x-modules-manager-admin-module-administrator-permissions-nl.png 2x"
 data-file-width="977" data-file-height="665" width="600" height="408"
-alt="Help-4x-modules-manager-admin-module-administrator-permissions-nl.png" />
+alt="modules manager admin module administrator permissions" />
 
 - **Verwijderen:** (*Overgenomen*/*Toegestaan*/*Geweigerd*). Sta toe of
   weiger het verwijderen door gebruikers in de publieke groep.
@@ -186,7 +186,7 @@ artikelen module toont:
 src="https://docs.joomla.org/images/4/4a/Help-4x-module-manager-archived-articles-frontend-screenshot-nl.png"
 decoding="async" data-file-width="287" data-file-height="149"
 width="287" height="149"
-alt="Help-4x-module-manager-archived-articles-frontend-screenshot-nl.png" />
+alt="module manager archived articles frontend screenshot" />
 
 De module type naam voor deze module is "mod_articles_archive". Het is
 gerelateerd aan de inhoud component.

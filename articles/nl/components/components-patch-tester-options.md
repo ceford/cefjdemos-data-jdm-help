@@ -27,7 +27,7 @@ src="https://docs.joomla.org/images/thumb/b/b5/Help-4x-Component-Patch-Tester-Op
 decoding="async"
 srcset="https://docs.joomla.org/images/b/b5/Help-4x-Component-Patch-Tester-Options-screenshot-nl.png 1.5x"
 data-file-width="1170" data-file-height="644" width="800" height="440"
-alt="Help-4x-Component-Patch-Tester-Options-screenshot-nl.png" />
+alt="Component Patch Tester Options screenshot" />
 
 ### Formulier velden
 
@@ -44,7 +44,7 @@ Bekijk het GitHub authenticatie tabblad voor de details.
 src="https://docs.joomla.org/images/d/df/Help-4x-Component-Patch-Tester-Options-github-authentication-subscreen-nl.png"
 decoding="async" data-file-width="694" data-file-height="527"
 width="694" height="527"
-alt="Help-4x-Component-Patch-Tester-Options-github-authentication-subscreen-nl.png" />
+alt="Component Patch Tester Options github authentication subscreen" />
 
 - **GitHub authenticatie methode.** Kies voor de Token methode. De
   inloggegevens methode zal vanaf november 2020 niet meer werken.
@@ -59,7 +59,7 @@ de standaards voor handmatig testen.
 src="https://docs.joomla.org/images/9/96/Help-4x-Component-Patch-Tester-Options-ci-server-settings-subscreen-nl.png"
 decoding="async" data-file-width="701" data-file-height="348"
 width="701" height="348"
-alt="Help-4x-Component-Patch-Tester-Options-ci-server-settings-subscreen-nl.png" />
+alt="Component Patch Tester Options ci server settings subscreen" />
 
 - **CI-serveradres.** Standaard:
   <a href="https://ci.joomla.org" class="external free" target="_blank"
@@ -75,7 +75,7 @@ component wil wijzigen.
 src="https://docs.joomla.org/images/5/59/Help-4x-Component-Patch-Tester-Options-permissions-subscreen-nl.png"
 decoding="async" data-file-width="700" data-file-height="631"
 width="700" height="631"
-alt="Help-4x-Component-Patch-Tester-Options-permissions-subscreen-nl.png" />
+alt="Component Patch Tester Options permissions subscreen" />
 
 Om de rechten van deze extensie te wijzigen moet u de volgende
 handelingen uitvoeren.

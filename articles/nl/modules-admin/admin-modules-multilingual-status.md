@@ -8,7 +8,7 @@ toegang tot de meertaligheid parameters biedt in meertalige websites.
 src="https://docs.joomla.org/images/1/1e/Help-4x-modules-administrator-module-manager-module-multilingual-status-icon-nl.png"
 decoding="async" data-file-width="81" data-file-height="48" width="81"
 height="48"
-alt="Help-4x-modules-administrator-module-manager-module-multilingual-status-icon-nl.png" />
+alt="modules administrator module manager module multilingual status icon" />
 
 ## Hoe toegang te krijgen
 
@@ -28,7 +28,7 @@ src="https://docs.joomla.org/images/thumb/f/f4/Help-4x-modules-administrator-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/f/f4/Help-4x-modules-administrator-module-manager-module-multilingual-status-form-nl.png 1.5x"
 data-file-width="1094" data-file-height="866" width="800" height="633"
-alt="Help-4x-modules-administrator-module-manager-module-multilingual-status-form-nl.png" />
+alt="modules administrator module manager module multilingual status form" />
 
 ## Formulier velden
 
@@ -83,7 +83,7 @@ src="https://docs.joomla.org/images/thumb/2/2a/Help-4x-modules-manager-admin-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/2a/Help-4x-modules-manager-admin-module-site-advanced-options-nl.png/900px-Help-4x-modules-manager-admin-module-site-advanced-options-nl.png 1.5x, https://docs.joomla.org/images/2/2a/Help-4x-modules-manager-admin-module-site-advanced-options-nl.png 2x"
 data-file-width="1003" data-file-height="532" width="600" height="318"
-alt="Help-4x-modules-manager-admin-module-site-advanced-options-nl.png" />
+alt="modules manager admin module site advanced options" />
 
 - **Weergave.** Als u één of meer alternatieve lay-outs voor een module
   heeft gedefinieerd of in het template of in Joomla! core, dan kunt u
@@ -124,7 +124,7 @@ src="https://docs.joomla.org/images/thumb/4/4f/Help-4x-modules-manager-admin-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/4f/Help-4x-modules-manager-admin-module-administrator-permissions-nl.png/900px-Help-4x-modules-manager-admin-module-administrator-permissions-nl.png 1.5x, https://docs.joomla.org/images/4/4f/Help-4x-modules-manager-admin-module-administrator-permissions-nl.png 2x"
 data-file-width="977" data-file-height="665" width="600" height="408"
-alt="Help-4x-modules-manager-admin-module-administrator-permissions-nl.png" />
+alt="modules manager admin module administrator permissions" />
 
 Doe, om de rechten te veranderen, het volgende.
 
@@ -171,4 +171,4 @@ src="https://docs.joomla.org/images/thumb/2/22/Help-4x-modules-administrator-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/22/Help-4x-modules-administrator-module-manager-module-multilingual-status-report-nl.png/900px-Help-4x-modules-administrator-module-manager-module-multilingual-status-report-nl.png 1.5x, https://docs.joomla.org/images/2/22/Help-4x-modules-administrator-module-manager-module-multilingual-status-report-nl.png 2x"
 data-file-width="909" data-file-height="733" width="600" height="484"
-alt="Help-4x-modules-administrator-module-manager-module-multilingual-status-report-nl.png" />
+alt="modules administrator module manager module multilingual status report" />

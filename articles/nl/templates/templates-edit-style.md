@@ -25,7 +25,7 @@ src="https://docs.joomla.org/images/thumb/c/c7/Help-4x-Extensions-Template-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/c7/Help-4x-Extensions-Template-Manager-Styles-Edit-screen-nl.png/1200px-Help-4x-Extensions-Template-Manager-Styles-Edit-screen-nl.png 1.5x, https://docs.joomla.org/images/c/c7/Help-4x-Extensions-Template-Manager-Styles-Edit-screen-nl.png 2x"
 data-file-width="1211" data-file-height="600" width="800" height="396"
-alt="Help-4x-Extensions-Template-Manager-Styles-Edit-screen-nl.png" />
+alt="Extensions Template Manager Styles Edit screen" />
 
 ### Formulier velden
 

@@ -15,7 +15,7 @@ Om een nieuw 'Taglijst' menu-item aan te maken:
   - Klik op de Menu-itemtype selectie knop. <img
     src="https://docs.joomla.org/images/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png"
     decoding="async" data-file-width="124" data-file-height="43" width="124"
-    height="43" alt="Help-4x-Menu-Item-Type-Select-Button-nl.png" />
+    height="43" alt="Menu Item Type Select Button" />
   - Selecteer in de modale dialoog het 'Tags' item om een lijst te
     openen en selecteer daarna het **Tagslijst** item.
 
@@ -30,7 +30,7 @@ src="https://docs.joomla.org/images/thumb/9/96/Help-4x-Menus-Menu-Item-Tags-Item
 decoding="async"
 srcset="https://docs.joomla.org/images/9/96/Help-4x-Menus-Menu-Item-Tags-Items-List-All-nl.png 1.5x"
 data-file-width="953" data-file-height="886" width="800" height="744"
-alt="Help-4x-Menus-Menu-Item-Tags-Items-List-All-nl.png" />
+alt="Menus Menu Item Tags Items List All" />
 
 ## Formulier velden
 
@@ -117,7 +117,7 @@ src="https://docs.joomla.org/images/thumb/6/6f/Help-4x-Menus-Menu-Item-Tags-Item
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/6/6f/Help-4x-Menus-Menu-Item-Tags-Items-List-All-Tags-options-screenshot-nl.png/900px-Help-4x-Menus-Menu-Item-Tags-Items-List-All-Tags-options-screenshot-nl.png 1.5x, https://docs.joomla.org/images/6/6f/Help-4x-Menus-Menu-Item-Tags-Items-List-All-Tags-options-screenshot-nl.png 2x"
 data-file-width="967" data-file-height="466" width="600" height="289"
-alt="Help-4x-Menus-Menu-Item-Tags-Items-List-All-Tags-options-screenshot-nl.png" />
+alt="Menus Menu Item Tags Items List All Tags options screenshot" />
 
 - "'Aantal Kolommen:' Het aantal kolommen voor het weergeven van de
   tags. N.B. Dit aantal is mogelijk niet het daadwerkelijk aantal
@@ -151,7 +151,7 @@ src="https://docs.joomla.org/images/thumb/3/3a/Help-4x-Menus-Menu-Item-Tags-Item
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/3/3a/Help-4x-Menus-Menu-Item-Tags-Items-List-All-Tags-Selection-options-screenshot-nl.png/900px-Help-4x-Menus-Menu-Item-Tags-Items-List-All-Tags-Selection-options-screenshot-nl.png 1.5x, https://docs.joomla.org/images/3/3a/Help-4x-Menus-Menu-Item-Tags-Items-List-All-Tags-Selection-options-screenshot-nl.png 2x"
 data-file-width="964" data-file-height="296" width="600" height="184"
-alt="Help-4x-Menus-Menu-Item-Tags-Items-List-All-Tags-Selection-options-screenshot-nl.png" />
+alt="Menus Menu Item Tags Items List All Tags Selection options screenshot" />
 
 - **Maximum items.** Het maximum aantal items dat terug moet worden
   gegeven.
@@ -161,7 +161,7 @@ alt="Help-4x-Menus-Menu-Item-Tags-Items-List-All-Tags-Selection-options-screensh
   eruit ziet op de website wordt hieronder getoond. <img
   src="https://docs.joomla.org/images/f/f7/Help30-article-category-list-filter-field-nl.png"
   decoding="async" data-file-width="239" data-file-height="40" width="239"
-  height="40" alt="Help30-article-category-list-filter-field-nl.png" />
+  height="40" alt="Help30 article category list filter field nl.png" />
 
 De mogelijke opties hiervoor (in het beheergedeelte menu-item bewerken)
 staan hieronder.
@@ -170,7 +170,7 @@ staan hieronder.
 src="https://docs.joomla.org/images/a/a1/Help30-article-category-list-filter-field-options-nl.png"
 decoding="async" data-file-width="241" data-file-height="174"
 width="241" height="174"
-alt="Help30-article-category-list-filter-field-options-nl.png" />
+alt="Help30 article category list filter field options nl.png" />
 
 - *Gebruik algemeen:* Gebruik de waarde uit [Artikelen:
   Opties](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl").
@@ -188,7 +188,7 @@ alt="Help30-article-category-list-filter-field-options-nl.png" />
 src="https://docs.joomla.org/images/1/1a/Help30-article-category-list-display-select-nl.png"
 decoding="async" data-file-width="700" data-file-height="334"
 width="700" height="334"
-alt="Help30-article-category-list-display-select-nl.png" />
+alt="Help30 article category list display select nl.png" />
 
 Indien er meer items zijn dan dit aantal kunnen de pagina
 navigatieknoppen (Start, Vorige, Volgende, Einde en paginanummers)
@@ -205,7 +205,7 @@ worden.
 
 <img src="https://docs.joomla.org/images/2/25/Help30-pagination-nl.png"
 decoding="async" data-file-width="251" data-file-height="61" width="251"
-height="61" alt="Help30-pagination-nl.png" />
+height="61" alt="Help30 pagination nl.png" />
 
 De volgende opties zijn beschikbaar.
 
@@ -259,7 +259,7 @@ weergave: <img
 src="https://docs.joomla.org/images/3/36/Help-4x-Menus-Menu-Tags-List-All-front-end-screenshot-nl.png"
 decoding="async" data-file-width="577" data-file-height="445"
 width="577" height="445"
-alt="Help-4x-Menus-Menu-Tags-List-All-front-end-screenshot-nl.png" />
+alt="Menus Menu Tags List All front end screenshot" />
 
 ## Verwante informatie
 

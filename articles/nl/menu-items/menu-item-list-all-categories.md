@@ -30,7 +30,7 @@ src="https://docs.joomla.org/images/thumb/4/4b/Help-4x-Menus-Item-Articles-List-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/4b/Help-4x-Menus-Item-Articles-List-All-Categories-screen-nl.png/1200px-Help-4x-Menus-Item-Articles-List-All-Categories-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/4/4b/Help-4x-Menus-Item-Articles-List-All-Categories-screen-nl.png/1600px-Help-4x-Menus-Item-Articles-List-All-Categories-screen-nl.png 2x"
 data-file-width="2880" data-file-height="1264" width="800" height="351"
-alt="Help-4x-Menus-Item-Articles-List-All-Categories-screen-nl.png" />
+alt="Menus Item Articles List All Categories screen" />
 
 ## Formulier velden
 
@@ -73,7 +73,7 @@ src="https://docs.joomla.org/images/thumb/1/1e/Help-4x-Menus-Item-Articles-List-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/1/1e/Help-4x-Menus-Item-Articles-List-All-Categories-categories-subscreen-nl.png/900px-Help-4x-Menus-Item-Articles-List-All-Categories-categories-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/1/1e/Help-4x-Menus-Item-Articles-List-All-Categories-categories-subscreen-nl.png/1200px-Help-4x-Menus-Item-Articles-List-All-Categories-categories-subscreen-nl.png 2x"
 data-file-width="2878" data-file-height="1344" width="600" height="280"
-alt="Help-4x-Menus-Item-Articles-List-All-Categories-categories-subscreen-nl.png" />
+alt="Menus Item Articles List All Categories categories subscreen" />
 
 Merk op dat deze opties "**Gebruik algemeen**" bevatten. Als dit gekozen
 is, dan worden de instellingen van de [Artikelbeheer
@@ -101,7 +101,7 @@ src="https://docs.joomla.org/images/thumb/3/33/Help-4x-Menus-Item-Articles-List-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/3/33/Help-4x-Menus-Item-Articles-List-All-Categories-category-subscreen-nl.png/900px-Help-4x-Menus-Item-Articles-List-All-Categories-category-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/3/33/Help-4x-Menus-Item-Articles-List-All-Categories-category-subscreen-nl.png/1200px-Help-4x-Menus-Item-Articles-List-All-Categories-category-subscreen-nl.png 2x"
 data-file-width="2878" data-file-height="1344" width="600" height="280"
-alt="Help-4x-Menus-Item-Articles-List-All-Categories-category-subscreen-nl.png" />
+alt="Menus Item Articles List All Categories category subscreen" />
 
 - **Categorietitel**. Toon de titel van de categorie.
 - **Beschrijving van categorie**. Toon de beschrijving van de categorie.
@@ -143,7 +143,7 @@ src="https://docs.joomla.org/images/thumb/8/88/Help-4x-Menus-Item-Articles-List-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/88/Help-4x-Menus-Item-Articles-List-All-Categories-blog-layout-subscreen-nl.png/900px-Help-4x-Menus-Item-Articles-List-All-Categories-blog-layout-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/8/88/Help-4x-Menus-Item-Articles-List-All-Categories-blog-layout-subscreen-nl.png/1200px-Help-4x-Menus-Item-Articles-List-All-Categories-blog-layout-subscreen-nl.png 2x"
 data-file-width="2878" data-file-height="1344" width="600" height="280"
-alt="Help-4x-Menus-Item-Articles-List-All-Categories-blog-layout-subscreen-nl.png" />
+alt="Menus Item Articles List All Categories blog layout subscreen" />
 
 - **Leading artikel class**. Elke CSS class kan toegevoegd worden voor
   eigen styling ideeën. Voeg een rand toe boven met de class
@@ -233,7 +233,7 @@ src="https://docs.joomla.org/images/thumb/a/a4/Help-4x-Menus-Item-Articles-List-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/a/a4/Help-4x-Menus-Item-Articles-List-All-Categories-list-layouts-subscreen-nl.png/900px-Help-4x-Menus-Item-Articles-List-All-Categories-list-layouts-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/a/a4/Help-4x-Menus-Item-Articles-List-All-Categories-list-layouts-subscreen-nl.png/1200px-Help-4x-Menus-Item-Articles-List-All-Categories-list-layouts-subscreen-nl.png 2x"
 data-file-width="2878" data-file-height="1344" width="600" height="280"
-alt="Help-4x-Menus-Item-Articles-List-All-Categories-list-layouts-subscreen-nl.png" />
+alt="Menus Item Articles List All Categories list layouts subscreen" />
 
 - nl
 - nlOptions in the Backend menu item edit.
@@ -263,7 +263,7 @@ src="https://docs.joomla.org/images/thumb/8/8d/Help-4x-Menus-Item-Articles-List-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/8d/Help-4x-Menus-Item-Articles-List-All-Categories-shared-subscreen-nl.png/900px-Help-4x-Menus-Item-Articles-List-All-Categories-shared-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/8/8d/Help-4x-Menus-Item-Articles-List-All-Categories-shared-subscreen-nl.png/1200px-Help-4x-Menus-Item-Articles-List-All-Categories-shared-subscreen-nl.png 2x"
 data-file-width="2878" data-file-height="810" width="600" height="169"
-alt="Help-4x-Menus-Item-Articles-List-All-Categories-shared-subscreen-nl.png" />
+alt="Menus Item Articles List All Categories shared subscreen" />
 
 - **Paginering**. Paginering geeft paginalinks weer onderaan de pagina
   waarmee gebruikers naar andere pagina's kunnen navigeren. Deze zijn
@@ -286,7 +286,7 @@ src="https://docs.joomla.org/images/thumb/1/11/Help-4x-Menus-Item-Articles-List-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/1/11/Help-4x-Menus-Item-Articles-List-All-Categories-options-subscreen-nl.png/900px-Help-4x-Menus-Item-Articles-List-All-Categories-options-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/1/11/Help-4x-Menus-Item-Articles-List-All-Categories-options-subscreen-nl.png/1200px-Help-4x-Menus-Item-Articles-List-All-Categories-options-subscreen-nl.png 2x"
 data-file-width="2878" data-file-height="1344" width="600" height="280"
-alt="Help-4x-Menus-Item-Articles-List-All-Categories-options-subscreen-nl.png" />
+alt="Menus Item Articles List All Categories options subscreen" />
 
 **Weergave**
 
@@ -350,7 +350,7 @@ src="https://docs.joomla.org/images/thumb/8/8d/Help-4x-Menus-Item-Articles-List-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/8d/Help-4x-Menus-Item-Articles-List-All-Categories-integration-subscreen-nl.png/900px-Help-4x-Menus-Item-Articles-List-All-Categories-integration-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/8/8d/Help-4x-Menus-Item-Articles-List-All-Categories-integration-subscreen-nl.png/1200px-Help-4x-Menus-Item-Articles-List-All-Categories-integration-subscreen-nl.png 2x"
 data-file-width="2878" data-file-height="710" width="600" height="148"
-alt="Help-4x-Menus-Item-Articles-List-All-Categories-integration-subscreen-nl.png" />
+alt="Menus Item Articles List All Categories integration subscreen" />
 
 - **RSS feed link**. Als deze ingesteld staat op Toon zal de Feedlink
   verschijnen als een feedicoon in de adresbalk bij de meeste browsers.

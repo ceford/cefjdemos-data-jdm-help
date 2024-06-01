@@ -25,7 +25,7 @@ until the cache files are re-created with use.
 src="https://docs.joomla.org/images/1/10/Help-4x-System-Clear-Cache-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="232"
 width="800" height="232"
-alt="Help-4x-System-Clear-Cache-screen-en.png" />
+alt="System Clear Cache screen" />
 
 ## Column Headers
 

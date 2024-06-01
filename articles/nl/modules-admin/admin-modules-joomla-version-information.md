@@ -6,7 +6,7 @@ Deze module geeft de Joomla! versie weer in de beheerder titelbalk. <img
 src="https://docs.joomla.org/images/0/09/Help-4x-modules-administrator-module-joomla-version-icon-nl.png"
 decoding="async" data-file-width="84" data-file-height="56" width="84"
 height="56"
-alt="Help-4x-modules-administrator-module-joomla-version-icon-nl.png" />
+alt="modules administrator module joomla version icon" />
 
 ## Hoe toegang te krijgen
 
@@ -26,7 +26,7 @@ src="https://docs.joomla.org/images/thumb/6/64/Help-4x-modules-administrator-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/6/64/Help-4x-modules-administrator-module-joomla-version-nl.png 1.5x"
 data-file-width="1099" data-file-height="882" width="800" height="642"
-alt="Help-4x-modules-administrator-module-joomla-version-nl.png" />
+alt="modules administrator module joomla version" />
 
 ## Formulier velden
 
@@ -80,7 +80,7 @@ src="https://docs.joomla.org/images/thumb/2/2a/Help-4x-modules-manager-admin-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/2a/Help-4x-modules-manager-admin-module-site-advanced-options-nl.png/900px-Help-4x-modules-manager-admin-module-site-advanced-options-nl.png 1.5x, https://docs.joomla.org/images/2/2a/Help-4x-modules-manager-admin-module-site-advanced-options-nl.png 2x"
 data-file-width="1003" data-file-height="532" width="600" height="318"
-alt="Help-4x-modules-manager-admin-module-site-advanced-options-nl.png" />
+alt="modules manager admin module site advanced options" />
 
 - **Weergave.** Als u één of meer alternatieve lay-outs voor een module
   heeft gedefinieerd of in het template of in Joomla! core, dan kunt u
@@ -121,7 +121,7 @@ src="https://docs.joomla.org/images/thumb/4/4f/Help-4x-modules-manager-admin-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/4f/Help-4x-modules-manager-admin-module-administrator-permissions-nl.png/900px-Help-4x-modules-manager-admin-module-administrator-permissions-nl.png 1.5x, https://docs.joomla.org/images/4/4f/Help-4x-modules-manager-admin-module-administrator-permissions-nl.png 2x"
 data-file-width="977" data-file-height="665" width="600" height="408"
-alt="Help-4x-modules-manager-admin-module-administrator-permissions-nl.png" />
+alt="modules manager admin module administrator permissions" />
 
 Doe, om de rechten te veranderen, het volgende.
 

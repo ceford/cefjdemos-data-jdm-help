@@ -21,7 +21,7 @@ src="https://docs.joomla.org/images/thumb/b/b6/Help-4x-Components-Finder-Manage-
 decoding="async"
 srcset="https://docs.joomla.org/images/b/b6/Help-4x-Components-Finder-Manage-Search-Filters-Edit-screen-nl.png 1.5x"
 data-file-width="1187" data-file-height="1113" width="800" height="750"
-alt="Help-4x-Components-Finder-Manage-Search-Filters-Edit-screen-nl.png" />
+alt="Components Finder Manage Search Filters Edit screen" />
 
 ### Formulier velden
 
@@ -49,7 +49,7 @@ src="https://docs.joomla.org/images/thumb/4/47/Help-4x-Components-Finder-Manage-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/47/Help-4x-Components-Finder-Manage-Search-Filters-subscreen-Options-tab-nl.png/1200px-Help-4x-Components-Finder-Manage-Search-Filters-subscreen-Options-tab-nl.png.jpeg 1.5x, https://docs.joomla.org/images/4/47/Help-4x-Components-Finder-Manage-Search-Filters-subscreen-Options-tab-nl.png 2x"
 data-file-width="1214" data-file-height="423" width="800" height="279"
-alt="Help-4x-Components-Finder-Manage-Search-Filters-subscreen-Options-tab-nl.png" />
+alt="Components Finder Manage Search Filters subscreen Options tab" />
 
 **Publicatie venster**
 

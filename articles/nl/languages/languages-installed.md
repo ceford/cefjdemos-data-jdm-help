@@ -17,7 +17,7 @@ src="https://docs.joomla.org/images/thumb/e/e2/Help-4x-Extensions-Language-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/e/e2/Help-4x-Extensions-Language-Manager-Installed-screen-nl.png 1.5x"
 data-file-width="1145" data-file-height="457" width="800" height="319"
-alt="Help-4x-Extensions-Language-Manager-Installed-screen-nl.png" />
+alt="Extensions Language Manager Installed screen" />
 
 ## Kolomkoppen
 
@@ -96,7 +96,7 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   standaard ster symbool
   (<img src="https://docs.joomla.org/images/7/7e/Icon-16-default.png"
   decoding="async" data-file-width="30" data-file-height="20" width="30"
-  height="20" alt="Icon-16-default.png" />) wordt getoond in de
+  height="20" alt="Icon 16 default.png" />) wordt getoond in de
   Standaard kolom, wat aangeeft dat het nu het standaard item is.
 - **Wissel taal.** Selecteer, alleen in het beheerder scherm, een
   keuzerondje en daarna deze knop. De beheerdertaal verandert en er is

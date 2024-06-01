@@ -23,7 +23,7 @@ src="https://docs.joomla.org/images/thumb/7/7f/Help-4x-modules-site-module-manag
 decoding="async"
 srcset="https://docs.joomla.org/images/7/7f/Help-4x-modules-site-module-manager-module-articles-newsflash-nl.png 1.5x"
 data-file-width="1134" data-file-height="1336" width="800" height="943"
-alt="Help-4x-modules-site-module-manager-module-articles-newsflash-nl.png" />
+alt="modules site module manager module articles newsflash" />
 
 ### Formulier velden
 
@@ -93,7 +93,7 @@ src="https://docs.joomla.org/images/thumb/c/cc/Help-4x-modules-manager-site-modu
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/cc/Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png/1200px-Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png 1.5x, https://docs.joomla.org/images/c/cc/Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png 2x"
 data-file-width="1267" data-file-height="725" width="800" height="458"
-alt="Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png" />
+alt="modules manager site module menu assignment tab" />
 
 - **Moduletoewijzing.** Selecteer **Op alle pagina's**, **Geen
   pagina's**, **Alleen op de geselecteerde pagina's** of **Op alle
@@ -114,7 +114,7 @@ src="https://docs.joomla.org/images/thumb/c/c0/Help-4x-modules-site-module-manag
 decoding="async"
 srcset="https://docs.joomla.org/images/c/c0/Help-4x-modules-site-module-manager-module-articles-category-advanced-options-nl.png 1.5x"
 data-file-width="1124" data-file-height="486" width="800" height="346"
-alt="Help-4x-modules-site-module-manager-module-articles-category-advanced-options-nl.png" />
+alt="modules site module manager module articles category advanced options" />
 
 - **Weergave.** Als u één of meer alternatieve lay-outs voor een module
   heeft gedefinieerd of in het template of in Joomla! core, dan kunt u
@@ -155,7 +155,7 @@ src="https://docs.joomla.org/images/thumb/4/4f/Help-4x-modules-manager-admin-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/4/4f/Help-4x-modules-manager-admin-module-administrator-permissions-nl.png 1.5x"
 data-file-width="977" data-file-height="665" width="800" height="545"
-alt="Help-4x-modules-manager-admin-module-administrator-permissions-nl.png" />
+alt="modules manager admin module administrator permissions" />
 
 Doe, om de rechten te veranderen, het volgende.
 
@@ -209,7 +209,7 @@ Artikel nieuwsflits module:
 src="https://docs.joomla.org/images/4/45/Help-4x-module-manager-articles-newsflash-frontend-screenshot-nl.png"
 decoding="async" data-file-width="289" data-file-height="306"
 width="289" height="306"
-alt="Help-4x-module-manager-articles-newsflash-frontend-screenshot-nl.png" />
+alt="module manager articles newsflash frontend screenshot" />
 
 The Module Type name for this Module is "mod_articles_newsflash". It is
 related to the content component.

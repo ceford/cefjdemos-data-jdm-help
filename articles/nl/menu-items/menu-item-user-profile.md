@@ -17,7 +17,7 @@ Aanmaken van een nieuw 'Gebruikersprofiel' menu-item.
     decoding="async"
     srcset="https://docs.joomla.org/images/thumb/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png/122px-Help-4x-Menu-Item-Type-Select-Button-nl.png 1.5x, https://docs.joomla.org/images/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png 2x"
     data-file-width="124" data-file-height="43" width="81" height="28"
-    alt="Help-4x-Menu-Item-Type-Select-Button-nl.png" />
+    alt="Menu Item Type Select Button" />
   - Selecteer in de modale dialoog het 'Gebruikers' item om een lijst te
     openen en selecteer daarna het **Gebruikersprofiel** item.
 
@@ -32,7 +32,7 @@ src="https://docs.joomla.org/images/thumb/e/e5/Help-4x-Menus-Menu-Item-User-Prof
 decoding="async"
 srcset="https://docs.joomla.org/images/e/e5/Help-4x-Menus-Menu-Item-User-Profile-nl.png 1.5x"
 data-file-width="956" data-file-height="878" width="800" height="735"
-alt="Help-4x-Menus-Menu-Item-User-Profile-nl.png" />
+alt="Menus Menu Item User Profile" />
 
 ## Formulier velden
 
@@ -152,7 +152,7 @@ Weergegeven gebruikersprofiel:
 src="https://docs.joomla.org/images/9/9f/Help-4x-Menus-Menu-User-Profile-front-end-screenshot-nl.png"
 decoding="async" data-file-width="583" data-file-height="534"
 width="583" height="534"
-alt="Help-4x-Menus-Menu-User-Profile-front-end-screenshot-nl.png" />
+alt="Menus Menu User Profile front end screenshot" />
 
 ## Verwante informatie
 

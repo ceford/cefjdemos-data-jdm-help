@@ -19,7 +19,7 @@ src="https://docs.joomla.org/images/thumb/3/35/Help-4x-Media-Options-screen-de.p
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/3/35/Help-4x-Media-Options-screen-de.png/1200px-Help-4x-Media-Options-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/3/35/Help-4x-Media-Options-screen-de.png/1600px-Help-4x-Media-Options-screen-de.png 2x"
 data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Help-4x-Media-Options-screen-de.png" />
+alt="Media Options screen" />
 
 ## Formular Felder
 
@@ -86,7 +86,7 @@ src="https://docs.joomla.org/images/thumb/9/9d/Help-4x-Media-Options-permissions
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/9/9d/Help-4x-Media-Options-permissions-subscreen-de.png/900px-Help-4x-Media-Options-permissions-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/9/9d/Help-4x-Media-Options-permissions-subscreen-de.png/1200px-Help-4x-Media-Options-permissions-subscreen-de.png 2x"
 data-file-width="2002" data-file-height="1349" width="600" height="404"
-alt="Help-4x-Media-Options-permissions-subscreen-de.png" />
+alt="Media Options permissions subscreen" />
 
 Um Berechtigungen für Medien zu ändern:
 

@@ -27,7 +27,7 @@ src="https://docs.joomla.org/images/thumb/d/da/Help-4x-Components-Banners-Banner
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/d/da/Help-4x-Components-Banners-Banners-Edit-screen-en.png/1200px-Help-4x-Components-Banners-Banners-Edit-screen-en.png.jpeg 1.5x, https://docs.joomla.org/images/d/da/Help-4x-Components-Banners-Banners-Edit-screen-en.png 2x"
 data-file-width="1440" data-file-height="1208" width="800" height="671"
-alt="Help-4x-Components-Banners-Banners-Edit-screen-en.png" />
+alt="Components Banners Banners Edit screen" />
 
 ## Form Fields
 
@@ -94,7 +94,7 @@ displaying automatically.*
 src="https://docs.joomla.org/images/0/09/Help-4x-Components-Banners-Banners-Edit-Banners-Details-Tab-en.png"
 decoding="async" data-file-width="600" data-file-height="411"
 width="800" height="548"
-alt="Help-4x-Components-Banners-Banners-Edit-Banners-Details-Tab-en.png" />
+alt="Components Banners Banners Edit Banners Details Tab" />
 
 - **Max. Impressions.** The number of Impressions purchased for this
   Banner. Impressions are the number of times a Banner will be displayed
@@ -129,7 +129,7 @@ Monthly, Weekly, Daily*).
 src="https://docs.joomla.org/images/9/90/Help-4x-Components-Banners-Banners-Edit-Publishing-Options-Tab-en.png"
 decoding="async" data-file-width="600" data-file-height="680"
 width="800" height="907"
-alt="Help-4x-Components-Banners-Banners-Edit-Publishing-Options-Tab-en.png" />
+alt="Components Banners Banners Edit Publishing Options Tab" />
 
 - **Start Publishing**. Date the Banner will publish and be available
   for website.

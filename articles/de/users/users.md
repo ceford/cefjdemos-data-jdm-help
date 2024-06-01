@@ -24,7 +24,7 @@ src="https://docs.joomla.org/images/thumb/b/ba/Help-4x-Users-screen-de.png/800px
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/ba/Help-4x-Users-screen-de.png/1200px-Help-4x-Users-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/b/ba/Help-4x-Users-screen-de.png/1600px-Help-4x-Users-screen-de.png 2x"
 data-file-width="2556" data-file-height="1500" width="800" height="469"
-alt="Help-4x-Users-screen-de.png" />
+alt="Users screen" />
 
 ## Spalten-Überschriften
 
@@ -138,7 +138,7 @@ src="https://docs.joomla.org/images/thumb/e/e1/Help-4x-Users-batch-subscreen-de.
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/e1/Help-4x-Users-batch-subscreen-de.png/900px-Help-4x-Users-batch-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/e/e1/Help-4x-Users-batch-subscreen-de.png/1200px-Help-4x-Users-batch-subscreen-de.png 2x"
 data-file-width="1598" data-file-height="717" width="600" height="269"
-alt="Help-4x-Users-batch-subscreen-de.png" />
+alt="Users batch subscreen" />
 
 **Wie man die Stapelverarbeitung** an Benutzern anwendet:
 

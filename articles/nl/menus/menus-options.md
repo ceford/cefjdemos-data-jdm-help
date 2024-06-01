@@ -17,7 +17,7 @@ src="https://docs.joomla.org/images/thumb/4/4a/Help-4x-Menus-Menu-Manager-Option
 decoding="async"
 srcset="https://docs.joomla.org/images/4/4a/Help-4x-Menus-Menu-Manager-Options-screen-nl.png 1.5x"
 data-file-width="1179" data-file-height="731" width="800" height="496"
-alt="Help-4x-Menus-Menu-Manager-Options-screen-nl.png" />
+alt="Menus Menu Manager Options screen" />
 
 ### Formulier velden
 
@@ -40,7 +40,7 @@ src="https://docs.joomla.org/images/thumb/b/b4/Help-4x-Menu-Options-screen-permi
 decoding="async"
 srcset="https://docs.joomla.org/images/b/b4/Help-4x-Menu-Options-screen-permissions-tab-nl.png 1.5x"
 data-file-width="700" data-file-height="664" width="600" height="569"
-alt="Help-4x-Menu-Options-screen-permissions-tab-nl.png" />
+alt="Menu Options screen permissions tab" />
 
 Om de rechten van deze extensie te wijzigen moet u de volgende
 handelingen uitvoeren.

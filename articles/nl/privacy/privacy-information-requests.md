@@ -29,7 +29,7 @@ src="https://docs.joomla.org/images/thumb/0/0f/Help-4x-component-privacy-informa
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/0/0f/Help-4x-component-privacy-information-requests-nl.png/1200px-Help-4x-component-privacy-information-requests-nl.png 1.5x, https://docs.joomla.org/images/0/0f/Help-4x-component-privacy-information-requests-nl.png 2x"
 data-file-width="1235" data-file-height="566" width="800" height="367"
-alt="Help-4x-component-privacy-information-requests-nl.png" />
+alt="component privacy information requests" />
 
 ## Kolomkoppen
 

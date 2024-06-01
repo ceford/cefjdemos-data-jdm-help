@@ -26,7 +26,7 @@ src="https://docs.joomla.org/images/thumb/0/0e/Help-4x-Components-Redirect-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/0/0e/Help-4x-Components-Redirect-Manager-screen-nl.png/1200px-Help-4x-Components-Redirect-Manager-screen-nl.png 1.5x, https://docs.joomla.org/images/0/0e/Help-4x-Components-Redirect-Manager-screen-nl.png 2x"
 data-file-width="1299" data-file-height="518" width="800" height="319"
-alt="Help-4x-Components-Redirect-Manager-screen-nl.png" />
+alt="Components Redirect Manager screen" />
 
 ## Kolomkoppen
 
@@ -112,7 +112,7 @@ src="https://docs.joomla.org/images/thumb/b/b5/Help-4x-Components-Redirect-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/b5/Help-4x-Components-Redirect-Manager-batch_update-subscreen-nl.png/600px-Help-4x-Components-Redirect-Manager-batch_update-subscreen-nl.png 1.5x, https://docs.joomla.org/images/b/b5/Help-4x-Components-Redirect-Manager-batch_update-subscreen-nl.png 2x"
 data-file-width="696" data-file-height="248" width="400" height="143"
-alt="Help-4x-Components-Redirect-Manager-batch update-subscreen-nl.png" />
+alt="Components Redirect Manager batch update subscreen" />
 
 - **Nieuwe URL.** De doel-URL om de geselecteerde verwijzingen op in te
   stellen.

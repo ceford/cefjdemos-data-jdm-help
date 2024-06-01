@@ -17,7 +17,7 @@ Om een nieuw enkel contactpersoon menu-item aan te maken:
   - Klik op de Menu-itemtype selectie knop. <img
     src="https://docs.joomla.org/images/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png"
     decoding="async" data-file-width="124" data-file-height="43" width="124"
-    height="43" alt="Help-4x-Menu-Item-Type-Select-Button-nl.png" />
+    height="43" alt="Menu Item Type Select Button" />
   - Selecteer in de modale dialoog het 'Contactpersonen' item om een
     lijst te openen en selecteer daarna het **Enkel contactpersoon**
     item.
@@ -33,7 +33,7 @@ src="https://docs.joomla.org/images/thumb/a/a1/Help-4x-Menus-Menu-Item-Contact-S
 decoding="async"
 srcset="https://docs.joomla.org/images/a/a1/Help-4x-Menus-Menu-Item-Contact-Single-screen-nl.png 1.5x"
 data-file-width="1099" data-file-height="883" width="800" height="643"
-alt="Help-4x-Menus-Menu-Item-Contact-Single-screen-nl.png" />
+alt="Menus Menu Item Contact Single screen" />
 
 ## Formulier velden
 
@@ -121,7 +121,7 @@ src="https://docs.joomla.org/images/thumb/4/4d/Help-4x-Menus-Menu-Item-Contact-C
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/4d/Help-4x-Menus-Menu-Item-Contact-Category-contact-display-options-parameters-nl.png/900px-Help-4x-Menus-Menu-Item-Contact-Category-contact-display-options-parameters-nl.png 1.5x, https://docs.joomla.org/images/4/4d/Help-4x-Menus-Menu-Item-Contact-Category-contact-display-options-parameters-nl.png 2x"
 data-file-width="1080" data-file-height="535" width="600" height="297"
-alt="Help-4x-Menus-Menu-Item-Contact-Category-contact-display-options-parameters-nl.png" />
+alt="Menus Menu Item Contact Category contact display options parameters" />
 
 - **Weergave**. Bepaalt de stijl waarin de secties van het
   contactformulier getoond worden.
@@ -202,7 +202,7 @@ src="https://docs.joomla.org/images/thumb/2/25/Help-4x-Menus-Menu-Item-Contact-C
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/25/Help-4x-Menus-Menu-Item-Contact-Category-single-contact-mail-options-parameters-nl.png/900px-Help-4x-Menus-Menu-Item-Contact-Category-single-contact-mail-options-parameters-nl.png 1.5x, https://docs.joomla.org/images/2/25/Help-4x-Menus-Menu-Item-Contact-Category-single-contact-mail-options-parameters-nl.png 2x"
 data-file-width="1102" data-file-height="288" width="600" height="157"
-alt="Help-4x-Menus-Menu-Item-Contact-Category-single-contact-mail-options-parameters-nl.png" />
+alt="Menus Menu Item Contact Category single contact mail options parameters" />
 
 - **Toon contactformulier**. Geeft de *contactformulier* van de
   contactpersoon weer.

@@ -27,7 +27,7 @@ src="https://docs.joomla.org/images/thumb/9/95/Help-4x-Modules-screen-de.png/800
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/9/95/Help-4x-Modules-screen-de.png/1200px-Help-4x-Modules-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/9/95/Help-4x-Modules-screen-de.png/1600px-Help-4x-Modules-screen-de.png 2x"
 data-file-width="2880" data-file-height="1450" width="800" height="403"
-alt="Help-4x-Modules-screen-de.png" />
+alt="Modules screen" />
 
 ## Spalten-Überschriften
 
@@ -40,14 +40,14 @@ alt="Help-4x-Modules-screen-de.png" />
     decoding="async"
     srcset="https://docs.joomla.org/images/thumb/7/79/Help-4x-Ordering-colheader-icon.png/14px-Help-4x-Ordering-colheader-icon.png 1.5x, https://docs.joomla.org/images/7/79/Help-4x-Ordering-colheader-icon.png 2x"
     data-file-width="18" data-file-height="23" width="9" height="12"
-    alt="Reihenfolge-Symbol" /> in der Listen-Überschrift durch
+    alt="Reihenfolge Symbol" /> in der Listen-Überschrift durch
     Anklicken aktivieren.
   - Ein Drei-Punkte-Symbol <img
     src="https://docs.joomla.org/images/thumb/a/a0/Help-4x-Ordering-colheader-grab-bar-icon.png/5px-Help-4x-Ordering-colheader-grab-bar-icon.png"
     decoding="async"
     srcset="https://docs.joomla.org/images/thumb/a/a0/Help-4x-Ordering-colheader-grab-bar-icon.png/8px-Help-4x-Ordering-colheader-grab-bar-icon.png 1.5x, https://docs.joomla.org/images/a/a0/Help-4x-Ordering-colheader-grab-bar-icon.png 2x"
     data-file-width="9" data-file-height="27" width="5" height="15"
-    alt="Drei-Punkte-Symbol" /> nach oben oder unten ziehen, um die
+    alt="Drei Punkte Symbol" /> nach oben oder unten ziehen, um die
     Position in der Liste zu ändern.
   - In den Filter-Optionen kann die Liste auf Module beschränkt werden,
     die zum Beispiel einer Sprache zugeordnet sind.
@@ -159,7 +159,7 @@ src="https://docs.joomla.org/images/thumb/0/08/Help-4x-Modules-batch-subscreen-d
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/0/08/Help-4x-Modules-batch-subscreen-de.png/900px-Help-4x-Modules-batch-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/0/08/Help-4x-Modules-batch-subscreen-de.png/1200px-Help-4x-Modules-batch-subscreen-de.png 2x"
 data-file-width="1598" data-file-height="733" width="600" height="275"
-alt="Help-4x-Modules-batch-subscreen-de.png" />
+alt="Modules batch subscreen" />
 
 **Wie man die Stapelverarbeitung** an Modulen anwendet:
 

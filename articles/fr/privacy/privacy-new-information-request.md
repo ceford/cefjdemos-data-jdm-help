@@ -17,7 +17,7 @@ d'information.
 src="https://docs.joomla.org/images/a/af/Help-4x-component-privacy-information-request-en.png"
 decoding="async" data-file-width="800" data-file-height="243"
 width="800" height="243"
-alt="Help-4x-component-privacy-information-request-en.png" />
+alt="component privacy information request" />
 
 ## Form Fields
 

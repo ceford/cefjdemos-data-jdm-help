@@ -35,7 +35,7 @@ src="https://docs.joomla.org/images/thumb/a/aa/Help-4x-Menus-New-Item-screen-ru.
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/a/aa/Help-4x-Menus-New-Item-screen-ru.png/1200px-Help-4x-Menus-New-Item-screen-ru.png 1.5x, https://docs.joomla.org/images/a/aa/Help-4x-Menus-New-Item-screen-ru.png 2x"
 data-file-width="1440" data-file-height="1343" width="800" height="746"
-alt="Help-4x-Menus-New-Item-screen-ru.png" />
+alt="Menus New Item screen" />
 
 ## Form Fields
 
@@ -95,7 +95,7 @@ src="https://docs.joomla.org/images/thumb/a/a9/Help-4x-Menus-New-Item-link-type-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/a/a9/Help-4x-Menus-New-Item-link-type-subscreen-ru.png/900px-Help-4x-Menus-New-Item-link-type-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/a/a9/Help-4x-Menus-New-Item-link-type-subscreen-ru.png/1200px-Help-4x-Menus-New-Item-link-type-subscreen-ru.png 2x"
 data-file-width="2880" data-file-height="1300" width="600" height="271"
-alt="Help-4x-Menus-New-Item-link-type-subscreen-ru.png" />
+alt="Menus New Item link type subscreen" />
 
 - **Link Title Attribute**. An optional, custom description for the
   title attribute of the menu hyperlink.
@@ -119,7 +119,7 @@ src="https://docs.joomla.org/images/thumb/1/1b/Help-4x-Menus-New-Item-page-displ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/1/1b/Help-4x-Menus-New-Item-page-display-subscreen-ru.png/900px-Help-4x-Menus-New-Item-page-display-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/1/1b/Help-4x-Menus-New-Item-page-display-subscreen-ru.png/1200px-Help-4x-Menus-New-Item-page-display-subscreen-ru.png 2x"
 data-file-width="2880" data-file-height="1120" width="600" height="233"
-alt="Help-4x-Menus-New-Item-page-display-subscreen-ru.png" />
+alt="Menus New Item page display subscreen" />
 
 Note: Options include "**Use Global**". If this is selected, the setting
 from the
@@ -145,7 +145,7 @@ src="https://docs.joomla.org/images/thumb/a/ac/Help-4x-Menus-New-Item-metadata-s
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/a/ac/Help-4x-Menus-New-Item-metadata-subscreen-ru.png/900px-Help-4x-Menus-New-Item-metadata-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/a/ac/Help-4x-Menus-New-Item-metadata-subscreen-ru.png/1200px-Help-4x-Menus-New-Item-metadata-subscreen-ru.png 2x"
 data-file-width="2880" data-file-height="930" width="600" height="194"
-alt="Help-4x-Menus-New-Item-metadata-subscreen-ru.png" />
+alt="Menus New Item metadata subscreen" />
 
 - **Meta Description**. An paragraph to be used as the description of
   the page.Learn more.
@@ -159,7 +159,7 @@ src="https://docs.joomla.org/images/thumb/3/38/Help-4x-Menus-New-Item-associatio
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/3/38/Help-4x-Menus-New-Item-associations-subscreen-ru.png/900px-Help-4x-Menus-New-Item-associations-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/3/38/Help-4x-Menus-New-Item-associations-subscreen-ru.png/1200px-Help-4x-Menus-New-Item-associations-subscreen-ru.png 2x"
 data-file-width="2880" data-file-height="630" width="600" height="131"
-alt="Help-4x-Menus-New-Item-associations-subscreen-ru.png" />
+alt="Menus New Item associations subscreen" />
 
 Multilingual only!
 
@@ -170,7 +170,7 @@ src="https://docs.joomla.org/images/thumb/b/b8/Help-4x-Menus-New-Item-module-ass
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/b8/Help-4x-Menus-New-Item-module-assignment-subscreen-ru.png/900px-Help-4x-Menus-New-Item-module-assignment-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/b/b8/Help-4x-Menus-New-Item-module-assignment-subscreen-ru.png/1200px-Help-4x-Menus-New-Item-module-assignment-subscreen-ru.png 2x"
 data-file-width="2880" data-file-height="1300" width="600" height="271"
-alt="Help-4x-Menus-New-Item-module-assignment-subscreen-ru.png" />
+alt="Menus New Item module assignment subscreen" />
 
 - **Unassigned Modules**. Show modules unassigned to this menu item
 - **Unpublished Modules**. Show modules that are unpublished

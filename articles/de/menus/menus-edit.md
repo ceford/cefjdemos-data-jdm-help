@@ -20,7 +20,7 @@ src="https://docs.joomla.org/images/thumb/8/85/Help-4x-menus-menu-manager-add-me
 decoding="async"
 srcset="https://docs.joomla.org/images/8/85/Help-4x-menus-menu-manager-add-menu-de.png 1.5x"
 data-file-width="1000" data-file-height="543" width="800" height="434"
-alt="Help-4x-menus-menu-manager-add-menu-de.png" />
+alt="menus menu manager add menu" />
 
 ## Formular Felder
 

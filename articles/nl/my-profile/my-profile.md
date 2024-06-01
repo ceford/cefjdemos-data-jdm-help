@@ -19,7 +19,7 @@ src="https://docs.joomla.org/images/thumb/3/3f/Help-4x-User-Menu-nl.png/400px-He
 decoding="async"
 srcset="https://docs.joomla.org/images/3/3f/Help-4x-User-Menu-nl.png 1.5x"
 data-file-width="440" data-file-height="253" width="400" height="230"
-alt="Help-4x-User-Menu-nl.png" />
+alt="User Menu" />
 
 ## Schermafbeelding
 
@@ -28,7 +28,7 @@ src="https://docs.joomla.org/images/thumb/0/0d/Help-4x-my-profile-screenshot-nl.
 decoding="async"
 srcset="https://docs.joomla.org/images/0/0d/Help-4x-my-profile-screenshot-nl.png 1.5x"
 data-file-width="938" data-file-height="938" width="800" height="800"
-alt="Help-4x-my-profile-screenshot-nl.png" />
+alt="my profile screenshot" />
 
 ## Gegevens
 
@@ -64,7 +64,7 @@ src="https://docs.joomla.org/images/thumb/f/f9/Help-4x-Site-My-Profile-basic-nl.
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/f9/Help-4x-Site-My-Profile-basic-nl.png/900px-Help-4x-Site-My-Profile-basic-nl.png 1.5x, https://docs.joomla.org/images/f/f9/Help-4x-Site-My-Profile-basic-nl.png 2x"
 data-file-width="1118" data-file-height="435" width="600" height="233"
-alt="Help-4x-Site-My-Profile-basic-nl.png" />
+alt="Site My Profile basic" />
 
 - **Template beheergedeelte**. De template stijl die gebruikt moet
   worden voor deze gebruiker in het beheergedeelte.
@@ -87,7 +87,7 @@ src="https://docs.joomla.org/images/thumb/7/7a/Help-4x-users-user-manager-super-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/7a/Help-4x-users-user-manager-super-user-accessibility-settings-nl.png/900px-Help-4x-users-user-manager-super-user-accessibility-settings-nl.png 1.5x, https://docs.joomla.org/images/7/7a/Help-4x-users-user-manager-super-user-accessibility-settings-nl.png 2x"
 data-file-width="949" data-file-height="350" width="600" height="221"
-alt="Help-4x-users-user-manager-super-user-accessibility-settings-nl.png" />
+alt="users user manager super user accessibility settings" />
 
 - **Monochroom**. Ja/Nee
 - **Hoog contrast**. Ja/Nee
@@ -101,7 +101,7 @@ src="https://docs.joomla.org/images/thumb/2/22/Help-4x-Site-My-Profile-User-Acti
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/22/Help-4x-Site-My-Profile-User-Actions-Log-Options-nl.png/900px-Help-4x-Site-My-Profile-User-Actions-Log-Options-nl.png 1.5x, https://docs.joomla.org/images/2/22/Help-4x-Site-My-Profile-User-Actions-Log-Options-nl.png 2x"
 data-file-width="1084" data-file-height="278" width="600" height="154"
-alt="Help-4x-Site-My-Profile-User-Actions-Log-Options-nl.png" />
+alt="Site My Profile User Actions Log Options" />
 
 - **Stuur meldingen van gebruikersacties log**. (*Ja/Nee*) Indien op Ja,
   dan ontvangt de gebruiker gebruikersactie log berichten per e-mail

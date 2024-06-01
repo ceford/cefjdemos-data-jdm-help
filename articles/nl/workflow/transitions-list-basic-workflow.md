@@ -26,7 +26,7 @@ src="https://docs.joomla.org/images/thumb/4/45/Help-4x-components-workflows-tran
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/45/Help-4x-components-workflows-transitions-list-nl.png/1200px-Help-4x-components-workflows-transitions-list-nl.png 1.5x, https://docs.joomla.org/images/4/45/Help-4x-components-workflows-transitions-list-nl.png 2x"
 data-file-width="1216" data-file-height="637" width="800" height="419"
-alt="Help-4x-components-workflows-transitions-list-nl.png" />
+alt="components workflows transitions list" />
 
 ## Kolomkoppen
 
@@ -78,7 +78,7 @@ weergave is zoals hieronder.
 <img
 src="https://docs.joomla.org/images/8/88/Help-4x-colheader-filter-field-nl.png"
 decoding="async" data-file-width="848" data-file-height="61" width="848"
-height="61" alt="Help-4x-colheader-filter-field-nl.png" />
+height="61" alt="colheader filter field" />
 
 - **Zoeken op tekst.** Voer een deel van de zoekterm in en klik op het
   zoekicoon. Het zoeken kan een of meer velden omvatten. *Hover* (muis
@@ -122,7 +122,7 @@ De functies zijn.
   standaard ster symbool
   (<img src="https://docs.joomla.org/images/7/7e/Icon-16-default.png"
   decoding="async" data-file-width="30" data-file-height="20" width="30"
-  height="20" alt="Icon-16-default.png" />) wordt getoond in de
+  height="20" alt="Icon 16 default.png" />) wordt getoond in de
   Standaard kolom, wat aangeeft dat het nu het standaard item is.
 - **Inchecken**. Checkt de geselecteerde items in. Werkt bij één of meer
   items geselecteerd.

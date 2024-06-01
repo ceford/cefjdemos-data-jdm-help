@@ -25,7 +25,7 @@ src="https://docs.joomla.org/images/thumb/3/39/Help-4x-Components-Contacts-Conta
 decoding="async"
 srcset="https://docs.joomla.org/images/3/39/Help-4x-Components-Contacts-Contacts-screen-nl.png 1.5x"
 data-file-width="1121" data-file-height="415" width="800" height="296"
-alt="Help-4x-Components-Contacts-Contacts-screen-nl.png" />
+alt="Components Contacts Contacts screen" />
 
 ## Kolomkoppen
 

@@ -20,7 +20,7 @@ src="https://docs.joomla.org/images/thumb/e/e6/Help-4x-Components-Languages-Opti
 decoding="async"
 srcset="https://docs.joomla.org/images/e/e6/Help-4x-Components-Languages-Options-de.png 1.5x"
 data-file-width="1000" data-file-height="678" width="800" height="542"
-alt="Help-4x-Components-Languages-Options-de.png" />
+alt="Components Languages Options" />
 
 ## Formular Felder
 

@@ -16,7 +16,7 @@ src="https://docs.joomla.org/images/thumb/f/f8/Help-4x-Components-Tags-Manager-s
 decoding="async"
 srcset="https://docs.joomla.org/images/f/f8/Help-4x-Components-Tags-Manager-screen-de.png 1.5x"
 data-file-width="1000" data-file-height="415" width="800" height="332"
-alt="Help-4x-Components-Tags-Manager-screen-de.png" />
+alt="Components Tags Manager screen" />
 
 ## Spalten-Überschriften
 
@@ -25,7 +25,7 @@ Klick auf eine Spaltenüberschrift sortiert die Liste nach dessen Wert.
 <img
 src="https://docs.joomla.org/images/d/d7/Help31-Tags-Manager-columns-de.png"
 decoding="async" data-file-width="1228" data-file-height="22"
-width="1228" height="22" alt="Help31-Tags-Manager-columns-de.png" />
+width="1228" height="22" alt="Help31 Tags Manager columns de.png" />
 
 - **Checkbox**. Dieses Kästchen markieren, um einen oder mehrere
   Einträge auszuwählen. Um alle Einträge auszuwählen, das Kästchen im
@@ -119,7 +119,7 @@ im oberen Bereich.
 src="https://docs.joomla.org/images/8/89/Help30-colheader-select-tag-type-en.png"
 decoding="async" data-file-width="228" data-file-height="115"
 width="228" height="115"
-alt="Help30-colheader-select-tag-type-en.png" />
+alt="Help30 colheader select tag type en.png" />
 
 ### Seitennavigation
 

@@ -32,7 +32,7 @@ src="https://docs.joomla.org/images/thumb/0/0c/Help-4x-Menus-Item-Articles-Artic
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/0/0c/Help-4x-Menus-Item-Articles-Article-Archived-screen-fr.png/1200px-Help-4x-Menus-Item-Articles-Article-Archived-screen-fr.png 1.5x, https://docs.joomla.org/images/thumb/0/0c/Help-4x-Menus-Item-Articles-Article-Archived-screen-fr.png/1600px-Help-4x-Menus-Item-Articles-Article-Archived-screen-fr.png 2x"
 data-file-width="2880" data-file-height="1300" width="800" height="361"
-alt="Help-4x-Menus-Item-Articles-Article-Archived-screen-fr.png" />
+alt="Menus Item Articles Article Archived screen" />
 
 ## Champs de formulaire
 
@@ -72,7 +72,7 @@ src="https://docs.joomla.org/images/thumb/b/bd/Help-4x-Menus-Item-Articles-Artic
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/bd/Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-fr.png/900px-Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-fr.png 1.5x, https://docs.joomla.org/images/thumb/b/bd/Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-fr.png/1200px-Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-fr.png 2x"
 data-file-width="2880" data-file-height="1093" width="600" height="228"
-alt="Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-fr.png" />
+alt="Menus Item Articles Article Archived archive subscreen" />
 
 - **Ordre des articles**.
   - Plus ancien en premier: Les articles sont affichés du plus ancien au
@@ -115,7 +115,7 @@ src="https://docs.joomla.org/images/thumb/6/65/Help-4x-Menus-Item-Articles-Artic
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/6/65/Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-fr.png/900px-Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-fr.png 1.5x, https://docs.joomla.org/images/thumb/6/65/Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-fr.png/1200px-Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-fr.png 2x"
 data-file-width="2880" data-file-height="1340" width="600" height="279"
-alt="Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-fr.png" />
+alt="Menus Item Articles Article Archived options subscreen" />
 
 **Type de mise en page**
 

@@ -20,7 +20,7 @@ src="https://docs.joomla.org/images/thumb/4/42/Help-4x-Components-Tags-Tags-Edit
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/42/Help-4x-Components-Tags-Tags-Edit-screen-nl.png/1200px-Help-4x-Components-Tags-Tags-Edit-screen-nl.png 1.5x, https://docs.joomla.org/images/4/42/Help-4x-Components-Tags-Tags-Edit-screen-nl.png 2x"
 data-file-width="1285" data-file-height="891" width="800" height="555"
-alt="Help-4x-Components-Tags-Tags-Edit-screen-nl.png" />
+alt="Components Tags Tags Edit screen" />
 
 ### Formulier velden
 
@@ -59,7 +59,7 @@ src="https://docs.joomla.org/images/thumb/8/88/Help-4x-Components-Tags-Tags-Edit
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/88/Help-4x-Components-Tags-Tags-Edit-Options-Details-Tab-nl.png/1200px-Help-4x-Components-Tags-Tags-Edit-Options-Details-Tab-nl.png 1.5x, https://docs.joomla.org/images/8/88/Help-4x-Components-Tags-Tags-Edit-Options-Details-Tab-nl.png 2x"
 data-file-width="1271" data-file-height="807" width="800" height="508"
-alt="Help-4x-Components-Tags-Tags-Edit-Options-Details-Tab-nl.png" />
+alt="Components Tags Tags Edit Options Details Tab" />
 
 **Opties venster**
 
@@ -86,7 +86,7 @@ src="https://docs.joomla.org/images/thumb/b/be/Help-4x-Components-Tags-Tags-Edit
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/be/Help-4x-Components-Tags-Tags-Edit-Publishing-Options-Tab-nl.png/1200px-Help-4x-Components-Tags-Tags-Edit-Publishing-Options-Tab-nl.png 1.5x, https://docs.joomla.org/images/b/be/Help-4x-Components-Tags-Tags-Edit-Publishing-Options-Tab-nl.png 2x"
 data-file-width="1288" data-file-height="630" width="800" height="391"
-alt="Help-4x-Components-Tags-Tags-Edit-Publishing-Options-Tab-nl.png" />
+alt="Components Tags Tags Edit Publishing Options Tab" />
 
 - **Aanmaakdatum.** Datum dat het item (artikel, categorie, weblink,
   etc.) aangemaakt is.

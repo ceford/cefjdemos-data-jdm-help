@@ -29,7 +29,7 @@ src="https://docs.joomla.org/images/thumb/8/84/Help-4x-content-article-manager-a
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/84/Help-4x-content-article-manager-add-new-article-en.png/1200px-Help-4x-content-article-manager-add-new-article-en.png 1.5x, https://docs.joomla.org/images/thumb/8/84/Help-4x-content-article-manager-add-new-article-en.png/1600px-Help-4x-content-article-manager-add-new-article-en.png 2x"
 data-file-width="2880" data-file-height="1584" width="800" height="440"
-alt="Help-4x-content-article-manager-add-new-article-en.png" />
+alt="content article manager add new article" />
 
 ## Form Fields
 
@@ -51,7 +51,7 @@ src="https://docs.joomla.org/images/thumb/8/87/Help-4x-Article-Editor-buttons-en
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/87/Help-4x-Article-Editor-buttons-en.png/900px-Help-4x-Article-Editor-buttons-en.png 1.5x, https://docs.joomla.org/images/thumb/8/87/Help-4x-Article-Editor-buttons-en.png/1200px-Help-4x-Article-Editor-buttons-en.png 2x"
 data-file-width="1985" data-file-height="751" width="600" height="227"
-alt="Help-4x-Article-Editor-buttons-en.png" />
+alt="Article Editor buttons" />
 
 The CMS Content dropdown list provides for access to link to an Article,
 Contact, Field, Media, Menu, or Module.
@@ -100,7 +100,7 @@ src="https://docs.joomla.org/images/thumb/3/3d/Help-4x-screenshot-article-edit-i
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/3/3d/Help-4x-screenshot-article-edit-images-links-en.png/900px-Help-4x-screenshot-article-edit-images-links-en.png 1.5x, https://docs.joomla.org/images/thumb/3/3d/Help-4x-screenshot-article-edit-images-links-en.png/1200px-Help-4x-screenshot-article-edit-images-links-en.png 2x"
 data-file-width="2878" data-file-height="1164" width="600" height="243"
-alt="Help-4x-screenshot-article-edit-images-links-en.png" />
+alt="screenshot article edit images links" />
 
 **Imagem de introdução**
 
@@ -168,7 +168,7 @@ src="https://docs.joomla.org/images/thumb/e/e6/Help-4x-screenshot-article-edit-a
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/e6/Help-4x-screenshot-article-edit-article-options-en.png/900px-Help-4x-screenshot-article-edit-article-options-en.png 1.5x, https://docs.joomla.org/images/thumb/e/e6/Help-4x-screenshot-article-edit-article-options-en.png/1200px-Help-4x-screenshot-article-edit-article-options-en.png 2x"
 data-file-width="2880" data-file-height="1165" width="600" height="243"
-alt="Help-4x-screenshot-article-edit-article-options-en.png" />
+alt="screenshot article edit article options" />
 
 **Visual**
 
@@ -245,7 +245,7 @@ src="https://docs.joomla.org/images/thumb/b/b4/Help-4x-Content-Article-Manager-E
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/b4/Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-en.png/900px-Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/b/b4/Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-en.png/1200px-Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-en.png 2x"
 data-file-width="2876" data-file-height="660" width="600" height="138"
-alt="Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-en.png" />
+alt="Content Article Manager Edit Fields options subscreen" />
 
 ### Publicação
 
@@ -260,7 +260,7 @@ src="https://docs.joomla.org/images/thumb/3/32/Help-4x-Content-Article-Manager-E
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/3/32/Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-en.png/900px-Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/3/32/Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-en.png/1200px-Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-en.png 2x"
 data-file-width="2880" data-file-height="1165" width="600" height="243"
-alt="Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-en.png" />
+alt="Content Article Manager Edit publishing options subscreen" />
 
 **Publicação**
 
@@ -324,7 +324,7 @@ src="https://docs.joomla.org/images/thumb/b/bc/Help-4x-screenshot-article-edit-c
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/bc/Help-4x-screenshot-article-edit-configure-edit-screen-en.png/900px-Help-4x-screenshot-article-edit-configure-edit-screen-en.png 1.5x, https://docs.joomla.org/images/thumb/b/bc/Help-4x-screenshot-article-edit-configure-edit-screen-en.png/1200px-Help-4x-screenshot-article-edit-configure-edit-screen-en.png 2x"
 data-file-width="2880" data-file-height="970" width="600" height="202"
-alt="Help-4x-screenshot-article-edit-configure-edit-screen-en.png" />
+alt="screenshot article edit configure edit screen" />
 
 - **Opções de publicação**. If Hide, the Publishing Options tab
   will not show in the Backend. This means that Backend users will not
@@ -352,7 +352,7 @@ src="https://docs.joomla.org/images/thumb/9/9c/Help-4x-screenshot-article-edit-p
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/9/9c/Help-4x-screenshot-article-edit-permissions-en.png/900px-Help-4x-screenshot-article-edit-permissions-en.png 1.5x, https://docs.joomla.org/images/thumb/9/9c/Help-4x-screenshot-article-edit-permissions-en.png/1200px-Help-4x-screenshot-article-edit-permissions-en.png 2x"
 data-file-width="2878" data-file-height="1166" width="600" height="243"
-alt="Help-4x-screenshot-article-edit-permissions-en.png" />
+alt="screenshot article edit permissions" />
 
 To change the permissions for this article, do the following.
 

@@ -37,7 +37,7 @@ src="https://docs.joomla.org/images/thumb/b/bc/Help-4x-Components-Version-Histor
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/bc/Help-4x-Components-Version-History-screen-nl.png/900px-Help-4x-Components-Version-History-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/b/bc/Help-4x-Components-Version-History-screen-nl.png/1200px-Help-4x-Components-Version-History-screen-nl.png 2x"
 data-file-width="1610" data-file-height="977" width="600" height="364"
-alt="Help-4x-Components-Version-History-screen-nl.png" />
+alt="Components Version History screen" />
 
 ## Kolomkoppen
 
@@ -91,7 +91,7 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   decoding="async"
   srcset="https://docs.joomla.org/images/3/3c/Help-4x-Version-History-Help-preview-nl.png 1.5x"
   data-file-width="766" data-file-height="579" width="600" height="454"
-  alt="Help-4x-Version-History-Help-preview-nl.png" /> Als de versie
+  alt="Version History Help preview" /> Als de versie
   bekeken is sluit dan het browservenster.
 - **Vergelijk**. Klik, om twee versies te vergelijken om te zien wat er
   veranderd is, op de aanvink vakjes bij de beide versies en klik op de
@@ -101,7 +101,7 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   decoding="async"
   srcset="https://docs.joomla.org/images/thumb/6/6b/Help-4x-Version-History-Help-compare-nl.png/900px-Help-4x-Version-History-Help-compare-nl.png 1.5x, https://docs.joomla.org/images/6/6b/Help-4x-Version-History-Help-compare-nl.png 2x"
   data-file-width="965" data-file-height="581" width="600" height="361"
-  alt="Help-4x-Version-History-Help-compare-nl.png" /> De eerste kolom
+  alt="Version History Help compare" /> De eerste kolom
   is de naam van het veld. De tweede kolom is de de oudere versie. In de
   derde kolom worden de verschillen uitgelicht tussen de twee versies.
 - **Bewaren aan/uit** Met deze knop kunt u het Bewaren van een versie

@@ -28,7 +28,7 @@ src="https://docs.joomla.org/images/thumb/7/78/Help-4x-Components-Assocations-Ed
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/78/Help-4x-Components-Assocations-Edit-screen-de.png/1200px-Help-4x-Components-Assocations-Edit-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/7/78/Help-4x-Components-Assocations-Edit-screen-de.png/1600px-Help-4x-Components-Assocations-Edit-screen-de.png 2x"
 data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Help-4x-Components-Assocations-Edit-screen-de.png" />
+alt="Components Assocations Edit screen" />
 
 Die Sprachverknüpfungen zeigen 'Referenz' und 'Ziel' nebeneinander.
 Beides sind scrollbare Fenster mit allen Formular Feldern.

@@ -24,7 +24,7 @@ src="https://docs.joomla.org/images/thumb/d/d9/Help-4.x-component-privacy-option
 decoding="async"
 srcset="https://docs.joomla.org/images/d/d9/Help-4.x-component-privacy-options-nl.png 1.5x"
 data-file-width="1170" data-file-height="479" width="800" height="328"
-alt="Help-4.x-component-privacy-options-nl.png" />
+alt="Help 4.x component privacy options nl.png" />
 
 ### Formulier velden
 

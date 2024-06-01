@@ -35,7 +35,7 @@ src="https://docs.joomla.org/images/thumb/4/44/Help-4x-Menus-New-Item-screen-es.
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/44/Help-4x-Menus-New-Item-screen-es.png/1200px-Help-4x-Menus-New-Item-screen-es.png 1.5x, https://docs.joomla.org/images/4/44/Help-4x-Menus-New-Item-screen-es.png 2x"
 data-file-width="1440" data-file-height="1487" width="800" height="826"
-alt="Help-4x-Menus-New-Item-screen-es.png" />
+alt="Menus New Item screen" />
 
 ## Campos del formulario
 
@@ -95,7 +95,7 @@ src="https://docs.joomla.org/images/thumb/7/72/Help-4x-Menus-New-Item-link-type-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/72/Help-4x-Menus-New-Item-link-type-subscreen-es.png/900px-Help-4x-Menus-New-Item-link-type-subscreen-es.png 1.5x, https://docs.joomla.org/images/thumb/7/72/Help-4x-Menus-New-Item-link-type-subscreen-es.png/1200px-Help-4x-Menus-New-Item-link-type-subscreen-es.png 2x"
 data-file-width="2880" data-file-height="1340" width="600" height="279"
-alt="Help-4x-Menus-New-Item-link-type-subscreen-es.png" />
+alt="Menus New Item link type subscreen" />
 
 - **Link Title Attribute**. An optional, custom description for the
   title attribute of the menu hyperlink.
@@ -119,7 +119,7 @@ src="https://docs.joomla.org/images/thumb/6/65/Help-4x-Menus-New-Item-page-displ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/6/65/Help-4x-Menus-New-Item-page-display-subscreen-es.png/900px-Help-4x-Menus-New-Item-page-display-subscreen-es.png 1.5x, https://docs.joomla.org/images/thumb/6/65/Help-4x-Menus-New-Item-page-display-subscreen-es.png/1200px-Help-4x-Menus-New-Item-page-display-subscreen-es.png 2x"
 data-file-width="2880" data-file-height="970" width="600" height="202"
-alt="Help-4x-Menus-New-Item-page-display-subscreen-es.png" />
+alt="Menus New Item page display subscreen" />
 
 Note: Options include "**Use Global**". If this is selected, the setting
 from the [Menus:
@@ -144,7 +144,7 @@ src="https://docs.joomla.org/images/thumb/9/9f/Help-4x-Menus-New-Item-metadata-s
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/9/9f/Help-4x-Menus-New-Item-metadata-subscreen-es.png/900px-Help-4x-Menus-New-Item-metadata-subscreen-es.png 1.5x, https://docs.joomla.org/images/thumb/9/9f/Help-4x-Menus-New-Item-metadata-subscreen-es.png/1200px-Help-4x-Menus-New-Item-metadata-subscreen-es.png 2x"
 data-file-width="2880" data-file-height="830" width="600" height="173"
-alt="Help-4x-Menus-New-Item-metadata-subscreen-es.png" />
+alt="Menus New Item metadata subscreen" />
 
 - **Meta Description**. An paragraph to be used as the description of
   the page.Learn more.
@@ -158,7 +158,7 @@ src="https://docs.joomla.org/images/thumb/2/20/Help-4x-Menus-New-Item-associatio
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/20/Help-4x-Menus-New-Item-associations-subscreen-es.png/900px-Help-4x-Menus-New-Item-associations-subscreen-es.png 1.5x, https://docs.joomla.org/images/thumb/2/20/Help-4x-Menus-New-Item-associations-subscreen-es.png/1200px-Help-4x-Menus-New-Item-associations-subscreen-es.png 2x"
 data-file-width="2878" data-file-height="570" width="600" height="119"
-alt="Help-4x-Menus-New-Item-associations-subscreen-es.png" />
+alt="Menus New Item associations subscreen" />
 
 Multilingual only!
 
@@ -169,7 +169,7 @@ src="https://docs.joomla.org/images/thumb/4/4e/Help-4x-Menus-New-Item-module-ass
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/4e/Help-4x-Menus-New-Item-module-assignment-subscreen-es.png/900px-Help-4x-Menus-New-Item-module-assignment-subscreen-es.png 1.5x, https://docs.joomla.org/images/thumb/4/4e/Help-4x-Menus-New-Item-module-assignment-subscreen-es.png/1200px-Help-4x-Menus-New-Item-module-assignment-subscreen-es.png 2x"
 data-file-width="2880" data-file-height="1340" width="600" height="279"
-alt="Help-4x-Menus-New-Item-module-assignment-subscreen-es.png" />
+alt="Menus New Item module assignment subscreen" />
 
 - **Unassigned Modules**. Show modules unassigned to this menu item
 - **Unpublished Modules**. Show modules that are unpublished

@@ -28,7 +28,7 @@ editar](https://docs.joomla.org/Help4.x:Articles:_Edit/pt-br#Guia_de_publica.C3.
 src="https://docs.joomla.org/images/a/a5/Help-4x-modules-site-module-manager-module-articles-related-articles-en.png"
 decoding="async" data-file-width="800" data-file-height="757"
 width="800" height="757"
-alt="Help-4x-modules-site-module-manager-module-articles-related-articles-en.png" />
+alt="modules site module manager module articles related articles" />
 
 ## Campos do formulário
 
@@ -100,7 +100,7 @@ artigos publicados...
 src="https://docs.joomla.org/images/0/05/Help-4x-modules-manager-site-module-menu-assignment-tab-en.png"
 decoding="async" data-file-width="600" data-file-height="595"
 width="800" height="793"
-alt="Help-4x-modules-manager-site-module-menu-assignment-tab-en.png" />
+alt="modules manager site module menu assignment tab" />
 
 - **Atribuição de módulo**: Selecione **Em todas as páginas**, **Nenhuma
   página**, **Apenas nas páginas selecionadas** ou **Em todas as
@@ -120,7 +120,7 @@ alt="Help-4x-modules-manager-site-module-menu-assignment-tab-en.png" />
 src="https://docs.joomla.org/images/4/4b/Help-4x-modules-manager-admin-module-site-advanced-options-en.png"
 decoding="async" data-file-width="600" data-file-height="422"
 width="800" height="563"
-alt="Help-4x-modules-manager-admin-module-site-advanced-options-en.png" />
+alt="modules manager admin module site advanced options" />
 
 - **Disposição**: Se você definiu uma ou mais disposições (layouts)
   alternativas para um módulo no tema ou no núcleo do Joomla!, você pode
@@ -159,7 +159,7 @@ alt="Help-4x-modules-manager-admin-module-site-advanced-options-en.png" />
 src="https://docs.joomla.org/images/d/d8/Help-4x-modules-manager-admin-module-administrator-permissions-en.png"
 decoding="async" data-file-width="600" data-file-height="374"
 width="800" height="499"
-alt="Help-4x-modules-manager-admin-module-administrator-permissions-en.png" />
+alt="modules manager admin module administrator permissions" />
 
 Para alterar as permissões, faça o seguinte.
 

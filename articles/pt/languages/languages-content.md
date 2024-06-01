@@ -17,7 +17,7 @@ your site as multilanguage. See the Language Switcher Tutorial.
 src="https://docs.joomla.org/images/6/67/Help-4x-Extensions-Language-Manager-Content-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="416"
 width="800" height="416"
-alt="Help-4x-Extensions-Language-Manager-Content-screen-en.png" />
+alt="Extensions Language Manager Content screen" />
 
 ## Cabeçalhos de Coluna
 

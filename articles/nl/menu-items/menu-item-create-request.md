@@ -16,7 +16,7 @@ Om een nieuw "Maak verzoek aan" menu-item aan te maken:
   - Klik op de Menu-itemtype selectie knop. <img
     src="https://docs.joomla.org/images/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png"
     decoding="async" data-file-width="124" data-file-height="43" width="124"
-    height="43" alt="Help-4x-Menu-Item-Type-Select-Button-nl.png" />
+    height="43" alt="Menu Item Type Select Button" />
   - Selecteer in de modale dialoog het 'Privacy' item om een lijst te
     openen en selecteer daarna het **Maak verzoek aan** item.
 
@@ -31,7 +31,7 @@ src="https://docs.joomla.org/images/thumb/d/d0/Help-4x-Menus-Menu-Item-Privacy-C
 decoding="async"
 srcset="https://docs.joomla.org/images/d/d0/Help-4x-Menus-Menu-Item-Privacy-Create-Request-screen-nl.png 1.5x"
 data-file-width="971" data-file-height="692" width="800" height="570"
-alt="Help-4x-Menus-Menu-Item-Privacy-Create-Request-screen-nl.png" />
+alt="Menus Menu Item Privacy Create Request screen" />
 
 ## Formulier velden
 

@@ -24,7 +24,7 @@ src="https://docs.joomla.org/images/thumb/3/37/Help-4x-Users-screen-fr.png/800px
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/3/37/Help-4x-Users-screen-fr.png/1200px-Help-4x-Users-screen-fr.png 1.5x, https://docs.joomla.org/images/thumb/3/37/Help-4x-Users-screen-fr.png/1600px-Help-4x-Users-screen-fr.png 2x"
 data-file-width="2683" data-file-height="1500" width="800" height="447"
-alt="Help-4x-Users-screen-fr.png" />
+alt="Users screen" />
 
 ## En-Têtes de colonne
 
@@ -137,7 +137,7 @@ src="https://docs.joomla.org/images/thumb/2/25/Help-4x-Users-batch-subscreen-fr.
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/25/Help-4x-Users-batch-subscreen-fr.png/900px-Help-4x-Users-batch-subscreen-fr.png 1.5x, https://docs.joomla.org/images/thumb/2/25/Help-4x-Users-batch-subscreen-fr.png/1200px-Help-4x-Users-batch-subscreen-fr.png 2x"
 data-file-width="1598" data-file-height="717" width="600" height="269"
-alt="Help-4x-Users-batch-subscreen-fr.png" />
+alt="Users batch subscreen" />
 
 **Comment traiter par lots** un groupe d'éléments :
 

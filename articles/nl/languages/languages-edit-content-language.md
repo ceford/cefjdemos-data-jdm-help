@@ -38,7 +38,7 @@ src="https://docs.joomla.org/images/thumb/6/6a/Help-4x-Extensions-Language-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/6/6a/Help-4x-Extensions-Language-Manager-Edit-screen-nl.png 1.5x"
 data-file-width="985" data-file-height="736" width="800" height="598"
-alt="Help-4x-Extensions-Language-Manager-Edit-screen-nl.png" />
+alt="Extensions Language Manager Edit screen" />
 
 ### Formulier velden
 
@@ -74,7 +74,7 @@ src="https://docs.joomla.org/images/thumb/3/33/Help-4x-Extensions-Language-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/3/33/Help-4x-Extensions-Language-Manager-Edit-Options-screen-nl.png/900px-Help-4x-Extensions-Language-Manager-Edit-Options-screen-nl.png 1.5x, https://docs.joomla.org/images/3/33/Help-4x-Extensions-Language-Manager-Edit-Options-screen-nl.png 2x"
 data-file-width="922" data-file-height="292" width="600" height="190"
-alt="Help-4x-Extensions-Language-Manager-Edit-Options-screen-nl.png" />
+alt="Extensions Language Manager Edit Options screen" />
 
 ## Werkbalk
 

@@ -22,7 +22,7 @@ src="https://docs.joomla.org/images/thumb/2/21/Help-4x-Extensions-Template-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/2/21/Help-4x-Extensions-Template-Manager-Templates-screen-de.png 1.5x"
 data-file-width="1200" data-file-height="451" width="800" height="301"
-alt="Help-4x-Extensions-Template-Manager-Templates-screen-de.png" />
+alt="Extensions Template Manager Templates screen" />
 
 ## Spalten-Überschriften
 

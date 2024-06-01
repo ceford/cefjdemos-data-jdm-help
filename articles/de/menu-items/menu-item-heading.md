@@ -18,7 +18,7 @@ To create a new Menu Heading menu item:
   - Select the Menu Item Type Select button. <img
     src="https://docs.joomla.org/images/0/0a/Help-4x-Menu-Item-Type-Select-Button-en.png"
     decoding="async" data-file-width="96" data-file-height="45" width="96"
-    height="45" alt="Help-4x-Menu-Item-Type-Select-Button-en.png" />
+    height="45" alt="Menu Item Type Select Button" />
   - In the modal dialog select the System Links item to open a list and
     then select the **Menu Heading** item.
 
@@ -32,7 +32,7 @@ To edit an existing Menu Heading item type:
 src="https://docs.joomla.org/images/c/c3/Help-4x-Menus-Menu-Item-Heading-screenshot-en.png"
 decoding="async" data-file-width="800" data-file-height="417"
 width="800" height="417"
-alt="Help-4x-Menus-Menu-Item-Heading-screenshot-en.png" />
+alt="Menus Menu Item Heading screenshot" />
 
 ## Form Fields
 
@@ -104,7 +104,7 @@ alt="Help-4x-Menus-Menu-Item-Heading-screenshot-en.png" />
 src="https://docs.joomla.org/images/0/04/Help-4x-Menus-Menu-Item-Text-Separator-link-type-options-en.png"
 decoding="async" data-file-width="600" data-file-height="400"
 width="600" height="400"
-alt="Help-4x-Menus-Menu-Item-Text-Separator-link-type-options-en.png" />
+alt="Menus Menu Item Text Separator link type options" />
 
 - **Link Title Attribute**. An optional, custom description for the
   title attribute of the menu hyperlink.
@@ -149,7 +149,7 @@ above. The functions are:
 src="https://docs.joomla.org/images/6/66/Help-4x-Menus-Menu-Item-Heading-front-end-screenshot-en.png"
 decoding="async" data-file-width="230" data-file-height="232"
 width="230" height="232"
-alt="Help-4x-Menus-Menu-Item-Heading-front-end-screenshot-en.png" />
+alt="Menus Menu Item Heading front end screenshot" />
 
 *Example Front End Site images are generic images using Joomla! core
 installation supplied free Front End Templates. The actual view can

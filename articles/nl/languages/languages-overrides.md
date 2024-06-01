@@ -27,7 +27,7 @@ src="https://docs.joomla.org/images/thumb/6/63/Help-4x-Extensions-Language-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/6/63/Help-4x-Extensions-Language-Manager-Overrides-screen-nl.png/1200px-Help-4x-Extensions-Language-Manager-Overrides-screen-nl.png 1.5x, https://docs.joomla.org/images/6/63/Help-4x-Extensions-Language-Manager-Overrides-screen-nl.png 2x"
 data-file-width="1215" data-file-height="421" width="800" height="277"
-alt="Help-4x-Extensions-Language-Manager-Overrides-screen-nl.png" />
+alt="Extensions Language Manager Overrides screen" />
 
 ## Kolomkoppen
 

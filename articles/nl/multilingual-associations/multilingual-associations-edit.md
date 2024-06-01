@@ -30,7 +30,7 @@ src="https://docs.joomla.org/images/thumb/6/60/Help-4x-Components-Assocations-Ed
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/6/60/Help-4x-Components-Assocations-Edit-screen-nl.png/1200px-Help-4x-Components-Assocations-Edit-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/6/60/Help-4x-Components-Assocations-Edit-screen-nl.png/1600px-Help-4x-Components-Assocations-Edit-screen-nl.png 2x"
 data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Help-4x-Components-Assocations-Edit-screen-nl.png" />
+alt="Components Assocations Edit screen" />
 
 Het meertaligheid associatie bewerkscherm toont de inhoud van het item
 in de bron en het doel naast elkaar. Het zijn beide scrollbare vensters

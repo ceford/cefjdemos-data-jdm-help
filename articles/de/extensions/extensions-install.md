@@ -43,7 +43,7 @@ src="https://docs.joomla.org/images/thumb/e/e3/Help-4x-Extensions-Extension-Mana
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/e3/Help-4x-Extensions-Extension-Manager-Install-screen-de.png/1200px-Help-4x-Extensions-Extension-Manager-Install-screen-de.png 1.5x, https://docs.joomla.org/images/e/e3/Help-4x-Extensions-Extension-Manager-Install-screen-de.png 2x"
 data-file-width="1564" data-file-height="1272" width="800" height="651"
-alt="Help-4x-Extensions-Extension-Manager-Install-screen-de.png" />
+alt="Extensions Extension Manager Install screen" />
 
 ## Formular Felder
 
@@ -85,7 +85,7 @@ src="https://docs.joomla.org/images/thumb/1/12/Help-4x-Extensions-Manager-Instal
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/1/12/Help-4x-Extensions-Manager-Install-UploadPackageFilescreen-de.png/900px-Help-4x-Extensions-Manager-Install-UploadPackageFilescreen-de.png 1.5x, https://docs.joomla.org/images/1/12/Help-4x-Extensions-Manager-Install-UploadPackageFilescreen-de.png 2x"
 data-file-width="1176" data-file-height="814" width="600" height="415"
-alt="Help-4x-Extensions-Manager-Install-UploadPackageFilescreen-de.png" />
+alt="Extensions Manager Install UploadPackageFilescreen" />
 
 - Per Drag & Drop die Archivdatei der Erweiterung in den Kasten ziehen
   oder auf die Schaltfläche klicken, um eine Datei zum Hochladen
@@ -103,7 +103,7 @@ src="https://docs.joomla.org/images/thumb/8/8e/Help-4x-Extensions-Manager-Instal
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/8e/Help-4x-Extensions-Manager-Install-InstallfromFolder-screen-de.png/900px-Help-4x-Extensions-Manager-Install-InstallfromFolder-screen-de.png 1.5x, https://docs.joomla.org/images/8/8e/Help-4x-Extensions-Manager-Install-InstallfromFolder-screen-de.png 2x"
 data-file-width="1151" data-file-height="581" width="600" height="303"
-alt="Help-4x-Extensions-Manager-Install-InstallfromFolder-screen-de.png" />
+alt="Extensions Manager Install InstallfromFolder screen" />
 
 1.  Ein temporäres Verzeichnis auf der lokalen Festplatte anlegen und
     die Archivdatei der Erweiterung in dieses temporäre Verzeichnis
@@ -128,7 +128,7 @@ src="https://docs.joomla.org/images/thumb/0/0a/Help-4x-Extensions-Manager-Instal
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/0/0a/Help-4x-Extensions-Manager-Install-InstallfromUrl-screen-de.png/900px-Help-4x-Extensions-Manager-Install-InstallfromUrl-screen-de.png 1.5x, https://docs.joomla.org/images/0/0a/Help-4x-Extensions-Manager-Install-InstallfromUrl-screen-de.png 2x"
 data-file-width="1158" data-file-height="587" width="600" height="304"
-alt="Help-4x-Extensions-Manager-Install-InstallfromUrl-screen-de.png" />
+alt="Extensions Manager Install InstallfromUrl screen" />
 
 Anstatt die Archivdatei auf den lokalen Rechner herunterzuladen, kann
 man die Ziel-URL der Archivdatei angeben. Danach auf die Schaltfläche

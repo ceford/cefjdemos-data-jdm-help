@@ -22,7 +22,7 @@ aan te maken:
   - Klik op de Menu-itemtype selectie knop. <img
     src="https://docs.joomla.org/images/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png"
     decoding="async" data-file-width="124" data-file-height="43" width="124"
-    height="43" alt="Help-4x-Menu-Item-Type-Select-Button-nl.png" />
+    height="43" alt="Menu Item Type Select Button" />
   - Selecteer in de modale dialoogbox het 'Instellingenbeheer' item om
     een lijst te openen en selecteer daarna het **Websiteconfiguratie
     instellingen-opties** item.
@@ -37,7 +37,7 @@ src="https://docs.joomla.org/images/thumb/0/03/Help-4x-Menus-Menu-Display_Config
 decoding="async"
 srcset="https://docs.joomla.org/images/0/03/Help-4x-Menus-Menu-Display_Configuration-screenshot-nl.png 1.5x"
 data-file-width="956" data-file-height="883" width="800" height="739"
-alt="Help-4x-Menus-Menu-Display Configuration-screenshot-nl.png" />
+alt="Menus Menu Display Configuration screenshot" />
 
 ## Formulier velden
 
@@ -152,4 +152,4 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 src="https://docs.joomla.org/images/9/9f/Help-4x-Menus-Menu-Display_Configuration-front-end-screenshot-nl.png"
 decoding="async" data-file-width="575" data-file-height="536"
 width="575" height="536"
-alt="Help-4x-Menus-Menu-Display Configuration-front-end-screenshot-nl.png" />
+alt="Menus Menu Display Configuration front end screenshot" />

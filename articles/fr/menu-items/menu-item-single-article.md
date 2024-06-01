@@ -27,7 +27,7 @@ src="https://docs.joomla.org/images/thumb/8/84/Help-4x-Menus-Item-Articles-Singl
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/84/Help-4x-Menus-Item-Articles-Single-Article-screen-fr.png/1200px-Help-4x-Menus-Item-Articles-Single-Article-screen-fr.png 1.5x, https://docs.joomla.org/images/thumb/8/84/Help-4x-Menus-Item-Articles-Single-Article-screen-fr.png/1600px-Help-4x-Menus-Item-Articles-Single-Article-screen-fr.png 2x"
 data-file-width="2880" data-file-height="1305" width="800" height="363"
-alt="Help-4x-Menus-Item-Articles-Single-Article-screen-fr.png" />
+alt="Menus Item Articles Single Article screen" />
 
 ## Champs de formulaire
 
@@ -73,7 +73,7 @@ src="https://docs.joomla.org/images/thumb/6/63/Help-4x-Menus-Item-Articles-Singl
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/6/63/Help-4x-Menus-Item-Articles-Single-Article-options-subscreen-fr.png/900px-Help-4x-Menus-Item-Articles-Single-Article-options-subscreen-fr.png 1.5x, https://docs.joomla.org/images/thumb/6/63/Help-4x-Menus-Item-Articles-Single-Article-options-subscreen-fr.png/1200px-Help-4x-Menus-Item-Articles-Single-Article-options-subscreen-fr.png 2x"
 data-file-width="2880" data-file-height="1340" width="600" height="279"
-alt="Help-4x-Menus-Item-Articles-Single-Article-options-subscreen-fr.png" />
+alt="Menus Item Articles Single Article options subscreen" />
 
 Note: Options include "**Use Global**". If this is selected, the setting
 from the Articles: Options

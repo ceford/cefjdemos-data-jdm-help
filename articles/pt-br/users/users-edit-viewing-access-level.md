@@ -30,7 +30,7 @@ filho acesso a níveis aos quais seu grupo pai já tem acesso.
 src="https://docs.joomla.org/images/b/b8/Help-4x-users-user-manager-add-new-viewing-access-level-en.png"
 decoding="async" data-file-width="600" data-file-height="562"
 width="600" height="562"
-alt="Help-4x-users-user-manager-add-new-viewing-access-level-en.png" />
+alt="users user manager add new viewing access level" />
 
 ## Detalhes dos níveis
 

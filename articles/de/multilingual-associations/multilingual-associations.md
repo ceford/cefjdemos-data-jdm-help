@@ -21,7 +21,7 @@ src="https://docs.joomla.org/images/thumb/f/f6/Help-4x-Components-Associations-d
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/f6/Help-4x-Components-Associations-de.png/1200px-Help-4x-Components-Associations-de.png 1.5x, https://docs.joomla.org/images/thumb/f/f6/Help-4x-Components-Associations-de.png/1600px-Help-4x-Components-Associations-de.png 2x"
 data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Help-4x-Components-Associations-de.png" />
+alt="Components Associations" />
 
 ## Spalten-Überschriften
 
@@ -97,7 +97,7 @@ src="https://docs.joomla.org/images/thumb/4/42/Help-4x-Components-Associations-t
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/42/Help-4x-Components-Associations-toolbar-subscreen-de.png/1200px-Help-4x-Components-Associations-toolbar-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/4/42/Help-4x-Components-Associations-toolbar-subscreen-de.png/1600px-Help-4x-Components-Associations-toolbar-subscreen-de.png 2x"
 data-file-width="2791" data-file-height="269" width="800" height="77"
-alt="Help-4x-Components-Associations-toolbar-subscreen-de.png" />
+alt="Components Associations toolbar subscreen" />
 
 - **Alle Verknüpfungen löschen**. Nach einer Sicherheitsabfrage werden
   alle Verknüpfungen gelöscht.

@@ -22,7 +22,7 @@ src="https://docs.joomla.org/images/thumb/1/1b/Help-4x-Components-Newsfeeds-Feed
 decoding="async"
 srcset="https://docs.joomla.org/images/1/1b/Help-4x-Components-Newsfeeds-Feeds-screen-nl.png 1.5x"
 data-file-width="1150" data-file-height="552" width="800" height="384"
-alt="Help-4x-Components-Newsfeeds-Feeds-screen-nl.png" />
+alt="Components Newsfeeds Feeds screen" />
 
 ## Kolomkoppen
 

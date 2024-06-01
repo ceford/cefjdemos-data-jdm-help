@@ -32,7 +32,7 @@ usuário editando a nota. Exemplos: O TinyMCE, o JCE ou o Codemirror
 <img
 src="https://docs.joomla.org/images/1/19/Help-4x-users-notes-en.png"
 decoding="async" data-file-width="800" data-file-height="972"
-width="800" height="972" alt="Help-4x-users-notes-en.png" />
+width="800" height="972" alt="users notes" />
 
 ## Detalhes
 

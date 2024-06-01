@@ -17,7 +17,7 @@ Om een nieuw enkel nieuwsfeed menu-item aan te maken:
   - Klik op de Menu-itemtype selectie knop. <img
     src="https://docs.joomla.org/images/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png"
     decoding="async" data-file-width="124" data-file-height="43" width="124"
-    height="43" alt="Help-4x-Menu-Item-Type-Select-Button-nl.png" />
+    height="43" alt="Menu Item Type Select Button" />
   - Selecteer in de modale dialoog het 'Nieuwsfeed' item om een lijst te
     openen en selecteer daarna het **Enkel nieuwsfeed** item.
 
@@ -32,7 +32,7 @@ src="https://docs.joomla.org/images/thumb/2/20/Help-4x-Menus-Menu-Item-News-Feed
 decoding="async"
 srcset="https://docs.joomla.org/images/2/20/Help-4x-Menus-Menu-Item-News-Feed-Single-News-Feed-screen-nl.png 1.5x"
 data-file-width="1130" data-file-height="883" width="800" height="625"
-alt="Help-4x-Menus-Menu-Item-News-Feed-Single-News-Feed-screen-nl.png" />
+alt="Menus Menu Item News Feed Single News Feed screen" />
 
 ## Formulier velden
 
@@ -119,7 +119,7 @@ src="https://docs.joomla.org/images/thumb/c/cb/Help-4x-Menus-Menu-Item-News-Feed
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/cb/Help-4x-Menus-Menu-Item-News-Feeds-Single-feed-display-options-parameters-nl.png/900px-Help-4x-Menus-Menu-Item-News-Feeds-Single-feed-display-options-parameters-nl.png 1.5x, https://docs.joomla.org/images/c/cb/Help-4x-Menus-Menu-Item-News-Feeds-Single-feed-display-options-parameters-nl.png 2x"
 data-file-width="945" data-file-height="296" width="600" height="188"
-alt="Help-4x-Menus-Menu-Item-News-Feeds-Single-feed-display-options-parameters-nl.png" />
+alt="Menus Menu Item News Feeds Single feed display options parameters" />
 
 Naast Ja/Nee of Verberg/Toon, geven deze opties de "Gebruik algemeen"
 instellingen. Dit gebruikt de standaard waarden uit het [Nieuwsfeed:

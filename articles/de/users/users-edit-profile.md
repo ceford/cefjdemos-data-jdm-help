@@ -32,7 +32,7 @@ src="https://docs.joomla.org/images/thumb/7/7b/Help-4x-users-user-manager-add-ne
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/7b/Help-4x-users-user-manager-add-new-user-de.png/1200px-Help-4x-users-user-manager-add-new-user-de.png 1.5x, https://docs.joomla.org/images/7/7b/Help-4x-users-user-manager-add-new-user-de.png 2x"
 data-file-width="1352" data-file-height="956" width="800" height="566"
-alt="Help-4x-users-user-manager-add-new-user-de.png" />
+alt="users user manager add new user" />
 
 ## Formular Felder
 
@@ -71,7 +71,7 @@ src="https://docs.joomla.org/images/thumb/c/cf/Help-4x-users-user-manager-add-ne
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/cf/Help-4x-users-user-manager-add-new-user-assigned-user-groups-de.png/900px-Help-4x-users-user-manager-add-new-user-assigned-user-groups-de.png 1.5x, https://docs.joomla.org/images/c/cf/Help-4x-users-user-manager-add-new-user-assigned-user-groups-de.png 2x"
 data-file-width="1086" data-file-height="675" width="600" height="373"
-alt="Help-4x-users-user-manager-add-new-user-assigned-user-groups-de.png" />
+alt="users user manager add new user assigned user groups" />
 
 ### Basiseinstellungen
 
@@ -80,7 +80,7 @@ src="https://docs.joomla.org/images/thumb/e/ec/Help-4x-users-user-manager-add-ne
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/ec/Help-4x-users-user-manager-add-new-user-basic-settings-de.png/900px-Help-4x-users-user-manager-add-new-user-basic-settings-de.png 1.5x, https://docs.joomla.org/images/thumb/e/ec/Help-4x-users-user-manager-add-new-user-basic-settings-de.png/1200px-Help-4x-users-user-manager-add-new-user-basic-settings-de.png 2x"
 data-file-width="1239" data-file-height="497" width="600" height="241"
-alt="Help-4x-users-user-manager-add-new-user-basic-settings-de.png" />
+alt="users user manager add new user basic settings" />
 
 - **Backend-Template-Stil**. (*Standard verwenden*/*Hathor -
   Default*/*isis - Default*) Wahl des Template-Stils für das
@@ -102,7 +102,7 @@ src="https://docs.joomla.org/images/thumb/e/ee/Help-4x-users-user-manager-super-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/ee/Help-4x-users-user-manager-super-user-accessibility-settings-de.png/900px-Help-4x-users-user-manager-super-user-accessibility-settings-de.png 1.5x, https://docs.joomla.org/images/e/ee/Help-4x-users-user-manager-super-user-accessibility-settings-de.png 2x"
 data-file-width="1009" data-file-height="452" width="600" height="269"
-alt="Help-4x-users-user-manager-super-user-accessibility-settings-de.png" />
+alt="users user manager super user accessibility settings" />
 
 - **Monochrome**. Ja/Nein
 - **Hoher Kontrast**. Ja/Nein
@@ -116,7 +116,7 @@ src="https://docs.joomla.org/images/thumb/e/ea/Help-4x-users-user-manager-super-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/ea/Help-4x-users-user-manager-super-user-actionslog-settings-de.png/900px-Help-4x-users-user-manager-super-user-actionslog-settings-de.png 1.5x, https://docs.joomla.org/images/thumb/e/ea/Help-4x-users-user-manager-super-user-actionslog-settings-de.png/1200px-Help-4x-users-user-manager-super-user-actionslog-settings-de.png 2x"
 data-file-width="1388" data-file-height="551" width="600" height="238"
-alt="Help-4x-users-user-manager-super-user-actionslog-settings-de.png" />
+alt="users user manager super user actionslog settings" />
 
 - **Benachrichtung über Benutzeraktivitäten senden**. (*Ja/Nein*) Wenn
   diese Option auf *Ja* gesetzt ist, erhält der Benutzer per E-Mail eine

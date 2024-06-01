@@ -6,7 +6,7 @@ Deze module toont een link naar de website. <img
 src="https://docs.joomla.org/images/6/6f/Help-4x-modules-administrator-module-manager-module-frontend-link-icon-en.png"
 decoding="async" data-file-width="70" data-file-height="49" width="70"
 height="49"
-alt="Help-4x-modules-administrator-module-manager-module-frontend-link-icon-en.png" />
+alt="modules administrator module manager module frontend link icon" />
 
 ## Hoe toegang te krijgen
 
@@ -26,7 +26,7 @@ src="https://docs.joomla.org/images/thumb/d/d0/Help-4x-modules-administrator-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/d/d0/Help-4x-modules-administrator-module-manager-module-frontend-link-nl.png 1.5x"
 data-file-width="1102" data-file-height="865" width="800" height="628"
-alt="Help-4x-modules-administrator-module-manager-module-frontend-link-nl.png" />
+alt="modules administrator module manager module frontend link" />
 
 ## Formulier velden
 
@@ -79,7 +79,7 @@ src="https://docs.joomla.org/images/thumb/2/2a/Help-4x-modules-manager-admin-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/2a/Help-4x-modules-manager-admin-module-site-advanced-options-nl.png/900px-Help-4x-modules-manager-admin-module-site-advanced-options-nl.png 1.5x, https://docs.joomla.org/images/2/2a/Help-4x-modules-manager-admin-module-site-advanced-options-nl.png 2x"
 data-file-width="1003" data-file-height="532" width="600" height="318"
-alt="Help-4x-modules-manager-admin-module-site-advanced-options-nl.png" />
+alt="modules manager admin module site advanced options" />
 
 - **Weergave.** Als u één of meer alternatieve lay-outs voor een module
   heeft gedefinieerd of in het template of in Joomla! core, dan kunt u
@@ -120,7 +120,7 @@ src="https://docs.joomla.org/images/thumb/4/4f/Help-4x-modules-manager-admin-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/4f/Help-4x-modules-manager-admin-module-administrator-permissions-nl.png/900px-Help-4x-modules-manager-admin-module-administrator-permissions-nl.png 1.5x, https://docs.joomla.org/images/4/4f/Help-4x-modules-manager-admin-module-administrator-permissions-nl.png 2x"
 data-file-width="977" data-file-height="665" width="600" height="408"
-alt="Help-4x-modules-manager-admin-module-administrator-permissions-nl.png" />
+alt="modules manager admin module administrator permissions" />
 
 Doe, om de rechten te veranderen, het volgende.
 

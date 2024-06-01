@@ -28,7 +28,7 @@ src="https://docs.joomla.org/images/thumb/9/9d/Help-4x-Fields-Edit-screen-nl.png
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/9/9d/Help-4x-Fields-Edit-screen-nl.png/1200px-Help-4x-Fields-Edit-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/9/9d/Help-4x-Fields-Edit-screen-nl.png/1600px-Help-4x-Fields-Edit-screen-nl.png 2x"
 data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Help-4x-Fields-Edit-screen-nl.png" />
+alt="Fields Edit screen" />
 
 ## Formulier velden
 
@@ -102,7 +102,7 @@ src="https://docs.joomla.org/images/thumb/e/e3/Help-4x-Fields-Edit-options-subsc
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/e3/Help-4x-Fields-Edit-options-subscreen-nl.png/900px-Help-4x-Fields-Edit-options-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/e/e3/Help-4x-Fields-Edit-options-subscreen-nl.png/1200px-Help-4x-Fields-Edit-options-subscreen-nl.png 2x"
 data-file-width="2880" data-file-height="1378" width="600" height="287"
-alt="Help-4x-Fields-Edit-options-subscreen-nl.png" />
+alt="Fields Edit options subscreen" />
 
 **Veld opties**
 
@@ -176,7 +176,7 @@ src="https://docs.joomla.org/images/thumb/0/0c/Help-4x-Fields-Edit-publishing-su
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/0/0c/Help-4x-Fields-Edit-publishing-subscreen-nl.png/900px-Help-4x-Fields-Edit-publishing-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/0/0c/Help-4x-Fields-Edit-publishing-subscreen-nl.png/1200px-Help-4x-Fields-Edit-publishing-subscreen-nl.png 2x"
 data-file-width="2880" data-file-height="980" width="600" height="204"
-alt="Help-4x-Fields-Edit-publishing-subscreen-nl.png" />
+alt="Fields Edit publishing subscreen" />
 
 - **Aanmaakdatum**. Het tijdstip waarop het veld gemaakt was. Voer een
   andere datum en tijd in of klik op het kalender icoon om de gewenste
@@ -202,7 +202,7 @@ src="https://docs.joomla.org/images/thumb/f/fc/Help-4x-Fields-Edit-permissions-s
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/fc/Help-4x-Fields-Edit-permissions-subscreen-nl.png/900px-Help-4x-Fields-Edit-permissions-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/f/fc/Help-4x-Fields-Edit-permissions-subscreen-nl.png/1200px-Help-4x-Fields-Edit-permissions-subscreen-nl.png 2x"
 data-file-width="2880" data-file-height="1260" width="600" height="263"
-alt="Help-4x-Fields-Edit-permissions-subscreen-nl.png" />
+alt="Fields Edit permissions subscreen" />
 
 Om de rechten van dit veld te wijzigen moet u de volgende handelingen
 uitvoeren.

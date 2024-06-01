@@ -22,7 +22,7 @@ To edit a Tour:
 
 ## Screenshot
 
-<img alt="Guided Tours: Edit Tour" src="https://docs.joomla.org/images/b/b4/Guided_tours_tour_edit_en.png" decoding="async" width="1031" height="868" data-file-width="1031" data-file-height="868">
+<img alt="Guided Tours: Edit Tour" src="https://docs.joomla.org/images/b/b4/Guided_tours_tour_edit_en.png" decoding="async" width="1031" height="868" data file width="1031" data file height="868">
 
 ## Form Fields
 
@@ -56,7 +56,7 @@ To edit a Tour:
 
 ### Publishing tab
 
-<img alt="Guided Tours: Tour Publishing" src="https://docs.joomla.org/images/d/da/Guidedtours_tour_edit_publish_en.png" decoding="async" data-file-width="886" data-file-height="378" width="886" height="378">
+<img alt="Guided Tours: Tour Publishing" src="https://docs.joomla.org/images/d/da/Guidedtours_tour_edit_publish_en.png" decoding="async" data file width="886" data file height="378" width="886" height="378">
 
 - **Created Date**. The current time when the Tour was created. Enter in a different date and time or click on the calendar icon to find the desired date.
 - **Created By**. Name of the User who created this Tour. This will default to the currently logged-in user. If you want to change this to a different user, click the Select User button.
@@ -68,7 +68,7 @@ To edit a Tour:
 
 This is where you can enter permissions for this tour.
 
-<img alt="Guided Tours: Tour Permissions" src="https://docs.joomla.org/images/3/3c/Guidedtours_tour_edit_permissions_en.png" decoding="async" data-file-width="1213" data-file-height="591" width="1213" height="591">
+<img alt="Guided Tours: Tour Permissions" src="https://docs.joomla.org/images/3/3c/Guidedtours_tour_edit_permissions_en.png" decoding="async" data file width="1213" data file height="591" width="1213" height="591">
 
 To change the permissions for this tour, do the following.
 

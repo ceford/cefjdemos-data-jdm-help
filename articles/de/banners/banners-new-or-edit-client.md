@@ -18,7 +18,7 @@ Banner-Kunde erstellt sein, bevor ein Banner erstellt werden kann.
 src="https://docs.joomla.org/images/a/a0/Help-4x-Components-Banners-Clients-Edit-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="559"
 width="800" height="559"
-alt="Help-4x-Components-Banners-Clients-Edit-screen-en.png" />
+alt="Components Banners Clients Edit screen" />
 
 ## Form Fields
 
@@ -53,7 +53,7 @@ alt="Help-4x-Components-Banners-Clients-Edit-screen-en.png" />
 src="https://docs.joomla.org/images/8/8d/Help-4x-Components-Banners-Clients-Edit-screen-metadata-en.png"
 decoding="async" data-file-width="600" data-file-height="386"
 width="600" height="386"
-alt="Help-4x-Components-Banners-Clients-Edit-screen-metadata-en.png" />
+alt="Components Banners Clients Edit screen metadata" />
 
 - **Keywords**. Optional entry for keywords. Must be entered separated
   by commas (for example, "cats, dogs, pets") and may be entered in

@@ -26,7 +26,7 @@ src="https://docs.joomla.org/images/thumb/9/96/Help-4x-Fields-Edit-screen-ru.png
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/9/96/Help-4x-Fields-Edit-screen-ru.png/1200px-Help-4x-Fields-Edit-screen-ru.png 1.5x, https://docs.joomla.org/images/thumb/9/96/Help-4x-Fields-Edit-screen-ru.png/1600px-Help-4x-Fields-Edit-screen-ru.png 2x"
 data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Help-4x-Fields-Edit-screen-ru.png" />
+alt="Fields Edit screen" />
 
 ## Form Fields
 
@@ -87,7 +87,7 @@ src="https://docs.joomla.org/images/thumb/a/a5/Help-4x-Fields-Edit-options-subsc
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/a/a5/Help-4x-Fields-Edit-options-subscreen-ru.png/900px-Help-4x-Fields-Edit-options-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/a/a5/Help-4x-Fields-Edit-options-subscreen-ru.png/1200px-Help-4x-Fields-Edit-options-subscreen-ru.png 2x"
 data-file-width="2880" data-file-height="1346" width="600" height="280"
-alt="Help-4x-Fields-Edit-options-subscreen-ru.png" />
+alt="Fields Edit options subscreen" />
 
 **Форма**
 
@@ -158,7 +158,7 @@ src="https://docs.joomla.org/images/thumb/2/24/Help-4x-Fields-Edit-publishing-su
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/24/Help-4x-Fields-Edit-publishing-subscreen-ru.png/900px-Help-4x-Fields-Edit-publishing-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/2/24/Help-4x-Fields-Edit-publishing-subscreen-ru.png/1200px-Help-4x-Fields-Edit-publishing-subscreen-ru.png 2x"
 data-file-width="2880" data-file-height="1090" width="600" height="227"
-alt="Help-4x-Fields-Edit-publishing-subscreen-ru.png" />
+alt="Fields Edit publishing subscreen" />
 
 - **Дата создания**. The current time when the field was created. Enter
   in a different date and time or click on the calendar icon to find the
@@ -183,7 +183,7 @@ src="https://docs.joomla.org/images/thumb/1/1c/Help-4x-Fields-Edit-permissions-s
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/1/1c/Help-4x-Fields-Edit-permissions-subscreen-ru.png/900px-Help-4x-Fields-Edit-permissions-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/1/1c/Help-4x-Fields-Edit-permissions-subscreen-ru.png/1200px-Help-4x-Fields-Edit-permissions-subscreen-ru.png 2x"
 data-file-width="2880" data-file-height="1346" width="600" height="280"
-alt="Help-4x-Fields-Edit-permissions-subscreen-ru.png" />
+alt="Fields Edit permissions subscreen" />
 
 To change the permissions for this field, do the following.
 

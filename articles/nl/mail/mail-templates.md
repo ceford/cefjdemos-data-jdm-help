@@ -17,7 +17,7 @@ src="https://docs.joomla.org/images/thumb/7/7c/Help-4x-Mail-Templates-screen-nl.
 decoding="async"
 srcset="https://docs.joomla.org/images/7/7c/Help-4x-Mail-Templates-screen-nl.png 1.5x"
 data-file-width="1163" data-file-height="802" width="800" height="552"
-alt="Help-4x-Mail-Templates-screen-nl.png" />
+alt="Mail Templates screen" />
 
 ## Kolomkoppen
 

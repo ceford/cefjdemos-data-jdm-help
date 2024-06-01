@@ -19,7 +19,7 @@ Om een nieuw *Registratieformulier'* menu-item aan te maken:
     decoding="async"
     srcset="https://docs.joomla.org/images/thumb/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png/122px-Help-4x-Menu-Item-Type-Select-Button-nl.png 1.5x, https://docs.joomla.org/images/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png 2x"
     data-file-width="124" data-file-height="43" width="81" height="28"
-    alt="Help-4x-Menu-Item-Type-Select-Button-nl.png" />
+    alt="Menu Item Type Select Button" />
   - Selecteer in de modale dialoog het 'Gebruikers' item om een lijst te
     openen en selecteer daarna het **Registratieformulier** item.
 
@@ -34,7 +34,7 @@ src="https://docs.joomla.org/images/thumb/c/c2/Help-4x-Menus-Menu-Item-User-Regi
 decoding="async"
 srcset="https://docs.joomla.org/images/c/c2/Help-4x-Menus-Menu-Item-User-Registration-nl.png 1.5x"
 data-file-width="956" data-file-height="894" width="800" height="748"
-alt="Help-4x-Menus-Menu-Item-User-Registration-nl.png" />
+alt="Menus Menu Item User Registration" />
 
 ## Formulier velden
 
@@ -153,7 +153,7 @@ registratieformulier
 src="https://docs.joomla.org/images/7/71/Help-4x-Menus-Menu-User-Registration-front-end-screenshot-nl.png"
 decoding="async" data-file-width="588" data-file-height="342"
 width="588" height="342"
-alt="Help-4x-Menus-Menu-User-Registration-front-end-screenshot-nl.png" />
+alt="Menus Menu User Registration front end screenshot" />
 
 ## Snelle tips
 

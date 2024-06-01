@@ -19,7 +19,7 @@ src="https://docs.joomla.org/images/thumb/0/04/Help-4x-Component-Smart-Search-Se
 decoding="async"
 srcset="https://docs.joomla.org/images/0/04/Help-4x-Component-Smart-Search-Searches-screen-nl.png 1.5x"
 data-file-width="1004" data-file-height="572" width="800" height="456"
-alt="Help-4x-Component-Smart-Search-Searches-screen-nl.png" />
+alt="Component Smart Search Searches screen" />
 
 ## Kolommen
 

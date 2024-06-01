@@ -16,7 +16,7 @@ src="https://docs.joomla.org/images/thumb/8/89/Help-4x-Components-Tags-Manager-s
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/89/Help-4x-Components-Tags-Manager-screen-nl.png/1200px-Help-4x-Components-Tags-Manager-screen-nl.png 1.5x, https://docs.joomla.org/images/8/89/Help-4x-Components-Tags-Manager-screen-nl.png 2x"
 data-file-width="1299" data-file-height="689" width="800" height="424"
-alt="Help-4x-Components-Tags-Manager-screen-nl.png" />
+alt="Components Tags Manager screen" />
 
 ## Kolomkoppen
 
@@ -25,7 +25,7 @@ de kolomkop in het tagsbeheerscherm om de lijst op de waarde in die
 kolom te sorteren. <img
 src="https://docs.joomla.org/images/9/93/Help31-Tags-Manager-columns-nl.png"
 decoding="async" data-file-width="1188" data-file-height="27"
-width="1188" height="27" alt="Help31-Tags-Manager-columns-nl.png" />
+width="1188" height="27" alt="Help31 Tags Manager columns nl.png" />
 
 - **Selectievakje**. Vink dit vakje aan om één of meer items te
   selecteren. Vink het vakje in de kolomkop aan om alle selectievakjes
@@ -114,7 +114,7 @@ zijn gebruikt. <img
 src="https://docs.joomla.org/images/f/f2/Help30-colheader-select-tag-type-nl.png"
 decoding="async" data-file-width="230" data-file-height="109"
 width="230" height="109"
-alt="Help30-colheader-select-tag-type-nl.png" />
+alt="Help30 colheader select tag type nl.png" />
 
 ### Automatisch pagineren
 

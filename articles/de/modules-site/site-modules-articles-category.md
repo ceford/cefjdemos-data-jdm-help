@@ -22,7 +22,7 @@ veröffentlichten Beiträgen aus einer oder mehreren Kategorien an.
 src="https://docs.joomla.org/images/d/dd/Help-4x-modules-site-module-manager-module-articles-category-en.png"
 decoding="async" data-file-width="800" data-file-height="694"
 width="800" height="694"
-alt="Help-4x-modules-site-module-manager-module-articles-category-en.png" />
+alt="modules site module manager module articles category" />
 
 ## Form Fields
 
@@ -80,7 +80,7 @@ in the Modules page
 src="https://docs.joomla.org/images/0/05/Help-4x-modules-manager-site-module-menu-assignment-tab-en.png"
 decoding="async" data-file-width="600" data-file-height="595"
 width="800" height="793"
-alt="Help-4x-modules-manager-site-module-menu-assignment-tab-en.png" />
+alt="modules manager site module menu assignment tab" />
 
 - **Module Assignment.** Select **On All Pages**, **No Pages**, **Only
   on the pages selected** or **On all pages except those selected** from
@@ -99,7 +99,7 @@ alt="Help-4x-modules-manager-site-module-menu-assignment-tab-en.png" />
 src="https://docs.joomla.org/images/d/dc/Help-4x-modules-site-module-manager-module-articles-category-filtering-options-en.png"
 decoding="async" data-file-width="600" data-file-height="711"
 width="800" height="948"
-alt="Help-4x-modules-site-module-manager-module-articles-category-filtering-options-en.png" />
+alt="modules site module manager module articles category filtering options" />
 
 - **Featured Articles:** (*Show*/*Hide*/*Only*). Select to Show, Hide,
   or Only display Featured Articles.
@@ -142,7 +142,7 @@ alt="Help-4x-modules-site-module-manager-module-articles-category-filtering-opti
 src="https://docs.joomla.org/images/d/dd/Help-4x-modules-site-module-manager-module-articles-category-ordering-options-en.png"
 decoding="async" data-file-width="600" data-file-height="173"
 width="800" height="231"
-alt="Help-4x-modules-site-module-manager-module-articles-category-ordering-options-en.png" />
+alt="modules site module manager module articles category ordering options" />
 
 - **Article Field to Order By:** (*Article Manager Order*/*Featured
   Articles Order*/*Hits*/*Title*/*ID*/*Alias*/*Created Date*/...).
@@ -158,7 +158,7 @@ alt="Help-4x-modules-site-module-manager-module-articles-category-ordering-optio
 src="https://docs.joomla.org/images/8/81/Help-4x-modules-site-module-manager-module-articles-category-grouping-options-en.png"
 decoding="async" data-file-width="600" data-file-height="156"
 width="800" height="208"
-alt="Help-4x-modules-site-module-manager-module-articles-category-grouping-options-en.png" />
+alt="modules site module manager module articles category grouping options" />
 
 - **Article Grouping:** (*None*/*Year*/*Month and
   Year*/*Author*/*Category*). Select how you would like the articles to
@@ -177,7 +177,7 @@ alt="Help-4x-modules-site-module-manager-module-articles-category-grouping-optio
 src="https://docs.joomla.org/images/2/23/Help-4x-modules-site-module-manager-module-articles-category-display-options-en.png"
 decoding="async" data-file-width="600" data-file-height="302"
 width="800" height="403"
-alt="Help-4x-modules-site-module-manager-module-articles-category-display-options-en.png" />
+alt="modules site module manager module articles category display options" />
 
 - **Linked Titles:** (*Yes*/*No*).
 - **Date:** (*Show*/*Hide*). Select Show if you would like the date
@@ -211,7 +211,7 @@ alt="Help-4x-modules-site-module-manager-module-articles-category-display-option
 src="https://docs.joomla.org/images/6/63/Help-4x-modules-site-module-manager-module-articles-category-advanced-options-en.png"
 decoding="async" data-file-width="600" data-file-height="286"
 width="800" height="381"
-alt="Help-4x-modules-site-module-manager-module-articles-category-advanced-options-en.png" />
+alt="modules site module manager module articles category advanced options" />
 
 - **Layout.** If you have defined one or more alternative layouts for a
   module either in the template or Joomla! Core, you can select the
@@ -247,7 +247,7 @@ alt="Help-4x-modules-site-module-manager-module-articles-category-advanced-optio
 src="https://docs.joomla.org/images/d/d8/Help-4x-modules-manager-admin-module-administrator-permissions-en.png"
 decoding="async" data-file-width="600" data-file-height="374"
 width="800" height="499"
-alt="Help-4x-modules-manager-admin-module-administrator-permissions-en.png" />
+alt="modules manager admin module administrator permissions" />
 
 To change the permissions, do the following.
 
@@ -296,7 +296,7 @@ for those views on a Joomla! website.* Articles Category module shown:
 src="https://docs.joomla.org/images/3/3d/Help-4x-module-manager-articles-category-frontend-screenshot-en.png"
 decoding="async" data-file-width="300" data-file-height="270"
 width="300" height="270"
-alt="Help-4x-module-manager-articles-category-frontend-screenshot-en.png" />
+alt="module manager articles category frontend screenshot" />
 
 The Module Type name for this Module is "mod_articles_category". It is
 related to the content component.

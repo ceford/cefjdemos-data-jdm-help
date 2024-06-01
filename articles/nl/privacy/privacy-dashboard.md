@@ -31,7 +31,7 @@ src="https://docs.joomla.org/images/thumb/1/10/Help-4x-component-privacy-dashboa
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/1/10/Help-4x-component-privacy-dashboard-nl.png/1200px-Help-4x-component-privacy-dashboard-nl.png 1.5x, https://docs.joomla.org/images/1/10/Help-4x-component-privacy-dashboard-nl.png 2x"
 data-file-width="1240" data-file-height="851" width="800" height="549"
-alt="Help-4x-component-privacy-dashboard-nl.png" />
+alt="component privacy dashboard" />
 
 ## Dashboard venster
 

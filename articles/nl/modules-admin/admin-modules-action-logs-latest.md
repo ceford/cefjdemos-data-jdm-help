@@ -23,7 +23,7 @@ src="https://docs.joomla.org/images/thumb/1/18/Help-4x-modules-manager-admin-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/1/18/Help-4x-modules-manager-admin-module-latestactions-nl.png 1.5x"
 data-file-width="1096" data-file-height="865" width="800" height="631"
-alt="Help-4x-modules-manager-admin-module-latestactions-nl.png" />
+alt="modules manager admin module latestactions" />
 
 ## Formulier velden
 
@@ -41,7 +41,7 @@ src="https://docs.joomla.org/images/thumb/7/7d/Help-4x-modules-manager-admin-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/7d/Help-4x-modules-manager-admin-module-latestactions-advanced-options-nl.png/900px-Help-4x-modules-manager-admin-module-latestactions-advanced-options-nl.png 1.5x, https://docs.joomla.org/images/thumb/7/7d/Help-4x-modules-manager-admin-module-latestactions-advanced-options-nl.png/1200px-Help-4x-modules-manager-admin-module-latestactions-advanced-options-nl.png 2x"
 data-file-width="1202" data-file-height="564" width="600" height="282"
-alt="Help-4x-modules-manager-admin-module-latestactions-advanced-options-nl.png" />
+alt="modules manager admin module latestactions advanced options" />
 
 - **Weergave.** Als u één of meer alternatieve lay-outs voor een module
   heeft gedefinieerd of in het template of in Joomla! core, dan kunt u
@@ -82,7 +82,7 @@ src="https://docs.joomla.org/images/thumb/e/ed/Help-4x-modules-manager-admin-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/ed/Help-4x-modules-manager-admin-module-latestactions-permissions-nl.png/900px-Help-4x-modules-manager-admin-module-latestactions-permissions-nl.png 1.5x, https://docs.joomla.org/images/e/ed/Help-4x-modules-manager-admin-module-latestactions-permissions-nl.png 2x"
 data-file-width="1102" data-file-height="545" width="600" height="297"
-alt="Help-4x-modules-manager-admin-module-latestactions-permissions-nl.png" />
+alt="modules manager admin module latestactions permissions" />
 
 - **Verwijderen:** (*Overgenomen*/*Toegestaan*/*Geweigerd*). Sta toe of
   weiger het verwijderen door gebruikers in de publieke groep.

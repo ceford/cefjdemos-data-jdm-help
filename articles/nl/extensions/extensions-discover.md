@@ -46,7 +46,7 @@ src="https://docs.joomla.org/images/thumb/c/c8/Help-4x-Extensions-Extension-Mana
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/c8/Help-4x-Extensions-Extension-Manager-Discover-screen-nl.png/1200px-Help-4x-Extensions-Extension-Manager-Discover-screen-nl.png 1.5x, https://docs.joomla.org/images/c/c8/Help-4x-Extensions-Extension-Manager-Discover-screen-nl.png 2x"
 data-file-width="1203" data-file-height="396" width="800" height="263"
-alt="Help-4x-Extensions-Extension-Manager-Discover-screen-nl.png" />
+alt="Extensions Extension Manager Discover screen" />
 
 ## Kolomkoppen
 

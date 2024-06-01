@@ -17,7 +17,7 @@ src="https://docs.joomla.org/images/thumb/d/d2/Help-4x-Components-Checkin-screen
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/d/d2/Help-4x-Components-Checkin-screen-_nl.png/1200px-Help-4x-Components-Checkin-screen-_nl.png 1.5x, https://docs.joomla.org/images/d/d2/Help-4x-Components-Checkin-screen-_nl.png 2x"
 data-file-width="1320" data-file-height="825" width="800" height="500"
-alt="Help-4x-Components-Checkin-screen- nl.png" />
+alt="Help 4x Components Checkin screen  nl.png" />
 
 ## Rechten
 

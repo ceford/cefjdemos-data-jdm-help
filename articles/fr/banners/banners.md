@@ -29,7 +29,7 @@ avoir au moins une Bannière Client et une Catégorie de Bannière
 src="https://docs.joomla.org/images/4/49/Help-4x-components-banner-manager-banners-en.png"
 decoding="async" data-file-width="800" data-file-height="331"
 width="800" height="331"
-alt="Help-4x-components-banner-manager-banners-en.png" />
+alt="components banner manager banners" />
 
 ## En-Têtes de colonne
 

@@ -26,7 +26,7 @@ src="https://docs.joomla.org/images/thumb/5/52/Help-4x-Menus-Item-Articles-Featu
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/52/Help-4x-Menus-Item-Articles-Featured-Articles-screen-de.png/1200px-Help-4x-Menus-Item-Articles-Featured-Articles-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/5/52/Help-4x-Menus-Item-Articles-Featured-Articles-screen-de.png/1600px-Help-4x-Menus-Item-Articles-Featured-Articles-screen-de.png 2x"
 data-file-width="2880" data-file-height="1307" width="800" height="363"
-alt="Help-4x-Menus-Item-Articles-Featured-Articles-screen-de.png" />
+alt="Menus Item Articles Featured Articles screen" />
 
 ## Formular Felder
 
@@ -64,7 +64,7 @@ src="https://docs.joomla.org/images/thumb/5/55/Help-4x-Menus-Item-Articles-Featu
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/55/Help-4x-Menus-Item-Articles-Featured-Articles-blog-layout-subscreen-de.png/900px-Help-4x-Menus-Item-Articles-Featured-Articles-blog-layout-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/5/55/Help-4x-Menus-Item-Articles-Featured-Articles-blog-layout-subscreen-de.png/1200px-Help-4x-Menus-Item-Articles-Featured-Articles-blog-layout-subscreen-de.png 2x"
 data-file-width="2878" data-file-height="1344" width="600" height="280"
-alt="Help-4x-Menus-Item-Articles-Featured-Articles-blog-layout-subscreen-de.png" />
+alt="Menus Item Articles Featured Articles blog layout subscreen" />
 
 - **Select Categories**. **Kategorie auswählen**. Die gewählten
   Kategorien werden angezeigt. Um eine Kategorie abzuwählen 'X' drücken.
@@ -180,7 +180,7 @@ src="https://docs.joomla.org/images/thumb/2/23/Help-4x-Menus-Item-Articles-Featu
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/23/Help-4x-Menus-Item-Articles-Featured-Articles-options-subscreen-de.png/900px-Help-4x-Menus-Item-Articles-Featured-Articles-options-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/2/23/Help-4x-Menus-Item-Articles-Featured-Articles-options-subscreen-de.png/1200px-Help-4x-Menus-Item-Articles-Featured-Articles-options-subscreen-de.png 2x"
 data-file-width="2878" data-file-height="1339" width="600" height="279"
-alt="Help-4x-Menus-Item-Articles-Featured-Articles-options-subscreen-de.png" />
+alt="Menus Item Articles Featured Articles options subscreen" />
 
 Layout
 
@@ -270,7 +270,7 @@ src="https://docs.joomla.org/images/thumb/7/7c/Help-4x-Menus-Item-Articles-Featu
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/7c/Help-4x-Menus-Item-Articles-Featured-Articles-integration-subscreen-de.png/900px-Help-4x-Menus-Item-Articles-Featured-Articles-integration-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/7/7c/Help-4x-Menus-Item-Articles-Featured-Articles-integration-subscreen-de.png/1200px-Help-4x-Menus-Item-Articles-Featured-Articles-integration-subscreen-de.png 2x"
 data-file-width="2878" data-file-height="710" width="600" height="148"
-alt="Help-4x-Menus-Item-Articles-Featured-Articles-integration-subscreen-de.png" />
+alt="Menus Item Articles Featured Articles integration subscreen" />
 
 - **RSS Feed Link**. **Feed-Link**. Bei 'Anzeigen' wird ein Feed-Link
   mit einem Feed-Icon in der Adressleiste der meisten Browser gezeigt.

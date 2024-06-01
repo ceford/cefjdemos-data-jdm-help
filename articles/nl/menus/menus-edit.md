@@ -19,7 +19,7 @@ src="https://docs.joomla.org/images/thumb/a/a7/Help-4x-menus-menu-manager-add-me
 decoding="async"
 srcset="https://docs.joomla.org/images/a/a7/Help-4x-menus-menu-manager-add-menu-nl.png 1.5x"
 data-file-width="1070" data-file-height="524" width="800" height="392"
-alt="Help-4x-menus-menu-manager-add-menu-nl.png" />
+alt="menus menu manager add menu" />
 
 ## Formulier velden
 

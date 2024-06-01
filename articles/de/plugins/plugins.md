@@ -21,7 +21,7 @@ src="https://docs.joomla.org/images/thumb/9/9d/Help-4x-Extensions-Plugin-Manager
 decoding="async"
 srcset="https://docs.joomla.org/images/9/9d/Help-4x-Extensions-Plugin-Manager-screen-de.png 1.5x"
 data-file-width="1200" data-file-height="534" width="800" height="356"
-alt="Help-4x-Extensions-Plugin-Manager-screen-de.png" />
+alt="Extensions Plugin Manager screen" />
 
 ## Spalten-Überschriften
 

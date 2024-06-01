@@ -16,7 +16,7 @@ independently for the Site and Administrator interfaces.
 src="https://docs.joomla.org/images/a/a6/Help-4x-Extensions-Language-Manager-Installed-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="370"
 width="800" height="370"
-alt="Help-4x-Extensions-Language-Manager-Installed-screen-en.png" />
+alt="Extensions Language Manager Installed screen" />
 
 ## Column Headers
 
@@ -96,7 +96,7 @@ Screenshot above. The functions are:
   star symbol
   (<img src="https://docs.joomla.org/images/7/7e/Icon-16-default.png"
   decoding="async" data-file-width="30" data-file-height="20" width="30"
-  height="20" alt="Icon-16-default.png" />) will show in the Default
+  height="20" alt="Icon 16 default.png" />) will show in the Default
   column, indicating that this is now the default item.
 - **Switch Languages.** In the Administrator screen only, select a
   language radio button and then this button. The Administrator language

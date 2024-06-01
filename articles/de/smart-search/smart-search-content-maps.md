@@ -51,7 +51,7 @@ Map Group as well as to multiple Map Groups.
 src="https://docs.joomla.org/images/e/e5/Help-4x-Components-Finder-ContentMaps-subscreen-en.png"
 decoding="async" data-file-width="800" data-file-height="411"
 width="800" height="411"
-alt="Help-4x-Components-Finder-ContentMaps-subscreen-en.png" />
+alt="Components Finder ContentMaps subscreen" />
 
 ## Column Headers
 
@@ -63,7 +63,7 @@ displayed in each column.
 src="https://docs.joomla.org/images/9/9f/Help31-Components-Smart-Search-Content-Maps-columns-en.png"
 decoding="async" data-file-width="1030" data-file-height="32"
 width="1030" height="32"
-alt="Help31-Components-Smart-Search-Content-Maps-columns-en.png" />
+alt="Help31 Components Smart Search Content Maps columns en.png" />
 
 - **Checkbox**. Check this box to select one or more items. To select
   all items, check the box in the column heading. After one or more

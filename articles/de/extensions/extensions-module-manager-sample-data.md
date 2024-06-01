@@ -21,7 +21,7 @@ There are other access routes!
 src="https://docs.joomla.org/images/d/d9/Help-4x-modules-site-module-manager-module-sample-data-module-en.png"
 decoding="async" data-file-width="800" data-file-height="633"
 width="800" height="633"
-alt="Help-4x-modules-site-module-manager-module-sample-data-module-en.png" />
+alt="modules site module manager module sample data module" />
 
 ## Form Fields
 

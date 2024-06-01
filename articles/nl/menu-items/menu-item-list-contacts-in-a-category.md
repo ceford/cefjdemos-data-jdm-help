@@ -19,7 +19,7 @@ te maken:
 - Klik op de Menu-itemtype selectie knop <img
   src="https://docs.joomla.org/images/6/6f/Help30-Menu-Item-Type-Select-Button-nl.png"
   decoding="async" data-file-width="115" data-file-height="30" width="115"
-  height="30" alt="Help30-Menu-Item-Type-Select-Button-nl.png" />
+  height="30" alt="Help30 Menu Item Type Select Button nl.png" />
   - Selecteer in de modale dialoog het 'Contactpersonen' item om een
     lijst te openen en selecteer daarna het **Lijst met contactpersonen
     in een categorie** item.
@@ -36,7 +36,7 @@ src="https://docs.joomla.org/images/thumb/8/8b/Help-4x-Menus-Menu-Item-Contact-C
 decoding="async"
 srcset="https://docs.joomla.org/images/8/8b/Help-4x-Menus-Menu-Item-Contact-Category-screen-nl.png 1.5x"
 data-file-width="1118" data-file-height="882" width="800" height="631"
-alt="Help-4x-Menus-Menu-Item-Contact-Category-screen-nl.png" />
+alt="Menus Menu Item Contact Category screen" />
 
 ## Formulier velden
 
@@ -71,7 +71,7 @@ alt="Help-4x-Menus-Menu-Item-Contact-Category-screen-nl.png" />
 <img
 src="https://docs.joomla.org/images/b/b4/Help-4x-menu-item-template-style-nl.png"
 decoding="async" data-file-width="524" data-file-height="99" width="524"
-height="99" alt="Help-4x-menu-item-template-style-nl.png" />
+height="99" alt="menu item template style" />
 
 Selecteer "Gebruik algemeen" om de standaardstijl voor de site te
 gebruiken. Selecteer een specifieke templatestijl om dit menu-item
@@ -141,7 +141,7 @@ src="https://docs.joomla.org/images/thumb/2/2a/Help-4x-Menus-Menu-Item-Contact-C
 decoding="async"
 srcset="https://docs.joomla.org/images/2/2a/Help-4x-Menus-Menu-Item-Contact-Category-category-options-parameters-nl.png 1.5x"
 data-file-width="825" data-file-height="419" width="600" height="305"
-alt="Help-4x-Menus-Menu-Item-Contact-Category-category-options-parameters-nl.png" />
+alt="Menus Menu Item Contact Category category options parameters" />
 
 - **Categorietitel.** (Gebruik algemeen/Verberg/Toon) Indien dit is
   ingesteld op toon wordt de categorietitel als subkop weergegeven op
@@ -174,7 +174,7 @@ src="https://docs.joomla.org/images/thumb/9/9c/Help-4x-Menus-Menu-Item-Contact-C
 decoding="async"
 srcset="https://docs.joomla.org/images/9/9c/Help-4x-Menus-Menu-Item-Contact-Category-category-list-layout-options-parameters-nl.png 1.5x"
 data-file-width="823" data-file-height="581" width="600" height="424"
-alt="Help-4x-Menus-Menu-Item-Contact-Category-category-list-layout-options-parameters-nl.png" />
+alt="Menus Menu Item Contact Category category list layout options parameters" />
 
 - **Filterveld.** (Gebruik algemeen/Verberg/Toon) Het Filterveld maakt
   een tekstveld aan voor de website gebruiker om op een deel van de naam
@@ -188,7 +188,7 @@ alt="Help-4x-Menus-Menu-Item-Contact-Category-category-list-layout-options-param
 src="https://docs.joomla.org/images/1/1a/Help30-article-category-list-display-select-nl.png"
 decoding="async" data-file-width="700" data-file-height="334"
 width="700" height="334"
-alt="Help30-article-category-list-display-select-nl.png" />
+alt="Help30 article category list display select nl.png" />
 
 Indien er meer items zijn dan dit aantal kunnen de pagina
 navigatieknoppen (Start, Vorige, Volgende, Einde en paginanummers)
@@ -203,7 +203,7 @@ worden.
 <img
 src="https://docs.joomla.org/images/9/9e/Help30-article-category-list-table-headings-nl.png"
 decoding="async" data-file-width="736" data-file-height="33" width="736"
-height="33" alt="Help30-article-category-list-table-headings-nl.png" />
+height="33" alt="Help30 article category list table headings nl.png" />
 
 Indien ingesteld op *Toon* dan wordt deze kop getoond boven een lijst.
 Indien ingesteld op *Verberg* dan wordt de lijst zonder kop getoond.
@@ -277,7 +277,7 @@ De volgende opties zijn beschikbaar.
 
 <img src="https://docs.joomla.org/images/2/25/Help30-pagination-nl.png"
 decoding="async" data-file-width="251" data-file-height="61" width="251"
-height="61" alt="Help30-pagination-nl.png" />
+height="61" alt="Help30 pagination nl.png" />
 
 De volgende opties zijn beschikbaar.
 
@@ -303,7 +303,7 @@ src="https://docs.joomla.org/images/thumb/0/00/Help-4x-Menus-Menu-Item-Contact-C
 decoding="async"
 srcset="https://docs.joomla.org/images/0/00/Help-4x-Menus-Menu-Item-Contact-Category-category-contact-display-options-parameters-nl.png 1.5x"
 data-file-width="817" data-file-height="543" width="600" height="399"
-alt="Help-4x-Menus-Menu-Item-Contact-Category-category-contact-display-options-parameters-nl.png" />
+alt="Menus Menu Item Contact Category category contact display options parameters" />
 
 - **Kies een weergave.** Selecteer uit de lijst met templates.
 - **Contactpersonencategorie**. Instellingen voor de weergave van de
@@ -375,7 +375,7 @@ src="https://docs.joomla.org/images/thumb/7/77/Help-4x-Menus-Menu-Item-Contact-C
 decoding="async"
 srcset="https://docs.joomla.org/images/7/77/Help-4x-Menus-Menu-Item-Contact-Category-category-contact-mail-options-parameters-nl.png 1.5x"
 data-file-width="831" data-file-height="315" width="600" height="227"
-alt="Help-4x-Menus-Menu-Item-Contact-Category-category-contact-mail-options-parameters-nl.png" />
+alt="Menus Menu Item Contact Category category contact mail options parameters" />
 
 - **Contactformulier**. Geeft de *contactformulier* van de
   contactpersoon weer.
@@ -400,7 +400,7 @@ src="https://docs.joomla.org/images/thumb/7/76/Help-4x-Menus-Menu-Item-Contact-C
 decoding="async"
 srcset="https://docs.joomla.org/images/7/76/Help-4x-Menus-Menu-Item-Contact-Category-integration-options-parameters-nl.png 1.5x"
 data-file-width="798" data-file-height="253" width="600" height="190"
-alt="Help-4x-Menus-Menu-Item-Contact-Category-integration-options-parameters-nl.png" />
+alt="Menus Menu Item Contact Category integration options parameters" />
 
 Deze bepalen of een nieuws feed beschikbaar zal zijn voor de pagina en
 welke informatie deze zal tonen.

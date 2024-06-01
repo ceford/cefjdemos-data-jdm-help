@@ -36,7 +36,7 @@ src="https://docs.joomla.org/images/thumb/7/71/Help-4x-users-notes-de.png/800px-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/71/Help-4x-users-notes-de.png/1200px-Help-4x-users-notes-de.png 1.5x, https://docs.joomla.org/images/7/71/Help-4x-users-notes-de.png 2x"
 data-file-width="1453" data-file-height="1162" width="800" height="640"
-alt="Help-4x-users-notes-de.png" />
+alt="users notes" />
 
 ## Details
 

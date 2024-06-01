@@ -15,7 +15,7 @@ src="https://docs.joomla.org/images/thumb/b/b2/Help-4x-users-user-manager-viewin
 decoding="async"
 srcset="https://docs.joomla.org/images/b/b2/Help-4x-users-user-manager-viewing-access-levels-en.png 1.5x"
 data-file-width="1007" data-file-height="583" width="800" height="463"
-alt="Help-4x-users-user-manager-viewing-access-levels-en.png" />
+alt="users user manager viewing access levels" />
 
 ## Column Headers
 

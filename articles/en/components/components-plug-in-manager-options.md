@@ -17,7 +17,7 @@ for Plugins.
 src="https://docs.joomla.org/images/9/90/Help-4x-Components-Plugins-Options-en.png"
 decoding="async" data-file-width="800" data-file-height="473"
 width="800" height="473"
-alt="Help-4x-Components-Plugins-Options-en.png" />
+alt="Components Plugins Options" />
 
 ## Form Fields
 

@@ -27,7 +27,7 @@ src="https://docs.joomla.org/images/thumb/0/0c/Help4x-Extensions-Manage-Install-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/0/0c/Help4x-Extensions-Manage-Install-Languages-screen-de.png/1200px-Help4x-Extensions-Manage-Install-Languages-screen-de.png 1.5x, https://docs.joomla.org/images/0/0c/Help4x-Extensions-Manage-Install-Languages-screen-de.png 2x"
 data-file-width="1500" data-file-height="786" width="800" height="419"
-alt="Help4x-Extensions-Manage-Install-Languages-screen-de.png" />
+alt="Help4x Extensions Manage Install Languages screen de.png" />
 
 ## Werkzeugleiste
 
@@ -48,7 +48,7 @@ src="https://docs.joomla.org/images/thumb/b/ba/Help-4x-colheader-filter-field-de
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/ba/Help-4x-colheader-filter-field-de.png/900px-Help-4x-colheader-filter-field-de.png 1.5x, https://docs.joomla.org/images/b/ba/Help-4x-colheader-filter-field-de.png 2x"
 data-file-width="1077" data-file-height="54" width="600" height="30"
-alt="Help-4x-colheader-filter-field-de.png" />
+alt="colheader filter field" />
 
 - **Suche**. Nach Eingabe eines Teils des Suchbegriffs auf das Symbol
   für Suche klicken. Die Suche kann sich auf ein oder mehrere Felder

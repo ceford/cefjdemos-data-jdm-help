@@ -19,7 +19,7 @@ package de mise à jour du dépôt de code de Joomla !
 src="https://docs.joomla.org/images/7/75/Help-4x-joomla-update-manager-screen-default-en.png"
 decoding="async" data-file-width="800" data-file-height="243"
 width="800" height="243"
-alt="Help-4x-joomla-update-manager-screen-default-en.png" />
+alt="joomla update manager screen default" />
 
 Vous êtes sur la dernière version de Joomla, donc aucune action requise.
 
@@ -48,7 +48,7 @@ d'outils et Joomla installera les derniers fichiers de base.
 src="https://docs.joomla.org/images/0/05/Help-4x-joomla-update-manager-updating-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="173"
 width="800" height="173"
-alt="Help-4x-joomla-update-manager-updating-screen-en.png" />
+alt="joomla update manager updating screen" />
 
 ### Téléchargement et mise à jour
 
@@ -60,7 +60,7 @@ peut-être augmenter ces tailles. Sinon...
 src="https://docs.joomla.org/images/6/63/Help-4x-joomla-update-manager-screen-upload-en.png"
 decoding="async" data-file-width="800" data-file-height="632"
 width="800" height="632"
-alt="Help-4x-joomla-update-manager-screen-upload-en.png" />
+alt="joomla update manager screen upload" />
 
 Vous pouvez utiliser cette fonction pour mettre à jour Joomla si votre
 serveur se trouve derrière un pare-feu ou s'il est incapable de
@@ -97,7 +97,7 @@ verrez un onglet supplémentaire, Vérification avant mise à jour :
 src="https://docs.joomla.org/images/5/54/Help-4x-joomla-update-manager-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="873"
 width="800" height="873"
-alt="Help-4x-joomla-update-manager-screen-en.png" />
+alt="joomla update manager screen" />
 
 Et le panneau de mise à jour en direct sera prêt à fonctionner :
 
@@ -105,7 +105,7 @@ Et le panneau de mise à jour en direct sera prêt à fonctionner :
 src="https://docs.joomla.org/images/6/63/Help-4x-joomla-update-manager-screen-customen.png"
 decoding="async" data-file-width="800" data-file-height="464"
 width="800" height="464"
-alt="Help-4x-joomla-update-manager-screen-customen.png" />
+alt="Help 4x joomla update manager screen customen.png" />
 
 ## Astuces
 

@@ -17,7 +17,7 @@ Um eine neue Kontaktliste in einem Kategorie-Menüeintrag zu erstellen:
   - Select the Menu Item Type Select button <img
     src="https://docs.joomla.org/images/d/d7/Help30-Menu-Item-Type-Select-Button-en.png"
     decoding="async" data-file-width="82" data-file-height="28" width="82"
-    height="28" alt="Help30-Menu-Item-Type-Select-Button-en.png" />
+    height="28" alt="Help30 Menu Item Type Select Button en.png" />
   - In the modal dialog select the Contacts item to open a list and then
     select the **List Contacts in a Category** item.
 
@@ -31,7 +31,7 @@ To edit an existing List Contacts in a Category menu item:
 src="https://docs.joomla.org/images/8/85/Help-4x-Menus-Menu-Item-Contact-Category-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="812"
 width="800" height="812"
-alt="Help-4x-Menus-Menu-Item-Contact-Category-screen-en.png" />
+alt="Menus Menu Item Contact Category screen" />
 
 ## Form Fields
 
@@ -63,7 +63,7 @@ alt="Help-4x-Menus-Menu-Item-Contact-Category-screen-en.png" />
 src="https://docs.joomla.org/images/a/a6/Help-4x-menu-item-template-style-en.png"
 decoding="async" data-file-width="600" data-file-height="118"
 width="600" height="118"
-alt="Help-4x-menu-item-template-style-en.png" />
+alt="menu item template style" />
 
 Select "Use Default" to use the default style for the site. Select a
 specific template style to always show this menu item with that style.
@@ -123,7 +123,7 @@ Options, as shown below.
 src="https://docs.joomla.org/images/c/c6/Help-4x-Menus-Menu-Item-Contact-Category-category-options-parameters-en.png"
 decoding="async" data-file-width="600" data-file-height="417"
 width="600" height="417"
-alt="Help-4x-Menus-Menu-Item-Contact-Category-category-options-parameters-en.png" />
+alt="Menus Menu Item Contact Category category options parameters" />
 
 - **Category Title.** (Use Global/Hide/Show) If Show, the Category Title
   will show as a subheading on the page. The subheading is usually
@@ -150,7 +150,7 @@ List Layout Options control the appearance of the list layout.
 src="https://docs.joomla.org/images/b/b4/Help-4x-Menus-Menu-Item-Contact-Category-category-list-layout-options-parameters-en.png"
 decoding="async" data-file-width="600" data-file-height="687"
 width="600" height="687"
-alt="Help-4x-Menus-Menu-Item-Contact-Category-category-list-layout-options-parameters-en.png" />
+alt="Menus Menu Item Contact Category category list layout options parameters" />
 
 - **Filter Field.** (Use Global/Hide/Show) The Filter Field creates a
   text field for the front-end user to enter some part of a contact name
@@ -164,7 +164,7 @@ alt="Help-4x-Menus-Menu-Item-Contact-Category-category-list-layout-options-param
 src="https://docs.joomla.org/images/0/09/Help30-article-category-list-display-select-en.png"
 decoding="async" data-file-width="198" data-file-height="125"
 width="198" height="125"
-alt="Help30-article-category-list-display-select-en.png" />
+alt="Help30 article category list display select en.png" />
 
 If there are more items than this number, you can use the page
 navigation buttons (Start, Prev, Next, End, and page numbers) to
@@ -178,7 +178,7 @@ headings, to limit which items display.
 <img
 src="https://docs.joomla.org/images/8/8b/Help30-article-category-list-table-headings-en.png"
 decoding="async" data-file-width="670" data-file-height="28" width="670"
-height="28" alt="Help30-article-category-list-table-headings-en.png" />
+height="28" alt="Help30 article category list table headings en.png" />
 
 If set to *Show*, this heading will show above the list. If set to
 *Hide*, the list will show with no headings.
@@ -245,7 +245,7 @@ The following options are available.
 
 <img src="https://docs.joomla.org/images/8/81/Help30-pagination-en.png"
 decoding="async" data-file-width="299" data-file-height="29" width="299"
-height="29" alt="Help30-pagination-en.png" />
+height="29" alt="Help30 pagination en.png" />
 
 The following options are available.
 
@@ -267,7 +267,7 @@ Contact Display fields control the appearance of the list layout.
 src="https://docs.joomla.org/images/7/72/Help-4x-Menus-Menu-Item-Contact-Category-category-contact-display-options-parameters-en.png"
 decoding="async" data-file-width="600" data-file-height="691"
 width="600" height="691"
-alt="Help-4x-Menus-Menu-Item-Contact-Category-category-contact-display-options-parameters-en.png" />
+alt="Menus Menu Item Contact Category category contact display options parameters" />
 
 - **Choose a Layout.** Select from the list of templates.
 - **Contact Category**. Set to control the Contacts Category display
@@ -328,7 +328,7 @@ Contact Mail Options control the appearance of a Contact's
 src="https://docs.joomla.org/images/1/1e/Help-4x-Menus-Menu-Item-Contact-Category-category-contact-mail-options-parameters-en.png"
 decoding="async" data-file-width="600" data-file-height="294"
 width="600" height="294"
-alt="Help-4x-Menus-Menu-Item-Contact-Category-category-contact-mail-options-parameters-en.png" />
+alt="Menus Menu Item Contact Category category contact mail options parameters" />
 
 - **Contact Form**. Display the contact's *contact form*.
 - **Send Copy to Submitter.** (Use Global/Hide/Show) Display the a check
@@ -350,7 +350,7 @@ Options.
 src="https://docs.joomla.org/images/7/7c/Help-4x-Menus-Menu-Item-Contact-Category-integration-options-parameters-en.png"
 decoding="async" data-file-width="600" data-file-height="190"
 width="600" height="190"
-alt="Help-4x-Menus-Menu-Item-Contact-Category-integration-options-parameters-en.png" />
+alt="Menus Menu Item Contact Category integration options parameters" />
 
 These determine whether a news feed will be available for the page and
 what information it will show.

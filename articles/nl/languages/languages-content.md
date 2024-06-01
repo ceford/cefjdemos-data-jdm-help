@@ -19,7 +19,7 @@ src="https://docs.joomla.org/images/thumb/b/bc/Help-4x-Extensions-Language-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/b/bc/Help-4x-Extensions-Language-Manager-Content-screen-nl.png 1.5x"
 data-file-width="1142" data-file-height="457" width="800" height="320"
-alt="Help-4x-Extensions-Language-Manager-Content-screen-nl.png" />
+alt="Extensions Language Manager Content screen" />
 
 ## Kolomkoppen
 

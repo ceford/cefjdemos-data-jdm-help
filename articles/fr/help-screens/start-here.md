@@ -15,7 +15,7 @@ src="https://docs.joomla.org/images/thumb/c/c7/Help-4x-Start-Here-Help-toolbar-e
 decoding="async"
 srcset="https://docs.joomla.org/images/c/c7/Help-4x-Start-Here-Help-toolbar-en.png 1.5x"
 data-file-width="864" data-file-height="268" width="800" height="248"
-alt="Help-4x-Start-Here-Help-toolbar-en.png" />
+alt="Start Here Help toolbar" />
 
 Une boîte de dialogue modale s'affiche au milieu de l'écran et contient
 des informations d'aide spécifiques à cette page.

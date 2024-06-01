@@ -17,7 +17,7 @@ Indien u deze foutboodschap ziet:
 src="https://docs.joomla.org/images/7/7f/Help-j4x-Components-Redirect-Manager-Options-error-plugin-nl.png"
 decoding="async" data-file-width="927" data-file-height="62" width="927"
 height="62"
-alt="Help-j4x-Components-Redirect-Manager-Options-error-plugin-nl.png" />
+alt="Help j4x Components Redirect Manager Options error plugin nl.png" />
 
 Ga naar **Systeem → Plugins** en schakel de Systeem verwijzingen
 plugin in. Kom daarna hier terug.
@@ -29,7 +29,7 @@ src="https://docs.joomla.org/images/thumb/b/b6/Help-4x-Components-Redirect-Optio
 decoding="async"
 srcset="https://docs.joomla.org/images/b/b6/Help-4x-Components-Redirect-Options-nl.png 1.5x"
 data-file-width="1170" data-file-height="471" width="800" height="322"
-alt="Help-4x-Components-Redirect-Options-nl.png" />
+alt="Components Redirect Options" />
 
 ### Formulier velden
 
@@ -53,7 +53,7 @@ alt="Help-4x-Components-Redirect-Options-nl.png" />
 src="https://docs.joomla.org/images/e/e4/Help-4x-Components-Redirects-Options-Permissions-nl.png"
 decoding="async" data-file-width="689" data-file-height="664"
 width="689" height="664"
-alt="Help-4x-Components-Redirects-Options-Permissions-nl.png" />
+alt="Components Redirects Options Permissions" />
 
 Om de rechten van deze extensie te wijzigen moet u de volgende
 handelingen uitvoeren.

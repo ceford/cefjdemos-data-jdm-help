@@ -27,7 +27,7 @@ src="https://docs.joomla.org/images/thumb/f/ff/Help-4x-Menus-Item-Articles-Singl
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/ff/Help-4x-Menus-Item-Articles-Single-Article-screen-de.png/1200px-Help-4x-Menus-Item-Articles-Single-Article-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/f/ff/Help-4x-Menus-Item-Articles-Single-Article-screen-de.png/1600px-Help-4x-Menus-Item-Articles-Single-Article-screen-de.png 2x"
 data-file-width="2880" data-file-height="1306" width="800" height="363"
-alt="Help-4x-Menus-Item-Articles-Single-Article-screen-de.png" />
+alt="Menus Item Articles Single Article screen" />
 
 ## Formular Felder
 
@@ -69,7 +69,7 @@ src="https://docs.joomla.org/images/thumb/3/34/Help-4x-Menus-Item-Articles-Singl
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/3/34/Help-4x-Menus-Item-Articles-Single-Article-options-subscreen-de.png/900px-Help-4x-Menus-Item-Articles-Single-Article-options-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/3/34/Help-4x-Menus-Item-Articles-Single-Article-options-subscreen-de.png/1200px-Help-4x-Menus-Item-Articles-Single-Article-options-subscreen-de.png 2x"
 data-file-width="2880" data-file-height="1340" width="600" height="279"
-alt="Help-4x-Menus-Item-Articles-Single-Article-options-subscreen-de.png" />
+alt="Menus Item Articles Single Article options subscreen" />
 
 Hinweis: Die Auswahl "**Global**" übernimmt Einstellungen aus [Beiträge:
 Optionen](https://docs.joomla.org/Help4.x:Articles:_Options/de "Help4.x:Articles: Options/de").

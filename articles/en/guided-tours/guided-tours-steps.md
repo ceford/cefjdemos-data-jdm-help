@@ -12,7 +12,7 @@ Enter a tour's steps screen by selecting the steps number from the Steps column.
 
 ## Screenshot
 
-<img alt="Guided Tours steps list" src="https://docs.joomla.org/images/2/2a/Guidedtours_steps_en.png" decoding="async" width="1261" height="804" data-file-width="1261" data-file-height="804">
+<img alt="Guided Tours steps list" src="https://docs.joomla.org/images/2/2a/Guidedtours_steps_en.png" decoding="async" width="1261" height="804" data file width="1261" data file height="804">
 
 ## Column Headers
 

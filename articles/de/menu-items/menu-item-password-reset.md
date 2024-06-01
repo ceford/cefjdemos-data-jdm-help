@@ -21,7 +21,7 @@ Um einen neuen Menüeintrag *Passwort zurücksetzen* zu erstellen:
     decoding="async"
     srcset="https://docs.joomla.org/images/thumb/1/1e/Help-4x-Menu-Item-Type-Select-Button-de.png/125px-Help-4x-Menu-Item-Type-Select-Button-de.png 1.5x, https://docs.joomla.org/images/1/1e/Help-4x-Menu-Item-Type-Select-Button-de.png 2x"
     data-file-width="145" data-file-height="49" width="83" height="28"
-    alt="Help-4x-Menu-Item-Type-Select-Button-de.png" />
+    alt="Menu Item Type Select Button" />
   - Im modalen Fenster in der Liste „Benutzer“ anklicken und dann den
     Eintrag **Password zurücksetzen** wählen.
 
@@ -35,7 +35,7 @@ To edit an existing User Password Reset menu item:
 src="https://docs.joomla.org/images/a/af/Help-4x-Menus-Menu-Item-User-Password-Reset-en.png"
 decoding="async" data-file-width="800" data-file-height="812"
 width="800" height="812"
-alt="Help-4x-Menus-Menu-Item-User-Password-Reset-en.png" />
+alt="Menus Menu Item User Password Reset" />
 
 ## Form Fields
 
@@ -137,4 +137,4 @@ for those views on a Joomla! website.* User Password Reset shown:
 src="https://docs.joomla.org/images/6/65/Help-4x-Menus-Menu-User-Password-Reset-front-end-screenshot-en.png"
 decoding="async" data-file-width="600" data-file-height="205"
 width="600" height="205"
-alt="Help-4x-Menus-Menu-User-Password-Reset-front-end-screenshot-en.png" />
+alt="Menus Menu User Password Reset front end screenshot" />

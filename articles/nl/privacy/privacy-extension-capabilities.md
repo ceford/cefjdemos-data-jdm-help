@@ -18,7 +18,7 @@ src="https://docs.joomla.org/images/thumb/3/36/Help-4.x-component-privacy-inform
 decoding="async"
 srcset="https://docs.joomla.org/images/3/36/Help-4.x-component-privacy-information-requests-nl.png 1.5x"
 data-file-width="1111" data-file-height="1086" width="800" height="782"
-alt="Help-4.x-component-privacy-information-requests-nl.png" />
+alt="Help 4.x component privacy information requests nl.png" />
 
 ## Werkbalk
 

@@ -22,14 +22,14 @@ src="https://docs.joomla.org/images/thumb/8/84/Help-4x-Global-Configuration-serv
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/84/Help-4x-Global-Configuration-server-webservices-subscreen-ru.png/1200px-Help-4x-Global-Configuration-server-webservices-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/8/84/Help-4x-Global-Configuration-server-webservices-subscreen-ru.png/1600px-Help-4x-Global-Configuration-server-webservices-subscreen-ru.png 2x"
 data-file-width="1858" data-file-height="679" width="800" height="292"
-alt="Скриншот: Параметры веб-служб" />
+alt="Скриншот: Параметры веб служб" />
 
 <img
 src="https://docs.joomla.org/images/thumb/9/9f/Help-4x-Global-Configuration-server-proxy-subscreen-ru.png/800px-Help-4x-Global-Configuration-server-proxy-subscreen-ru.png"
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/9/9f/Help-4x-Global-Configuration-server-proxy-subscreen-ru.png/1200px-Help-4x-Global-Configuration-server-proxy-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/9/9f/Help-4x-Global-Configuration-server-proxy-subscreen-ru.png/1600px-Help-4x-Global-Configuration-server-proxy-subscreen-ru.png 2x"
 data-file-width="1858" data-file-height="955" width="800" height="411"
-alt="Скриншот: Параметры прокси-сервера" />
+alt="Скриншот: Параметры прокси сервера" />
 
 <img
 src="https://docs.joomla.org/images/thumb/2/2f/Help-4x-Global-Configuration-server-database-subscreen-ru.png/800px-Help-4x-Global-Configuration-server-database-subscreen-ru.png"

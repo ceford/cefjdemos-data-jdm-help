@@ -32,7 +32,7 @@ src="https://docs.joomla.org/images/thumb/f/f0/Help-4x-users-user-manager-add-ne
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/f0/Help-4x-users-user-manager-add-new-viewing-access-level-de.png/900px-Help-4x-users-user-manager-add-new-viewing-access-level-de.png 1.5x, https://docs.joomla.org/images/f/f0/Help-4x-users-user-manager-add-new-viewing-access-level-de.png 2x"
 data-file-width="1079" data-file-height="828" width="600" height="460"
-alt="Help-4x-users-user-manager-add-new-viewing-access-level-de.png" />
+alt="users user manager add new viewing access level" />
 
 ## Zugriffsebenen-Details
 

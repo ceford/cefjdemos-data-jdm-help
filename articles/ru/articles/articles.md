@@ -28,7 +28,7 @@ src="https://docs.joomla.org/images/thumb/e/e5/Help-4x-Content-Article-screen-ru
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/e5/Help-4x-Content-Article-screen-ru.png/1200px-Help-4x-Content-Article-screen-ru.png 1.5x, https://docs.joomla.org/images/thumb/e/e5/Help-4x-Content-Article-screen-ru.png/1600px-Help-4x-Content-Article-screen-ru.png 2x"
 data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Help-4x-Content-Article-screen-ru.png" />
+alt="Content Article screen" />
 
 ## Column Headers
 
@@ -153,7 +153,7 @@ src="https://docs.joomla.org/images/thumb/f/fa/Help-4x-batch-process-articles-ru
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/fa/Help-4x-batch-process-articles-ru.png/900px-Help-4x-batch-process-articles-ru.png 1.5x, https://docs.joomla.org/images/thumb/f/fa/Help-4x-batch-process-articles-ru.png/1200px-Help-4x-batch-process-articles-ru.png 2x"
 data-file-width="1598" data-file-height="837" width="600" height="314"
-alt="Help-4x-batch-process-articles-ru.png" />
+alt="batch process articles" />
 
 **How to Batch Process** a group of articles:
 

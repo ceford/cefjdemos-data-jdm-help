@@ -28,7 +28,7 @@ src="https://docs.joomla.org/images/thumb/3/39/Help-4x-Content-Article-screen-de
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/3/39/Help-4x-Content-Article-screen-de.png/1200px-Help-4x-Content-Article-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/3/39/Help-4x-Content-Article-screen-de.png/1600px-Help-4x-Content-Article-screen-de.png 2x"
 data-file-width="2814" data-file-height="1700" width="800" height="483"
-alt="Help-4x-Content-Article-screen-de.png" />
+alt="Content Article screen" />
 
 ## Spalten-Überschriften
 
@@ -41,14 +41,14 @@ alt="Help-4x-Content-Article-screen-de.png" />
     decoding="async"
     srcset="https://docs.joomla.org/images/thumb/7/79/Help-4x-Ordering-colheader-icon.png/14px-Help-4x-Ordering-colheader-icon.png 1.5x, https://docs.joomla.org/images/7/79/Help-4x-Ordering-colheader-icon.png 2x"
     data-file-width="18" data-file-height="23" width="9" height="12"
-    alt="Reihenfolge-Symbol" /> in der Listen-Überschrift durch
+    alt="Reihenfolge Symbol" /> in der Listen-Überschrift durch
     Anklicken aktivieren.
   - Ein Drei-Punkte-Symbol <img
     src="https://docs.joomla.org/images/thumb/a/a0/Help-4x-Ordering-colheader-grab-bar-icon.png/5px-Help-4x-Ordering-colheader-grab-bar-icon.png"
     decoding="async"
     srcset="https://docs.joomla.org/images/thumb/a/a0/Help-4x-Ordering-colheader-grab-bar-icon.png/8px-Help-4x-Ordering-colheader-grab-bar-icon.png 1.5x, https://docs.joomla.org/images/a/a0/Help-4x-Ordering-colheader-grab-bar-icon.png 2x"
     data-file-width="9" data-file-height="27" width="5" height="15"
-    alt="Drei-Punkte-Symbol" /> nach oben oder unten ziehen, um die
+    alt="Drei Punkte Symbol" /> nach oben oder unten ziehen, um die
     Position in der Liste zu ändern.
   - In den Filter-Optionen kann die Liste auf Beiträge beschränkt
     werden, die zum Beispiel einer Sprache zugeordnet sind.
@@ -164,7 +164,7 @@ src="https://docs.joomla.org/images/thumb/d/d7/Help-4x-batch-process-articles-de
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/d/d7/Help-4x-batch-process-articles-de.png/900px-Help-4x-batch-process-articles-de.png 1.5x, https://docs.joomla.org/images/thumb/d/d7/Help-4x-batch-process-articles-de.png/1200px-Help-4x-batch-process-articles-de.png 2x"
 data-file-width="1598" data-file-height="736" width="600" height="276"
-alt="Help-4x-batch-process-articles-de.png" />
+alt="batch process articles" />
 
 **Wie man die Stapelverarbeitung** an Beiträgen anwendet:
 

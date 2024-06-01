@@ -16,7 +16,7 @@ Um einen neuen Menüeintrag **Abmelden** zu erstellen:
     klicken <img
     src="https://docs.joomla.org/images/1/1e/Help-4x-Menu-Item-Type-Select-Button-de.png"
     decoding="async" data-file-width="145" data-file-height="49" width="145"
-    height="49" alt="Help-4x-Menu-Item-Type-Select-Button-de.png" />
+    height="49" alt="Menu Item Type Select Button" />
   - Im modalen Fenster der Liste „Benutzer“ anklicken und dann den
     Eintrag **Abmelden** wählen.
 
@@ -31,7 +31,7 @@ src="https://docs.joomla.org/images/thumb/c/c7/Help-4x-Help-4x-Menus-Menu-Item-U
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/c7/Help-4x-Help-4x-Menus-Menu-Item-User-Logout-de.png/1200px-Help-4x-Help-4x-Menus-Menu-Item-User-Logout-de.png 1.5x, https://docs.joomla.org/images/c/c7/Help-4x-Help-4x-Menus-Menu-Item-User-Logout-de.png 2x"
 data-file-width="1364" data-file-height="1402" width="800" height="822"
-alt="Help-4x-Help-4x-Menus-Menu-Item-User-Logout-de.png" />
+alt="Help 4x Menus Menu Item User Logout" />
 
 ## Formular Felder
 
@@ -115,7 +115,7 @@ alt="Help-4x-Help-4x-Menus-Menu-Item-User-Logout-de.png" />
 src="https://docs.joomla.org/images/9/92/Help-4x-Menus-Menu-Item-User-Logout-options-screenshot-de.png"
 decoding="async" data-file-width="1152" data-file-height="444"
 width="1152" height="444"
-alt="Help-4x-Menus-Menu-Item-User-Logout-options-screenshot-de.png" />
+alt="Menus Menu Item User Logout options screenshot" />
 
 - **Abmeldeweiterleitungsseite**. Man kann die Standardseite verwenden
   oder eine andere bestimmen, zu der man nach dem Abmelden umgeleitet

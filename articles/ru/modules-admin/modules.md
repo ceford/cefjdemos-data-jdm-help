@@ -26,7 +26,7 @@ src="https://docs.joomla.org/images/thumb/d/d4/Help-4x-Modules-screen-ru.png/800
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/d/d4/Help-4x-Modules-screen-ru.png/1200px-Help-4x-Modules-screen-ru.png 1.5x, https://docs.joomla.org/images/thumb/d/d4/Help-4x-Modules-screen-ru.png/1600px-Help-4x-Modules-screen-ru.png 2x"
 data-file-width="2880" data-file-height="1600" width="800" height="444"
-alt="Help-4x-Modules-screen-ru.png" />
+alt="Modules screen" />
 
 ## Column Headers
 
@@ -153,7 +153,7 @@ src="https://docs.joomla.org/images/thumb/c/c8/Help-4x-Modules-batch-subscreen-r
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/c8/Help-4x-Modules-batch-subscreen-ru.png/900px-Help-4x-Modules-batch-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/c/c8/Help-4x-Modules-batch-subscreen-ru.png/1200px-Help-4x-Modules-batch-subscreen-ru.png 2x"
 data-file-width="1598" data-file-height="776" width="600" height="291"
-alt="Help-4x-Modules-batch-subscreen-ru.png" />
+alt="Modules batch subscreen" />
 
 **How to Batch Process** a group of modules:
 

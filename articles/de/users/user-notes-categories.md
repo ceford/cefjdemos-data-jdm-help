@@ -15,7 +15,7 @@ Diese Seite zeigt eine Liste der Kategorien von Benutzerhinweisen.
 src="https://docs.joomla.org/images/a/a1/Help-4x-users-category-manager-user-notes-categories-en.png"
 decoding="async" data-file-width="800" data-file-height="402"
 width="800" height="402"
-alt="Help-4x-users-category-manager-user-notes-categories-en.png" />
+alt="users category manager user notes categories" />
 
 ## Column Headers
 
@@ -144,7 +144,7 @@ items being viewed to activate the drop down field area.
 src="https://docs.joomla.org/images/f/ff/Help-4x-colheader-batch-process-view-link-en.png"
 decoding="async" data-file-width="600" data-file-height="363"
 width="600" height="363"
-alt="Help-4x-colheader-batch-process-view-link-en.png" />
+alt="colheader batch process view link" />
 
 ***\<Item Type\>** refers to the page name of items.*
 

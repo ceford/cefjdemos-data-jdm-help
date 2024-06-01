@@ -26,7 +26,7 @@ src="https://docs.joomla.org/images/thumb/9/99/Help-4x-Modules-screen-pt-br.png/
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/9/99/Help-4x-Modules-screen-pt-br.png/1200px-Help-4x-Modules-screen-pt-br.png 1.5x, https://docs.joomla.org/images/thumb/9/99/Help-4x-Modules-screen-pt-br.png/1600px-Help-4x-Modules-screen-pt-br.png 2x"
 data-file-width="2880" data-file-height="1460" width="800" height="406"
-alt="Help-4x-Modules-screen-pt-br.png" />
+alt="Modules screen pt" />
 
 ## Cabeçalhos das colunas
 
@@ -165,7 +165,7 @@ src="https://docs.joomla.org/images/thumb/4/42/Help-4x-Modules-batch-subscreen-p
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/42/Help-4x-Modules-batch-subscreen-pt-br.png/900px-Help-4x-Modules-batch-subscreen-pt-br.png 1.5x, https://docs.joomla.org/images/thumb/4/42/Help-4x-Modules-batch-subscreen-pt-br.png/1200px-Help-4x-Modules-batch-subscreen-pt-br.png 2x"
 data-file-width="1598" data-file-height="691" width="600" height="259"
-alt="Help-4x-Modules-batch-subscreen-pt-br.png" />
+alt="Modules batch subscreen pt" />
 
 **Como processar em lote** um grupo de módulos:
 

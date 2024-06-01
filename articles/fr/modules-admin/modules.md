@@ -27,7 +27,7 @@ src="https://docs.joomla.org/images/thumb/2/27/Help-4x-Modules-screen-fr.png/800
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/27/Help-4x-Modules-screen-fr.png/1200px-Help-4x-Modules-screen-fr.png 1.5x, https://docs.joomla.org/images/thumb/2/27/Help-4x-Modules-screen-fr.png/1600px-Help-4x-Modules-screen-fr.png 2x"
 data-file-width="2880" data-file-height="1450" width="800" height="403"
-alt="Help-4x-Modules-screen-fr.png" />
+alt="Modules screen" />
 
 ## En-Têtes de colonne
 
@@ -162,7 +162,7 @@ src="https://docs.joomla.org/images/thumb/f/fb/Help-4x-Modules-batch-subscreen-f
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/fb/Help-4x-Modules-batch-subscreen-fr.png/900px-Help-4x-Modules-batch-subscreen-fr.png 1.5x, https://docs.joomla.org/images/thumb/f/fb/Help-4x-Modules-batch-subscreen-fr.png/1200px-Help-4x-Modules-batch-subscreen-fr.png 2x"
 data-file-width="1598" data-file-height="733" width="600" height="275"
-alt="Help-4x-Modules-batch-subscreen-fr.png" />
+alt="Modules batch subscreen" />
 
 **How to Batch Process** a group of modules:
 

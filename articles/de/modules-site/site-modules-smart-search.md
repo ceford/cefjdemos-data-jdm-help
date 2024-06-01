@@ -23,7 +23,7 @@ src="https://docs.joomla.org/images/thumb/9/91/Help-4x-modules-site-module-manag
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/9/91/Help-4x-modules-site-module-manager-module-smart-search-module-de.png/1200px-Help-4x-modules-site-module-manager-module-smart-search-module-de.png 1.5x, https://docs.joomla.org/images/9/91/Help-4x-modules-site-module-manager-module-smart-search-module-de.png 2x"
 data-file-width="1347" data-file-height="1167" width="800" height="693"
-alt="Help-4x-modules-site-module-manager-module-smart-search-module-de.png" />
+alt="modules site module manager module smart search module" />
 
 ## Formular Felder
 
@@ -88,7 +88,7 @@ src="https://docs.joomla.org/images/thumb/e/e4/Help-4x-modules-manager-site-modu
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/e4/Help-4x-modules-manager-site-module-menu-assignment-tab-de.png/900px-Help-4x-modules-manager-site-module-menu-assignment-tab-de.png 1.5x, https://docs.joomla.org/images/thumb/e/e4/Help-4x-modules-manager-site-module-menu-assignment-tab-de.png/1200px-Help-4x-modules-manager-site-module-menu-assignment-tab-de.png 2x"
 data-file-width="1330" data-file-height="1048" width="600" height="473"
-alt="Help-4x-modules-manager-site-module-menu-assignment-tab-de.png" />
+alt="modules manager site module menu assignment tab" />
 
 - **Menüzuweisung**. Eine der Optionen **Auf allen Seiten**, **Auf
   keiner Seite**, **Nur auf den gewählten Seiten** oder **Auf allen,
@@ -109,7 +109,7 @@ src="https://docs.joomla.org/images/thumb/c/ce/Help-4x-modules-manager-admin-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/ce/Help-4x-modules-manager-admin-module-site-advanced-options-de.png/900px-Help-4x-modules-manager-admin-module-site-advanced-options-de.png 1.5x, https://docs.joomla.org/images/c/ce/Help-4x-modules-manager-admin-module-site-advanced-options-de.png 2x"
 data-file-width="1168" data-file-height="843" width="600" height="433"
-alt="Help-4x-modules-manager-admin-module-site-advanced-options-de.png" />
+alt="modules manager admin module site advanced options" />
 
 - **Layout.** Wenn ein oder mehrere alternative Layouts für ein Modul
   definiert wurden, entweder im Template oder im Joomla!-Core, kann ein
@@ -151,7 +151,7 @@ src="https://docs.joomla.org/images/thumb/1/1d/Help-4x-modules-manager-admin-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/1/1d/Help-4x-modules-manager-admin-module-administrator-permissions-de.png/900px-Help-4x-modules-manager-admin-module-administrator-permissions-de.png 1.5x, https://docs.joomla.org/images/thumb/1/1d/Help-4x-modules-manager-admin-module-administrator-permissions-de.png/1200px-Help-4x-modules-manager-admin-module-administrator-permissions-de.png 2x"
 data-file-width="1236" data-file-height="789" width="600" height="383"
-alt="Help-4x-modules-manager-admin-module-administrator-permissions-de.png" />
+alt="modules manager admin module administrator permissions" />
 
 Um die Berechtigungen zu ändern:
 
@@ -203,4 +203,4 @@ Ein Beispielformular für die Website-Suche ist unten abgebildet:
 src="https://docs.joomla.org/images/7/71/Help-4x-Extensions-Module-Manager-Smart-Search-example-output-en.png"
 decoding="async" data-file-width="234" data-file-height="90" width="234"
 height="90"
-alt="Help-4x-Extensions-Module-Manager-Smart-Search-example-output-en.png" />
+alt="Extensions Module Manager Smart Search example output" />

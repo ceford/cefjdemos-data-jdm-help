@@ -27,7 +27,7 @@ src="https://docs.joomla.org/images/thumb/1/14/Help-4x-Menus-Item-Articles-Featu
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/1/14/Help-4x-Menus-Item-Articles-Featured-Articles-screen-nl.png/1200px-Help-4x-Menus-Item-Articles-Featured-Articles-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/1/14/Help-4x-Menus-Item-Articles-Featured-Articles-screen-nl.png/1600px-Help-4x-Menus-Item-Articles-Featured-Articles-screen-nl.png 2x"
 data-file-width="2880" data-file-height="1261" width="800" height="350"
-alt="Help-4x-Menus-Item-Articles-Featured-Articles-screen-nl.png" />
+alt="Menus Item Articles Featured Articles screen" />
 
 ## Formulier velden
 
@@ -65,7 +65,7 @@ src="https://docs.joomla.org/images/thumb/c/cd/Help-4x-Menus-Item-Articles-Featu
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/cd/Help-4x-Menus-Item-Articles-Featured-Articles-blog-layout-subscreen-nl.png/900px-Help-4x-Menus-Item-Articles-Featured-Articles-blog-layout-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/c/cd/Help-4x-Menus-Item-Articles-Featured-Articles-blog-layout-subscreen-nl.png/1200px-Help-4x-Menus-Item-Articles-Featured-Articles-blog-layout-subscreen-nl.png 2x"
 data-file-width="2878" data-file-height="1344" width="600" height="280"
-alt="Help-4x-Menus-Item-Articles-Featured-Articles-blog-layout-subscreen-nl.png" />
+alt="Menus Item Articles Featured Articles blog layout subscreen" />
 
 - **Select Categories**. **Selecteer Categorieën**. Selecteer de
   categorieën die u wilt opnemen in deze weergave. Klik de 'X' in het
@@ -199,7 +199,7 @@ src="https://docs.joomla.org/images/thumb/f/fe/Help-4x-Menus-Item-Articles-Featu
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/fe/Help-4x-Menus-Item-Articles-Featured-Articles-options-subscreen-nl.png/900px-Help-4x-Menus-Item-Articles-Featured-Articles-options-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/f/fe/Help-4x-Menus-Item-Articles-Featured-Articles-options-subscreen-nl.png/1200px-Help-4x-Menus-Item-Articles-Featured-Articles-options-subscreen-nl.png 2x"
 data-file-width="2878" data-file-height="1339" width="600" height="279"
-alt="Help-4x-Menus-Item-Articles-Featured-Articles-options-subscreen-nl.png" />
+alt="Menus Item Articles Featured Articles options subscreen" />
 
 Weergave
 
@@ -279,7 +279,7 @@ src="https://docs.joomla.org/images/thumb/d/de/Help-4x-Menus-Item-Articles-Featu
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/d/de/Help-4x-Menus-Item-Articles-Featured-Articles-integration-subscreen-nl.png/900px-Help-4x-Menus-Item-Articles-Featured-Articles-integration-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/d/de/Help-4x-Menus-Item-Articles-Featured-Articles-integration-subscreen-nl.png/1200px-Help-4x-Menus-Item-Articles-Featured-Articles-integration-subscreen-nl.png 2x"
 data-file-width="2878" data-file-height="710" width="600" height="148"
-alt="Help-4x-Menus-Item-Articles-Featured-Articles-integration-subscreen-nl.png" />
+alt="Menus Item Articles Featured Articles integration subscreen" />
 
 - **RSS Feed Link**. **RSS feed link**. Als deze ingesteld staat op Toon
   zal de Feedlink verschijnen als een feedicoon in de adresbalk bij de

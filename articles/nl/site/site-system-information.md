@@ -32,7 +32,7 @@ src="https://docs.joomla.org/images/thumb/9/9f/Help-4x-system-system-information
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/9/9f/Help-4x-system-system-information-nl.png/1200px-Help-4x-system-system-information-nl.png 1.5x, https://docs.joomla.org/images/9/9f/Help-4x-system-system-information-nl.png 2x"
 data-file-width="1266" data-file-height="934" width="800" height="590"
-alt="Help-4x-system-system-information-nl.png" />
+alt="system system information" />
 
 ## Gegevens
 
@@ -79,7 +79,7 @@ src="https://docs.joomla.org/images/thumb/6/6b/Help-4x-system-php-settings-nl.pn
 decoding="async"
 srcset="https://docs.joomla.org/images/6/6b/Help-4x-system-php-settings-nl.png 1.5x"
 data-file-width="508" data-file-height="620" width="400" height="488"
-alt="Help-4x-system-php-settings-nl.png" />
+alt="system php settings" />
 
 Dit scherm toont de relevante PHP instelling informatie. Indien er iets
 uitgelicht is als incorrect dan moet actie worden ondernomen de situatie
@@ -112,7 +112,7 @@ src="https://docs.joomla.org/images/thumb/7/7f/Help-4x-system-configuration-file
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/7f/Help-4x-system-configuration-file-nl.png/900px-Help-4x-system-configuration-file-nl.png 1.5x, https://docs.joomla.org/images/7/7f/Help-4x-system-configuration-file-nl.png 2x"
 data-file-width="961" data-file-height="757" width="600" height="473"
-alt="Help-4x-system-configuration-file-nl.png" />
+alt="system configuration file" />
 
 Dit scherm toont de inhoud van het huidige Joomla! *configuration.php*
 bestand dat opgeslagen is in de hoofd **/joomla_root/** map. Dit bestand
@@ -131,7 +131,7 @@ src="https://docs.joomla.org/images/thumb/f/f2/Help-4x-system-folder-permissions
 decoding="async"
 srcset="https://docs.joomla.org/images/f/f2/Help-4x-system-folder-permissions-nl.png 1.5x"
 data-file-width="798" data-file-height="782" width="600" height="588"
-alt="Help-4x-system-folder-permissions-nl.png" />
+alt="system folder permissions" />
 
 Dit scherm toont een lijst met mappen waar de webserver schrijfrechten
 voor moet hebben. Denk eraan dat alle mappen op deze pagina
@@ -145,7 +145,7 @@ src="https://docs.joomla.org/images/thumb/4/4b/Help-4x-system-php-information-nl
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/4b/Help-4x-system-php-information-nl.png/900px-Help-4x-system-php-information-nl.png 1.5x, https://docs.joomla.org/images/4/4b/Help-4x-system-php-information-nl.png 2x"
 data-file-width="983" data-file-height="760" width="600" height="464"
-alt="Help-4x-system-php-information-nl.png" />
+alt="system php information" />
 
 Dit scherm toont de volledige instelling van de PHP server side
 script-taal waarop Joomla! draait, samen met alle gekoppelde systeem

@@ -26,7 +26,7 @@ To edit a Tour's steps:
 
 ## Screenshot
 
-<img alt="Guided Tours: tours list" src="https://docs.joomla.org/images/e/e2/Guidedtours_tours_list_en.png" decoding="async" width="1258" height="847" data-file-width="1258" data-file-height="847">
+<img alt="Guided Tours: tours list" src="https://docs.joomla.org/images/e/e2/Guidedtours_tours_list_en.png" decoding="async" width="1258" height="847" data file width="1258" data file height="847">
 
 ## Column Headers
 

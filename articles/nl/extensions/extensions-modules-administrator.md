@@ -23,7 +23,7 @@ src="https://docs.joomla.org/images/thumb/e/e0/Help-4x-Modules-Administrators-nl
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/e0/Help-4x-Modules-Administrators-nl.png/1200px-Help-4x-Modules-Administrators-nl.png 1.5x, https://docs.joomla.org/images/e/e0/Help-4x-Modules-Administrators-nl.png 2x"
 data-file-width="1212" data-file-height="731" width="800" height="483"
-alt="Help-4x-Modules-Administrators-nl.png" />
+alt="Modules Administrators" />
 
 **Lijst met beschikbare modules**
 
@@ -32,7 +32,7 @@ src="https://docs.joomla.org/images/thumb/2/2d/Help-4x-Modules-Administrators-Ne
 decoding="async"
 srcset="https://docs.joomla.org/images/2/2d/Help-4x-Modules-Administrators-New-nl.png 1.5x"
 data-file-width="1188" data-file-height="2427" width="800" height="1634"
-alt="Help-4x-Modules-Administrators-New-nl.png" />
+alt="Modules Administrators New" />
 
 ## Snelle tips
 

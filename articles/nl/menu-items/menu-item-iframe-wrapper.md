@@ -19,7 +19,7 @@ Om een nieuw 'Iframe wrapper' menu-item aan te maken:
 - Klik op de Menu-itemtype selectie knop <img
   src="https://docs.joomla.org/images/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png"
   decoding="async" data-file-width="124" data-file-height="43" width="124"
-  height="43" alt="Help-4x-Menu-Item-Type-Select-Button-nl.png" /> en
+  height="43" alt="Menu Item Type Select Button" /> en
   klik vervolgens op de 'Iframe wrapper' menu-item link onder Wrapper.
 
 Om een bestaand 'Iframe wrapper' menu-item te bewerken, klikt u op de
@@ -33,7 +33,7 @@ src="https://docs.joomla.org/images/thumb/1/14/Help-4x-Menus-Menu-Item-Wrapper-n
 decoding="async"
 srcset="https://docs.joomla.org/images/1/14/Help-4x-Menus-Menu-Item-Wrapper-nl.png 1.5x"
 data-file-width="980" data-file-height="886" width="800" height="723"
-alt="Help-4x-Menus-Menu-Item-Wrapper-nl.png" />
+alt="Menus Menu Item Wrapper" />
 
 ## Formulier velden
 
@@ -91,7 +91,7 @@ functie uitgeschakeld is.*
 src="https://docs.joomla.org/images/4/4a/Help-4x-Menus-Menu-Item-Wrapper-Scroll-Bar-parameters-screenshot-nl.png"
 decoding="async" data-file-width="653" data-file-height="296"
 width="653" height="296"
-alt="Help-4x-Menus-Menu-Item-Wrapper-Scroll-Bar-parameters-screenshot-nl.png" />
+alt="Menus Menu Item Wrapper Scroll Bar parameters screenshot" />
 
 - **Scrollbalken:** "(Nee/Ja/Automatisch)" Al dan niet opnemen van
   horizontale en verticale schuifbalken, nee of ja. Automatisch zal de
@@ -110,7 +110,7 @@ alt="Help-4x-Menus-Menu-Item-Wrapper-Scroll-Bar-parameters-screenshot-nl.png" />
 src="https://docs.joomla.org/images/0/0b/Help-4x-Menus-Menu-Item-Wrapper-Advanced-options-screenshot-nl.png"
 decoding="async" data-file-width="697" data-file-height="296"
 width="697" height="296"
-alt="Help-4x-Menus-Menu-Item-Wrapper-Advanced-options-screenshot-nl.png" />
+alt="Menus Menu Item Wrapper Advanced options screenshot" />
 
 - **Automatische hoogte**. Automatisch de hoogte instellen op de hoogte
   van de externe pagina. *Let op* - dit werkt alleen als de externe
@@ -157,7 +157,7 @@ selecteren waarin deze pagina getoond moet worden.
 src="https://docs.joomla.org/images/8/87/Help-4x-Menus-Menu-Item-Wrapper-Associations-screenshot-nl.png"
 decoding="async" data-file-width="829" data-file-height="223"
 width="829" height="223"
-alt="Help-4x-Menus-Menu-Item-Wrapper-Associations-screenshot-nl.png" />
+alt="Menus Menu Item Wrapper Associations screenshot" />
 
 ### Moduletoewijzing tabblad
 

@@ -26,7 +26,7 @@ src="https://docs.joomla.org/images/thumb/5/56/Help-4x-users-category-manager-ad
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/56/Help-4x-users-category-manager-add-a-new-user-notes-category-de.png/1200px-Help-4x-users-category-manager-add-a-new-user-notes-category-de.png 1.5x, https://docs.joomla.org/images/5/56/Help-4x-users-category-manager-add-a-new-user-notes-category-de.png 2x"
 data-file-width="1393" data-file-height="1167" width="800" height="670"
-alt="Help-4x-users-category-manager-add-a-new-user-notes-category-de.png" />
+alt="users category manager add a new user notes category" />
 
 ## Details
 
@@ -74,7 +74,7 @@ src="https://docs.joomla.org/images/thumb/f/fc/Help-4x-users-category-manager-ad
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/fc/Help-4x-users-category-manager-add-a-new-user-notes-category-options-de.png/1200px-Help-4x-users-category-manager-add-a-new-user-notes-category-options-de.png 1.5x, https://docs.joomla.org/images/f/fc/Help-4x-users-category-manager-add-a-new-user-notes-category-options-de.png 2x"
 data-file-width="1222" data-file-height="687" width="800" height="450"
-alt="Help-4x-users-category-manager-add-a-new-user-notes-category-options-de.png" />
+alt="users category manager add a new user notes category options" />
 
 **Layout** (*Globale Einstellung*). Ein Layout aus der mitgelieferten
 Komponentenansicht verwenden oder in den Templates übersteuern.
@@ -90,7 +90,7 @@ src="https://docs.joomla.org/images/thumb/3/37/Help-4x-users-category-manager-ad
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/3/37/Help-4x-users-category-manager-add-a-new-user-notes-category-publishing-de.png/1200px-Help-4x-users-category-manager-add-a-new-user-notes-category-publishing-de.png 1.5x, https://docs.joomla.org/images/3/37/Help-4x-users-category-manager-add-a-new-user-notes-category-publishing-de.png 2x"
 data-file-width="1412" data-file-height="686" width="800" height="389"
-alt="Help-4x-users-category-manager-add-a-new-user-notes-category-publishing-de.png" />
+alt="users category manager add a new user notes category publishing" />
 
 - **Erstellungsdatum**. Datum und Uhrzeit der erstmaligen Erstellung des
   Elements. Wird vom System automatisch ausgefüllt.
@@ -118,7 +118,7 @@ src="https://docs.joomla.org/images/thumb/9/92/Help-4x-users-category-manager-ad
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/9/92/Help-4x-users-category-manager-add-a-new-user-notes-category-permissions-de.png/1200px-Help-4x-users-category-manager-add-a-new-user-notes-category-permissions-de.png 1.5x, https://docs.joomla.org/images/9/92/Help-4x-users-category-manager-add-a-new-user-notes-category-permissions-de.png 2x"
 data-file-width="1411" data-file-height="801" width="800" height="454"
-alt="Help-4x-users-category-manager-add-a-new-user-notes-category-permissions-de.png" />
+alt="users category manager add a new user notes category permissions" />
 
 Verwaltung der Zugriffsrechte für die folgenden Benutzergruppen. Die
 untenstehenden Hinweise sollten beachtet werden.

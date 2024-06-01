@@ -23,7 +23,7 @@ src="https://docs.joomla.org/images/thumb/6/6f/Help-4x-Users-screen-ru.png/800px
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/6/6f/Help-4x-Users-screen-ru.png/1200px-Help-4x-Users-screen-ru.png 1.5x, https://docs.joomla.org/images/thumb/6/6f/Help-4x-Users-screen-ru.png/1600px-Help-4x-Users-screen-ru.png 2x"
 data-file-width="2453" data-file-height="1500" width="800" height="489"
-alt="Help-4x-Users-screen-ru.png" />
+alt="Users screen" />
 
 ## Заголовки столбцов
 
@@ -137,7 +137,7 @@ src="https://docs.joomla.org/images/thumb/f/f1/Help-4x-Users-batch-subscreen-ru.
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/f1/Help-4x-Users-batch-subscreen-ru.png/900px-Help-4x-Users-batch-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/f/f1/Help-4x-Users-batch-subscreen-ru.png/1200px-Help-4x-Users-batch-subscreen-ru.png 2x"
 data-file-width="1598" data-file-height="814" width="600" height="306"
-alt="Help-4x-Users-batch-subscreen-ru.png" />
+alt="Users batch subscreen" />
 
 **How to Batch Process** a group of users:
 

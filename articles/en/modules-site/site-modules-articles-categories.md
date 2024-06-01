@@ -23,7 +23,7 @@ sub-categories the module does not display.
 src="https://docs.joomla.org/images/4/40/Help-4x-modules-site-module-manager-module-articles-categories-en.png"
 decoding="async" data-file-width="800" data-file-height="676"
 width="800" height="676"
-alt="Help-4x-modules-site-module-manager-module-articles-categories-en.png" />
+alt="modules site module manager module articles categories" />
 
 ## Form Fields
 
@@ -82,7 +82,7 @@ in the Modules page
 src="https://docs.joomla.org/images/0/05/Help-4x-modules-manager-site-module-menu-assignment-tab-en.png"
 decoding="async" data-file-width="600" data-file-height="595"
 width="800" height="793"
-alt="Help-4x-modules-manager-site-module-menu-assignment-tab-en.png" />
+alt="modules manager site module menu assignment tab" />
 
 - **Module Assignment.** Select **On All Pages**, **No Pages**, **Only
   on the pages selected** or **On all pages except those selected** from
@@ -101,7 +101,7 @@ alt="Help-4x-modules-manager-site-module-menu-assignment-tab-en.png" />
 src="https://docs.joomla.org/images/e/ec/Help-4x-modules-manager-admin-module-latestactions-advanced-options-en.png"
 decoding="async" data-file-width="600" data-file-height="443"
 width="800" height="591"
-alt="Help-4x-modules-manager-admin-module-latestactions-advanced-options-en.png" />
+alt="modules manager admin module latestactions advanced options" />
 
 - **Layout.** If you have defined one or more alternative layouts for a
   module either in the template or Joomla! Core, you can select the
@@ -137,7 +137,7 @@ alt="Help-4x-modules-manager-admin-module-latestactions-advanced-options-en.png"
 src="https://docs.joomla.org/images/d/d8/Help-4x-modules-manager-admin-module-administrator-permissions-en.png"
 decoding="async" data-file-width="600" data-file-height="374"
 width="800" height="499"
-alt="Help-4x-modules-manager-admin-module-administrator-permissions-en.png" />
+alt="modules manager admin module administrator permissions" />
 
 To change the permissions, do the following.
 
@@ -186,7 +186,7 @@ for those views on a Joomla! website.* Articles Categories module shown:
 src="https://docs.joomla.org/images/c/c2/Help-4x-module-manager-articles-categories-frontend-screenshot-en.png"
 decoding="async" data-file-width="270" data-file-height="141"
 width="270" height="141"
-alt="Help-4x-module-manager-articles-categories-frontend-screenshot-en.png" />
+alt="module manager articles categories frontend screenshot" />
 
 The Module Type name for this Module is "mod_articles_categories". It is
 related to the content component.

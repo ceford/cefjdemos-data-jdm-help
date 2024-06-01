@@ -18,7 +18,7 @@ src="https://docs.joomla.org/images/thumb/3/3f/Help-4x-Components-Plugins-Option
 decoding="async"
 srcset="https://docs.joomla.org/images/3/3f/Help-4x-Components-Plugins-Options-nl.png 1.5x"
 data-file-width="1170" data-file-height="759" width="800" height="519"
-alt="Help-4x-Components-Plugins-Options-nl.png" />
+alt="Components Plugins Options" />
 
 ### Formulier velden
 

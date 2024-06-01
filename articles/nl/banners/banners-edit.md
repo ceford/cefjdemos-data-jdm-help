@@ -32,7 +32,7 @@ src="https://docs.joomla.org/images/thumb/5/57/Help-4x-Components-Banners-Banner
 decoding="async"
 srcset="https://docs.joomla.org/images/5/57/Help-4x-Components-Banners-Banners-Edit-screen-nl.png 1.5x"
 data-file-width="1175" data-file-height="1626" width="800" height="1107"
-alt="Help-4x-Components-Banners-Banners-Edit-screen-nl.png" />
+alt="Components Banners Banners Edit screen" />
 
 ## Gegevens
 
@@ -108,7 +108,7 @@ src="https://docs.joomla.org/images/thumb/8/83/Help-4x-Components-Banners-Banner
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/83/Help-4x-Components-Banners-Banners-Edit-Banners-Details-Tab-nl.png/1200px-Help-4x-Components-Banners-Banners-Edit-Banners-Details-Tab-nl.png 1.5x, https://docs.joomla.org/images/8/83/Help-4x-Components-Banners-Banners-Edit-Banners-Details-Tab-nl.png 2x"
 data-file-width="1300" data-file-height="643" width="800" height="396"
-alt="Help-4x-Components-Banners-Banners-Edit-Banners-Details-Tab-nl.png" />
+alt="Components Banners Banners Edit Banners Details Tab" />
 
 - **Totaal weergaves.** Het totaal aantal weergaves aangeschaft voor
   deze advertentie. Weergaves zijn het aantal keren dat een advertentie
@@ -146,7 +146,7 @@ src="https://docs.joomla.org/images/thumb/d/d6/Help-4x-Components-Banners-Banner
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/d/d6/Help-4x-Components-Banners-Banners-Edit-Publishing-Options-Tab-nl.png/1200px-Help-4x-Components-Banners-Banners-Edit-Publishing-Options-Tab-nl.png 1.5x, https://docs.joomla.org/images/d/d6/Help-4x-Components-Banners-Banners-Edit-Publishing-Options-Tab-nl.png 2x"
 data-file-width="1303" data-file-height="762" width="800" height="468"
-alt="Help-4x-Components-Banners-Banners-Edit-Publishing-Options-Tab-nl.png" />
+alt="Components Banners Banners Edit Publishing Options Tab" />
 
 - **Begin publiceren**. Datum dat de advertentie gepubliceerd wordt en
   beschikbaar op de website.

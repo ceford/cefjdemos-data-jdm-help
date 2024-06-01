@@ -19,7 +19,7 @@ So wird ein neuer Menüeintrag **Benutzername erneut zusenden** erstellt.
     decoding="async"
     srcset="https://docs.joomla.org/images/thumb/1/1e/Help-4x-Menu-Item-Type-Select-Button-de.png/125px-Help-4x-Menu-Item-Type-Select-Button-de.png 1.5x, https://docs.joomla.org/images/1/1e/Help-4x-Menu-Item-Type-Select-Button-de.png 2x"
     data-file-width="145" data-file-height="49" width="83" height="28"
-    alt="Help-4x-Menu-Item-Type-Select-Button-de.png" />
+    alt="Menu Item Type Select Button" />
   - Im modalen Fenster in der Liste „Benutzer“ anklicken und dann den
     Eintrag **Benutzername erneut zusenden** wählen.
 
@@ -35,7 +35,7 @@ src="https://docs.joomla.org/images/thumb/6/6f/Help-4x-Menus-Menu-Item-User-Remi
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/6/6f/Help-4x-Menus-Menu-Item-User-Reminder-de.png/1200px-Help-4x-Menus-Menu-Item-User-Reminder-de.png 1.5x, https://docs.joomla.org/images/6/6f/Help-4x-Menus-Menu-Item-User-Reminder-de.png 2x"
 data-file-width="1383" data-file-height="737" width="800" height="426"
-alt="Help-4x-Menus-Menu-Item-User-Reminder-de.png" />
+alt="Menus Menu Item User Reminder" />
 
 ## Formular Felder
 
@@ -155,7 +155,7 @@ src="https://docs.joomla.org/images/thumb/b/b8/Help-4x-Menus-Menu-User-Reminder-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/b8/Help-4x-Menus-Menu-User-Reminder-front-end-screenshot-de.png/900px-Help-4x-Menus-Menu-User-Reminder-front-end-screenshot-de.png 1.5x, https://docs.joomla.org/images/b/b8/Help-4x-Menus-Menu-User-Reminder-front-end-screenshot-de.png 2x"
 data-file-width="992" data-file-height="254" width="600" height="154"
-alt="Help-4x-Menus-Menu-User-Reminder-front-end-screenshot-de.png" />
+alt="Menus Menu User Reminder front end screenshot" />
 
 ## Zugehörige Informationen
 

@@ -20,7 +20,7 @@ Global Check-in releases all such items.
 src="https://docs.joomla.org/images/c/c6/Help-4x-system-maintenance-global-check-in-en.png"
 decoding="async" data-file-width="800" data-file-height="236"
 width="800" height="236"
-alt="Help-4x-system-maintenance-global-check-in-en.png" />
+alt="system maintenance global check in" />
 
 ## Column Headers
 

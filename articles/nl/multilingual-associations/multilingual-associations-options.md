@@ -17,7 +17,7 @@ src="https://docs.joomla.org/images/thumb/8/8c/Help-4x-Components-Multilingual-A
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/8c/Help-4x-Components-Multilingual-Associations-Options-screen-nl.png/1200px-Help-4x-Components-Multilingual-Associations-Options-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/8/8c/Help-4x-Components-Multilingual-Associations-Options-screen-nl.png/1600px-Help-4x-Components-Multilingual-Associations-Options-screen-nl.png 2x"
 data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Help-4x-Components-Multilingual-Associations-Options-screen-nl.png" />
+alt="Components Multilingual Associations Options screen" />
 
 ## Formulier velden
 

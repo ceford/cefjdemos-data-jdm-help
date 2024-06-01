@@ -44,7 +44,7 @@ src="https://docs.joomla.org/images/thumb/4/43/Help-4x-Extensions-Extension-Mana
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/43/Help-4x-Extensions-Extension-Manager-Install-screen-nl.png/1200px-Help-4x-Extensions-Extension-Manager-Install-screen-nl.png 1.5x, https://docs.joomla.org/images/4/43/Help-4x-Extensions-Extension-Manager-Install-screen-nl.png 2x"
 data-file-width="1260" data-file-height="927" width="800" height="589"
-alt="Help-4x-Extensions-Extension-Manager-Install-screen-nl.png" />
+alt="Extensions Extension Manager Install screen" />
 
 ### Formulier velden
 
@@ -85,7 +85,7 @@ src="https://docs.joomla.org/images/thumb/f/f0/Help-4x-Extensions-Manager-Instal
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/f0/Help-4x-Extensions-Manager-Install-UploadPackageFilescreen-nl.png/900px-Help-4x-Extensions-Manager-Install-UploadPackageFilescreen-nl.png 1.5x, https://docs.joomla.org/images/f/f0/Help-4x-Extensions-Manager-Install-UploadPackageFilescreen-nl.png 2x"
 data-file-width="938" data-file-height="479" width="600" height="306"
-alt="Help-4x-Extensions-Manager-Install-UploadPackageFilescreen-nl.png" />
+alt="Extensions Manager Install UploadPackageFilescreen" />
 
 - 'Sleep en plaats' of blader naar de locatie waar u het archiefbestand
   van de extensie heeft gedownload.
@@ -101,7 +101,7 @@ src="https://docs.joomla.org/images/thumb/5/5b/Help-4x-Extensions-Manager-Instal
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/5b/Help-4x-Extensions-Manager-Install-InstallfromFolder-screen-nl.png/900px-Help-4x-Extensions-Manager-Install-InstallfromFolder-screen-nl.png 1.5x, https://docs.joomla.org/images/5/5b/Help-4x-Extensions-Manager-Install-InstallfromFolder-screen-nl.png 2x"
 data-file-width="938" data-file-height="306" width="600" height="196"
-alt="Help-4x-Extensions-Manager-Install-InstallfromFolder-screen-nl.png" />
+alt="Extensions Manager Install InstallfromFolder screen" />
 
 1.  Maak een tijdelijke map aan op uw lokale harde schijf en pak het
     archiefbestand van de extensie hierin uit.
@@ -123,7 +123,7 @@ src="https://docs.joomla.org/images/thumb/8/80/Help-4x-Extensions-Manager-Instal
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/80/Help-4x-Extensions-Manager-Install-InstallfromUrl-screen-nl.png/900px-Help-4x-Extensions-Manager-Install-InstallfromUrl-screen-nl.png 1.5x, https://docs.joomla.org/images/8/80/Help-4x-Extensions-Manager-Install-InstallfromUrl-screen-nl.png 2x"
 data-file-width="941" data-file-height="311" width="600" height="198"
-alt="Help-4x-Extensions-Manager-Install-InstallfromUrl-screen-nl.png" />
+alt="Extensions Manager Install InstallfromUrl screen" />
 
 Geef, in plaats van het downloaden van het archief bestand naar uw
 lokale computer de URL van het doel archiefbestand in. Klik daarna op de

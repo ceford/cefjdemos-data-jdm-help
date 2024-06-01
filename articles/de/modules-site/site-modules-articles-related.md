@@ -31,7 +31,7 @@ src="https://docs.joomla.org/images/thumb/d/d2/Help-4x-modules-site-module-manag
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/d/d2/Help-4x-modules-site-module-manager-module-articles-related-articles-de.png/1200px-Help-4x-modules-site-module-manager-module-articles-related-articles-de.png 1.5x, https://docs.joomla.org/images/d/d2/Help-4x-modules-site-module-manager-module-articles-related-articles-de.png 2x"
 data-file-width="1537" data-file-height="1418" width="800" height="738"
-alt="Help-4x-modules-site-module-manager-module-articles-related-articles-de.png" />
+alt="modules site module manager module articles related articles" />
 
 ## Formular Felder
 
@@ -106,7 +106,7 @@ src="https://docs.joomla.org/images/thumb/e/e4/Help-4x-modules-manager-site-modu
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/e4/Help-4x-modules-manager-site-module-menu-assignment-tab-de.png/1200px-Help-4x-modules-manager-site-module-menu-assignment-tab-de.png 1.5x, https://docs.joomla.org/images/e/e4/Help-4x-modules-manager-site-module-menu-assignment-tab-de.png 2x"
 data-file-width="1330" data-file-height="1048" width="800" height="630"
-alt="Help-4x-modules-manager-site-module-menu-assignment-tab-de.png" />
+alt="modules manager site module menu assignment tab" />
 
 - **Menüzuweisung**. Eine der Optionen **Auf allen Seiten**, **Auf
   keiner Seite**, **Nur auf den gewählten Seiten** oder **Auf allen,
@@ -127,7 +127,7 @@ src="https://docs.joomla.org/images/thumb/c/ce/Help-4x-modules-manager-admin-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/c/ce/Help-4x-modules-manager-admin-module-site-advanced-options-de.png 1.5x"
 data-file-width="1168" data-file-height="843" width="800" height="577"
-alt="Help-4x-modules-manager-admin-module-site-advanced-options-de.png" />
+alt="modules manager admin module site advanced options" />
 
 - **Layout.** Wenn ein oder mehrere alternative Layouts für ein Modul
   definiert wurden, entweder im Template oder im Joomla!-Core, kann ein
@@ -169,7 +169,7 @@ src="https://docs.joomla.org/images/thumb/1/1d/Help-4x-modules-manager-admin-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/1/1d/Help-4x-modules-manager-admin-module-administrator-permissions-de.png/1200px-Help-4x-modules-manager-admin-module-administrator-permissions-de.png 1.5x, https://docs.joomla.org/images/1/1d/Help-4x-modules-manager-admin-module-administrator-permissions-de.png 2x"
 data-file-width="1236" data-file-height="789" width="800" height="511"
-alt="Help-4x-modules-manager-admin-module-administrator-permissions-de.png" />
+alt="modules manager admin module administrator permissions" />
 
 Um die Berechtigungen zu ändern:
 

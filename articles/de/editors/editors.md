@@ -24,7 +24,7 @@ src="https://docs.joomla.org/images/thumb/5/52/Help-4x-editor-tinymce-simple-en.
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/52/Help-4x-editor-tinymce-simple-en.png/900px-Help-4x-editor-tinymce-simple-en.png 1.5x, https://docs.joomla.org/images/thumb/5/52/Help-4x-editor-tinymce-simple-en.png/1200px-Help-4x-editor-tinymce-simple-en.png 2x"
 data-file-width="1451" data-file-height="80" width="600" height="33"
-alt="Help-4x-editor-tinymce-simple-en.png" />
+alt="editor tinymce simple" />
 
 - Die Buttons ändern Text in: Fett, Unterstrichen oder Durchgestrichen.
 - Rückgängig und Wiederholen.
@@ -46,7 +46,7 @@ src="https://docs.joomla.org/images/thumb/b/bb/Help-4x-editor-tinymce-advanced-d
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/bb/Help-4x-editor-tinymce-advanced-de.png/1200px-Help-4x-editor-tinymce-advanced-de.png 1.5x, https://docs.joomla.org/images/thumb/b/bb/Help-4x-editor-tinymce-advanced-de.png/1600px-Help-4x-editor-tinymce-advanced-de.png 2x"
 data-file-width="1975" data-file-height="236" width="800" height="96"
-alt="Help-4x-editor-tinymce-advanced-de.png" />
+alt="editor tinymce advanced" />
 
 Diese Voreinstellung stellt die gleichen Buttons wie in der
 Voreinstellungen 2 Werkzeugleiste oben zur Verfügung. Zusätzlich sind
@@ -65,7 +65,7 @@ src="https://docs.joomla.org/images/thumb/8/8e/Help-4x-article-quick-link-button
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/8e/Help-4x-article-quick-link-button-de.png/900px-Help-4x-article-quick-link-button-de.png 1.5x, https://docs.joomla.org/images/thumb/8/8e/Help-4x-article-quick-link-button-de.png/1200px-Help-4x-article-quick-link-button-de.png 2x"
 data-file-width="2303" data-file-height="1321" width="600" height="344"
-alt="Help-4x-article-quick-link-button-de.png" />
+alt="article quick link button" />
 
 Einen Link zum gewünschten Beitrag erstellen:
 
@@ -92,7 +92,7 @@ src="https://docs.joomla.org/images/thumb/7/71/Help-4x-editor-pagebreak-button-d
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/71/Help-4x-editor-pagebreak-button-de.png/900px-Help-4x-editor-pagebreak-button-de.png 1.5x, https://docs.joomla.org/images/thumb/7/71/Help-4x-editor-pagebreak-button-de.png/1200px-Help-4x-editor-pagebreak-button-de.png 2x"
 data-file-width="1542" data-file-height="862" width="600" height="335"
-alt="Help-4x-editor-pagebreak-button-de.png" />
+alt="editor pagebreak button" />
 
 - **Seitentitel**. Den anzuzeigenden Titel für die neue Seite eingeben
   (zum Beispiel 'Seite 2').
@@ -175,7 +175,7 @@ src="https://docs.joomla.org/images/thumb/6/60/Help-4x-editor-tinymce-extended-d
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/6/60/Help-4x-editor-tinymce-extended-de.png/1200px-Help-4x-editor-tinymce-extended-de.png 1.5x, https://docs.joomla.org/images/thumb/6/60/Help-4x-editor-tinymce-extended-de.png/1600px-Help-4x-editor-tinymce-extended-de.png 2x"
 data-file-width="1977" data-file-height="392" width="800" height="159"
-alt="Help-4x-editor-tinymce-extended-de.png" />
+alt="editor tinymce extended" />
 
 Diese Voreinstellung stellt die gleichen Buttons wie in der
 Voreinstellungen 1 Werkzeugleiste oben zur Verfügung. Zusätzlich sind
@@ -263,7 +263,7 @@ src="https://docs.joomla.org/images/thumb/d/db/Help-4x-screenshot-editor-codemir
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/d/db/Help-4x-screenshot-editor-codemirror-example-de.png/1200px-Help-4x-screenshot-editor-codemirror-example-de.png 1.5x, https://docs.joomla.org/images/thumb/d/db/Help-4x-screenshot-editor-codemirror-example-de.png/1600px-Help-4x-screenshot-editor-codemirror-example-de.png 2x"
 data-file-width="1975" data-file-height="989" width="800" height="401"
-alt="Help-4x-screenshot-editor-codemirror-example-de.png" />
+alt="screenshot editor codemirror example" />
 
 - Buttons unterhalb des Editor-Fensters ermöglichen Links auf jeden
   Eintrag der Seite. [Mehr erfahren.](#cmscontent)

@@ -18,7 +18,7 @@ src="https://docs.joomla.org/images/thumb/f/f5/Help-4x-users-user-manager-user-g
 decoding="async"
 srcset="https://docs.joomla.org/images/f/f5/Help-4x-users-user-manager-user-groups-nl.png 1.5x"
 data-file-width="1081" data-file-height="754" width="800" height="558"
-alt="Help-4x-users-user-manager-user-groups-nl.png" />
+alt="users user manager user groups" />
 
 ## Kolomkoppen
 

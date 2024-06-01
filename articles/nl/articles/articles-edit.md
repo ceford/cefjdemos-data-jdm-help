@@ -30,7 +30,7 @@ src="https://docs.joomla.org/images/thumb/a/a1/Help-4x-content-article-manager-a
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/a/a1/Help-4x-content-article-manager-add-new-article-nl.png/1200px-Help-4x-content-article-manager-add-new-article-nl.png 1.5x, https://docs.joomla.org/images/a/a1/Help-4x-content-article-manager-add-new-article-nl.png 2x"
 data-file-width="1427" data-file-height="1195" width="800" height="670"
-alt="Help-4x-content-article-manager-add-new-article-nl.png" />
+alt="content article manager add new article" />
 
 ## Formulier velden
 
@@ -56,7 +56,7 @@ src="https://docs.joomla.org/images/thumb/1/13/Help-4x-Article-Editor-buttons-nl
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/1/13/Help-4x-Article-Editor-buttons-nl.png/900px-Help-4x-Article-Editor-buttons-nl.png 1.5x, https://docs.joomla.org/images/1/13/Help-4x-Article-Editor-buttons-nl.png 2x"
 data-file-width="995" data-file-height="366" width="600" height="221"
-alt="Help-4x-Article-Editor-buttons-nl.png" />
+alt="Article Editor buttons" />
 
 De CMS inhoud drop-down lijst biedt toegang tot een link naar artikelen,
 contactpersonen, velden, media, menu of module. [Meer
@@ -120,7 +120,7 @@ src="https://docs.joomla.org/images/thumb/5/5b/Help-4x-screenshot-article-edit-i
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/5b/Help-4x-screenshot-article-edit-images-links-nl.png/900px-Help-4x-screenshot-article-edit-images-links-nl.png 1.5x, https://docs.joomla.org/images/5/5b/Help-4x-screenshot-article-edit-images-links-nl.png 2x"
 data-file-width="1145" data-file-height="864" width="600" height="453"
-alt="Help-4x-screenshot-article-edit-images-links-nl.png" />
+alt="screenshot article edit images links" />
 
 **Afbeelding introtekst**
 
@@ -201,7 +201,7 @@ src="https://docs.joomla.org/images/thumb/b/b9/Help-4x-screenshot-article-edit-a
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/b9/Help-4x-screenshot-article-edit-article-options-nl.png/900px-Help-4x-screenshot-article-edit-article-options-nl.png 1.5x, https://docs.joomla.org/images/b/b9/Help-4x-screenshot-article-edit-article-options-nl.png 2x"
 data-file-width="1185" data-file-height="838" width="600" height="424"
-alt="Help-4x-screenshot-article-edit-article-options-nl.png" />
+alt="screenshot article edit article options" />
 
 **Weergave**
 
@@ -286,7 +286,7 @@ src="https://docs.joomla.org/images/thumb/8/8d/Help-4x-Content-Article-Manager-E
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/8d/Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-nl.png/900px-Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-nl.png 1.5x, https://docs.joomla.org/images/8/8d/Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-nl.png 2x"
 data-file-width="1057" data-file-height="351" width="600" height="199"
-alt="Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-nl.png" />
+alt="Content Article Manager Edit Fields options subscreen" />
 
 ### Publiceren
 
@@ -302,7 +302,7 @@ src="https://docs.joomla.org/images/thumb/8/8c/Help-4x-Content-Article-Manager-E
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/8c/Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-nl.png/900px-Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-nl.png 1.5x, https://docs.joomla.org/images/8/8c/Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-nl.png 2x"
 data-file-width="1163" data-file-height="858" width="600" height="443"
-alt="Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-nl.png" />
+alt="Content Article Manager Edit publishing options subscreen" />
 
 **Publiceren**
 
@@ -363,7 +363,7 @@ src="https://docs.joomla.org/images/thumb/0/03/Help-4x-screenshot-article-edit-a
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/0/03/Help-4x-screenshot-article-edit-associations-en.png/900px-Help-4x-screenshot-article-edit-associations-en.png 1.5x, https://docs.joomla.org/images/thumb/0/03/Help-4x-screenshot-article-edit-associations-en.png/1200px-Help-4x-screenshot-article-edit-associations-en.png 2x"
 data-file-width="2880" data-file-height="1085" width="600" height="226"
-alt="Help-4x-screenshot-article-edit-associations-en.png" />
+alt="screenshot article edit associations" />
 
 ### Configuratie bewerkvenster
 
@@ -376,7 +376,7 @@ src="https://docs.joomla.org/images/thumb/6/61/Help-4x-screenshot-article-edit-c
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/6/61/Help-4x-screenshot-article-edit-configure-edit-screen-nl.png/900px-Help-4x-screenshot-article-edit-configure-edit-screen-nl.png 1.5x, https://docs.joomla.org/images/6/61/Help-4x-screenshot-article-edit-configure-edit-screen-nl.png 2x"
 data-file-width="1199" data-file-height="449" width="600" height="225"
-alt="Help-4x-screenshot-article-edit-configure-edit-screen-nl.png" />
+alt="screenshot article edit configure edit screen" />
 
 - **Publicatie opties**. Indien Verborgen dan wordt het ([Publicatie
   optie
@@ -410,7 +410,7 @@ src="https://docs.joomla.org/images/thumb/2/29/Help-4x-screenshot-article-edit-p
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/29/Help-4x-screenshot-article-edit-permissions-nl.png/900px-Help-4x-screenshot-article-edit-permissions-nl.png 1.5x, https://docs.joomla.org/images/2/29/Help-4x-screenshot-article-edit-permissions-nl.png 2x"
 data-file-width="1160" data-file-height="687" width="600" height="355"
-alt="Help-4x-screenshot-article-edit-permissions-nl.png" />
+alt="screenshot article edit permissions" />
 
 Doe, om de rechten van dit artikel te wijzigen, het volgende.
 

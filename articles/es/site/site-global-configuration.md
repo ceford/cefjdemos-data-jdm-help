@@ -17,7 +17,7 @@ src="https://docs.joomla.org/images/thumb/f/f7/Help-4x-global-configuration-scre
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/f7/Help-4x-global-configuration-screen-es.png/1125px-Help-4x-global-configuration-screen-es.png 1.5x, https://docs.joomla.org/images/thumb/f/f7/Help-4x-global-configuration-screen-es.png/1500px-Help-4x-global-configuration-screen-es.png 2x"
 data-file-width="2720" data-file-height="1700" width="750" height="469"
-alt="Help-4x-global-configuration-screen-es.png" />
+alt="global configuration screen" />
 
 ## Campos del formulario
 

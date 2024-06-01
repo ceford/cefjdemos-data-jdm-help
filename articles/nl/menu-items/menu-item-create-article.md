@@ -33,7 +33,7 @@ src="https://docs.joomla.org/images/thumb/5/55/Help-4x-Menus-Item-Articles-Creat
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/55/Help-4x-Menus-Item-Articles-Create-Article-screen-nl.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/5/55/Help-4x-Menus-Item-Articles-Create-Article-screen-nl.png/1600px-Help-4x-Menus-Item-Articles-Create-Article-screen-nl.png 2x"
 data-file-width="2880" data-file-height="1263" width="800" height="351"
-alt="Help-4x-Menus-Item-Articles-Create-Article-screen-nl.png" />
+alt="Menus Item Articles Create Article screen" />
 
 ## Formulier velden
 
@@ -66,7 +66,7 @@ src="https://docs.joomla.org/images/thumb/5/5e/Help-4x-Menus-Item-Articles-Creat
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/5e/Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-nl.png/900px-Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/5/5e/Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-nl.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-nl.png 2x"
 data-file-width="2878" data-file-height="1344" width="600" height="280"
-alt="Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-nl.png" />
+alt="Menus Item Articles Create Article options subscreen" />
 
 - **Specifieke categorie**.
   - Ja: Articles will be assigned to the specified category. The user
@@ -121,7 +121,7 @@ src="https://docs.joomla.org/images/thumb/d/d2/Help-4x-Menus-Item-Articles-Creat
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/d/d2/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-nl.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-nl.png 1.5x, https://docs.joomla.org/images/thumb/d/d2/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-nl.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-nl.png 2x"
 data-file-width="1731" data-file-height="1278" width="600" height="443"
-alt="Help-4x-Menus-Item-Articles-Create-Article-frontend-content-nl.png" />
+alt="Menus Item Articles Create Article frontend content" />
 
 **Velden**
 
@@ -130,7 +130,7 @@ src="https://docs.joomla.org/images/thumb/5/53/Help-4x-Menus-Item-Articles-Creat
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/53/Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-nl.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-nl.png 1.5x, https://docs.joomla.org/images/thumb/5/53/Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-nl.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-nl.png 2x"
 data-file-width="1728" data-file-height="481" width="600" height="167"
-alt="Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-nl.png" />
+alt="Menus Item Articles Create Article frontend fields" />
 
 **Publicatie**
 
@@ -139,7 +139,7 @@ src="https://docs.joomla.org/images/thumb/5/5b/Help-4x-Menus-Item-Articles-Creat
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/5b/Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-nl.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-nl.png 1.5x, https://docs.joomla.org/images/thumb/5/5b/Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-nl.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-nl.png 2x"
 data-file-width="1729" data-file-height="1116" width="600" height="387"
-alt="Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-nl.png" />
+alt="Menus Item Articles Create Article frontend publishing" />
 
 **Taal**
 
@@ -148,7 +148,7 @@ src="https://docs.joomla.org/images/thumb/c/ca/Help-4x-Menus-Item-Articles-Creat
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/ca/Help-4x-Menus-Item-Articles-Create-Article-frontend-language-nl.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-language-nl.png 1.5x, https://docs.joomla.org/images/thumb/c/ca/Help-4x-Menus-Item-Articles-Create-Article-frontend-language-nl.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-language-nl.png 2x"
 data-file-width="1728" data-file-height="329" width="600" height="114"
-alt="Help-4x-Menus-Item-Articles-Create-Article-frontend-language-nl.png" />
+alt="Menus Item Articles Create Article frontend language" />
 
 ## Snelle tips
 

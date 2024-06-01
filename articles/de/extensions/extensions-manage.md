@@ -18,7 +18,7 @@ src="https://docs.joomla.org/images/thumb/4/46/Help-4x-Extensions-Manage-Manage-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/46/Help-4x-Extensions-Manage-Manage-screen-de.png/1200px-Help-4x-Extensions-Manage-Manage-screen-de.png 1.5x, https://docs.joomla.org/images/4/46/Help-4x-Extensions-Manage-Manage-screen-de.png 2x"
 data-file-width="1385" data-file-height="820" width="800" height="474"
-alt="Help-4x-Extensions-Manage-Manage-screen-de.png" />
+alt="Extensions Manage Manage screen" />
 
 ## Spalten-Überschriften
 

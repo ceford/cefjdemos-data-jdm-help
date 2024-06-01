@@ -23,7 +23,7 @@ src="https://docs.joomla.org/images/thumb/0/06/Help-4x-Users-screen-en.png/800px
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/0/06/Help-4x-Users-screen-en.png/1200px-Help-4x-Users-screen-en.png 1.5x, https://docs.joomla.org/images/thumb/0/06/Help-4x-Users-screen-en.png/1600px-Help-4x-Users-screen-en.png 2x"
 data-file-width="2556" data-file-height="1500" width="800" height="469"
-alt="Help-4x-Users-screen-en.png" />
+alt="Users screen" />
 
 ## Column Headers
 
@@ -125,7 +125,7 @@ src="https://docs.joomla.org/images/thumb/2/21/Help-4x-Users-batch-subscreen-en.
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/21/Help-4x-Users-batch-subscreen-en.png/900px-Help-4x-Users-batch-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/2/21/Help-4x-Users-batch-subscreen-en.png/1200px-Help-4x-Users-batch-subscreen-en.png 2x"
 data-file-width="1598" data-file-height="717" width="600" height="269"
-alt="Help-4x-Users-batch-subscreen-en.png" />
+alt="Users batch subscreen" />
 
 **How to Batch Process** a group of users:
 

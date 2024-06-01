@@ -18,7 +18,7 @@ src="https://docs.joomla.org/images/thumb/f/f6/Help-4x-Menus-Menu-Manager-Option
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/f6/Help-4x-Menus-Menu-Manager-Options-screen-de.png/1200px-Help-4x-Menus-Menu-Manager-Options-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/f/f6/Help-4x-Menus-Menu-Manager-Options-screen-de.png/1600px-Help-4x-Menus-Menu-Manager-Options-screen-de.png 2x"
 data-file-width="1627" data-file-height="669" width="800" height="329"
-alt="Help-4x-Menus-Menu-Manager-Options-screen-de.png" />
+alt="Menus Menu Manager Options screen" />
 
 ## Formular Felder
 
@@ -43,7 +43,7 @@ src="https://docs.joomla.org/images/thumb/2/29/Help-4x-Menu-Options-screen-permi
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/29/Help-4x-Menu-Options-screen-permissions-tab-de.png/900px-Help-4x-Menu-Options-screen-permissions-tab-de.png 1.5x, https://docs.joomla.org/images/2/29/Help-4x-Menu-Options-screen-permissions-tab-de.png 2x"
 data-file-width="952" data-file-height="1025" width="600" height="646"
-alt="Help-4x-Menu-Options-screen-permissions-tab-de.png" />
+alt="Menu Options screen permissions tab" />
 
 Um Berechtigungen dieser Erweiterung zu ändern:
 

@@ -17,7 +17,7 @@ Erstellen eines neuen Menüeintrag **Kontakt erstellen**:
     klicken <img
     src="https://docs.joomla.org/images/1/1e/Help-4x-Menu-Item-Type-Select-Button-de.png"
     decoding="async" data-file-width="145" data-file-height="49" width="145"
-    height="49" alt="Help-4x-Menu-Item-Type-Select-Button-de.png" />
+    height="49" alt="Menu Item Type Select Button" />
   - In der Auswahl-Liste erscheint der Eintrag Kontakte, mit dem eine
     zweite Liste geöffnet wird. Daraus dann den Eintrag **Kontakt
     erstellen** anklicken.
@@ -32,7 +32,7 @@ Zum Bearbeiten des vorhandenen Menüpunkts „Kontakt erstellen“:
 src="https://docs.joomla.org/images/e/e9/Help-4x-Menus-Menu-Item-Create-Contact-screen-de.png"
 decoding="async" data-file-width="800" data-file-height="828"
 width="800" height="828"
-alt="Help-4x-Menus-Menu-Item-Create-Contact-screen-de.png" />
+alt="Menus Menu Item Create Contact screen" />
 
 ## Formular Felder
 

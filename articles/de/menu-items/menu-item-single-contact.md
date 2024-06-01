@@ -16,7 +16,7 @@ To create a new Single Contact Menu Item:
   - Select the Menu Item Type Select button. <img
     src="https://docs.joomla.org/images/0/0a/Help-4x-Menu-Item-Type-Select-Button-en.png"
     decoding="async" data-file-width="96" data-file-height="45" width="96"
-    height="45" alt="Help-4x-Menu-Item-Type-Select-Button-en.png" />
+    height="45" alt="Menu Item Type Select Button" />
   - In the modal dialog select the Contacts item to open a list and then
     select the **Single Contact** item.
 
@@ -30,7 +30,7 @@ To edit an existing Single Contact menu item:
 src="https://docs.joomla.org/images/6/64/Help-4x-Menus-Menu-Item-Contact-Single-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="812"
 width="800" height="812"
-alt="Help-4x-Menus-Menu-Item-Contact-Single-screen-en.png" />
+alt="Menus Menu Item Contact Single screen" />
 
 ## Form Fields
 
@@ -105,7 +105,7 @@ Contact Display Options control the appearance of the list layout.
 src="https://docs.joomla.org/images/2/2a/Help-4x-Menus-Menu-Item-Contact-Category-contact-display-options-parameters-en.png"
 decoding="async" data-file-width="600" data-file-height="343"
 width="600" height="343"
-alt="Help-4x-Menus-Menu-Item-Contact-Category-contact-display-options-parameters-en.png" />
+alt="Menus Menu Item Contact Category contact display options parameters" />
 
 - **Display Format**. Determines the style used to display sections of
   the contact form.
@@ -175,7 +175,7 @@ Contact Mail Options control the appearance of a Contact's
 src="https://docs.joomla.org/images/0/04/Help-4x-Menus-Menu-Item-Contact-Category-single-contact-mail-options-parameters-en.png"
 decoding="async" data-file-width="600" data-file-height="291"
 width="600" height="291"
-alt="Help-4x-Menus-Menu-Item-Contact-Category-single-contact-mail-options-parameters-en.png" />
+alt="Menus Menu Item Contact Category single contact mail options parameters" />
 
 - **Show Contact Form**. Display the contact's *contact form*.
 

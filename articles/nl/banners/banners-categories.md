@@ -20,7 +20,7 @@ src="https://docs.joomla.org/images/thumb/c/c5/Help-4x-Components-Banners-Catego
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/c5/Help-4x-Components-Banners-Categories-screen-nl.png/1200px-Help-4x-Components-Banners-Categories-screen-nl.png 1.5x, https://docs.joomla.org/images/c/c5/Help-4x-Components-Banners-Categories-screen-nl.png 2x"
 data-file-width="1403" data-file-height="484" width="800" height="276"
-alt="Help-4x-Components-Banners-Categories-screen-nl.png" />
+alt="Components Banners Categories screen" />
 
 ## Kolomkoppen
 
@@ -164,7 +164,7 @@ werkbalk te drukken wordt een pop-up scherm geopend zoals hieronder.
 src="https://docs.joomla.org/images/2/2f/Help-4x-colheader-batch-process-categories-nl.png"
 decoding="async" data-file-width="805" data-file-height="489"
 width="805" height="489"
-alt="Help-4x-colheader-batch-process-categories-nl.png" />
+alt="colheader batch process categories" />
 
 U kunt één waarde veranderen of alle drie waarden tegelijkertijd.
 

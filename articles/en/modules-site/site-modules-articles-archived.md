@@ -23,7 +23,7 @@ of an article to archived, this list will be generated automatically.
 src="https://docs.joomla.org/images/7/7a/Help-4x-modules-site-module-manager-module-archived-articles-en.png"
 decoding="async" data-file-width="800" data-file-height="694"
 width="800" height="694"
-alt="Help-4x-modules-site-module-manager-module-archived-articles-en.png" />
+alt="modules site module manager module archived articles" />
 
 ## Form Fields
 
@@ -68,7 +68,7 @@ in the Modules page
 src="https://docs.joomla.org/images/0/05/Help-4x-modules-manager-site-module-menu-assignment-tab-en.png"
 decoding="async" data-file-width="600" data-file-height="595"
 width="600" height="595"
-alt="Help-4x-modules-manager-site-module-menu-assignment-tab-en.png" />
+alt="modules manager site module menu assignment tab" />
 
 - **Module Assignment.** Select **On All Pages**, **No Pages**, **Only
   on the pages selected** or **On all pages except those selected** from
@@ -87,7 +87,7 @@ alt="Help-4x-modules-manager-site-module-menu-assignment-tab-en.png" />
 src="https://docs.joomla.org/images/4/4b/Help-4x-modules-manager-admin-module-site-advanced-options-en.png"
 decoding="async" data-file-width="600" data-file-height="422"
 width="600" height="422"
-alt="Help-4x-modules-manager-admin-module-site-advanced-options-en.png" />
+alt="modules manager admin module site advanced options" />
 
 - **Layout.** If you have defined one or more alternative layouts for a
   module either in the template or Joomla! Core, you can select the
@@ -123,7 +123,7 @@ alt="Help-4x-modules-manager-admin-module-site-advanced-options-en.png" />
 src="https://docs.joomla.org/images/d/d8/Help-4x-modules-manager-admin-module-administrator-permissions-en.png"
 decoding="async" data-file-width="600" data-file-height="374"
 width="600" height="374"
-alt="Help-4x-modules-manager-admin-module-administrator-permissions-en.png" />
+alt="modules manager admin module administrator permissions" />
 
 - **Delete:** (*Inherited*/*Allowed*/*Denied*). Allow or deny Delete for
   users in the group. Delete Allows users in the group to delete any
@@ -165,7 +165,7 @@ for those views on a Joomla! website.* Archived Articles module shown:
 src="https://docs.joomla.org/images/b/b9/Help-4x-module-manager-archived-articles-frontend-screenshot-en.png"
 decoding="async" data-file-width="270" data-file-height="117"
 width="270" height="117"
-alt="Help-4x-module-manager-archived-articles-frontend-screenshot-en.png" />
+alt="module manager archived articles frontend screenshot" />
 
 The Module Type name for this Module is "mod_articles_archive". It is
 related to the content component.

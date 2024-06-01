@@ -21,7 +21,7 @@ methods.
 src="https://docs.joomla.org/images/d/d7/Help-4x-extensions-extension-manager-update-en.png"
 decoding="async" data-file-width="800" data-file-height="363"
 width="800" height="363"
-alt="Help-4x-extensions-extension-manager-update-en.png" />
+alt="extensions extension manager update" />
 
 ## Cabeçalhos de Coluna
 
@@ -30,7 +30,7 @@ src="https://docs.joomla.org/images/thumb/1/1d/Help-4x-Extensions-Manage-Update-
 decoding="async"
 srcset="https://docs.joomla.org/images/1/1d/Help-4x-Extensions-Manage-Update-columns-en.png 1.5x"
 data-file-width="871" data-file-height="29" width="680" height="23"
-alt="Help-4x-Extensions-Manage-Update-columns-en.png" />
+alt="Extensions Manage Update columns" />
 
 - **Checkbox**. Check this box to select one or more items. To select
   all items, check the box in the column heading. After one or more

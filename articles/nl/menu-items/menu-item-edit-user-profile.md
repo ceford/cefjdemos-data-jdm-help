@@ -18,7 +18,7 @@ Aanmaken van een nieuw 'Bewerk gebruikersprofiel' menu-item.
     decoding="async"
     srcset="https://docs.joomla.org/images/thumb/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png/122px-Help-4x-Menu-Item-Type-Select-Button-nl.png 1.5x, https://docs.joomla.org/images/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png 2x"
     data-file-width="124" data-file-height="43" width="81" height="28"
-    alt="Help-4x-Menu-Item-Type-Select-Button-nl.png" />
+    alt="Menu Item Type Select Button" />
   - Selecteer in de modale dialoog het 'Gebruikers' item om een lijst te
     openen en selecteer daarna het **Bewerk gebruikersprofiel** item.
 
@@ -33,7 +33,7 @@ src="https://docs.joomla.org/images/thumb/4/43/Help-4x-Menus-Menu-Item-User-Prof
 decoding="async"
 srcset="https://docs.joomla.org/images/4/43/Help-4x-Menus-Menu-Item-User-Profile-Edit-nl.png 1.5x"
 data-file-width="956" data-file-height="886" width="800" height="741"
-alt="Help-4x-Menus-Menu-Item-User-Profile-Edit-nl.png" />
+alt="Menus Menu Item User Profile Edit" />
 
 ## Formulier velden
 
@@ -153,7 +153,7 @@ Gebruikersprofiel bewerken weergegeven:
 src="https://docs.joomla.org/images/3/35/Help-4x-Menus-Menu-User-Profile-Edit-front-end-screenshot-nl.png"
 decoding="async" data-file-width="591" data-file-height="750"
 width="600" height="761"
-alt="Help-4x-Menus-Menu-User-Profile-Edit-front-end-screenshot-nl.png" />
+alt="Menus Menu User Profile Edit front end screenshot" />
 
 ## Verwante informatie
 

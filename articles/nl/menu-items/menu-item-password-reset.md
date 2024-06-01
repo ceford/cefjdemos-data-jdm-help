@@ -19,7 +19,7 @@ Aanmaken van een nieuw 'Wachtwoord herinstellen' menu-itemː
     decoding="async"
     srcset="https://docs.joomla.org/images/thumb/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png/122px-Help-4x-Menu-Item-Type-Select-Button-nl.png 1.5x, https://docs.joomla.org/images/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png 2x"
     data-file-width="124" data-file-height="43" width="81" height="28"
-    alt="Help-4x-Menu-Item-Type-Select-Button-nl.png" />
+    alt="Menu Item Type Select Button" />
   - Selecteer in de modale dialoog het 'Gebruikers' item om een lijst te
     openen en selecteer daarna het **Wachtwoord herinstellen** item.
 
@@ -34,7 +34,7 @@ src="https://docs.joomla.org/images/thumb/f/fa/Help-4x-Menus-Menu-Item-User-Pass
 decoding="async"
 srcset="https://docs.joomla.org/images/f/fa/Help-4x-Menus-Menu-Item-User-Password-Reset-nl.png 1.5x"
 data-file-width="984" data-file-height="883" width="800" height="718"
-alt="Help-4x-Menus-Menu-Item-User-Password-Reset-nl.png" />
+alt="Menus Menu Item User Password Reset" />
 
 ## Formulier velden
 
@@ -149,7 +149,7 @@ wachtwoord resetten dat getoond wordt:
 src="https://docs.joomla.org/images/e/ef/Help-4x-Menus-Menu-User-Password-Reset-front-end-screenshot-nl.png"
 decoding="async" data-file-width="580" data-file-height="120"
 width="580" height="120"
-alt="Help-4x-Menus-Menu-User-Password-Reset-front-end-screenshot-nl.png" />
+alt="Menus Menu User Password Reset front end screenshot" />
 
 ## Verwante informatie
 

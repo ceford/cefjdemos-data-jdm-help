@@ -22,7 +22,7 @@ src="https://docs.joomla.org/images/thumb/4/44/Help-4x-components-tags-configura
 decoding="async"
 srcset="https://docs.joomla.org/images/4/44/Help-4x-components-tags-configuration-screen-nl.png 1.5x"
 data-file-width="1196" data-file-height="1024" width="800" height="685"
-alt="Help-4x-components-tags-configuration-screen-nl.png" />
+alt="components tags configuration screen" />
 
 ### Formulier velden
 
@@ -75,7 +75,7 @@ src="https://docs.joomla.org/images/thumb/6/66/Help-4x-components-tags-configura
 decoding="async"
 srcset="https://docs.joomla.org/images/6/66/Help-4x-components-tags-configuration-item-selection-options-screen-nl.png 1.5x"
 data-file-width="756" data-file-height="448" width="600" height="356"
-alt="Help-4x-components-tags-configuration-item-selection-options-screen-nl.png" />
+alt="components tags configuration item selection options screen" />
 
 - **Minimale lengte zoeken**. Deze instelling bepaalt het minimum aantal
   tekens voor het zoeken en toevoegen van tags wanneer het tagsveld in
@@ -96,7 +96,7 @@ src="https://docs.joomla.org/images/thumb/c/c3/Help-4x-components-tags-configura
 decoding="async"
 srcset="https://docs.joomla.org/images/c/c3/Help-4x-components-tags-configuration-list-all-tags-options-screen-nl.png 1.5x"
 data-file-width="765" data-file-height="488" width="600" height="383"
-alt="Help-4x-components-tags-configuration-list-all-tags-options-screen-nl.png" />
+alt="components tags configuration list all tags options screen" />
 
 - **Standaard weergave taglijst**. Kies een standaard weergave voor de
   lijst met alle tags.
@@ -118,7 +118,7 @@ src="https://docs.joomla.org/images/thumb/0/02/Help-4x-components-tags-configura
 decoding="async"
 srcset="https://docs.joomla.org/images/0/02/Help-4x-components-tags-configuration-shared-layout-options-screen-nl.png 1.5x"
 data-file-width="759" data-file-height="399" width="600" height="315"
-alt="Help-4x-components-tags-configuration-shared-layout-options-screen-nl.png" />
+alt="components tags configuration shared layout options screen" />
 
 - **Filterveld**. Toon of verberg het filterveld voord de lijst.
 - **Weergave selectielijst**. Tonen of verbergen van de uitklapbare
@@ -137,7 +137,7 @@ src="https://docs.joomla.org/images/thumb/5/5a/Help-4x-components-tags-configura
 decoding="async"
 srcset="https://docs.joomla.org/images/5/5a/Help-4x-components-tags-configuration-data-entry-options-screen-nl.png 1.5x"
 data-file-width="765" data-file-height="256" width="600" height="201"
-alt="Help-4x-components-tags-configuration-data-entry-options-screen-nl.png" />
+alt="components tags configuration data entry options screen" />
 
 - **Tag toevoegen modus**. Ajax modus zoekt tags terwijl getypt wordt en
   maakt het mogelijk om direct tags te maken. Geneste tags toont een
@@ -150,7 +150,7 @@ src="https://docs.joomla.org/images/thumb/e/e7/Help-4x-components-tags-configura
 decoding="async"
 srcset="https://docs.joomla.org/images/e/e7/Help-4x-components-tags-configuration-integration-screen-nl.png 1.5x"
 data-file-width="756" data-file-height="278" width="600" height="221"
-alt="Help-4x-components-tags-configuration-integration-screen-nl.png" />
+alt="components tags configuration integration screen" />
 
 - **Toon feedlink**. Toon of verberg een RSS feedlink. (Een feedlink
   geeft in de meeste moderne browsers een feedicoon weer in de
@@ -166,7 +166,7 @@ src="https://docs.joomla.org/images/thumb/e/e9/Help-4x-components-tags-configura
 decoding="async"
 srcset="https://docs.joomla.org/images/e/e9/Help-4x-components-tags-configuration-permissions-screen-nl.png 1.5x"
 data-file-width="762" data-file-height="751" width="600" height="591"
-alt="Help-4x-components-tags-configuration-permissions-screen-nl.png" />
+alt="components tags configuration permissions screen" />
 
 Om de rechten van deze extensie te wijzigen moet u de volgende
 handelingen uitvoeren.

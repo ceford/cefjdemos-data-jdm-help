@@ -15,7 +15,7 @@ src="https://docs.joomla.org/images/thumb/d/d8/Help-4x-users-user-manager-viewin
 decoding="async"
 srcset="https://docs.joomla.org/images/d/d8/Help-4x-users-user-manager-viewing-access-levels-nl.png 1.5x"
 data-file-width="841" data-file-height="509" width="800" height="484"
-alt="Help-4x-users-user-manager-viewing-access-levels-nl.png" />
+alt="users user manager viewing access levels" />
 
 ## Kolomkoppen
 

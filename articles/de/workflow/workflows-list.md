@@ -25,7 +25,7 @@ zu finden.
 src="https://docs.joomla.org/images/c/c8/Help-4x-components-workflows-list-en.png"
 decoding="async" data-file-width="800" data-file-height="294"
 width="800" height="294"
-alt="Help-4x-components-workflows-list-en.png" />
+alt="components workflows list" />
 
 ## Column Headings
 
@@ -110,7 +110,7 @@ Screenshot above. The functions are:
   star symbol
   (<img src="https://docs.joomla.org/images/7/7e/Icon-16-default.png"
   decoding="async" data-file-width="30" data-file-height="20" width="30"
-  height="20" alt="Icon-16-default.png" />) will show in the Default
+  height="20" alt="Icon 16 default.png" />) will show in the Default
   column, indicating that this is now the default item.
 - **Check-In**. Checks-in the selected items. Works with one or multiple
   items selected.

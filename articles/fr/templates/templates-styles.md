@@ -19,7 +19,7 @@ Styles** from the Administrator menu.
 src="https://docs.joomla.org/images/5/51/Help-4x-Extensions-Template-Manager-Styles-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="308"
 width="800" height="308"
-alt="Help-4x-Extensions-Template-Manager-Styles-screen-en.png" />
+alt="Extensions Template Manager Styles screen" />
 
 ## Column Headers
 
@@ -104,7 +104,7 @@ Screenshot above. The functions are:
   star symbol
   (<img src="https://docs.joomla.org/images/7/7e/Icon-16-default.png"
   decoding="async" data-file-width="30" data-file-height="20" width="30"
-  height="20" alt="Icon-16-default.png" />) will show in the Default
+  height="20" alt="Icon 16 default.png" />) will show in the Default
   column, indicating that this is now the default item.
 - **Duplicate:** Makes a copy of the selected item. The copy is created
   immediately and is given the same name as the original but prefixed

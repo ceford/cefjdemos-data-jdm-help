@@ -17,7 +17,7 @@ set to **Yes** to allow statistics to be collected.
 src="https://docs.joomla.org/images/e/e7/Help-4x-Component-Smart-Search-Searches-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="416"
 width="800" height="416"
-alt="Help-4x-Component-Smart-Search-Searches-screen-en.png" />
+alt="Component Smart Search Searches screen" />
 
 ## Columns
 

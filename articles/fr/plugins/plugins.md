@@ -19,7 +19,7 @@ enabling/disabling multiple plugins at once.
 src="https://docs.joomla.org/images/3/35/Help-4x-Extensions-Plugin-Manager-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="544"
 width="800" height="544"
-alt="Help-4x-Extensions-Plugin-Manager-screen-en.png" />
+alt="Extensions Plugin Manager screen" />
 
 ## Column Headers
 

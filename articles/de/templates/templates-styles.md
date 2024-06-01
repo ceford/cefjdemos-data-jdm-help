@@ -20,7 +20,7 @@ src="https://docs.joomla.org/images/thumb/b/bc/Help-4x-Extensions-Template-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/b/bc/Help-4x-Extensions-Template-Manager-Styles-screen-de.png 1.5x"
 data-file-width="1200" data-file-height="448" width="800" height="299"
-alt="Help-4x-Extensions-Template-Manager-Styles-screen-de.png" />
+alt="Extensions Template Manager Styles screen" />
 
 ## Spalten-Überschriften
 
@@ -116,7 +116,7 @@ Werkzeugleiste im oberen Bereich. Die Funktionen sind:
   standardmäßige Sternsymbol
   (<img src="https://docs.joomla.org/images/7/7e/Icon-16-default.png"
   decoding="async" data-file-width="30" data-file-height="20" width="30"
-  height="20" alt="Icon-16-default.png" />) wird in der Spalte Standard
+  height="20" alt="Icon 16 default.png" />) wird in der Spalte Standard
   angezeigt und weist darauf hin, dass dies nun das Standard-item ist.
 - **Kopieren:** Erstellt eine Kopie des gewählten item. Die Kopie wird
   sofort mit dem gleichen Namen erstellt, hat aber "Kopie von"

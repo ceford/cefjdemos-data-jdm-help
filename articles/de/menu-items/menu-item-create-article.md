@@ -33,7 +33,7 @@ src="https://docs.joomla.org/images/thumb/c/c3/Help-4x-Menus-Item-Articles-Creat
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/c3/Help-4x-Menus-Item-Articles-Create-Article-screen-de.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/c/c3/Help-4x-Menus-Item-Articles-Create-Article-screen-de.png/1600px-Help-4x-Menus-Item-Articles-Create-Article-screen-de.png 2x"
 data-file-width="2880" data-file-height="1305" width="800" height="363"
-alt="Help-4x-Menus-Item-Articles-Create-Article-screen-de.png" />
+alt="Menus Item Articles Create Article screen" />
 
 ## Formular Felder
 
@@ -66,7 +66,7 @@ src="https://docs.joomla.org/images/thumb/3/33/Help-4x-Menus-Item-Articles-Creat
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/3/33/Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-de.png/900px-Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/3/33/Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-de.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-de.png 2x"
 data-file-width="2878" data-file-height="1344" width="600" height="280"
-alt="Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-de.png" />
+alt="Menus Item Articles Create Article options subscreen" />
 
 - **Spezifische Kategorie**.
   - Ja: Beiträge werden der spezifischen Kategorie zugewiesen. Nutzer
@@ -124,7 +124,7 @@ src="https://docs.joomla.org/images/thumb/a/a3/Help-4x-Menus-Item-Articles-Creat
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/a/a3/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-de.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-de.png 1.5x, https://docs.joomla.org/images/thumb/a/a3/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-de.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-de.png 2x"
 data-file-width="1728" data-file-height="1143" width="600" height="397"
-alt="Help-4x-Menus-Item-Articles-Create-Article-frontend-content-de.png" />
+alt="Menus Item Articles Create Article frontend content" />
 
 **Felder**
 
@@ -133,7 +133,7 @@ src="https://docs.joomla.org/images/thumb/0/07/Help-4x-Menus-Item-Articles-Creat
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/0/07/Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-de.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-de.png 1.5x, https://docs.joomla.org/images/thumb/0/07/Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-de.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-de.png 2x"
 data-file-width="1729" data-file-height="564" width="600" height="196"
-alt="Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-de.png" />
+alt="Menus Item Articles Create Article frontend fields" />
 
 **Veröffentlichen**
 
@@ -142,7 +142,7 @@ src="https://docs.joomla.org/images/thumb/2/27/Help-4x-Menus-Item-Articles-Creat
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/27/Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-de.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-de.png 1.5x, https://docs.joomla.org/images/thumb/2/27/Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-de.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-de.png 2x"
 data-file-width="1727" data-file-height="1114" width="600" height="387"
-alt="Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-de.png" />
+alt="Menus Item Articles Create Article frontend publishing" />
 
 **Sprache**
 
@@ -151,7 +151,7 @@ src="https://docs.joomla.org/images/thumb/c/c2/Help-4x-Menus-Item-Articles-Creat
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/c2/Help-4x-Menus-Item-Articles-Create-Article-frontend-language-de.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-language-de.png 1.5x, https://docs.joomla.org/images/thumb/c/c2/Help-4x-Menus-Item-Articles-Create-Article-frontend-language-de.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-language-de.png 2x"
 data-file-width="1728" data-file-height="329" width="600" height="114"
-alt="Help-4x-Menus-Item-Articles-Create-Article-frontend-language-de.png" />
+alt="Menus Item Articles Create Article frontend language" />
 
 ## Tipps
 

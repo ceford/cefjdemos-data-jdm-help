@@ -20,7 +20,7 @@ src="https://docs.joomla.org/images/thumb/7/76/Help-4x-configuration-post-instal
 decoding="async"
 srcset="https://docs.joomla.org/images/7/76/Help-4x-configuration-post-installation-messages-configuration-nl.png 1.5x"
 data-file-width="1184" data-file-height="737" width="800" height="498"
-alt="Help-4x-configuration-post-installation-messages-configuration-nl.png" />
+alt="configuration post installation messages configuration" />
 
 ### Formulier velden
 

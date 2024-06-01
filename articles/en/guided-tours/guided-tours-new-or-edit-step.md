@@ -20,7 +20,7 @@ To edit a Step:
 
 ## Screenshot
 
-<img alt="Guided Tours: Edit Step" src="https://docs.joomla.org/images/c/c9/Guidedtours_step_edit_en.png" decoding="async" data-file-width="1263" data-file-height="1158" width="1263" height="1158">
+<img alt="Guided Tours: Edit Step" src="https://docs.joomla.org/images/c/c9/Guidedtours_step_edit_en.png" decoding="async" data file width="1263" data file height="1158" width="1263" height="1158">
 
 ## Form Fields
 
@@ -74,7 +74,7 @@ To edit a Step:
 
 ### Publishing tab
 
-<img alt="Guided Tours: Step Publishing" src="https://docs.joomla.org/images/d/da/Guidedtours_tour_edit_publish_en.png" decoding="async" data-file-width="886" data-file-height="378" width="886" height="378">
+<img alt="Guided Tours: Step Publishing" src="https://docs.joomla.org/images/d/da/Guidedtours_tour_edit_publish_en.png" decoding="async" data file width="886" data file height="378" width="886" height="378">
 
 - **Created Date**. The current time when the Step was created. Enter in a different date and time or click on the calendar icon to find the desired date.
 - **Created By**. Name of the User who created this Step. This will default to the currently logged-in user. If you want to change this to a different user, click the Select User button.

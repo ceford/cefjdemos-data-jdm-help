@@ -16,7 +16,7 @@ src="https://docs.joomla.org/images/thumb/0/0e/Help-4x-users-category-manager-us
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/0/0e/Help-4x-users-category-manager-user-notes-categories-nl.png/1200px-Help-4x-users-category-manager-user-notes-categories-nl.png 1.5x, https://docs.joomla.org/images/0/0e/Help-4x-users-category-manager-user-notes-categories-nl.png 2x"
 data-file-width="1299" data-file-height="625" width="800" height="385"
-alt="Help-4x-users-category-manager-user-notes-categories-nl.png" />
+alt="users category manager user notes categories" />
 
 ## Kolomkoppen
 
@@ -158,7 +158,7 @@ src="https://docs.joomla.org/images/thumb/4/49/Help-4x-colheader-batch-process-v
 decoding="async"
 srcset="https://docs.joomla.org/images/4/49/Help-4x-colheader-batch-process-view-link-nl.png 1.5x"
 data-file-width="813" data-file-height="494" width="600" height="365"
-alt="Help-4x-colheader-batch-process-view-link-nl.png" />
+alt="colheader batch process view link" />
 
 * verwijst naar de naam van de pagina items.*
 

@@ -24,7 +24,7 @@ src="https://docs.joomla.org/images/thumb/5/54/Help-4x-modules-site-module-manag
 decoding="async"
 srcset="https://docs.joomla.org/images/5/54/Help-4x-modules-site-module-manager-module-statistics-nl.png 1.5x"
 data-file-width="1091" data-file-height="894" width="800" height="656"
-alt="Help-4x-modules-site-module-manager-module-statistics-nl.png" />
+alt="modules site module manager module statistics" />
 
 ## Formulier velden
 
@@ -82,7 +82,7 @@ src="https://docs.joomla.org/images/thumb/c/cc/Help-4x-modules-manager-site-modu
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/cc/Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png/900px-Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png 1.5x, https://docs.joomla.org/images/thumb/c/cc/Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png/1200px-Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png 2x"
 data-file-width="1267" data-file-height="725" width="600" height="343"
-alt="Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png" />
+alt="modules manager site module menu assignment tab" />
 
 - **Moduletoewijzing.** Selecteer **Op alle pagina's**, **Geen
   pagina's**, **Alleen op de geselecteerde pagina's** of **Op alle
@@ -103,7 +103,7 @@ src="https://docs.joomla.org/images/thumb/2/2a/Help-4x-modules-manager-admin-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/2a/Help-4x-modules-manager-admin-module-site-advanced-options-nl.png/900px-Help-4x-modules-manager-admin-module-site-advanced-options-nl.png 1.5x, https://docs.joomla.org/images/2/2a/Help-4x-modules-manager-admin-module-site-advanced-options-nl.png 2x"
 data-file-width="1003" data-file-height="532" width="600" height="318"
-alt="Help-4x-modules-manager-admin-module-site-advanced-options-nl.png" />
+alt="modules manager admin module site advanced options" />
 
 - **Weergave.** Als u één of meer alternatieve lay-outs voor een module
   heeft gedefinieerd of in het template of in Joomla! core, dan kunt u
@@ -144,7 +144,7 @@ src="https://docs.joomla.org/images/thumb/4/4f/Help-4x-modules-manager-admin-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/4f/Help-4x-modules-manager-admin-module-administrator-permissions-nl.png/900px-Help-4x-modules-manager-admin-module-administrator-permissions-nl.png 1.5x, https://docs.joomla.org/images/4/4f/Help-4x-modules-manager-admin-module-administrator-permissions-nl.png 2x"
 data-file-width="977" data-file-height="665" width="600" height="408"
-alt="Help-4x-modules-manager-admin-module-administrator-permissions-nl.png" />
+alt="modules manager admin module administrator permissions" />
 
 Doe, om de rechten te veranderen, het volgende.
 
@@ -197,4 +197,4 @@ Een statistieken module wordt hieronder getoond:
 src="https://docs.joomla.org/images/3/3d/Help-4x-Extensions-Module-Manager-Statistics-example-output-nl.png"
 decoding="async" data-file-width="294" data-file-height="324"
 width="294" height="324"
-alt="Help-4x-Extensions-Module-Manager-Statistics-example-output-nl.png" />
+alt="Extensions Module Manager Statistics example output" />

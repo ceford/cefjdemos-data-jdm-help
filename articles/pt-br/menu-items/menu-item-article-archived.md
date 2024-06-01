@@ -75,7 +75,7 @@ src="https://docs.joomla.org/images/thumb/b/ba/Help-4x-Menus-Item-Articles-Artic
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/ba/Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-en.png/900px-Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/b/ba/Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-en.png/1200px-Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-en.png 2x"
 data-file-width="2880" data-file-height="1092" width="600" height="228"
-alt="Help-4x-Menus-Item-Articles-Article-Archived-archive-subscreen-en.png" />
+alt="Menus Item Articles Article Archived archive subscreen" />
 
 - **Article Order**.
   - Oldest First: Articles are displayed starting with the oldest and
@@ -120,7 +120,7 @@ src="https://docs.joomla.org/images/thumb/a/a4/Help-4x-Menus-Item-Articles-Artic
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/a/a4/Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-en.png/900px-Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/a/a4/Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-en.png/1200px-Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-en.png 2x"
 data-file-width="2880" data-file-height="1340" width="600" height="279"
-alt="Help-4x-Menus-Item-Articles-Article-Archived-options-subscreen-en.png" />
+alt="Menus Item Articles Article Archived options subscreen" />
 
 **Layout**
 

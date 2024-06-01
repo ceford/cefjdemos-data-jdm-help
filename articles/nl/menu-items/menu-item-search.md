@@ -19,7 +19,7 @@ Om een nieuw 'Zoeken' menu-item aan te maken:
     decoding="async"
     srcset="https://docs.joomla.org/images/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png 1.5x"
     data-file-width="124" data-file-height="43" width="87" height="30"
-    alt="Help-4x-Menu-Item-Type-Select-Button-nl.png" />
+    alt="Menu Item Type Select Button" />
   - Selecteer in de modale dialoog het 'Slim zoeken' item om een lijst
     te openen en selecteer daarna het **Zoeken** item.
 
@@ -34,7 +34,7 @@ src="https://docs.joomla.org/images/thumb/8/85/Help-4x-Menus-Menu-Item-Finder-Se
 decoding="async"
 srcset="https://docs.joomla.org/images/8/85/Help-4x-Menus-Menu-Item-Finder-Search-screen-nl.png 1.5x"
 data-file-width="824" data-file-height="897" width="800" height="871"
-alt="Help-4x-Menus-Menu-Item-Finder-Search-screen-nl.png" />
+alt="Menus Menu Item Finder Search screen" />
 
 ## Formulier velden
 
@@ -125,7 +125,7 @@ voordat zij zijn toegevoegd aan deze uitklaplijst.*
 src="https://docs.joomla.org/images/2/29/Help-4x-Menus-Menu-Item-Finder-Search-basic-options-screen-nl.png"
 decoding="async" data-file-width="837" data-file-height="374"
 width="837" height="374"
-alt="Help-4x-Menus-Menu-Item-Finder-Search-basic-options-screen-nl.png" />
+alt="Menus Menu Item Finder Search basic options screen" />
 
 - **Datumfilters**. Toon de start en einddatum filters in Uitgebreid
   Zoeken.
@@ -168,7 +168,7 @@ alt="Help-4x-Menus-Menu-Item-Finder-Search-basic-options-screen-nl.png" />
 src="https://docs.joomla.org/images/8/80/Help-4x-Menus-Menu-Item-Finder-Search-advanced-options-screen-nl.png"
 decoding="async" data-file-width="837" data-file-height="363"
 width="837" height="363"
-alt="Help-4x-Menus-Menu-Item-Finder-Search-advanced-options-screen-nl.png" />
+alt="Menus Menu Item Finder Search advanced options screen" />
 
 - **Weergave selectielijst.** (Gebruik algemeen/Toon/Verberg) Tonen of
   verbergen van de selectielijst waarmee de gebruiker het aantal weer te
@@ -179,7 +179,7 @@ alt="Help-4x-Menus-Menu-Item-Finder-Search-advanced-options-screen-nl.png" />
 src="https://docs.joomla.org/images/1/1a/Help30-article-category-list-display-select-nl.png"
 decoding="async" data-file-width="700" data-file-height="334"
 width="700" height="334"
-alt="Help30-article-category-list-display-select-nl.png" />
+alt="Help30 article category list display select nl.png" />
 
 Indien er meer items zijn dan dit aantal kunnen de pagina
 navigatieknoppen (Start, Vorige, Volgende, Einde en paginanummers)
@@ -196,7 +196,7 @@ worden.
 
 <img src="https://docs.joomla.org/images/2/25/Help30-pagination-nl.png"
 decoding="async" data-file-width="251" data-file-height="61" width="251"
-height="61" alt="Help30-pagination-nl.png" />
+height="61" alt="Help30 pagination nl.png" />
 
 De volgende opties zijn beschikbaar.
 
@@ -232,7 +232,7 @@ nl
 src="https://docs.joomla.org/images/7/79/Help-4x-Menus-Menu-Item-Finder-Search-integration-options-screen-nl.png"
 decoding="async" data-file-width="480" data-file-height="231"
 width="480" height="231"
-alt="Help-4x-Menus-Menu-Item-Finder-Search-integration-options-screen-nl.png" />
+alt="Menus Menu Item Finder Search integration options screen" />
 
 - **Toon feedlink.** (Gebruik algemeen/Toon/Verberg) Toon of verberg een
   link naar een nieuwsfeed (RSS Feed). Indien tonen is ingesteld wordt

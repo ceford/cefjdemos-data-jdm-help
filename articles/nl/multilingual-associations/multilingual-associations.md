@@ -21,7 +21,7 @@ src="https://docs.joomla.org/images/thumb/7/73/Help-4x-Components-Associations-n
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/73/Help-4x-Components-Associations-nl.png/1200px-Help-4x-Components-Associations-nl.png 1.5x, https://docs.joomla.org/images/thumb/7/73/Help-4x-Components-Associations-nl.png/1600px-Help-4x-Components-Associations-nl.png 2x"
 data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Help-4x-Components-Associations-nl.png" />
+alt="Components Associations" />
 
 ## Kolomkoppen
 
@@ -99,7 +99,7 @@ src="https://docs.joomla.org/images/thumb/3/34/Help-4x-Components-Associations-t
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/3/34/Help-4x-Components-Associations-toolbar-subscreen-nl.png/1200px-Help-4x-Components-Associations-toolbar-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/3/34/Help-4x-Components-Associations-toolbar-subscreen-nl.png/1600px-Help-4x-Components-Associations-toolbar-subscreen-nl.png 2x"
 data-file-width="2374" data-file-height="267" width="800" height="90"
-alt="Help-4x-Components-Associations-toolbar-subscreen-nl.png" />
+alt="Components Associations toolbar subscreen" />
 
 - **Alle associaties verwijder**. Laat u alle associaties verwijderen.
   Na een vraag om een bevestiging worden alle associaties verwijderd.

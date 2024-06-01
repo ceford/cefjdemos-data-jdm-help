@@ -35,7 +35,7 @@ src="https://docs.joomla.org/images/thumb/6/61/Help-4x-menus-menu-manager-menus-
 decoding="async"
 srcset="https://docs.joomla.org/images/6/61/Help-4x-menus-menu-manager-menus-nl.png 1.5x"
 data-file-width="1159" data-file-height="690" width="800" height="476"
-alt="Help-4x-menus-menu-manager-menus-nl.png" />
+alt="menus menu manager menus" />
 
 ## Kolomkoppen
 

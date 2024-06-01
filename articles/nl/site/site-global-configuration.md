@@ -17,7 +17,7 @@ src="https://docs.joomla.org/images/thumb/f/ff/Help-4x-global-configuration-scre
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/ff/Help-4x-global-configuration-screen-nl.png/1125px-Help-4x-global-configuration-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/f/ff/Help-4x-global-configuration-screen-nl.png/1500px-Help-4x-global-configuration-screen-nl.png 2x"
 data-file-width="2720" data-file-height="1700" width="750" height="469"
-alt="Help-4x-global-configuration-screen-nl.png" />
+alt="global configuration screen" />
 
 ## Formulier velden
 

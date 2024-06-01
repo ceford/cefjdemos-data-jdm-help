@@ -16,7 +16,7 @@ src="https://docs.joomla.org/images/thumb/3/3e/Help-4x-Components-Multilingual-A
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/3/3e/Help-4x-Components-Multilingual-Associations-Options-screen-de.png/1200px-Help-4x-Components-Multilingual-Associations-Options-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/3/3e/Help-4x-Components-Multilingual-Associations-Options-screen-de.png/1600px-Help-4x-Components-Multilingual-Associations-Options-screen-de.png 2x"
 data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Help-4x-Components-Multilingual-Associations-Options-screen-de.png" />
+alt="Components Multilingual Associations Options screen" />
 
 ## Formular Felder
 

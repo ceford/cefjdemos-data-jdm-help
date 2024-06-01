@@ -28,7 +28,7 @@ src="https://docs.joomla.org/images/thumb/b/b7/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/b7/Help-4x-Menus-Item-Articles-Category-Blog-screen-de.png/1200px-Help-4x-Menus-Item-Articles-Category-Blog-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/b/b7/Help-4x-Menus-Item-Articles-Category-Blog-screen-de.png/1600px-Help-4x-Menus-Item-Articles-Category-Blog-screen-de.png 2x"
 data-file-width="2880" data-file-height="1445" width="800" height="401"
-alt="Help-4x-Menus-Item-Articles-Category-Blog-screen-de.png" />
+alt="Menus Item Articles Category Blog screen" />
 
 ## Formular Felder
 
@@ -68,7 +68,7 @@ src="https://docs.joomla.org/images/thumb/f/fb/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/fb/Help-4x-Menus-Item-Articles-Category-Blog-category-subscreen-de.png/900px-Help-4x-Menus-Item-Articles-Category-Blog-category-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/f/fb/Help-4x-Menus-Item-Articles-Category-Blog-category-subscreen-de.png/1200px-Help-4x-Menus-Item-Articles-Category-Blog-category-subscreen-de.png 2x"
 data-file-width="2880" data-file-height="1340" width="600" height="279"
-alt="Help-4x-Menus-Item-Articles-Category-Blog-category-subscreen-de.png" />
+alt="Menus Item Articles Category Blog category subscreen" />
 
 - **Kategorietitel**. Den Kategorietitel zeigen.
 - **Kategoriebeschreibung**. Die Beschreibung der Kategorie zeigen.
@@ -96,7 +96,7 @@ src="https://docs.joomla.org/images/thumb/7/76/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/76/Help-4x-Menus-Item-Articles-Category-Blog-blog-layout-subscreen-de.png/900px-Help-4x-Menus-Item-Articles-Category-Blog-blog-layout-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/7/76/Help-4x-Menus-Item-Articles-Category-Blog-blog-layout-subscreen-de.png/1200px-Help-4x-Menus-Item-Articles-Category-Blog-blog-layout-subscreen-de.png 2x"
 data-file-width="2880" data-file-height="1340" width="600" height="279"
-alt="Help-4x-Menus-Item-Articles-Category-Blog-blog-layout-subscreen-de.png" />
+alt="Menus Item Articles Category Blog blog layout subscreen" />
 
 - **\# Führende**. Anzahl der führenden Beiträge, deren Einleitungstexte
   in voller Breite gezeigt wird. Bei "0" werden keine Beiträge
@@ -210,7 +210,7 @@ src="https://docs.joomla.org/images/thumb/6/6e/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/6/6e/Help-4x-Menus-Item-Articles-Category-Blog-options-subscreen-de.png/900px-Help-4x-Menus-Item-Articles-Category-Blog-options-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/6/6e/Help-4x-Menus-Item-Articles-Category-Blog-options-subscreen-de.png/1200px-Help-4x-Menus-Item-Articles-Category-Blog-options-subscreen-de.png 2x"
 data-file-width="2880" data-file-height="1340" width="600" height="279"
-alt="Help-4x-Menus-Item-Articles-Category-Blog-options-subscreen-de.png" />
+alt="Menus Item Articles Category Blog options subscreen" />
 
 **Layout**
 
@@ -297,7 +297,7 @@ src="https://docs.joomla.org/images/thumb/f/f7/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/f7/Help-4x-Menus-Item-Articles-Category-Blog-integration-subscreen-de.png/900px-Help-4x-Menus-Item-Articles-Category-Blog-integration-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/f/f7/Help-4x-Menus-Item-Articles-Category-Blog-integration-subscreen-de.png/1200px-Help-4x-Menus-Item-Articles-Category-Blog-integration-subscreen-de.png 2x"
 data-file-width="2880" data-file-height="710" width="600" height="148"
-alt="Help-4x-Menus-Item-Articles-Category-Blog-integration-subscreen-de.png" />
+alt="Menus Item Articles Category Blog integration subscreen" />
 
 - **Feed-Link**. Bei 'Anzeigen' wird ein Feed-Link mit einem Feed-Icon
   in der Adressleiste der meisten Browser gezeigt.

@@ -6,7 +6,7 @@ The **Guided Tours** module shows a list of available guided tours.
 
 It will present itself as a dropdown, available in the Administrator Title Bar.
 
-<img alt="Guided Tours Dropdown Menu" src="https://docs.joomla.org/images/1/1d/Guidedtours_button_en.png" decoding="async" data-file-width="140" data-file-height="48" width="140" height="48">
+<img alt="Guided Tours Dropdown Menu" src="https://docs.joomla.org/images/1/1d/Guidedtours_button_en.png" decoding="async" data file width="140" data file height="48" width="140" height="48">
 
 ## How to Access
 
@@ -19,7 +19,7 @@ Select **System** → **Manage** Panel → **Administrator Modules** from the Ad
 
 ## Screenshot
 
-<img alt="Guided Tours module" src="https://docs.joomla.org/images/4/4c/Admin_module_guided_tours_en.png" decoding="async" width="1031" height="913" data-file-width="1031" data-file-height="913">
+<img alt="Guided Tours module" src="https://docs.joomla.org/images/4/4c/Admin_module_guided_tours_en.png" decoding="async" width="1031" height="913" data file width="1031" data file height="913">
 
 ## Form Fields
 
@@ -38,7 +38,7 @@ In the following screenshot for Joomla 5, the module is expanded, showing a 3-pa
 - the second section shows tours that are not in context (set tour count to 0 to hide this section),
 - the third section offers access to a modal containing all tours.
 
-<img alt="Admin module guided tours sample" src="https://docs.joomla.org/images/2/2b/Admin_module_guided_tours_sample_en.png" decoding="async" width="247" height="395" data-file-width="247" data-file-height="395">
+<img alt="Admin module guided tours sample" src="https://docs.joomla.org/images/2/2b/Admin_module_guided_tours_sample_en.png" decoding="async" width="247" height="395" data file width="247" data file height="395">
 
 The initial ordering of the tours is dictated by the tour order in the administrator's tours view.
 
@@ -57,7 +57,7 @@ The initial ordering of the tours is dictated by the tour order in the administr
 
 ## Advanced Tab
 
-<img alt="Advanced parameters tab" src="https://docs.joomla.org/images/c/ca/Module_guidedtours_advanced_en.png" decoding="async" width="1231" height="803" data-file-width="1231" data-file-height="803">
+<img alt="Advanced parameters tab" src="https://docs.joomla.org/images/c/ca/Module_guidedtours_advanced_en.png" decoding="async" width="1231" height="803" data file width="1231" data file height="803">
 
 - **Layout.** If you have defined one or more alternative layouts for a module either in the template or Joomla! Core, you can select the layout to use for this module.
 - **Module Class.** A suffix applied to the CSS class of the Module. This allows you to create customized CSS styles that will apply just to this module. You would then modify the "user.css" file of your template to apply styling to this new class. Enter this parameter with a leading space to create a new CSS class for this module. Enter the parameter without a leading space to change the CSS class name for this module.
@@ -69,7 +69,7 @@ The initial ordering of the tours is dictated by the tour order in the administr
 
 ### Permissions Tab
 
-<img alt="Permissions tab" src="https://docs.joomla.org/images/1/1c/Module_guidedtours_permissions_en.png" decoding="async" width="1230" height="719" data-file-width="1230" data-file-height="719">
+<img alt="Permissions tab" src="https://docs.joomla.org/images/1/1c/Module_guidedtours_permissions_en.png" decoding="async" width="1230" height="719" data file width="1230" data file height="719">
 
 To change the permissions, do the following.
 

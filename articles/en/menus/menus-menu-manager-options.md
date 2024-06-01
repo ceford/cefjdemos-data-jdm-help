@@ -5,7 +5,7 @@ src="https://docs.joomla.org/images/thumb/c/ca/Delete-icon.png/25px-Delete-icon.
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/ca/Delete-icon.png/38px-Delete-icon.png 1.5x, https://docs.joomla.org/images/thumb/c/ca/Delete-icon.png/50px-Delete-icon.png 2x"
 data-file-width="100" data-file-height="100" width="25" height="25"
-alt="Delete-icon.png" />This Page is a Candidate for Deletion
+alt="Delete icon.png" />This Page is a Candidate for Deletion
 
 **This page is a candidate for deletion.** The given reason is: ***No
 links here.***
@@ -67,7 +67,7 @@ At the top you will see the toolbar:
 src="https://docs.joomla.org/images/2/2a/Help-4x-Save-SaveClose-SaveNew-Cancel-Help-toolbar-en.png"
 decoding="async" data-file-width="600" data-file-height="69" width="600"
 height="69"
-alt="Help-4x-Save-SaveClose-SaveNew-Cancel-Help-toolbar-en.png" />
+alt="Save SaveClose SaveNew Cancel Help toolbar" />
 
 The functions are:
 

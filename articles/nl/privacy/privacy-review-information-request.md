@@ -30,7 +30,7 @@ src="https://docs.joomla.org/images/thumb/c/ce/Help-4x-component-privacy-review-
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/ce/Help-4x-component-privacy-review-information-request-new-nl.png/1200px-Help-4x-component-privacy-review-information-request-new-nl.png 1.5x, https://docs.joomla.org/images/c/ce/Help-4x-component-privacy-review-information-request-new-nl.png 2x"
 data-file-width="1352" data-file-height="507" width="800" height="300"
-alt="Help-4x-component-privacy-review-information-request-new-nl.png" />
+alt="component privacy review information request new" />
 
 ## Gegevens
 

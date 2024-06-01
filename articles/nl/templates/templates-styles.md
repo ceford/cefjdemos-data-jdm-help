@@ -20,7 +20,7 @@ src="https://docs.joomla.org/images/thumb/2/29/Help-4x-Extensions-Template-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/2/29/Help-4x-Extensions-Template-Manager-Styles-screen-nl.png 1.5x"
 data-file-width="1139" data-file-height="429" width="800" height="301"
-alt="Help-4x-Extensions-Template-Manager-Styles-screen-nl.png" />
+alt="Extensions Template Manager Styles screen" />
 
 ## Kolomkoppen
 
@@ -112,7 +112,7 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   standaard ster symbool
   (<img src="https://docs.joomla.org/images/7/7e/Icon-16-default.png"
   decoding="async" data-file-width="30" data-file-height="20" width="30"
-  height="20" alt="Icon-16-default.png" />) wordt getoond in de
+  height="20" alt="Icon 16 default.png" />) wordt getoond in de
   Standaard kolom, wat aangeeft dat het nu het standaard item is.
 - **Opslaan als kopie:** Maakt een kopie van het geselecteerde item. De
   kopie wordt direct aangemaakt en krijgt dezelfde naam als het

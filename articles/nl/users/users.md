@@ -24,7 +24,7 @@ src="https://docs.joomla.org/images/thumb/e/eb/Help-4x-Users-screen-nl.png/800px
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/eb/Help-4x-Users-screen-nl.png/1200px-Help-4x-Users-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/e/eb/Help-4x-Users-screen-nl.png/1600px-Help-4x-Users-screen-nl.png 2x"
 data-file-width="2618" data-file-height="1500" width="800" height="458"
-alt="Help-4x-Users-screen-nl.png" />
+alt="Users screen" />
 
 ## Kolomkoppen
 
@@ -150,7 +150,7 @@ src="https://docs.joomla.org/images/thumb/5/5e/Help-4x-Users-batch-subscreen-nl.
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/5e/Help-4x-Users-batch-subscreen-nl.png/900px-Help-4x-Users-batch-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/5/5e/Help-4x-Users-batch-subscreen-nl.png/1200px-Help-4x-Users-batch-subscreen-nl.png 2x"
 data-file-width="1598" data-file-height="717" width="600" height="269"
-alt="Help-4x-Users-batch-subscreen-nl.png" />
+alt="Users batch subscreen" />
 
 **Hoe batchverwerking** voor een groep gebruikers toepassen:
 

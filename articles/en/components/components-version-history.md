@@ -35,7 +35,7 @@ src="https://docs.joomla.org/images/thumb/6/69/Help-4x-Components-Version-Histor
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/6/69/Help-4x-Components-Version-History-screen-en.png/900px-Help-4x-Components-Version-History-screen-en.png 1.5x, https://docs.joomla.org/images/thumb/6/69/Help-4x-Components-Version-History-screen-en.png/1200px-Help-4x-Components-Version-History-screen-en.png 2x"
 data-file-width="1610" data-file-height="977" width="600" height="364"
-alt="Help-4x-Components-Version-History-screen-en.png" />
+alt="Components Version History screen" />
 
 ## Column Headers
 
@@ -88,7 +88,7 @@ Screenshot above. The functions are:
   decoding="async"
   srcset="https://docs.joomla.org/images/thumb/c/cc/Help-4x-Version-History-Help-preview-en.png/900px-Help-4x-Version-History-Help-preview-en.png 1.5x, https://docs.joomla.org/images/thumb/c/cc/Help-4x-Version-History-Help-preview-en.png/1200px-Help-4x-Version-History-Help-preview-en.png 2x"
   data-file-width="1602" data-file-height="1204" width="600" height="451"
-  alt="Help-4x-Version-History-Help-preview-en.png" />
+  alt="Version History Help preview" />
 
   When you are done
   viewing the version, close the browser window.
@@ -102,7 +102,7 @@ Screenshot above. The functions are:
   decoding="async"
   srcset="https://docs.joomla.org/images/thumb/d/d9/Help-4x-Version-History-Help-compare-en.png/900px-Help-4x-Version-History-Help-compare-en.png 1.5x, https://docs.joomla.org/images/thumb/d/d9/Help-4x-Version-History-Help-compare-en.png/1200px-Help-4x-Version-History-Help-compare-en.png 2x"
   data-file-width="2002" data-file-height="1204" width="600" height="361"
-  alt="Help-4x-Version-History-Help-compare-en.png" />
+  alt="Version History Help compare" />
 
   The first column
   is the field name, the second is the older version, the third is the

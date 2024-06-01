@@ -26,7 +26,7 @@ src="https://docs.joomla.org/images/thumb/2/23/Help-4x-Fields-Edit-screen-de.png
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/23/Help-4x-Fields-Edit-screen-de.png/1200px-Help-4x-Fields-Edit-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/2/23/Help-4x-Fields-Edit-screen-de.png/1600px-Help-4x-Fields-Edit-screen-de.png 2x"
 data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Help-4x-Fields-Edit-screen-de.png" />
+alt="Fields Edit screen" />
 
 ## Formular Felder
 
@@ -99,7 +99,7 @@ src="https://docs.joomla.org/images/thumb/b/b5/Help-4x-Fields-Edit-options-subsc
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/b5/Help-4x-Fields-Edit-options-subscreen-de.png/900px-Help-4x-Fields-Edit-options-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/b/b5/Help-4x-Fields-Edit-options-subscreen-de.png/1200px-Help-4x-Fields-Edit-options-subscreen-de.png 2x"
 data-file-width="2880" data-file-height="1378" width="600" height="287"
-alt="Help-4x-Fields-Edit-options-subscreen-de.png" />
+alt="Fields Edit options subscreen" />
 
 **Eingabemaske-Optionen**
 
@@ -170,7 +170,7 @@ src="https://docs.joomla.org/images/thumb/f/f3/Help-4x-Fields-Edit-publishing-su
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/f3/Help-4x-Fields-Edit-publishing-subscreen-de.png/900px-Help-4x-Fields-Edit-publishing-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/f/f3/Help-4x-Fields-Edit-publishing-subscreen-de.png/1200px-Help-4x-Fields-Edit-publishing-subscreen-de.png 2x"
 data-file-width="2880" data-file-height="980" width="600" height="204"
-alt="Help-4x-Fields-Edit-publishing-subscreen-de.png" />
+alt="Fields Edit publishing subscreen" />
 
 - **Erstellungsdatum**. Das Erstellungsdatum des Feldes. Ein anderes
   Datum oder Uhrzeit eingeben oder auf das Kalender-Symbol klicken.
@@ -194,7 +194,7 @@ src="https://docs.joomla.org/images/thumb/0/09/Help-4x-Fields-Edit-permissions-s
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/0/09/Help-4x-Fields-Edit-permissions-subscreen-de.png/900px-Help-4x-Fields-Edit-permissions-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/0/09/Help-4x-Fields-Edit-permissions-subscreen-de.png/1200px-Help-4x-Fields-Edit-permissions-subscreen-de.png 2x"
 data-file-width="2880" data-file-height="1260" width="600" height="263"
-alt="Help-4x-Fields-Edit-permissions-subscreen-de.png" />
+alt="Fields Edit permissions subscreen" />
 
 Um Berechtigungen dieses Feldes zu ändern:
 

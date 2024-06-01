@@ -111,7 +111,7 @@ src="https://docs.joomla.org/images/thumb/2/24/Help-4x-Extensions-Plugin-Manager
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/24/Help-4x-Extensions-Plugin-Manager-Edit-screen-de.png/1200px-Help-4x-Extensions-Plugin-Manager-Edit-screen-de.png 1.5x, https://docs.joomla.org/images/2/24/Help-4x-Extensions-Plugin-Manager-Edit-screen-de.png 2x"
 data-file-width="1497" data-file-height="1035" width="800" height="553"
-alt="Help-4x-Extensions-Plugin-Manager-Edit-screen-de.png" />
+alt="Extensions Plugin Manager Edit screen" />
 
 ## Formular Felder
 

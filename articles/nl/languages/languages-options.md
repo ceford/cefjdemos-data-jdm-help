@@ -19,7 +19,7 @@ src="https://docs.joomla.org/images/thumb/c/ce/Help-4x-Components-Languages-Opti
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/ce/Help-4x-Components-Languages-Options-nl.png/1200px-Help-4x-Components-Languages-Options-nl.png 1.5x, https://docs.joomla.org/images/c/ce/Help-4x-Components-Languages-Options-nl.png 2x"
 data-file-width="1288" data-file-height="891" width="800" height="553"
-alt="Help-4x-Components-Languages-Options-nl.png" />
+alt="Components Languages Options" />
 
 ### Formulier velden
 

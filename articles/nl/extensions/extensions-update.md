@@ -22,7 +22,7 @@ src="https://docs.joomla.org/images/thumb/3/3b/Help-4x-extensions-extension-mana
 decoding="async"
 srcset="https://docs.joomla.org/images/3/3b/Help-4x-extensions-extension-manager-update-nl.png 1.5x"
 data-file-width="1120" data-file-height="449" width="800" height="321"
-alt="Help-4x-extensions-extension-manager-update-nl.png" />
+alt="extensions extension manager update" />
 
 ## Kolomkoppen
 
@@ -31,7 +31,7 @@ src="https://docs.joomla.org/images/thumb/a/a4/Help-4x-Extensions-Manage-Update-
 decoding="async"
 srcset="https://docs.joomla.org/images/a/a4/Help-4x-Extensions-Manage-Update-columns-nl.png 1.5x"
 data-file-width="905" data-file-height="37" width="680" height="28"
-alt="Help-4x-Extensions-Manage-Update-columns-nl.png" />
+alt="Extensions Manage Update columns" />
 
 - **Selectievakje**. Vink dit vakje aan om één of meer items te
   selecteren. Vink het vakje in de kolomkop aan om alle selectievakjes

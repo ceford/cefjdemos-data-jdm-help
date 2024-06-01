@@ -32,7 +32,7 @@ src="https://docs.joomla.org/images/thumb/0/05/Help-4x-users-user-manager-add-ne
 decoding="async"
 srcset="https://docs.joomla.org/images/0/05/Help-4x-users-user-manager-add-new-viewing-access-level-nl.png 1.5x"
 data-file-width="823" data-file-height="576" width="600" height="420"
-alt="Help-4x-users-user-manager-add-new-viewing-access-level-nl.png" />
+alt="users user manager add new viewing access level" />
 
 ## Niveau gegevens
 

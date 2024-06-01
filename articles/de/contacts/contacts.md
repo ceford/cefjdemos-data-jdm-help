@@ -24,7 +24,7 @@ src="https://docs.joomla.org/images/thumb/4/45/Help-4x-Components-Contacts-Conta
 decoding="async"
 srcset="https://docs.joomla.org/images/4/45/Help-4x-Components-Contacts-Contacts-screen-de.png 1.5x"
 data-file-width="1200" data-file-height="445" width="800" height="297"
-alt="Help-4x-Components-Contacts-Contacts-screen-de.png" />
+alt="Components Contacts Contacts screen" />
 
 ## Spalten-Überschriften
 

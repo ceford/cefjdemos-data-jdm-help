@@ -16,7 +16,7 @@ Benutzer können, basierend auf ihrer Gruppe, ausgewählt werden.
 <img
 src="https://docs.joomla.org/images/2/2b/Help-4x-users-mass-mail-en.png"
 decoding="async" data-file-width="800" data-file-height="416"
-width="800" height="416" alt="Help-4x-users-mass-mail-en.png" />
+width="800" height="416" alt="users mass mail" />
 
 ## Details and Message
 

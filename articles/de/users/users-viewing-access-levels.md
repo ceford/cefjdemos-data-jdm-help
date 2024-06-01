@@ -15,7 +15,7 @@ src="https://docs.joomla.org/images/thumb/4/42/Help-4x-users-user-manager-viewin
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/42/Help-4x-users-user-manager-viewing-access-levels-de.png/1200px-Help-4x-users-user-manager-viewing-access-levels-de.png 1.5x, https://docs.joomla.org/images/4/42/Help-4x-users-user-manager-viewing-access-levels-de.png 2x"
 data-file-width="1357" data-file-height="583" width="800" height="344"
-alt="Help-4x-users-user-manager-viewing-access-levels-de.png" />
+alt="users user manager viewing access levels" />
 
 ## Spalten-Überschriften
 

@@ -18,7 +18,7 @@ src="https://docs.joomla.org/images/thumb/b/b8/Help-4x-Modules-Options-screen-en
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/b8/Help-4x-Modules-Options-screen-en.png/1200px-Help-4x-Modules-Options-screen-en.png 1.5x, https://docs.joomla.org/images/thumb/b/b8/Help-4x-Modules-Options-screen-en.png/1600px-Help-4x-Modules-Options-screen-en.png 2x"
 data-file-width="2880" data-file-height="1201" width="800" height="334"
-alt="Help-4x-Modules-Options-screen-en.png" />
+alt="Modules Options screen" />
 
 ## Form Fields
 
@@ -34,7 +34,7 @@ src="https://docs.joomla.org/images/thumb/6/60/Help-4x-Modules-Options-administr
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/6/60/Help-4x-Modules-Options-administrator-modules-subscreen-en.png/900px-Help-4x-Modules-Options-administrator-modules-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/6/60/Help-4x-Modules-Options-administrator-modules-subscreen-en.png/1200px-Help-4x-Modules-Options-administrator-modules-subscreen-en.png 2x"
 data-file-width="2001" data-file-height="360" width="600" height="108"
-alt="Help-4x-Modules-Options-administrator-modules-subscreen-en.png" />
+alt="Modules Options administrator modules subscreen" />
 
 - **Language Filtering**. Allows filtering administrator modules per
   administrator language.
@@ -49,7 +49,7 @@ src="https://docs.joomla.org/images/thumb/2/29/Help-4x-Modules-Options-permissio
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/29/Help-4x-Modules-Options-permissions-subscreen-en.png/900px-Help-4x-Modules-Options-permissions-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/2/29/Help-4x-Modules-Options-permissions-subscreen-en.png/1200px-Help-4x-Modules-Options-permissions-subscreen-en.png 2x"
 data-file-width="2003" data-file-height="1480" width="600" height="443"
-alt="Help-4x-Modules-Options-permissions-subscreen-en.png" />
+alt="Modules Options permissions subscreen" />
 
 To change the permissions for modules, do the following.
 

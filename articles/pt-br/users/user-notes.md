@@ -21,7 +21,7 @@ A tela de notas de usuários apresenta uma lista das notas existentes.
 <img
 src="https://docs.joomla.org/images/f/f4/Help-4x-users-user-notes-en.png"
 decoding="async" data-file-width="800" data-file-height="402"
-width="800" height="402" alt="Help-4x-users-user-notes-en.png" />
+width="800" height="402" alt="users user notes" />
 
 ## Cabeçalhos de colunas
 

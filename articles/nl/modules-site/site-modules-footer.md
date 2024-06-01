@@ -23,7 +23,7 @@ src="https://docs.joomla.org/images/thumb/9/97/Help-4x-modules-site-module-manag
 decoding="async"
 srcset="https://docs.joomla.org/images/9/97/Help-4x-modules-site-module-manager-module-footer-nl.png 1.5x"
 data-file-width="1089" data-file-height="862" width="800" height="633"
-alt="Help-4x-modules-site-module-manager-module-footer-nl.png" />
+alt="modules site module manager module footer" />
 
 ## Formulier velden
 
@@ -77,7 +77,7 @@ alt="Help-4x-modules-site-module-manager-module-footer-nl.png" />
 src="https://docs.joomla.org/images/c/cc/Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png"
 decoding="async" data-file-width="1267" data-file-height="725"
 width="1267" height="725"
-alt="Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png" />
+alt="modules manager site module menu assignment tab" />
 
 - **Moduletoewijzing.** Selecteer **Op alle pagina's**, **Geen
   pagina's**, **Alleen op de geselecteerde pagina's** of **Op alle
@@ -97,7 +97,7 @@ alt="Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png" />
 src="https://docs.joomla.org/images/2/2a/Help-4x-modules-manager-admin-module-site-advanced-options-nl.png"
 decoding="async" data-file-width="1003" data-file-height="532"
 width="1003" height="532"
-alt="Help-4x-modules-manager-admin-module-site-advanced-options-nl.png" />
+alt="modules manager admin module site advanced options" />
 
 - **Weergave.** Als u één of meer alternatieve lay-outs voor een module
   heeft gedefinieerd of in het template of in Joomla! core, dan kunt u
@@ -137,7 +137,7 @@ alt="Help-4x-modules-manager-admin-module-site-advanced-options-nl.png" />
 src="https://docs.joomla.org/images/4/4f/Help-4x-modules-manager-admin-module-administrator-permissions-nl.png"
 decoding="async" data-file-width="977" data-file-height="665"
 width="977" height="665"
-alt="Help-4x-modules-manager-admin-module-administrator-permissions-nl.png" />
+alt="modules manager admin module administrator permissions" />
 
 Doe, om de rechten te veranderen, het volgende.
 
@@ -185,7 +185,7 @@ Onderstaande voorbeeld wordt op de website getoond:
 src="https://docs.joomla.org/images/8/8c/Help4x-Extensions-Module-Manager-Footer-example-output-nl.png"
 decoding="async" data-file-width="424" data-file-height="47" width="424"
 height="47"
-alt="Help4x-Extensions-Module-Manager-Footer-example-output-nl.png" />
+alt="Help4x Extensions Module Manager Footer example output nl.png" />
 
 De moduletype naam voor deze module is "mod_footer". Het is niet
 gerelateerd aan een andere component. **Let op**: de laatste regel komt

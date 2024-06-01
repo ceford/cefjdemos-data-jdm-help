@@ -20,7 +20,7 @@ src="https://docs.joomla.org/images/thumb/7/7f/Help-4x-Components-Contacts-Conta
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/7f/Help-4x-Components-Contacts-Contacts-options1-nl.png/1200px-Help-4x-Components-Contacts-Contacts-options1-nl.png 1.5x, https://docs.joomla.org/images/7/7f/Help-4x-Components-Contacts-Contacts-options1-nl.png 2x"
 data-file-width="1261" data-file-height="2050" width="800" height="1301"
-alt="Help-4x-Components-Contacts-Contacts-options1-nl.png" />
+alt="Components Contacts Contacts options1" />
 
 ## Gegevens
 
@@ -101,7 +101,7 @@ src="https://docs.joomla.org/images/thumb/0/07/Help-4x-Component-Contact-Manager
 decoding="async"
 srcset="https://docs.joomla.org/images/0/07/Help-4x-Component-Contact-Manager-Options-icons-options-subscreen-nl.png 1.5x"
 data-file-width="898" data-file-height="861" width="800" height="767"
-alt="Help-4x-Component-Contact-Manager-Options-icons-options-subscreen-nl.png" />
+alt="Component Contact Manager Options icons options subscreen" />
 
 Deze instellingen zijn van toepassing op een enkele contactpersoon,
 behalve als ze veranderd zijn voor een specifiek contactpersoon
@@ -133,7 +133,7 @@ src="https://docs.joomla.org/images/thumb/4/4e/Help-4x-Component-Contact-Manager
 decoding="async"
 srcset="https://docs.joomla.org/images/4/4e/Help-4x-Component-Contact-Manager-Options-category-options-subscreen-nl.png 1.5x"
 data-file-width="909" data-file-height="759" width="800" height="668"
-alt="Help-4x-Component-Contact-Manager-Options-category-options-subscreen-nl.png" />
+alt="Component Contact Manager Options category options subscreen" />
 
 - **Kies een weergave.** (van component/Standaard). Laat u de standaard
   weergave selecteren die getoond wordt als u op een categorie link
@@ -167,7 +167,7 @@ src="https://docs.joomla.org/images/thumb/b/b4/Help-4x-Component-Contact-Manager
 decoding="async"
 srcset="https://docs.joomla.org/images/b/b4/Help-4x-Component-Contact-Manager-Options-categories-options-subscreen-nl.png 1.5x"
 data-file-width="904" data-file-height="572" width="800" height="506"
-alt="Help-4x-Component-Contact-Manager-Options-categories-options-subscreen-nl.png" />
+alt="Component Contact Manager Options categories options subscreen" />
 
 - **Hoofdniveau categoriebeschrijving.** (Toon/Verberg). Toon of verberg
   de beschrijving van de hoofdcategorie.
@@ -190,7 +190,7 @@ src="https://docs.joomla.org/images/thumb/2/22/Help-4x-Component-Contact-Manager
 decoding="async"
 srcset="https://docs.joomla.org/images/2/22/Help-4x-Component-Contact-Manager-Options-list-options-subscreen-nl.png 1.5x"
 data-file-width="877" data-file-height="1078" width="800" height="983"
-alt="Help-4x-Component-Contact-Manager-Options-list-options-subscreen-nl.png" />
+alt="Component Contact Manager Options list options subscreen" />
 
 - **Filterveld.** Het Filterveld maakt een tekstveld aan waar een
   gebruiker een veld kan opgeven dat gebruikt moet worden om de weblinks
@@ -200,7 +200,7 @@ alt="Help-4x-Component-Contact-Manager-Options-list-options-subscreen-nl.png" />
 <img
 src="https://docs.joomla.org/images/0/0b/Help-4x-article-category-list-filter-field-en.png"
 decoding="async" data-file-width="175" data-file-height="32" width="175"
-height="32" alt="Help30-article-category-list-filter-field-nl.png" />
+height="32" alt="Help30 article category list filter field nl.png" />
 
 De mogelijke opties hiervoor (in het beheergedeelte menu-item bewerken)
 staan hieronder.
@@ -218,7 +218,7 @@ staan hieronder.
 src="https://docs.joomla.org/images/9/9d/Help-4x-article-category-list-display-select-nl.png"
 decoding="async" data-file-width="81" data-file-height="215" width="81"
 height="215"
-alt="Help-4x-article-category-list-display-select-nl.png" />
+alt="article category list display select" />
 
 Indien er meer items zijn dan dit aantal kunnen de pagina
 navigatieknoppen (Start, Vorige, Volgende, Einde en paginanummers)
@@ -234,7 +234,7 @@ worden.
 src="https://docs.joomla.org/images/1/13/Help-4x-chunk-article-category-list-table-headings-nl.png"
 decoding="async" data-file-width="881" data-file-height="150"
 width="881" height="150"
-alt="Help-4x-chunk-article-category-list-table-headings-nl.png" />
+alt="chunk article category list table headings" />
 
 Indien ingesteld op *Toon* dan wordt deze kop getoond boven een lijst.
 Anders wordt de lijst zonder kop getoond.
@@ -264,7 +264,7 @@ Anders wordt de lijst zonder kop getoond.
 
 <img src="https://docs.joomla.org/images/2/25/Help30-pagination-nl.png"
 decoding="async" data-file-width="251" data-file-height="61" width="251"
-height="61" alt="Help30-pagination-nl.png" />
+height="61" alt="Help30 pagination nl.png" />
 
 De volgende opties zijn beschikbaar.
 
@@ -291,7 +291,7 @@ src="https://docs.joomla.org/images/thumb/f/f6/Help-4x-Component-Contact-Manager
 decoding="async"
 srcset="https://docs.joomla.org/images/f/f6/Help-4x-Component-Contact-Manager-Options-form-options-subscreen-nl.png 1.5x"
 data-file-width="879" data-file-height="1024" width="800" height="932"
-alt="Help-4x-Component-Contact-Manager-Options-form-options-subscreen-nl.png" />
+alt="Component Contact Manager Options form options subscreen" />
 
 - **Gebruik captcha voor contactpersonen.** Gebruik Algemeen of Niets
   geselecteerd. Selecteer de captcha plugin die gebruikt zal worden voor
@@ -328,7 +328,7 @@ src="https://docs.joomla.org/images/thumb/8/87/Help-4x-Component-Contact-Manager
 decoding="async"
 srcset="https://docs.joomla.org/images/8/87/Help-4x-Component-Contact-Manager-Options-integration-options-subscreen-nl.png 1.5x"
 data-file-width="907" data-file-height="611" width="800" height="539"
-alt="Help-4x-Component-Contact-Manager-Options-integration-options-subscreen-nl.png" />
+alt="Component Contact Manager Options integration options subscreen" />
 
 - **Toon feedlink.** (Toon of verberg) Toon of verberg de RSS feedlink.
   Een feedlink geeft in de meest moderne browsers een feedicoon weer in
@@ -348,7 +348,7 @@ src="https://docs.joomla.org/images/thumb/5/5c/Help-4x-Component-Contact-Manager
 decoding="async"
 srcset="https://docs.joomla.org/images/5/5c/Help-4x-Component-Contact-Manager-Options-permissions-options-subscreen-nl.png 1.5x"
 data-file-width="883" data-file-height="1077" width="800" height="976"
-alt="Help-4x-Component-Contact-Manager-Options-permissions-options-subscreen-nl.png" />
+alt="Component Contact Manager Options permissions options subscreen" />
 
 Om de rechten van deze extensie te wijzigen moet u de volgende
 handelingen uitvoeren.

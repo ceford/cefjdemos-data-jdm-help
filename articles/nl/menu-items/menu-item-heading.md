@@ -18,7 +18,7 @@ Om een nieuw 'Menukop' menu-item aan te maken:
   - Klik op de Menu-itemtype selectie knop. <img
     src="https://docs.joomla.org/images/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png"
     decoding="async" data-file-width="124" data-file-height="43" width="124"
-    height="43" alt="Help-4x-Menu-Item-Type-Select-Button-nl.png" />
+    height="43" alt="Menu Item Type Select Button" />
   - Selecteer in de modale dialoog het 'Systeemlinks' item om een lijst
     te openen en selecteer daarna het **Menukop** item.
 
@@ -33,7 +33,7 @@ src="https://docs.joomla.org/images/thumb/4/42/Help-4x-Menus-Menu-Item-Heading-s
 decoding="async"
 srcset="https://docs.joomla.org/images/4/42/Help-4x-Menus-Menu-Item-Heading-screenshot-nl.png 1.5x"
 data-file-width="993" data-file-height="858" width="800" height="691"
-alt="Help-4x-Menus-Menu-Item-Heading-screenshot-nl.png" />
+alt="Menus Menu Item Heading screenshot" />
 
 ## Formulier velden
 
@@ -115,7 +115,7 @@ alt="Help-4x-Menus-Menu-Item-Heading-screenshot-nl.png" />
 src="https://docs.joomla.org/images/b/b7/Help-4x-Menus-Menu-Item-Text-Separator-link-type-options-nl.png"
 decoding="async" data-file-width="855" data-file-height="402"
 width="855" height="402"
-alt="Help-4x-Menus-Menu-Item-Text-Separator-link-type-options-nl.png" />
+alt="Menus Menu Item Text Separator link type options" />
 
 - **Titelattribuut van link:** Een optionele, aangepaste beschrijving
   van het titelattribuut van de menu hyperlink.
@@ -164,7 +164,7 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 src="https://docs.joomla.org/images/f/f6/Help-4x-Menus-Menu-Item-Heading-front-end-screenshot-nl.png"
 decoding="async" data-file-width="216" data-file-height="150"
 width="216" height="150"
-alt="Help-4x-Menus-Menu-Item-Heading-front-end-screenshot-nl.png" />
+alt="Menus Menu Item Heading front end screenshot" />
 
 *Voorbeeld frontend afbeeldingen zijn generieke afbeeldingen die gebruik
 maken van de Joomla! core met gratis geleverde frontend templates. De

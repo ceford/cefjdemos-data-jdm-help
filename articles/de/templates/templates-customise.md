@@ -25,7 +25,7 @@ src="https://docs.joomla.org/images/thumb/b/b1/Help-4x-Extensions-Template-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/b1/Help-4x-Extensions-Template-Manager-Templates-Edit-screen-de.png/1200px-Help-4x-Extensions-Template-Manager-Templates-Edit-screen-de.png 1.5x, https://docs.joomla.org/images/b/b1/Help-4x-Extensions-Template-Manager-Templates-Edit-screen-de.png 2x"
 data-file-width="1341" data-file-height="907" width="800" height="541"
-alt="Help-4x-Extensions-Template-Manager-Templates-Edit-screen-de.png" />
+alt="Extensions Template Manager Templates Edit screen" />
 
 ## Formular Felder
 
@@ -87,7 +87,7 @@ src="https://docs.joomla.org/images/thumb/b/be/Help-4x-Extensions-Template-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/be/Help-4x-Extensions-Template-Manager-Templates-Edit-new-folder-dialog-de.png/750px-Help-4x-Extensions-Template-Manager-Templates-Edit-new-folder-dialog-de.png 1.5x, https://docs.joomla.org/images/thumb/b/be/Help-4x-Extensions-Template-Manager-Templates-Edit-new-folder-dialog-de.png/1000px-Help-4x-Extensions-Template-Manager-Templates-Edit-new-folder-dialog-de.png 2x"
 data-file-width="1189" data-file-height="697" width="500" height="293"
-alt="Help-4x-Extensions-Template-Manager-Templates-Edit-new-folder-dialog-de.png" />
+alt="Extensions Template Manager Templates Edit new folder dialog" />
 
 - **Neue Datei** Auswählen um eine Datei neu zu erstellen oder vom
   lokalen Computer in die Joomla! Template-Hierarchie hochzuladen. Es
@@ -98,7 +98,7 @@ src="https://docs.joomla.org/images/thumb/3/35/Help-4x-Extensions-Template-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/3/35/Help-4x-Extensions-Template-Manager-Templates-Edit-upload-file-dialog-de.png/750px-Help-4x-Extensions-Template-Manager-Templates-Edit-upload-file-dialog-de.png 1.5x, https://docs.joomla.org/images/thumb/3/35/Help-4x-Extensions-Template-Manager-Templates-Edit-upload-file-dialog-de.png/1000px-Help-4x-Extensions-Template-Manager-Templates-Edit-upload-file-dialog-de.png 2x"
 data-file-width="1187" data-file-height="793" width="500" height="334"
-alt="Help-4x-Extensions-Template-Manager-Templates-Edit-upload-file-dialog-de.png" />
+alt="Extensions Template Manager Templates Edit upload file dialog" />
 
 - **Check Overrides.** Activated when an Override is selected in the
   **Overrides** tab. The options are:

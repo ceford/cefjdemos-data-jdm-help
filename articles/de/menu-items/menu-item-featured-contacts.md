@@ -15,7 +15,7 @@ Um einen neuen Menüeintrag „Hauptkontakte“ zu erstellen:
   - Select the Menu Item Type Select button <img
     src="https://docs.joomla.org/images/1/1e/Help-4x-Menu-Item-Type-Select-Button-de.png"
     decoding="async" data-file-width="145" data-file-height="49" width="145"
-    height="49" alt="Help-4x-Menu-Item-Type-Select-Button-de.png" />
+    height="49" alt="Menu Item Type Select Button" />
   - In the modal dialog select the Contacts item to open a list and then
     select the **Featured Contacts** item.
 
@@ -29,7 +29,7 @@ To edit an existing Featured Contacts menu item:
 src="https://docs.joomla.org/images/8/84/Help-4x-Menus-Menu-Item-Contact-FeaturedContacts-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="812"
 width="800" height="812"
-alt="Help-4x-Menus-Menu-Item-Contact-FeaturedContacts-screen-en.png" />
+alt="Menus Menu Item Contact FeaturedContacts screen" />
 
 ## Form Fields
 
@@ -103,7 +103,7 @@ List Layout Options control the appearance of the list layout.
 src="https://docs.joomla.org/images/9/95/Help-4x-Menus-Menu-Item-Contact-Category-list-layout-options-parameters-en.png"
 decoding="async" data-file-width="600" data-file-height="269"
 width="600" height="269"
-alt="Help-4x-Menus-Menu-Item-Contact-Category-list-layout-options-parameters-en.png" />
+alt="Menus Menu Item Contact Category list layout options parameters" />
 
 - **Display Select.** (Use Global/Hide/Show) Whether to hide or show the
   Display \# control that allows the user to select the number of items
@@ -114,7 +114,7 @@ alt="Help-4x-Menus-Menu-Item-Contact-Category-list-layout-options-parameters-en.
 src="https://docs.joomla.org/images/0/09/Help30-article-category-list-display-select-en.png"
 decoding="async" data-file-width="198" data-file-height="125"
 width="198" height="125"
-alt="Help30-article-category-list-display-select-en.png" />
+alt="Help30 article category list display select en.png" />
 
 If there are more items than this number, you can use the page
 navigation buttons (Start, Prev, Next, End, and page numbers) to
@@ -128,7 +128,7 @@ headings, to limit which items display.
 <img
 src="https://docs.joomla.org/images/8/8b/Help30-article-category-list-table-headings-en.png"
 decoding="async" data-file-width="670" data-file-height="28" width="670"
-height="28" alt="Help30-article-category-list-table-headings-en.png" />
+height="28" alt="Help30 article category list table headings en.png" />
 
 If set to *Show*, this heading will show above the list. If set to
 *Hide*, the list will show with no headings.
@@ -192,7 +192,7 @@ The following options are available.
 
 <img src="https://docs.joomla.org/images/8/81/Help30-pagination-en.png"
 decoding="async" data-file-width="299" data-file-height="29" width="299"
-height="29" alt="Help30-pagination-en.png" />
+height="29" alt="Help30 pagination en.png" />
 
 The following options are available.
 
@@ -214,7 +214,7 @@ src="https://docs.joomla.org/images/thumb/6/67/Help-4x-Menus-Menu-Item-Contact-f
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/6/67/Help-4x-Menus-Menu-Item-Contact-featured-contact-form-parameters-en.png/900px-Help-4x-Menus-Menu-Item-Contact-featured-contact-form-parameters-en.png 1.5x, https://docs.joomla.org/images/6/67/Help-4x-Menus-Menu-Item-Contact-featured-contact-form-parameters-en.png 2x"
 data-file-width="1113" data-file-height="427" width="600" height="230"
-alt="Help-4x-Menus-Menu-Item-Contact-featured-contact-form-parameters-en.png" />
+alt="Menus Menu Item Contact featured contact form parameters" />
 
 **Common Contact Form Fields** are:
 
@@ -238,7 +238,7 @@ Contact Mail Options control the appearance of a Contact's
 src="https://docs.joomla.org/images/8/8b/Help-4x-Menus-Menu-Item-Contact-Category-contact-mail-options-parameters-en.png"
 decoding="async" data-file-width="600" data-file-height="291"
 width="600" height="291"
-alt="Help-4x-Menus-Menu-Item-Contact-Category-contact-mail-options-parameters-en.png" />
+alt="Menus Menu Item Contact Category contact mail options parameters" />
 
 - **Show Contact Form**. Display the contact's *contact form*.
 
@@ -318,4 +318,4 @@ above. The functions are:
 src="https://docs.joomla.org/images/5/56/Help-4x-Components-Contacts-Contacts-list-en.png"
 decoding="async" data-file-width="800" data-file-height="329"
 width="800" height="329"
-alt="Help-4x-Components-Contacts-Contacts-list-en.png" />
+alt="Components Contacts Contacts list" />

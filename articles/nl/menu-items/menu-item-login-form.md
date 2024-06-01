@@ -15,7 +15,7 @@ Om een nieuw *Inlogformulier'* menu-item aan te maken:
   - Klik op de Menu-itemtype selectie knop. <img
     src="https://docs.joomla.org/images/8/8f/Help-4x-Menu-Item-Type-Select-Button-nl.png"
     decoding="async" data-file-width="124" data-file-height="43" width="124"
-    height="43" alt="Help-4x-Menu-Item-Type-Select-Button-nl.png" />
+    height="43" alt="Menu Item Type Select Button" />
   - Selecteer in de modale dialoog het 'Gebruikers' item om een lijst te
     openen en selecteer daarna het **Inlogformulier** item.
 
@@ -30,7 +30,7 @@ src="https://docs.joomla.org/images/thumb/5/57/Help-4x-Menus-Menu-Item-User-Logi
 decoding="async"
 srcset="https://docs.joomla.org/images/5/57/Help-4x-Menus-Menu-Item-User-Login-nl.png 1.5x"
 data-file-width="953" data-file-height="886" width="800" height="744"
-alt="Help-4x-Menus-Menu-Item-User-Login-nl.png" />
+alt="Menus Menu Item User Login" />
 
 ## Formulier velden
 
@@ -113,7 +113,7 @@ src="https://docs.joomla.org/images/thumb/0/03/Help-4x-Menus-Menu-Item-User-Logi
 decoding="async"
 srcset="https://docs.joomla.org/images/0/03/Help-4x-Menus-Menu-Item-User-Login-basic-options-screenshot-nl.png 1.5x"
 data-file-width="973" data-file-height="496" width="800" height="408"
-alt="Help-4x-Menus-Menu-Item-User-Login-basic-options-screenshot-nl.png" />
+alt="Menus Menu Item User Login basic options screenshot" />
 
 - **Kies type doorverwijzen inloggen:** 'Interne URL' laat u handmatig
   een interne URL ingeven in het inlogverwijzing veld. 'Menu-item' laat
@@ -184,7 +184,7 @@ Gebruikerslogin die getoond wordtː
 src="https://docs.joomla.org/images/e/e5/Help-4x-Menus-Menu-User-Login-front-end-screenshot-nl.png"
 decoding="async" data-file-width="338" data-file-height="234"
 width="338" height="234"
-alt="Help-4x-Menus-Menu-User-Login-front-end-screenshot-nl.png" />
+alt="Menus Menu User Login front end screenshot" />
 
 ## Snelle tips
 

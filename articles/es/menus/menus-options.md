@@ -16,7 +16,7 @@ such as, Title, CSS Class and Permissions.
 src="https://docs.joomla.org/images/b/bc/Help-4x-Menus-Menu-Manager-Options-screen-en.png"
 decoding="async" data-file-width="800" data-file-height="335"
 width="800" height="335"
-alt="Help-4x-Menus-Menu-Manager-Options-screen-en.png" />
+alt="Menus Menu Manager Options screen" />
 
 ## Form Fields
 
@@ -37,7 +37,7 @@ alt="Help-4x-Menus-Menu-Manager-Options-screen-en.png" />
 src="https://docs.joomla.org/images/3/3b/Help-4x-Menu-Options-screen-permissions-tab-en.png"
 decoding="async" data-file-width="600" data-file-height="653"
 width="600" height="653"
-alt="Help-4x-Menu-Options-screen-permissions-tab-en.png" />
+alt="Menu Options screen permissions tab" />
 
 To change the permissions for this extension, do the following.
 

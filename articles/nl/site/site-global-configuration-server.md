@@ -43,7 +43,7 @@ src="https://docs.joomla.org/images/thumb/6/6b/Help-4x-Global-Configuration-serv
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/6/6b/Help-4x-Global-Configuration-server-mail-subscreen-nl.png/1200px-Help-4x-Global-Configuration-server-mail-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/6/6b/Help-4x-Global-Configuration-server-mail-subscreen-nl.png/1600px-Help-4x-Global-Configuration-server-mail-subscreen-nl.png 2x"
 data-file-width="1882" data-file-height="1079" width="800" height="459"
-alt="Afbeelding: E-mail" />
+alt="Afbeelding: E mail" />
 
  **←**  [Algemene
 instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#server "Help4.x:Site Global Configuration/nl")

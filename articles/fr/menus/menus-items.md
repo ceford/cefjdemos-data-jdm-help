@@ -20,7 +20,7 @@ that list is selected.
 src="https://docs.joomla.org/images/c/cd/Help-4x-menus-menu-manager-menu-items-en.png"
 decoding="async" data-file-width="800" data-file-height="737"
 width="800" height="737"
-alt="Help-4x-menus-menu-manager-menu-items-en.png" />
+alt="menus menu manager menu items" />
 
 ## Column Headers
 
@@ -119,7 +119,7 @@ items being viewed to activate the drop down field area.
 src="https://docs.joomla.org/images/f/ff/Help-4x-colheader-batch-process-view-link-en.png"
 decoding="async" data-file-width="600" data-file-height="363"
 width="600" height="363"
-alt="Help-4x-colheader-batch-process-view-link-en.png" />
+alt="colheader batch process view link" />
 
 ***\<Item Type\>** refers to the page name of items.*
 

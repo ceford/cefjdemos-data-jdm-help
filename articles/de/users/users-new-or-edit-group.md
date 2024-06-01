@@ -22,7 +22,7 @@ erlaubt.
 src="https://docs.joomla.org/images/3/33/Help-4x-users-user-manager-add-new-user-group-en.png"
 decoding="async" data-file-width="600" data-file-height="281"
 width="800" height="375"
-alt="Help-4x-users-user-manager-add-new-user-group-en.png" />
+alt="users user manager add new user group" />
 
 ## User Group Details
 

@@ -18,7 +18,7 @@ src="https://docs.joomla.org/images/thumb/d/de/Help-4x-users-user-manager-user-g
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/d/de/Help-4x-users-user-manager-user-groups-de.png/1200px-Help-4x-users-user-manager-user-groups-de.png 1.5x, https://docs.joomla.org/images/d/de/Help-4x-users-user-manager-user-groups-de.png 2x"
 data-file-width="1228" data-file-height="855" width="800" height="557"
-alt="Help-4x-users-user-manager-user-groups-de.png" />
+alt="users user manager user groups" />
 
 ## Spalten-Überschriften
 

@@ -18,7 +18,7 @@ src="https://docs.joomla.org/images/thumb/7/7e/Help-4x-Components-Checkin-Option
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/7/7e/Help-4x-Components-Checkin-Options-screen-nl.png/1200px-Help-4x-Components-Checkin-Options-screen-nl.png 1.5x, https://docs.joomla.org/images/7/7e/Help-4x-Components-Checkin-Options-screen-nl.png 2x"
 data-file-width="1249" data-file-height="889" width="800" height="569"
-alt="Help-4x-Components-Checkin-Options-screen-nl.png" />
+alt="Components Checkin Options screen" />
 
 ## Rechten
 

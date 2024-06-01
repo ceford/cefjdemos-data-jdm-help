@@ -25,7 +25,7 @@ src="https://docs.joomla.org/images/thumb/e/ed/Help-4x-Content-Article-Manager-O
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/ed/Help-4x-Content-Article-Manager-Options-screen-ru.png/1200px-Help-4x-Content-Article-Manager-Options-screen-ru.png 1.5x, https://docs.joomla.org/images/thumb/e/ed/Help-4x-Content-Article-Manager-Options-screen-ru.png/1600px-Help-4x-Content-Article-Manager-Options-screen-ru.png 2x"
 data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Help-4x-Content-Article-Manager-Options-screen-ru.png" />
+alt="Content Article Manager Options screen" />
 
 ## Form Fields
 
@@ -128,7 +128,7 @@ src="https://docs.joomla.org/images/thumb/8/8b/Help-4x-Content-Article-Manager-O
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/8b/Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-ru.png/900px-Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/8/8b/Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-ru.png/1200px-Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-ru.png 2x"
 data-file-width="1979" data-file-height="1505" width="600" height="456"
-alt="Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-ru.png" />
+alt="Content Article Manager Options editing layout subscreen" />
 
 - **Включить CAPTCHA**. Select the captcha plugin
   that will be used in the article submit form. If 'Use Global' is
@@ -191,7 +191,7 @@ src="https://docs.joomla.org/images/thumb/b/b4/Help-4x-Content-Article-Manager-O
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/b4/Help-4x-Content-Article-Manager-Options-category-subscreen-ru.png/900px-Help-4x-Content-Article-Manager-Options-category-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/b/b4/Help-4x-Content-Article-Manager-Options-category-subscreen-ru.png/1200px-Help-4x-Content-Article-Manager-Options-category-subscreen-ru.png 2x"
 data-file-width="1979" data-file-height="1503" width="600" height="456"
-alt="Help-4x-Content-Article-Manager-Options-category-subscreen-ru.png" />
+alt="Content Article Manager Options category subscreen" />
 
 - **Макет**. Select the default layout to show when you click on a
   Category link.
@@ -220,7 +220,7 @@ src="https://docs.joomla.org/images/thumb/2/28/Help-4x-Content-Article-Manager-O
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/2/28/Help-4x-Content-Article-Manager-Options-categories-subscreen-ru.png/900px-Help-4x-Content-Article-Manager-Options-categories-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/2/28/Help-4x-Content-Article-Manager-Options-categories-subscreen-ru.png/1200px-Help-4x-Content-Article-Manager-Options-categories-subscreen-ru.png 2x"
 data-file-width="1981" data-file-height="1315" width="600" height="398"
-alt="Help-4x-Content-Article-Manager-Options-categories-subscreen-ru.png" />
+alt="Content Article Manager Options categories subscreen" />
 
 - **Описание категории высшего уровня**. Show the description for the
   top-level category.
@@ -244,7 +244,7 @@ src="https://docs.joomla.org/images/thumb/c/cd/Help-4x-Content-Article-Manager-O
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/cd/Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-ru.png/900px-Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/c/cd/Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-ru.png/1200px-Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-ru.png 2x"
 data-file-width="1979" data-file-height="1502" width="600" height="455"
-alt="Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-ru.png" />
+alt="Content Article Manager Options blog featured layout subscreen" />
 
 - **Во всю ширину**. Number of Articles to show using the full width of
   the main display area. "0" means that no Articles will show when using
@@ -305,7 +305,7 @@ src="https://docs.joomla.org/images/thumb/e/ed/Help-4x-Content-Article-Manager-O
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/ed/Help-4x-Content-Article-Manager-Options-list-layout-subscreen-ru.png/900px-Help-4x-Content-Article-Manager-Options-list-layout-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/e/ed/Help-4x-Content-Article-Manager-Options-list-layout-subscreen-ru.png/1200px-Help-4x-Content-Article-Manager-Options-list-layout-subscreen-ru.png 2x"
 data-file-width="1980" data-file-height="1502" width="600" height="455"
-alt="Help-4x-Content-Article-Manager-Options-list-layout-subscreen-ru.png" />
+alt="Content Article Manager Options list layout subscreen" />
 
 - **Поле выбора количества элементов на странице**. Show the Display \#
   control that allows the user to select the number of articles to show.
@@ -342,7 +342,7 @@ src="https://docs.joomla.org/images/thumb/d/dd/Help-4x-Content-Article-Manager-O
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/d/dd/Help-4x-Content-Article-Manager-Options-shared-subscreen-ru.png/900px-Help-4x-Content-Article-Manager-Options-shared-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/d/dd/Help-4x-Content-Article-Manager-Options-shared-subscreen-ru.png/1200px-Help-4x-Content-Article-Manager-Options-shared-subscreen-ru.png 2x"
 data-file-width="1980" data-file-height="1465" width="600" height="444"
-alt="Help-4x-Content-Article-Manager-Options-shared-subscreen-ru.png" />
+alt="Content Article Manager Options shared subscreen" />
 
 - **Порядок категорий**.
   - Не упорядочивать: Articles are ordered only by the Article Order,
@@ -407,7 +407,7 @@ src="https://docs.joomla.org/images/thumb/4/42/Help-4x-Content-Article-Manager-O
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/4/42/Help-4x-Content-Article-Manager-Options-integration-subscreen-ru.png/900px-Help-4x-Content-Article-Manager-Options-integration-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/4/42/Help-4x-Content-Article-Manager-Options-integration-subscreen-ru.png/1200px-Help-4x-Content-Article-Manager-Options-integration-subscreen-ru.png 2x"
 data-file-width="1980" data-file-height="1502" width="600" height="455"
-alt="Help-4x-Content-Article-Manager-Options-integration-subscreen-ru.png" />
+alt="Content Article Manager Options integration subscreen" />
 
 **Лента новостей**
 
@@ -440,7 +440,7 @@ src="https://docs.joomla.org/images/thumb/d/db/Help-4x-Content-Article-Manager-O
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/d/db/Help-4x-Content-Article-Manager-Options-permissions-subscreen-ru.png/900px-Help-4x-Content-Article-Manager-Options-permissions-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/d/db/Help-4x-Content-Article-Manager-Options-permissions-subscreen-ru.png/1200px-Help-4x-Content-Article-Manager-Options-permissions-subscreen-ru.png 2x"
 data-file-width="1980" data-file-height="1502" width="600" height="455"
-alt="Help-4x-Content-Article-Manager-Options-permissions-subscreen-ru.png" />
+alt="Content Article Manager Options permissions subscreen" />
 
 To change the permissions for articles and categories, do the following.
 

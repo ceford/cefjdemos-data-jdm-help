@@ -19,7 +19,7 @@ src="https://docs.joomla.org/images/thumb/0/01/Help4x-Extensions-Extension-Manag
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/0/01/Help4x-Extensions-Extension-Manager-Warnings-screen-nl.png/1200px-Help4x-Extensions-Extension-Manager-Warnings-screen-nl.png 1.5x, https://docs.joomla.org/images/0/01/Help4x-Extensions-Extension-Manager-Warnings-screen-nl.png 2x"
 data-file-width="1203" data-file-height="244" width="800" height="162"
-alt="Help4x-Extensions-Extension-Manager-Warnings-screen-nl.png" />
+alt="Help4x Extensions Extension Manager Warnings screen nl.png" />
 
 ## Werkbalk
 

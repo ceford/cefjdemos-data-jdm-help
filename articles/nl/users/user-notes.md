@@ -24,7 +24,7 @@ src="https://docs.joomla.org/images/thumb/2/2b/Help-4x-users-user-notes-nl.png/8
 decoding="async"
 srcset="https://docs.joomla.org/images/2/2b/Help-4x-users-user-notes-nl.png 1.5x"
 data-file-width="1124" data-file-height="438" width="800" height="312"
-alt="Help-4x-users-user-notes-nl.png" />
+alt="users user notes" />
 
 ## Kolomkoppen
 

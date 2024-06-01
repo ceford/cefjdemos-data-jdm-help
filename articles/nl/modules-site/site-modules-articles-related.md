@@ -30,7 +30,7 @@ src="https://docs.joomla.org/images/thumb/e/e5/Help-4x-modules-site-module-manag
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/e5/Help-4x-modules-site-module-manager-module-articles-related-articles-nl.png/1200px-Help-4x-modules-site-module-manager-module-articles-related-articles-nl.png 1.5x, https://docs.joomla.org/images/e/e5/Help-4x-modules-site-module-manager-module-articles-related-articles-nl.png 2x"
 data-file-width="1261" data-file-height="922" width="800" height="585"
-alt="Help-4x-modules-site-module-manager-module-articles-related-articles-nl.png" />
+alt="modules site module manager module articles related articles" />
 
 ### Formulier velden
 
@@ -103,7 +103,7 @@ src="https://docs.joomla.org/images/thumb/c/cc/Help-4x-modules-manager-site-modu
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/c/cc/Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png/1200px-Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png 1.5x, https://docs.joomla.org/images/c/cc/Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png 2x"
 data-file-width="1267" data-file-height="725" width="800" height="458"
-alt="Help-4x-modules-manager-site-module-menu-assignment-tab-nl.png" />
+alt="modules manager site module menu assignment tab" />
 
 - **Moduletoewijzing.** Selecteer **Op alle pagina's**, **Geen
   pagina's**, **Alleen op de geselecteerde pagina's** of **Op alle
@@ -124,7 +124,7 @@ src="https://docs.joomla.org/images/thumb/2/2a/Help-4x-modules-manager-admin-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/2/2a/Help-4x-modules-manager-admin-module-site-advanced-options-nl.png 1.5x"
 data-file-width="1003" data-file-height="532" width="800" height="424"
-alt="Help-4x-modules-manager-admin-module-site-advanced-options-nl.png" />
+alt="modules manager admin module site advanced options" />
 
 - **Weergave.** Als u één of meer alternatieve lay-outs voor een module
   heeft gedefinieerd of in het template of in Joomla! core, dan kunt u
@@ -165,7 +165,7 @@ src="https://docs.joomla.org/images/thumb/4/4f/Help-4x-modules-manager-admin-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/4/4f/Help-4x-modules-manager-admin-module-administrator-permissions-nl.png 1.5x"
 data-file-width="977" data-file-height="665" width="800" height="545"
-alt="Help-4x-modules-manager-admin-module-administrator-permissions-nl.png" />
+alt="modules manager admin module administrator permissions" />
 
 Doe, om de rechten te veranderen, het volgende.
 

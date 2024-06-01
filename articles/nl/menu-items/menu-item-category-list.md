@@ -27,7 +27,7 @@ src="https://docs.joomla.org/images/thumb/e/e4/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/e/e4/Help-4x-Menus-Item-Articles-Category-List-screen-nl.png/1200px-Help-4x-Menus-Item-Articles-Category-List-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/e/e4/Help-4x-Menus-Item-Articles-Category-List-screen-nl.png/1600px-Help-4x-Menus-Item-Articles-Category-List-screen-nl.png 2x"
 data-file-width="2880" data-file-height="1405" width="800" height="390"
-alt="Help-4x-Menus-Item-Articles-Category-List-screen-nl.png" />
+alt="Menus Item Articles Category List screen" />
 
 ## Formulier velden
 
@@ -72,7 +72,7 @@ src="https://docs.joomla.org/images/thumb/a/a0/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/a/a0/Help-4x-Menus-Item-Articles-Category-List-category-subscreen-nl.png/900px-Help-4x-Menus-Item-Articles-Category-List-category-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/a/a0/Help-4x-Menus-Item-Articles-Category-List-category-subscreen-nl.png/1200px-Help-4x-Menus-Item-Articles-Category-List-category-subscreen-nl.png 2x"
 data-file-width="2878" data-file-height="1338" width="600" height="279"
-alt="Help-4x-Menus-Item-Articles-Category-List-category-subscreen-nl.png" />
+alt="Menus Item Articles Category List category subscreen" />
 
 - **Categorietitel**. Toon de titel van de categorie.
 - **Beschrijving van categorie**. Toon de beschrijving van de categorie.
@@ -99,7 +99,7 @@ src="https://docs.joomla.org/images/thumb/b/b5/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/b5/Help-4x-Menus-Item-Articles-Category-List-list-layouts-subscreen-nl.png/900px-Help-4x-Menus-Item-Articles-Category-List-list-layouts-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/b/b5/Help-4x-Menus-Item-Articles-Category-List-list-layouts-subscreen-nl.png/1200px-Help-4x-Menus-Item-Articles-Category-List-list-layouts-subscreen-nl.png 2x"
 data-file-width="2878" data-file-height="1328" width="600" height="277"
-alt="Help-4x-Menus-Item-Articles-Category-List-list-layouts-subscreen-nl.png" />
+alt="Menus Item Articles Category List list layouts subscreen" />
 
 - **Weergave selectielijst**. Of het Toon \# control getoond of
   verborgen moet worden, welke de gebruiker de mogelijkheid geeft het
@@ -195,7 +195,7 @@ src="https://docs.joomla.org/images/thumb/f/fa/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/fa/Help-4x-Menus-Item-Articles-Category-List-options-subscreen-nl.png/900px-Help-4x-Menus-Item-Articles-Category-List-options-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/f/fa/Help-4x-Menus-Item-Articles-Category-List-options-subscreen-nl.png/1200px-Help-4x-Menus-Item-Articles-Category-List-options-subscreen-nl.png 2x"
 data-file-width="2878" data-file-height="1344" width="600" height="280"
-alt="Help-4x-Menus-Item-Articles-Category-List-options-subscreen-nl.png" />
+alt="Menus Item Articles Category List options subscreen" />
 
 **Weergave**
 
@@ -276,7 +276,7 @@ src="https://docs.joomla.org/images/thumb/f/fb/Help-4x-Menus-Item-Articles-Categ
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/f/fb/Help-4x-Menus-Item-Articles-Category-List-integration-subscreen-nl.png/900px-Help-4x-Menus-Item-Articles-Category-List-integration-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/f/fb/Help-4x-Menus-Item-Articles-Category-List-integration-subscreen-nl.png/1200px-Help-4x-Menus-Item-Articles-Category-List-integration-subscreen-nl.png 2x"
 data-file-width="2878" data-file-height="710" width="600" height="148"
-alt="Help-4x-Menus-Item-Articles-Category-List-integration-subscreen-nl.png" />
+alt="Menus Item Articles Category List integration subscreen" />
 
 - **RSS feed link**. Als deze ingesteld staat op Toon zal de Feedlink
   verschijnen als een feedicoon in de adresbalk bij de meeste browsers.

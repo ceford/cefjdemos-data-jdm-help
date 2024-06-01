@@ -28,7 +28,7 @@ src="https://docs.joomla.org/images/thumb/5/5e/Help-4x-Modules-screen-nl.png/800
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/5e/Help-4x-Modules-screen-nl.png/1200px-Help-4x-Modules-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/5/5e/Help-4x-Modules-screen-nl.png/1600px-Help-4x-Modules-screen-nl.png 2x"
 data-file-width="2880" data-file-height="1450" width="800" height="403"
-alt="Help-4x-Modules-screen-nl.png" />
+alt="Modules screen" />
 
 ## Kolomkoppen
 
@@ -162,7 +162,7 @@ src="https://docs.joomla.org/images/thumb/3/33/Help-4x-Modules-batch-subscreen-n
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/3/33/Help-4x-Modules-batch-subscreen-nl.png/900px-Help-4x-Modules-batch-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/3/33/Help-4x-Modules-batch-subscreen-nl.png/1200px-Help-4x-Modules-batch-subscreen-nl.png 2x"
 data-file-width="1598" data-file-height="649" width="600" height="244"
-alt="Help-4x-Modules-batch-subscreen-nl.png" />
+alt="Modules batch subscreen" />
 
 **How to Batch Process** a group of modules:
 

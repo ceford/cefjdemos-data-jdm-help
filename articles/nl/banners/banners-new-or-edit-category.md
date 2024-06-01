@@ -25,7 +25,7 @@ src="https://docs.joomla.org/images/thumb/6/60/Help-4x-Components-Banners-Catego
 decoding="async"
 srcset="https://docs.joomla.org/images/6/60/Help-4x-Components-Banners-Categories-Edit-screen-nl.png 1.5x"
 data-file-width="1197" data-file-height="1058" width="800" height="707"
-alt="Help-4x-Components-Banners-Categories-Edit-screen-nl.png" />
+alt="Components Banners Categories Edit screen" />
 
 ## Gegevens
 
@@ -99,7 +99,7 @@ src="https://docs.joomla.org/images/thumb/5/52/Help-4x-Banners-Categories-Edit-s
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/5/52/Help-4x-Banners-Categories-Edit-screen-publish-options-tab-nl.png/900px-Help-4x-Banners-Categories-Edit-screen-publish-options-tab-nl.png 1.5x, https://docs.joomla.org/images/5/52/Help-4x-Banners-Categories-Edit-screen-publish-options-tab-nl.png 2x"
 data-file-width="1100" data-file-height="514" width="600" height="280"
-alt="Help-4x-Banners-Categories-Edit-screen-publish-options-tab-nl.png" />
+alt="Banners Categories Edit screen publish options tab" />
 
 nl De uitgegrijsde velden zijn alleen bedoeld ter informatie en kunnen
 niet worden bewerkt.
@@ -184,7 +184,7 @@ src="https://docs.joomla.org/images/thumb/8/82/Help-4x-Banners-Categories-Edit-s
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/8/82/Help-4x-Banners-Categories-Edit-screen-permissions-tab-nl.png/900px-Help-4x-Banners-Categories-Edit-screen-permissions-tab-nl.png 1.5x, https://docs.joomla.org/images/8/82/Help-4x-Banners-Categories-Edit-screen-permissions-tab-nl.png 2x"
 data-file-width="1017" data-file-height="654" width="600" height="386"
-alt="Help-4x-Banners-Categories-Edit-screen-permissions-tab-nl.png" />
+alt="Banners Categories Edit screen permissions tab" />
 
 Om de rechten van deze extensie te wijzigen moet u de volgende
 handelingen uitvoeren.

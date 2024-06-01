@@ -15,7 +15,7 @@ src="https://docs.joomla.org/images/thumb/b/bb/Help-4x-Components-Banners-Tracks
 decoding="async"
 srcset="https://docs.joomla.org/images/thumb/b/bb/Help-4x-Components-Banners-Tracks-screen-nl.png/1200px-Help-4x-Components-Banners-Tracks-screen-nl.png 1.5x, https://docs.joomla.org/images/b/bb/Help-4x-Components-Banners-Tracks-screen-nl.png 2x"
 data-file-width="1272" data-file-height="700" width="800" height="440"
-alt="Help-4x-Components-Banners-Tracks-screen-nl.png" />
+alt="Components Banners Tracks screen" />
 
 ## Kolomkoppen
 
@@ -65,7 +65,7 @@ keuzelijst toont de gedefinieerde types.
 src="https://docs.joomla.org/images/e/ef/Help30-colheader-select-track-type-nl.png"
 decoding="async" data-file-width="226" data-file-height="109"
 width="226" height="109"
-alt="Help30-colheader-select-track-type-nl.png" />
+alt="Help30 colheader select track type nl.png" />
 
 ***- Selecteer type -:*** Toont items die aan welk type dan ook
 gekoppeld zijn.

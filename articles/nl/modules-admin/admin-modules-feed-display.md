@@ -25,7 +25,7 @@ src="https://docs.joomla.org/images/thumb/8/8c/Help-4x-modules-administrator-mod
 decoding="async"
 srcset="https://docs.joomla.org/images/8/8c/Help-4x-modules-administrator-module-manager-module-feed-display-nl.png 1.5x"
 data-file-width="1097" data-file-height="870" width="800" height="634"
-alt="Help-4x-modules-administrator-module-manager-module-feed-display-nl.png" />
+alt="modules administrator module manager module feed display" />
 
 ## Formulier velden
 
@@ -90,7 +90,7 @@ alt="Help-4x-modules-administrator-module-manager-module-feed-display-nl.png" />
 src="https://docs.joomla.org/images/2/2a/Help-4x-modules-manager-admin-module-site-advanced-options-nl.png"
 decoding="async" data-file-width="1003" data-file-height="532"
 width="1003" height="532"
-alt="Help-4x-modules-manager-admin-module-site-advanced-options-nl.png" />
+alt="modules manager admin module site advanced options" />
 
 - **Weergave.** Als u één of meer alternatieve lay-outs voor een module
   heeft gedefinieerd of in het template of in Joomla! core, dan kunt u
@@ -130,7 +130,7 @@ alt="Help-4x-modules-manager-admin-module-site-advanced-options-nl.png" />
 src="https://docs.joomla.org/images/4/4f/Help-4x-modules-manager-admin-module-administrator-permissions-nl.png"
 decoding="async" data-file-width="977" data-file-height="665"
 width="977" height="665"
-alt="Help-4x-modules-manager-admin-module-administrator-permissions-nl.png" />
+alt="modules manager admin module administrator permissions" />
 
 Doe, om de rechten te veranderen, het volgende.
 
@@ -178,4 +178,4 @@ Een voorbeeld van een nieuwsfeed wordt hieronder getoond:
 src="https://docs.joomla.org/images/f/fc/Help-4x-Extensions-Module-Manager-News-Feed-example-output-en.png"
 decoding="async" data-file-width="550" data-file-height="497"
 width="550" height="497"
-alt="Help-4x-Extensions-Module-Manager-News-Feed-example-output-en.png" />
+alt="Extensions Module Manager News Feed example output" />
