@@ -10,6 +10,10 @@ for the site as a whole or for individual users.
 Most parameters have suitable defaults but you might wish to set a
 specific Category or provide article-specific Metadata.
 
+## Tutorials
+
+[Adding an Image to an Article](jdocmanual?manual=user&heading=articles&filename=adding-an-image-to-an-article.md "")
+
 ## How to Access
 
 * Select **Content → Articles** from the Administrator menu. Or...
@@ -35,7 +39,7 @@ alt="articles edit form content tab" />
   this blank and Joomla will fill in a default value Title in lower case
   and with dashes instead of spaces.
 
-### Content
+### Content tab
 
 #### Left Panel
 
@@ -79,7 +83,7 @@ Contact, Field, Media, Menu, or Module.
 - **Version Note**. Optional field to identify the version of this
   article in the article's Version History.
 
-### Images and Links
+### Images and Links tab
 
 **Note:** This tab can be hidden in Article: Options by a user with Admin permissions.
 It lets you display images and links in your articles using
@@ -107,7 +111,6 @@ alt="articles edit form images and links tab" />
   checkbox has no effect.
 - **Image Class**. You can add any CSS class for your own styling ideas.
   For image position use for example float-start and float-end.
-
 - **Caption**. Create a caption for this image.
 
 #### Full Article Image
@@ -125,7 +128,6 @@ alt="articles edit form images and links tab" />
   checkbox has no effect.
 - **Image Class**. You can add any CSS class for your own styling ideas.
   For image position use for example float-start and float-end.
-
 - **Caption**. Enter an optional caption for this image.
 
 #### Link A
@@ -146,7 +148,7 @@ alt="articles edit form images and links tab" />
 
 **Link B**, **Link C**: Same options as Link A.
 
-### Options
+### Options tab
 
 **Note**: This tab can be hidden by a user with Admin permissions in the
 Article: Options. It is a set of options you can use to control how this
@@ -222,7 +224,7 @@ alt="articles edit form options tab" />
   when the article is viewed with a non-article menu item. If blank, the
   article's title is used instead.
 
-### Fields
+### Fields tab
 
 This section shows the custom fields which are defined for this article.
 
@@ -233,7 +235,7 @@ srcset="https://docs.joomla.org/images/thumb/b/b4/Help-4x-Content-Article-Manage
 data-file-width="2876" data-file-height="660" width="600" height="138"
 alt="articles edit form fields tab" />
 
-### Publishing
+### Publishing tab
 
 **Note**: This can be hidden by a user with Admin permissions in the
 Article: Options.
@@ -287,7 +289,7 @@ alt="articles edit form publishing tab" />
 - **Content Rights**. Describe what rights others have to use this
   content.
 
-### Associations
+### Associations tab
 
 **Note**: This can be hidden by a user with Admin permissions in the
 Article: Options.
@@ -301,7 +303,7 @@ srcset="https://docs.joomla.org/images/thumb/0/03/Help-4x-screenshot-article-edi
 data-file-width="2880" data-file-height="1085" width="600" height="226"
 alt="articles edit form associations tab" />
 
-### Configure Edit Screen
+### Configure Edit Screen tab
 
 **Note**: This can be hidden by a user with Admin permissions in the
 Article: Options.
@@ -326,7 +328,7 @@ alt="articles edit form configute edit screen tab" />
 - **Frontend Images and Links**. If Yes, the Images and Links tab will
   show in the Frontend article editor screen.
 
-### Permissions
+### Permissions tab
 
 **Note**: This can be hidden by a user with Admin permissions in the
 Article: Options.
@@ -405,3 +407,4 @@ Screenshot above.
   Front Page until the User selects the Read more link. At that time,
   the Article's table of contents would display showing links to every
   page.
+
