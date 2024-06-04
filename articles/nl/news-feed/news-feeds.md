@@ -5,15 +5,13 @@
 Het Nieuwsfeed beheer scherm geeft u de mogelijkheid nieuwsfeeds van
 andere sites aan uw Joomla! site toe te voegen. U kunt links aan deze
 feeds voor gebruikers toevoegen door nieuwsfeed layouts toe te voegen in
-[Menu-item beheer -
-Nieuw/bewerk](https://docs.joomla.org/Help4.x:News_Feeds:_Edit/nl "Help4.x:News Feeds: Edit/nl").
+
 
 ## Hoe toegang te krijgen
 
 - Selecteer **Componenten → Nieuwsfeeds → Feeds** vanuit het
   beheermenu.
-- Of selecteer de **Feeds** link vanuit de [Newsfeed beheer -
-  Categorieën](https://docs.joomla.org/Help4.x:News_Feeds:_Categories/nl "Help4.x:News Feeds: Categories/nl").
+- Of selecteer de **Feeds** link vanuit de
 
 ## Schermafbeelding
 
@@ -60,7 +58,7 @@ Klik op de kolomkop om de lijst volgens deze kolom te sorteren.
 - **Titel**. De naam van de titel van het feed. Maak het zo beschrijvend
   mogelijk.
 - **Toegang**. Het
-  [Toegangsniveau](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/nl "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/nl")
+  Toegangsniveau
   om het item te bekijken.
 - **\# Artikelen** Het aantal artikelen dat wordt opgenomen in de feed.
 - **Cachetijd.** Het aantal seconden waarvoor de cache van het item
@@ -94,8 +92,7 @@ bovenstaande Screenshot.
     aflopend volgorde.
 - **Te tonen aantal.** Toont het aantal items in een lijst. Selecteer
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#defaultlistlimit "Help4.x:Site Global Configuration/nl").
+  voor een site is '20' maar dit kan veranderd worden bij de
 
 **Filteropties**
 
@@ -170,12 +167,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   u het eerste nieuwsfeed toevoegt. Categorieën worden toegevoegd door
   op 'Nieuwsfeeds' te klikken en daarbinnen op 'Categorieën' in het
   'Componenten' menu.
-
-## Verwante informatie
-
-- Om nieuwsfeed opties in te stellen: [Niewsfeed
-  opties](https://docs.joomla.org/Help4.x:News_Feed:_Options/nl "Help4.x:News Feed: Options/nl")
-- Om nieuwsfeeds aan te maken of te bewerken: [Nieuwsfeeds beheer -
-  Nieuw/Bewerken](https://docs.joomla.org/Help4.x:News_Feeds:_Edit/nl "Help4.x:News Feeds: Edit/nl")
-- Om met nieuwsfeed categorieën te werken: [Categoriebeheer
-  (Nieuwsfeeds)](https://docs.joomla.org/Help4.x:News_Feeds:_Categories/nl "Help4.x:News Feeds: Categories/nl")

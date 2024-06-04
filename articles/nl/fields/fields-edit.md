@@ -42,8 +42,8 @@ Parameters voor alle extra velden:
 
 - **Type**. Als u een veld aanmaakt kunt u één van de 16 veldtypes
   kiezen. Als het veld opgeslagen wordt staat het type vast. U kunt het
-  later niet veranderen. [Meer
-  leren.](https://docs.joomla.org/J3.x:Adding_custom_fields/Calendar_Field/nl "J3.x:Adding custom fields/Calendar Field/nl")
+  later niet veranderen. Meer
+  leren.
 - **Naam**. De naam die gebruikt wordt om het veld te definiëren. Indien
   deze leeg wordt gelaten zal Joomla deze met een standaardwaarde vanuit
   de titel vullen.
@@ -70,26 +70,26 @@ Parameters voor alle extra velden:
     het bewerken van een artikel of een contactpersoon.
   - Gearchiveerd: Het veld zal niet meer getoond worden bij het bewerken
     van een artikel of contactpersoon. U kunt het openen bij
-    [veldbeheer](https://docs.joomla.org/Help4.x:Fields/nl#selectstatus "Help4.x:Fields/nl")
+    veldbeheer
     als u het filter op 'Gearchiveerd' zet.
   - Verplaatst naar prullenbak: Het veld is verwijderd maar nog in de
     database. Het kan definitief verwijderd worden uit de database via
     de 'Prullenbak legen' functie bij
-    [veldbeheer](https://docs.joomla.org/Help4.x:Fields/nl#selectstatus "Help4.x:Fields/nl").
-    [Meer
-    leren.](https://docs.joomla.org/J4.x:Deleting_an_Article/nl "J4.x:Deleting an Article/nl")
+    veldbeheer.
+    Meer
+    leren.
 - **Veldgroepen**. U kunt een extra veld koppelen aan één of meer
   veldgroepen.
 - **Categorie**. U kunt een speciaal veld koppelen aan één of meer
   categorieën. Bedenk dat de standaard 'Alle' niet de 'uncategorized'
   artikelen omvat.
 - **Toegang**. Selecteer het weergave toegangsniveau van dit veld. De
-  toegangsniveaus hangen af van wat ingesteld is bij [Gebruikers:
-  Toegangsniveaus](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/nl "Help4.x:Users: Viewing Access Levels/nl")
+  toegangsniveaus hangen af van wat ingesteld is bij Gebruikers:
+  Toegangsniveaus
   .
 - **Taal**. Selecteer de taal voor dit extra veld. Wanneer u de
-  [meertalige
-  functie](https://docs.joomla.org/Help4.x:Extensions:_Languages/nl "Help4.x:Extensions: Languages/nl")
+  meertalige
+  functie
   in Joomla niet gebruikt, laat dan de standaard ingevulde 'Alle'
   ongewijzigd.
 - **Notitie**. Een optioneel veld om persoonlijke notities voor het veld
@@ -194,8 +194,8 @@ alt="Fields Edit publishing subscreen" />
 
 ### Rechten
 
-Hier kunt u rechten invoeren voor dit veld. [Meer
-leren.](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/nl#hierarchylevels "J3.x:Access Control List Tutorial/nl")
+Hier kunt u rechten invoeren voor dit veld. Meer
+leren.
 
 <img
 src="https://docs.joomla.org/images/thumb/f/fc/Help-4x-Fields-Edit-permissions-subscreen-nl.png/600px-Help-4x-Fields-Edit-permissions-subscreen-nl.png"
@@ -218,8 +218,8 @@ uitvoeren.
       waarde bewerken.
 3.  Selecteer de gewenste rechten voor de actie die u wilt wijzigen.
     - **Overgenomen**. Neemt de rechten over voor deze groep zoals deze
-      zijn ingesteld in de [Algemene
-      instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#permissions "Help4.x:Site Global Configuration/nl"),
+      zijn ingesteld in de Algemene
+      instellingen,
       hoofdgroep en categorie.
     - **Toegestaan**. Toegestaan voor gebruikers in deze groep.Let op:
       Als deze actie 'Geweigerd' is op een van de hogere niveaus, dan
@@ -233,7 +233,7 @@ uitvoeren.
 ## Werkbalk
 
 Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#screenshot) hierboven.
+afbeelding hierboven.
 
 - **Opslaan**. Slaat veld op en blijft op het huidige scherm.
 - **Opslaan & sluiten**. Slaat veld op en sluit het huidige scherm.
@@ -250,17 +250,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 Klik, als u wilt weten hoe u extra velden kunt gebruiken op [Het beheren
 van extra
 velden](https://docs.joomla.org/J3.x:Adding_custom_fields/nl "J3.x:Adding custom fields/nl")
-
-## Verwante informatie
-
-- Dit
-  [portaal](https://docs.joomla.org/Portal:Joomla_4/nl "Portal:Joomla 4/nl")
-  brengt informatie specifiek gerelateerd aan Joomla 4 samen.
-
-|                                                                                                                |                                                                                                                                                                                 |
-|----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Verwante helpschermen                                                                                          | Beschrijving                                                                                                                                                                    |
-| [Velden](https://docs.joomla.org/Help4.x:Fields/nl "Help4.x:Fields/nl")                                        | Velden worden gebruikt om extra attributen van artikelen, contactpersonen of gebruikers te tonen. De gegevens worden ingevoerd in een beheerformulier en getoond op de website. |
-| <span class="mw-selflink selflink">Velden: Bewerken</span>                                                     | Dit is waar velden in artikelen, contactpersonen en gebruikers kunnen worden toegevoegd en bewerkt.                                                                             |
-| [Veldgroepen](https://docs.joomla.org/Help4.x:Field_Groups/nl "Help4.x:Field Groups/nl")                       | Het veldgroep scherm wordt gebruikt om een lijst met veldgroepen te tonen, ze toe te voegen en te bewerken.                                                                     |
-| [Veldgroepen: Bewerken](https://docs.joomla.org/Help4.x:Field_Groups:_Edit/nl "Help4.x:Field Groups: Edit/nl") | Veldgroepen worden gebruikt om gerelateerde velden te verzamelen onder een apart tabblad op een invoerformulier                                                                 |

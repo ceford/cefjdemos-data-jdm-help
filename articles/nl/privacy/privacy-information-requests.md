@@ -8,13 +8,13 @@ maken.
 
 **Handleidingen**
 
-- [Privacy overzicht - Inhoud en
-  workflow](https://docs.joomla.org/Help4.x:Components_Privacy_Outline/nl "Help4.x:Components Privacy Outline/nl")
-- [De privacy
-  hulpmiddelen](https://docs.joomla.org/J3.x:Privacy/nl "J3.x:Privacy/nl")
+- Privacy overzicht - Inhoud en
+  workflow
+- De privacy
+  hulpmiddelen
   (gedetailleerde handleiding uit Joomla 3)
-- [Informatie verzoek
-  workflow](https://docs.joomla.org/J3.x:Information_Request_Workflow_in_Privacy_Component/nl "J3.x:Information Request Workflow in Privacy Component/nl")
+- Informatie verzoek
+  workflow
   (gedetailleerde handleiding uit Joomla 3)
 
 ## Hoe toegang te krijgen
@@ -82,8 +82,7 @@ bovenstaande Screenshot.
     aflopend volgorde.
 - **Te tonen aantal.** Toont het aantal items in een lijst. Selecteer
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#defaultlistlimit "Help4.x:Site Global Configuration/nl").
+  voor een site is '20' maar dit kan veranderd worden bij de
 - **Selecteer status**. Selecteer de gewenste status (*Ongeldig*, *In
   behandelingg*, *Bevestigd* of *Voltooid*) om de lijst te beperken op
   basis van de status van het verzoek.

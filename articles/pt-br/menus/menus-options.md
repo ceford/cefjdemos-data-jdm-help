@@ -87,18 +87,3 @@ de tela](#Captura_de_tela) acima. As funções são:
 ## Dicas rápidas
 
 - Lembre-se, essas opções são aplicadas globalmente.
-
-## Informações relacionadas
-
-- Para adicionar novos menus: <a
-  href="https://docs.joomla.org/index.php?title=Help4.x:Menus:_Edit/pt-br&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Help4.x:Menus: Edit/pt-br (page does not exist)">Gerenciador dos
-  menus: Novo/Editar</a>
-- Para adicionar ou editar itens dos menus: [Gerenciador para itens dos
-  menus](https://docs.joomla.org/Help4.x:Menus:_Items/pt-br "Help4.x:Menus: Items/pt-br")
-- Para adicionar ou editar módulos para menus: <a
-  href="https://docs.joomla.org/index.php?title=Help4.x:Extensions_Module_Manager_Edit/pt-br&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Help4.x:Extensions Module Manager Edit/pt-br (page does not exist)">Gerenciador
-  para módulos</a>

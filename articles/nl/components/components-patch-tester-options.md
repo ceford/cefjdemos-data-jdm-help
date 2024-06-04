@@ -109,16 +109,3 @@ De functies zijn.
 - **Sluiten**. Sluit het huidige scherm en keert terug naar het vorige
   scherm zonder wijzigingen die u misschien heeft gedaan op te slaan.
 - **Help**. Opent dit helpscherm.
-
-## Snelle tips
-
-## Verwante informatie
-
-- [Component Patchtester for
-  Testers](https://docs.joomla.org/Component_Patchtester_for_Testers "Component Patchtester for Testers")
-- [Testing Joomla
-  Patches](https://docs.joomla.org/Testing_Joomla!_patches "Testing Joomla! patches")
-- <a
-  href="https://www.pizza-bugs-fun.com/en/guides?view=article&amp;id=41&amp;catid=2"
-  class="external text" target="_blank"
-  rel="nofollow noreferrer noopener">Manual Patch Tester</a>

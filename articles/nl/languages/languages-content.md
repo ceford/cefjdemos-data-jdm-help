@@ -4,8 +4,7 @@
 
 Stel de moedertaal, taalcode, SEF-voorvoegsel en afbeeldingsvoorvoegsel
 van geïnstalleerde of te installeren talen in. Deze worden gebruikt als
-u uw site instelt als meertalig. zie de [Taalwissel
-handleiding](https://docs.joomla.org/J3.x:Setup_a_Multilingual_Site/nl "J3.x:Setup a Multilingual Site/nl").
+u uw site instelt als meertalig. zie de
 
 ## Hoe toegang te krijgen
 
@@ -51,7 +50,7 @@ Klik op de kolomkop om de lijst volgens deze kolom te sorteren.
   en.gif zijn. Afbeeldingen en CSS voor deze module staan in
   media/mod_languages/
 - **Toegang**. Het
-  [Toegangsniveau](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/nl "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/nl")
+  Toegangsniveau
   om het item te bekijken.
 - **Startpagina.** Of er een standaardpagina voor deze taal is ingesteld
   of niet.
@@ -81,8 +80,7 @@ bovenstaande Screenshot.
     aflopend volgorde.
 - **Te tonen aantal.** Toont het aantal items in een lijst. Selecteer
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#defaultlistlimit "Help4.x:Site Global Configuration/nl").
+  voor een site is '20' maar dit kan veranderd worden bij de
 
 **Filteropties**
 
@@ -127,8 +125,7 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   "Verplaatst naar prullenbak" in het Selecteer status filter, selecteer
   de items die definitief verwijderd moeten worden en klik daarna op het
   'Prullenbak leegmaken' werkbalk icoon.
-- **Installeer talen.** Linkt naar het [Installeer talen
-  scherm](https://docs.joomla.org/Help4.x:Extensions_Extension_Manager_Languages/nl "Help4.x:Extensions Extension Manager Languages/nl").
+- **Installeer talen.** Linkt naar het
 - **Opties.** Opent het venster Opties, waar instellingen zoals de
   standaard parameters kunnen worden bewerkt.
 - **Help**. Opent dit helpscherm.
@@ -137,9 +134,9 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 
 - Gebruikers kunnen iedere taal gebruiken uit de lijst met
   geïnstalleerde talen, of door het te koppelen in
-  [Gebruikersbeheer](https://docs.joomla.org/Help4.x:Users/nl "Help4.x:Users/nl")
-  of door [Menu-item Beheer - Nieuw/Bewerken -
-  gebruikersformulier](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#User_Form_Layout "Help4.x:Menu Item: New Item/nl")
+  Gebruikersbeheer
+  of door Menu-item Beheer - Nieuw/Bewerken -
+  gebruikersformulier
   op de website in te vullen. Dit zal het Joomla systeem afdwingen voor
   deze gebruiker in deze taal te verschijnen. Als een gebruiker
   bijvoorbeeld voor Spaans kiest als zijn of haar taal, dan verschijnt
@@ -158,15 +155,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   beheergedeelte in een andere taal. Individuele artikelen kunnen ook
   gebruikt worden in een andere taal via het geavanceerde instellingen
   scherm bij het bewerken van het artikel.
-
-## Verwante informatie
-
-- Om meer talen te installeren: [Installeer talen
-  scherm](https://docs.joomla.org/Help4.x:Extensions_Extension_Manager_Languages/nl "Help4.x:Extensions Extension Manager Languages/nl")
-- Om talen te deïnstalleren: [Extensiebeheer -
-  Beheer](https://docs.joomla.org/Help4.x:Extensions:_Manage/nl "Help4.x:Extensions: Manage/nl")
-- Om de taal van een gebruiker te wijzigen: [Gebruikers -
-  Nieuw/Bewerken](https://docs.joomla.org/Help4.x:Users:_Edit_Profile/nl "Help4.x:Users: Edit Profile/nl")
-- Om de taal van een artikel in te stellen: [Artikelen - Nieuw/Bewerken-
-  Parameters -
-  Geavanceerd](https://docs.joomla.org/Help4.x:Articles:_Edit/nl#Parameters_-_Advanced "Help4.x:Articles: Edit/nl")

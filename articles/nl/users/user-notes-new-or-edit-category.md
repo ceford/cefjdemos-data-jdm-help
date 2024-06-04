@@ -174,16 +174,3 @@ De functies zijn.
   geeft het de mogelijkheid tot het naast elkaar bewerken van een andere
   taal.
 - **Help**. Opent dit helpscherm.
-
-## Verwante informatie
-
-- [Gebruikersnotities:
-  Nieuw/Bewerken](https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit/nl "Help4.x:User Notes: New or Edit/nl")
-- [Gebruikersnotities:
-  Gebruikersnotities](https://docs.joomla.org/Help4.x:User_Notes/nl "Help4.x:User Notes/nl")
-- [Gebruikersnotities:
-  Categorieën](https://docs.joomla.org/Help4.x:User_Notes:_Categories/nl "Help4.x:User Notes: Categories/nl")
-- Voor het werken met bestaande categorieën: [Artikelen:
-  Categorieën](https://docs.joomla.org/Help4.x:Articles:_Categories/nl "Help4.x:Articles: Categories/nl")
-- Om met artikelen te werken:
-  [Artikelbeheer](https://docs.joomla.org/Help4.x:Articles/nl "Help4.x:Articles/nl")

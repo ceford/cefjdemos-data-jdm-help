@@ -86,31 +86,18 @@ da tela](#screenshot) acima.
   nome para a nova pasta. A nova pasta é criada na pasta atualmente
   selecionada.
 - **Excluir**. Exclui as imagens selecionadas.
-- **Opções**. Abre as [opções para
-  mídia](https://docs.joomla.org/Help4.x:Media:_Options/pt-br "Help4.x:Media: Options/pt-br").
+- **Opções**. Abre as
 - **Ajuda**. Abre esta tela de ajuda.
 
 ## Dicas rápidas
 
 - Se você deseja manter imagens e documentos em pastas locais separadas:
   1.  crie uma pasta na raiz do seu site, digamos **files** por exemplo
-  2.  vá para o plugin [Sistema de arquivos -
-      Local](https://docs.joomla.org/J4.x:Media:_Options/pt-br "J4.x:Media: Options/pt-br")
+  2.  vá para o plugin Sistema de arquivos -
+      Local
       e adicione **files** em **Selecionar diretórios**.
   3.  De volta ao componente para mídia, você verá *images* e *files*
       como itens separados no painel local.
 - O tamanho máximo da mídia para envio pode ser alterado para um valor
-  diferente de "10 MB" nas [opções para
-  mídia](https://docs.joomla.org/Help4.x:Media:_Options/pt-br "Help4.x:Media: Options/pt-br").
+  diferente de "10 MB" nas
 - Você pode enviar ou excluir vários arquivos ao mesmo tempo.
-
-## Informações relacionadas
-
-- Tutorial: [Gerenciando
-  mídia](https://docs.joomla.org/J4.x:Managing_Media/pt-br "J4.x:Managing Media/pt-br").
-- [Painel
-  inicial](https://docs.joomla.org/Help4.x:Home_Dashboard/pt-br "Help4.x:Home Dashboard/pt-br"):
-  Acesso a muitas funções padrões do Joomla!.
-- Este
-  [portal](https://docs.joomla.org/Portal:Joomla_4/pt-br "Portal:Joomla 4/pt-br")
-  reúne informações relacionadas especificamente ao Joomla! 4.

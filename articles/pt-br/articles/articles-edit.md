@@ -37,7 +37,7 @@ title="File:Help-4x-content-article-manager-add-new-article-pt-br.png">800px</a>
 - **Alias**. O nome interno deste artigo. Normalmente, você pode deixar
   isso em branco e o Joomla! preencherá com um valor padrão em letras
   minúsculas, e com hífens em vez de espaços, fundamentado no título.
-  [Aprender mais.](https://docs.joomla.org/Alias/pt-br "Alias/pt-br")
+  Aprender mais.
 
 ### Conteúdo
 
@@ -53,13 +53,12 @@ class="new"
 title="File:Help-4x-Article-Editor-buttons-pt-br.png">600px</a>
 
 A lista suspensa do conteúdo no S.G.C. (CMS) fornece acesso aos links
-para artigos, contatos, campos, mídia, menus ou módulos. [Aprender
-mais.](https://docs.joomla.org/Help4.x:Editors/pt-br#cmscontent "Help4.x:Editors/pt-br")
+para artigos, contatos, campos, mídia, menus ou módulos. Aprender
+mais.
 
 - **Alternar editor**. O botão "Alternar editor" é mostrado abaixo da
   janela para edição. Este botão permite alternar entre o TinyMCE e
-  [nenhum
-  editor](https://docs.joomla.org/Help4.x:Editors/pt-br#none "Help4.x:Editors/pt-br").
+
 
 **Painel direito**
 
@@ -80,16 +79,14 @@ mais.](https://docs.joomla.org/Help4.x:Editors/pt-br#cmscontent "Help4.x:Editors
     title="Help4.x:Menu Item: Category List/pt-br (page does not exist)">listas
     para categoria(s)</a>.
   - Lixeira: O artigo é excluído do site, mas ainda fica no banco de
-    dados. [Aprender
-    mais](https://docs.joomla.org/J4.x:Deleting_an_Article/pt-br "J4.x:Deleting an Article/pt-br").
+    dados.
 - **Categoria**. Seleciona a categoria para este artigo.
 - **Destacado**. Selecione "Sim" se o artigo deve ser mostrado no [item
   dos menus para
   destacados](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/pt-br "Help4.x:Menu Item: Featured Articles/pt-br").
 - **Acesso**. Seleciona o nível do acesso para visualização para este
   artigo. Os níveis dos acessos dependem do que foi configurado em
-  [Usuários: Níveis dos
-  acessos](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/pt-br "Help4.x:Users: Viewing Access Levels/pt-br").
+
 - **Linguagem**. Seleciona a linguagem para este artigo. Mantenha o
   padrão "Todas" se você não estiver usando o <a
   href="https://docs.joomla.org/index.php?title=Help4.x:Extensions:_Languages/pt-br&amp;action=edit&amp;redlink=1"
@@ -106,14 +103,12 @@ mais.](https://docs.joomla.org/Help4.x:Editors/pt-br#cmscontent "Help4.x:Editors
   para documentar informações sobre este artigo) e não aparece no site
   (frontend).
 - **Nota da versão**. Campo opcional para identificar a versão deste
-  artigo no [histórico de
-  versões](https://docs.joomla.org/Help4.x:Components_Version_History/pt-br "Help4.x:Components Version History/pt-br").
+  artigo no
 
 ### Imagens e links
 
 **Nota**: Isso pode ser ocultado por um usuário com permissões
-administrativas em [Artigo:
-Opções](https://docs.joomla.org/Help4.x:Articles:_Options/pt-br "Help4.x:Articles: Options/pt-br").
+administrativas em
 Esta seção permite mostrar imagens e links em seus artigos usando
 disposições padronizadas.
 
@@ -127,8 +122,7 @@ title="File:Help-4x-screenshot-article-edit-images-links-pt-br.png">600px</a>
 - **Imagem da introdução**. Acione o (clique no) botão "Selecionar" para
   selecionar uma imagem que será mostrada em um local fixo no texto da
   introdução deste artigo. Isso abrirá uma janela que permite selecionar
-  uma imagem da sua pasta de imagens. [Aprender
-  mais](https://docs.joomla.org/Adding_an_image_to_an_article/pt-br "Adding an image to an article/pt-br").
+  uma imagem da sua pasta de imagens.
 - **Descrição da imagem (texto alternativo)**. Defina o atributo alt
   para esta imagem. Algumas palavras descritivas para os leitores de
   tela.
@@ -149,8 +143,7 @@ title="File:Help-4x-screenshot-article-edit-images-links-pt-br.png">600px</a>
 - **Imagem do artigo completo**. Acione o (clique no) botão "Selecionar"
   para selecionar uma imagem que será mostrada em um local fixo no texto
   completo deste artigo. Isso abrirá uma janela que permite selecionar
-  uma imagem da sua pasta de imagens. [Aprender
-  mais](https://docs.joomla.org/Adding_an_image_to_an_article/pt-br "Adding an image to an article/pt-br").
+  uma imagem da sua pasta de imagens.
 - **Descrição da imagem (texto alternativo)**. Define o atributo alt
   para esta imagem. Algumas palavras descritivas para os leitores de
   tela.
@@ -188,8 +181,7 @@ title="File:Help-4x-screenshot-article-edit-images-links-pt-br.png">600px</a>
 ### Opções
 
 **Nota**: Isso pode ser ocultado por um usuário com permissões
-administrativas em [Artigo:
-Opções](https://docs.joomla.org/Help4.x:Articles:_Options/pt-br "Help4.x:Articles: Options/pt-br").
+administrativas em
 Este é um conjunto de opções que você pode usar para controlar como este
 artigo será mostrado no site (frontend).
 
@@ -241,8 +233,7 @@ title="File:Help-4x-screenshot-article-edit-article-options-pt-br.png">600px</a>
 **Associações**
 
 - **Associações**. Mostra as bandeiras ou os códigos das linguagens
-  associadas. [Apenas
-  multilíngue](https://docs.joomla.org/Help4.x:Multilingual_Associations/pt-br "Help4.x:Multilingual Associations/pt-br").
+  associadas.
 
 **Autor**
 
@@ -296,10 +287,9 @@ title="File:Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-pt-br.
 ### Publicado
 
 **Nota**: Isso pode ser ocultado por um usuário com permissões
-administrativas no [Artigo:
-Opções](https://docs.joomla.org/Help4.x:Articles:_Options/pt-br "Help4.x:Articles: Options/pt-br").
+administrativas no
 Esta seção permite que você insira parâmetros e
-[Metadados](https://docs.joomla.org/Using_The_Meta_Description/pt-br "Using The Meta Description/pt-br")
+Metadados
 para este artigo.
 
 <a
@@ -341,15 +331,13 @@ title="File:Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-pt
 **Metadados**
 
 - **Meta descrição**. Um parágrafo para ser usado como a descrição da
-  página. [Aprender
-  mais](https://docs.joomla.org/Using_The_Meta_Description/pt-br "Using The Meta Description/pt-br").
+  página.
 - **Palavras-chaves**. Entrada para palavras-chaves. <a
   href="https://docs.joomla.org/index.php?title=Using_Keywords/pt-br&amp;action=edit&amp;redlink=1"
   class="new" title="Using Keywords/pt-br (page does not exist)">Aprender
   mais</a>.
 - **Robôs**. As instruções para os "robôs' da web que navegam nesta
-  página. Defina "Usar global" nas [configurações
-  globais](https://docs.joomla.org/Help4.x:Site_Global_Configuration/pt-br#robots "Help4.x:Site Global Configuration/pt-br").
+  página. Defina "Usar global" nas
 - **Autor**. Entrada para um nome de autor nos metadados.
 - **Direitos do conteúdo**. Descreve quais direitos os outros têm para
   usar este conteúdo.
@@ -357,10 +345,8 @@ title="File:Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-pt
 ### Associações
 
 **Nota**: Isso pode ser ocultado por um usuário com permissões
-administrativas em [Artigo:
-Opções](https://docs.joomla.org/Help4.x:Articles:_Options/pt-br "Help4.x:Articles: Options/pt-br").
-A aba (guia) é mostrada apenas em [sites
-multilíngues](https://docs.joomla.org/Help4.x:Multilingual_Associations/pt-br "Help4.x:Multilingual Associations/pt-br").
+administrativas em
+A aba (guia) é mostrada apenas em
 
 <a
 href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-screenshot-article-edit-associations-pt-br.png"
@@ -370,8 +356,7 @@ title="File:Help-4x-screenshot-article-edit-associations-pt-br.png">600px</a>
 ### Configurar a tela para edição
 
 **Nota**: Isso pode ser ocultado por um usuário com permissões
-administrativas em [Artigo:
-Opções](https://docs.joomla.org/Help4.x:Articles:_Options/pt-br "Help4.x:Articles: Options/pt-br").
+administrativas em
 
 <a
 href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-screenshot-article-edit-configure-edit-screen-pt-br.png"
@@ -405,10 +390,8 @@ title="File:Help-4x-screenshot-article-edit-configure-edit-screen-pt-br.png">600
 ### Permissões
 
 **Nota**: Isso pode ser ocultado por um usuário com permissões
-administrativas em [Artigo:
-Opções](https://docs.joomla.org/Help4.x:Articles:_Options/pt-br "Help4.x:Articles: Options/pt-br").
-É aqui que você pode inserir as permissões para este artigo. [Aprender
-mais](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/pt-br#hierarchylevels "J3.x:Access Control List Tutorial/pt-br").
+administrativas em
+É aqui que você pode inserir as permissões para este artigo.
 
 <a
 href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-screenshot-article-edit-permissions-pt-br.png"
@@ -426,12 +409,11 @@ Para alterar as permissões deste artigo, faça o seguinte.
       as informações relacionadas a este artigo.
 3.  Selecione a permissão desejada para a ação que deseja alterar.
     - **Herdado**. Herdado para usuários neste grupo a partir das
-      [configurações
-      globais](https://docs.joomla.org/Help4.x:Site_Global_Configuration/pt-br#permissions "Help4.x:Site Global Configuration/pt-br"),
-      [Opções de
-      artigos](https://docs.joomla.org/Help4.x:Articles:_Options/pt-br#permissions "Help4.x:Articles: Options/pt-br"),
-      ou da [categoria para
-      artigos](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/pt-br#permissions "Help4.x:Articles: Edit Category/pt-br").
+      configurações
+      globais,
+      Opções de
+      artigos,
+      ou da
     - **Permitido**. Permitido para os usuários neste grupo.Nota: Se
       esta ação for negada em um dos níveis mais altos, a permissão
       permitida aqui não terá efeito. Uma configuração negada não pode
@@ -459,18 +441,16 @@ de tela](#screenshot) acima.
 - **Versões**. Abre a janela "Histórico das versõe do artigo" para
   mostrar as versões anteriores deste artigo. Isso permite que você
   visualize as versões mais antigas deste artigo e, se desejar, restaure
-  a partir de uma das versões mais antigas. [Aprender
-  mais](https://docs.joomla.org/Help4.x:Components_Version_History/pt-br "Help4.x:Components Version History/pt-br").
+  a partir de uma das versões mais antigas.
 - **Prévia**. Abre uma caixa de diálogo modal mostrando uma visualização
-  deste artigo no site. Requer [sessões
-  compartilhadas](https://docs.joomla.org/Help4.x:Site_Global_Configuration/pt-br#sharedsessions "Help4.x:Site Global Configuration/pt-br")
+  deste artigo no site. Requer sessões
+  compartilhadas
   ou uma sessão iniciada no site (front-end).
 - **Verificação de acessibilidade**. Abre uma janela que mostra os
   resultados da verificação de acessibilidade do artigo.
 - **Associações**. Com uma linguagem específica definida para um artigo,
   permite a edição lado a lado em outra linguagem. Este ícone é mostrado
-  apenas em [sites
-  multilíngues](https://docs.joomla.org/Help4.x:Multilingual_Associations/pt-br "Help4.x:Multilingual Associations/pt-br").
+  apenas em
 - **Alternar ajuda incorporada**. Mostra o texto de ajuda em baixo de
   algumas opções.
 - **Ajuda**. Abre esta tela de ajuda.
@@ -479,20 +459,20 @@ de tela](#screenshot) acima.
 
 - Existem 2 métodos para inserir uma imagem no artigo usando o editor
   TinyMCE.
-  1.  A lista suspensa do [conteúdo do
-      S.G.C.](https://docs.joomla.org/Help4.x:Editors/pt-br#cmscontent "Help4.x:Editors/pt-br")
-      fornece acesso à [tela de
-      mídia](https://docs.joomla.org/Help4.x:Media/pt-br "Help4.x:Media/pt-br")
+  1.  A lista suspensa do conteúdo do
+      S.G.C.
+      fornece acesso à tela de
+      mídia
       que permite procurar arquivos de imagens e fazer o envio
       (carregamento, upload) das mesmas.
   2.  A lista suspensa "Inserir" é um formulário simples para o qual
       você precisa saber o URL da imagem. É usado para imagens externas.
-- As quebras "[Ler
-  mais](https://docs.joomla.org/Help4.x:Editors/pt-br#readmore "Help4.x:Editors/pt-br")"
+- As quebras "Ler
+  mais"
   permitem que você economize espaço na página inicial ou em qualquer
   página com disposição para blogs mostrando apenas a primeira parte de
-  um artigo. A [quebras de
-  páginas](https://docs.joomla.org/Help4.x:Editors/pt-br#pagebreak "Help4.x:Editors/pt-br")
+  um artigo. A quebras de
+  páginas
   permitem que você forneça navegação em várias páginas para artigos
   longos. Você pode usar ambos em um artigo, se desejar.Por exemplo,
   você pode colocar uma quebra "Ler mais" após o primeiro parágrafo de
@@ -500,44 +480,3 @@ de tela](#screenshot) acima.
   Nenhuma navegação de página seria mostrada na página inicial até que o
   usuário selecionasse o link "Ler mais". Naquela época, o sumário do
   artigo mostrava links para todas as páginas.
-
-## Informações relacionadas
-
-- Este
-  [portal](https://docs.joomla.org/Portal:Joomla_4/pt-br "Portal:Joomla 4/pt-br")
-  reúne informações relacionadas especificamente ao Joomla! 4.
-
-|                                                                                                                                              |                                                                                                                                                                                                                |
-|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Telas de ajuda relacionadas                                                                                                                  | Descrição                                                                                                                                                                                                      |
-| [Artigos: Opções](https://docs.joomla.org/Help4.x:Articles:_Options/pt-br "Help4.x:Articles: Options/pt-br")                                 | Usado para definir os padrões globais para os itens dos menus que mostram artigos. Esses valores padrões serão usados quando "Usar global" for selecionado para uma opção em um item dos menus para artigos.   |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Articles/pt-br&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Articles/pt-br (page does not exist)">Artigos</a>                                                                              | A lista para artigos é usada para localizar, marcar como destacados, adicionar e editar artigos.                                                                                                               |
-| <span class="mw-selflink selflink">Artigos: Editar</span>                                                                                    | É aqui que você pode adicionar e editar artigos. Você também pode selecionar a categoria de um artigo, indicar se ela está ou não está publicada e se está selecionada para aparecer na página inicial.        |
-| [Artigos: Destacados](https://docs.joomla.org/Help4.x:Articles:_Featured/pt-br "Help4.x:Articles: Featured/pt-br")                           | Usado para controlar quais "artigos destacados" são mostrados na página inicial e em que ordem eles são mostrados.                                                                                             |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Articles:_Categories/pt-br&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Articles: Categories/pt-br (page does not exist)">Artigos:
- Categorias</a>                                                                                                                                | categorias.                                                                                                                                                                                                    |
-| [Menus: Artigos arquivados](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived/pt-br "Help4.x:Menu Item: Article Archived/pt-br")   | Mostra uma lista personalizada de artigos classificados por datas ou títulos. Os artigos arquivados não são mais publicados, mas ainda são armazenados no site.                                                |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_Category_Blog/pt-be&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Menu Item: Category Blog/pt-be (page does not exist)">Menus:
- Blog para categoria</a>                                                                                                                       | Usado para mostrar artigos pertencentes a uma categoria específica em uma disposição para blogs. Controla os principais artigos, os artigos introdutórios e os links adicionais para mais artigos.             |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_Category_List/pt-br&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Menu Item: Category List/pt-br (page does not exist)">Menus:
- Lista para categoria</a>                                                                                                                      | Usado para mostrar artigos pertencentes a uma categoria específica em uma disposição para lista.                                                                                                               |
-| [Menus: Criar artigo](https://docs.joomla.org/Help4.x:Menu_Item:_Create_Article/pt-br "Help4.x:Menu Item: Create Article/pt-br")             | Permite que os usuários enviem um artigo. Normalmente, isso está disponível apenas para usuários que iniciaram suas sessões no site (frontend). Os usuários devem ter permissão para criar artigos.            |
-| [Menus: Artigos destacados](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/pt-br "Help4.x:Menu Item: Featured Articles/pt-br") | Usado para mostrar todos os artigos que foram marcados como destacados. Os artigos são mostrados em uma disposição para blog.                                                                                  |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_List_All_Categories/pt-br&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Menu Item: List All Categories/pt-br (page does not exist)">Menus:
- Listar todas as categorias em uma árvore de categorias para artigos</a>                                                                       | Usado para mostrar uma lista hierárquica de categorias. Dependendo das opções selecionadas para esta disposição, você pode acionar (clicar em) um título de categoria para mostrar os artigos dessa categoria. |
-| [Menus: Artigo único](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article/pt-br "Help4.x:Menu Item: Single Article/pt-br")             | Usado para mostrar um artigo.                                                                                                                                                                                  |

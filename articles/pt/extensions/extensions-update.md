@@ -130,20 +130,13 @@ has a dark colour background.
 
 ## Informação Relacionada
 
-- **Instalar.** Interliga ao [Ecrã de
-  Instalação](https://docs.joomla.org/Help4.x:Extensions_Extension_Manager_Install "Special:MyLanguage/Help4.x:Extensions Extension Manager Install").
-- **Install.** Links to the [Install
-  Screen](https://docs.joomla.org/Help4.x:Extensions:_Install/en "Help4.x:Extensions: Install/en").
-- **Atualizar.** Interliga ao [Ecrã de
-  Atualização](https://docs.joomla.org/Help4.x:Extensions_Extension_Manager_Update "Special:MyLanguage/Help4.x:Extensions Extension Manager Update").
-- **Manage.** Links to the [Manage
-  Screen](https://docs.joomla.org/Help4.x:Extensions:_Manage/en "Help4.x:Extensions: Manage/en").
-- **Discover.** Links to the [Discover
-  Screen](https://docs.joomla.org/Help4.x:Extensions:_Discover/en "Help4.x:Extensions: Discover/en").
-- **Database.** Links to the [Database
-  Screen](https://docs.joomla.org/Help4.x:Information:_Database/en "Help4.x:Information: Database/en").
-- **Warnings.** Links to the [Warnings
-  Screen](https://docs.joomla.org/Help4.x:Information:_Warnings/en "Help4.x:Information: Warnings/en").
+- **Instalar.** Interliga ao
+- **Install.** Links to the
+- **Atualizar.** Interliga ao
+- **Manage.** Links to the
+- **Discover.** Links to the
+- **Database.** Links to the
+- **Warnings.** Links to the
 - **Install Languages.** Links to the Install Languages Screen.
 - **Update Sites.** Links to the <a
   href="https://docs.joomla.org/index.php?title=Help4.x:Extensions_Extension_Manager_Update_Sites/en&amp;action=edit&amp;redlink=1"

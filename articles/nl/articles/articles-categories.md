@@ -64,11 +64,11 @@ alt="Content Categories screen" />
   en categorieën in de prullenbak in iedere categorie. Klik op een
   nummer om een lijst met categorieën te krijgen.
 - **Toegang**. Het
-  [Toegangsniveau](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/nl "Help4.x:Users: Viewing Access Levels/nl")
+  Toegangsniveau
   om het categorie te bekijken.
 - **Associaties**. Toont de geassocieerde categorieën. Klik op de
-  taalcode om de categorie te openen. [Alleen
-  meertaligheid.](https://docs.joomla.org/Help4.x:Multilingual_Associations/nl "Help4.x:Multilingual Associations/nl")
+  taalcode om de categorie te openen. Alleen
+  meertaligheid.
 - **Taal**. Categorie taal, standaard is 'Alles'.
 - **ID**. A unique identification number for this category, you cannot
   change this number.
@@ -94,13 +94,12 @@ bovenstaande Screenshot.
 - **Te tonen aantal**. Toont het aantal categorieën in een lijst.
   Selecteer uit de uitklaplijst om het te tonen aantal te veranderen.De
   standaard voor een site is '20' maar dit kan veranderd worden bij de
-  [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#defaultlistlimit "Help4.x:Site Global Configuration/nl").
+
 
 ### Filter opties
 
 Bovenaan de pagina ziet u de filterbalk zoals in de
-[afbeelding](#screenshot) hierboven.
+afbeelding hierboven.
 
 - **Selecteer status**. Selecteer uit Verplaatst naar prullenbak /
   Gedepubliceerd / Gepubliceerd / Gearchiveerd / Alle.
@@ -127,7 +126,7 @@ viewed has a dark colour background.
 ## Werkbalk
 
 Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#screenshot) hierboven.
+afbeelding hierboven.
 
 - **Nieuw**. Opent het bewerk scherm om een nieuwe categorie te maken.
 - **Acties**. Toont een lijst met acties voor geselecteerde categorieën.
@@ -137,18 +136,17 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   - **Depubliceren**. Maakt de geselecteerde categorieën niet
     beschikbaar voor de bezoekers van uw website.
   - **Archiveren**. Verandert de status van één van de geselecteerde
-    categorieën om aan te geven dat ze worden gearchiveerd. [Meer
-    leren.](https://docs.joomla.org/J4.x:How_to_Archive_an_Article/nl "J4.x:How to Archive an Article/nl")
+    categorieën om aan te geven dat ze worden gearchiveerd. Meer
+    leren.
   - **Inchecken**. Checkt de geselecteerde categorieën in.
   - **Prullenbak**. Verandert de status van de selecteerde categorieën
-    om aan te geven dat ze in de prullenbak zitten. [Meer
-    leren.](https://docs.joomla.org/J4.x:Deleting_an_Article/nl "J4.x:Deleting an Article/nl")
+    om aan te geven dat ze in de prullenbak zitten. Meer
+    leren.
   - **Batch**. Batch verwerkt de geselecteerde categorieën.
 - **Opnieuw opbouwen**. Ververst en stelt de categorieën tabel opnieuw
   samen. Normaal hoeft u de tabel niet opnieuw op te bouwen. Deze
   functie voorziet in het geval de data in de tabel corrupt raakt.
-- **Opties**. Opent het venster [Artikelen:
-  Opties](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl").
+- **Opties**. Opent het venster
 - **Help**. Opent dit helpscherm.
 
 ## Batchproces
@@ -198,29 +196,3 @@ alt="Content Categories batch" />
 
 - Klik op het icoon in de Status kolom om te wisselen tussen
   Gepubliceerd en Gedepubliceerd.
-
-## Verwante informatie
-
-- [Artikelen: Bewerk
-  categorie](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/nl "Help4.x:Articles: Edit Category/nl")
-- [Controlepaneel](https://docs.joomla.org/Help4.x:Home_Dashboard/nl "Help4.x:Home Dashboard/nl"):
-  Toegang tot veel standaard Joomla functies.
-- Dit
-  [portaal](https://docs.joomla.org/Portal:Joomla_4/nl "Portal:Joomla 4/nl")
-  brengt informatie specifiek gerelateerd aan Joomla 4 samen.
-
-|                                                                                                                                                                                       |                                                                                                                                                                                                                              |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Verwante helpschermen                                                                                                                                                                 | Beschrijving                                                                                                                                                                                                                 |
-| [Artikelen: Opties](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl")                                                                              | Wordt gebruikt om de algemene standaards voor menu-items die artikelen tonen in te stellen. Deze standaard waarden worden gebruikt als 'Gebruik algemeen' wordt geselecteerd als optie in een artikel menu-item.             |
-| [Artikelen](https://docs.joomla.org/Help4.x:Articles/nl "Help4.x:Articles/nl")                                                                                                        | De artikellijst wordt gebruikt om artikelen te vinden, speciaal te markeren, toe te voegen en te bewerken.                                                                                                                   |
-| [Artikelen: Bewerken](https://docs.joomla.org/Help4.x:Articles:_Edit/nl "Help4.x:Articles: Edit/nl")                                                                                  | Dit is waar je artikelen kunt toevoegen en bewerken. Je kunt ook categorie van een artikel selecteren en aangeven of het al de niet gepubliceerd is en of het op de voorpagina moet staan.                                   |
-| [Artikelen: Speciale artikelen](https://docs.joomla.org/Help4.x:Articles:_Featured/nl "Help4.x:Articles: Featured/nl")                                                                | Wordt gebruikt om te bepalen welke 'Speciale artikelen' getoond worden op de voorpagina en in welke volgorde ze getoond worden.                                                                                              |
-| <span class="mw-selflink selflink">Artikelen: Categorieën</span>                                                                                                                      | Categoriebeheer wordt gebruikt om categorieën te vinden, toe te voegen en te bewerken.                                                                                                                                       |
-| [Menu's: Gearchiveerde artikel](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived/nl "Help4.x:Menu Item: Article Archived/nl")                                              | Het 'Gearchiveerde artikelen' menu-itemtype toont een aangepaste ;ijst met artikelen, gesorteerd op datum of titel. Gearchiveerde artikelen worden niet meer gepubliceerd maar zijn nog steeds op de site opgeslagen.        |
-| [Menu's: Categorieblog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/nl "Help4.x:Menu Item: Category Blog/nl")                                                            | Wordt gebruikt om artikelen in een bepaalde categorie in blog weergave te tonen. Regelt de introductie ofwel het leidende artikel, aanvullende artikelen met intro tekst en extra links naar meer artikelen.                 |
-| [Menu's: Categorielijst](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/nl "Help4.x:Menu Item: Category List/nl")                                                           | Wordt gebruikt om artikelen die tot een bepaalde categorie horen in een lijst weergave.                                                                                                                                      |
-| [Menu's: Maak artikel](https://docs.joomla.org/Help4.x:Menu_Item:_Create_Article/nl "Help4.x:Menu Item: Create Article/nl")                                                           | Geeft gebruikers de mogelijkheid een artikel te verzenden. Dit is normaliter alleen beschikbaar voor gebruikers die ingelogd zijn op de voorkant van de website. Gebruikers moeten rechten hebben om artikelen aan te maken. |
-| [Menu's: Speciale artikelen](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/nl "Help4.x:Menu Item: Featured Articles/nl")                                               | Wordt gebruikt om alle artikelen te tonen die aangemerkt zijn als 'Speciaal'. Artikelen worden getoond in blog weergave.                                                                                                     |
-| [Menu's: Lijst met alle categorieën in een artikel categoriestructuur](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/nl "Help4.x:Menu Item: List All Categories/nl") | Wordt gebruikt om een hiërarchische lijst met categorieën te tonen. Afhankelijk van de geselecteerde opties van deze weergave kunt u klikken op een categorietitel om de artikelen in die categorie te zien.                 |
-| [Menu's: Individueel artikel](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article/nl "Help4.x:Menu Item: Single Article/nl")                                                    | Wordt gebruikt om één artikel te tonen.                                                                                                                                                                                      |

@@ -40,17 +40,17 @@ The screens depends on the selected item so go to:
 
 ### Content
 
-- [Artículos](https://docs.joomla.org/Help4.x:Articles:_Edit/es#content "Help4.x:Articles: Edit/es")
-- [Artículos:
-  Categorías](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/es#content "Help4.x:Articles: Edit Category/es")
-- [Contactos](https://docs.joomla.org/Help4.x:Contacts:_Edit/es#content "Help4.x:Contacts: Edit/es")
-- [Contacts
-  Categories](https://docs.joomla.org/Help4.x:Contacts:_Edit_Category/en#content "Help4.x:Contacts: Edit Category/en")
-- [Menús](https://docs.joomla.org/Help4.x:Menus:_Items/es "Help4.x:Menus: Items/es")
-- [News
-  Feeds](https://docs.joomla.org/Help4.x:News_Feeds:_Edit/en#content "Help4.x:News Feeds: Edit/en")
-- [News Feeds
-  Categories](https://docs.joomla.org/Help4.x:News_Feeds:_Edit_Category/en#content "Help4.x:News Feeds: Edit Category/en")
+- Artículos
+- Artículos:
+  Categorías
+- Contactos
+- Contacts
+  Categories
+- Menús
+- News
+  Feeds
+- News Feeds
+  Categories
 
 ### Images and Links
 
@@ -59,40 +59,40 @@ The screens depends on the selected item so go to:
 ### Options
 
 - Articles
-- [Articles
-  Categories](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/en#options "Help4.x:Articles: Edit Category/en")
-- [Contacts
-  Categories](https://docs.joomla.org/Help4.x:Contacts:_Edit_Category/en#options "Help4.x:Contacts: Edit Category/en")
-- [News
-  Feeds](https://docs.joomla.org/Help4.x:News_Feeds:_Edit/en#options "Help4.x:News Feeds: Edit/en")
-- [News Feeds
-  Categories](https://docs.joomla.org/Help4.x:News_Feeds:_Edit_Category/en#options "Help4.x:News Feeds: Edit Category/en")
+- Articles
+  Categories
+- Contacts
+  Categories
+- News
+  Feeds
+- News Feeds
+  Categories
 
 ### Publishing
 
 - Articles
-- [Articles
-  Categories](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/en#publishing "Help4.x:Articles: Edit Category/en")
-- [Contacts](https://docs.joomla.org/Help4.x:Contacts:_Edit/en#publishing "Help4.x:Contacts: Edit/en")
-- [Contacts
-  Categories](https://docs.joomla.org/Help4.x:Contacts:_Edit_Category/en#publishing "Help4.x:Contacts: Edit Category/en")
-- [News
-  Feeds](https://docs.joomla.org/Help4.x:News_Feeds:_Edit/en#publishing "Help4.x:News Feeds: Edit/en")
-- [News Feeds
-  Categories](https://docs.joomla.org/Help4.x:News_Feeds:_Edit_Category/en#publishing "Help4.x:News Feeds: Edit Category/en")
+- Articles
+  Categories
+- Contacts
+- Contacts
+  Categories
+- News
+  Feeds
+- News Feeds
+  Categories
 
 ### Associations
 
 - Articles
-- [Articles
-  Categories](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/en#associations "Help4.x:Articles: Edit Category/en")
-- [Contacts](https://docs.joomla.org/Help4.x:Contacts:_Edit/en#associations "Help4.x:Contacts: Edit/en")
-- [Contacts
-  Categories](https://docs.joomla.org/Help4.x:Contacts:_Edit_Category/en#associations "Help4.x:Contacts: Edit Category/en")
-- [News
-  Feeds](https://docs.joomla.org/Help4.x:News_Feeds:_Edit/en#associations "Help4.x:News Feeds: Edit/en")
-- [News Feeds
-  Categories](https://docs.joomla.org/Help4.x:News_Feeds:_Edit_Category/en#associations "Help4.x:News Feeds: Edit Category/en")
+- Articles
+  Categories
+- Contacts
+- Contacts
+  Categories
+- News
+  Feeds
+- News Feeds
+  Categories
 
 ### Configure Edit Screen
 
@@ -101,24 +101,24 @@ The screens depends on the selected item so go to:
 ### Permissions
 
 - Articles
-- [Articles
-  Categories](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/en#permissions "Help4.x:Articles: Edit Category/en")
-- [Contacts
-  Categories](https://docs.joomla.org/Help4.x:Contacts:_Edit_Category/en#permissions "Help4.x:Contacts: Edit Category/en")
-- [News Feeds
-  Categories](https://docs.joomla.org/Help4.x:News_Feeds:_Edit_Category/en#permissions "Help4.x:News Feeds: Edit Category/en")
+- Articles
+  Categories
+- Contacts
+  Categories
+- News Feeds
+  Categories
 
 ### Miscellaneous Information
 
-- [Contacts](https://docs.joomla.org/Help4.x:Contacts:_Edit/en#miscellaneousinformation "Help4.x:Contacts: Edit/en")
+- Contacts
 
 ### Display
 
-- [Contacts](https://docs.joomla.org/Help4.x:Contacts:_Edit/en#display "Help4.x:Contacts: Edit/en")
+- Contacts
 
 ### Form
 
-- [Contacts](https://docs.joomla.org/Help4.x:Contacts:_Edit/en#form "Help4.x:Contacts: Edit/en")
+- Contacts
 
 ## Toolbar
 
@@ -133,16 +133,3 @@ Screenshot above.
 - **Close**. Closes the current screen and returns to the previous
   screen without saving any modifications you may have made.
 - **Help**. Opens this help screen.
-
-## Información relacionada
-
-- Este
-  [portal](https://docs.joomla.org/Portal:Joomla_4/es "Portal:Joomla 4/es")
-  reúne información específica relativa a Joomla 4.
-
-|                                                                                                                                                             |                                                                                            |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Pantallas de ayuda relacionadas                                                                                                                             | Descripción                                                                                |
-| [Asociaciones multiidioma: Opciones](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Options/es "Help4.x:Multilingual Associations: Options/es") | Default permissions used for all content in the Multilingual Associations Component.       |
-| [Asociaciones multiidioma](https://docs.joomla.org/Help4.x:Multilingual_Associations/es "Help4.x:Multilingual Associations/es")                             | This screen is used to set up an Association between an item and installed site languages. |
-| <span class="mw-selflink selflink">Asociaciones multiidioma: Editar</span>                                                                                  | Used to add or edit associations between languages displayed on a multilingual website.    |

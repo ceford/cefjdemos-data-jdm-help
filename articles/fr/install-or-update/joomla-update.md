@@ -109,6 +109,6 @@ alt="Help 4x joomla update manager screen customen.png" />
 
 ## Astuces
 
-- Vous pouvez consulter les [Joomla ! Icônes de mise à jour
-  rapide](https://docs.joomla.org/Help4.x:Admin_Modules:_Quick_Icons/en "Help4.x:Admin Modules: Quick Icons/en")
+- Vous pouvez consulter les Joomla ! Icônes de mise à jour
+  rapide
   dans le panneau de configuration backend.

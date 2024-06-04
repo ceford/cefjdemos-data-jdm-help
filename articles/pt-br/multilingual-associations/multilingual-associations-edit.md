@@ -38,9 +38,9 @@ As telas dependem do item selecionado, então acesse:
 
 ### Content
 
-- [Artigos](https://docs.joomla.org/Help4.x:Articles:_Edit/pt-br#content "Help4.x:Articles: Edit/pt-br")
-- [Categorias para
-  artigos](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/pt-br#content "Help4.x:Articles: Edit Category/pt-br")
+- Artigos
+- Categorias para
+  artigos
 - <a
   href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_Edit/pt-br&amp;action=edit&amp;redlink=1"
   class="new"
@@ -50,11 +50,11 @@ As telas dependem do item selecionado, então acesse:
   class="new"
   title="Help4.x:Contacts: Edit Category/pt-br (page does not exist)">Categorias
   para contatos</a>
-- [Menus](https://docs.joomla.org/Help4.x:Menus:_Items/en "Help4.x:Menus: Items/en")
-- [News
-  Feeds](https://docs.joomla.org/Help4.x:News_Feeds:_Edit/en#content "Help4.x:News Feeds: Edit/en")
-- [News Feeds
-  Categories](https://docs.joomla.org/Help4.x:News_Feeds:_Edit_Category/en#content "Help4.x:News Feeds: Edit Category/en")
+- Menus
+- News
+  Feeds
+- News Feeds
+  Categories
 
 ### Images and Links
 
@@ -63,40 +63,40 @@ As telas dependem do item selecionado, então acesse:
 ### Options
 
 - Articles
-- [Articles
-  Categories](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/en#options "Help4.x:Articles: Edit Category/en")
-- [Contacts
-  Categories](https://docs.joomla.org/Help4.x:Contacts:_Edit_Category/en#options "Help4.x:Contacts: Edit Category/en")
-- [News
-  Feeds](https://docs.joomla.org/Help4.x:News_Feeds:_Edit/en#options "Help4.x:News Feeds: Edit/en")
-- [News Feeds
-  Categories](https://docs.joomla.org/Help4.x:News_Feeds:_Edit_Category/en#options "Help4.x:News Feeds: Edit Category/en")
+- Articles
+  Categories
+- Contacts
+  Categories
+- News
+  Feeds
+- News Feeds
+  Categories
 
 ### Publishing
 
 - Articles
-- [Articles
-  Categories](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/en#publishing "Help4.x:Articles: Edit Category/en")
-- [Contacts](https://docs.joomla.org/Help4.x:Contacts:_Edit/en#publishing "Help4.x:Contacts: Edit/en")
-- [Contacts
-  Categories](https://docs.joomla.org/Help4.x:Contacts:_Edit_Category/en#publishing "Help4.x:Contacts: Edit Category/en")
-- [News
-  Feeds](https://docs.joomla.org/Help4.x:News_Feeds:_Edit/en#publishing "Help4.x:News Feeds: Edit/en")
-- [News Feeds
-  Categories](https://docs.joomla.org/Help4.x:News_Feeds:_Edit_Category/en#publishing "Help4.x:News Feeds: Edit Category/en")
+- Articles
+  Categories
+- Contacts
+- Contacts
+  Categories
+- News
+  Feeds
+- News Feeds
+  Categories
 
 ### Associations
 
 - Articles
-- [Articles
-  Categories](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/en#associations "Help4.x:Articles: Edit Category/en")
-- [Contacts](https://docs.joomla.org/Help4.x:Contacts:_Edit/en#associations "Help4.x:Contacts: Edit/en")
-- [Contacts
-  Categories](https://docs.joomla.org/Help4.x:Contacts:_Edit_Category/en#associations "Help4.x:Contacts: Edit Category/en")
-- [News
-  Feeds](https://docs.joomla.org/Help4.x:News_Feeds:_Edit/en#associations "Help4.x:News Feeds: Edit/en")
-- [News Feeds
-  Categories](https://docs.joomla.org/Help4.x:News_Feeds:_Edit_Category/en#associations "Help4.x:News Feeds: Edit Category/en")
+- Articles
+  Categories
+- Contacts
+- Contacts
+  Categories
+- News
+  Feeds
+- News Feeds
+  Categories
 
 ### Configure Edit Screen
 
@@ -105,24 +105,24 @@ As telas dependem do item selecionado, então acesse:
 ### Permissions
 
 - Articles
-- [Articles
-  Categories](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/en#permissions "Help4.x:Articles: Edit Category/en")
-- [Contacts
-  Categories](https://docs.joomla.org/Help4.x:Contacts:_Edit_Category/en#permissions "Help4.x:Contacts: Edit Category/en")
-- [News Feeds
-  Categories](https://docs.joomla.org/Help4.x:News_Feeds:_Edit_Category/en#permissions "Help4.x:News Feeds: Edit Category/en")
+- Articles
+  Categories
+- Contacts
+  Categories
+- News Feeds
+  Categories
 
 ### Miscellaneous Information
 
-- [Contacts](https://docs.joomla.org/Help4.x:Contacts:_Edit/en#miscellaneousinformation "Help4.x:Contacts: Edit/en")
+- Contacts
 
 ### Display
 
-- [Contacts](https://docs.joomla.org/Help4.x:Contacts:_Edit/en#display "Help4.x:Contacts: Edit/en")
+- Contacts
 
 ### Form
 
-- [Contacts](https://docs.joomla.org/Help4.x:Contacts:_Edit/en#form "Help4.x:Contacts: Edit/en")
+- Contacts
 
 ## Toolbar
 

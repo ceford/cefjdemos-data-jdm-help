@@ -74,15 +74,3 @@ Screenshot above. The functions are:
 - Click on the name of an access level to edit it.
 - Click on the Column
 Headers to sort the users by that column, ascending or descending.
-
-## Связанная информация
-
-- [Users: Edit Viewing Access
-Level](https://docs.joomla.org/Help4.x:Users:_Edit_Viewing_Access_Level/en "Help4.x:Users: Edit Viewing Access Level/en")
-- [Users:
-Options](https://docs.joomla.org/Help4.x:Users:_Options/en "Help4.x:Users: Options/en")
-- [Users](https://docs.joomla.org/Help4.x:Users/en "Help4.x:Users/en")
-- [Users:
-Groups](https://docs.joomla.org/Help4.x:Users:_Groups/en "Help4.x:Users: Groups/en")
-- [ACL Tutorial for Joomla!
-3.x](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/en "J3.x:Access Control List Tutorial/en")

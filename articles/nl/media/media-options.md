@@ -90,8 +90,8 @@ To change the permissions for media, do the following.
     - **Edit**. Users can edit media.
 3.  Selecteer de gewenste rechten voor de actie die u wilt wijzigen.
     - **Overgenomen**. Overgenomen van gebruikers in deze groep vanuit
-      de [Algemene
-      instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#permissions "Help4.x:Site Global Configuration/nl")
+      de Algemene
+      instellingen
       rechten.
     - **Toegestaan**. Toegestaan voor gebruikers in deze groep. Let op:
       Als deze actie 'Geweigerd' is op een van de hogere niveaus, dan
@@ -105,7 +105,7 @@ To change the permissions for media, do the following.
 ## Werkbalk
 
 Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#screenshot) hierboven.
+afbeelding hierboven.
 
 - **Opslaan**. Slaat de media opties op en blijft op het huidige scherm.
 - **Opslaan & sluiten**. Slaat de media opties op en sluit het huidige
@@ -122,10 +122,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   opties.
 - Als u een gevorderde gebruiker bent, kunt u tijd besparen door hier
   goede standaard waarden in te stellen.
-
-## Verwante informatie
-
-- Verwante helpschermen:
-  Media.
-- Tutorial: [Managing
-  Media](https://docs.joomla.org/J4.x:Managing_Media/en "J4.x:Managing Media/en").

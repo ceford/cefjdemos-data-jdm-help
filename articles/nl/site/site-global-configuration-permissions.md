@@ -1,7 +1,7 @@
 <!-- Filename: Help4.x:Site_Global_Configuration_Permissions / Display title: Algemene instellingen: Rechten -->
 
- **←**  [Algemene
-instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#permissions "Help4.x:Site Global Configuration/nl")
+ **←**  Algemene
+instellingen
 
 <img
 src="https://docs.joomla.org/images/thumb/1/19/Help-4x-Global-Configuration-sitelogin-subscreen-nl.png/800px-Help-4x-Global-Configuration-sitelogin-subscreen-nl.png"
@@ -17,5 +17,5 @@ srcset="https://docs.joomla.org/images/thumb/3/3b/Help-4x-Global-Configuration-c
 data-file-width="1881" data-file-height="837" width="800" height="356"
 alt="Afbeelding: Maken…" />
 
- **←**  [Algemene
-instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#permissions "Help4.x:Site Global Configuration/nl")
+ **←**  Algemene
+instellingen

@@ -2,5 +2,5 @@
 
 Redirect to:
 
-- [Help4.x:Redirects:
-  Links/nl](https://docs.joomla.org/Help4.x:Redirects:_Links/nl "Help4.x:Redirects: Links/nl")
+- Help4.x:Redirects:
+  Links/nl

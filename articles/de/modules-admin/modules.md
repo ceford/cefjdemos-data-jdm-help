@@ -54,8 +54,8 @@ alt="Modules screen" />
 - **Status**. Status des Moduls. Für Informationen den Mauszeiger über
   das Symbol bewegen.
 - **Titel**. Der Titel des Moduls. Mit Klick auf den Titel öffnen.
-- **Position**. Die Position auf der Seite, die das Modul zeigt. [Mehr
-  erfahren.](https://docs.joomla.org/J4.x:How_to_Show_a_Calendar_Month_List_of_Archived_Articles_Using_a_Module/de "J4.x:How to Show a Calendar Month List of Archived Articles Using a Module/de")
+- **Position**. Die Position auf der Seite, die das Modul zeigt. Mehr
+  erfahren.
 - **Typ**. Der Systemname des Moduls.
 - **Seiten**. Die Menüeinträge, die das Modul zeigen.
   - Auf allen Seiten
@@ -63,7 +63,7 @@ alt="Modules screen" />
   - Nur auf den gewählten Seiten
   - Auf allen, außer den gewählten Seiten
 - **Zugriffsebene**. Die
-  [Zugriffsebene](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/de "Help4.x:Users: Viewing Access Levels/de")
+  Zugriffsebene
   für die Anzeige des Moduls.
 - **Sprache**. Die Sprache des Moduls, Standard ist 'Alle'.
 - **ID**. Einmalig vergebene Identifikations-Nummer des Moduls, die
@@ -74,7 +74,7 @@ alt="Modules screen" />
 **Site- oder Administrator-Filter**. Wählt entweder Site- oder
 Administrator-Module aus.
 
-**Suchleiste**. Das [Bildschirmfoto](#screenshot) zeigt die Suchleiste
+**Suchleiste**. Das Bildschirmfoto zeigt die Suchleiste
 im oberen Bereich.
 
 - **Suche nach Text**. Einen Teil des Suchbegriffs eingeben, auf das
@@ -94,12 +94,12 @@ im oberen Bereich.
 - **Anzuzeigende Anzahl**. Zeigt die Anzahl der Module an. Zur Änderung
   in der Dropdown-Liste die gewünschte Anzahl wählen.Der Standardwert
   für die Site ist '20', er kann in der
-  [Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#defaultlistlimit "Help4.x:Site Global Configuration/de")
+  Konfiguration
   geändert werden.
 
 ### Filter-Optionen
 
-Das [Bildschirmfoto](#screenshot) zeigt die Filterleiste im oberen
+Das Bildschirmfoto zeigt die Filterleiste im oberen
 Bereich.
 
 - **Status wählen**. Auswahl von Papierkorb / Versteckt / Veröffentlicht
@@ -114,7 +114,7 @@ Bereich.
 
 **Seitenkontrolle**. Gibt es mehr Module als auf der Seite gezeigt, wird
 im unteren Bereich die Seitenkontrollleiste wie auf dem
-[Bildschirmfoto](#screenshot) eingeblendet. Die aktuelle Seitenzahl ist
+Bildschirmfoto eingeblendet. Die aktuelle Seitenzahl ist
 mit dunkler Farbe unterlegt.
 
 - **Start**. Anklicken, um die erste Seite anzuzeigen.
@@ -125,7 +125,7 @@ mit dunkler Farbe unterlegt.
 
 ## Werkzeugleiste
 
-Das [Bildschirmfoto](#screenshot) zeigt die Werkzeugleiste im oberen
+Das Bildschirmfoto zeigt die Werkzeugleiste im oberen
 Bereich.
 
 - **Neu**. Erstellen eines neuen Moduls.
@@ -138,16 +138,15 @@ Bereich.
     nicht sichtbar.
   - **Freigeben**. Gibt gewählte Module zur Bearbeitung frei.
   - **Papierkorb**. Ändert den Status gewählter Module auf 'Papierkorb'.
-    [Mehr
-    erfahren.](https://docs.joomla.org/J4.x:Deleting_an_Article/de "J4.x:Deleting an Article/de")
+    Mehr
+    erfahren.
   - **Stapelverarbeitung**. Gewählte Module mit der Stapelverarbeitung
     ändern.
   - **Kopieren**. Erstellt eine Kopie des gewählten Moduls. Die Kopie
     wird sofort mit dem gleichen Namen erstellt, hat aber eine Nummer
     angehängt (zum Beispiel "(2)"), damit sie vom Original oder anderen
     Kopien unterscheidbar ist.
-- **Optionen**. Öffnet [Module:
-  Optionen](https://docs.joomla.org/Help4.x:Modules:_Options/de "Help4.x:Modules: Options/de").
+- **Optionen**. Öffnet
 - **Hilfe**. Öffnet die Hilfeseite.
 
 ## Stapelverarbeitung
@@ -176,28 +175,15 @@ alt="Modules batch subscreen" />
 ## Tipps
 
 - Joomla-Websites benötigen zumindest ein
-  [Menü-Modul](https://docs.joomla.org/Help4.x:Site_Modules:_Menu/de "Help4.x:Site Modules: Menu/de").
+  Menü-Modul.
 - Andere Modultypen (zum Beispiel
-  [Banner](https://docs.joomla.org/Help4.x:Site_Modules:_Banners/de "Help4.x:Site Modules: Banners/de"))
+  Banner
   sind optional.
 - Einige Module sind mit Komponenten verknüpft. Beispielsweise ist jedes
   Menü-Modul mit einem
-  [Menü](https://docs.joomla.org/Help4.x:Menus/de "Help4.x:Menus/de")
+  Menü
   verknüpft.
 - Andere Module (zum Beispiel
-  [Navigationspfad](https://docs.joomla.org/Help4.x:Site_Modules:_Breadcrumbs/de "Help4.x:Site Modules: Breadcrumbs/de"))
+  Navigationspfad
   sind nicht verknüpft.
 - Mehrfaches Vorkommen gleichartiger Modultypen ist zulässig und üblich.
-
-## Verwandte Informationen
-
-- Die Joomla-Installation umfasst über 40 Modultypen. Zusätzliche Module
-  von Drittanbietern können vom
-  <a href="http://extensions.joomla.org/" class="external text"
-  target="_blank" rel="noreferrer noopener">Joomla Extensions
-  Directory</a> geladen werden.
-- [Dashboard](https://docs.joomla.org/Help4.x:Home_Dashboard/de "Help4.x:Home Dashboard/de"):
-  Zugriff auf viele Standardfunktionen.
-- Dieses
-  [Portal](https://docs.joomla.org/Portal:Joomla_4/de "Portal:Joomla 4/de")
-  bringt alle Informationen zu Joomla 4 zusammen.

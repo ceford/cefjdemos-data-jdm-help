@@ -45,8 +45,8 @@ alt="Menus Menu Display Template Options screen" />
 - **Alias**. Der interne Name des Eintrags. Normalerweise kann dieses
   Feld leergelassen werden und Joomla wird den Standardwert 'Titel' in
   Kleinbuchstaben und mit Bindestrichen anstelle von Leerzeichen
-  eintragen. [Mehr
-  erfahren.](https://docs.joomla.org/Alias/de "Special:MyLanguage/Alias/de")
+  eintragen. Mehr
+  erfahren.
 
 ### Details Tab
 
@@ -102,13 +102,13 @@ alt="Menus Menu Display Template Options screen" />
   Standardseite für die Website. Es muss genau ein Menüeintrag als
   Standardseite festgelegt sein. Sie kann auf zwei Arten geändert
   werden:
-  1.  Auf dem Bildschirm [Menüs:
-      Einträge](https://docs.joomla.org/Help4.x:Menus:_Items/de "Special:MyLanguage/Help4.x:Menus: Items/de")
+  1.  Auf dem Bildschirm Menüs:
+      Einträge
       in der Spalte 'Startseite' des gewünschten Menüeintrags klicken.
   2.  Den Menüeintrag für die neue Standardseite öffnen und die
       Einstellung Standardseite auf 'Ja' ändern.
-- **Zugriffsebene**. Die [Zugriffsebene für die
-  Anzeige](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/de "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/de")
+- **Zugriffsebene**. Die Zugriffsebene für die
+  Anzeige
   des Eintrags.
 - **Sprache**. Die Sprachzuordnung des Eintrags.
 - **Notiz**. Die Notiz wird meist vom Site-Administrator verwendet, um
@@ -117,8 +117,8 @@ alt="Menus Menu Display Template Options screen" />
 
 ### Allgemeine Optionen
 
-Siehe [Menü-Eintrag: Neuer
-Eintrag](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/de "Help4.x:Menu Item: New Item/de")
+Siehe Menü-Eintrag: Neuer
+Eintrag
 für Hilfe zu Feldern, die bei allen Menüeintragstypen gleich sind und
 sich auf den folgenden Registerkarten befinden:
 
@@ -163,8 +163,8 @@ alt="Menus Menu Display Template Options front end screenshot" />
 |                                                                                                                                          |                                                                                                                                                                                                                                                                                                                         |
 |------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Verwandte Hilfeseiten                                                                                                                    | Beschreibung                                                                                                                                                                                                                                                                                                            |
-| [Templates: Stile](https://docs.joomla.org/Help4.x:Templates:_Styles/de "Help4.x:Templates: Styles/de")                                  |                                                                                                                                                                                                                                                                                                                         |
-| [Templates: Stile bearbeiten](https://docs.joomla.org/Help4.x:Templates:_Edit_Style/de "Help4.x:Templates: Edit Style/de")               | Hier werden Templatestile bearbeitet. Bei der ersten Installation eines Templates wird ein Standardstil erstellt. Der Name ist der des Templates plus "- Standard". Für Stilvarianten das Kontrollkästchen des Standardstils markieren und den "Kopieren"-Button der Werkzeugleiste anklicken und die Kopie bearbeiten. |
-| [Templates: Templates](https://docs.joomla.org/Help4.x:Templates:_Templates/de "Help4.x:Templates: Templates/de")                        | Der **Template-Manager:** Der Bildschirm **Templates** ermöglicht die Vorschau und Bearbeitung von Templates, die auf der Joomla! Website installiert sind.                                                                                                                                                             |
-| [Templates: Anpassen](https://docs.joomla.org/Help4.x:Templates:_Customise/de "Help4.x:Templates: Customise/de")                         | Hier kann der Quellcode eines Templates bearbeitet werden. Von diesem Bildschirm aus werden die Masterdateien und Stylesheets des Templates geändert und angepasst.                                                                                                                                                     |
-| [Templates: Quellcode anpassen](https://docs.joomla.org/Help4.x:Templates:_Customise_Source/de "Help4.x:Templates: Customise Source/de") | Auf diesem Bildschirm wird der Quellcode von Template-Dateien bearbeitet. Er bietet eine Klartextschnittstelle zur Bearbeitung der Template-Dateien. Die HTML- und PHP-Programmiersyntax ist hervorgehoben, um die Quellcodedateien leichter lesbar zu machen.                                                          |
+| Templates: Stile                                  |                                                                                                                                                                                                                                                                                                                         |
+| Templates: Stile bearbeiten               | Hier werden Templatestile bearbeitet. Bei der ersten Installation eines Templates wird ein Standardstil erstellt. Der Name ist der des Templates plus "- Standard". Für Stilvarianten das Kontrollkästchen des Standardstils markieren und den "Kopieren"-Button der Werkzeugleiste anklicken und die Kopie bearbeiten. |
+| Templates: Templates                        | Der **Template-Manager:** Der Bildschirm **Templates** ermöglicht die Vorschau und Bearbeitung von Templates, die auf der Joomla! Website installiert sind.                                                                                                                                                             |
+| Templates: Anpassen                         | Hier kann der Quellcode eines Templates bearbeitet werden. Von diesem Bildschirm aus werden die Masterdateien und Stylesheets des Templates geändert und angepasst.                                                                                                                                                     |
+| Templates: Quellcode anpassen | Auf diesem Bildschirm wird der Quellcode von Template-Dateien bearbeitet. Er bietet eine Klartextschnittstelle zur Bearbeitung der Template-Dateien. Die HTML- und PHP-Programmiersyntax ist hervorgehoben, um die Quellcodedateien leichter lesbar zu machen.                                                          |

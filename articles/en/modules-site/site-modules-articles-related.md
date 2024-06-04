@@ -8,8 +8,8 @@ Article Layout or a Blog or List layout where the user has clicked on an
 Article link). Articles are considered to be related to each other if
 they share at least one Keyword in the Article's Metadata Information.
 Article Keywords are entered in the Metadata Information section of the
-[Articles: New or
-Edit](https://docs.joomla.org/Help4.x:Articles:_Edit/en#Publishing_Tab "Help4.x:Articles: Edit/en")
+Articles: New or
+Edit
 screen.
 
 ## How to Access
@@ -103,8 +103,8 @@ alt="modules manager site module menu assignment tab" />
   show all of the menu items. This allows you to assign modules to some
   but not all pages, and by selecting the menu links that you want the
   module associated with you can customize on what pages modules
-  appear/don't appear. See [How do you assign a module to specific
-  pages?](https://docs.joomla.org/How_do_you_assign_a_module_to_specific_pages%3F/en "How do you assign a module to specific pages?/en")
+  appear/don't appear. See How do you assign a module to specific
+  pages?
   for more information.
 
 ### Advanced Tab

@@ -1,7 +1,7 @@
 <!-- Filename: Help4.x:Site_Global_Configuration_Permissions / Display title: Configuration globale : Droits -->
 
- **←**  [Configuration
-globale](https://docs.joomla.org/Help4.x:Site_Global_Configuration/fr#permissions "Help4.x:Site Global Configuration/fr")
+ **←**  Configuration
+globale
 
 <img
 src="https://docs.joomla.org/images/thumb/a/a7/Help-4x-Global-Configuration-sitelogin-subscreen-fr.png/800px-Help-4x-Global-Configuration-sitelogin-subscreen-fr.png"
@@ -17,5 +17,5 @@ srcset="https://docs.joomla.org/images/thumb/e/eb/Help-4x-Global-Configuration-c
 data-file-width="1881" data-file-height="847" width="800" height="360"
 alt="Capture d&#39;écran : Créer…" />
 
- **←**  [Configuration
-globale](https://docs.joomla.org/Help4.x:Site_Global_Configuration/fr#permissions "Help4.x:Site Global Configuration/fr")
+ **←**  Configuration
+globale

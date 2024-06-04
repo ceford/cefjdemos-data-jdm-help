@@ -42,8 +42,8 @@ alt="Menus New Item screen" />
 - **Alias**. Der interne Name des Menüeintrags. Normalerweise kann
   dieses Feld leergelassen werden und Joomla wird den Standardwert
   'Titel' in Kleinbuchstaben und mit Bindestrichen anstelle von
-  Leerzeichen eintragen. [Mehr
-  erfahren.](https://docs.joomla.org/Alias/de "Special:MyLanguage/Alias/de")
+  Leerzeichen eintragen. Mehr
+  erfahren.
 
 ### Details
 
@@ -67,8 +67,8 @@ alt="Menus New Item screen" />
 - **Reihenfolge**. Die Position des Menüeintrages im Menü. Als Standard
   wird ein Menüeintrag am Ende des Menüs eingefügt. Bei ausgewähltem
   Menüeintrag wird der Menüeintrag unterhalb eingefügt. Hinweis: Die
-  Reihenfolge kann auch in [Menüs:
-  Einträge](https://docs.joomla.org/Help4.x:Menus:_Items/de "Special:MyLanguage/Help4.x:Menus: Items/de")
+  Reihenfolge kann auch in Menüs:
+  Einträge
   verändert werden.
 - **Status**. Der Veröffentlichungs-Status des Menüeintrags.
 - **Veröffentlichung starten**. Datum und Uhrzeit, um die
@@ -82,13 +82,13 @@ alt="Menus New Item screen" />
 - **Standardseite**. Wenn 'Ja', ist dieser Menüeintrag die Standardseite
   der Website. Ein Menüeintrag muss als Standardseite festgelegt sein.
   Die Standardseite kann auf zwei Arten festgelegt werden:
-  1.  In [Menüs:
-      Einträge](https://docs.joomla.org/Help4.x:Menus:_Items/de "Special:MyLanguage/Help4.x:Menus: Items/de")
+  1.  In Menüs:
+      Einträge
       in der Spalte 'Startseite' des gewünschten Menüeintrags klicken.
   2.  Den Menüeintrag für die neue Standardseite öffnen und die
       Einstellung Standardseite auf 'Ja' ändern.
-- **Zugriffsebene**. Die [Zugriffsebene für die
-  Anzeige](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/de "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/de")
+- **Zugriffsebene**. Die Zugriffsebene für die
+  Anzeige
   des Menüeintrags.
 - **Sprache**. Die Sprache des Menüeintrags.
 - **Notiz**. Die Notiz wird meist vom Site-Administrator verwendet. Sie
@@ -130,8 +130,7 @@ srcset="https://docs.joomla.org/images/thumb/0/06/Help-4x-Menus-New-Item-page-di
 data-file-width="2880" data-file-height="970" width="600" height="202"
 alt="Menus New Item page display subscreen" />
 
-Hinweis: Die Auswahl "**Global**" übernimmt Einstellungen aus [Menüs:
-Optionen](https://docs.joomla.org/Help4.x:Menus:_Options/de "Special:MyLanguage/Help4.x:Menus: Options/de").
+Hinweis: Die Auswahl "**Global**" übernimmt Einstellungen aus
 
 - **Seitentitel im Browser**. Alternativer Text, der in der Kopfzeile
   des Browsers gezeigt wird. Ist kein Text angegeben, wird der Titel des
@@ -152,11 +151,11 @@ srcset="https://docs.joomla.org/images/thumb/b/b9/Help-4x-Menus-New-Item-metadat
 data-file-width="2880" data-file-height="830" width="600" height="173"
 alt="Menus New Item metadata subscreen" />
 
-- **Meta-Beschreibung**. Ein Absatz zur Beschreibung der Seite. [Mehr
-  erfahren.](https://docs.joomla.org/Using_The_Meta_Description/de "Special:MyLanguage/Using The Meta Description/de")
+- **Meta-Beschreibung**. Ein Absatz zur Beschreibung der Seite. Mehr
+  erfahren.
 - **Robots**. Anweisungen für Web-'Robots', die diese Seite durchsuchen.
   'Globale Einstellung' in
-  [Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#robots "Special:MyLanguage/Help4.x:Site Global Configuration/de")
+  Konfiguration
   einstellen.
 
 ### Verknüpfungen
@@ -168,8 +167,7 @@ srcset="https://docs.joomla.org/images/thumb/4/4a/Help-4x-Menus-New-Item-associa
 data-file-width="2880" data-file-height="570" width="600" height="119"
 alt="Menus New Item associations subscreen" />
 
-[Nur bei mehrsprachigen
-Seiten](https://docs.joomla.org/Help4.x:Multilingual_Associations/de "Special:MyLanguage/Help4.x:Multilingual Associations/de").
+
 
 ### Modulzuweisung
 
@@ -186,7 +184,7 @@ alt="Menus New Item module assignment subscreen" />
 
 ## Werkzeugleiste
 
-Das [Bildschirmfoto](#screenshot) zeigt die Werkzeugleiste im oberen
+Das Bildschirmfoto zeigt die Werkzeugleiste im oberen
 Bereich.
 
 - **Speichern**. Speichert den Menüeintrag und bleibt auf der aktuellen
@@ -206,22 +204,12 @@ Gespeicherte Menüeinträge haben zusätzliche Buttons:
     aktuellen Menüeintrags. Der aktuelle Menüeintrags wird davon nicht
     beeinflusst.
 - **Sprachverknüpfungen**. Den Beitrag mit seiner festgelegten Sprache
-  parallel in einer weiteren Sprache bearbeiten. [Nur bei mehrsprachigen
-  Seiten](https://docs.joomla.org/Help4.x:Multilingual_Associations/de "Special:MyLanguage/Help4.x:Multilingual Associations/de").
+  parallel in einer weiteren Sprache bearbeiten.
 - **Schließen** statt 'Abbrechen' mit denselben Funktionen.
 
 ## Tipps
 
-- Hinzufügen eines Menüeintrages [Archivierte
-  Beiträge](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived/de "Special:MyLanguage/Help4.x:Menu Item: Article Archived/de").
+- Hinzufügen eines Menüeintrages
 - Joomla bietet 38 verschiedene Menüeintragstypen. Installierte
   Erweiterungen von Drittanbietern können weitere Menüeintragstypen
   einfügen.
-
-## Verwandte Informationen
-
-- Tutorial: [Wie füge ich ein neues Menü
-  hinzu?](https://docs.joomla.org/J4.x:Adding_a_New_Menu/de "Special:MyLanguage/J4.x:Adding a New Menu/de")
-- Dieses
-  [Portal](https://docs.joomla.org/Portal:Joomla_4/de "Special:MyLanguage/Portal:Joomla 4/de")
-  bringt alle Informationen zu Joomla 4 zusammen.

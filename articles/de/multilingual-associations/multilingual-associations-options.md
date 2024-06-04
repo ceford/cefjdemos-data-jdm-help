@@ -35,7 +35,7 @@ Um Berechtigungen der Sprachverknüpfungen zu ändern:
       Administration.
 3.  Die Berechtigungen der gewählten Aktion wählen.
     - **Vererbt**. Für Benutzer dieser Gruppe von der
-      [Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#permissions "Help4.x:Site Global Configuration/de")
+      Konfiguration
       vererbt .
     - **Erlaubt**. Für Benutzer dieser Gruppe erlaubt.Hinweis: Wenn die
       Aktion auf einer höheren Ebene 'Verweigert' wird, ist die
@@ -48,7 +48,7 @@ Um Berechtigungen der Sprachverknüpfungen zu ändern:
 
 ## Werkzeugleiste
 
-Das [Bildschirmfoto](#screenshot) zeigt die Werkzeugleiste im oberen
+Das Bildschirmfoto zeigt die Werkzeugleiste im oberen
 Bereich.
 
 - **Speichern**. Speichert die Sprachverknüpfung und bleibt auf der
@@ -58,16 +58,3 @@ Bereich.
 - **Schließen**. Schließt die aktuelle Seite und kehrt zur vorherigen
   Seite ohne Speichern der Änderungen zurück.
 - **Hilfe**. Öffnet die Hilfeseite.
-
-## Verwandte Informationen
-
-- Dieses
-  [Portal](https://docs.joomla.org/Portal:Joomla_4/de "Portal:Joomla 4/de")
-  bringt alle Informationen zu Joomla 4 zusammen.
-
-|                                                                                                                                                    |                                                                                                   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| Verwandte Hilfeseiten                                                                                                                              | Beschreibung                                                                                      |
-| <span class="mw-selflink selflink">Sprachverknüpfungen: Optionen</span>                                                                            | Standardberechtigungen für sämtliche Inhalte der Sprachverknüpfungen.                             |
-| [Sprachverknüpfungen](https://docs.joomla.org/Help4.x:Multilingual_Associations/de "Help4.x:Multilingual Associations/de")                         | Auf der Seite werden Verknüpfungen zwischen Einträgen und installieren Seitensprachen bearbeitet. |
-| [Sprachverknüpfungen: Bearbeiten](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Edit/de "Help4.x:Multilingual Associations: Edit/de") | Erstellen oder Bearbeiten von Verknüpfungen zwischen den Sprachen einer mehrsprachigen Website.   |

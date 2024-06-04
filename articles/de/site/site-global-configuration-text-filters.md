@@ -1,7 +1,7 @@
 <!-- Filename: Help4.x:Site_Global_Configuration_Text_Filters / Display title: Konfiguration: Textfilter -->
 
  **←** 
-[Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#textfilters "Help4.x:Site Global Configuration/de")
+Konfiguration
 
 <img
 src="https://docs.joomla.org/images/thumb/a/a7/Help-4x-Global-Configuration-textfilters-subscreen-de.png/800px-Help-4x-Global-Configuration-textfilters-subscreen-de.png"
@@ -11,4 +11,4 @@ data-file-width="1881" data-file-height="1602" width="800" height="681"
 alt="Bildschirmfoto: Textfilter" />
 
  **←** 
-[Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#textfilters "Help4.x:Site Global Configuration/de")
+Konfiguration

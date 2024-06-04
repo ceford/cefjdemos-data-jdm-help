@@ -7,8 +7,7 @@ The Publishing Workflow component is used to replace static states
 approach. This way you can easily create a customized workflow to manage
 your articles within a component.
 
-For more information see the [Workflow
-Tutorial](https://docs.joomla.org/J4.x:Workflow/en "J4.x:Workflow/en").
+For more information see the
 
 ## How To Access
 

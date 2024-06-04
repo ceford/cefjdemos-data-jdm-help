@@ -41,8 +41,7 @@ title="File:Help-4x-Menus-Item-Articles-Article-Archived-screen-pt-br.png">800px
 - **Alias**. O nome interno do item dos menus. Normalmente, você pode
   deixar em branco (vazio) e o Joomla! preencherá um valor padrão,
   fundamentado no título, em letras minúsculas e com traços em vez de
-  espaços. [Aprender
-  mais](https://docs.joomla.org/Alias/pt-br "Alias/pt-br").
+  espaços.
 
 ### Detalhes
 

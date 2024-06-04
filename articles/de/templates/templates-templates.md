@@ -43,7 +43,7 @@ sortieren.
 - **Site oder Administrator.** Ist das Template für die Site (Frontend)
   oder den Administrator (Backend) bestimmt?
 
-**Suchleiste**. Das [Bildschirmfoto](#screenshot) zeigt die Suchleiste
+**Suchleiste**. Das Bildschirmfoto zeigt die Suchleiste
 im oberen Bereich.
 
 - **Suche nach Text**. Einen Teil des Suchbegriffs eingeben, auf das
@@ -63,7 +63,7 @@ im oberen Bereich.
 - **Anzuzeigende Anzahl**. Zeigt die Anzahl der Einträge an. Zur
   Änderung in der Dropdown-Liste die gewünschte Anzahl wählen.Der
   Standardwert für die Site ist '20', er kann in der
-  [Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#defaultlistlimit "Help4.x:Site Global Configuration/de")
+  Konfiguration
   geändert werden.
 
 ## Werkzeugleiste
@@ -74,8 +74,3 @@ Werkzeugleiste im oberen Bereich. Die Funktionen sind:
 - **Optionen.** Öffnet das Optionen-Fenster, in dem Einstellungen, wie
   die Standard-Parameter, bearbeitet werden können.
 - **Hilfe**. Öffnet die Hilfeseite.
-
-## Verwandte Informationen
-
-- Für die Bearbeitung von Template-Stilen: [Templates:
-  Stile](https://docs.joomla.org/Help4.x:Templates:_Styles/de "Help4.x:Templates: Styles/de")

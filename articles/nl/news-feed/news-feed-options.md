@@ -41,8 +41,8 @@ ze veranderd zijn voor een specifiek nieuwsfeed menu-item of nieuwsfeed
   worden. Specifieke versies kunnen ook gemarkeerd worden als "Bewaren"
   en zullen niet automatisch verwijderd worden. Let op dat versies
   handmatig verwijderd kunnen worden via de verwijder knop op het
-  [Versie
-  historie](https://docs.joomla.org/Help310:Components_Version_History/nl "Help310:Components Version History/nl")
+  Versie
+  historie
   scherm.
 - **Feedafbeelding.** (Toon/Verberg). Toon of verberg de feedafbeelding.
 - **Feedbeschrijving.** (Toon/Verberg). Toon of verberg de
@@ -274,11 +274,3 @@ De functies zijn.
   opties aanvaarden.
 - Alle waarden die hier ingesteld worden kunnen overschreven worden op
   het menu-item, categorie of nieuwsfeed niveau.
-
-## Verwante informatie
-
-- Om nieuwsfeeds en nieuwsfeed-categorieën aan te maken en te bewerken:
-  [Nieuwsfeed
-  beheer](https://docs.joomla.org/Help4.x:News_Feeds/nl "Help4.x:News Feeds/nl")
-- Voor meer informatie over Joomla's ACL systeem: [Joomla 3 ACL
-  handleiding](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/nl "J3.x:Access Control List Tutorial/nl")

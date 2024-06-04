@@ -25,8 +25,8 @@ alt="global configuration screen" />
 
 ### Site tab
 
-[site tab complete
-screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/en "Help4.x:Site Global Configuration Site/en")
+site tab complete
+screenshot.
 
 #### Site panel
 
@@ -93,8 +93,8 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/en "
 - **Use URL Rewriting:**
   - Apache and Litespeed: Rename 'htaccess.txt' to '.htaccess'.
   - IIS: Rename 'web.config.txt' to 'web.config'
-  - NginX: you must [configure your
-    server](https://docs.joomla.org/Nginx/en "Nginx/en")
+  - NginX: you must configure your
+    server
   - Other servers or if unsure: please consult your hosting company
 - **Add Suffix to URL:** If yes, the system will add a suffix to the URL
   based on the document type.
@@ -111,8 +111,8 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/en "
 
 ### System tab
 
-[System tab complete
-screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_System/en "Help4.x:Site Global Configuration System/en")
+System tab complete
+screenshot.
 
 #### Debug panel
 
@@ -188,8 +188,8 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_System/en
 
 ### Server tab
 
-[server tab complete
-screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Server/en "Help4.x:Site Global Configuration Server/en")
+server tab complete
+screenshot.
 
 #### Server panel
 
@@ -315,8 +315,8 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Server/en
 
 ### Logging tab
 
-[logging tab complete
-screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Logging/en "Help4.x:Site Global Configuration Logging/en")
+logging tab complete
+screenshot.
 
 #### Logging panel
 
@@ -342,8 +342,8 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Logging/e
 
 ### Text Filters tab
 
-[text filters tab complete
-screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Text_Filters/en "Help4.x:Site Global Configuration Text Filters/en")
+text filters tab complete
+screenshot.
 
 These text filter settings will be applied to all text editor fields
 submitted by users in the selected groups.
@@ -356,8 +356,8 @@ attacks.
 
 ### Permissions tab
 
-[permissions tab complete
-screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Permissions/en "Help4.x:Site Global Configuration Permissions/en")
+permissions tab complete
+screenshot.
 
 Manage the permission settings for user groups.
 

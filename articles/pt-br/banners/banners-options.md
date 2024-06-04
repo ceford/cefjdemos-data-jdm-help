@@ -56,8 +56,7 @@ title="File:Help-4x-Banner-Options-screen-history-tab-pt-br.png">800px</a>
   automaticamente. Além disso, as versões específicas podem ser marcadas
   como "Manter para sempre" e não serão excluídas automaticamente.
   Observe que as versões podem ser excluídas manualmente usando o botão
-  "Excluir" na tela do [histórico das
-  versões](https://docs.joomla.org/Help4.x:Components_Version_History/pt-br "Help4.x:Components Version History/pt-br").
+  "Excluir" na tela do
 
 ### Aba (guia) Permissões
 
@@ -115,12 +114,3 @@ de tela](#Captura_de_tela) acima. As funções são:
 ## Dicas rápidas
 
 - Lembre-se, essas opções são aplicadas globalmente.
-
-## Informações relacionadas
-
-- [Gerenciador dos banners: Adicionar/editar
-  banner](https://docs.joomla.org/Help4.x:Banners:_Edit/pt-br "Help4.x:Banners: Edit/pt-br")
-- [Gerenciador dos
-  banners](https://docs.joomla.org/Help4.x:Banners/pt-br "Help4.x:Banners/pt-br")
-- <span class="mw-selflink selflink">Configurações do gerenciador dos
-  banners</span>

@@ -11,12 +11,11 @@ definidos antes de poder adicionar seu primeiro banner.
 
 - Selecione **Componentes → Banners → Clientes** no menu suspenso do
   ***painel administrativo do Joomla!***. Você também pode selecionar o
-  link "Clientes" do menu no [gerenciador das categorias para
-  banners](https://docs.joomla.org/Help4.x:Banners:_Categories/pt-br "Help4.x:Banners: Categories/pt-br"),
-  no [gerenciador dos
-  banners](https://docs.joomla.org/Help4.x:Banners:_Edit/pt-br "Help4.x:Banners: Edit/pt-br")
-  ou no [gerenciador dos monitoramentos dos
-  banners](https://docs.joomla.org/Help4.x:Banners:_Tracks/pt-br "Help4.x:Banners: Tracks/pt-br").
+  link "Clientes" do menu no gerenciador das categorias para
+  banners,
+  no gerenciador dos
+  banners
+  ou no
 
 ## Captura da tela
 
@@ -75,7 +74,7 @@ coluna.
 ## Filtros da lista
 
 **Barra de pesquisa**: Perto do topo da página, você verá a barra de
-pesquisa mostrada na [captura de tela](#screenshot) acima.
+pesquisa mostrada na captura de tela acima.
 
 - **Pesquisar por texto**: Insira parte do termo de pesquisa e clique no
   ícone "Pesquisar". *Passe o mouse* para ver uma *dica* indicando quais
@@ -92,8 +91,7 @@ pesquisa mostrada na [captura de tela](#screenshot) acima.
     ordem crescente e decrescente.
 - **Número a ser exibido**: Mostra o número de itens em uma lista.
   Selecione na lista suspensa para alterar o número exibido.O padrão
-  para um site é '20', mas isso pode ser alterado nas [Configurações
-  Globais](https://docs.joomla.org/Help4.x:Site_Global_Configuration/pt-br#defaultlistlimit "Help4.x:Site Global Configuration/pt-br").
+  para um site é '20', mas isso pode ser alterado nas
 
 ### Opções do filtro
 
@@ -117,7 +115,7 @@ title="File:Help35-colheader-select-type-pt-br.png">File:Help35-colheader-select
 
 **Controles da página**: Quando o número de itens for mais que uma
 página, você verá uma barra de controle na página perto da parte
-inferior da página mostrada na [captura de tela](#screenshot) acima. O
+inferior da página mostrada na captura de tela acima. O
 número da página atual que está sendo visualizada tem um fundo de cor
 escura.
 
@@ -164,13 +162,4 @@ de tela](#Captura_de_tela) acima. As funções são:
 
 ## Opções
 
-Consulte [Banners:
-Opções](https://docs.joomla.org/Help4.x:Banners:_Options/pt-br "Help4.x:Banners: Options/pt-br").
-
-## Informações relacionadas
-
-- Para criar ou editar banners: [Banners -
-  Novo/editar](https://docs.joomla.org/Help4.x:Banners:_Edit/pt-br "Help4.x:Banners: Edit/pt-br")
-- Para trabalhar com categorias para banners: [Gerenciador das
-  categorias para
-  banners](https://docs.joomla.org/Help4.x:Banners:_Categories/pt-br "Help4.x:Banners: Categories/pt-br")
+Consulte

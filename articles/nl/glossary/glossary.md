@@ -3,16 +3,16 @@
 De Joomla! woordenlijst is handig voor het leren van veelgebruikte
 termen in Joomla! tutorials, helpvensters en aanvullende documentatie.
 
-## [Access Control List](https://docs.joomla.org/Access_Control_List "Special:MyLanguage/Access Control List")
+## Access Control List
 
-## [Alias](https://docs.joomla.org/Alias "Special:MyLanguage/Alias")
+## Alias
 
 ## Anker
 
 Een anker wordt gemaakt met behulp van de tag in HTML. In Joomla kan
 door middel van een anker een bladwijzer binnen een HTML pagina
 geplaatst worden (bijvoorbeeld door de
-[TinyMCE](https://docs.joomla.org/Content_editors#TinyMCE_editor "Special:MyLanguage/Content editors")
+TinyMCE
 tekstverwerker te gebruiken). Daarmee kan een link gemaakt worden die
 rechtstreeks naar dat punt in het artikel gaat.
 
@@ -31,7 +31,7 @@ http://www.mijnsite.com/mijn_artikel.html is, dan kan er rechtstreeks
 naar het anker op die pagina gelinkt worden met de URL
 http://www.mijnsite.com/mijn_artikel.html#mijn_anker.
 
-## [Artikel](https://docs.joomla.org/Article "Special:MyLanguage/Article")
+## Artikel
 
 ## Cascading Style Sheet (CSS)
 
@@ -44,13 +44,13 @@ In Joomla! zijn CSS bestanden (bijvoorbeeld template.css) normaal
 gesproken een onderdeel van de template.
 
 **Zie ook:**
-[Template](https://docs.joomla.org/Template "Special:MyLanguage/Template"),
-[Pagina class
-achtervoegsel](https://docs.joomla.org/Page_Class_Suffix "Special:MyLanguage/Page Class Suffix"),
-[Module class
-achtervoegsel](https://docs.joomla.org/Module_Class_Suffix "Special:MyLanguage/Module Class Suffix")
+Template,
+Pagina class
+achtervoegsel,
+Module class
+achtervoegsel
 
-## [Categorie](https://docs.joomla.org/Category "Special:MyLanguage/Category")
+## Categorie
 
 Elk onderdeel van een website, aangedreven door Joomla! of elk ander
 CMS, gebruikt uiteraard een methode voor het logisch weergeven en
@@ -58,7 +58,7 @@ opslaan van de inhoud. De gebruikelijke manier is middels categorieën en
 subcategorieën. Joomla! staat meerdere manieren toe voor het weergeven
 en gebruiken van inhoud middels categorisering. Enkele soorten inhoud
 die categorieën gebruiken zijn
-[artikelen](https://docs.joomla.org/Article "Special:MyLanguage/Article")
+artikelen
 (de belangrijkste inhoud van webpagina's), advertenties, contactpersonen
 en weblinks.
 
@@ -70,7 +70,7 @@ vallen onder een specifieke categorie.
 Bij het maken en toewijzen van categorieën, moet u beschikken over een
 geplande structuur. Dit is bijvoorbeeld een manier hoe verschillende
 Joomla
-[artikelen](https://docs.joomla.org/Article "Special:MyLanguage/Article")
+artikelen
 over vogels gecategoriseerd kunnen worden. Maak twee artikelcategorieën
 aan met de naam "Dieren" en "Planten". Onder de "Dieren" categorie, kunt
 u subcategorieën met de naam "Vogels" en "Zoogdieren" hebben. Onder de
@@ -100,7 +100,7 @@ worden bereikt door in het beheergedeelte (Back-end) te klikken op het
 menu Inhoud en dan Categorieën.
 
 **Zie ook**:
-[Artikel](https://docs.joomla.org/Article "Special:MyLanguage/Article")
+Artikel
 
 ## Chrome
 
@@ -126,14 +126,14 @@ Joomla "kern" bevat ook een aantal fundamentele functionaliteiten om
 nieuwe Joomla installaties snel en gemakkelijk te laten werken.
 Inbegrepen zijn gebruikersbeheer, artikelbeheer, linkbeheer,
 categoriebeheer, contactbeheer en menubeheer. Er is ook een
-[templatebeheer](https://docs.joomla.org/template "Special:MyLanguage/template")
+templatebeheer
 met enkele eenvoudige sjablonen om de weergave van de front-end
 (website/gebruiker) te beheren, een
-[modulebeheer](https://docs.joomla.org/module "Special:MyLanguage/module")
+modulebeheer
 met basismodules,
-[pluginbeheer](https://docs.joomla.org/plugin "Special:MyLanguage/plugin")
+pluginbeheer
 met basisplugins en een paar andere "out of the box"
-[extensies](https://docs.joomla.org/extension "Special:MyLanguage/extension")
+extensies
 om de functionaliteit van een standaard Joomla-installatie uit te
 breiden. Deze standaard extensies mogen niet worden verward met de
 extensies die beschikbaar zijn om te downloaden vanaf de JED (Joomla!
@@ -143,11 +143,11 @@ Extension-Directory).
 <a href="http://extensions.joomla.org/" class="external text"
 target="_blank" rel="noreferrer noopener">Joomla Extension Directory</a>.
 
-## [Database tabelvoorvoegsel](https://docs.joomla.org/Database_Table_Prefix "Special:MyLanguage/Database Table Prefix")
+## Database tabelvoorvoegsel
 
 Het tabelvoorvoegsel in een database is een string (een paar tekens
 lang) voorafgaand aan de naam van Joomla!'s
-[tabellen](https://docs.joomla.org/tables "Special:MyLanguage/tables").
+tabellen.
 Met behulp van een voorvoegsel kunnen er meerdere installaties van
 Joomla! draaien met behulp van een enkele database.
 
@@ -156,14 +156,14 @@ worden. Naderhand wijzigen is mogelijk, maar vereist toegang tot de
 database via een niet-Joomla medium of een Joomla extensie zoals Akeeba
 Admin Tools en kan leiden tot enige downtime.
 
-[Extensie](https://docs.joomla.org/Extension "Special:MyLanguage/Extension")
+Extensie
 ontwikkelaars moeten de string `#__` gebruiken als aanduiding van het
 voorvoegsel. Dit zal door het werkelijke voorvoegsel vervangen worden
 bij de verwerking in Joomla.
 
-## [Extensie](https://docs.joomla.org/Extension "Special:MyLanguage/Extension")
+## Extensie
 
-## [Taal](https://docs.joomla.org/Language "Special:MyLanguage/Language")
+## Taal
 
 Talen zijn misschien wel het meest kritische basis
 <a href="https://docs.joomla.org/Extensions" class="mw-redirect"
@@ -177,9 +177,9 @@ taalpakketten bevatten tevens een XML meta bestand dat de taal
 beschrijft en informatie biedt over de lettertypes die gebruikt worden
 voor het genereren van de inhoud van een PDF.
 
-## [LDAP](https://docs.joomla.org/LDAP "Special:MyLanguage/LDAP")
+## LDAP
 
-## [Menu](https://docs.joomla.org/Menu "Special:MyLanguage/Menu")
+## Menu
 
 Een **menu** in Joomla! bestaat uit een set van **menu-items** die
 gebruikt worden voor het navigeren door een website. Elk menu-item
@@ -190,35 +190,35 @@ een **menutype**, welke wordt getoond in menubeheer, (zie ook [een nieuw
 menu
 toevoegen](https://docs.joomla.org/Adding_a_new_menu "Special:MyLanguage/Adding a new menu")).
 Het menutype zal de **unieke naam** of
-[alias](https://docs.joomla.org/alias "Special:MyLanguage/alias") zijn
+alias zijn
 die gebruikt wordt om menselijk leesbare URL's te maken als
-[zoekmachinevriendelijke
-URL's](https://docs.joomla.org/Search_Engine_Friendly_URLs "Special:MyLanguage/Search Engine Friendly URLs")
+zoekmachinevriendelijke
+URL's
 is ingeschakeld. Menu-items kunnen een onbeperkt aantal **subitems**
 hebben.
 
-**[Menu's
-aanmaken](https://docs.joomla.org/Adding_a_new_menu "Special:MyLanguage/Adding a new menu")**
+**Menu's
+aanmaken**
 is vrij eenvoudig. Kies, vanuit het Beheermenu, in het beheergedeelte
 van uw Joomla! site, voor: **Menus\>Menubeheer\>Menu's**. Vul, op de
 geopende **Menubeheer: Toevoegen Menu** pagina uw menutitel in het
 "Titel \*" veld (verplicht), uw menutype in het "Menutype \*" veld
 (verplicht) en, als u dat wilt, de korte menubeschrijving in het
-"Beschrijving" veld (optioneel). Hierna kunt u een **[nieuwe menu-items
-toevoegen](https://docs.joomla.org/Adding_a_new_menu_item "Special:MyLanguage/Adding a new menu item")**
+"Beschrijving" veld (optioneel). Hierna kunt u een **nieuwe menu-items
+toevoegen**
 aan dit nieuwe menu.
 
 Iedere website kan meer dan één menu hebben.
 
 Een menu wordt niet automatisch op de website getoond. Er dient een
 **Menumodule** aangemaakt te worden met behulp van
-**[Modulebeheer](https://docs.joomla.org/Help33:Extensions_Module_Manager "Special:MyLanguage/Help33:Extensions Module Manager")**
+**Modulebeheer**
 en aan de module aan te geven op welk **Menu** zichtbaar te zijn.
 Vervolgens kunt u aangeven waar de module op de site zichtbaar moet
 worden door een van de beschikbare
-**[Moduleposities](https://docs.joomla.org/Module_Position "Special:MyLanguage/Module Position")**
+**Moduleposities**
 van het actieve
-**[Template](https://docs.joomla.org/Getting_Started_with_Templates "Special:MyLanguage/Getting Started with Templates")**
+**Template**
 op te geven.
 
 Er is meer controle over wanneer het menu moet verschijnen, door de
@@ -228,11 +228,11 @@ module te koppelen aan menu-items), of om hem voor iedereen zichtbaar te
 maken, of alleen specifieke gebruikersgroepen (bijvoorbeeld
 geregistreerde gebruikers).
 
-Het is ook mogelijk [Gepleten
-menu's](https://docs.joomla.org/Split_menus "Special:MyLanguage/Split menus")
+Het is ook mogelijk Gepleten
+menu's
 aan te maken.
 
-## [Model-View-Controller](https://docs.joomla.org/Model-View-Controller "Special:MyLanguage/Model-View-Controller")
+## Model-View-Controller
 
 Joomla maakt uitgebreid gebruik van het
 <a href="http://nl.wikipedia.org/wiki/Model-view-controller-model"
@@ -293,9 +293,9 @@ controle over de uitvoer van de Joomla core en alle geïnstalleerde
 extensies van derden die in overeenstemming zijn met het
 MVC-ontwikkelpatroon.
 
-## [Module chrome](https://docs.joomla.org/Module_chrome "Special:MyLanguage/Module chrome")
+## Module chrome
 
-## [Module class achtervoegsel](https://docs.joomla.org/Module_Class_Suffix "Special:MyLanguage/Module Class Suffix")
+## Module class achtervoegsel
 
 Module class achtervoegsel is een parameter in Joomla! modules. Het
 wordt geconfigureerd in het module: \[Bewerken\] venster bij
@@ -324,14 +324,13 @@ module, zonder dat de al bestaande CSS-code aangepast hoeft te worden.
 Let op: iedere nieuwe class-naam moet uniek zijn om niet in conflict te
 komen met al bestaande class-namen.
 
-Zie: [Gebruik van class
-achtervoegsels](https://docs.joomla.org/Using_Class_Suffixes "Special:MyLanguage/Using Class Suffixes").
+Zie:
 
-## [Modulepositie](https://docs.joomla.org/Module_Position "Special:MyLanguage/Module Position")
+## Modulepositie
 
-## [Module](https://docs.joomla.org/Module "Special:MyLanguage/Module")
+## Module
 
-## [Pagina class achtervoegsel](https://docs.joomla.org/Page_Class_Suffix "Special:MyLanguage/Page Class Suffix")
+## Pagina class achtervoegsel
 
 Page Class Suffix is a parameter in Joomla! content menu items. It is
 set in a particular menu item: \[Edit Menu Item\] page, under the "Page
@@ -361,23 +360,23 @@ dit component, zonder dat de al bestaande CSS-code aangepast hoeft te
 worden. Let op: iedere nieuwe class-naam moet uniek zijn om niet in
 conflict te komen met al bestaande class-namen.
 
-**Zie ook:** : [Gebruik van Class
-achtervoegsel](https://docs.joomla.org/Using_Class_Suffixes "Special:MyLanguage/Using Class Suffixes"),
-[Gebruik van Pagina Class achtervoegsel in Template
-code](https://docs.joomla.org/Using_the_Page_Class_Suffix_in_Template_Code "Special:MyLanguage/Using the Page Class Suffix in Template Code")
+**Zie ook:** : Gebruik van Class
+achtervoegsel,
+Gebruik van Pagina Class achtervoegsel in Template
+code
 
-## [Patch](https://docs.joomla.org/Patch "Special:MyLanguage/Patch")
+## Patch
 
-## [PHP](https://docs.joomla.org/PHP "Special:MyLanguage/PHP")
+## PHP
 
 PHP is een computerscripttaal die is ontworpen voor het maken van
 dynamische webpagina' s. PHP wordt op grote schaal gebruikt voor
 webontwikkeling en kan ingebed worden in
-[HTML](https://docs.joomla.org/Where_can_you_learn_about_HTML%3F "Special:MyLanguage/Where can you learn about HTML?").
+HTML.
 Het draait over het algemeen op een webserver, de PHP-code als input en
 de webpagina's als output. Joomla is voornamelijk geschreven met behulp
-van de PHP-taal. Voor meer informatie, zie [Waar kunt u PHP
-leren?](https://docs.joomla.org/Where_can_you_learn_about_PHP "Special:MyLanguage/Where can you learn about PHP")
+van de PHP-taal. Voor meer informatie, zie Waar kunt u PHP
+leren?
 
 ## Gesplitste menu's
 
@@ -403,17 +402,16 @@ multi-level menu of het maken van meer dan één menu-modules, elk
 verwijzend naar een ander niveau.
 
 **Zie ook**:
-[Menu](https://docs.joomla.org/Menu "Special:MyLanguage/Menu")
+Menu
 
-## [Template](https://docs.joomla.org/Template "Special:MyLanguage/Template")
+## Template
 
 Een template is een soort Joomla
-[extensie](https://docs.joomla.org/extension "Special:MyLanguage/extension")
+extensie
 die het uiterlijk van de website bepaalt. Het Joomla CMS gebruikt twee
-soorten templates: [website
-templates](https://docs.joomla.org/Template#Front-end_Templates "Special:MyLanguage/Template")
-en [beheergedeelte
-templates](https://docs.joomla.org/Template#Back-end_Templates "Special:MyLanguage/Template").
+soorten templates: website
+templates
+en
 De website template bepaalt de manier waarop de website eruit ziet voor
 uw gebruikers die de inhoud bekijken. Het template voor het
 beheergedeelte bepaalt de manier waarop het beheergedeelte eruit ziet,
@@ -423,9 +421,9 @@ menu-, artikel-, categorie-, module-, component-, plugin- en
 template-beheer.
 
 **Zie ook**:
-[Component](https://docs.joomla.org/Component "Special:MyLanguage/Component"),
-[Module](https://docs.joomla.org/Module "Special:MyLanguage/Module"),
-[Plugin](https://docs.joomla.org/Plugin "Special:MyLanguage/Plugin")
+Component,
+Module,
+Plugin
 
 ## Upgradepakket
 
@@ -438,15 +436,15 @@ fifty files and, when unpacked, would replace these fifty files and
 upgrade the installed version from 3.x.1 to 3.x.2.
 
 Upgradepakketten worden soms ook wel
-[patchbestanden](https://docs.joomla.org/Patch "Special:MyLanguage/Patch")
+patchbestanden
 genoemd. Lees voor het installeren van een upgradpakket eerst de
-[release
-notes](https://docs.joomla.org/Joomla_1.5_version_history "Special:MyLanguage/Joomla 1.5 version history")
-en de [upgrade
-instructies](https://docs.joomla.org/Upgrade_Instructions "Special:MyLanguage/Upgrade Instructions")
+release
+notes
+en de upgrade
+instructies
 die bij het upgradepakket horen.
 
-## [Plugin](https://docs.joomla.org/Plugin "Special:MyLanguage/Plugin")
+## Plugin
 
 ## Zoekmachinevriendelijke URL's
 

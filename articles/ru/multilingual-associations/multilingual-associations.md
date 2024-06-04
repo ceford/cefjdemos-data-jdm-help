@@ -110,16 +110,3 @@ alt="Components Associations toolbar subscreen" />
   translate from English to Persian too.
 - This screen use menu-items as example. You will see all Item Types
   shown in the Screenshot above.
-
-## Связанная информация
-
-- This
-  [Portal](https://docs.joomla.org/Portal:Joomla_4/en "Portal:Joomla 4/en")
-  brings together information related specifically to Joomla 4.
-
-|                                                                                                                                                        |                                                                                            |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Related Help Screens/ru                                                                                                                                | Описание                                                                                   |
-| [Многоязычные связи: Настройки](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Options/ru "Help4.x:Multilingual Associations: Options/ru") | Default permissions used for all content in the Multilingual Associations Component.       |
-| <span class="mw-selflink selflink">Многоязычные связи</span>                                                                                           | This screen is used to set up an Association between an item and installed site languages. |
-| [Многоязычные связи: Редактирование](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Edit/ru "Help4.x:Multilingual Associations: Edit/ru")  | Used to add or edit associations between languages displayed on a multilingual website.    |

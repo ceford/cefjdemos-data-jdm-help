@@ -44,11 +44,11 @@ alt="modules administrator module manager module frontend link" />
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het
   formulierveld hierboven.
-- **Positie.** Kies de [module
-  positie](https://docs.joomla.org/Module_Position/nl "Module Position/nl")
+- **Positie.** Kies de module
+  positie
   waarop u wilt dat de module getoond wordt. Een aangepaste module
-  positie mag opgegeven worden om te gebruiken met de [load positie
-  plugin](https://docs.joomla.org/How_do_you_put_a_module_inside_an_article%3F/nl "How do you put a module inside an article?/nl")
+  positie mag opgegeven worden om te gebruiken met de load positie
+  plugin
   of er kan op de positie knop gedrukt worden om een module positie te
   selecteren uit het template.
 - **Status**. De publicatiestatus van het item.
@@ -61,12 +61,12 @@ alt="modules administrator module manager module frontend link" />
   wilt geven op een tijdstip in de toekomst (bijvoorbeeld wanneer het
   niet meer van toepassing is).
 - **Toegang**. Het
-  [Toegangsniveau](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/nl "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/nl")
+  Toegangsniveau
   om het item te bekijken.
 - **Module volgorde.** Dit toont een drop-down lijst met iedere module
   op de positie waar de huidige module op staat. Dit is de zowel
   volgorde waarin de modules getoond worden op de website als op de
-  [Modulebeheer](https://docs.joomla.org/Help4.x:Modules/nl "Help4.x:Modules/nl")
+  Modulebeheer
   pagina.
 - **Notitie**. Dit wordt normaal gesproken door de beheerder gebruikt
   (bijvoorbeeld om informatie te documenteren voor dit item) en is niet

@@ -66,12 +66,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 
 - Als u een nieuwe groep toevoegt, moet u misschien toegangsniveaus
   bewerken waar deze groep toegang toe moet hebben.
-
-## Verwante informatie
-
-- [Gebruikers: Toegangsniveaus voor
-  bekijken](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/nl "Help4.x:Users: Viewing Access Levels/nl")
-- [Gebruikers:
-  Gebruikersgroepen](https://docs.joomla.org/Help4.x:Users:_Groups/nl "Help4.x:Users: Groups/nl")
-- [ACL handleiding voor Joomla!
-  3.x](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/nl "J3.x:Access Control List Tutorial/nl")

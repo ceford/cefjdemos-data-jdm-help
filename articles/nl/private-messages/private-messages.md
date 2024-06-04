@@ -31,8 +31,8 @@ alt="Components Messaging Inbox screen" />
   gelezen, Markeer als ongelezen en Prullenbak werken met meerdere
   items.
 - **Onderwerp.** De onderwerp regel van het bericht. Klik hierop om het
-  bericht te lezen. Dit brengt u bij het [Bericht
-  bekijken](https://docs.joomla.org/Help4.x:Private_Messages:_Read/nl "Help4.x:Private Messages: Read/nl")
+  bericht te lezen. Dit brengt u bij het Bericht
+  bekijken
   scherm waar u het bericht kunt bekijken, beantwoorden of verwijderen.
 - **Gelezen.** Een groen vinkje geeft aan dat het bericht gelezen is.
   Een rood kruis geeft aan dat het niet gelezen is.
@@ -59,8 +59,7 @@ bovenstaande Screenshot.
     aflopend volgorde.
 - **Te tonen aantal.** Toont het aantal items in een lijst. Selecteer
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#defaultlistlimit "Help4.x:Site Global Configuration/nl").
+  voor een site is '20' maar dit kan veranderd worden bij de
 
 **Filteropties**
 
@@ -113,10 +112,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   het bericht te herstellen het bericht door het keuzevakje te
   selecteren en druk op de "Markeer als (on)gelezen" knop in de
   werkbalk.
-
-## Verwante informatie
-
-- Meer informatie over het schrijven van berichten: [Privéberichten -
-  Schrijven](https://docs.joomla.org/Help4.x:Private_Messages:_Write/nl "Help4.x:Private Messages: Write/nl")
-- Meer informatie over het lezen van berichten: [Privéberichten -
-  Lezen](https://docs.joomla.org/Help4.x:Private_Messages:_Read/nl "Help4.x:Private Messages: Read/nl")

@@ -66,25 +66,9 @@ de tela](#Captura_de_tela) acima. As funções são:
 - **Versões**: Abre a janela do histórico de versões do item para
   mostrar as versões anteriores deste item. Isso permite que você
   visualize versões mais antigas deste item e, se desejar, restaure a
-  partir de uma versão mais antiga. Consulte [Histórico de
-  versões](https://docs.joomla.org/Help4.x:Components_Version_History/pt-br "Help4.x:Components Version History/pt-br")
+  partir de uma versão mais antiga. Consulte Histórico de
+  versões
   para mais informações.
 - **Fechar**: Fecha a tela atual e retorna à tela anterior sem salvar
   nenhuma modificação que você possa ter feito.
 - **Ajuda'** Abre a tela de ajuda.
-
-## Informações relacionadas
-
-- <a
-  href="https://docs.joomla.org/index.php?title=Help4.x:TinyMCE/pt-br&amp;action=edit&amp;redlink=1"
-  class="new" title="Help4.x:TinyMCE/pt-br (page does not exist)">TinyMCE
-  - o editor WYSIWYG padrão</a>
-- [Notas de
-  usuários](https://docs.joomla.org/Help4.x:User_Notes/pt-br "Help4.x:User Notes/pt-br")
-- <a
-  href="https://docs.joomla.org/index.php?title=Help4.x:User_Notes:_New_or_Edit_Category/pt-br&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Help4.x:User Notes: New or Edit Category/pt-br (page does not exist)">Notas
-  de usuários: Categoria nova ou editar categoria</a>
-- [Notas de usuários:
-  Categorias](https://docs.joomla.org/Help4.x:User_Notes:_Categories/pt-br "Help4.x:User Notes: Categories/pt-br")

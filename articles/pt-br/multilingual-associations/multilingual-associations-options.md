@@ -34,8 +34,7 @@ Para alterar as permissões para as associações, faça o seguinte:
       a interface administrativa do usuário.
 3.  Selecione a permissão desejada para a ação que deseja alterar.
     - **Herdado**: Herdado, para os usuários deste grupo, das permissões
-      nas [configurações
-      globais](https://docs.joomla.org/Help4.x:Site_Global_Configuration/pt-br#permissions "Help4.x:Site Global Configuration/pt-br").
+      nas
     - **Permitido**: Permitido para os usuários neste grupo.Observação:
       Se esta ação for negada em um dos níveis mais altos, a permissão
       permitida aqui não terá efeito. Uma configuração negada não pode
@@ -55,16 +54,3 @@ da tela](#screenshot) acima.
 - **Fechar**: Fecha a tela atual e retorna à tela anterior sem salvar
   nenhuma modificação que tenha sido feita.
 - **Ajuda**: Abre esta tela de ajuda.
-
-## Informações relacionadas
-
-- Este
-  [portal](https://docs.joomla.org/Portal:Joomla_4/pt-br "Portal:Joomla 4/pt-br")
-  reúne informações relacionadas especificamente ao Joomla! 4.
-
-|                                                                                                                                                           |                                                                                                     |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| Telas de ajuda relacionadas                                                                                                                               | Descrição                                                                                           |
-| <span class="mw-selflink selflink">Associações multilíngues: Opções</span>                                                                                | Permissões padrões usadas para todo o conteúdo no componente para associações multilíngues.         |
-| [Associações multilíngues](https://docs.joomla.org/Help4.x:Multilingual_Associations/pt-br "Help4.x:Multilingual Associations/pt-br")                     | Essa tela é usada para configurar uma associação entre um item e as linguagens instaladas do site.  |
-| [Associações multilíngues: Editar](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Edit/pt-br "Help4.x:Multilingual Associations: Edit/pt-br") | Usado para adicionar ou editar as associações entre as linguagens mostradas em um site multilíngue. |

@@ -61,10 +61,9 @@ The normal procedure for installing a Joomla! Extension is as follows:
     Component Success". If the installation is not successful, an error
     message will display.
 4.  Depending on the Extension, it may be necessary to enable the
-    Extension (for example, in the [Modules
-    list](https://docs.joomla.org/Help4.x:Modules/en "Help4.x:Modules/en")
-    or [Plugins
-    list](https://docs.joomla.org/Help4.x:Plugins/en "Help4.x:Plugins/en")).
+    Extension (for example, in the Modules
+    list
+    or
 
 ### Install from Web Tab
 
@@ -135,16 +134,11 @@ Screenshot above. The functions are:
 
 - **Install.** Links to the <span class="mw-selflink selflink">Install
   Screen</span>.
-- **Update.** Links to the [Update
-  Screen](https://docs.joomla.org/Help4.x:Extensions:_Update/en "Help4.x:Extensions: Update/en").
-- **Manage.** Links to the [Manage
-  Screen](https://docs.joomla.org/Help4.x:Extensions:_Manage/en "Help4.x:Extensions: Manage/en").
-- **Discover.** Links to the [Discover
-  Screen](https://docs.joomla.org/Help4.x:Extensions:_Discover/en "Help4.x:Extensions: Discover/en").
-- **Database.** Links to the [Database
-  Screen](https://docs.joomla.org/Help4.x:Information:_Database/en "Help4.x:Information: Database/en").
-- **Warnings.** Links to the [Warnings
-  Screen](https://docs.joomla.org/Help4.x:Information:_Warnings/en "Help4.x:Information: Warnings/en").
+- **Update.** Links to the
+- **Manage.** Links to the
+- **Discover.** Links to the
+- **Database.** Links to the
+- **Warnings.** Links to the
 - **Install Languages.** Links to the Install Languages Screen.
 - **Update Sites.** Links to the <a
   href="https://docs.joomla.org/index.php?title=Help4.x:Extensions_Extension_Manager_Update_Sites/en&amp;action=edit&amp;redlink=1"

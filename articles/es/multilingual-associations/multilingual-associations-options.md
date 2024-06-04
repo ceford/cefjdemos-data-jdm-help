@@ -56,16 +56,3 @@ Screenshot above.
 - **Cerrar**. Cierra la pantalla actual y vuelve a la pantalla anterior
   sin guardar las modificaciones realizadas.
 - **Ayuda**. Se abre esta pantalla de ayuda.
-
-## Información relacionada
-
-- Este
-  [portal](https://docs.joomla.org/Portal:Joomla_4/es "Portal:Joomla 4/es")
-  reúne información específica relativa a Joomla 4.
-
-|                                                                                                                                                     |                                                                                            |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Pantallas de ayuda relacionadas                                                                                                                     | Descripción                                                                                |
-| <span class="mw-selflink selflink">Asociaciones multiidioma: Opciones</span>                                                                        | Default permissions used for all content in the Multilingual Associations Component.       |
-| [Asociaciones multiidioma](https://docs.joomla.org/Help4.x:Multilingual_Associations/es "Help4.x:Multilingual Associations/es")                     | This screen is used to set up an Association between an item and installed site languages. |
-| [Asociaciones multiidioma: Editar](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Edit/es "Help4.x:Multilingual Associations: Edit/es") | Used to add or edit associations between languages displayed on a multilingual website.    |

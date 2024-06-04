@@ -36,7 +36,7 @@ Perto do topo da página, você verá a barra de filtros mostrada na
 captura de tela acima. As funções são:
 
 **Barra de pesquisa**: Perto do topo da página, você verá a barra de
-pesquisa mostrada na [captura de tela](#screenshot) acima.
+pesquisa mostrada na captura de tela acima.
 
 - **Pesquisar por texto**: Insira parte do termo de pesquisa e clique no
   ícone "Pesquisar". *Passe o mouse* para ver uma *dica* indicando quais
@@ -53,8 +53,7 @@ pesquisa mostrada na [captura de tela](#screenshot) acima.
     ordem crescente e decrescente.
 - **Número a ser exibido**: Mostra o número de itens em uma lista.
   Selecione na lista suspensa para alterar o número exibido.O padrão
-  para um site é '20', mas isso pode ser alterado nas [Configurações
-  Globais](https://docs.joomla.org/Help4.x:Site_Global_Configuration/pt-br#defaultlistlimit "Help4.x:Site Global Configuration/pt-br").
+  para um site é '20', mas isso pode ser alterado nas
 - **Selecionar categoria**: Selecione a partir da lista das categorias
   disponíveis.
 - **Selecionar cliente**: Selecione a partir da lista dos clientes
@@ -84,7 +83,7 @@ title="File:Help30-colheader-select-track-type-pt-br.png">File:Help30-colheader-
 
 **Controles da página**: Quando o número de itens for mais que uma
 página, você verá uma barra de controle na página perto da parte
-inferior da página mostrada na [captura de tela](#screenshot) acima. O
+inferior da página mostrada na captura de tela acima. O
 número da página atual que está sendo visualizada tem um fundo de cor
 escura.
 
@@ -107,22 +106,11 @@ de tela](#Captura_de_tela) acima. As funções são:
   parâmetros padrões, podem ser editadas.
 - **Ajuda**: Abre a tela de ajuda.
 
-Consulte as [opções do gerenciador dos
-artigos](https://docs.joomla.org/Help4.x:Articles:_Options/pt-br "Help4.x:Articles: Options/pt-br")
+Consulte as opções do gerenciador dos
+artigos
 para obter mais informações.
 
 ## Dicas rápidas
 
 - Você precisa adicionar pelo menos um cliente dos banners e uma
   categoria para banners *antes* de adicionar um banner.
-
-## Informações relacionadas
-
-- Para criar ou editar banners: [Banners -
-  Novo/editar](https://docs.joomla.org/Help4.x:Banners:_Edit/pt-br "Help4.x:Banners: Edit/pt-br")
-- Para trabalhar com os clientes dos banners: [Gerenciador dos clientes
-  dos
-  banners](https://docs.joomla.org/Help4.x:Banners:_Clients/pt-br "Help4.x:Banners: Clients/pt-br")
-- Para trabalhar com categorias para banners: [Gerenciador das
-  categorias para
-  banners](https://docs.joomla.org/Help4.x:Banners:_Categories/pt-br "Help4.x:Banners: Categories/pt-br")

@@ -1,7 +1,7 @@
 <!-- Filename: Help4.x:Site_Global_Configuration_Server / Display title: Общие настройки: Сервер -->
 
- **←**  [Общие
-настройки](https://docs.joomla.org/Help4.x:Site_Global_Configuration/ru#server "Help4.x:Site Global Configuration/ru")
+ **←**  Общие
+настройки
 
 <img
 src="https://docs.joomla.org/images/thumb/a/a2/Help-4x-Global-Configuration-server-subscreen-ru.png/800px-Help-4x-Global-Configuration-server-subscreen-ru.png"
@@ -45,5 +45,5 @@ srcset="https://docs.joomla.org/images/thumb/6/69/Help-4x-Global-Configuration-s
 data-file-width="1859" data-file-height="1220" width="800" height="525"
 alt="Скриншот: Параметры почты" />
 
- **←**  [Общие
-настройки](https://docs.joomla.org/Help4.x:Site_Global_Configuration/ru#server "Help4.x:Site Global Configuration/ru")
+ **←**  Общие
+настройки

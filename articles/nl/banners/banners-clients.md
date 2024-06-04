@@ -11,11 +11,10 @@ eerste advertentie kunt toevoegen.
 
 - Selecteer **Componenten → Advertenties → Adverteerders** vanuit het
   drop-down menu van het ***Joomla! Beheerpaneel***. U kunt ook de
-  'Adverteerders' menu-link selecteren vanuit [Advertentie
-  categorieën](https://docs.joomla.org/Help4.x:Banners:_Categories/nl "Help4.x:Banners: Categories/nl"),
-  [Advertentiebeheer](https://docs.joomla.org/Help4.x:Banners:_Edit/nl "Help4.x:Banners: Edit/nl")
-  of [Advertenties
-  volgen](https://docs.joomla.org/Help4.x:Banners:_Tracks/nl "Help4.x:Banners: Tracks/nl").
+  'Adverteerders' menu-link selecteren vanuit Advertentie
+  categorieën,
+  Advertentiebeheer
+  of
 
 ## Schermafbeelding
 
@@ -93,8 +92,7 @@ bovenstaande Screenshot.
     aflopend volgorde.
 - **Te tonen aantal.** Toont het aantal items in een lijst. Selecteer
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#defaultlistlimit "Help4.x:Site Global Configuration/nl").
+  voor een site is '20' maar dit kan veranderd worden bij de
 
 ### Filter opties
 
@@ -168,12 +166,4 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 
 ## Opties
 
-Zie [Advertentie:
-Opties](https://docs.joomla.org/Help4.x:Banners:_Options/nl "Help4.x:Banners: Options/nl").
-
-## Verwante informatie
-
-- Om advertenties aan te maken of te bewerken: [Advertentie -
-  Nieuw/Bewerk](https://docs.joomla.org/Help4.x:Banners:_Edit/nl "Help4.x:Banners: Edit/nl")
-- Om met advertentiecategorieën te werken:
-  [Advertentiecategorieën](https://docs.joomla.org/Help4.x:Banners:_Categories/nl "Help4.x:Banners: Categories/nl")
+Zie

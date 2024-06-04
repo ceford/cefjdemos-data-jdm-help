@@ -99,8 +99,8 @@ alt="pagebreak button" />
   need to change a field in the pagebreak, click on the article just
   past the pagebreak, press Backspace until the pagebreak is deleted,
   then insert a new pagebreak with the desired information.
-- The configuration is set in the [Content - Page
-  Break](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Content_Group/en#pagebreak "Chunk4x:Extensions Plugin Manager Edit Content Group/en")
+- The configuration is set in the Content - Page
+  Break
   plugin.
 
 Read More: This button inserts a Read more break in the article. This
@@ -110,8 +110,8 @@ shows as a red dotted line across the article.
   called the Intro Text, will initially display, along with a Read more
   link. If the User clicks this link, either the entire article or just
   the part after the Read more link is displayed. This depends on the
-  setting of the [Intro
-  Text](https://docs.joomla.org/Help4.x:Articles:_Edit/en#introtext "Help4.x:Articles: Edit/en")
+  setting of the Intro
+  Text
   parameters for the article.
 - The Read more break allows you to save space on pages by just showing
   the Intro Text.
@@ -247,8 +247,8 @@ alt="codemirror example" />
   item of the site.
 - CodeMirror offers some of the same advantages of using 'Editor -
   None', but makes it somewhat easier to work with raw HTML code.
-- The configuration is set in the [Editor -
-  CodeMirror](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Editor_Group/en#codemirror "Chunk4x:Extensions Plugin Manager Edit Editor Group/en")
+- The configuration is set in the Editor -
+  CodeMirror
   plugin.
 
 ## None

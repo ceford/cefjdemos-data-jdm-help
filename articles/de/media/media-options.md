@@ -50,25 +50,25 @@ alt="Media Options screen" />
   (Dateitypen), die zum Hochladen zugelassen sind (Komma separiert).
   Diese werden auf gültige Bild-Header geprüft und zur Auswahl von
   Bildern mit dem
-  [Medienformularfeld](https://docs.joomla.org/Media_form_field_type "Special:MyLanguage/Media form field type")
+  Medienformularfeld
   verwendet.
 - **Gültige Audioerweiterungen (Dateitypen)**. Audioerweiterungen
   (Dateitypen), die zum Hochladen zugelassen sind (durch Komma
   getrennt). Diese werden auf gültige Audio-Header geprüft und zur
   Auswahl von Audiodateien mit dem
-  [Medienformularfeld](https://docs.joomla.org/Media_form_field_type "Special:MyLanguage/Media form field type")
+  Medienformularfeld
   verwendet.
 - **Gültige Videoerweiterungen (Dateitypen)**. Videoerweiterungen
   (Dateitypen), die zum Hochladen zugelassen sind (durch Komma
   getrennt). Diese werden auf gültige Video-Header geprüft und zur
   Auswahl von Videodateien mit dem
-  [Medienformularfeld](https://docs.joomla.org/Media_form_field_type "Special:MyLanguage/Media form field type")
+  Medienformularfeld
   verwendet.
 - **Gültige Dokumenterweiterungen (Dateitypen)**. Dokumenterweiterungen
   (Dateitypen), die zum Hochladen zugelassen sind (durch Komma
   getrennt). Diese werden auf gültige Dokument-Header geprüft und zur
   Auswahl von Dokumentdateien mit dem
-  [Medienformularfeld](https://docs.joomla.org/Media_form_field_type "Special:MyLanguage/Media form field type")
+  Medienformularfeld
   verwendet.
 - **Ignorierte Dateiendungen**. Eine Komma separierte Liste von
   Dateitypen zum Hochladen.
@@ -78,7 +78,7 @@ alt="Media Options screen" />
 ### Berechtigungen
 
 In diesem Teil werden die Standardwerte der
-[Zugriffskontrollliste](https://docs.joomla.org/Access_Control_List/de "Access Control List/de")
+Zugriffskontrollliste
 für alle Medien eingestellt.
 
 <img
@@ -104,7 +104,7 @@ Um Berechtigungen für Medien zu ändern:
     - **Bearbeiten**. Benutzer können Medien bearbeiten.
 3.  Die Berechtigungen der gewählten Aktion wählen.
     - **Vererbt**. Für Benutzer dieser Gruppe von der
-      [Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#permissions "Help4.x:Site Global Configuration/de")
+      Konfiguration
       vererbt .
     - **Erlaubt**. Für Benutzer dieser Gruppe erlaubt. Hinweis: Wenn die
       Aktion auf einer höheren Ebene 'Verweigert' wird, ist die
@@ -117,7 +117,7 @@ Um Berechtigungen für Medien zu ändern:
 
 ## Werkzeugleiste
 
-Das [Bildschirmfoto](#screenshot) zeigt die Werkzeugleiste im oberen
+Das Bildschirmfoto zeigt die Werkzeugleiste im oberen
 Bereich.
 
 - **Speichern**. Speichert die Medien-Optionen und bleibt auf der
@@ -135,10 +135,3 @@ Bereich.
 - Unerfahrene Benutzer sollten die Standard-Werte belassen, bis sie mehr
   über die Verwendung Globaler Einstellungen wissen.
 - Erfahrene Benutzer können mit geeigneten Standard-Werten Zeit sparen.
-
-## Verwandte Informationen
-
-- Verwandte Hilfeseite:
-  [Medien](https://docs.joomla.org/Help4.x:Media/de "Help4.x:Media/de").
-- Tutorial: [Medien
-  verwalten](https://docs.joomla.org/J4.x:Managing_Media/de "J4.x:Managing Media/de").

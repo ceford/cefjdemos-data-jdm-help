@@ -77,10 +77,3 @@ De functies zijn:
   krijgen, kunt u werk besparen door de nieuwe groep als kind van de
   bestaande groep aan te maken. Op die manier kunt u de rechten voor de
   nieuwe groep die verschillen aanpassen.
-
-## Verwante informatie
-
-- [Gebruikers:
-  Gebruikersgroepen](https://docs.joomla.org/Help4.x:Users:_Groups/nl "Help4.x:Users: Groups/nl")
-- [ACL handleiding voor Joomla!
-  3.x](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/nl "J3.x:Access Control List Tutorial/nl")

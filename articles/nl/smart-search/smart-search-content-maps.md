@@ -114,8 +114,7 @@ bovenstaande Screenshot.
     aflopend volgorde.
 - **Te tonen aantal.** Toont het aantal items in een lijst. Selecteer
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#defaultlistlimit "Help4.x:Site Global Configuration/nl").
+  voor een site is '20' maar dit kan veranderd worden bij de
 
 **Filteropties**
 
@@ -162,16 +161,14 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   krijgen door opnieuw indexeren van Slim zoeken.
 - **Opties.** Opent het venster Opties, waar instellingen zoals de
   standaard parameters kunnen worden bewerkt.
-- **Help**. Opent dit helpscherm. Kijk bij [Slim zoeken:
-  Opties](https://docs.joomla.org/Help4.x:Smart_Search:_Options/nl "Help4.x:Smart Search: Options/nl")
+- **Help**. Opent dit helpscherm. Kijk bij Slim zoeken:
+  Opties
   voor meer details.
 
 ## Snelle tips
 
 - Slim zoeken is geïntroduceerd in Joomla 3.0 maar wordt niet standaard
   geactiveerd in die versie.
-- Als u nieuw bent bij Slim zoeken, dan zou u de [Slim zoeken snelstart
-  gids](https://docs.joomla.org/Smart_Search_quickstart_guide "Smart Search quickstart guide")
+- Als u nieuw bent bij Slim zoeken, dan zou u de Slim zoeken snelstart
+  gids
   moeten lezen.
-
-## Verwante informatie

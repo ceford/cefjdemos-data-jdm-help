@@ -3,17 +3,17 @@
 ## Descrição
 
 Usado para adicionar ou editar banners que podem ser mostrados em seu
-site Joomla!. Lembre-se de criar pelo menos um [cliente do
-banner](https://docs.joomla.org/Help4.x:Banners:_Clients/pt-br "Help4.x:Banners: Clients/pt-br")
-e uma [categoria do
-banner](https://docs.joomla.org/Help4.x:Banners:_Categories/pt-br "Help4.x:Banners: Categories/pt-br")
+site Joomla!. Lembre-se de criar pelo menos um cliente do
+banner
+e uma categoria do
+banner
 antes de criar quaisquer banners.
 
 ## Como acessar
 
 Para "**adicionar**" um novo banner ou "**editar**" um banner existente,
-navegue até o [Gerenciador para
-banners](https://docs.joomla.org/Help4.x:Banners/pt-br "Help4.x:Banners/pt-br"):
+navegue até o Gerenciador para
+banners:
 
 - Selecione **Componentes → Banners → Novo** para criar um novo
   banner.
@@ -35,12 +35,11 @@ title="File:Help-4x-Components-Banners-Banners-Edit-screen-pt-br.png">800px</a>
 ## Campos do formulário
 
 - **Nome**: O nome do banner. Este é o nome que será mostrado na coluna
-  *Nome* do [gerenciador para
-  banners](https://docs.joomla.org/Help4.x:Banners/pt-br "Help4.x:Banners/pt-br").
+  *Nome* do
 - **Alias**: O nome interno do item. Normalmente, você pode deixar em
   branco e o Joomla preencherá um valor padrão de título em letras
-  minúsculas e com traços em vez de espaços. [Saiba
-  mais.](https://docs.joomla.org/Alias/pt-br "Special:MyLanguage/Alias/pt-br")
+  minúsculas e com traços em vez de espaços. Saiba
+  mais.
 
 ### Aba (guia) Detalhes
 
@@ -51,7 +50,7 @@ title="File:Help-4x-Components-Banners-Banners-Edit-screen-pt-br.png">800px</a>
   - **Imagem**: Arquivo da imagem a ser mostrada no banner. Clique no
     botão *Selecionar* para navegar e selecionar o arquivo da imagem a
     ser usada. Use a página
-    [Mídia](https://docs.joomla.org/Help4.x:Media/pt-br "Help4.x:Media/pt-br")
+    Mídia
     para enviar arquivos de imagem para banners ao seu site. As imagens
     para os banners devem estar no diretório
     https://docs.joomla.org/images/banners/.
@@ -71,7 +70,7 @@ title="File:Help-4x-Components-Banners-Banners-Edit-screen-pt-br.png">800px</a>
       personalizado. Por exemplo:
       [![`{NAME}`](insira%20o%20URL%20da%20imagem "{NAME}")](%7BCLICKURL%7D).
       Outra opção é inserir um código HTML personalizado. Por exemplo:
-      [![](caminhodasuaimagem)](https://seudomínio.com)
+      ![](caminhodasuaimagem)
 - **URL ao acionar**: O URL que será acionado quando o usuário acionar o
   banner.
 - **Description**. Enter a description for the Banner.
@@ -94,8 +93,8 @@ começarão a ser mostrados automaticamente.*
 
 - **Linguagem**: Linguagem do item.
 - **Nota da versão**: Campo opcional para identificar esta versão do
-  item na janela do [histórico das
-  versões](https://docs.joomla.org/Help40:Components_Version_History/pt-br "Special:MyLanguage/Help40:Components Version History/pt-br")
+  item na janela do histórico das
+  versões
   do item.
 
 ### Aba (guia) Detalhes do banner
@@ -186,13 +185,11 @@ e selecione um data no calendário.
       - Adicione as palavras-chave "cachorro" e "gato" aos artigos
         apropriados.
       - Adicione as tags "cachorro" e "gato" aos banners apropriados em
-        [Banners:
-        Editar](https://docs.joomla.org/Help40:Banners:_Edit/pt-br "Special:MyLanguage/Help40:Banners: Edit/pt-br").
+
       - Defina o parâmetro, do módulo para banners, "Pesquisar por tags"
-        como "Sim" em [Módulos do site:
-        Banners](https://docs.joomla.org/Help40:Site_Modules:_Banners/pt-br "Special:MyLanguage/Help40:Site Modules: Banners/pt-br").
-  3.  Apenas para artigos, em combinação com o módulo "[Artigos -
-      Relacionados](https://docs.joomla.org/Help40:Site_Modules:_Articles_-_Related/pt-br "Special:MyLanguage/Help40:Site Modules: Articles - Related/pt-br")",
+        como "Sim" em
+  3.  Apenas para artigos, em combinação com o módulo "Artigos -
+      Relacionados",
       para mostrar artigos que compartilham pelo menos uma palavra-chave
       em comum. Por exemplo, se o artigo que está sendo mostrado tiver
       as palavras-chaves "gatos, cachorros, macacos", quaisquer outros
@@ -225,16 +222,15 @@ de tela](#Captura_de_tela) acima. As funções são:
 - **Versões**: Abre a janela do histórico das versões do item para
   mostrar as versões anteriores deste item. Isso permite que você
   visualize versões mais antigas deste item e, se desejar, restaure a
-  partir de uma versão mais antiga. Consulte [histórico das
-  versões](https://docs.joomla.org/Help40:Components_Version_History/pt-br "Special:MyLanguage/Help40:Components Version History/pt-br")
+  partir de uma versão mais antiga. Consulte histórico das
+  versões
   para mais informações.
 - **Ajuda**: Abre a tela de ajuda.
 
 ## Dicas rápidas
 
 - Os banners são colocados em páginas específicas adicionando módulos do
-  tipo "banners" através do [gerenciador para
-  módulos](https://docs.joomla.org/Help4.x:Modules/pt-br "Help4.x:Modules/pt-br").
+  tipo "banners" através do
 - Se você tem uma série de banners que gostaria de mostrar
   aleatóriamente em uma ou mais páginas:
   1.  Crie os banners que deseja incluir, certificando-se de que
@@ -247,25 +243,3 @@ de tela](#Captura_de_tela) acima. As funções são:
 
 Com essas configurações, os diferentes banners para esse cliente e essa
 categoria serão mostrados nas páginas selecionadas em ordem aleatória.
-
-## Informações relacionadas
-
-**Mais ajuda relacionada ao componente para banners**:
-
-|                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                      |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Telas de ajuda relacionadas                                                                                                                                      | Descrição                                                                                                                                                                                                                                                                                                                                                                                            |
-| [Banners](https://docs.joomla.org/Help4.x:Banners/pt-br "Help4.x:Banners/pt-br")                                                                                 | Usado para visualizar uma lista contendo os banners existentes, editar os atuais e criar novos banners. Deve haver pelo menos um cliente para banner e uma categoria para banner antes que um banner possa ser criado.                                                                                                                                                                               |
-| [Banners: Opções](https://docs.joomla.org/Help4.x:Banners:_Options/pt-br "Help4.x:Banners: Options/pt-br")                                                       | Opções globais (configurações) relacionadas a clientes para banners.                                                                                                                                                                                                                                                                                                                                 |
-| [Banners: Categorias](https://docs.joomla.org/Help4.x:Banners:_Categories/pt-br "Help4.x:Banners: Categories/pt-br")                                             | Usado para visualizar uma lista contendo as categorias para banners existentes, editar as atuais e criar novas categorias para banners. Observe que as categorias para banners são separadas das outras categorias, como artigos, contatos, feeds paranotícias e links da web. É preciso haver pelo menos um cliente para banners e uma categoria para banners antes que um banner possa ser criado. |
-| [Banners: Categoria nova ou editar categoria](https://docs.joomla.org/Help4.x:Banners:_New_or_Edit_Category/pt-br "Help4.x:Banners: New or Edit Category/pt-br") | É aqui que você pode adicionar uma nova categoria para banners ou editar uma já existente. Observe que você precisa criar pelo menos uma categoria para banners antes de criar um banner. Além disso, as categorias para banners são separadas dos outros tipos de categorias, como artigos, contatos e feeds para notícias.                                                                         |
-| [Banners: Clientes](https://docs.joomla.org/Help4.x:Banners:_Clients/pt-br "Help4.x:Banners: Clients/pt-br")                                                     | O gerenciador dos clientes para banners é onde você pode editar os clientes para banners existentes ou criar novos. Observe que você deve ter pelo menos um cliente para banners e uma categoria para banners definidos antes de poder adicionar seu primeiro banner.                                                                                                                                |
-| [Banners: Cliente novo ou editar cliente](https://docs.joomla.org/Help4.x:Banners:_New_or_Edit_Client/pt-br "Help4.x:Banners: New or Edit Client/pt-br")         | É aqui que você adiciona um novo cliente para banners ou edita um existente. Observe que você precisa criar pelo menos um cliente para banners antes de criar um banner.                                                                                                                                                                                                                             |
-| [Monitaramento para os banners](https://docs.joomla.org/Help4.x:Banners:_Tracks/pt-br "Help4.x:Banners: Tracks/pt-br")                                           | Usado para visualizar uma lista contendo informações sobre o monitoramento dos banners existentes.                                                                                                                                                                                                                                                                                                   |
-
-**Para colocar banners nas páginas**:
-
-|                                                                                                                       |                                                            |
-|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
-| Telas de ajuda relacionadas                                                                                           | Descrição                                                  |
-| [Módulo "Banners"](https://docs.joomla.org/Help4.x:Site_Modules:_Banners/pt-br "Help4.x:Site Modules: Banners/pt-br") | O módulo "Banners" mostra os banners ativos do componente. |

@@ -120,10 +120,3 @@ Screenshot above.
   until you learn more about using global options.
 - If you are an advanced user, you can save time by creating good
   default values here.
-
-## Información relacionada
-
-- Related Help screen:
-  Media.
-- Tutorial: [Managing
-  Media](https://docs.joomla.org/J4.x:Managing_Media/en "J4.x:Managing Media/en").

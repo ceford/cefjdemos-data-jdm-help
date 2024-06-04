@@ -35,13 +35,12 @@ alt="Content Article Manager Options screen" />
 
 Opties gebruikt in artikelen en de menu-items
 Blog,
-[Lijst](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/nl#options "Help4.x:Menu Item: Category List/nl"),
-[Speciale
-Artikelen](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/nl#options "Help4.x:Menu Item: Featured Articles/nl"),
-[Lijst met alle
-Categorieën](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/nl#options "Help4.x:Menu Item: List All Categories/nl")
-en [Enkel
-artikel](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article/nl#options "Help4.x:Menu Item: Single Article/nl").
+Lijst,
+Speciale
+Artikelen,
+Lijst met alle
+Categorieën
+en
 
 **Weergave**
 
@@ -68,21 +67,21 @@ artikel](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article/nl#options "H
 - **Categorie**. Toont de categorietitel van een artikel.
   - **Link categorie**. Toont de titel als link naar die categorie.Let
     op: Dit kan ingesteld worden op óf een Blog óf een lijst weergave
-    met de [Kies een
-    weergave](https://docs.joomla.org/Help4.x:Articles:_Options/nl#choosealayout "Help4.x:Articles: Options/nl")
+    met de Kies een
+    weergave
     optie op het categorie tabblad.
 - **Hoofdcategorie**. Toont de titel van de hoofdcategorie van een
   artikel.
   - **Link bovenliggende categorie**. Toont de titel als link naar die
     categorie.Let op: Dit kan ingesteld worden op óf een Blog óf een
-    lijst weergave met de [Kies een
-    weergave](https://docs.joomla.org/Help4.x:Articles:_Options/nl#choosealayout "Help4.x:Articles: Options/nl")
+    lijst weergave met de Kies een
+    weergave
     optie op het categorie tabblad.
 
 **Associaties**
 
-- **Associaties**. Toont de geassocieerde vlaggen of taalcodes. [Alleen
-  meertaligheid.](https://docs.joomla.org/Help4.x:Multilingual_Associations/nl "Help4.x:Multilingual Associations/nl")
+- **Associaties**. Toont de geassocieerde vlaggen of taalcodes. Alleen
+  meertaligheid.
   - **Gebruik afbeeldingen van vlaggen**. Toon taalkeuze als
     afbeeldingsvlag.
 
@@ -91,10 +90,10 @@ artikel](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article/nl#options "H
 - **Auteur**. Toont de auteur van een artikel.
   - **Link naar de contactpagina van de auteur**. Toont het als link
     naar een contactpersonen weergave van die auteur.Let op: De auteur
-    moet [als contactpersoon
-    ingesteld](https://docs.joomla.org/Help4.x:Contacts:_Edit/nl "Help4.x:Contacts: Edit/nl")
-    zijn. Een link zal ook niet zichtbaar zijn als er een [Auteur
-    alias](https://docs.joomla.org/Help4.x:Articles:_Edit/nl#createdbyalias "Help4.x:Articles: Edit/nl")
+    moet als contactpersoon
+    ingesteld
+    zijn. Een link zal ook niet zichtbaar zijn als er een Auteur
+    alias
     waarde voor het artikel is.
 
 **Datum**
@@ -144,29 +143,29 @@ alt="Content Article Manager Options editing layout subscreen" />
 
 - **Gebruik captcha voor verzenden**. Selecteer de captcha plugin
   die gebruikt zal worden voor het artikel verzendformulier. Zorg dat er
-  een captcha plugin is geselecteerd bij de [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#captcha "Help4.x:Site Global Configuration/nl")
+  een captcha plugin is geselecteerd bij de Algemene
+  instellingen
   wanneer 'Gebruik algemeen' is geselecteerd.
-- **Publicatie opties**. Verberg het [Publicatie opties
-  tabblad](https://docs.joomla.org/Help4.x:Articles:_Edit/nl#publishing "Help4.x:Articles: Edit/nl")
+- **Publicatie opties**. Verberg het Publicatie opties
+  tabblad
   in het beheergedeelte tijden het bewerken van artikelen. Dit betekent
   dat gebruikers aan de beheerkant niet in staat zijn de velden in dit
   tabblad te bewerken . Deze velden worden altijd op hun standaard
   waarde gezet.
-- **Artikel opties**. Verberg het [Artikel opties
-  tabblad](https://docs.joomla.org/Help4.x:Articles:_Edit/nl#options "Help4.x:Articles: Edit/nl")
+- **Artikel opties**. Verberg het Artikel opties
+  tabblad
   in in het beheerdeel tijdens het bewerken van artikelen. Dit betekent
   dat gebruikers in het beheergedeelte niet in staat zijn de velden op
   dit tabblad te bewerken. Deze velden worden altijd op hun standaard
   waarde gezet.
-- **Schermopties bewerken**. Verberg het [Instellingen bewerkscherm
-  tabblad](https://docs.joomla.org/Help4.x:Articles:_Edit/nl#configureeditscreen "Help4.x:Articles: Edit/nl")
+- **Schermopties bewerken**. Verberg het Instellingen bewerkscherm
+  tabblad
   bij het bewerken van artikelen.
-- **Artikelrechten**. Verberg het [Rechten
-  tabblad](https://docs.joomla.org/Help4.x:Articles:_Edit/nl#permissions "Help4.x:Articles: Edit/nl")
+- **Artikelrechten**. Verberg het Rechten
+  tabblad
   bij het bewerken van artikelen.
-- **Meertaligheid associaties**. Verberg het [Associaties
-  tabblad](https://docs.joomla.org/Help4.x:Articles:_Edit/nl#associations "Help4.x:Articles: Edit/nl")
+- **Meertaligheid associaties**. Verberg het Associaties
+  tabblad
   bij het bewerken van artikelen.
 - **Versies inschakelen**. Sla versie historie voor artikelen en
   categorieën op.
@@ -174,8 +173,8 @@ alt="Content Article Manager Options editing layout subscreen" />
   wordt voor een artikel of categorie. Als een artikel of categorie
   opgeslagen wordt en het maximum aantal bereikt bereikt is, zal de
   oudste versie automatisch verwijderd worden. Indien op "0", zullen
-  versies nooit automatisch verwijderd worden. [Meer
-  leren.](https://docs.joomla.org/Help4.x:Components_Version_History/nl "Help4.x:Components Version History/nl")
+  versies nooit automatisch verwijderd worden. Meer
+  leren.
 - **Afbeeldingen en links - website**. Verberg de afbeeldingen en links
   op het bewerkscherm van het artikel op de website.
 - **Afbeeldingen en links - beheergedeelte**. Verberg het [Afbeeldingen
@@ -210,9 +209,8 @@ alt="Content Article Manager Options editing layout subscreen" />
 Opties die bepalen hoe een categorie en zijn artikelen getoond worden.
 Ze worden gebruikt bij categorieën en de menu-items
 Blog,
-[Lijst](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/nl#category "Help4.x:Menu Item: Category List/nl")
-en [Alle
-categorieën](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/nl#category "Help4.x:Menu Item: List All Categories/nl").
+Lijst
+en
 
 <img
 src="https://docs.joomla.org/images/thumb/9/93/Help-4x-Content-Article-Manager-Options-category-subscreen-nl.png/600px-Help-4x-Content-Article-Manager-Options-category-subscreen-nl.png"
@@ -242,8 +240,7 @@ alt="Content Article Manager Options category subscreen" />
 
 ### Categorieën
 
-Opties bepalen de weergave van het menu-item [Lijst met alle
-categorieën](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/nl#categories "Help4.x:Menu Item: List All Categories/nl").
+Opties bepalen de weergave van het menu-item
 
 <img
 src="https://docs.joomla.org/images/thumb/5/5c/Help-4x-Content-Article-Manager-Options-categories-subscreen-nl.png/600px-Help-4x-Content-Article-Manager-Options-categories-subscreen-nl.png"
@@ -266,10 +263,9 @@ alt="Content Article Manager Options categories subscreen" />
 
 Deze opties bepalen de weergave van de menu-items
 Blog,
-[Speciale
-artikelen](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/nl#blog "Help4.x:Menu Item: Featured Articles/nl")
-en [Lijst met alle
-categorieën](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/nl#blog "Help4.x:Menu Item: List All Categories/nl").
+Speciale
+artikelen
+en
 
 <img
 src="https://docs.joomla.org/images/thumb/7/76/Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-nl.png/600px-Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-nl.png"
@@ -338,8 +334,7 @@ alt="Content Article Manager Options blog featured layout subscreen" />
 
 Deze opties bepalen de weergave van de menu-items
 List
-en [Lijst met alle
-categorieën](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/nl#listlayouts "Help4.x:Menu Item: List All Categories/nl").
+en
 
 <img
 src="https://docs.joomla.org/images/thumb/9/94/Help-4x-Content-Article-Manager-Options-list-layout-subscreen-nl.png/600px-Help-4x-Content-Article-Manager-Options-list-layout-subscreen-nl.png"
@@ -375,9 +370,8 @@ alt="Content Article Manager Options list layout subscreen" />
 
 Opties gedeeld door de menu-items
 Blog,
-[Lijst](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/nl#listlayouts "Help4.x:Menu Item: Category List/nl")
-en [Speciale
-artikelen](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/nl#blog "Help4.x:Menu Item: Featured Articles/nl").
+Lijst
+en
 
 <img
 src="https://docs.joomla.org/images/thumb/f/f0/Help-4x-Content-Article-Manager-Options-shared-subscreen-nl.png/600px-Help-4x-Content-Article-Manager-Options-shared-subscreen-nl.png"
@@ -394,8 +388,7 @@ alt="Content Article Manager Options shared subscreen" />
   - Titel alfabetisch omgekeerd: Categorieën worden getoond op de titel
     in omgekeerd alfabetische volgorde (Z tot A).
   - Volgorde categorieën: Categorieën zijn gesorteerd volgens de
-    volgorde kolom ingegeven in [Artikelen:
-    Categorieën](https://docs.joomla.org/Help4.x:Articles:_Categories/nl#ordering "Help4.x:Articles: Categories/nl").
+    volgorde kolom ingegeven in
 - **Volgorde artikelen**.
   - Meest recente eerst: Artikelen worden getoond die beginnen met de
     meest recente en eindigend met de oudste.
@@ -415,11 +408,10 @@ alt="Content Article Manager Options shared subscreen" />
   - Minste hits: Artikelen worden getoond door het aantal hits, te
     beginnen met de minste hits en eindigend met de meeste hits.
   - Volgorde: Artikelen zijn gesorteerd volgens de volgorde kolom zoals
-    opgegeven in [Artikel
-    beheer](https://docs.joomla.org/Help4.x:Articles/nl#ordering "Help4.x:Articles/nl").
+    opgegeven in
   - Omgekeerde volgorde: Artikelen worden omgekeerd gesorteerd aan de
     kolomvolgorde opgegeven bij
-    [Artikelbeheer](https://docs.joomla.org/Help4.x:Articles/nl#ordering "Help4.x:Articles/nl").
+    Artikelbeheer.
 - **Datum voor sortering**. De datum die gebruikt wordt als artikelen op
   datum worden gesorteerd.
   - Aangemaakt: Gebruik de aanmaakdatum van het artikel.
@@ -470,19 +462,19 @@ alt="Content Article Manager Options integration subscreen" />
 
 **Extra velden**
 
-- **Extra velden inschakelen**. Extra velden aanmaken inschakelen. [Meer
-  leren.](https://docs.joomla.org/Help4.x:Fields:_Edit/nl "Help4.x:Fields: Edit/nl")
+- **Extra velden inschakelen**. Extra velden aanmaken inschakelen. Meer
+  leren.
 
 **Workflow**
 
 - **Workflow**. Gebruik aangepaste workflows om artikelen te beheren.
-  [Meer
-  leren.](https://docs.joomla.org/J4.x:Workflow/nl "J4.x:Workflow/nl")
+  Meer
+  leren.
 
 ### Rechten
 
 Deze sectie laat u de stndaard
-[ACL](https://docs.joomla.org/Access_Control_List/nl "Access Control List/nl")
+ACL
 rechten instellen voor alle artikelen in alle categorieën.
 
 <img
@@ -518,8 +510,8 @@ gedaan worden.
     - **Overgang uitvoeren**. Gebruikers kunnen overgangen uitvoeren.
 3.  Selecteer de gewenste rechten voor de actie die u wilt wijzigen.
     - **Overgenomen**. Overgenomen van gebruikers in deze groep vanuit
-      de [Algemene
-      instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#permissions "Help4.x:Site Global Configuration/nl")
+      de Algemene
+      instellingen
       rechten.
     - **Toegestaan**. Toegestaan voor gebruikers in deze groep.Let op:
       Als deze actie 'Geweigerd' is op een van de hogere niveaus, dan
@@ -533,7 +525,7 @@ gedaan worden.
 ## Werkbalk
 
 Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#screenshot) hierboven.
+afbeelding hierboven.
 
 - **Opslaan**. Slaat de artikelen opties op en blijft op het huidige
   scherm.
@@ -555,25 +547,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   opties aanvaarden.
 - Alle waarden die hier ingesteld worden kunnen overschreven worden op
   het menu-item, categorie of contactpersoon niveau.
-
-## Verwante informatie
-
-- Dit
-  [portaal](https://docs.joomla.org/Portal:Joomla_4/nl "Portal:Joomla 4/nl")
-  brengt informatie specifiek gerelateerd aan Joomla 4 samen.
-
-|                                                                                                                                                                                       |                                                                                                                                                                                                                              |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Verwante helpschermen                                                                                                                                                                 | Beschrijving                                                                                                                                                                                                                 |
-| <span class="mw-selflink selflink">Artikelen: Opties</span>                                                                                                                           | Wordt gebruikt om de algemene standaards voor menu-items die artikelen tonen in te stellen. Deze standaard waarden worden gebruikt als 'Gebruik algemeen' wordt geselecteerd als optie in een artikel menu-item.             |
-| [Artikelen](https://docs.joomla.org/Help4.x:Articles/nl "Help4.x:Articles/nl")                                                                                                        | De artikellijst wordt gebruikt om artikelen te vinden, speciaal te markeren, toe te voegen en te bewerken.                                                                                                                   |
-| [Artikelen: Bewerken](https://docs.joomla.org/Help4.x:Articles:_Edit/nl "Help4.x:Articles: Edit/nl")                                                                                  | Dit is waar je artikelen kunt toevoegen en bewerken. Je kunt ook categorie van een artikel selecteren en aangeven of het al de niet gepubliceerd is en of het op de voorpagina moet staan.                                   |
-| [Artikelen: Speciale artikelen](https://docs.joomla.org/Help4.x:Articles:_Featured/nl "Help4.x:Articles: Featured/nl")                                                                | Wordt gebruikt om te bepalen welke 'Speciale artikelen' getoond worden op de voorpagina en in welke volgorde ze getoond worden.                                                                                              |
-| [Artikelen: Categorieën](https://docs.joomla.org/Help4.x:Articles:_Categories/nl "Help4.x:Articles: Categories/nl")                                                                   | Categoriebeheer wordt gebruikt om categorieën te vinden, toe te voegen en te bewerken.                                                                                                                                       |
-| [Menu's: Gearchiveerde artikel](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived/nl "Help4.x:Menu Item: Article Archived/nl")                                              | Het 'Gearchiveerde artikelen' menu-itemtype toont een aangepaste ;ijst met artikelen, gesorteerd op datum of titel. Gearchiveerde artikelen worden niet meer gepubliceerd maar zijn nog steeds op de site opgeslagen.        |
-| [Menu's: Categorieblog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/nl "Help4.x:Menu Item: Category Blog/nl")                                                            | Wordt gebruikt om artikelen in een bepaalde categorie in blog weergave te tonen. Regelt de introductie ofwel het leidende artikel, aanvullende artikelen met intro tekst en extra links naar meer artikelen.                 |
-| [Menu's: Categorielijst](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/nl "Help4.x:Menu Item: Category List/nl")                                                           | Wordt gebruikt om artikelen die tot een bepaalde categorie horen in een lijst weergave.                                                                                                                                      |
-| [Menu's: Maak artikel](https://docs.joomla.org/Help4.x:Menu_Item:_Create_Article/nl "Help4.x:Menu Item: Create Article/nl")                                                           | Geeft gebruikers de mogelijkheid een artikel te verzenden. Dit is normaliter alleen beschikbaar voor gebruikers die ingelogd zijn op de voorkant van de website. Gebruikers moeten rechten hebben om artikelen aan te maken. |
-| [Menu's: Speciale artikelen](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/nl "Help4.x:Menu Item: Featured Articles/nl")                                               | Wordt gebruikt om alle artikelen te tonen die aangemerkt zijn als 'Speciaal'. Artikelen worden getoond in blog weergave.                                                                                                     |
-| [Menu's: Lijst met alle categorieën in een artikel categoriestructuur](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/nl "Help4.x:Menu Item: List All Categories/nl") | Wordt gebruikt om een hiërarchische lijst met categorieën te tonen. Afhankelijk van de geselecteerde opties van deze weergave kunt u klikken op een categorietitel om de artikelen in die categorie te zien.                 |
-| [Menu's: Individueel artikel](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article/nl "Help4.x:Menu Item: Single Article/nl")                                                    | Wordt gebruikt om één artikel te tonen.                                                                                                                                                                                      |

@@ -98,12 +98,3 @@ Werkzeugleiste im oberen Bereich. Die Funktionen sind:
 ## Tipps
 
 - Zur Erinnerung: diese Einstellungen werden global angewendet.
-
-## Verwandte Informationen
-
-- Neue Menüs erstellen: [Menüs:
-  Neu/Bearbeiten](https://docs.joomla.org/Help4.x:Menus:_Edit/de "Help4.x:Menus: Edit/de")
-- Menüeinträge neu/bearbeiten: [Menüs:
-  Menü-Einträge](https://docs.joomla.org/Help4.x:Menus:_Items/de "Help4.x:Menus: Items/de")
-- Hinzufügen oder Bearbeiten von Menü-Modulen: [Erweiterungen: Module
-  bearbeiten](https://docs.joomla.org/Help4.x:Extensions_Module_Manager_Edit/de "Help4.x:Extensions Module Manager Edit/de")

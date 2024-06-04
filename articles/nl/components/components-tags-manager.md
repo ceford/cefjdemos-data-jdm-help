@@ -2,4 +2,4 @@
 
 Redirect to:
 
-- [Help4.x:Tags/nl](https://docs.joomla.org/Help4.x:Tags/nl "Help4.x:Tags/nl")
+- Help4.x:Tags/nl

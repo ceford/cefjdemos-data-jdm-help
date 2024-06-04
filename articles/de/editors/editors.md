@@ -16,7 +16,7 @@ konfiguriert werden.
 
 Die Werkzeugleiste 'Set 2' stellt eine Button-Reihe wie unten angezeigt
 bereit. Das Set ist als Standard der
-[Benutzergruppe](https://docs.joomla.org/Help4.x:Users:_Groups/de "Help4.x:Users: Groups/de")
+Benutzergruppe
 'Public' zugewiesen.
 
 <img
@@ -38,7 +38,7 @@ alt="editor tinymce simple" />
 
 Die Werkzeugleiste 'Set 1' stellt zwei Button-Reihen wie unten angezeigt
 bereit. Das Set ist als Standard den
-[Benutzergruppen](https://docs.joomla.org/Help4.x:Users:_Groups/de "Help4.x:Users: Groups/de")
+Benutzergruppen
 'Manager' und 'Registriert' zugewiesen.
 
 <img
@@ -110,8 +110,8 @@ alt="editor pagebreak button" />
   Beitrag klicken und die Rückwärts-Taste solange drücken, bis der
   Seitenumbruch gelöscht ist. Dann einen neuen Seitenumbruch mit den
   gewünschten Informationen eingeben.
-- Die Konfiguration erfolgt im [Schaltfläche -
-  Seitenumbruch](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Content_Group/de#pagebreak "Chunk4x:Extensions Plugin Manager Edit Content Group/de")-Plugin.
+- Die Konfiguration erfolgt im Schaltfläche -
+  Seitenumbruch-Plugin.
 
 Weiterlesen: Dieser Button fügt einen 'Weiterlesen'-Umbruch in den
 Beitrag ein. Der Umbruch wird als rot-gepunktete Linie im Beitrag
@@ -122,15 +122,15 @@ angezeigt.
   'Weiterlesen'-Link angezeigt. Wenn der Benutzer auf diesen Link
   klickt, wird entweder der gesamte Beitrag oder nur der Teil nach
   'Weiterlesen' angezeigt. Das hängt von der Einstellung des Parameter
-  [Einleitungstext](https://docs.joomla.org/Help4.x:Articles:_Edit/de#introtext "Help4.x:Articles: Edit/de")
+  Einleitungstext
   für den Beitrag ab.
 - Der 'Weiterlesen'-Umbruch ermöglicht, Platz auf der Seite zu sparen,
   da nur der Einleitungstext angezeigt wird.
 - Für Umbrüche, die in einem Beitrag angezeigt werden sollen, den Button
   'Seitenumbruch' verwenden.
 
-Die Buttons der Dropdown-Liste 'CMS Inhalt' können in [Plugins -
-editors-xtd](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Button_Group/de "Chunk4x:Extensions Plugin Manager Edit Button Group/de")
+Die Buttons der Dropdown-Liste 'CMS Inhalt' können in Plugins -
+editors-xtd
 deaktiviert werden.
 
 - Buttons von oben links ändern den Text in: Kursiv. Die nächsten
@@ -149,8 +149,8 @@ deaktiviert werden.
 - Link entfernen: Um den Link zu entfernen, den verlinkten Text
   markieren und den Button anklicken.
 - Textmarke: Eine Textmarke ist ein Lesezeichen innerhalb eines
-  Beitrages, das direkt zum Beitragesteil führt. [Mehr
-  erfahren.](https://docs.joomla.org/Glossary/de#Anker "Glossary/de")
+  Beitrages, das direkt zum Beitragesteil führt. Mehr
+  erfahren.
 - Quelltext: Ein Popup-Fenster zeigt den HTML-Quelltext, der direkt
   bearbeitet werden kann.
 - Horizontale Linie einfügen: Um eine horizontale Linie einzufügen, an
@@ -167,7 +167,7 @@ deaktiviert werden.
 Die Voreinstellung 'Set 0' stellt die Werkzeugleiste mit den
 umfangreichsten Bearbeitungs-Optionen wie unten angezeigt bereit: Das
 Set ist als Standard den
-[Benutzergruppen](https://docs.joomla.org/Help4.x:Users:_Groups/de "Help4.x:Users: Groups/de")
+Benutzergruppen
 'Administrator', 'Editor' und 'Super Users' zugewiesen.
 
 <img
@@ -269,8 +269,8 @@ alt="screenshot editor codemirror example" />
   Eintrag der Seite. [Mehr erfahren.](#cmscontent)
 - CodeMirror bietet einige Vorteile des Editor 'Keiner', macht es aber
   einigermaßen leichter, mit unbearbeitetem HTML-Code zu arbeiten.
-- Die Konfiguration erfolgt im [Editor -
-  CodeMirror](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Editor_Group/de#codemirror "Chunk4x:Extensions Plugin Manager Edit Editor Group/de")-Plugin.
+- Die Konfiguration erfolgt im Editor -
+  CodeMirror-Plugin.
 
 ## Keiner
 

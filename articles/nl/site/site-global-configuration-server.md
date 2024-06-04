@@ -1,7 +1,7 @@
 <!-- Filename: Help4.x:Site_Global_Configuration_Server / Display title: Algemene instellingen: Server -->
 
- **←**  [Algemene
-instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#server "Help4.x:Site Global Configuration/nl")
+ **←**  Algemene
+instellingen
 
 <img
 src="https://docs.joomla.org/images/thumb/4/41/Help-4x-Global-Configuration-server-subscreen-nl.png/800px-Help-4x-Global-Configuration-server-subscreen-nl.png"
@@ -45,5 +45,5 @@ srcset="https://docs.joomla.org/images/thumb/6/6b/Help-4x-Global-Configuration-s
 data-file-width="1882" data-file-height="1079" width="800" height="459"
 alt="Afbeelding: E mail" />
 
- **←**  [Algemene
-instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#server "Help4.x:Site Global Configuration/nl")
+ **←**  Algemene
+instellingen

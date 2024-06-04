@@ -39,30 +39,30 @@ système. Une nouvelle terminologie, de nouvelles façons de faire les
 choses, peut-être même que le web lui-même est nouveau pour vous. Alors
 laissez ce guide vous soulager d'une partie de cette peine.
 
-- [Premiers pas avec Joomla!
-  4](https://docs.joomla.org/J4.x:Getting_Started_with_Joomla!/fr "J4.x:Getting Started with Joomla!/fr")
-- [Premiers pas : Templates de site et
-  d'administration](https://docs.joomla.org/J4.x:Getting_Started:_Site_and_Administrator_templates/fr "J4.x:Getting Started: Site and Administrator templates/fr")
-- [Premiers pas : Ajouter un
-  article](https://docs.joomla.org/J4.x:Getting_Started:_Adding_an_Article/fr "J4.x:Getting Started: Adding an Article/fr")
-- [Premiers pas : Ajout d'un élément de
-  menu](https://docs.joomla.org/J4.x:Getting_Started:_Adding_a_Menu_Item/fr "J4.x:Getting Started: Adding a Menu Item/fr")
-- [Premiers pas : Ajouter une
-  catégorie](https://docs.joomla.org/J4.x:Getting_Started:_Adding_a_Category/fr "J4.x:Getting Started: Adding a Category/fr")
-- [Premiers pas : Ajout d'un
-  module](https://docs.joomla.org/J4.x:Getting_Started:_Adding_a_Module/fr "J4.x:Getting Started: Adding a Module/fr")
+- Premiers pas avec Joomla!
+  4
+- Premiers pas : Templates de site et
+  d'administration
+- Premiers pas : Ajouter un
+  article
+- Premiers pas : Ajout d'un élément de
+  menu
+- Premiers pas : Ajouter une
+  catégorie
+- Premiers pas : Ajout d'un
+  module
 
 ## Sécuriser votre site Web
 
-- [Liste de vérification de la sécurité de
-  Joomla!](https://docs.joomla.org/Security_Checklist/fr "Security Checklist/fr")
+- Liste de vérification de la sécurité de
+  Joomla!
 
 ## Informations complémentaires en fonction du profil utilisateur
 
-- [Administrateurs](https://docs.joomla.org/Portal:Administrators/fr "Portal:Administrators/fr")
-- [Designers
-  web](https://docs.joomla.org/Web_designers/fr "Web designers/fr")
-- [Développeurs](https://docs.joomla.org/Portal:Developers/fr "Portal:Developers/fr")
-- [Évaluateurs](https://docs.joomla.org/Evaluators/fr "Evaluators/fr")
-- [Plus de profils
-  d'utilisateurs...](https://docs.joomla.org/Start_here/fr "Start here/fr")
+- Administrateurs
+- Designers
+  web
+- Développeurs
+- Évaluateurs
+- Plus de profils
+  d'utilisateurs...

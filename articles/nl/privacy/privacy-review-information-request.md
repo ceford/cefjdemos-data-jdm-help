@@ -7,13 +7,13 @@ bekijken.
 
 **Handleidingen**
 
-- [Privacy overzicht - Inhoud en
-  workflow](https://docs.joomla.org/Help4.x:Components_Privacy_Outline/nl "Help4.x:Components Privacy Outline/nl")
-- [De privacy
-  hulpmiddelen](https://docs.joomla.org/J3.x:Privacy/nl "J3.x:Privacy/nl")
+- Privacy overzicht - Inhoud en
+  workflow
+- De privacy
+  hulpmiddelen
   (gedetailleerde handleiding uit Joomla 3)
-- [Informatie verzoek
-  workflow](https://docs.joomla.org/J3.x:Information_Request_Workflow_in_Privacy_Component/nl "J3.x:Information Request Workflow in Privacy Component/nl")
+- Informatie verzoek
+  workflow
   (gedetailleerde handleiding uit Joomla 3)
 
 ## Hoe toegang te krijgen
@@ -74,8 +74,3 @@ het informatieverzoek de status In behandeling heeft*
   Dit werkbalk icoon wordt niet getoond als een nieuw item wordt
   aangemaakt.
 - **Help**. Opent dit helpscherm.
-
-## Verwante informatie
-
-- [De privacy
-  hulpmiddelen](https://docs.joomla.org/J3.x:Privacy/nl "J3.x:Privacy/nl")

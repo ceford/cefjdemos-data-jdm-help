@@ -36,8 +36,7 @@ class="new" title="File:Help-4x-Fields-Edit-screen-pt-br.png">800px</a>
 Parâmetros para todos os campos:
 
 - **Tipo**: Se você criar um campo, poderá escolher um dos 16 tipos de
-  campos. Quando você salva o campo, esse tipo é permanente. [Aprender
-  mais](https://docs.joomla.org/J3.x:Adding_custom_fields/Calendar_Field/pt-br "J3.x:Adding custom fields/Calendar Field/pt-br").
+  campos. Quando você salva o campo, esse tipo é permanente.
 - **Nome**: O nome será usado para identificar o campo. Deixe em branco
   (vazio) e o Joomla! preencherá um valor padrão a partir do título.
 - **Rótular**: Usa um texto descritivo do campo para o rótulo do campo.
@@ -70,16 +69,14 @@ Parâmetros para todos os campos:
     href="https://docs.joomla.org/index.php?title=Help4.x:Fields/pt-br&amp;action=edit&amp;redlink=1"
     class="new"
     title="Help4.x:Fields/pt-br (page does not exist)">Campos</a>" com a
-    função "Esvaziar lixeira". [Aprender
-    mais](https://docs.joomla.org/J4.x:Deleting_an_Article/pt-br "J4.x:Deleting an Article/pt-br").
+    função "Esvaziar lixeira".
 - **Grupo do campo**: Você pode atribuir um campo a um ou mais grupos
   para campos.
 - **Categoria**: Você pode atribuir um campo a uma ou mais categorias.
   Note que o padrão "Todas" não inclui os artigos "descategorizados".
 - **Acesso**: Selecione o nível do acesso para visualização para este
   campo. Os níveis do acesso dependem do que foi configurado em
-  [Usuários: Níveis dos
-  acessos](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/pt-br "Help4.x:Users: Viewing Access Levels/pt-br").
+
 - **Linguagem**: Selecione a linguagem para este campo. Se você não
   estiver usando o <a
   href="https://docs.joomla.org/index.php?title=Help4.x:Extensions:_Languages/pt-br&amp;action=edit&amp;redlink=1"
@@ -184,8 +181,7 @@ title="File:Help-4x-Fields-Edit-publishing-subscreen-pt-br.png">600px</a>
 
 ### Permissões
 
-É aqui que você pode inserir permissões para este campo. [Aprender
-mais](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/pt-br#hierarchylevels "J3.x:Access Control List Tutorial/pt-br").
+É aqui que você pode inserir permissões para este campo.
 
 <a
 href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Fields-Edit-permissions-subscreen-pt-br.png"
@@ -205,8 +201,8 @@ Para alterar as permissões para este campo, faça o seguinte:
       o valor do campo.
 3.  Selecione a permissão desejada para a ação que deseja alterar.
     - **Herdado**: Herdado, para os usuários neste grupo, das
-      [configurações
-      globais](https://docs.joomla.org/Help4.x:Site_Global_Configuration/pt-br#permissions "Help4.x:Site Global Configuration/pt-br"),
+      configurações
+      globais,
       grupo ou categoria parental.
     - **Permitido**: Permitido para os usuários neste grupo.Nota: Se
       esta ação for negada em um dos níveis mais altos, a permissão
@@ -234,30 +230,4 @@ da tela](#screenshot) acima.
 
 ## Dicas rápidas
 
-Se você quer saber como usar os campos: [Gerenciando campos
-personalizados](https://docs.joomla.org/J3.x:Adding_custom_fields/pt-br "J3.x:Adding custom fields/pt-br").
-
-## Informações relacionadas
-
-- Este
-  [portal](https://docs.joomla.org/Portal:Joomla_4/pt-br "Portal:Joomla 4/pt-br")
-  reúne informações relacionadas especificamente ao Joomla! 4.
-
-|                                                                                                               |                                                                                                                                                                            |
-|---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Telas de ajuda relacionadas                                                                                   | Descrição                                                                                                                                                                  |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Fields/pt-br&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Fields/pt-br (page does not exist)">Campos</a>                                                  | Os campos são usados para mostrar atributos adicionais dos artigos, contatos e usuários. Os dados são inseridos na administração (backend) e mostrados no site (frontend). |
-| <span class="mw-selflink selflink">Campos: Editar</span>                                                      | É aqui que você pode adicionar e editar os campos em artigos, contatos e usuários.                                                                                         |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Field_Groups/pt-br&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Field Groups/pt-br (page does not exist)">Grupos de
- campos</a>                                                                                                     | A tela dos grupos de campos é usada para listar, adicionar e editar grupos de campos.                                                                                      |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Field_Groups:_Edit/pt-br&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Field Groups: Edit/pt-br (page does not exist)">Grupos de
- campos: Editar</a>                                                                                             | Grupos de campos são usados para coletar campos relacionados em uma aba (guia) nomeada em um formulário de entrada de dados.                                               |
+Se você quer saber como usar os campos:

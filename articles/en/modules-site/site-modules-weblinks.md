@@ -75,8 +75,8 @@ set to *Show*.
   show all of the menu items. This allows you to assign modules to some
   but not all pages, and by selecting the menu links that you want the
   module associated with you can customize on what pages modules
-  appear/don't appear. See [How do you assign a module to specific
-  pages?](https://docs.joomla.org/How_do_you_assign_a_module_to_specific_pages%3F/en "How do you assign a module to specific pages?/en")
+  appear/don't appear. See How do you assign a module to specific
+  pages?
   for more information.
 
 ## Advanced tab

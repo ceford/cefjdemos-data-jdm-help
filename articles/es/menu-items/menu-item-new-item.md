@@ -81,8 +81,8 @@ alt="Menus New Item screen" />
       screen.
   2.  Open the menu item for the new default page and change the Default
       Page setting to Yes.
-- **Acceso**. Ver [Niveles de
-  Acceso](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/es "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/es")
+- **Acceso**. Ver Niveles de
+  Acceso
   para este elemento.
 - **Idioma**. Idioma del elemento.
 - **Note**. This is normally for the site administrator's use and does
@@ -122,8 +122,8 @@ data-file-width="2880" data-file-height="970" width="600" height="202"
 alt="Menus New Item page display subscreen" />
 
 Note: Options include "**Use Global**". If this is selected, the setting
-from the [Menus:
-Options](https://docs.joomla.org/Help4.x:Menus:_Options/es "Special:MyLanguage/Help4.x:Menus: Options/es")
+from the Menus:
+Options
 will be used.
 
 - **Browser Page Title**. Optional text for the 'Browser page title'
@@ -201,15 +201,6 @@ Saved menu items have additional buttons:
 
 ## Consejos Rápidos
 
-- To add an menu item [Archived
-  Articles](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived/es "Special:MyLanguage/Help4.x:Menu Item: Article Archived/es").
+- To add an menu item
 - The core distribution of Joomla provides 38 different Menu Item types.
   If you install third-party extensions, these may add more menu types.
-
-## Información relacionada
-
-- Tutorial: [Cómo Agregar un Nuevo
-  Menú](https://docs.joomla.org/J4.x:Adding_a_New_Menu/es "Special:MyLanguage/J4.x:Adding a New Menu/es").
-- Este
-  [portal](https://docs.joomla.org/Portal:Joomla_4/es "Special:MyLanguage/Portal:Joomla 4/es")
-  reúne información específica relativa a Joomla 4.

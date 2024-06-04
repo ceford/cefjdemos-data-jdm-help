@@ -66,24 +66,24 @@ Parámetros para todos los Campos Personalizados:
     editan un artículo o un contacto.
   - Archivado: El campo ya no mostrará en la edición un artículo o un
     contacto. Puede abrirlo en el administrador de
-    [campos](https://docs.joomla.org/Help4.x:Fields/es#selectstatus "Help4.x:Fields/es")
+    campos
     cuando establezca el filtro en archivado.
   - Papelera: El campo se elimina pero aún está en la base de datos. Se
     puede eliminar permanentemente de la base de datos con la función
     Vaciar Papelera en el Administrador de
-    [Campos](https://docs.joomla.org/Help4.x:Fields/es#selectstatus "Help4.x:Fields/es").
+    Campos.
 
 - **Grupo de campos**. Puede asignar un campo personalizado a uno o más
   grupos de campos.
 - **Categoría**. Puede asignar un campo personalizado a una o más
   categorías de campos. Tenga en cuenta que el valor predeterminado
   'Todos' no incluye artículos 'Sin Categoría'.
-- **Acceso**. Vea [Niveles de
-  Acceso](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/es "Help4.x:Users: Viewing Access Levels/es")
+- **Acceso**. Vea Niveles de
+  Acceso
   para este campo.
 - **Idioma**. Selecciona el idioma para este elemento. Si no estás
   utilizando la característica
-  [multi-idioma](https://docs.joomla.org/Help4.x:Extensions:_Languages/es "Help4.x:Extensions: Languages/es")
+  multi-idioma
   de Joomla!, mantén el valor predeterminado de 'Todos'.
 - **Nota**. Un campo opcional para hacer sus notas personales para el
   campo.
@@ -236,19 +236,4 @@ Screenshot above.
 
 ## Consejos Rápidos
 
-If you want to know how to use fields: [Managing Custom
-Fields](https://docs.joomla.org/J3.x:Adding_custom_fields/en "J3.x:Adding custom fields/en").
-
-## Información relacionada
-
-- Este
-  [portal](https://docs.joomla.org/Portal:Joomla_4/es "Portal:Joomla 4/es")
-  reúne información específica relativa a Joomla 4.
-
-|                                                                                                                  |                                                                                                                                                      |
-|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Pantallas de ayuda relacionadas                                                                                  | Descripción                                                                                                                                          |
-| [Campos](https://docs.joomla.org/Help4.x:Fields/es "Help4.x:Fields/es")                                          | Fields are used to display additional attributes of Articles, Contacts and Users. The data are entered in the Backend and displayed in the Frontend. |
-| <span class="mw-selflink selflink">Campos: Editar</span>                                                         | This is where you can add and edit Fields in Articles, Contacts, and Users.                                                                          |
-| [Grupos de campo](https://docs.joomla.org/Help4.x:Field_Groups/es "Help4.x:Field Groups/es")                     | The Field Groups screen is used to list, add and edit Field Groups.                                                                                  |
-| [Grupos de campo: Editar](https://docs.joomla.org/Help4.x:Field_Groups:_Edit/es "Help4.x:Field Groups: Edit/es") | Field Groups are used to collect related fields under a named Tab in a data entry form.                                                              |
+If you want to know how to use fields:

@@ -42,21 +42,17 @@ alt="Media Options screen" />
     errors.
 - **Legal Image Extensions (File Types)**. Image extensions (file types)
   you are allowed to upload (comma separated). These are used to check
-  for valid image headers and to select images with the [Media form
-  field](https://docs.joomla.org/Media_form_field_type "Media form field type").
+  for valid image headers and to select images with the
 - **Legal Audio Extensions (File Types)**. Audio extensions (file types)
   you are allowed to upload (comma separated). These are used to check
-  for valid audio headers and to select audio files with the [Media form
-  field](https://docs.joomla.org/Media_form_field_type "Media form field type").
+  for valid audio headers and to select audio files with the
 - **Legal Video Extensions (File Types)**. Video extensions (file types)
   you are allowed to upload (comma separated). These are used to check
-  for valid video headers and to select videos with the [Media form
-  field](https://docs.joomla.org/Media_form_field_type "Media form field type").
+  for valid video headers and to select videos with the
 - **Legal Document Extensions (File Types)**. Document extensions (file
   types) you are allowed to upload (comma separated). These are used to
   check for valid document headers and to select documents with the
-  [Media form
-  field](https://docs.joomla.org/Media_form_field_type "Media form field type").
+
 - **Ignored Extensions**. Ignored file extensions for MIME type checking
   and restricted uploads.
 - **Legal MIME Types.** A comma separated list of legal MIME types to

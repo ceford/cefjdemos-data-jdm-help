@@ -54,13 +54,6 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   "Administrator" groepen kunnen bij dit scherm komen, behalve als de
   <a href="https://docs.joomla.org/Help4.x:Users_Groups/nl"
   class="mw-redirect" title="Help4.x:Users Groups/nl">Gebruikersgroep</a>
-  rechten zijn veranderd voor deze component in het [Privéberichten -
-  Inbox](https://docs.joomla.org/Help4.x:Private_Messages/nl "Help4.x:Private Messages/nl")
+  rechten zijn veranderd voor deze component in het Privéberichten -
+  Inbox
   scherm.
-
-## Verwante informatie
-
-- Meer informatie over inbox berichten: [Privéberichten -
-  Inbox](https://docs.joomla.org/Help4.x:Private_Messages/nl "Help4.x:Private Messages/nl")
-- Meer informatie over het schrijven van berichten: [Privéberichten -
-  Schrijven](https://docs.joomla.org/Help4.x:Private_Messages:_Write/nl "Help4.x:Private Messages: Write/nl")

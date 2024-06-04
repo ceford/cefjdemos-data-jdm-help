@@ -1,7 +1,7 @@
 <!-- Filename: Help4.x:Site_Global_Configuration_Server / Display title: Konfiguration: Server -->
 
  **←** 
-[Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#server "Help4.x:Site Global Configuration/de")
+Konfiguration
 
 <img
 src="https://docs.joomla.org/images/thumb/7/78/Help-4x-Global-Configuration-server-subscreen-de.png/800px-Help-4x-Global-Configuration-server-subscreen-de.png"
@@ -46,4 +46,4 @@ data-file-width="1883" data-file-height="1080" width="800" height="459"
 alt="Bildschirmfoto: E Mailing" />
 
  **←** 
-[Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#server "Help4.x:Site Global Configuration/de")
+Konfiguration

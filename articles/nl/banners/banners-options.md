@@ -61,8 +61,8 @@ alt="Banner Options screen history tab" />
   worden. Specifieke versies kunnen ook gemarkeerd worden als "Bewaren"
   en zullen niet automatisch verwijderd worden. Let op dat versies
   handmatig verwijderd kunnen worden via de verwijder knop op het
-  [Versie
-  historie](https://docs.joomla.org/Help4.x:Components_Version_History/nl "Help4.x:Components Version History/nl")
+  Versie
+  historie
   scherm.
 
 ### Rechten tabblad
@@ -123,10 +123,3 @@ De functies zijn.
 ## Snelle tips
 
 - Denk er aan dat deze keuzes algemeen gelden.
-
-## Verwante informatie
-
-- [Advertenties: Toevoegen/Bewerken
-  advertentie](https://docs.joomla.org/Help4.x:Banners:_Edit/nl "Help4.x:Banners: Edit/nl")
-- [Advertentiebeheer](https://docs.joomla.org/Help4.x:Banners/nl "Help4.x:Banners/nl")
-- <span class="mw-selflink selflink">Advertenties Configuratie</span>

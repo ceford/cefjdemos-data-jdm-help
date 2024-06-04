@@ -61,10 +61,9 @@ The normal procedure for installing a Joomla! Extension is as follows:
     Component Success". If the installation is not successful, an error
     message will display.
 4.  Depending on the Extension, it may be necessary to enable the
-    Extension (for example, in the [Modules
-    list](https://docs.joomla.org/Help4.x:Modules/en "Help4.x:Modules/en")
-    or [Plugins
-    list](https://docs.joomla.org/Help4.x:Plugins/en "Help4.x:Plugins/en")).
+    Extension (for example, in the Modules
+    list
+    or
 
 ### Install from Web Tab
 

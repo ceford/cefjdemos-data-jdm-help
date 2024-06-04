@@ -41,8 +41,8 @@ alt="Menus Menu Text Separator screenshot" />
 - **Alias**. De interne naam van het item. Normaliter, kunt u dit leeg
   laten en Joomla zal de standaardwaarde invullen. De standaard waarde
   is de titel of naam in kleine letters en streepjes in plaats van
-  spaties. [Meer
-  leren.](https://docs.joomla.org/Alias/nl "Special:MyLanguage/Alias/nl")
+  spaties. Meer
+  leren.
 
 ### Details tabblad
 
@@ -96,13 +96,13 @@ alt="Menus Menu Text Separator screenshot" />
   pagina van de website. Er mag exact één menu-item ingesteld zijn als
   standaard pagina. U kunt de standaard pagina op twee manieren
   wijzigen:
-  1.  Klik op de Home kolom van het gewenste menu-item op het [Menu's:
-      Items](https://docs.joomla.org/Help4.x:Menus:_Items/nl "Special:MyLanguage/Help4.x:Menus: Items/nl")
+  1.  Klik op de Home kolom van het gewenste menu-item op het Menu's:
+      Items
       scherm.
   2.  Open het menu-item voor de nieuwe standaard pagina en wijzig de
       Standaard pagina instellingen op Ja.
 - **Toegang**. Het
-  [Toegangsniveau](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/nl "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/nl")
+  Toegangsniveau
   om het item te bekijken.
 - **Taal**. Item taal.
 - **Notitie**. Dit wordt normaal gesproken door de beheerder gebruikt
@@ -130,8 +130,8 @@ alt="Menus Menu Item Text Separator link type options" />
 
 ### Algemene opties
 
-Zie [Menu's: Bewerken/Nieuw
-item](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl "Help4.x:Menu Item: New Item/nl")
+Zie Menu's: Bewerken/Nieuw
+item
 voor hulp over velden die algemeen zijn in alle menu-itemtypes de
 volgende tabbladen:
 

@@ -5,13 +5,13 @@
 The Version History screen allows you to manage prior versions of the
 item being edited. Version history is available for
 Articles,
-[Banners](https://docs.joomla.org/Help4.x:Banners:_Edit/en "Help4.x:Banners: Edit/en")
+Banners
 and
-[Clients](https://docs.joomla.org/Help4.x:Banners:_New_or_Edit_Client/en "Help4.x:Banners: New or Edit Client/en"),
-[Contacts](https://docs.joomla.org/Help4.x:Contacts:_Edit/en "Help4.x:Contacts: Edit/en"),
+Clients,
+Contacts,
 News Feeds,
-[User
-Notes](https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit/en "Help4.x:User Notes: New or Edit/en"),
+User
+Notes,
 and all Categories.
 
 Each time you save the item with new changes, a new version is created

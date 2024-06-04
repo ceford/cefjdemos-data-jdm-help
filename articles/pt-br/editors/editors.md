@@ -19,8 +19,8 @@ title="Chunk4x:Extensions Plugin Manager Edit Editor Group/pt-br (page does not 
 #### Predefinição simples
 
 O conjunto 2 de barras das ferramentas fornece uma linha de botões
-conforme mostrado abaixo. O conjunto é atribuído por padrão ao [grupo de
-usuários](https://docs.joomla.org/Help4.x:Users:_Groups/pt-br "Help4.x:Users: Groups/pt-br")
+conforme mostrado abaixo. O conjunto é atribuído por padrão ao grupo de
+usuários
 "Público".
 
 <img
@@ -126,8 +126,8 @@ mostrado como uma linha pontilhada vermelha no artigo.
   juntamente com um link "Ler mais ...". Se o usuário acionar este
   (clicar neste) link, o artigo inteiro ou apenas a parte após o link
   "Ler mais ..." será mostrado. Isso depende das configurações dos
-  parâmetros do [texto da
-  introdução](https://docs.joomla.org/Help4.x:Articles:_Edit/pt-br#introtext "Help4.x:Articles: Edit/pt-br")
+  parâmetros do texto da
+  introdução
   para o artigo.
 - A pausa "Ler mais ..." permite que você economize espaço nas páginas
   mostrando apenas o texto da introdução.
@@ -157,8 +157,7 @@ title="Chunk4x:Extensions Plugin Manager Edit Button Group/pt-br (page does not 
 - Remover link: Para remover um link, realce o texto vinculado e
   pressione este botão.
 - Âncora: Uma âncora é um marcador dentro de um artigo que permite
-  vincular diretamente a esse ponto do artigo. [Aprender
-  mais](https://docs.joomla.org/Glossary/pt-br#Anchor "Glossary/pt-br").
+  vincular diretamente a esse ponto do artigo.
 - Código fonte: Um pop-up é aberto mostrando o código fonte em HTML,
   permitindo que você edite o código-fonte em HTML.
 - Inserir uma linha horizontal: Para inserir uma linha horizontal, mova
@@ -176,8 +175,8 @@ title="Chunk4x:Extensions Plugin Manager Edit Button Group/pt-br (page does not 
 
 O conjunto 0 da barra de ferramentas fornece as opções de edição mais
 extensas, conforme mostrado abaixo. O conjunto é atribuído por padrão
-aos [grupos para
-usuários](https://docs.joomla.org/Help4.x:Users:_Groups/pt-br "Help4.x:Users: Groups/pt-br")
+aos grupos para
+usuários
 "Administradores", "Editores" e "Superusuários".
 
 <a

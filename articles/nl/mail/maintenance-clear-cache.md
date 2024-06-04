@@ -3,8 +3,7 @@
 ## Beschrijving
 
 Wist cache bestanden in de cache mappen indien ingeschakeld bij de
-[Algemene
-instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration#Cache_Settings.2Fnl "Help4.x:Site Global Configuration").
+
 
 Cache bestanden zijn tijdelijke bestanden die aangemaakt worden om de
 prestaties van uw site te verbeteren. Als u grote wijzigingen aan uw
@@ -70,8 +69,7 @@ bovenstaande Screenshot.
     aflopend volgorde.
 - **Te tonen aantal.** Toont het aantal items in een lijst. Selecteer
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#defaultlistlimit "Special:MyLanguage/Help4.x:Site Global Configuration/nl").
+  voor een site is '20' maar dit kan veranderd worden bij de
 
 **Filteropties**
 
@@ -109,9 +107,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 - Normaliter wilt u alle cache bestanden verwijderen. Klik, om dit te
   doen, het selectievakje in de kop om alle bestanden te selecteren en
   klik op het verwijder-icoon in de werkbalk.
-
-## Verwante informatie
-
-- Om de cache instellingen voor uw site te wijzigen: [Algemene
-  instellingen -
-  Cache-instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl "Help4.x:Site Global Configuration/nl")

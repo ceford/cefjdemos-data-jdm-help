@@ -3,8 +3,7 @@
 ## Descrição
 
 A página "Menus: Itens" lista os itens dos menus contidos em um menu
-criado usando o [gerenciador dos
-menus](https://docs.joomla.org/Help4.x:Menus/pt-br "Help4.x:Menus/pt-br").
+criado usando o
 A barra do título mostra o nome do menu selecionado ou *Todos os itens
 dos menus* se essa lista estiver selecionada.
 
@@ -42,8 +41,8 @@ title="File:Help-4x-menus-menu-manager-menu-items-pt-br.png">800px</a>
 - **Início**: O ícone da estrela amarela designa qual item dos menus é a
   página inicial atual. Acionar (clicar em) um ícone da estrela vazio
   designará esse item dos menus como a nova página inicial.
-- **Acesso**: O [nível de acesso de
-  visualização](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/pt-br "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/pt-br")
+- **Acesso**: O nível de acesso de
+  visualização
   para este item.
 - **Associação**: Mostra a qual item dos menus este item está associado.
 - **Linguagem**: Linguagem do item.
@@ -188,8 +187,3 @@ Observe que isso *não* desmarca as caixas de seleções dos itens.
   sua página inicial.
 - Defina diferentes opções do filtro para mostrar apenas alguns dos
   itens dos menus.
-
-## Informações relacionadas
-
-- [Gerenciador dos
-  menus](https://docs.joomla.org/Help4.x:Menus/pt-br "Help4.x:Menus/pt-br")

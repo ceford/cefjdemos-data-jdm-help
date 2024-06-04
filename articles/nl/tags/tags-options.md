@@ -42,8 +42,8 @@ alt="components tags configuration screen" />
   worden. Specifieke versies kunnen ook gemarkeerd worden als "Bewaren"
   en zullen niet automatisch verwijderd worden. Let op dat versies
   handmatig verwijderd kunnen worden via de verwijder knop op het
-  [Versie
-  historie](https://docs.joomla.org/Help310:Components_Version_History/nl "Help310:Components Version History/nl")
+  Versie
+  historie
   scherm.
 - **Tagnaam**. Toon de naam van de tag in de weergave van een
   individuele tag.

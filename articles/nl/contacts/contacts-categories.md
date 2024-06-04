@@ -79,7 +79,7 @@ Klik op de kolomkop om de lijst volgens deze kolom te sorteren.
   prullenbak. Klik op de genummerde knop om een lijst met alleen deze
   items te tonen.
 - **Toegang**. Het
-  [Toegangsniveau](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/nl "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/nl")
+  Toegangsniveau
   om het item te bekijken.
 - **Associatie:** Toont aan welk menu-item dit item geassocieerd is.
 - **Taal**. Item taal.
@@ -109,8 +109,7 @@ bovenstaande Screenshot.
     aflopend volgorde.
 - **Te tonen aantal.** Toont het aantal items in een lijst. Selecteer
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#defaultlistlimit "Help4.x:Site Global Configuration/nl").
+  voor een site is '20' maar dit kan veranderd worden bij de
 - **Selecteer status**. Selecteer uit Naar prullenbak / Gedepubliceerd /
   Gepubliceerd / Gearchiveerd / Alles.
 - **Selecteer toegang**. Selecteer uit de lijst met beschikbare weergave
@@ -229,17 +228,7 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   samen. Normaal hoeft u de tabel *niet* opnieuw op te bouwen. Deze
   functie voorziet in het geval de data in de tabel corrupt raakt.
 - **Opties.** Opent het venster Opties, waar instellingen zoals de
-  standaard parameters kunnen worden bewerkt. Zie [Contactpersoon beheer
-  opties](https://docs.joomla.org/Help4.x:Contacts:_Options/nl "Help4.x:Contacts: Options/nl")
+  standaard parameters kunnen worden bewerkt. Zie Contactpersoon beheer
+  opties
   voor meer informatie.
 - **Help**. Opent dit helpscherm.
-
-## Verwante informatie
-
-- Om met contactpersonen te werken: [Contactpersonen beheer:
-  Contactpersonen](https://docs.joomla.org/Help4.x:Contacts/nl "Help4.x:Contacts/nl")
-- Voor het aanmaken van nieuwe contactpersoon categorieën zie: <a
-  href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit_Category/nl&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Help4.x:Contacts: New or Edit Category/nl (page does not exist)">Categorie
-  beheer - Nieuw/Bewerken</a>

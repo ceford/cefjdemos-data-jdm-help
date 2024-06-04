@@ -102,8 +102,7 @@ bovenstaande Screenshot.
     aflopend volgorde.
 - **Te tonen aantal.** Toont het aantal items in een lijst. Selecteer
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#defaultlistlimit "Help4.x:Site Global Configuration/nl").
+  voor een site is '20' maar dit kan veranderd worden bij de
 
 **Filteropties**
 
@@ -131,8 +130,7 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   importeren van nieuwe inhoud triggert bijvoorbeeld Slim zoeken niet
   automatisch om nieuwe inhoud te indexeren. Let op: De Slim zoeken
   indexering kan, indien gewenst, ook gedraaid worden vanaf de
-  command-line interface (CLI). Zie [Automatisch Slim zoeken indexering
-  instellen](https://docs.joomla.org/Setting_up_automatic_Smart_Search_indexing "Special:MyLanguage/Setting up automatic Smart Search indexing").
+  command-line interface (CLI). Zie
 - **Publish**. Makes the selected items available to visitors to your
   website.
 - **Unpublish.** Makes the selected items unavailable to visitors to
@@ -151,22 +149,17 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   opschoon-cyclus.
 - **Help**. Opens this help screen.
 - **Opties.** Opent het venster Opties, waar instellingen zoals de
-  standaard parameters kunnen worden bewerkt. Kijk bij [Slim zoeken:
-  Opties](https://docs.joomla.org/Help4.x:Smart_Search:_Options/nl "Help4.x:Smart Search: Options/nl")
+  standaard parameters kunnen worden bewerkt. Kijk bij Slim zoeken:
+  Opties
   voor meer details.
 
 ## Snelle tips
 
 - Slim zoeken is geïntroduceerd in Joomla 3.0 maar wordt niet standaard
   geactiveerd in die versie.
-- Als u nieuw bent bij Slim zoeken, dan zou u de [Slim zoeken snelstart
-  gids](https://docs.joomla.org/Smart_Search_quickstart_guide "Smart Search quickstart guide")
+- Als u nieuw bent bij Slim zoeken, dan zou u de Slim zoeken snelstart
+  gids
   moeten lezen.
 - Als u de indexering uitvoert en een "undefined null" fout krijgt,
   controleer dan de rechten op de Joomla `/logs` map. De webserver heeft
   schrijfrechten op die map nodig om te indexeren.
-
-## Verwante informatie
-
-- [Automatisch Slim zoeken indexeren
-  instellen](https://docs.joomla.org/Setting_up_automatic_Smart_Search_indexing "Setting up automatic Smart Search indexing")

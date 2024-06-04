@@ -77,7 +77,7 @@ alt="Extensions Template Manager Styles screen" />
 
 ## Listen-Filter
 
-**Suchleiste**. Das [Bildschirmfoto](#screenshot) zeigt die Suchleiste
+**Suchleiste**. Das Bildschirmfoto zeigt die Suchleiste
 im oberen Bereich.
 
 - **Suche nach Text**. Einen Teil des Suchbegriffs eingeben, auf das
@@ -97,7 +97,7 @@ im oberen Bereich.
 - **Anzuzeigende Anzahl**. Zeigt die Anzahl der Einträge an. Zur
   Änderung in der Dropdown-Liste die gewünschte Anzahl wählen.Der
   Standardwert für die Site ist '20', er kann in der
-  [Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#defaultlistlimit "Special:MyLanguage/Help4.x:Site Global Configuration/de")
+  Konfiguration
   geändert werden.
 
 **Filter-Optionen**

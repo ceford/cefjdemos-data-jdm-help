@@ -1,7 +1,7 @@
 <!-- Filename: Help4.x:Site_Global_Configuration_Site / Display title: Общие настройки: Параметры сайта -->
 
- **←**  [Общие
-настройки](https://docs.joomla.org/Help4.x:Site_Global_Configuration/ru#site "Help4.x:Site Global Configuration/ru")
+ **←**  Общие
+настройки
 
 <img
 src="https://docs.joomla.org/images/thumb/6/6c/Help-4x-global-configuration-site-subscreen-ru.png/800px-Help-4x-global-configuration-site-subscreen-ru.png"
@@ -31,5 +31,5 @@ srcset="https://docs.joomla.org/images/thumb/a/ac/Help-4x-global-configuration-c
 data-file-width="1498" data-file-height="399" width="800" height="213"
 alt="Скриншот: Параметры Cookies" />
 
- **←**  [Общие
-настройки](https://docs.joomla.org/Help4.x:Site_Global_Configuration/ru#site "Help4.x:Site Global Configuration/ru")
+ **←**  Общие
+настройки

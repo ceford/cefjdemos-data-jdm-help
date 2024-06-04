@@ -23,8 +23,8 @@ alt="global configuration screen" />
 
 ### Website
 
-[Volledige
-afbeelding.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/nl "Help4.x:Site Global Configuration Site/nl")
+Volledige
+afbeelding.
 
 #### Website
 
@@ -32,8 +32,8 @@ afbeelding.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/nl "
   op diverse locaties (bijvoorbeeld op de administratie titelbalk in uw
   browser en Website offline pagina's).
 - **Website offline**. Selecteer of de website bereikbaar is voor
-  bezoekers. [Meer
-  leren.](https://docs.joomla.org/J3.x:Taking_the_website_temporarily_offline/nl "J3.x:Taking the website temporarily offline/nl")
+  bezoekers. Meer
+  leren.
   - **Offline bericht**.
     - Gebruik aangepast bericht: Het aangepaste offline bericht gebruikt
       de waarde die gedefinieerd is in het 'Aangepast bericht' veld.
@@ -50,7 +50,7 @@ afbeelding.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/nl "
   wijzigen in de persoonlijke gegevens wanneer u deze optie toestaat.
 - **Standaard Captcha**. Selecteer de standaard captcha voor uw website.
   U kunt de vereiste informatie voor uw captcha plugin invullen in
-  [Pluginbeheer](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_CAPTCHA_Group/nl "Chunk4x:Extensions Plugin Manager Edit CAPTCHA Group/nl").
+  Pluginbeheer.
 - **Standaard toegangsniveau**. Selecteer het standaard toegangsniveau
   voor nieuwe items.
 - **Standaard lijstlengte**. Stelt de standaard lijstlengte in op het
@@ -61,7 +61,7 @@ afbeelding.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/nl "
   e-mailadres van de auteur.
   - Auteur e-mail: Selecteer e-mailadres auteur om het e-mailadres van
     elke auteur te gebruiken (uit
-    [gebruikersbeheer](https://docs.joomla.org/Help4.x:Users/nl "Help4.x:Users/nl"))
+    gebruikersbeheer
     in de nieuwsfeed.
   - E-mailadres website: Selecteer e-mailadres website om het
     [e-mailadres](#fromemail) van de website toe te voegen aan ieder
@@ -104,8 +104,8 @@ afbeelding.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/nl "
     class="external text" target="_blank"
     rel="nofollow noreferrer noopener">Meer leren.</a>
   - IIS: Hernoem 'web.config.txt' naar 'web.config'
-  - NginX: de [configure your
-    server](https://docs.joomla.org/Nginx/nl "Nginx/nl")
+  - NginX: de configure your
+    server
   - Andere servers of indien onbekend: Raadpleeg het hostingbedrijf.
 - **Voeg een achtervoegsel (suffix) aan URL's toe**. Wanneer ja is
   ingesteld, wordt een achtervoegsel (suffix) aan de URL toegevoegd
@@ -125,8 +125,8 @@ afbeelding.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/nl "
 
 ### Systeem
 
-[Volledige
-afbeelding.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_System/nl "Help4.x:Site Global Configuration System/nl")
+Volledige
+afbeelding.
 
 #### Foutopsporing
 
@@ -147,8 +147,8 @@ afbeelding.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_System/nl
 #### Cache
 
 - **Systeemcache**. In of uitschakelen cachen en instellen van
-  cacheniveau. [Meer
-  leren.](https://docs.joomla.org/Cache/nl "Cache/nl")
+  cacheniveau. Meer
+  leren.
   - Conservatief cachen: kleinere systeemcache.
   - Progressief cachen: sneller, grotere systeemcache, inclusief het
     renderen van modulecache. Niet aan te bevelen voor extreem grote
@@ -213,8 +213,8 @@ afbeelding.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_System/nl
 
 ### Server
 
-[Volledige
-afbeelding.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Server/nl "Help4.x:Site Global Configuration Server/nl")
+Volledige
+afbeelding.
 
 #### Server
 
@@ -350,8 +350,8 @@ afbeelding.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Server/nl
 
 ### Loggen
 
-[Volledige
-afbeelding.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Logging/nl "Help4.x:Site Global Configuration Logging/nl")
+Volledige
+afbeelding.
 
 #### Loggen
 
@@ -380,8 +380,8 @@ afbeelding.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Logging/n
 
 ### Tekstfilters
 
-[Volledige
-afbeelding.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Text_Filters/nl "Help4.x:Site Global Configuration Text Filters/nl")
+Volledige
+afbeelding.
 
 Dit zijn de tekstfilters die toegepast worden op alle
 tekstverwerkervelden in de geselecteerde groepen.
@@ -395,8 +395,8 @@ website.
 
 ### Rechten
 
-[Volledige
-afbeelding.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Permissions/nl "Help4.x:Site Global Configuration Permissions/nl")
+Volledige
+afbeelding.
 
 Beheer de instellingen van de rechten voor onderstaande groepen.
 
@@ -448,7 +448,7 @@ subgroepen, componenten en inhoud.
 ## Werkbalk
 
 Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#screenshot) hierboven.
+afbeelding hierboven.
 
 - **Opslaan**. Slaat de algemene instellingen opties op en blijft op het
   huidige scherm.
@@ -469,13 +469,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 - De instellingen worden opgeslagen in '\[Joomla\]/configuration.php'. U
   moet of de FTP-layer activeren of het 'configuration.php' bestand
   schrijfbaar maken om uw wijzigingen op te slaan.
-
-## Verwante informatie
-
-- [Back-up beginselen voor een Joomla!
-  website](https://docs.joomla.org/Backup_Basics_for_a_Joomla!_Web_Site/nl "Backup Basics for a Joomla! Web Site/nl")
-- [Beveiliging
-  checklist](https://docs.joomla.org/Security_Checklist/nl "Security Checklist/nl")
-- <img src="https://docs.joomla.org/images/4/49/Compat_icon_3_x_long.png"
-  decoding="async" data-file-width="75" data-file-height="16" width="75"
-  height="16" alt="Joomla 3.x" />

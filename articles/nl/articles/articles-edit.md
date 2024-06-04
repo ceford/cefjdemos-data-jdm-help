@@ -38,8 +38,8 @@ alt="content article manager add new article" />
 - **Alias**. De interne naam van het artikel. Normaliter, kunt u dit
   leeg laten en Joomla zal de standaardwaarde invullen. De standaard
   waarde is de titel of naam in kleine letters en streepjes in plaats
-  van spaties. [Meer
-  leren.](https://docs.joomla.org/Alias/nl "Alias/nl")
+  van spaties. Meer
+  leren.
 
 ### Inhoud
 
@@ -47,8 +47,8 @@ alt="content article manager add new article" />
 
 - **Artikeltekst**. Dit is waar de inhoud van het artikel wordt
   geplaatst. Joomla bevat 3 tekstverwerkers, de standaard
-  [Tekstverwerker -
-  TinyMCE](https://docs.joomla.org/Help4.x:Editors/nl#tinymce "Help4.x:Editors/nl")
+  Tekstverwerker -
+  TinyMCE
   wordt hier getoond.
 
 <img
@@ -59,13 +59,12 @@ data-file-width="995" data-file-height="366" width="600" height="221"
 alt="Article Editor buttons" />
 
 De CMS inhoud drop-down lijst biedt toegang tot een link naar artikelen,
-contactpersonen, velden, media, menu of module. [Meer
-leren.](https://docs.joomla.org/Help4.x:Editors/nl#cmscontent "Help4.x:Editors/nl")
+contactpersonen, velden, media, menu of module. Meer
+leren.
 
 - **Schakelen tekstverwerker**. Er wordt direct onder het tekstvenster
   een knop Schakelen tekstverwerker zichtbaar. Met deze knop kun je
-  schakelen tussen de TinyMCE tekstverwerker en [geen
-  tekstverwerker](https://docs.joomla.org/Help4.x:Editors/nl#none "Help4.x:Editors/nl").
+  schakelen tussen de TinyMCE tekstverwerker en
 
 **Rechter venster**
 
@@ -76,28 +75,28 @@ leren.](https://docs.joomla.org/Help4.x:Editors/nl#cmscontent "Help4.x:Editors/n
     rechten](#permissions) hebben om de status van het artikel te
     bewerken.
   - Gearchiveerd: Artikel zal niet langer getoond worden in
-    [Categorieblog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/nl "Help4.x:Menu Item: Category Blog/nl")
+    Categorieblog
     of
-    [Categorielijst](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/nl "Help4.x:Menu Item: Category List/nl")
+    Categorielijst
     menu-items.
   - Verplaatst naar prullenbak: Artikel is verwijderd van de site maar
-    nog steeds in de database. [Meer
-    leren.](https://docs.joomla.org/J4.x:Deleting_an_Article/nl "J4.x:Deleting an Article/nl")
+    nog steeds in de database. Meer
+    leren.
 - **Categorie**. Selecteer de categorie voor dit artikel.
 - **Speciaal**. Selecteer ja indien dit artikel getoond moet worden in
-  het [menu-item voor speciale
-  artikelen.](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/nl "Help4.x:Menu Item: Featured Articles/nl")
+  het menu-item voor speciale
+  artikelen.
 - **Toegang**. Selecteer het weergave toegangsniveau van dit artikel. De
-  toegangsniveaus hangen af van wat ingesteld is bij [Gebruikers:
-  Toegangsniveaus](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/nl "Help4.x:Users: Viewing Access Levels/nl")
+  toegangsniveaus hangen af van wat ingesteld is bij Gebruikers:
+  Toegangsniveaus
   .
-- **Taal**. Selecteer de taal voor dit item. Wanneer u de [meertalige
-  functie](https://docs.joomla.org/Help4.x:Extensions:_Languages/nl "Help4.x:Extensions: Languages/nl")
+- **Taal**. Selecteer de taal voor dit item. Wanneer u de meertalige
+  functie
   in Joomla niet gebruikt, laat dan de standaard ingevulde 'Alle'
   ongewijzigd.
 - **Tags**. Wijs tags toe aan inhoudsartikelen. U kunt een label
-  selecteren uit de [voorgedefinieerde
-  lijst](https://docs.joomla.org/Help4.x:Tags/nl "Help4.x:Tags/nl") of
+  selecteren uit de voorgedefinieerde
+  lijst of
   voer een nieuwe tag in door de naam te typen in het veld en druk op
   enter.
 - **Notitie**. Dit wordt normaal gesproken door de beheerder gebruikt
@@ -105,13 +104,12 @@ leren.](https://docs.joomla.org/Help4.x:Editors/nl#cmscontent "Help4.x:Editors/n
   niet op de website zichtbaar.
 - **Versie notitie**. Optioneel veld om deze versie van dit artikel te
   identificeren in het
-  [versiegeschiedenis](https://docs.joomla.org/Help4.x:Components_Version_History/nl "Help4.x:Components Version History/nl").
+  versiegeschiedenis.
 
 ### Afbeeldingen en links
 
 **Let op**: Dit kan verborgen worden door een gebruiker met
-administratie rechten in de [Opties voor
-artikelen](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl").
+administratie rechten in de
 Deze sectie maakt het mogelijk om afbeeldingen en links in een standaard
 weergave aan artikelen toe te voegen.
 
@@ -127,8 +125,8 @@ alt="screenshot article edit images links" />
 - **Afbeelding introtekst**. Klik op de knop Selecteren om een
   afbeelding te selecteren die op een bepaalde locatie in de introtekst
   van het artikel wordt weergegeven. Dit opent een venster die het
-  mogelijk maakt een afbeelding te selecteren uit de map images. [Meer
-  leren.](https://docs.joomla.org/Adding_an_image_to_an_article/nl "Adding an image to an article/nl")
+  mogelijk maakt een afbeelding te selecteren uit de map images. Meer
+  leren.
 - **Beschrijving van afbeelding (Alt-tekst)**. Stelt het Alt attribuut
   in voor deze afbeelding. Een paar beschrijvende woorden voor
   schermlezers.
@@ -150,8 +148,8 @@ alt="screenshot article edit images links" />
 - **Afbeelding volledig artikel**. Klik op de knop Selecteren om een
   afbeelding te selecteren die op een bepaalde locatie in het volledige
   artikel wordt weergegeven. Dit opent een venster die het mogelijk
-  maakt een afbeelding te selecteren uit de map images. [Meer
-  leren.](https://docs.joomla.org/Adding_an_image_to_an_article/nl "Adding an image to an article/nl")
+  maakt een afbeelding te selecteren uit de map images. Meer
+  leren.
 - **Beschrijving van afbeelding (Alt-tekst)**. Stelt het Alt attribuut
   in voor deze afbeelding. Een paar beschrijvende woorden voor
   schermlezers.
@@ -191,8 +189,7 @@ alt="screenshot article edit images links" />
 ### Opties
 
 **Let op**: Dit kan verborgen worden door een gebruiker met
-administratie rechten in de [Opties voor
-artikelen](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl").
+administratie rechten in de
 Dit is een set opties die u kunt gebruiken om te beheersen hoe dit
 artikel wordt getoond in de Frontend.
 
@@ -206,14 +203,13 @@ alt="screenshot article edit article options" />
 **Weergave**
 
 - **Weergave**. Gebruik een layout uit de beschikbare artikelweergave of
-  [overschrijf in de
-  templates](https://docs.joomla.org/Help4.x:Templates:_Customise/nl "Help4.x:Templates: Customise/nl").
+
 - **Titel**. Toon de titel van het artikel.
 - **Gelinkte titels**. Toont de titel als link naar het artikel.
 - **Tags**. Voer één of meer optionele tags in voor dit item. U kunt
   bestaande tags invoeren door het intikken van de eerste paar letters.
-  U kunt ook nieuwe tags toevoegen door ze hier in te voeren. [Meer
-  leren.](https://docs.joomla.org/J4.x:How_To_Use_Content_Tags_in_Joomla/nl "J4.x:How To Use Content Tags in Joomla/nl")
+  U kunt ook nieuwe tags toevoegen door ze hier in te voeren. Meer
+  leren.
 - **Introtekst**.
   - Toon: De Introtekst van het artikel wordt getoond als men naar het
     artikel gaat.
@@ -238,16 +234,16 @@ alt="screenshot article edit article options" />
 
 **Associaties**
 
-- **Associaties**. Toont de geassocieerde vlaggen of taalcodes. [Alleen
-  meertaligheid.](https://docs.joomla.org/Help4.x:Multilingual_Associations/nl "Help4.x:Multilingual Associations/nl")
+- **Associaties**. Toont de geassocieerde vlaggen of taalcodes. Alleen
+  meertaligheid.
 
 **Auteur**
 
 - **Auteur**. Toont de auteur van een artikel.
 - **Link naar de contactpagina van de auteur**. Toont het als link naar
   een contactpersonen weergave van die auteur.Let op: De auteur moet
-  [als contactpersoon
-  ingesteld](https://docs.joomla.org/Help4.x:Contacts/nl "Help4.x:Contacts/nl")
+  als contactpersoon
+  ingesteld
   zijn.
 
 **Datum**
@@ -277,8 +273,8 @@ alt="screenshot article edit article options" />
 
 ### Velden
 
-Deze sectie toont de [extra
-velden](https://docs.joomla.org/Help4.x:Fields/nl "Help4.x:Fields/nl")
+Deze sectie toont de extra
+velden
 die gedefinieerd zijn voor dit artikel.
 
 <img
@@ -291,8 +287,7 @@ alt="Content Article Manager Edit Fields options subscreen" />
 ### Publiceren
 
 **Let op**: Dit kan verborgen worden door een gebruiker met
-administratie rechten in de [Opties voor
-artikelen](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl").
+administratie rechten in de
 Deze sectie geeft u de mogelijkheid parameters en
 Metadata
 op te geven voor dit artikel.
@@ -339,13 +334,12 @@ alt="Content Article Manager Edit publishing options subscreen" />
 **Metadata**
 
 - **Metabeschrijving**. Een paragraaf die gebruikt wordt als
-  beschrijving van de pagina. [Meer
-  leren.](https://docs.joomla.org/Using_The_Meta_Description/nl "Using The Meta Description/nl")
-- **Trefwoorden**. Invoer voor trefwoorden. [Meer
-  leren.](https://docs.joomla.org/Using_Keywords/nl "Using Keywords/nl")
+  beschrijving van de pagina. Meer
+  leren.
+- **Trefwoorden**. Invoer voor trefwoorden. Meer
+  leren.
 - **Robots**. De instructies voor web 'robots' die naar deze pagina
-  bladeren. Zet op 'Gebruik algemeen' in [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#robots "Help4.x:Site Global Configuration/nl").
+  bladeren. Zet op 'Gebruik algemeen' in
 - **Auteur**. Plek voor een auteursnaam binnen de metadata.
 - **Inhoudsrechten**. Beschrijft wat de rechten van andere zijn om deze
   inhoud te gebruiken.
@@ -353,10 +347,8 @@ alt="Content Article Manager Edit publishing options subscreen" />
 ### Associaties
 
 **Let op**: Dit kan verborgen worden door een gebruiker met
-administratie rechten in de [Opties voor
-artikelen](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl").
-Tabblad wordt alleen getoond bij [Meertalige
-websites](https://docs.joomla.org/Help4.x:Multilingual_Associations/nl "Help4.x:Multilingual Associations/nl").
+administratie rechten in de
+Tabblad wordt alleen getoond bij
 
 <img
 src="https://docs.joomla.org/images/thumb/0/03/Help-4x-screenshot-article-edit-associations-en.png/600px-Help-4x-screenshot-article-edit-associations-en.png"
@@ -368,8 +360,7 @@ alt="screenshot article edit associations" />
 ### Configuratie bewerkvenster
 
 **Let op**: Dit kan verborgen worden door een gebruiker met
-administratie rechten in de [Opties voor
-artikelen](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl").
+administratie rechten in de
 
 <img
 src="https://docs.joomla.org/images/thumb/6/61/Help-4x-screenshot-article-edit-configure-edit-screen-nl.png/600px-Help-4x-screenshot-article-edit-configure-edit-screen-nl.png"
@@ -384,14 +375,14 @@ alt="screenshot article edit configure edit screen" />
   niet getoond in het beheergedeelte. Dit betekent dat gebruikers aan de
   beheerkant niet in staat zijn de velden op dit tabblad te bewerken.
   Deze velden worden altijd op hun standaard waarde gezet.
-- **Artikel opties**. Indien Verborgen, dan wordt het ([Artikel opties
-  tabblad](https://docs.joomla.org/Help4.x:Articles:_Edit/nl#options "Help4.x:Articles: Edit/nl"))
+- **Artikel opties**. Indien Verborgen, dan wordt het (Artikel opties
+  tabblad
   niet getoond in beheer. Dit betekent dat gebruikers in het
   beheergedeelte niet in staat zijn de velden op dit tabblad te
   bewerken. Deze velden worden altijd op hun standaard waarde gezet.
 - **Afbeeldingen en links - beheergedeelte**. Indien Ja, dan wordt het
-  ([afbeeldingen en links
-  tabblad](https://docs.joomla.org/Help4.x:Articles:_Edit/nl#imagesandlinks "Help4.x:Articles: Edit/nl"))
+  (afbeeldingen en links
+  tabblad
   getoond.
 - **Afbeeldingen en links - website**. Indien Ja, dan verschijnt het
   afbeeldingen en links tabblad op het bewerkscherm van het artikel op
@@ -400,10 +391,9 @@ alt="screenshot article edit configure edit screen" />
 ### Rechten
 
 **Let op**: Dit kan verborgen worden door een gebruiker met
-administratie rechten in de [Opties voor
-artikelen](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl").
-Hier kunt u rechten invoeren voor dit artikel. [Meer
-leren.](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/nl#hierarchylevels "J3.x:Access Control List Tutorial/nl")
+administratie rechten in de
+Hier kunt u rechten invoeren voor dit artikel. Meer
+leren.
 
 <img
 src="https://docs.joomla.org/images/thumb/2/29/Help-4x-screenshot-article-edit-permissions-nl.png/600px-Help-4x-screenshot-article-edit-permissions-nl.png"
@@ -423,12 +413,11 @@ Doe, om de rechten van dit artikel te wijzigen, het volgende.
       verwante informatie van dit artikel wijzigen.
 3.  Selecteer de gewenste rechten voor de actie die u wilt wijzigen.
     - **Overgenomen**. Overgenomen voor gebruikers in deze groep uit de
-      [algemene
-      instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#permissions "Help4.x:Site Global Configuration/nl"),
-      [Artikelbeheer
-      Opties](https://docs.joomla.org/Help4.x:Articles:_Options/nl#permissions "Help4.x:Articles: Options/nl"),
-      of [Categorie
-      rechten](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/nl#permissions "Help4.x:Articles: Edit Category/nl").
+      algemene
+      instellingen,
+      Artikelbeheer
+      Opties,
+      of
     - **Toegestaan**. Toegestaan voor gebruikers in deze groep.Let op:
       Als deze actie 'Geweigerd' is op een van de hogere niveaus, dan
       heeft de 'Toegestaan' rechten hier geen effect. Een 'Geweigerd'
@@ -455,18 +444,17 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   scherm zonder wijzigingen die u misschien heeft gedaan op te slaan.
 - **Versies**. Opent het item versie geschiedenis scherm om eerdere
   versies van dit item te tonen. Dit stelt u in staat oudere versies van
-  het item te bekijken en een oudere versie te herstellen. [Meer
-  leren.](https://docs.joomla.org/Help4.x:Components_Version_History/nl "Help4.x:Components Version History/nl")
+  het item te bekijken en een oudere versie te herstellen. Meer
+  leren.
 - **Voorbeeld**. Opent een modaal venster met een voorbeeld van dit
-  artikel op de site. Vereist [gedeelde
-  sessies](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#sharedsessions "Help4.x:Site Global Configuration/nl")
+  artikel op de site. Vereist gedeelde
+  sessies
   of ingelogd zijn op de website.
 - **Toegankelijkheid controle**. Opent een scherm dat het resultaat van
   de toegankelijkheidscontrole van het artikel toont.
 - **Associaties**. Met een bepaalde taal ingesteld voor een artikel
   geeft het de mogelijkheid tot het naast elkaar bewerken van een andere
-  taal. Dit werkbalk icoon wordt alleen getoond bij [Meertalige
-  websites](https://docs.joomla.org/Help4.x:Multilingual_Associations/nl "Help4.x:Multilingual Associations/nl").
+  taal. Dit werkbalk icoon wordt alleen getoond bij
 - **Inline help in-/uitschakelen**. Toon helptekst onder enkele opties.
 - **Help**. Opent dit helpscherm.
 
@@ -474,20 +462,20 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 
 - Er zijn 2 methodes om een afbeelding in een artikel in te voegen met
   behulp van de TinyMCE tekstverwerker.
-  1.  De [CMS
-      inhoud](https://docs.joomla.org/Help4.x:Editors/nl#cmscontent "Help4.x:Editors/nl")
-      keuzelijst biedt toegang tot het [Media
-      scherm](https://docs.joomla.org/Help4.x:Media "Help4.x:Media") dat
+  1.  De CMS
+      inhoud
+      keuzelijst biedt toegang tot het Media
+      scherm dat
       afbeelding bestanden laat zien en afbeeldingen laat uploaden.
   2.  De 'Invoegen' keuzelijst is een eenvoudig formulier waarvan men de
       afbeelding-URL moet weten. Het wordt gebruikt voor externe
       afbeeldingen.
-- [Lees
-  meer](https://docs.joomla.org/Help4.x:Editors/nl#readmore "Help4.x:Editors/nl")
+- Lees
+  meer
   afbrekingen geven de mogelijkheid ruimte te sparen op de startpagina
   of een blog-weergave pagina door alleen het eerste deel van een
-  artikel te tonen. [Pagina
-  afbrekingen](https://docs.joomla.org/Help4.x:Editors/nl#pagebreak "Help4.x:Editors/nl")
+  artikel te tonen. Pagina
+  afbrekingen
   bieden meer-pagina navigatie voor lange artikelen. U kunt beide,
   desgewenst, ook in één artikel gebruiken.Men kan bijvoorbeeld een
   'Lees meer' regel na de eerste paragraaf van een meer-pagina artikel
@@ -495,25 +483,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   navigatie zichtbaar op de voorpagina tot de gebruiker de 'Lees meer'
   link gebruikt. Dan wordt de inhoudsopgave zichtbaar welke links naar
   iedere pagina toont.
-
-## Verwante informatie
-
-- Dit
-  [portaal](https://docs.joomla.org/Portal:Joomla_4/nl "Portal:Joomla 4/nl")
-  brengt informatie specifiek gerelateerd aan Joomla 4 samen.
-
-|                                                                                                                                                                                       |                                                                                                                                                                                                                              |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Verwante helpschermen                                                                                                                                                                 | Beschrijving                                                                                                                                                                                                                 |
-| [Artikelen: Opties](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl")                                                                              | Wordt gebruikt om de algemene standaards voor menu-items die artikelen tonen in te stellen. Deze standaard waarden worden gebruikt als 'Gebruik algemeen' wordt geselecteerd als optie in een artikel menu-item.             |
-| [Artikelen](https://docs.joomla.org/Help4.x:Articles/nl "Help4.x:Articles/nl")                                                                                                        | De artikellijst wordt gebruikt om artikelen te vinden, speciaal te markeren, toe te voegen en te bewerken.                                                                                                                   |
-| <span class="mw-selflink selflink">Artikelen: Bewerken</span>                                                                                                                         | Dit is waar je artikelen kunt toevoegen en bewerken. Je kunt ook categorie van een artikel selecteren en aangeven of het al de niet gepubliceerd is en of het op de voorpagina moet staan.                                   |
-| [Artikelen: Speciale artikelen](https://docs.joomla.org/Help4.x:Articles:_Featured/nl "Help4.x:Articles: Featured/nl")                                                                | Wordt gebruikt om te bepalen welke 'Speciale artikelen' getoond worden op de voorpagina en in welke volgorde ze getoond worden.                                                                                              |
-| [Artikelen: Categorieën](https://docs.joomla.org/Help4.x:Articles:_Categories/nl "Help4.x:Articles: Categories/nl")                                                                   | Categoriebeheer wordt gebruikt om categorieën te vinden, toe te voegen en te bewerken.                                                                                                                                       |
-| [Menu's: Gearchiveerde artikel](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived/nl "Help4.x:Menu Item: Article Archived/nl")                                              | Het 'Gearchiveerde artikelen' menu-itemtype toont een aangepaste ;ijst met artikelen, gesorteerd op datum of titel. Gearchiveerde artikelen worden niet meer gepubliceerd maar zijn nog steeds op de site opgeslagen.        |
-| [Menu's: Categorieblog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/nl "Help4.x:Menu Item: Category Blog/nl")                                                            | Wordt gebruikt om artikelen in een bepaalde categorie in blog weergave te tonen. Regelt de introductie ofwel het leidende artikel, aanvullende artikelen met intro tekst en extra links naar meer artikelen.                 |
-| [Menu's: Categorielijst](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/nl "Help4.x:Menu Item: Category List/nl")                                                           | Wordt gebruikt om artikelen die tot een bepaalde categorie horen in een lijst weergave.                                                                                                                                      |
-| [Menu's: Maak artikel](https://docs.joomla.org/Help4.x:Menu_Item:_Create_Article/nl "Help4.x:Menu Item: Create Article/nl")                                                           | Geeft gebruikers de mogelijkheid een artikel te verzenden. Dit is normaliter alleen beschikbaar voor gebruikers die ingelogd zijn op de voorkant van de website. Gebruikers moeten rechten hebben om artikelen aan te maken. |
-| [Menu's: Speciale artikelen](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/nl "Help4.x:Menu Item: Featured Articles/nl")                                               | Wordt gebruikt om alle artikelen te tonen die aangemerkt zijn als 'Speciaal'. Artikelen worden getoond in blog weergave.                                                                                                     |
-| [Menu's: Lijst met alle categorieën in een artikel categoriestructuur](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/nl "Help4.x:Menu Item: List All Categories/nl") | Wordt gebruikt om een hiërarchische lijst met categorieën te tonen. Afhankelijk van de geselecteerde opties van deze weergave kunt u klikken op een categorietitel om de artikelen in die categorie te zien.                 |
-| [Menu's: Individueel artikel](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article/nl "Help4.x:Menu Item: Single Article/nl")                                                    | Wordt gebruikt om één artikel te tonen.                                                                                                                                                                                      |

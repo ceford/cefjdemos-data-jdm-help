@@ -133,13 +133,8 @@ Bereich. Die Schaltflächen sind:
   Erst-Installation eingetragen. Wenn erwünscht, können diese Daten hier
   verändert werden. Bei Änderung des Passwortes daran denken, dass
   zwischen Groß- und Kleinschreibung unterschieden wird.
-- Das Administratorkonto kann auch über [Benutzer: Profil
-  bearbeiten](https://docs.joomla.org/Help4.x:Users:_Edit_Profile/de "Help4.x:Users: Edit Profile/de")
+- Das Administratorkonto kann auch über Benutzer: Profil
+  bearbeiten
   aufgerufen und bearbeitet werden, das über
-  [Benutzer](https://docs.joomla.org/Help4.x:Users/de "Help4.x:Users/de")
+  Benutzer
   verfügbar ist.
-
-## Verwandte Informationen
-
-- Siehe auch [Benutzer: Profil
-  bearbeiten](https://docs.joomla.org/Help4.x:Users:_Edit_Profile/de "Help4.x:Users: Edit Profile/de")

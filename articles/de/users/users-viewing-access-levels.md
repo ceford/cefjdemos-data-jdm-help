@@ -80,15 +80,3 @@ Werkzeugleiste im oberen Bereich. Die Funktionen sind:
 - Auf den Namen der Zugriffsebene klicken, um sie zu bearbeiten.
 - Auf den Spaltenkopf klicken, um Zugriffsebenen nach dieser Spalte auf-
   oder absteigend zu sortieren.
-
-## Verwandte Informationen
-
-- [Benutzer: Zugriffsebenen anzeigen und
-  bearbeiten](https://docs.joomla.org/Help4.x:Users:_Edit_Viewing_Access_Level/de "Help4.x:Users: Edit Viewing Access Level/de")
-- [Benutzer:
-  Optionen](https://docs.joomla.org/Help4.x:Users:_Options/de "Help4.x:Users: Options/de")
-- [Benutzer](https://docs.joomla.org/Help4.x:Users/de "Help4.x:Users/de")
-- [Benutzer:
-  Gruppen](https://docs.joomla.org/Help4.x:Users:_Groups/de "Help4.x:Users: Groups/de")
-- [Tutorial zur Zugriffssteuerungsliste
-  (ACL)](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/de "J3.x:Access Control List Tutorial/de")

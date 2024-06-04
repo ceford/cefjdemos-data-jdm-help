@@ -70,22 +70,22 @@ desplegable Contenido de CMS proporciona acceso a funciones especiales.
     Frontend of the site. It may be visible to logged in users who have
     edit state permission for the article.
   - Archivado: Article will no longer show on menu items
-    or [Category
-    List.](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/en "Help4.x:Menu Item: Category List/en")
+    or Category
+    List.
   - Movido a la papelera: Article is deleted from the site but still in
     the database.
 - **Categoría**. Selecciona la Categoría para este Artículo.
 - **Destacado**. Select Yes if article will be shown in the Featured menu item
-- **Acceso**. Vea [Niveles de
-  Acceso](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/es "Help4.x:Users: Viewing Access Levels/es")
+- **Acceso**. Vea Niveles de
+  Acceso
   para este artículo.
 - **Idioma**. Selecciona el idioma para este artículo. Si no estás
   utilizando la característica
-  [multi-idioma](https://docs.joomla.org/Help4.x:Extensions:_Languages/es "Help4.x:Extensions: Languages/es")
+  multi-idioma
   de Joomla!, mantén el valor predeterminado de 'Todos'.
 - **Etiquetas**. Asignar etiquetas a artículo. Puede seleccionar una
-  etiqueta de la [lista
-  predefinida](https://docs.joomla.org/Help4.x:Tags/es "Help4.x:Tags/es")
+  etiqueta de la lista
+  predefinida
   o ingresar una nueva etiqueta escribiendo el nombre en el campo y
   presionando enter.
 - **Nota**. This is normally for the administrator's use (for example,
@@ -97,8 +97,7 @@ desplegable Contenido de CMS proporciona acceso a funciones especiales.
 ### Imágenes y Enlaces
 
 **Nota**: Esto puede ser ocultado por un usuario con permisos de
-administrador en el [Artículo:
-Opciones](https://docs.joomla.org/Help4.x:Articles:_Options/es "Help4.x:Articles: Options/es").
+administrador en el
 This section lets you display images and links in your articles using
 standardised layouts.
 
@@ -169,8 +168,7 @@ alt="screenshot article edit images links" />
 ### Opciones
 
 **Nota**: Esto puede ser ocultado por un usuario con permisos de
-administrador en el [Artículo:
-Opciones](https://docs.joomla.org/Help4.x:Articles:_Options/es "Help4.x:Articles: Options/es").
+administrador en el
 This is a set of options you can use to control how this article will
 show in the Frontend.
 
@@ -184,8 +182,7 @@ alt="screenshot article edit article options" />
 **Presentación**
 
 - **Presentación**. Utilizar un diseño suministrado para la vista del
-  artículo o [sobrescribir las
-  plantillas](https://docs.joomla.org/Help4.x:Templates:_Customise/es "Help4.x:Templates: Customise/es").
+  artículo o
 - **Mostrar título**. Show the Article's Title.
 - **Título enlazable**. Si el Título del Artículo se muestra, si se va a
   mostrar como un enlace al artículo.
@@ -271,8 +268,7 @@ alt="Content Article Manager Edit Fields options subscreen" />
 ### Publicación
 
 **Nota**: Esto puede ser ocultado por un usuario con permisos de
-administrador en el [Artículo:
-Opciones](https://docs.joomla.org/Help4.x:Articles:_Options/es "Help4.x:Articles: Options/es").
+administrador en el
 This section allows you to enter parameters and
 Metadata
 for this Article.
@@ -334,8 +330,7 @@ alt="Content Article Manager Edit publishing options subscreen" />
 ### Asociaciones
 
 **Nota**: Esto puede ser ocultado por un usuario con permisos de
-administrador en el [Artículo:
-Opciones](https://docs.joomla.org/Help4.x:Articles:_Options/es "Help4.x:Articles: Options/es").
+administrador en el
 Tab is shown on Multilingual Sites
 only.
 
@@ -349,8 +344,7 @@ alt="screenshot article edit associations" />
 ### Opciones de la pantalla de edición
 
 **Nota**: Esto puede ser ocultado por un usuario con permisos de
-administrador en el [Artículo:
-Opciones](https://docs.joomla.org/Help4.x:Articles:_Options/es "Help4.x:Articles: Options/es").
+administrador en el
 
 <img
 src="https://docs.joomla.org/images/thumb/2/28/Help-4x-screenshot-article-edit-configure-edit-screen-es.png/600px-Help-4x-screenshot-article-edit-configure-edit-screen-es.png"
@@ -377,8 +371,7 @@ alt="screenshot article edit configure edit screen" />
 ### Permisos
 
 **Nota**: Esto puede ser ocultado por un usuario con permisos de
-administrador en el [Artículo:
-Opciones](https://docs.joomla.org/Help4.x:Articles:_Options/es "Help4.x:Articles: Options/es").
+administrador en el
 This is where you can enter permissions for this article.
 
 <img
@@ -458,25 +451,3 @@ Screenshot above.
   Front Page until the User selects the Read more link. At that time,
   the Article's table of contents would display showing links to every
   page.
-
-## Información relacionada
-
-- Este
-  [portal](https://docs.joomla.org/Portal:Joomla_4/es "Portal:Joomla 4/es")
-  reúne información específica relativa a Joomla 4.
-
-|                                                                                                                                                                     |                                                                                                                                                                                             |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Pantallas de ayuda relacionadas                                                                                                                                     | Descripción                                                                                                                                                                                 |
-| [Artículos: Opciones](https://docs.joomla.org/Help4.x:Articles:_Options/es "Help4.x:Articles: Options/es")                                                          | Used to set global defaults for menu items that display articles. These default values will be used when 'Use Global' is selected for an option in an Articles menu item.                   |
-| [Artículos](https://docs.joomla.org/Help4.x:Articles/es "Help4.x:Articles/es")                                                                                      | The Article list is used to find, mark featured, add and edit articles.                                                                                                                     |
-| <span class="mw-selflink selflink">Artículos: Editar</span>                                                                                                         | This is where you can add and edit Articles. You can also select the Category for an Article and indicate whether or not it is Published and if it is selected to appear on the Front Page. |
-| [Artículos: Destacados](https://docs.joomla.org/Help4.x:Articles:_Featured/es "Help4.x:Articles: Featured/es")                                                      | Used to control which 'Featured Articles' are displayed on the Front Page and in what order they are displayed.                                                                             |
-| [Artículos: Categorías](https://docs.joomla.org/Help4.x:Articles:_Categories/es "Help4.x:Articles: Categories/es")                                                  | The Articles Categories list is used to find, add, and edit articles categories.                                                                                                            |
-| [Menús: Mostrar los artículos archivados](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived/es "Help4.x:Menu Item: Article Archived/es")                  | Shows a customised list of articles ordered by date or title. Archived articles are no longer published but are still stored on the site.                                                   |
-| [Menús: Mostrar una categoría en formato blog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/es "Help4.x:Menu Item: Category Blog/es")                   | Used to show articles belonging to a specific Category in a blog layout. Controls the Leading Articles, Intro Articles and additional links to more Articles.                               |
-| [Menús: Mostrar una categoría en formato lista](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/es "Help4.x:Menu Item: Category List/es")                  | Used to show articles belonging to a specific Category in a list layout.                                                                                                                    |
-| [Menús: Mostrar el formulario para crear y enviar un artículo](https://docs.joomla.org/Help4.x:Menu_Item:_Create_Article/es "Help4.x:Menu Item: Create Article/es") | Allows users to submit an article. Normally this is available only to users who have logged in to the Frontend of the site. Users must have permission to create articles.                  |
-| [Menús: Mostrar todos los artículos destacados](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/es "Help4.x:Menu Item: Featured Articles/es")          | Used to show all Articles that have been tagged as Featured. Articles are shown in a Blog Layout.                                                                                           |
-| [Menús: Mostrar listado de todas las categorías](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/es "Help4.x:Menu Item: List All Categories/es")     | Used to show a hierarchical list of Categories. Depending on the selected options for this layout, you can click on a category Title to show the articles in that category.                 |
-| [Menús: Mostrar un solo artículo](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article/es "Help4.x:Menu Item: Single Article/es")                              | Used to show one article.                                                                                                                                                                   |

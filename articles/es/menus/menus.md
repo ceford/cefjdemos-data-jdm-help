@@ -83,8 +83,7 @@ Screenshot above. The functions are:
   do *not* need to rebuild this table. This function is provided in case
   the data in the table becomes corrupted.
 - **Options.** Opens the Options window where settings such as default
-  parameters can be edited. See [Menus
-  Configuration](https://docs.joomla.org/Help4.x:Components_Menus_Configuration "Special:MyLanguage/Help4.x:Components Menus Configuration").
+  parameters can be edited. See
 - **Help**. Opens this help screen.
 
 ## Quick Tips

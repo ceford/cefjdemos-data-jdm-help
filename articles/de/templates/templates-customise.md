@@ -133,8 +133,3 @@ alt="Extensions Template Manager Templates Edit upload file dialog" />
   es sinnvoll, ein Backup der betreffenden Datei, zu erstellen. Diese
   Dateien können auch außerhalb von Joomla! mit einem beliebigen HTML-
   oder CSS-Editor bearbeitet werden.
-
-## Verwandte Informationen
-
-- Um Templates zu installieren: [Erweiterungen:
-  Installieren](https://docs.joomla.org/Help4.x:Extensions:_Install/de "Help4.x:Extensions: Install/de")

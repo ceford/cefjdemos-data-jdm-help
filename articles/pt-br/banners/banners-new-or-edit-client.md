@@ -47,8 +47,8 @@ title="File:Help-4x-Components-Banners-Clients-Edit-screen-pt-br.png">800px</a>
   - *Arquivado*: O item foi arquivado.
   - *Lixeira*: O item foi enviado para a lixeira.
 - **Nota da versão**: Campo opcional para identificar esta versão do
-  item na janela do [histórico das
-  versões](https://docs.joomla.org/Help40:Components_Version_History/pt-br "Special:MyLanguage/Help40:Components Version History/pt-br")
+  item na janela do histórico das
+  versões
   do item.
 
 ### Aba (guia) Metadados
@@ -77,13 +77,11 @@ title="File:Help-4x-Components-Banners-Clients-Edit-screen-metadata-pt-br.png">F
       - Adicione as palavras-chave "cachorro" e "gato" aos artigos
         apropriados.
       - Adicione as tags "cachorro" e "gato" aos banners apropriados em
-        [Banners:
-        Editar](https://docs.joomla.org/Help40:Banners:_Edit/pt-br "Special:MyLanguage/Help40:Banners: Edit/pt-br").
+
       - Defina o parâmetro, do módulo para banners, "Pesquisar por tags"
-        como "Sim" em [Módulos do site:
-        Banners](https://docs.joomla.org/Help40:Site_Modules:_Banners/pt-br "Special:MyLanguage/Help40:Site Modules: Banners/pt-br").
-  3.  Apenas para artigos, em combinação com o módulo "[Artigos -
-      Relacionados](https://docs.joomla.org/Help40:Site_Modules:_Articles_-_Related/pt-br "Special:MyLanguage/Help40:Site Modules: Articles - Related/pt-br")",
+        como "Sim" em
+  3.  Apenas para artigos, em combinação com o módulo "Artigos -
+      Relacionados",
       para mostrar artigos que compartilham pelo menos uma palavra-chave
       em comum. Por exemplo, se o artigo que está sendo mostrado tiver
       as palavras-chaves "gatos, cachorros, macacos", quaisquer outros
@@ -116,17 +114,7 @@ de tela](#Captura_de_tela) acima. As funções são:
 - **Versões**: Abre a janela do histórico das versões do item para
   mostrar as versões anteriores deste item. Isso permite que você
   visualize versões mais antigas deste item e, se desejar, restaure a
-  partir de uma versão mais antiga. Consulte [histórico das
-  versões](https://docs.joomla.org/Help40:Components_Version_History/pt-br "Special:MyLanguage/Help40:Components Version History/pt-br")
+  partir de uma versão mais antiga. Consulte histórico das
+  versões
   para mais informações.
 - **Ajuda**: Abre a tela de ajuda.
-
-## Informações relacionadas
-
-- Para criar ou editar banners: [Banners -
-  Novo/editar](https://docs.joomla.org/Help4.x:Banners:_Edit/pt-br "Help4.x:Banners: Edit/pt-br")
-- Para trabalhar com categorias para banners: [Gerenciador das
-  categorias para
-  banners](https://docs.joomla.org/Help4.x:Banners:_Categories/pt-br "Help4.x:Banners: Categories/pt-br")
-- Para colocar banners nas páginas: [Gerenciador dod
-  módulos](https://docs.joomla.org/Help4.x:Modules/pt-br "Help4.x:Modules/pt-br")

@@ -9,7 +9,7 @@ maßgeschneiderter Ablaufplan einfach erzeugt werden, um die eigenen
 Beiträge innerhalb einer Komponente zu handhaben.
 
 Weitere Informationen sind auf der Seite
-[Workflow](https://docs.joomla.org/J4.x:Workflow/en "J4.x:Workflow/en")
+Workflow
 zu finden.
 
 ## Wie darauf zugreifen

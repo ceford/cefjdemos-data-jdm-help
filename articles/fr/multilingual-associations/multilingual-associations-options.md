@@ -49,23 +49,10 @@ To change the permissions for associations, do the following.
 ## Barre d'outils
 
 En haut de la page, vous verrez la barre d'outils présentée dans la
-[capture d'écran](#screenshot) ci-dessus.
+capture d'écran ci-dessus.
 
 - **Save**. Saves the association and stays in the current screen.
 - **Save & Close**. Saves the association and closes the current screen.
 - **Fermer**. Ferme l'écran actuel et retourne à l'écran précédent sans
   enregistrer les modifications que vous avez faites.
 - **Aide**. Ouvre l'écran d'aide.
-
-## Informations connexes
-
-- Ce
-  [portail](https://docs.joomla.org/Portal:Joomla_4/fr "Portal:Joomla 4/fr")
-  rassemble des informations liées spécifiquement à Joomla 4.
-
-|                                                                                                                                                        |                                                                                                                |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| Ecrans d'aide en relation                                                                                                                              | Description                                                                                                    |
-| <span class="mw-selflink selflink">Associations multilingues : Paramètres</span>                                                                       | Tous les droits par défaut sont utilisés pour tous les contenus dans le composant d'associations multilingues. |
-| [Associations multilingues](https://docs.joomla.org/Help4.x:Multilingual_Associations/fr "Help4.x:Multilingual Associations/fr")                       | This screen is used to set up an Association between an item and installed site languages.                     |
-| [Associations multilingues : Edition](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Edit/fr "Help4.x:Multilingual Associations: Edit/fr") | Utilisé pour ajouter ou modifier des associations entre langues affichées sur votre site multilingue.          |

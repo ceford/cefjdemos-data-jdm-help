@@ -65,8 +65,8 @@ alt="Modules screen" />
   - Aucune page
   - Uniquement les liens sélectionnés
   - Sur toutes les pages sauf celles sélectionnées
-- **Accès**. Le [Niveau
-  d'accès](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/fr "Help4.x:Users: Viewing Access Levels/fr")
+- **Accès**. Le Niveau
+  d'accès
   pour le module.
 - **Langue**. Langue du module, la valeur par défaut est 'Tous'.
 - **ID**. Un numéro d'identification unique pour ce module, vous ne
@@ -78,7 +78,7 @@ alt="Modules screen" />
 Site ou Administrateur.
 
 En haut de la page, vous verrez la barre d'outils présentée dans la
-[capture d'écran](#screenshot) ci-dessus.
+capture d'écran ci-dessus.
 
 - **Recherche par texte**. Saisissez une partie du terme à rechercher et
   cliquez sur l'icône de recherche. Passez la souris sur l'icône pour
@@ -102,7 +102,7 @@ En haut de la page, vous verrez la barre d'outils présentée dans la
 ### Options de filtre
 
 En haut de la page, vous verrez la barre d'outils présentée dans la
-[capture d'écran](#screenshot) ci-dessus.
+capture d'écran ci-dessus.
 
 - **Sélectionnez le statut**. Choisissez parmi Corbeille / Dépubliée /
   Publiée / Toutes.
@@ -141,15 +141,14 @@ Screenshot above.
     your website.
   - **Check-in**. Checks-in the selected modules.
   - **Trash**. Changes the status of the selected modules to indicate
-    that they are trashed. [Pour en savoir
-    plus.](https://docs.joomla.org/J4.x:Deleting_an_Article/fr "J4.x:Deleting an Article/fr")
+    that they are trashed. Pour en savoir
+    plus.
   - **Batch**. Batch processes the selected modules.
   - **Duplicate**. Makes a copy of the selected modules. The copy is
     created immediately and is given the same name as the original but
     suffixed with a number (for example "(2)") so that it can be
     distinguished from the original and any other copies.
-- **Options**. Opens [Module:
-  Options](https://docs.joomla.org/Help4.x:Modules:_Options/en "Help4.x:Modules: Options/en").
+- **Options**. Opens
 - **Help**. Opens this help screen.
 
 ## Processus de traitement par lots
@@ -182,30 +181,16 @@ alt="Modules batch subscreen" />
 
 ## Astuces
 
-- Tous les sites Joomla! nécessitent au moins l'utilisation d'un [Module
-  Menu](https://docs.joomla.org/Help4.x:Site_Modules:_Menu/fr "Help4.x:Site Modules: Menu/fr")
+- Tous les sites Joomla! nécessitent au moins l'utilisation d'un Module
+  Menu
   .
 - Other Module Types (for example
-  [Banners](https://docs.joomla.org/Help4.x:Site_Modules:_Banners/en "Help4.x:Site Modules: Banners/en"))
+  Banners
   are optional.
 - Some Modules are linked to components. For example, each Menu Module
   is related to one
-  [Menu](https://docs.joomla.org/Help4.x:Menus/en "Help4.x:Menus/en").
+  Menu.
 - Other Modules (for example
-  [Breadcrumbs](https://docs.joomla.org/Help4.x:Site_Modules:_Breadcrumbs/en "Help4.x:Site Modules: Breadcrumbs/en"))
+  Breadcrumbs
   do not depend on any other content.
 - Multiple occurrences of similar Module Types are allowed and common.
-
-## Informations connexes
-
-- L'installation de Joomla a plus de 40 types de modules. Des modules
-  tiers supplémentaires peuvent être obtenus auprès des
-  <a href="http://extensions.joomla.org/" class="external text"
-  target="_blank" rel="noreferrer noopener">Joomla Extensions
-  Directory</a>.
-- [Panneau
-  d'administration](https://docs.joomla.org/Help4.x:Home_Dashboard/fr "Help4.x:Home Dashboard/fr"):
-  Accès à de nombreuses fonctions par défaut de Joomla.
-- Ce
-  [portail](https://docs.joomla.org/Portal:Joomla_4/fr "Portal:Joomla 4/fr")
-  rassemble des informations liées spécifiquement à Joomla 4.

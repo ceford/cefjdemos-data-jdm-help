@@ -74,19 +74,9 @@ Werkzeugleiste im oberen Bereich. Die Funktionen sind:
 - **Versionen**. Öffnet den Versionsverlauf, der ältere Versionen des
   Eintrags zeigt. Damit können ältere Versionen des Elements angezeigt
   und gegebenenfalls wiederhergestellt werden. Siehe
-  [Versionsverlauf](https://docs.joomla.org/Help4.x:Components_Version_History/de "Help4.x:Components Version History/de")
+  Versionsverlauf
   für weitere Informationen.
 - **Schließen**. Schließt den aktuellen Bildschirm und kehrt zum
   vorherigen Bildschirm zurück, ohne die vorgenommenen Änderungen zu
   speichern.
 - **Hilfe**. Öffnet die Hilfeseite.
-
-## Verwandte Informationen
-
-- [TinyMCE – der
-  Standard-WYSIWYG-Editor](https://docs.joomla.org/Help4.x:TinyMCE/de "Help4.x:TinyMCE/de")
-- [Benutzerhinweise](https://docs.joomla.org/Help4.x:User_Notes/de "Help4.x:User Notes/de")
-- [Benutzerhinweise: Kategorie neu erstellen oder
-  bearbeiten](https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit_Category/de "Help4.x:User Notes: New or Edit Category/de")
-- [Benutzerhinweise:
-  Kategorien](https://docs.joomla.org/Help4.x:User_Notes:_Categories/de "Help4.x:User Notes: Categories/de")

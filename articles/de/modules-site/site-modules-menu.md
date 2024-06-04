@@ -66,21 +66,21 @@ alt="modules site module manager module menu" />
   Moduls an oder unterdrückt die Anzeige im Frontend. Der angezeigte
   Titel entspricht dem Titel im Formularfeld oben.
 - **Position**. Die
-  [Modul-Position](https://docs.joomla.org/Module_Position/de "Module Position/de")
+  Modul-Position
   wählen, auf der dieses Modul angezeigt werden soll. Eine
   benutzerdefinierte Modulposition kann unter Verwendung mit dem
-  [Load-Position-Plugin](https://docs.joomla.org/How_do_you_put_a_module_inside_an_article%3F/de "How do you put a module inside an article?/de")
+  Load-Position-Plugin
   eingegeben werden. Alternativ kann die Positionstaste gedrückt werden,
   um eine Modulposition aus dem Template auszuwählen.
 - **Status**. Der Veröffentlichungs-Status des Eintrags.
-- **Zugriffsebene**. Die [Zugriffsebene für die
-  Anzeige](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/de "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/de")
+- **Zugriffsebene**. Die Zugriffsebene für die
+  Anzeige
   des Eintrags.
 - **Module Reihenfolge** Zeigt eine DropDown-Liste aller Module an der
   Position, an der sich das aktuelle Modul befindet. In dieser
   Reihenfolge werden die Module angezeigt, sowohl im Frontend als auch
   auf der
-  [Module](https://docs.joomla.org/Help4.x:Modules/de "Help4.x:Modules/de")-Seite.
+  Module-Seite.
 - **Veröffentlichung starten**. Datum und Uhrzeit, um die
   Veröffentlichung zu starten. Dieses Feld verwenden, um Inhalt vor der
   Zeit zu erstellen und ihn später automatisch zu veröffentlichen.
@@ -110,8 +110,8 @@ alt="modules manager site module menu assignment tab" />
   diese Weise kann man bestimmten Seiten Module zuweisen. Durch Auswahl
   der Menülinks, denen das Modul zugeordnet werden soll, kann man
   anpassen, auf welchen Seiten Module erscheinen/nicht erscheinen.
-  Weitere Informationen sind unter [Wie wird ein Modul mit einer Seite
-  verknüpft?](https://docs.joomla.org/How_do_you_assign_a_module_to_specific_pages%3F/de "How do you assign a module to specific pages?/de")
+  Weitere Informationen sind unter Wie wird ein Modul mit einer Seite
+  verknüpft?
   zu finden.
 
 ### Erweitert

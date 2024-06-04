@@ -36,8 +36,8 @@ alt="Menus Item Articles Category Blog screen" />
 - **Titre du lien**. Le titre qui sera affiché pour ce lien de menu.
 - **Alias**. Le nom interne de cet article. Normalement, vous pouvez
   laisser ce champ vide et Joomla remplira une valeur par défaut Titre
-  en minuscules et avec des tirets au lieu d'espaces. [Pour en savoir
-  plus.](https://docs.joomla.org/Alias/fr "Alias/fr")
+  en minuscules et avec des tirets au lieu d'espaces. Pour en savoir
+  plus.
 
 ### Détails
 
@@ -259,8 +259,8 @@ alt="Menus Item Articles Category Blog options subscreen" />
 **Associations**
 
 - **Associations multilingues**. Show the associated flags or Language
-  Code. [Associations
-  multilingues.](https://docs.joomla.org/Help4.x:Multilingual_Associations/fr "Help4.x:Multilingual Associations/fr")
+  Code. Associations
+  multilingues.
 
 **Auteur**
 
@@ -323,21 +323,21 @@ alt="Menus Item Articles Category Blog integration subscreen" />
 See Menus: New Item
 for help on fields common to all Menu Item types, including:
 
-- [Panneau de
-  droite](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/fr#rightpanel "Help4.x:Menu Item: New Item/fr")
-- [Type de
-  liens](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/fr#linktype "Help4.x:Menu Item: New Item/fr")
-- [Affichage de la
-  page](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/fr#pagedisplay "Help4.x:Menu Item: New Item/fr")
-- [Métadonnées](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/fr#metadata "Help4.x:Menu Item: New Item/fr")
+- Panneau de
+  droite
+- Type de
+  liens
+- Affichage de la
+  page
+- Métadonnées
 - Associations
-- [Assignation de
-  modules](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/fr#moduleassignment "Help4.x:Menu Item: New Item/fr")
+- Assignation de
+  modules
 
 ## Barre d'outils
 
 En haut de la page, vous verrez la barre d'outils présentée dans la
-[capture d'écran](#screenshot) ci-dessus.
+capture d'écran ci-dessus.
 
 - **Enregistrer**. Enregistre le lien de menu et reste sur le même
   écran.
@@ -351,29 +351,6 @@ En haut de la page, vous verrez la barre d'outils présentée dans la
 
 ## Astuces
 
-- To create a new Category see [Articles: Edit
-  Category](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/en "Help4.x:Articles: Edit Category/en").
+- To create a new Category see
 - To create a new menu see
-  [Menus](https://docs.joomla.org/Help4.x:Menus/en "Help4.x:Menus/en").
-
-## Informations connexes
-
-- Ce
-  [portail](https://docs.joomla.org/Portal:Joomla_4/fr "Portal:Joomla 4/fr")
-  rassemble des informations liées spécifiquement à Joomla 4.
-
-|                                                                                                                                                                       |                                                                                                                                                                                             |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Ecrans d'aide en relation                                                                                                                                             | Description                                                                                                                                                                                 |
-| [Articles : Paramètres](https://docs.joomla.org/Help4.x:Articles:_Options/fr "Help4.x:Articles: Options/fr")                                                          | Used to set global defaults for menu items that display articles. These default values will be used when 'Use Global' is selected for an option in an Articles menu item.                   |
-| Articles                                                                                         | The Article list is used to find, mark featured, add and edit articles.                                                                                                                     |
-| [Articles : Edition](https://docs.joomla.org/Help4.x:Articles:_Edit/fr "Help4.x:Articles: Edit/fr")                                                                   | This is where you can add and edit Articles. You can also select the Category for an Article and indicate whether or not it is Published and if it is selected to appear on the Front Page. |
-| [Articles : Articles épinglés](https://docs.joomla.org/Help4.x:Articles:_Featured/fr "Help4.x:Articles: Featured/fr")                                                 | Used to control which 'Featured Articles' are displayed on the Front Page and in what order they are displayed.                                                                             |
-| [Articles : catégories](https://docs.joomla.org/Help4.x:Articles:_Categories/fr "Help4.x:Articles: Categories/fr")                                                    | The Articles Categories list is used to find, add, and edit articles categories.                                                                                                            |
-| [Menus : Articles archivés](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived/fr "Help4.x:Menu Item: Article Archived/fr")                                  | Shows a customised list of articles ordered by date or title. Archived articles are no longer published but are still stored on the site.                                                   |
-| <span class="mw-selflink selflink">Menus : Blog d'une catégorie</span>                                                                                                | Used to show articles belonging to a specific Category in a blog layout. Controls the Leading Articles, Intro Articles and additional links to more Articles.                               |
-| [Menus : Liste d'articles d'une catégorie](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/fr "Help4.x:Menu Item: Category List/fr")                         | Used to show articles belonging to a specific Category in a list layout.                                                                                                                    |
-| [Menus : Créer un article](https://docs.joomla.org/Help4.x:Menu_Item:_Create_Article/fr "Help4.x:Menu Item: Create Article/fr")                                       | Allows users to submit an article. Normally this is available only to users who have logged in to the Frontend of the site. Users must have permission to create articles.                  |
-| [Menus : Articles épinglés](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/fr "Help4.x:Menu Item: Featured Articles/fr")                                | Used to show all Articles that have been tagged as Featured. Articles are shown in a Blog Layout.                                                                                           |
-| [Menus : Liste des catégories d'une catégorie parente](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/fr "Help4.x:Menu Item: List All Categories/fr") | Used to show a hierarchical list of Categories. Depending on the selected options for this layout, you can click on a category Title to show the articles in that category.                 |
-| [Menus : Article](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article/fr "Help4.x:Menu Item: Single Article/fr")                                                | Used to show one article.                                                                                                                                                                   |
+  Menus.

@@ -139,8 +139,7 @@ Screenshot above.
     created immediately and is given the same name as the original but
     suffixed with a number (for example "(2)") so that it can be
     distinguished from the original and any other copies.
-- **Options**. Opens [Module:
-  Options](https://docs.joomla.org/Help4.x:Modules:_Options/en "Help4.x:Modules: Options/en").
+- **Options**. Opens
 - **Help**. Opens this help screen.
 
 ## Batch Process
@@ -173,15 +172,14 @@ alt="Modules batch subscreen" />
 
 ## Quick Tips
 
-- Joomla websites require at least 1 [Menu
-  Module](https://docs.joomla.org/Help4.x:Site_Modules:_Menu/en "Help4.x:Site Modules: Menu/en").
+- Joomla websites require at least 1
 - Other Module Types (for example
-  [Banners](https://docs.joomla.org/Help4.x:Site_Modules:_Banners/en "Help4.x:Site Modules: Banners/en"))
+  Banners
   are optional.
 - Some Modules are linked to components. For example, each Menu Module
   is related to one
-  [Menu](https://docs.joomla.org/Help4.x:Menus/en "Help4.x:Menus/en").
+  Menu.
 - Other Modules (for example
-  [Breadcrumbs](https://docs.joomla.org/Help4.x:Site_Modules:_Breadcrumbs/en "Help4.x:Site Modules: Breadcrumbs/en"))
+  Breadcrumbs
   do not depend on any other content.
 - Multiple occurrences of similar Module Types are allowed and common.

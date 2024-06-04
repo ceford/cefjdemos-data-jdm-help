@@ -10,8 +10,8 @@ contactpersonen en nieuwsfeeds.
 
 ## Hoe toegang te krijgen
 
-Navigeer naar [Advertentie categorie
-beheer](https://docs.joomla.org/Help4.x:Banners:_Categories/nl "Help4.x:Banners: Categories/nl"),
+Navigeer naar Advertentie categorie
+beheer,
 **Componenten → Advertenties → Categorieën**
 
 - **Nieuw**. Klik op het **Nieuw** icoon in de werkbalk.
@@ -34,8 +34,8 @@ alt="Components Banners Categories Edit screen" />
 - **Alias**. De interne naam van het item. Normaliter, kunt u dit leeg
   laten en Joomla zal de standaardwaarde invullen. De standaard waarde
   is de titel of naam in kleine letters en streepjes in plaats van
-  spaties. [Meer
-  leren.](https://docs.joomla.org/Alias/nl "Special:MyLanguage/Alias/nl")
+  spaties. Meer
+  leren.
 
 ### Gegevens tabblad
 
@@ -61,12 +61,10 @@ alt="Components Banners Categories Edit screen" />
   - *Verplaatst naar prullenbak:* Item is verwijderd van de site maar
     nog steeds in de database. Het kan definitief verwijderd worden van
     de database met de functie Prullenbak legen in de werkbalk (zie ook
-    [Verwijderen van een
-    artikel](https://docs.joomla.org/Deleting_an_Article/nl "Special:MyLanguage/Deleting an Article/nl")).
+
 - **Toegang**. Selecteer het weergave toegangsniveau voor dit item uit
   de uitklaplijst. De weergegeven toegangsniveaus zijn afhankelijk van
-  wat is ingesteld voor deze website in [Gebruikers →
-  Toegangsniveaus](https://docs.joomla.org/Help40:Users:_Viewing_Access_Levels/nl "Special:MyLanguage/Help40:Users: Viewing Access Levels/nl").
+  wat is ingesteld voor deze website in
   Let op, toegangsniveaus zijn niet identiek aan ACL rechten.
   Toegangsniveaus bepalen wat een gebruiker kan bekijken. ACL rechten
   controleren welke acties een gebruiker kan uitvoeren.
@@ -81,7 +79,7 @@ alt="Components Banners Categories Edit screen" />
   op de website zichtbaar.
 - **Notitie versie**. Optioneel veld om deze versie van dit item te
   identificeren in het
-  [versiegeschiedenis](https://docs.joomla.org/Help40:Components_Version_History/nl "Special:MyLanguage/Help40:Components Version History/nl")
+  versiegeschiedenis
   venster.
 
 ### Opties tabblad
@@ -139,8 +137,8 @@ niet worden bewerkt.
     moet u:
     - Voeg de trefwoorden 'hond' en 'kat' toe aan de juiste Artikelen.
     - Voeg de Tags 'hond' en 'kat' toe aan de juiste Advertenties op het
-      [Advertentiebeheer
-      Nieuw/Bewerk](https://docs.joomla.org/Help4.x:Components_Banners_Banners_Edit/nl "Help4.x:Components Banners Banners Edit/nl")
+      Advertentiebeheer
+      Nieuw/Bewerk
       scherm
     - Stel de Advertentiemodule Parameter 'Zoek op Tags' in op 'Ja' in
       het <a
@@ -241,20 +239,10 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   aangemaakt.
 - **Versies**. Opent het item versie geschiedenis scherm om eerdere
   versies van dit item te tonen. Dit stelt u in staat oudere versies van
-  het item te bekijken en een oudere versie te herstellen. Zie [Versie
-  historie](https://docs.joomla.org/Help40:Components_Version_History/nl "Special:MyLanguage/Help40:Components Version History/nl")
+  het item te bekijken en een oudere versie te herstellen. Zie Versie
+  historie
   voor meer informatie.
 - **Associaties**. Met een bepaalde taal ingesteld voor een item geeft
   het de mogelijkheid tot het naast elkaar bewerken van een andere taal.
-  Dit werkbalk icoon wordt alleen getoond bij [Meertalige
-  websites](https://docs.joomla.org/Help4.x:Multilingual_Associations/nl "Special:MyLanguage/Help4.x:Multilingual Associations/nl").
+  Dit werkbalk icoon wordt alleen getoond bij
 - **Help**. Opent dit helpscherm.
-
-## Verwante informatie
-
-- Om advertenties aan te maken of te bewerken: [Advertentie categorie-
-  Nieuw/Bewerk](https://docs.joomla.org/Help4.x:Banners:_Categories/nl "Help4.x:Banners: Categories/nl")
-- Om met adverteerders te werken:
-  [Adverteerders](https://docs.joomla.org/Help4.x:Banners:_Clients/nl "Help4.x:Banners: Clients/nl")
-- Om advertenties op pagina's te zetten:
-  [Modulebeheer](https://docs.joomla.org/Help4.x:Modules/nl "Help4.x:Modules/nl")

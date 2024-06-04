@@ -113,8 +113,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   huidige item. Beïnvloed het huidige item niet. Dit werkbalk icoon
   wordt niet getoond bij het aanmaken van een nieuw item.
 - **Help**. Opent dit helpscherm.
-
-## Verwante informatie
-
-- [Joomla 3 handleiding: Gebruikers
-  actielogs](https://docs.joomla.org/J3.x:User_Action_Logs/nl "J3.x:User Action Logs/nl")

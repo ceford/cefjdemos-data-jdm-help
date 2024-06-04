@@ -54,18 +54,17 @@ alt="Content Article screen" />
     werden, die zum Beispiel einer Sprache zugeordnet sind.
 - **Hauptbeitrag**. Zum Umschalten auf das Symbol klicken. Der Beitrag
   wird auf der Seite der
-  [Hauptbeiträge](https://docs.joomla.org/Help4.x:Articles:_Featured/de "Help4.x:Articles: Featured/de")
+  Hauptbeiträge
   gezeigt.
 - **Status**. Status des Beitrages. Für Informationen den Mauszeiger
   über das Symbol bewegen.
 - **Titel**. Der Titel des Beitrages. Mit Klick auf den Titel öffnen.
 - **Zugriffsebene**. Die
-  [Zugriffsebene](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/de "Help4.x:Users: Viewing Access Levels/de")
+  Zugriffsebene
   für die Anzeige des Beitrages.
 - **Autor**. Name des Benutzers, der den Beitrag erstellt hat.
 - **Verknüpfung**. Zeigt die verknüpften Beiträge. Ein Klick auf den
-  Sprachcode öffnet den Beitrag. [Nur bei mehrsprachigen
-  Seiten](https://docs.joomla.org/Help4.x:Multilingual_Associations/de "Help4.x:Multilingual Associations/de").
+  Sprachcode öffnet den Beitrag.
 - **Sprache**. Die Sprache des Beitrags, Standard ist 'Alle'.
 - **Erstellungsdatum**. Das Erstellungsdatum des Beitrags.
 - **Zugriffe**. Anzahl der Aufrufe eines Beitrags.
@@ -74,7 +73,7 @@ alt="Content Article screen" />
 
 ## Listen-Filter
 
-**Suchleiste**. Das [Bildschirmfoto](#screenshot) zeigt die Suchleiste
+**Suchleiste**. Das Bildschirmfoto zeigt die Suchleiste
 im oberen Bereich.
 
 - **Suche nach Text**. Einen Teil des Suchbegriffs eingeben, auf das
@@ -94,12 +93,12 @@ im oberen Bereich.
 - **Anzuzeigende Anzahl**. Zeigt die Anzahl der Beiträge an. Zur
   Änderung in der Dropdown-Liste die gewünschte Anzahl wählen.Der
   Standardwert für die Site ist '20', er kann in der
-  [Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#defaultlistlimit "Help4.x:Site Global Configuration/de")
+  Konfiguration
   geändert werden.
 
 ### Filter-Optionen
 
-Das [Bildschirmfoto](#screenshot) zeigt die Filterleiste im oberen
+Das Bildschirmfoto zeigt die Filterleiste im oberen
 Bereich.
 
 - **Hauptbeiträge wählen**. Auswahl von Keine Hauptbeiträge /
@@ -117,7 +116,7 @@ Bereich.
 
 **Seitenkontrolle**. Gibt es mehr Beiträge als auf der Seite gezeigt,
 wird im unteren Bereich die Seitenkontrollleiste wie auf dem
-[Bildschirmfoto](#screenshot) eingeblendet. Die aktuelle Seitenzahl ist
+Bildschirmfoto eingeblendet. Die aktuelle Seitenzahl ist
 mit dunkler Farbe unterlegt.
 
 - **Start**. Anklicken, um die erste Seite anzuzeigen.
@@ -128,7 +127,7 @@ mit dunkler Farbe unterlegt.
 
 ## Werkzeugleiste
 
-Das [Bildschirmfoto](#screenshot) zeigt die Werkzeugleiste im oberen
+Das Bildschirmfoto zeigt die Werkzeugleiste im oberen
 Bereich.
 
 - **Neu**. Erstellen eines neuen Beitrags.
@@ -143,16 +142,15 @@ Bereich.
   - **Kein Hauptbeitrag**. Markiert gewählte Beiträge als 'Kein
     Hauptbeitrag'.
   - **Archivieren**. Ändert den Status gewählter Beiträge auf
-    'Archiviert'. [Mehr
-    erfahren.](https://docs.joomla.org/J4.x:How_to_Archive_an_Article/de "J4.x:How to Archive an Article/de")
+    'Archiviert'. Mehr
+    erfahren.
   - **Freigeben**. Gibt ausgewählte Beiträge zur Bearbeitung frei.
   - **Papierkorb**. Ändert den Status gewählter Beiträge auf
-    'Papierkorb'. [Mehr
-    erfahren.](https://docs.joomla.org/J4.x:Deleting_an_Article/de "J4.x:Deleting an Article/de")
+    'Papierkorb'. Mehr
+    erfahren.
   - **Stapelverarbeitung**. Gewählte Beiträge mit der Stapelverarbeitung
     ändern.
-- **Optionen**. Öffnet [Beiträge:
-  Optionen](https://docs.joomla.org/Help4.x:Articles:_Options/de "Help4.x:Articles: Options/de").
+- **Optionen**. Öffnet
 - **Hilfe**. Öffnet die Hilfeseite.
 
 ## Stapelverarbeitung
@@ -201,18 +199,3 @@ alt="batch process articles" />
   auf den Kopf der Spalte "Reihenfolge" klicken. Es ist einfacher die
   Sortierung zu ändern, wenn nur die gewünschte Kategorie per Filter
   angezeigt wird.
-
-## Verwandte Informationen
-
-- [Beiträge: Optionen](https://docs.joomla.org/Help4.x:Articles:_Options/de "Help4.x:Articles: Options/de") Festlegen globaler Standardwerte für Menüeinträge, die Beiträge anzeigen. Diese Werte werden verwendet, wenn in einem Menüeintrag 'Global' als Option ausgewählt wird.
-- <span class="mw-selflink selflink">Beiträge</span> Die Beitragsliste wird verwendet, um Beiträge zu finden, zu markieren, hinzuzufügen und zu bearbeiten.
-- [Beiträge: Bearbeiten](https://docs.joomla.org/Help4.x:Articles:_Edit/de "Help4.x:Articles: Edit/de") Hier werden Beiträge hinzugefügt und bearbeitet. Außerdem lässt sich die Kategorie für einen Beitrag auswählen und festlegen, ob er veröffentlicht wird und auf der Startseite erscheint.
-- [Beiträge: Hauptbeiträge](https://docs.joomla.org/Help4.x:Articles:_Featured/de "Help4.x:Articles: Featured/de") Dient zur Steuerung, welche 'Hauptbeiträge' in welcher Reihenfolge auf der Startseite angezeigt werden.
-- [Beiträge: Kategorien](https://docs.joomla.org/Help4.x:Articles:_Categories/de "Help4.x:Articles: Categories/de") Die Liste der Beitragskategorien wird verwendet, um Kategorien für Beiträge zu finden, hinzuzufügen und zu bearbeiten.
-- [Menü: Archivierte Beiträge](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived/de "Help4.x:Menu Item: Article Archived/de") Zeigt eine angepasste Liste nach Datum oder Titel geordneter Beiträge. Archivierte Beiträge sind nicht mehr veröffentlicht, bleiben aber auf der Website gespeichert.
-- [Menü: Kategorieblog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/de "Help4.x:Menu Item: Category Blog/de") Zeigt Beiträge einer Kategorie im Blog-Layout. Steuert führende und einleitende Beiträge sowie zusätzliche Links zu Beiträgen.
-- [Menü: Kategorieliste](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/de "Help4.x:Menu Item: Category List/de") Zeigt eine Liste von Beiträgen einer Kategorie in einem Listenlayout an.
-- [Menü: Beitrag erstellen](https://docs.joomla.org/Help4.x:Menu_Item:_Create_Article/de "Help4.x:Menu Item: Create Article/de") Ermöglicht es Benutzern, einen Beitrag zu verfassen. Normalerweise steht dies nur angemeldeten Benutzern im Frontend der Website zur Verfügung. Benutzer müssen die Berechtigung haben, Beiträge zu erstellen.
-- [Menü: Hauptbeiträge](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/de "Help4.x:Menu Item: Featured Articles/de") Dient zur Anzeige der als 'Hauptbeiträge' markierten Beiträge. Die Beiträge werden in einem Blog-Layout angezeigt.
-- [Menü: Alle Kategorien in einer Beitragskategorie auflisten](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/de "Help4.x:Menu Item: List All Categories/de") Dient zur Anzeige einer hierarchischen Liste von Kategorien. Je nach den gewählten Optionen für dieses Format kann man auf den Namen einer Kategorie klicken, um die Beiträge in dieser Kategorie anzuzeigen.
-- [Menü: Einzelner Beitrag](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article/de "Help4.x:Menu Item: Single Article/de") Dient zur Anzeige eines einzelnen Beitrags.

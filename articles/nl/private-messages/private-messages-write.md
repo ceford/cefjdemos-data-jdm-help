@@ -4,7 +4,7 @@
 
 Dit scherm laat u privéberichten schrijven en verzenden aan anderen met
 de juiste
-[Gebruikersroep](https://docs.joomla.org/Help4.x:Users:_Groups/nl "Help4.x:Users: Groups/nl")
+Gebruikersroep
 rechten.
 
 ## Hoe toegang te krijgen
@@ -45,10 +45,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   het vorige scherm zonder wijzigingen die u misschien heeft gedaan op
   te slaan.
 - **Help**. Opent dit helpscherm.
-
-## Verwante informatie
-
-- Meer informatie over berichten: [Privéberichten -
-  Inbox](https://docs.joomla.org/Help4.x:Private_Messages/nl "Help4.x:Private Messages/nl")
-- Meer informatie over het lezen van berichten: [Privéberichten -
-  Lezen](https://docs.joomla.org/Help4.x:Private_Messages:_Read/nl "Help4.x:Private Messages: Read/nl")

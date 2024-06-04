@@ -90,8 +90,7 @@ Para alterar as permissões para mídia, faça o seguinte:
     - **Editar**: Os usuários podem editar a mídia.
 3.  Selecione a permissão desejada para a ação que deseja alterar.
     - **Herdado**: Herdado, para usuários neste grupo, das permissões
-      nas [configurações
-      globais](https://docs.joomla.org/Help4.x:Site_Global_Configuration/pt-br#permissions "Help4.x:Site Global Configuration/pt-br").
+      nas
     - **Permitido**: Permitido para usuários neste grupo. Observação: Se
       esta ação for negada em um dos níveis mais altos, a permissão
       permitida aqui não terá efeito. Uma configuração negada não pode
@@ -124,6 +123,5 @@ da tela](#screenshot) acima.
 ## Informação relacionada
 
 - Tela de ajuda relacionada:
-  [Mídia](https://docs.joomla.org/Help4.x:Media/pt-br "Help4.x:Media/pt-br").
-- Tutorial: [Gerenciando
-  mídia](https://docs.joomla.org/J4.x:Managing_Media/pt-br "J4.x:Managing Media/pt-br").
+  Mídia.
+- Tutorial:

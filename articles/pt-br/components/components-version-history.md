@@ -5,10 +5,10 @@
 A tela "Histórico das versões" permite gerenciar versões anteriores do
 item que está sendo editado. O histórico das versões está disponível
 para
-[artigos](https://docs.joomla.org/Help4.x:Articles:_Edit/pt-br "Help4.x:Articles: Edit/pt-br"),
-[banners](https://docs.joomla.org/Help4.x:Banners:_Edit/pt-br "Help4.x:Banners: Edit/pt-br")
+artigos,
+banners
 e
-[clientes](https://docs.joomla.org/Help4.x:Banners:_New_or_Edit_Client/pt-br "Help4.x:Banners: New or Edit Client/pt-br"),
+clientes,
 <a
 href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_Edit/pr-br&amp;action=edit&amp;redlink=1"
 class="new"
@@ -17,8 +17,8 @@ title="Help4.x:Contacts: Edit/pr-br (page does not exist)">contatos</a>,
 href="https://docs.joomla.org/index.php?title=Help4.x:News_Feeds:_Edit/pt-br&amp;action=edit&amp;redlink=1"
 class="new"
 title="Help4.x:News Feeds: Edit/pt-br (page does not exist)">feeds para
-notícias</a>, [notas dos
-usuários](https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit/pt-br "Help4.x:User Notes: New or Edit/pt-br")
+notícias</a>, notas dos
+usuários
 e todas as categorias.
 
 Cada vez que você salva o item com novas alterações, uma nova versão é
@@ -28,8 +28,8 @@ uma ou mais versões para sempre. Se assim for marcado, essas versões não
 serão excluídas automaticamente, mesmo que você exceda o número máximo
 de versões inseridas nas opções.
 
-Nota: Se você usa versionamento, os [campos
-personalizados](https://docs.joomla.org/J3.x:Adding_custom_fields/pt-br "J3.x:Adding custom fields/pt-br")
+Nota: Se você usa versionamento, os campos
+personalizados
 não são armazenados em versões diferentes.
 
 ## Como acessar
@@ -115,7 +115,3 @@ de tela](#screenshot) acima. As funções são:
   clique no botão "Excluir". Observe que isso *não* exclui o item que
   está sendo editado. Ele apenas exclui o histórico de versões do item.
 
-## Informações relacionadas
-
-Para definir as opções do histórico de versões, clique no botão "Opções"
-do componente desejado.

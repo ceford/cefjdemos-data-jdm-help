@@ -102,8 +102,7 @@ bovenstaande Screenshot.
     aflopend volgorde.
 - **Te tonen aantal.** Toont het aantal items in een lijst. Selecteer
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#defaultlistlimit "Special:MyLanguage/Help4.x:Site Global Configuration/nl").
+  voor een site is '20' maar dit kan veranderd worden bij de
 
 De lijst met plugins welke verschijnt op dit scherm kan vrij groot zijn.
 U kunt één van de beschikbare filters gebruiken of een combinatie ervan
@@ -150,12 +149,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   instellingen 'parameters' genoemd. U kunt de termen 'opties' en
   'parameters' door elkaar gebruikt worden in help-documentatie en
   handleidingen.
-
-## Verwante informatie
-
-- Om de details of opties van een plugin te wijzigen: [Pluginbeheer -
-  Bewerken](https://docs.joomla.org/Help4.x:Plugins:_Name_of_Plugin/nl "Help4.x:Plugins: Name of Plugin/nl")
-- Om plugins te installeren: [Extensiebeheer -
-  Installeren](https://docs.joomla.org/Help4.x:Extensions:_Install/nl "Help4.x:Extensions: Install/nl")
-- Om plugins te deinstalleren: [Extensiebeheer -
-  Beheer](https://docs.joomla.org/Help4.x:Extensions:_Manage/nl "Help4.x:Extensions: Manage/nl")

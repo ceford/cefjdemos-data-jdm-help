@@ -78,7 +78,7 @@ folgenden Funktionen:
 
 ## Werkzeugleiste
 
-Das [Bildschirmfoto](#screenshot) zeigt die Werkzeugleiste im oberen
+Das Bildschirmfoto zeigt die Werkzeugleiste im oberen
 Bereich.
 
 - **Hochladen**. Öffnet ein Fenster zum Hochladen der Bilder.
@@ -86,8 +86,7 @@ Bereich.
   Namens des neuen Verzeichnisses. Das neue Verzeichnis wird im aktuell
   gewählten Verzeichnis angelegt.
 - **Löschen**. Löscht die gewählten Bilder.
-- **Optionen**. Öffnet [Medien
-  Optionen](https://docs.joomla.org/Help4.x:Media:_Options/de "Help4.x:Media: Options/de").
+- **Optionen**. Öffnet
 - **Hilfe**. Öffnet die Hilfeseite.
 
 ## Tipps
@@ -96,23 +95,13 @@ Bereich.
   werden sollen:
   1.  einen Ordner im Stammverzeichnis der Site erstellen,
       beispielsweise **files**
-  2.  das Plugin [Dateisystem -
-      Lokal](https://docs.joomla.org/J4.x:Media:_Options/de "J4.x:Media: Options/de")
+  2.  das Plugin Dateisystem -
+      Lokal
       öffnen und **files** unter **Verzeichnisse auswählen** hinzufügen.
   3.  Zurück in der Medienkomponente sind jetzt **images** und **files**
       als separate Einträge im Abschnitt "Lokal" zu sehen.
-- Die maximale Hochladegröße kann in [Medien:
-  Optionen](https://docs.joomla.org/Help4.x:Media:_Options/de "Help4.x:Media: Options/de")
+- Die maximale Hochladegröße kann in Medien:
+  Optionen
   auf eine andere Größe als "10 MB" geändert werden.
 - Es können mehrere Dateien gleichzeitig hochgeladen oder gelöscht
   werden.
-
-## Verwandte Informationen
-
-- Tutorial: [Medien
-  verwalten](https://docs.joomla.org/J4.x:Managing_Media/de "J4.x:Managing Media/de").
-- [Dashboard](https://docs.joomla.org/Help4.x:Home_Dashboard/de "Help4.x:Home Dashboard/de"):
-  Zugriff auf viele Standardfunktionen.
-- Dieses
-  [Portal](https://docs.joomla.org/Portal:Joomla_4/de "Portal:Joomla 4/de")
-  bringt alle Informationen zu Joomla 4 zusammen.

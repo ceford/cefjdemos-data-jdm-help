@@ -200,17 +200,6 @@ Saved menu items have additional buttons:
 
 ## Быстрые советы
 
-- To add an menu item [Archived
-  Articles](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived/ru "Special:MyLanguage/Help4.x:Menu Item: Article Archived/ru").
+- To add an menu item
 - The core distribution of Joomla provides 38 different Menu Item types.
   If you install third-party extensions, these may add more menu types.
-
-## Связанная информация
-
-- Tutorial:
-  <a href="https://docs.joomla.org/J4.x:Adding_a_New_Menu/ru" class="new"
-  title="Special:MyLanguage/J4.x:Adding a New Menu/ru (page does not exist)">How
-  to Add a New Menu</a>.
-- This
-  [Portal](https://docs.joomla.org/Portal:Joomla_4/ru "Special:MyLanguage/Portal:Joomla 4/ru")
-  brings together information related specifically to Joomla 4.

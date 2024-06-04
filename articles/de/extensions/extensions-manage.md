@@ -59,7 +59,7 @@ Klick auf eine Spaltenüberschrift sortiert die Liste nach dessen Wert.
 
 ## Listen-Filter
 
-**Suchleiste**. Das [Bildschirmfoto](#screenshot) zeigt die Suchleiste
+**Suchleiste**. Das Bildschirmfoto zeigt die Suchleiste
 im oberen Bereich.
 
 - **Suche nach Text**. Einen Teil des Suchbegriffs eingeben, auf das
@@ -79,7 +79,7 @@ im oberen Bereich.
 - **Anzuzeigende Anzahl**. Zeigt die Anzahl der Einträge an. Zur
   Änderung in der Dropdown-Liste die gewünschte Anzahl wählen.Der
   Standardwert für die Site ist '20', er kann in der
-  [Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#defaultlistlimit "Help4.x:Site Global Configuration/de")
+  Konfiguration
   geändert werden.
 
 ### Filtern nach Bereich, Status, Typ und Verzeichnis
@@ -120,7 +120,7 @@ im oberen Bereich.
 
 **Seitenkontrolle**. Gibt es mehr Erweiterung(en) als auf der Seite
 gezeigt, wird im unteren Bereich die Seitenkontrollleiste wie auf dem
-[Bildschirmfoto](#screenshot) eingeblendet. Die aktuelle Seitenzahl ist
+Bildschirmfoto eingeblendet. Die aktuelle Seitenzahl ist
 mit dunkler Farbe unterlegt.
 
 - **Start**. Anklicken, um die erste Seite anzuzeigen.

@@ -63,7 +63,7 @@ alt="Components Banners Banners Edit screen" />
       and 'Name' values respectively into your custom code. For example:
       [![`{NAME}`](enter%20url%20to%20image "{NAME}")](%7BCLICKURL%7D).
       Another option is to enter an HTML custom code. For example:
-      [![](pathofyourimage)](https://yourdomain.com)
+      ![](pathofyourimage)
 - **Click URL**. The URL to navigate to when the User clicks on the
   Banner.
 - **Description**. Enter a description for the Banner.

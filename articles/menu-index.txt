@@ -26,12 +26,6 @@ help=banners=banners-tracks.md
 
 heading=components=Components
 help=components=components-patch-tester-options.md
-help=components=components-plug-in-manager-options.md
-help=components=components-privacy-outline.md
-help=components=components-redirect-manager.md
-help=components=components-search.md
-help=components=components-search-manager-options.md
-help=components=components-version-history.md
 
 heading=contacts=Contacts
 help=contacts=contacts.md

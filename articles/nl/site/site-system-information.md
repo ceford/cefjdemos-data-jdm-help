@@ -14,8 +14,8 @@ problemen onderzoekt met uw instellingen.
   deze schermen. Dit moet worden gedaan op verschillende plekken van uw
   Joomla! installatie, afhankelijk van de bepaalde instelling.
 - Veel instellingen van het instellingen bestand scherm kunnen worden
-  aangepast vanuit het [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl "Help4.x:Site Global Configuration/nl")
+  aangepast vanuit het Algemene
+  instellingen
   scherm. Enkele instellingen die hier getoond worden hangen af van uw
   host server configuratie en kunnen niet vanuit Joomla! veranderd
   worden.
@@ -119,8 +119,8 @@ bestand dat opgeslagen is in de hoofd **/joomla_root/** map. Dit bestand
 is automatisch voor u aangemaakt als u Joomla! voor het eerst
 installeert en waar de meeste wijzigingen van de globale instellingen
 sectie van Joomla! zijn opgenomen. Denk er aan dat geen van deze
-instellingen op deze pagina aangepast kan worden. Gebruik [Algemene
-instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl "Help4.x:Site Global Configuration/nl")
+instellingen op deze pagina aangepast kan worden. Gebruik Algemene
+instellingen
 om meer informatie over deze instellingen te zien en om aanpassingen te
 doen.
 

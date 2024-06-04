@@ -1,7 +1,7 @@
 <!-- Filename: Help4.x:Site_Global_Configuration_Permissions / Display title: Konfiguration: Berechtigungen -->
 
  **←** 
-[Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#permissions "Help4.x:Site Global Configuration/de")
+Konfiguration
 
 <img
 src="https://docs.joomla.org/images/thumb/a/a6/Help-4x-Global-Configuration-sitelogin-subscreen-de.png/800px-Help-4x-Global-Configuration-sitelogin-subscreen-de.png"
@@ -18,4 +18,4 @@ data-file-width="1881" data-file-height="847" width="800" height="360"
 alt="Bildschirmfoto: Erstellen…" />
 
  **←** 
-[Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#permissions "Help4.x:Site Global Configuration/de")
+Konfiguration

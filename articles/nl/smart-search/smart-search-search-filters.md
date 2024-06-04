@@ -75,8 +75,7 @@ bovenstaande Screenshot.
     aflopend volgorde.
 - **Te tonen aantal.** Toont het aantal items in een lijst. Selecteer
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#defaultlistlimit "Help4.x:Site Global Configuration/nl").
+  voor een site is '20' maar dit kan veranderd worden bij de
 
 **Filteropties**
 
@@ -108,11 +107,6 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 
 ## Snelle tips
 
-- Als u nieuw bent bij Slim zoeken, dan zou u de [Slim zoeken snelstart
-  gids](https://docs.joomla.org/Smart_Search_quickstart_guide "Special:MyLanguage/Smart Search quickstart guide")
+- Als u nieuw bent bij Slim zoeken, dan zou u de Slim zoeken snelstart
+  gids
   moeten lezen.
-
-## Verwante informatie
-
-[Componenten - Zoekbeheer -
-Zoekfilters](https://docs.joomla.org/Help4.x:Smart_Search:_Search_Term_Analysis/nl "Help4.x:Smart Search: Search Term Analysis/nl")

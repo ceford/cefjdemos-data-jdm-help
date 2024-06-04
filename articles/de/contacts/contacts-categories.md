@@ -81,8 +81,8 @@ sortieren.
   height="20" alt="bin icon" /> Die Anzahl der im Papierkorb
   liegenden Einträge. Ein Klick auf die Ziffer zeigt eine Liste mit
   genau diesen Einträgen an.
-- **Zugriffsebene**. Die [Zugriffsebene für die
-  Anzeige](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/de "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/de")
+- **Zugriffsebene**. Die Zugriffsebene für die
+  Anzeige
   des Eintrags.
 - **Verknüpfung.** Zeigt an, mit welchem anderen Menüeintrag dieser
   Eintrag verknüpft ist.
@@ -95,7 +95,7 @@ sortieren.
 
 ## Listen filtern
 
-**Suchleiste**. Das [Bildschirmfoto](#screenshot) zeigt die Suchleiste
+**Suchleiste**. Das Bildschirmfoto zeigt die Suchleiste
 im oberen Bereich.
 
 - **Suche nach Text**. Einen Teil des Suchbegriffs eingeben, auf das
@@ -115,7 +115,7 @@ im oberen Bereich.
 - **Anzuzeigende Anzahl**. Zeigt die Anzahl der Einträge an. Zur
   Änderung in der Dropdown-Liste die gewünschte Anzahl wählen.Der
   Standardwert für die Site ist '20', er kann in der
-  [Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#defaultlistlimit "Help4.x:Site Global Configuration/de")
+  Konfiguration
   geändert werden.
 - **Status wählen**. Auswahl von Papierkorb / Versteckt / Veröffentlicht
   / Archiviert / Alle.
@@ -130,7 +130,7 @@ im oberen Bereich.
 
 **Seitenkontrolle**. Gibt es mehr Einträge als auf der Seite gezeigt,
 wird im unteren Bereich die Seitenkontrollleiste wie auf dem
-[Bildschirmfoto](#screenshot) eingeblendet. Die aktuelle Seitenzahl ist
+Bildschirmfoto eingeblendet. Die aktuelle Seitenzahl ist
 mit dunkler Farbe unterlegt.
 
 - **Start**. Anklicken, um die erste Seite anzuzeigen.
@@ -234,17 +234,7 @@ Werkzeugleiste im oberen Bereich. Die Funktionen sind:
   wiederhergestellt werden. Die Funktion ist für den Fall einer
   beschädigten Tabelle gedacht.
 - **Optionen.** Öffnet das Optionen-Fenster, in dem Einstellungen, wie
-  die Standard-Parameter, bearbeitet werden können. Siehe [Kontakte:
-  Optionen](https://docs.joomla.org/Help4.x:Contacts:_Options/de "Help4.x:Contacts: Options/de")
+  die Standard-Parameter, bearbeitet werden können. Siehe Kontakte:
+  Optionen
   für weitere Informationen.
 - **Hilfe**. Öffnet die Hilfeseite.
-
-## Verwandte Informationen
-
-- Um mit den Kontakten zu arbeiten:
-  [Kontakte](https://docs.joomla.org/Help4.x:Contacts/de "Help4.x:Contacts/de")
-- Um neue Kontaktkategorien einzufügen: <a
-  href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit_Category/de&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Help4.x:Contacts: New or Edit Category/de (page does not exist)">Kontakte:
-  Kategorie neu erstellen oder bearbeiten</a>

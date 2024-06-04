@@ -91,5 +91,4 @@ Screenshot above.
 
 ## Quick Tips
 
-Enable module editing in [Global
-Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration#frontendediting "Special:MyLanguage/Help4.x:Site Global Configuration").
+Enable module editing in

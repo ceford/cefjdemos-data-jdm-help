@@ -88,8 +88,7 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   Normaal hoeft u de tabel *niet* opnieuw op te bouwen. Deze functie
   voorziet in het geval de data in de tabel corrupt raakt.
 - **Opties.** Opent het venster Opties, waar instellingen zoals de
-  standaard parameters kunnen worden bewerkt. Zie [Menus
-  Configuration](https://docs.joomla.org/Help4.x:Components_Menus_Configuration "Special:MyLanguage/Help4.x:Components Menus Configuration").
+  standaard parameters kunnen worden bewerkt. Zie
 - **Help**. Opent dit helpscherm.
 
 ## Snelle tips
@@ -120,14 +119,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   verandert, zorg er dan voor dat u ook dat menu-item niet verwijdert!
   Het menu met het standaard menu-item wordt aangegeven door een
   sterretje (\*) in het *Menu's* menu.
-
-## Verwante informatie
-
-- Om nieuwe menu's toe te voegen: [Menu Beheer
-  Nieuw/Bewerken](https://docs.joomla.org/Help4.x:Menus:_Edit/nl "Help4.x:Menus: Edit/nl")
-- Om actie rechten voor menu's in te stellen: [Menu's
-  instellingen](https://docs.joomla.org/Help4.x:Menus:_Options/nl "Help4.x:Menus: Options/nl")
-- Om menu-items toe te voegen of te bewerken: [Menu-item
-  beheer](https://docs.joomla.org/Help4.x:Menus:_Items/nl "Help4.x:Menus: Items/nl")
-- Om menumodules toe te voegen of te bewerken: [Module
-  beheer](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl "Help4.x:Menu Item: New Item/nl")

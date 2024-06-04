@@ -1,7 +1,7 @@
 <!-- Filename: Help4.x:Site_Global_Configuration_Server / Display title: Configuration globale : Serveur -->
 
- **←**  [Configuration
-globale](https://docs.joomla.org/Help4.x:Site_Global_Configuration/fr#server "Help4.x:Site Global Configuration/fr")
+ **←**  Configuration
+globale
 
 <img
 src="https://docs.joomla.org/images/thumb/5/5b/Help-4x-Global-Configuration-server-subscreen-fr.png/800px-Help-4x-Global-Configuration-server-subscreen-fr.png"
@@ -45,5 +45,5 @@ srcset="https://docs.joomla.org/images/thumb/0/0d/Help-4x-Global-Configuration-s
 data-file-width="1881" data-file-height="1079" width="800" height="459"
 alt="Capture d&#39;écran : E mail" />
 
- **←**  [Configuration
-globale](https://docs.joomla.org/Help4.x:Site_Global_Configuration/fr#server "Help4.x:Site Global Configuration/fr")
+ **←**  Configuration
+globale

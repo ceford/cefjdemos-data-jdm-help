@@ -7,15 +7,15 @@ aantal verzoeken.
 
 **Handleidingen**
 
-- [Privacy overzicht - Inhoud en
-  workflow](https://docs.joomla.org/Help4.x:Components_Privacy_Outline/nl "Help4.x:Components Privacy Outline/nl")
-- [De Privacy Tool
-  Suite](https://docs.joomla.org/J3.x:Privacy/nl "J3.x:Privacy/nl")
+- Privacy overzicht - Inhoud en
+  workflow
+- De Privacy Tool
+  Suite
 
 (gedetailleerde handleiding uit Joomla 3)
 
-- [Informatie verzoek
-  workflow](https://docs.joomla.org/J3.x:Information_Request_Workflow_in_Privacy_Component/nl "J3.x:Information Request Workflow in Privacy Component/nl")
+- Informatie verzoek
+  workflow
 
 (gedetailleerde handleiding uit Joomla 3)
 
@@ -77,8 +77,3 @@ alt="component privacy dashboard" />
 ## Snelle tips
 
 - Klik op een Type verzoek om de verzoeken te bekijken.
-
-## Verwante informatie
-
-- [De Privacy Tool
-  Suite](https://docs.joomla.org/J3.x:Privacy/nl "J3.x:Privacy/nl")

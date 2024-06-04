@@ -40,8 +40,8 @@ alt="Menus Menu Item Create Contact screen" />
 - **Alias**. Der interne Name des Eintrags. Normalerweise kann dieses
   Feld leergelassen werden und Joomla wird den Standardwert 'Titel' in
   Kleinbuchstaben und mit Bindestrichen anstelle von Leerzeichen
-  eintragen. [Mehr
-  erfahren.](https://docs.joomla.org/Alias/de "Special:MyLanguage/Alias/de")
+  eintragen. Mehr
+  erfahren.
 
 ### Registerkarte Details
 
@@ -97,13 +97,13 @@ alt="Menus Menu Item Create Contact screen" />
   Standardseite für die Website. Es muss genau ein Menüeintrag als
   Standardseite festgelegt sein. Sie kann auf zwei Arten geändert
   werden:
-  1.  Auf dem Bildschirm [Menüs:
-      Einträge](https://docs.joomla.org/Help4.x:Menus:_Items/de "Special:MyLanguage/Help4.x:Menus: Items/de")
+  1.  Auf dem Bildschirm Menüs:
+      Einträge
       in der Spalte 'Startseite' des gewünschten Menüeintrags klicken.
   2.  Den Menüeintrag für die neue Standardseite öffnen und die
       Einstellung Standardseite auf 'Ja' ändern.
-- **Zugriffsebene**. Die [Zugriffsebene für die
-  Anzeige](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/de "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/de")
+- **Zugriffsebene**. Die Zugriffsebene für die
+  Anzeige
   des Eintrags.
 - **Sprache**. Die Sprachzuordnung des Eintrags.
 - **Notiz**. Die Notiz wird meist vom Site-Administrator verwendet, um
@@ -112,8 +112,8 @@ alt="Menus Menu Item Create Contact screen" />
 
 ### Allgemeine Optionen
 
-In [Menüs: Bearbeiten/Neuer
-Eintrag](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/de "Help4.x:Menu Item: New Item/de")
+In Menüs: Bearbeiten/Neuer
+Eintrag
 sind Informationen für die Felder zu erhalten, die bei allen
 Menüeintrags-Typen gleich sind und sich in den folgenden Registerkarten
 befinden:
@@ -145,25 +145,3 @@ Bereich. Die Schaltflächen sind:
   vorherigen Bildschirm zurück, ohne die vorgenommenen Änderungen zu
   speichern.
 - **Hilfe** Öffnet die Hilfe-Seite.
-
-## Verwandte Informationen
-
-|                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                 |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Verwandte Hilfeseiten                                                                                                                                                               | Beschreibung                                                                                                                                                                                                                                                                                                                                                                    |
-| [Kontakte: Optionen](https://docs.joomla.org/Help4.x:Contacts:_Options/de "Help4.x:Contacts: Options/de")                                                                           | Die Konfiguration der Kontakt-Optionen stellt die globalen Parameter für alle Kontakte ein.                                                                                                                                                                                                                                                                                     |
-| [Kontakte: Kategorien](https://docs.joomla.org/Help4.x:Contacts:_Categories/de "Help4.x:Contacts: Categories/de")                                                                   | In der Kontakt-Kategorien-Verwaltung werden bestehende Kontakt-Kategorien bearbeitet und neue Kategorien erstellt. Es ist zu beachten, dass Kontakt-Kategorien getrennt sind von anderen Kategorien wie die für Beiträge, Banner, Newsfeeds und Weblinks. Von hier gelangt man auch zu der [Kontakte](https://docs.joomla.org/Help4.x:Contacts/de "Help4.x:Contacts/de") Seite. |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit_Category/de&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Contacts: New or Edit Category/de (page does not exist)">Kontakte:
- Kategorie neu erstellen oder bearbeiten</a>                                                                                                                                          | Hier kann eine Kontaktkategorie erstellt oder eine vorhandene Kategorie bearbeitet werden. Mit den Kontaktkategorien können die Kontakte einer Website strukturiert werden. Kontakt-Kategorien sind getrennt von anderen Kategorien wie die für Beiträge, Banner, Newsfeeds usw.                                                                                                |
-| [Kontakte](https://docs.joomla.org/Help4.x:Contacts/de "Help4.x:Contacts/de")                                                                                                       | Die Kontaktverwaltung ermöglicht, Kontaktinformationen zur Joomla!-Site hinzuzufügen. Informationen wie Name, Adresse, Telefon und E-Mail. Kontakte können mit registrierten Benutzern verlinkt werden. Danach kann die [Menüverwaltung](https://docs.joomla.org/Help4.x:Menus/de "Help4.x:Menus/de") zum Erzeugen von Frontend-Links für die Kontakte verwendet werden.        |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit/de&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Contacts: New or Edit/de (page does not exist)">Kontakte:
- neu erstellen oder bearbeiten</a>                                                                                                                                                    | Hier werden neue Kontakte erstellt oder bestehende Kontakte bearbeitet. Kontakte listen Leute auf der Website auf. Sie ermöglichen Benutzern, E-Mails an die Leute zu senden.                                                                                                                                                                                                   |
-| [Menüeintrag: Kontakte in einer Kategorie auflisten](https://docs.joomla.org/Help4.x:Menu_Item:_List_Contacts_in_a_Category/de "Help4.x:Menu Item: List Contacts in a Category/de") | Zeigt Kontakte einer Kategorie in einem Listen-Layout. Mit den Einstellungen: Kontakt-Details, Kontakt-Formular, Anzeigeoptionen (Slider, Tab, Vollständig) und E-Mail-Betreff und -Nachrichten-Filter.                                                                                                                                                                         |
-| [Menüeintrag: Hauptkontakte](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Contacts/de "Help4.x:Menu Item: Featured Contacts/de")                                             | Diese Ansicht listet die Hauptkontakte auf.                                                                                                                                                                                                                                                                                                                                     |
-| [Menüeintrag: einzelner Kontakt](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Contact/de "Help4.x:Menu Item: Single Contact/de")                                               | Zeigt Kontaktinformationen für einen Kontakt an. Mit den Einstellungen: Kontakt-Details, Kontakt-Formular, Anzeigeoptionen (Slider, Tab, Vollständig) und E-Mail-Betreff und -Nachrichten-Filter.                                                                                                                                                                               |

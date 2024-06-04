@@ -40,8 +40,8 @@ Paramètres pour tous les Champs personnalisés:
 
 - **Type**. Si vous créez un champ, vous pouvez choisir l’un des 16
   types de champs. Lorsque vous enregistrez le champ, ce type est
-  permanent. Vous ne pouvez pas le changer plus tard. [Pour en savoir
-  plus.](https://docs.joomla.org/J3.x:Adding_custom_fields/Calendar_Field/fr "J3.x:Adding custom fields/Calendar Field/fr")
+  permanent. Vous ne pouvez pas le changer plus tard. Pour en savoir
+  plus.
 - **Nom**. Le nom sera utilisé pour identifier le champ. Laissez ce
   champ vide et Joomla! remplira automatiquement une valeur par défaut à
   partir du titre.
@@ -68,26 +68,26 @@ Paramètres pour tous les Champs personnalisés:
     la modification d'un article ou d'un contact.
   - Archivé : le champ ne sera plus visible dans l'édition d'un article
     ou d'un contact. Vous pouvez l'ouvrir dans le gestionnaire de
-    [champs](https://docs.joomla.org/Help4.x:Fields/fr#selectstatus "Help4.x:Fields/fr")
+    champs
     lorsque vous définissez le filtre sur archivé.
   - Dans la corbeille : L'élément est supprimé du site mais reste
     présent dans la base de données. Il peut être définitivement
     supprimé de la base de données lorsque vous videz la corbeille dans
     la gestion des
-    [champs](https://docs.joomla.org/Help4.x:Fields/fr#selectstatus "Help4.x:Fields/fr").
-    [Pour en savoir
-    plus.](https://docs.joomla.org/J4.x:Deleting_an_Article/fr "J4.x:Deleting an Article/fr")
+    champs.
+    Pour en savoir
+    plus.
 - **Groupe du champ**. Vous pouvez affecter un champ personnalisé à un
   ou plusieurs groupes de champs.
 - **Catégorie**. Vous pouvez affecter un champ personnalisé à une ou
   plusieurs catégories de champs. Notez que la valeur par défaut 'Tout'
   n'inclut pas les articles 'Non catégorisés'.
-- **Accès**. Le [Niveau
-  d'accès](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/fr "Help4.x:Users: Viewing Access Levels/fr")
+- **Accès**. Le Niveau
+  d'accès
   pour voir cet champ.
 - **Langue**. Sélectionnez la langue de cet champ. Si vous n'utilisez
-  pas la [fonctionnalité
-  multilingue](https://docs.joomla.org/Help4.x:Extensions:_Languages/fr "Help4.x:Extensions: Languages/fr")
+  pas la fonctionnalité
+  multilingue
   de Joomla, conservez le paramètre par défaut 'Toutes'.
 - **Note**. Un champ facultatif pour indiquer un texte personnel pour le
   champ.
@@ -226,7 +226,7 @@ Pour modifier les autorisations de ce champ, procédez comme suit.
 ## Barre d'outils
 
 En haut de la page, vous verrez la barre d'outils présentée dans la
-[capture d'écran](#screenshot) ci-dessus.
+capture d'écran ci-dessus.
 
 - **Save**. Saves the field and stays in the current screen.
 - **Save & Close**. Saves the field and closes the current screen.
@@ -241,19 +241,4 @@ En haut de la page, vous verrez la barre d'outils présentée dans la
 ## Astuces
 
 Si vous voulez savoir comment utiliser les champs personnalisés, cliquez
-sur [Gestion des champs
-personnalisés](https://docs.joomla.org/J3.x:Adding_custom_fields/fr "J3.x:Adding custom fields/fr").
-
-## Informations connexes
-
-- Ce
-  [portail](https://docs.joomla.org/Portal:Joomla_4/fr "Portal:Joomla 4/fr")
-  rassemble des informations liées spécifiquement à Joomla 4.
-
-|                                                                                                                      |                                                                                                                                                      |
-|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Ecrans d'aide en relation                                                                                            | Description                                                                                                                                          |
-| [Champs](https://docs.joomla.org/Help4.x:Fields/fr "Help4.x:Fields/fr")                                              | Fields are used to display additional attributes of Articles, Contacts and Users. The data are entered in the Backend and displayed in the Frontend. |
-| <span class="mw-selflink selflink">Champs : Edition</span>                                                           | This is where you can add and edit Fields in Articles, Contacts, and Users.                                                                          |
-| [Groupes de champs](https://docs.joomla.org/Help4.x:Field_Groups/fr "Help4.x:Field Groups/fr")                       | The Field Groups screen is used to list, add and edit Field Groups.                                                                                  |
-| [Groupes de champs : Edition](https://docs.joomla.org/Help4.x:Field_Groups:_Edit/fr "Help4.x:Field Groups: Edit/fr") | Field Groups are used to collect related fields under a named Tab in a data entry form.                                                              |
+sur

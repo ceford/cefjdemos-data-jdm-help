@@ -75,16 +75,3 @@ acima. As funções são:
 ## Dicas rápidas
 
 - Clique no nome de um grupo para editar as propriedades do grupo.
-
-## Informações relacionadas
-
-- [Usuários: Grupo novo ou editar
-  grupo](https://docs.joomla.org/Help4.x:Users:_New_or_Edit_Group/pt-br "Help4.x:Users: New or Edit Group/pt-br")
-- [Usuários:
-  Opções](https://docs.joomla.org/Help4.x:Users:_Options/pt-br "Help4.x:Users: Options/pt-br")
-- [Usuários](https://docs.joomla.org/Help4.x:Users/pt-br "Help4.x:Users/pt-br")
-- [Usuários: Níveis de acesso de
-  visualização](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/pt-br "Help4.x:Users: Viewing Access Levels/pt-br")
-- [Tutorial relacionado à listas de controle de acessos (ACLs) para o
-  Joomla!
-  3.x](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/pt-br "J3.x:Access Control List Tutorial/pt-br")

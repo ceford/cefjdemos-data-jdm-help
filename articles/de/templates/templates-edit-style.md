@@ -85,8 +85,8 @@ umzutauschen.
 **Hinweis**: Wenn ein Kontrollkästchen ausgegraut ist und nicht
 angekreuzt werden kann, könnte es daran liegen, dass der Menüeintrag von
 einem anderen Benutzer verwendet wird. Um das zu überprüfen, die
-[Menü-Manager-Seite für das betreffende
-Menü](https://docs.joomla.org/Help4.x:Menus:_Items/de "Help4.x:Menus: Items/de")
+Menü-Manager-Seite für das betreffende
+Menü
 aufrufen. Wenn sich neben dem Menüeintrag ein Schloss-Symbol befindet,
 wird der Menüeintrag gerade von einem anderen Benutzer verwendet.
 
@@ -107,7 +107,3 @@ Werkzeugleiste im oberen Bereich. Die Funktionen sind:
   Seite ohne Speichern der Änderungen zurück.
 - **Hilfe**. Öffnet die Hilfeseite.
 
-## Verwandte Informationen
-
-- Um Templates zu installieren: [Erweiterungen:
-  Installieren](https://docs.joomla.org/Help4.x:Extensions:_Install/de "Help4.x:Extensions: Install/de")

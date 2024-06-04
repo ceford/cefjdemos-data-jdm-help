@@ -37,8 +37,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   het vorige scherm zonder wijzigingen die u misschien heeft gedaan op
   te slaan.
 - **Help**. Opent dit helpscherm.
-
-## Verwante informatie
-
-- [De privacy
-  hulpmiddelen](https://docs.joomla.org/J3.x:Privacy/nl "J3.x:Privacy/nl")

@@ -64,10 +64,9 @@ each one will have its own archive file.
     Component Success". If the installation is not successful, an error
     message will display.
 1.  Depending on the Extension, it may be necessary to enable the
-    Extension (for example, in the [Modules
-    list](https://docs.joomla.org/Help4.x:Modules/en "Help4.x:Modules/en")
-    or [Plugins
-    list](https://docs.joomla.org/Help4.x:Plugins/en "Help4.x:Plugins/en")).
+    Extension (for example, in the Modules
+    list
+    or
 
 ### Instalar a partir de um «Separador da Web»
 
@@ -136,18 +135,12 @@ de Ecrã](#Captura_de_Ecr.C3.A3) acima. As funções são:
 
 ## Hiperligações para Outros Ecrãs
 
-- **Instalar.** Interliga ao [Ecrã de
-  Instalação](https://docs.joomla.org/Help4.x:Extensions_Extension_Manager_Install "Special:MyLanguage/Help4.x:Extensions Extension Manager Install").
-- **Atualizar.** Interliga ao [Ecrã de
-  Atualização](https://docs.joomla.org/Help4.x:Extensions_Extension_Manager_Update "Special:MyLanguage/Help4.x:Extensions Extension Manager Update").
-- **Manage.** Links to the [Manage
-  Screen](https://docs.joomla.org/Help4.x:Extensions:_Manage/en "Help4.x:Extensions: Manage/en").
-- **Discover.** Links to the [Discover
-  Screen](https://docs.joomla.org/Help4.x:Extensions:_Discover/en "Help4.x:Extensions: Discover/en").
-- **Database.** Links to the [Database
-  Screen](https://docs.joomla.org/Help4.x:Information:_Database/en "Help4.x:Information: Database/en").
-- **Warnings.** Links to the [Warnings
-  Screen](https://docs.joomla.org/Help4.x:Information:_Warnings/en "Help4.x:Information: Warnings/en").
+- **Instalar.** Interliga ao
+- **Atualizar.** Interliga ao
+- **Manage.** Links to the
+- **Discover.** Links to the
+- **Database.** Links to the
+- **Warnings.** Links to the
 - **Install Languages.** Links to the Install Languages Screen.
 - **Update Sites.** Links to the <a
   href="https://docs.joomla.org/index.php?title=Help4.x:Extensions_Extension_Manager_Update_Sites/en&amp;action=edit&amp;redlink=1"
@@ -191,31 +184,31 @@ de Ecrã](#Captura_de_Ecr.C3.A3) acima. As funções são:
 - Se instalar uma «Extensão de Componente», esta será listada como um
   novo «Item de Menu» no menu de «Componentes».
 - You can assign a Menu Item to an installed Component Extension in the
-  [Menu Items
-  list](https://docs.joomla.org/Help4.x:Menus:_Items/en "Help4.x:Menus: Items/en")
+  Menu Items
+  list
   by clicking the *New* toolbar button. The new Component will show in
   the Internal Link list of Menu Item Types.
 - If you install a Module Extension, it will be added to the list of the
-  Modules in the [Modules
-  list](https://docs.joomla.org/Help4.x:Modules/en "Help4.x:Modules/en"),
+  Modules in the Modules
+  list,
   where you can enable/disable it. You can also customize it's
-  parameters in the [Module
-  Edit](https://docs.joomla.org/Help4.x:Extensions_Module_Manager_Edit/en "Help4.x:Extensions Module Manager Edit/en")
+  parameters in the Module
+  Edit
   screen.
 - An installed Plugin Extension will be added to the list of the
-  [Plugins
-  list](https://docs.joomla.org/Help4.x:Plugins/en "Help4.x:Plugins/en"),
-  where you can enable/disable it. By clicking the [Plugin
-  Name](https://docs.joomla.org/Help4.x:Plugins:_Name_of_Plugin/en "Help4.x:Plugins: Name of Plugin/en"),
+  Plugins
+  list,
+  where you can enable/disable it. By clicking the Plugin
+  Name,
   you can customize its parameters on the following screen.
 - An installed Template Extension will be added to the Site or
-  Administrator list of the [Template Styles
-  list](https://docs.joomla.org/Help4.x:Templates:_Styles/en "Help4.x:Templates: Styles/en")
+  Administrator list of the Template Styles
+  list
   where you can assign it to all of the pages or to the selected ones.
   You can also customize its parameters, edit the HTML or CSS source, or
   preview the available Module positions.
 - An installed Language Extension will be added to the Site or
-  Administrator list of the [Languages
-  list](https://docs.joomla.org/Help4.x:Languages:_Installed/en "Help4.x:Languages: Installed/en"),
+  Administrator list of the Languages
+  list,
   depending on the client attribute of the Extension. This screen let's
   you assign it as the default language, if desired.

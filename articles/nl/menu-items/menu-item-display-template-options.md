@@ -44,8 +44,8 @@ alt="Menus Menu Display Template Options screen" />
 - **Alias**. De interne naam van het item. Normaliter, kunt u dit leeg
   laten en Joomla zal de standaardwaarde invullen. De standaard waarde
   is de titel of naam in kleine letters en streepjes in plaats van
-  spaties. [Meer
-  leren.](https://docs.joomla.org/Alias/nl "Special:MyLanguage/Alias/nl")
+  spaties. Meer
+  leren.
 
 ### Details tabblad
 
@@ -99,13 +99,13 @@ alt="Menus Menu Display Template Options screen" />
   pagina van de website. Er mag exact één menu-item ingesteld zijn als
   standaard pagina. U kunt de standaard pagina op twee manieren
   wijzigen:
-  1.  Klik op de Home kolom van het gewenste menu-item op het [Menu's:
-      Items](https://docs.joomla.org/Help4.x:Menus:_Items/nl "Special:MyLanguage/Help4.x:Menus: Items/nl")
+  1.  Klik op de Home kolom van het gewenste menu-item op het Menu's:
+      Items
       scherm.
   2.  Open het menu-item voor de nieuwe standaard pagina en wijzig de
       Standaard pagina instellingen op Ja.
 - **Toegang**. Het
-  [Toegangsniveau](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/nl "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/nl")
+  Toegangsniveau
   om het item te bekijken.
 - **Taal**. Item taal.
 - **Notitie**. Dit wordt normaal gesproken door de beheerder gebruikt
@@ -114,8 +114,8 @@ alt="Menus Menu Display Template Options screen" />
 
 ### Algemene opties
 
-Zie [Menu's: Bewerken/Nieuw
-item](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl "Help4.x:Menu Item: New Item/nl")
+Zie Menu's: Bewerken/Nieuw
+item
 voor hulp over velden die algemeen zijn in alle menu-itemtypes de
 volgende tabbladen:
 
@@ -158,10 +158,10 @@ alt="Menus Menu Display Template Options front end screenshot" />
 |                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Verwante helpschermen                                                                                                  | Beschrijving                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| [Templates: Stijlen](https://docs.joomla.org/Help4.x:Templates:_Styles/nl "Help4.x:Templates: Styles/nl")              |                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| [Templates: Bewerk stijl](https://docs.joomla.org/Help4.x:Templates:_Edit_Style/nl "Help4.x:Templates: Edit Style/nl") | Hier bewerkt u de stijl van een template. Wanneer een template voor het eerst geïnstalleerd wordt, wordt er een standaard stijl aangemaakt. De standaard stijl voor het template heeft dezelfde naam als het template met een - standaard achtervoegsel. Vink, om een andere versie van van de standaard stijl aan te maken, de standaard stijl checkbox aan en druk op het dupliceer icoon in de werkbalk. Bewerk daarna de kopie. |
-| [Templates: Templates](https://docs.joomla.org/Help4.x:Templates:_Templates/nl "Help4.x:Templates: Templates/nl")      | Het **Templatebeheer: Templates** scherm geeft de mogelijkheid om templates te zien en bewerken, welke in Joomla zijn geïnstalleerd.                                                                                                                                                                                                                                                                                                |
-| [Templates: Aanpassen](https://docs.joomla.org/Help4.x:Templates:_Customise/nl "Help4.x:Templates: Customise/nl")      | Hier bewerkt u de broncode van een template. U kunt de hoofdbestanden van een template en stijlsheets vanaf dit scherm bewerken.                                                                                                                                                                                                                                                                                                    |
+| Templates: Stijlen              |                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Templates: Bewerk stijl | Hier bewerkt u de stijl van een template. Wanneer een template voor het eerst geïnstalleerd wordt, wordt er een standaard stijl aangemaakt. De standaard stijl voor het template heeft dezelfde naam als het template met een - standaard achtervoegsel. Vink, om een andere versie van van de standaard stijl aan te maken, de standaard stijl checkbox aan en druk op het dupliceer icoon in de werkbalk. Bewerk daarna de kopie. |
+| Templates: Templates      | Het **Templatebeheer: Templates** scherm geeft de mogelijkheid om templates te zien en bewerken, welke in Joomla zijn geïnstalleerd.                                                                                                                                                                                                                                                                                                |
+| Templates: Aanpassen      | Hier bewerkt u de broncode van een template. U kunt de hoofdbestanden van een template en stijlsheets vanaf dit scherm bewerken.                                                                                                                                                                                                                                                                                                    |
 | <a
  href="https://docs.joomla.org/index.php?title=Help4.x:Templates:_Customise_Source/nl&amp;action=edit&amp;redlink=1"
  class="new"

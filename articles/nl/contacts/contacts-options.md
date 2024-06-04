@@ -407,11 +407,3 @@ De functies zijn.
   meeste opties aanvaarden.
 - Alle waarden die hier ingesteld worden kunnen overschreven worden op
   het menu-item, categorie of contactpersoon niveau.
-
-## Verwante informatie
-
-- Om contactpersonen en contactpersonencategorieën aan te maken en
-  bewerken: [Contactpersoon
-  beheer](https://docs.joomla.org/Help4.x:Contacts/nl "Help4.x:Contacts/nl")
-- Voor meer informatie over Joomla's ACL systeem: [ACL
-  handleiding](https://docs.joomla.org/J2.5:Access_Control_List_Tutorial "Special:MyLanguage/J2.5:Access Control List Tutorial")

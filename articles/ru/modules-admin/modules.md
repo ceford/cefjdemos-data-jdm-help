@@ -139,8 +139,7 @@ Screenshot above.
     created immediately and is given the same name as the original but
     suffixed with a number (for example "(2)") so that it can be
     distinguished from the original and any other copies.
-- **Options**. Opens [Module:
-  Options](https://docs.joomla.org/Help4.x:Modules:_Options/en "Help4.x:Modules: Options/en").
+- **Options**. Opens
 - **Help**. Opens this help screen.
 
 ## Пакетная обработка
@@ -173,29 +172,14 @@ alt="Modules batch subscreen" />
 
 ## Quick Tips
 
-- Joomla websites require at least 1 [Menu
-  Module](https://docs.joomla.org/Help4.x:Site_Modules:_Menu/en "Help4.x:Site Modules: Menu/en").
+- Joomla websites require at least 1
 - Other Module Types (for example
-  [Banners](https://docs.joomla.org/Help4.x:Site_Modules:_Banners/en "Help4.x:Site Modules: Banners/en"))
+  Banners
   are optional.
 - Some Modules are linked to components. For example, each Menu Module
   is related to one
-  [Menu](https://docs.joomla.org/Help4.x:Menus/en "Help4.x:Menus/en").
+  Menu.
 - Other Modules (for example
-  [Breadcrumbs](https://docs.joomla.org/Help4.x:Site_Modules:_Breadcrumbs/en "Help4.x:Site Modules: Breadcrumbs/en"))
+  Breadcrumbs
   do not depend on any other content.
 - Multiple occurrences of similar Module Types are allowed and common.
-
-## Связанная информация
-
-- The Joomla installation has over 40 module types. Additional 3rd party
-  modules can be obtained from the
-  <a href="http://extensions.joomla.org/" class="external text"
-  target="_blank" rel="noreferrer noopener">Joomla Extensions
-  Directory</a>.
-- [Панель
-  управления](https://docs.joomla.org/Help4.x:Home_Dashboard/ru "Help4.x:Home Dashboard/ru"):
-  Access to many default Joomla functions.
-- This
-  [Portal](https://docs.joomla.org/Portal:Joomla_4/en "Portal:Joomla 4/en")
-  brings together information related specifically to Joomla 4.

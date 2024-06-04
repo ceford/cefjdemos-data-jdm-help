@@ -8,8 +8,7 @@ que estão relacionados ao artigo que está sendo visualizado pelo usuário
 usuário clicou em um link de artigo). Os artigos são considerados
 relacionados entre si se compartilharem pelo menos uma palavra-chave nas
 informações de metadados do artigo. As palavras-chave dos artigos são
-inseridas na seção de informações de metadados da tela [Artigos: Novo ou
-editar](https://docs.joomla.org/Help4.x:Articles:_Edit/pt-br#Guia_de_publica.C3.A7.C3.A3o "Help4.x:Articles: Edit/pt-br").
+inseridas na seção de informações de metadados da tela
 
 ## Como acessar
 
@@ -54,22 +53,22 @@ artigos publicados...
 - **Mostrar título**: (Mostrar/Ocultar) Escolhe se mostra ou oculta o
   título dos módulos no front-end. O título será aquele no campo do
   formulário acima.
-- **Posição**: Escolhe a [posição do
-  módulo](https://docs.joomla.org/Module_Position/pt-br "Module Position/pt-br")
+- **Posição**: Escolhe a posição do
+  módulo
   na qual deseja que o módulo seja exibido. Uma posição de módulo
-  personalizada pode ser inserida para uso com o [plugin para carregar
-  posição](https://docs.joomla.org/How_do_you_put_a_module_inside_an_article%3F/pt-br "How do you put a module inside an article?/pt-br")
+  personalizada pode ser inserida para uso com o plugin para carregar
+  posição
   ou o botão de posição pode ser pressionado para selecionar uma posição
   de módulo do tema.
 - **Estado**: O estado de publicação do item.
-- **Acesso**: O [nível de acesso de
-  visualização](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/pt-br "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/pt-br")
+- **Acesso**: O nível de acesso de
+  visualização
   para este item.
 - **Ordenação dos módulos**: Isso mostra uma lista suspensa de cada
   módulo na posição em que o módulo em questão está. Esta é a ordem em
   que os módulos serão exibidos quando exibidos no frontend, bem como na
   página
-  "[Módulos](https://docs.joomla.org/Help4.x:Modules/pt-br "Help4.x:Modules/pt-br")".
+  "Módulos".
 - **Início da publicação**: Data e hora para iniciar a publicação. Use
   este campo se desejar inserir conteúdo antecipadamente e publicá-lo
   automaticamente no futuro.

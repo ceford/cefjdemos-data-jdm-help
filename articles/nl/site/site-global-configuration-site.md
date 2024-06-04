@@ -1,7 +1,7 @@
 <!-- Filename: Help4.x:Site_Global_Configuration_Site / Display title: Algemene instellingen: Website -->
 
- **←**  [Algemene
-instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#site "Help4.x:Site Global Configuration/nl")
+ **←**  Algemene
+instellingen
 
 <img
 src="https://docs.joomla.org/images/thumb/0/0d/Help-4x-global-configuration-site-subscreen-nl.png/800px-Help-4x-global-configuration-site-subscreen-nl.png"
@@ -31,5 +31,5 @@ srcset="https://docs.joomla.org/images/thumb/b/b4/Help-4x-global-configuration-c
 data-file-width="1566" data-file-height="358" width="800" height="183"
 alt="Afbeelding: Cookie" />
 
- **←**  [Algemene
-instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#site "Help4.x:Site Global Configuration/nl")
+ **←**  Algemene
+instellingen

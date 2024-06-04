@@ -77,19 +77,9 @@ huidige scherm.
   nieuwe gebruikersnotitie.
 - **Versies:** Opent het item versie geschiedenis scherm om eerdere
   versies van dit item te tonen. Dit stelt u in staat oudere versies van
-  het item te bekijken en een oudere versie te herstellen. Zie [Versie
-  historie](https://docs.joomla.org/Help4.x:Components_Version_History/nl "Help4.x:Components Version History/nl")
+  het item te bekijken en een oudere versie te herstellen. Zie Versie
+  historie
   voor meer informatie.
 - **Sluiten**. Sluit het huidige scherm en keert terug naar het vorige
   scherm zonder wijzigingen die u misschien heeft gedaan op te slaan.
 - **Help**. Opent dit helpscherm.
-
-## Verwante informatie
-
-- [TinyMCE - de standaard WYSIWYG
-  tekstverwerker](https://docs.joomla.org/Help4.x:TinyMCE/nl "Help4.x:TinyMCE/nl")
-- [Gebruikersnotities](https://docs.joomla.org/Help4.x:User_Notes/nl "Help4.x:User Notes/nl")
-- [Gebruikersnotities: Nieuw/Bewerken
-  categorie](https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit_Category/nl "Help4.x:User Notes: New or Edit Category/nl")
-- [Gebruikersnotities:
-  Categorieën](https://docs.joomla.org/Help4.x:User_Notes:_Categories/nl "Help4.x:User Notes: Categories/nl")

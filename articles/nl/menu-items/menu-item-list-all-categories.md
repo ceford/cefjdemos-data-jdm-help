@@ -38,7 +38,7 @@ alt="Menus Item Articles List All Categories screen" />
 - **Alias**. De interne naam van het item. Normaliter, kunt u dit leeg
   laten en Joomla zal de standaardwaarde invullen. De standaard waarde
   is de titel of naam in kleine letters en streepjes in plaats van
-  spaties. [Meer leren.](https://docs.joomla.org/Alias/nl "Alias/nl")
+  spaties. Meer leren.
 
 ### Details
 
@@ -64,8 +64,8 @@ alt="Menus Item Articles List All Categories screen" />
 
 De Categorieën opties geven u de mogelijkheid de verschillende aspecten
 van deze weergave te bepalen, zoals hieronder getoond. Indien u *Gebruik
-algemeen* selecteert als optie, dan wordt de waarde uit [Artikelen:
-Opties](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl")
+algemeen* selecteert als optie, dan wordt de waarde uit Artikelen:
+Opties
 gebruikt.
 
 <img
@@ -76,8 +76,8 @@ data-file-width="2878" data-file-height="1344" width="600" height="280"
 alt="Menus Item Articles List All Categories categories subscreen" />
 
 Merk op dat deze opties "**Gebruik algemeen**" bevatten. Als dit gekozen
-is, dan worden de instellingen van de [Artikelbeheer
-opties](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl")
+is, dan worden de instellingen van de Artikelbeheer
+opties
 gebruikt.
 
 - **Hoofdniveau categoriebeschrijving**. Toon de beschrijving van de
@@ -118,8 +118,8 @@ alt="Menus Item Articles List All Categories category subscreen" />
 ### Blogweergave
 
 Als u langs een categorie afdaalt dan is dat normaliter een lijst of
-blogweergave. Welek hangt af van de instellingen in de [Artikelen:
-Opties](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl")
+blogweergave. Welek hangt af van de instellingen in de Artikelen:
+Opties
 en de
 
 <a
@@ -187,12 +187,10 @@ alt="Menus Item Articles List All Categories blog layout subscreen" />
   - Titel alfabetisch omgekeerd: Categorieën worden getoond op de titel
     in omgekeerd alfabetische volgorde (Z tot A).
   - Volgorde categorieën: Categorieën zijn gesorteerd volgens de
-    volgorde kolom ingegeven in [Categorie
-    beheer](https://docs.joomla.org/Help4.x:Articles:_Categories/nl#ordering "Help4.x:Articles: Categories/nl").
+    volgorde kolom ingegeven in
 - **Volgorde artikelen**.
   - Volgorde speciale artikelen: Artikelen zijn gesorteerd volgens de
-    volgorde kolom zoals opgegeven in [Artikelen: Speciale
-    artikelen](https://docs.joomla.org/Help4.x:Articles:_Featured/nl#ordering "Help4.x:Articles: Featured/nl").
+    volgorde kolom zoals opgegeven in
   - Meest recente eerst: Artikelen worden getoond die beginnen met de
     meest recente en eindigend met de oudste.
   - Oudste eerst: Artikelen worden getoond met de oudste als eerste en
@@ -211,11 +209,10 @@ alt="Menus Item Articles List All Categories blog layout subscreen" />
   - Minste hits: Artikelen worden getoond door het aantal hits, te
     beginnen met de minste hits en eindigend met de meeste hits.
   - Volgorde artikelen: Artikelen zijn gesorteerd volgens de volgorde
-    kolom zoals opgegeven in [Artikel
-    beheer](https://docs.joomla.org/Help4.x:Articles/nl#ordering "Help4.x:Articles/nl").
+    kolom zoals opgegeven in
   - Omgekeerde artikel volgorde: Artikelen worden omgekeerd gesorteerd
     aan de kolomvolgorde opgegeven bij
-    [Artikelbeheer](https://docs.joomla.org/Help4.x:Articles/nl#ordering "Help4.x:Articles/nl").
+    Artikelbeheer.
 - **Datum voor sortering**. De datum die gebruikt wordt als artikelen op
   datum worden gesorteerd.
   - Aangemaakt: Gebruik de aanmaakdatum van het artikel.
@@ -360,23 +357,23 @@ alt="Menus Item Articles List All Categories integration subscreen" />
 
 ### Algemene opties
 
-Zie [Menu's: Nieuw
-menu-item](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl "Help4.x:Menu Item: New Item/nl")
+Zie Menu's: Nieuw
+menu-item
 voor hulp over velden die algemeen zijn in alle menu-itemtypes,
 inclusief:
 
-- [Rechter
-  venster](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#rightpanel "Help4.x:Menu Item: New Item/nl")
-- [Linktype](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#linktype "Help4.x:Menu Item: New Item/nl")
-- [Paginaweergave](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#pagedisplay "Help4.x:Menu Item: New Item/nl")
+- Rechter
+  venster
+- Linktype
+- Paginaweergave
 - Metadata
-- [Associaties](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#associations "Help4.x:Menu Item: New Item/nl")
-- [Moduletoewijzing](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#moduleassignment "Help4.x:Menu Item: New Item/nl")
+- Associaties
+- Moduletoewijzing
 
 ## Werkbalk
 
 Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#screenshot) hierboven.
+afbeelding hierboven.
 
 - **Opslaan**. Slaat menu-item op en blijft op het huidige scherm.
 - **Opslaan & sluiten**. Slaat menu-item op en sluit het huidige scherm.
@@ -405,11 +402,11 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   huidige 'toon alle categorieën' menu-item de pagina-weergave bepalen.
 - U kunt de opties om een lijst of blog weer te geven op 2 plaatsen
   bepalen.
-  - In [Artikelen:
-    Opties](https://docs.joomla.org/Help4.x:Articles:_Options/nl#choosealayout "Help4.x:Articles: Options/nl")
+  - In Artikelen:
+    Opties
     kunt u de standaard waarde voor alle categorieën instellen.
-  - In [Categorie:
-    Bewerk](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/nl#choosealayout "Help4.x:Articles: Edit Category/nl")
+  - In Categorie:
+    Bewerk
     kunt u de waarde voor een specifieke categorie instellen. Als dit
     ingesteld is overschrijft het de standaard waarde.
 - Customise 'Date Format': You can use D M Y for day month year or d-m-y
@@ -417,27 +414,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   <a href="https://php.net/search.php?show=quickref&amp;pattern=date"
   class="extiw" title="php:date">PHP: Date - Examples</a>). If left
   blank, it uses DATE_FORMAT_LC1 from your language file.
-
-## Verwante informatie
-
-- Kijk voor het aanmaken van een nieuw menu bij
-  [Menu's](https://docs.joomla.org/Help4.x:Menus/nl "Help4.x:Menus/nl").
-- Dit
-  [portaal](https://docs.joomla.org/Portal:Joomla_4/nl "Portal:Joomla 4/nl")
-  brengt informatie specifiek gerelateerd aan Joomla 4 samen.
-
-|                                                                                                                                          |                                                                                                                                                                                                                              |
-|------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Verwante helpschermen                                                                                                                    | Beschrijving                                                                                                                                                                                                                 |
-| [Artikelen: Opties](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl")                                 | Wordt gebruikt om de algemene standaards voor menu-items die artikelen tonen in te stellen. Deze standaard waarden worden gebruikt als 'Gebruik algemeen' wordt geselecteerd als optie in een artikel menu-item.             |
-| [Artikelen](https://docs.joomla.org/Help4.x:Articles/nl "Help4.x:Articles/nl")                                                           | De artikellijst wordt gebruikt om artikelen te vinden, speciaal te markeren, toe te voegen en te bewerken.                                                                                                                   |
-| [Artikelen: Bewerken](https://docs.joomla.org/Help4.x:Articles:_Edit/nl "Help4.x:Articles: Edit/nl")                                     | Dit is waar je artikelen kunt toevoegen en bewerken. Je kunt ook categorie van een artikel selecteren en aangeven of het al de niet gepubliceerd is en of het op de voorpagina moet staan.                                   |
-| [Artikelen: Speciale artikelen](https://docs.joomla.org/Help4.x:Articles:_Featured/nl "Help4.x:Articles: Featured/nl")                   | Wordt gebruikt om te bepalen welke 'Speciale artikelen' getoond worden op de voorpagina en in welke volgorde ze getoond worden.                                                                                              |
-| [Artikelen: Categorieën](https://docs.joomla.org/Help4.x:Articles:_Categories/nl "Help4.x:Articles: Categories/nl")                      | Categoriebeheer wordt gebruikt om categorieën te vinden, toe te voegen en te bewerken.                                                                                                                                       |
-| [Menu's: Gearchiveerde artikel](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived/nl "Help4.x:Menu Item: Article Archived/nl") | Het 'Gearchiveerde artikelen' menu-itemtype toont een aangepaste ;ijst met artikelen, gesorteerd op datum of titel. Gearchiveerde artikelen worden niet meer gepubliceerd maar zijn nog steeds op de site opgeslagen.        |
-| [Menu's: Categorieblog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/nl "Help4.x:Menu Item: Category Blog/nl")               | Wordt gebruikt om artikelen in een bepaalde categorie in blog weergave te tonen. Regelt de introductie ofwel het leidende artikel, aanvullende artikelen met intro tekst en extra links naar meer artikelen.                 |
-| [Menu's: Categorielijst](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/nl "Help4.x:Menu Item: Category List/nl")              | Wordt gebruikt om artikelen die tot een bepaalde categorie horen in een lijst weergave.                                                                                                                                      |
-| [Menu's: Maak artikel](https://docs.joomla.org/Help4.x:Menu_Item:_Create_Article/nl "Help4.x:Menu Item: Create Article/nl")              | Geeft gebruikers de mogelijkheid een artikel te verzenden. Dit is normaliter alleen beschikbaar voor gebruikers die ingelogd zijn op de voorkant van de website. Gebruikers moeten rechten hebben om artikelen aan te maken. |
-| [Menu's: Speciale artikelen](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/nl "Help4.x:Menu Item: Featured Articles/nl")  | Wordt gebruikt om alle artikelen te tonen die aangemerkt zijn als 'Speciaal'. Artikelen worden getoond in blog weergave.                                                                                                     |
-| <span class="mw-selflink selflink">Menu's: Lijst met alle categorieën in een artikel categoriestructuur</span>                           | Wordt gebruikt om een hiërarchische lijst met categorieën te tonen. Afhankelijk van de geselecteerde opties van deze weergave kunt u klikken op een categorietitel om de artikelen in die categorie te zien.                 |
-| [Menu's: Individueel artikel](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article/nl "Help4.x:Menu Item: Single Article/nl")       | Wordt gebruikt om één artikel te tonen.                                                                                                                                                                                      |

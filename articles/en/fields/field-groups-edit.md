@@ -54,12 +54,12 @@ alt="Field Groups Edit general tab" />
   - Unpublished: The field group will not be visible to users while
     editing an article or an contact.
   - Archived: The field group will no longer show on edition an article
-    or an contact. You can open it in [Field
-    Groups](https://docs.joomla.org/Help4.x:Field_Groups/en#selectstatus "Help4.x:Field Groups/en")
+    or an contact. You can open it in Field
+    Groups
     when you set the filter to archived.
   - Trashed: The field group is deleted but still in the database. It
-    can be permanently deleted from the database in [Field
-    Groups](https://docs.joomla.org/Help4.x:Field_Groups/en#selectstatus "Help4.x:Field Groups/en")
+    can be permanently deleted from the database in Field
+    Groups
     with the Empty Trash function.
 - **Access**. Select the viewing access level for this field group. The
   access levels depend on what has been set up in Users: Access Levels.

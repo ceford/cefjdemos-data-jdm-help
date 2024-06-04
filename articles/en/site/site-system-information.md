@@ -111,8 +111,8 @@ This screen shows the contents of the current Joomla!
 joomla\>/joomla_root/** directory. This file is created for you
 automatically when you first install Joomla! and where most changes of
 the Global Configuration section of Joomla! are recorded. Please note
-that none of the settings can be changed from this page. Use [Global
-Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en "Help4.x:Site Global Configuration/en")
+that none of the settings can be changed from this page. Use Global
+Configuration
 to see more information about these settings and to make changes.
 
 ### Folder Permissions Tab

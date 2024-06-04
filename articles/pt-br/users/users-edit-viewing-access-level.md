@@ -65,12 +65,3 @@ acima. As funções são:
 
 - Se você adicionar um novo grupo, talvez seja necessário editar os
   níveis de acesso aos quais esse grupo deve ter acesso.
-
-## Informações relacionadas
-
-- [Usuários: Níveis de acesso de
-  visualização](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/pt-br "Help4.x:Users: Viewing Access Levels/pt-br")
-- [Gerenciador de usuários: Usuários:
-  Grupos](https://docs.joomla.org/Help4.x:Users:_Groups/pt-br "Help4.x:Users: Groups/pt-br")
-- [Tutorial sobre listas de controle de acessos (ACL) para o Joomla!
-  3.x](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/pt-br "J3.x:Access Control List Tutorial/pt-br")

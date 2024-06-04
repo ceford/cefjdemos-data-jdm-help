@@ -156,8 +156,8 @@ alt="Content Article Manager Options editing layout subscreen" />
   Article or Category. If an Article or Category is saved and the
   maximum number of versions has been reached, the oldest version will
   be deleted automatically. If set to "0", then versions will never be
-  deleted automatically. [Aprende
-  más.](https://docs.joomla.org/Help4.x:Components_Version_History/es "Help4.x:Components Version History/es")
+  deleted automatically. Aprende
+  más.
 - **Mostrar las 'Opciones de imágenes y enlaces' desde el sitio**. Hide
   the Images and Links tab in the Frontend article editor screen.
 - **Mostrar las 'Opciones de imágenes y enlaces' desde la
@@ -439,14 +439,14 @@ alt="Content Article Manager Options integration subscreen" />
 **Campos personalizados**
 
 - **Habilitar campos personalizdos**. Enable the creation of custom
-  fields. [Aprende
-  más.](https://docs.joomla.org/Help4.x:Fields:_Edit/es "Help4.x:Fields: Edit/es")
+  fields. Aprende
+  más.
 
 **Flujo de trabajo**
 
 - **Habilitar flujo de trabajo**. Use customised workflows to manage
-  articles. [Aprende
-  más.](https://docs.joomla.org/J4.x:Workflow/es "J4.x:Workflow/es")
+  articles. Aprende
+  más.
 
 ### Permisos
 
@@ -516,25 +516,3 @@ Screenshot above.
   you will be able to accept the default values for most options.
 - All values set here can be overridden at the menu item, category, or
   article level.
-
-## Información relacionada
-
-- Este
-  [portal](https://docs.joomla.org/Portal:Joomla_4/es "Portal:Joomla 4/es")
-  reúne información específica relativa a Joomla 4.
-
-|                                                                                                                                                                     |                                                                                                                                                                                             |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Pantallas de ayuda relacionadas                                                                                                                                     | Descripción                                                                                                                                                                                 |
-| <span class="mw-selflink selflink">Artículos: Opciones</span>                                                                                                       | Used to set global defaults for menu items that display articles. These default values will be used when 'Use Global' is selected for an option in an Articles menu item.                   |
-| [Artículos](https://docs.joomla.org/Help4.x:Articles/es "Help4.x:Articles/es")                                                                                      | The Article list is used to find, mark featured, add and edit articles.                                                                                                                     |
-| [Artículos: Editar](https://docs.joomla.org/Help4.x:Articles:_Edit/es "Help4.x:Articles: Edit/es")                                                                  | This is where you can add and edit Articles. You can also select the Category for an Article and indicate whether or not it is Published and if it is selected to appear on the Front Page. |
-| [Artículos: Destacados](https://docs.joomla.org/Help4.x:Articles:_Featured/es "Help4.x:Articles: Featured/es")                                                      | Used to control which 'Featured Articles' are displayed on the Front Page and in what order they are displayed.                                                                             |
-| [Artículos: Categorías](https://docs.joomla.org/Help4.x:Articles:_Categories/es "Help4.x:Articles: Categories/es")                                                  | The Articles Categories list is used to find, add, and edit articles categories.                                                                                                            |
-| [Menús: Mostrar los artículos archivados](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived/es "Help4.x:Menu Item: Article Archived/es")                  | Shows a customised list of articles ordered by date or title. Archived articles are no longer published but are still stored on the site.                                                   |
-| [Menús: Mostrar una categoría en formato blog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/es "Help4.x:Menu Item: Category Blog/es")                   | Used to show articles belonging to a specific Category in a blog layout. Controls the Leading Articles, Intro Articles and additional links to more Articles.                               |
-| [Menús: Mostrar una categoría en formato lista](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/es "Help4.x:Menu Item: Category List/es")                  | Used to show articles belonging to a specific Category in a list layout.                                                                                                                    |
-| [Menús: Mostrar el formulario para crear y enviar un artículo](https://docs.joomla.org/Help4.x:Menu_Item:_Create_Article/es "Help4.x:Menu Item: Create Article/es") | Allows users to submit an article. Normally this is available only to users who have logged in to the Frontend of the site. Users must have permission to create articles.                  |
-| [Menús: Mostrar todos los artículos destacados](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/es "Help4.x:Menu Item: Featured Articles/es")          | Used to show all Articles that have been tagged as Featured. Articles are shown in a Blog Layout.                                                                                           |
-| [Menús: Mostrar listado de todas las categorías](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/es "Help4.x:Menu Item: List All Categories/es")     | Used to show a hierarchical list of Categories. Depending on the selected options for this layout, you can click on a category Title to show the articles in that category.                 |
-| [Menús: Mostrar un solo artículo](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article/es "Help4.x:Menu Item: Single Article/es")                              | Used to show one article.                                                                                                                                                                   |

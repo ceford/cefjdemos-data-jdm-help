@@ -4,13 +4,13 @@
 
 Im Versionsverlauf werden frühere Versionen eines Eintrages verwaltet.
 Versionsverlauf ist für
-[Beiträge](https://docs.joomla.org/Help4.x:Articles:_Edit/de "Help4.x:Articles: Edit/de"),
-[Banner](https://docs.joomla.org/Help4.x:Banners:_Edit/de "Help4.x:Banners: Edit/de")
+Beiträge,
+Banner
 und
-[Kunden](https://docs.joomla.org/Help4.x:Banners:_New_or_Edit_Client/de "Help4.x:Banners: New or Edit Client/de"),
-[Kontakte](https://docs.joomla.org/Help4.x:Contacts:_Edit/de "Help4.x:Contacts: Edit/de"),
-[Newsfeeds](https://docs.joomla.org/Help4.x:News_Feeds:_Edit/de "Help4.x:News Feeds: Edit/de"),
-[Benutzerhinweise](https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit/de "Help4.x:User Notes: New or Edit/de")
+Kunden,
+Kontakte,
+Newsfeeds,
+Benutzerhinweise
 und alle Kategorien verfügbar.
 
 Wird ein Eintrag mit Änderungen gespeichert, wird jedes Mal automatisch
@@ -20,8 +20,8 @@ können auch dauerhaft gespeichert werden. Die so markierten Versionen
 werden nicht automatisch gelöscht, auch wenn die maximale Anzahl der in
 den Optionen eingestellten Versionen überschritten ist.
 
-Hinweis: Im Versionsverlauf werden [benutzerdefinierte
-Felder](https://docs.joomla.org/J3.x:Adding_custom_fields/de "J3.x:Adding custom fields/de")
+Hinweis: Im Versionsverlauf werden benutzerdefinierte
+Felder
 nicht gespeichert.
 
 ## Wie darauf zugreifen
@@ -71,7 +71,7 @@ alt="Components Version History screen" />
 
 ## Werkzeugleiste
 
-Das [Bildschirmfoto](#screenshot) zeigt die Werkzeugleiste im oberen
+Das Bildschirmfoto zeigt die Werkzeugleiste im oberen
 Bereich.
 
 - **Wiederherstellen**. Die aktuelle Version des Eintrages ist mit einem
@@ -111,8 +111,3 @@ Bereich.
   gelöscht. Das Kontrollkästchen der zu löschenden Version markieren und
   den 'Löschen'-Button drücken. Hinweis: Damit wird *nicht* der
   geöffnete Eintrag sondern die gewählte Version gelöscht.
-
-## Verwandte Informationen
-
-Die Optionen des Versionsverlaufs werden in den Optionen der Komponente
-eingestellt.

@@ -111,8 +111,8 @@ Screenshot above. The functions are:
 
 - Users can use any Language from the list of installed Languages,
   either by having it assigned in the Users list or
-  by filling out a [Menu Item list - New/Edit - User Form
-  Layout](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en#User_Form_Layout "Help4.x:Menu Item: New Item/en")
+  by filling out a Menu Item list - New/Edit - User Form
+  Layout
   at the Frontend. This will cause the Joomla! system prompts to be
   generated in this Language just for this User. For example, if a User
   chooses Spanish as their language, then the Search Module will show

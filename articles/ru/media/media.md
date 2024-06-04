@@ -101,14 +101,3 @@ Screenshot above.
 - The Media's maximum upload size can be changed to an amount other than
   "10 MB" in the Media Options.
 - You can upload or delete multiple files at the same time.
-
-## Связанная информация
-
-- Tutorial: [Managing
-  Media](https://docs.joomla.org/J4.x:Managing_Media/en "J4.x:Managing Media/en").
-- [Панель
-  управления](https://docs.joomla.org/Help4.x:Home_Dashboard/ru "Help4.x:Home Dashboard/ru"):
-  Access to many default Joomla functions.
-- This
-  [Portal](https://docs.joomla.org/Portal:Joomla_4/en "Portal:Joomla 4/en")
-  brings together information related specifically to Joomla 4.

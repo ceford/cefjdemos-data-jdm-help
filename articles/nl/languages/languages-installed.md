@@ -71,8 +71,7 @@ bovenstaande Screenshot.
     aflopend volgorde.
 - **Te tonen aantal.** Toont het aantal items in een lijst. Selecteer
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#defaultlistlimit "Help4.x:Site Global Configuration/nl").
+  voor een site is '20' maar dit kan veranderd worden bij de
 
 **Filter opties.** Dit scherm heeft geen filter opties
 
@@ -102,8 +101,7 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   keuzerondje en daarna deze knop. De beheerdertaal verandert en er is
   een bericht zoals *Message The Administrator Language has been
   switched to "English (en-GB)* *.*
-- **Installeer talen.** Linkt naar het [Installeer talen
-  scherm](https://docs.joomla.org/Help4.x:Extensions_Extension_Manager_Languages/nl "Help4.x:Extensions Extension Manager Languages/nl").
+- **Installeer talen.** Linkt naar het
 - **Sluiten**. Sluit het huidige scherm en keert terug naar het vorige
   scherm zonder wijzigingen die u misschien heeft gedaan op te slaan.
   Dit werkbalk icoon wordt niet getoond als een nieuw item wordt
@@ -116,9 +114,9 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 
 - Gebruikers kunnen iedere taal gebruiken uit de lijst met
   geïnstalleerde talen, of door het te koppelen in
-  [Gebruikersbeheer](https://docs.joomla.org/Help4.x:Users/nl "Help4.x:Users/nl")
-  of door [Menu-item Beheer - Nieuw/Bewerken -
-  gebruikersformulier](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#User_Form_Layout "Help4.x:Menu Item: New Item/nl")
+  Gebruikersbeheer
+  of door Menu-item Beheer - Nieuw/Bewerken -
+  gebruikersformulier
   op de website in te vullen. Dit zal het Joomla systeem afdwingen voor
   deze gebruiker in deze taal te verschijnen. Als een gebruiker
   bijvoorbeeld voor Spaans kiest als zijn of haar taal, dan verschijnt
@@ -137,15 +135,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   beheergedeelte in een andere taal. Individuele artikelen kunnen ook
   gebruikt worden in een andere taal via het geavanceerde instellingen
   scherm bij het bewerken van het artikel.
-
-## Verwante informatie
-
-- Om meer talen te installeren: [Installeer talen
-  scherm](https://docs.joomla.org/Help4.x:Extensions_Extension_Manager_Languages/nl "Help4.x:Extensions Extension Manager Languages/nl")
-- Om talen te deïnstalleren: [Extensiebeheer -
-  Beheer](https://docs.joomla.org/Help4.x:Extensions:_Manage/nl "Help4.x:Extensions: Manage/nl")
-- Om de taal van een gebruiker te wijzigen: [Gebruikers -
-  Nieuw/Bewerken](https://docs.joomla.org/Help4.x:Users:_Edit_Profile/nl "Help4.x:Users: Edit Profile/nl")
-- Om de taal van een artikel in te stellen: [Artikelen - Nieuw/Bewerken-
-  Parameters -
-  Geavanceerd](https://docs.joomla.org/Help4.x:Articles:_Edit/nl#Parameters_-_Advancedl "Help4.x:Articles: Edit/nl")

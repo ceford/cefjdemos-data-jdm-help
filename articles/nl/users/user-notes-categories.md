@@ -57,7 +57,7 @@ ziet u verschillende kolommen.
   optioneel weergegeven op de webpagina. Invullen is vereist. Een item
   kan bewerkt worden door op de titel te klikken.
 - **Toegang**. Het
-  [Toegangsniveau](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/nl "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/nl")
+  Toegangsniveau
   om het item te bekijken.
 - **Taal**. Item taal.
 - **ID**. Dit is een uniek identificatienummer voor dit item,
@@ -89,8 +89,7 @@ bovenstaande Screenshot.
     aflopend volgorde.
 - **Te tonen aantal.** Toont het aantal items in een lijst. Selecteer
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#defaultlistlimit "Help4.x:Site Global Configuration/nl").
+  voor een site is '20' maar dit kan veranderd worden bij de
 - **Selecteer status**. Selecteer uit Naar prullenbak / Gedepubliceerd /
   Gepubliceerd / Gearchiveerd / Alles.
 - **Selecteer toegang**. Selecteer uit de lijst met beschikbare weergave
@@ -203,11 +202,3 @@ geselecteerd.
 Klik op de annuleerknop om de ingevoerde selectie te wissen. Hierdoor
 worden alle Batch bedieningselementen teruggezet naar de standaard
 waarden. Merk op dat dit *niet* de aangevinkte items uitvinkt.
-
-## Verwante informatie
-
-- [Gebruikersnotities:Nieuw of
-  bewerken](https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit/nl "Help4.x:User Notes: New or Edit/nl")
-- [Gebruikersnotities](https://docs.joomla.org/Help4.x:User_Notes/nl "Help4.x:User Notes/nl")
-- [Gebruikersnotities: Nieuw/Bewerken
-  categorie](https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit_Category/nl "Help4.x:User Notes: New or Edit Category/nl")

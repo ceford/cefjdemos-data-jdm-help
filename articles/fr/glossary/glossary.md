@@ -4,7 +4,7 @@ Le Glossaire Joomla! est très utile afin de comprendre les termes
 communément utilisés dans les tutoriels Joomla, les écrans d'aide et la
 documentation avancée.
 
-## [Alias](https://docs.joomla.org/Alias "Special:MyLanguage/Alias")
+## Alias
 
 ## Ancres
 
@@ -12,7 +12,7 @@ Une ancre est créée en utilisant la balise en HTML. Une ancre vous
 permet de placer un "marque-page" à l'intérieur d'une page HTML. Dans
 Joomla!, vous pouvez placer une ancre à l'intérieur d'un article (par
 exemple, en utilisant l'éditeur
-[TinyMCE](https://docs.joomla.org/Content_editors#TinyMCE_editor "Special:MyLanguage/Content editors")).
+TinyMCE.
 Cela vous permet de créer un lien qui emmène directement à ce point de
 l'article.
 
@@ -82,7 +82,7 @@ d'administration (Backend) en cliquant sur l'élément de menu "Contenu"
 puis "Gestion des catégories".
 
 **Voir également** :
-[Article](https://docs.joomla.org/Article "Special:MyLanguage/Article")
+Article
 
 ## Chrome
 
@@ -93,9 +93,9 @@ Chrome](https://docs.joomla.org/Applying_custom_module_chrome "Special:MyLanguag
 pour plus d'informations sur la façon de modifier l'apparence des
 modules.
 
-## [Composant](https://docs.joomla.org/Component "Special:MyLanguage/Component")
+## Composant
 
-## [Extension](https://docs.joomla.org/Extension "Special:MyLanguage/Extension")
+## Extension
 
 ## Feuilles de Style en Cascade (CSS)
 
@@ -108,13 +108,13 @@ les fichiers CSS (par exemple, template.css) font normalement partie du
 template.
 
 **Voir également :**
-[Template](https://docs.joomla.org/Template "Special:MyLanguage/Template"),
-[Suffixe de Classe de
-Page](https://docs.joomla.org/Page_Class_Suffix "Special:MyLanguage/Page Class Suffix"),
-[Suffixe de Classe de
-Module](https://docs.joomla.org/Module_Class_Suffix "Special:MyLanguage/Module Class Suffix")
+Template,
+Suffixe de Classe de
+Page,
+Suffixe de Classe de
+Module
 
-## [LDAP](https://docs.joomla.org/LDAP "Special:MyLanguage/LDAP")
+## LDAP
 
 ## Le Core (noyau)
 
@@ -131,14 +131,14 @@ rapidement et facilement. Sont inclus : les gestionnaires
 d'utilisateurs, d'articles, de liens, de catégories, de contacts ainsi
 que le gestionnaire de menu. Sont également présents : un gestionnaire
 de
-[template](https://docs.joomla.org/template "Special:MyLanguage/template")
+template
 contenant quelques templates de base permettant l'affichage du Frontend
 (affichage du site web pour l'internaute), un gestionnaire des
 modules de
 base, un gestionnaire des
 **Plugins:**de
 base, et quelques autres
-[extensions](https://docs.joomla.org/extension "Special:MyLanguage/extension")
+extensions
 permettant d'élargir les fonctionnalités d'une installation de base de
 Joomla!. Ces extensions du Core ne doivent pas être confondues avec les
 extensions tierces disponibles en téléchargement sur le JED (Joomla!
@@ -149,11 +149,11 @@ Extension Directory - Répertoire des extensions Joomla!).
 target="_blank" rel="noreferrer noopener">Répertoire des Extensions
 Joomla! (JED)</a>.
 
-## [Les Langues](https://docs.joomla.org/Language "Special:MyLanguage/Language")
+## Les Langues
 
 Les langues sont peut-être les plus élémentaires et les plus importants
 types
-d'[extensions](https://docs.joomla.org/Extensions "Special:MyLanguage/Extensions").
+d'extensions.
 Les langues sont intégrées soit comme un pack de langue de base soit en
 un pack de langue pour extension. Ces packs sont constitués de fichiers
 INI qui contiennent des paires clé/valeur. Ces paires clé/valeur
@@ -168,8 +168,8 @@ contenu PDF.
 
 ## Menus Split (Menus partagés)
 
-Un [menu
-split](https://docs.joomla.org/split_menus "Special:MyLanguage/split menus")
+Un menu
+split
 (menu partagé) ce sont les différents niveaux d'un même menu s'affichant
 en deux endroits différents ou plus sur une même page.
 
@@ -190,9 +190,9 @@ menu à niveaux multiples et en créant des modules de menus, chacun étant
 affecté à un niveau différent.
 
 **Voir également** :
-[Menu](https://docs.joomla.org/Menu "Special:MyLanguage/Menu")
+Menu
 
-## [Menu](https://docs.joomla.org/Menu "Special:MyLanguage/Menu")
+## Menu
 
 Dans Joomla!, un **Menu** est un ensemble d'**éléments de menu** utilisé
 pour naviguer sur un site web. Chaque élément de menu définit une URL
@@ -200,8 +200,8 @@ vers une page de votre site, ainsi que les paramètres qui contrôlent le
 contenu (articles, listes de catégorie(s), éléments tagués, etc.) et le
 style (module(s), mise en page) de cette page.
 
-[Ajouter un nouveau
-menu](https://docs.joomla.org/Adding_a_new_menu "Special:MyLanguage/Adding a new menu")
+Ajouter un nouveau
+menu
 est plutôt simple. Dans le menu d'administration du back-end de votre
 site Joomla!, choisissez :
 
@@ -217,10 +217,10 @@ de
 modules](https://docs.joomla.org/Help33:Extensions_Module_Manager "Special:MyLanguage/Help33:Extensions Module Manager")**
 et indiquer au module quel **Menu** afficher. Par la suite, vous pouvez
 sélectionner là où le module devra s'afficher sur le site, et ce en
-choisissant une des **[positions de
-module](https://docs.joomla.org/Module_Position "Special:MyLanguage/Module Position")**
+choisissant une des **positions de
+module**
 du
-**[template](https://docs.joomla.org/Getting_Started_with_Templates "Special:MyLanguage/Getting Started with Templates")**
+**template**
 actif.
 
 Il existe encore plus de possibilités pour l'affichage du menu, en
@@ -230,12 +230,11 @@ assignant le module sur les éléments de menu) ou qu'il soit visible à
 tous ou uniquement à certains groupes d'utilisateurs (par exemple, les
 utilisateurs enregistrés).
 
-Il est également possible de créer des [Menus
-partagés](https://docs.joomla.org/Split_menus "Special:MyLanguage/Split menus").
+Il est également possible de créer des
 
-## [Module](https://docs.joomla.org/Module "Special:MyLanguage/Module")
+## Module
 
-## [Module chrome](https://docs.joomla.org/Module_chrome "Special:MyLanguage/Module chrome")
+## Module chrome
 
 ## Modèle-Vue-Contrôleur
 
@@ -326,34 +325,33 @@ décompressés, ils remplaceront les 50 fichiers obsolètes de la version
 3.x.1.
 
 Les paquets de mise à jour font parfois également référence à des
-[Fichiers
-Patch](https://docs.joomla.org/Patch "Special:MyLanguage/Patch"). Avant
+ Avant
 d'installer un paquet de mise à jour, vous pouvez consulter les [notes
 de
 version](https://docs.joomla.org/Joomla_1.5_version_history "Special:MyLanguage/Joomla 1.5 version history")
-ainsi que les [instructions de mise à
-jour](https://docs.joomla.org/Upgrade_Instructions "Special:MyLanguage/Upgrade Instructions")
+ainsi que les instructions de mise à
+jour
 en lien avec le Paquet de mise à jour.
 
-## [PHP](https://docs.joomla.org/PHP "Special:MyLanguage/PHP")
+## PHP
 
 PHP est un langage de programmation libre utilisé principalement pour la
 création de pages Web dynamiques. Le PHP est largement utilisé pour le
 développement web et peut intégrer du code
-[HTML](https://docs.joomla.org/Where_can_you_learn_about_HTML%3F "Special:MyLanguage/Where can you learn about HTML?").
+HTML.
 Il est généralement traité par un serveur web qui reçoit le code PHP,
 l'exécute et retourne la page Web. Joomla! est essentiellement écrit en
 utilisant le langage PHP. Pour plus d'information vous pouvez consulter
-l'article : [Où puis-je en apprendre plus sur le
-PHP ?](https://docs.joomla.org/Where_can_you_learn_about_PHP "Special:MyLanguage/Where can you learn about PHP")
+l'article : Où puis-je en apprendre plus sur le
+PHP ?
 
-## [Position de Module](https://docs.joomla.org/Module_Position "Special:MyLanguage/Module Position")
+## Position de Module
 
 ## Préfixe de Table de Base De Données
 
 Le préfixe de table de base de données est une chaîne de caractères
 (contenant peu de caractères) ajoutée devant les noms des
-[tables](https://docs.joomla.org/tables "Special:MyLanguage/tables") de
+tables de
 Joomla!. L'utilisation d'un préfixe vous permet d'exécuter plusieurs
 installations de Joomla! à l'aide d'une base de données unique.
 
@@ -363,12 +361,12 @@ ultérieurement mais nécessite un accès à la base de données par un
 système externe à Joomla! ou par une extension comme Akeeba Admin Tools.
 
 Les développeurs
-d'[extension](https://docs.joomla.org/Extension "Special:MyLanguage/Extension")
+d'extension
 doivent utiliser la chaîne de caractères `#__` comme préfixe. Cette
 chaîne sera remplacée par le vrai préfixe de table lors de l'exécution
 de la commande par Joomla!.
 
-## [Suffixe de Classe de Module](https://docs.joomla.org/Module_Class_Suffix "Special:MyLanguage/Module Class Suffix")
+## Suffixe de Classe de Module
 
 Un Suffixe de Classe de Module dans Joomla! est un paramètre de module.
 Il est configurable dans le Module : écran \[Modifier\] dans la section
@@ -397,10 +395,9 @@ avoir besoin de recréer tout le code CSS existant. Attention, si vous
 créez un nouveau nom de classe, assurez-vous que son nom soit unique et
 n'entre pas en conflit avec un nom de classe existant.
 
-Voir également : [Utilisation des Suffixes de
-Classe](https://docs.joomla.org/Using_Class_Suffixes "Special:MyLanguage/Using Class Suffixes").
+Voir également :
 
-## [Suffixe de Classe de Page](https://docs.joomla.org/Page_Class_Suffix "Special:MyLanguage/Page Class Suffix")
+## Suffixe de Classe de Page
 
 Un suffixe de classe de page dans Joomla! est un paramètre présent dans
 le contenu des éléments de Menu. Il est paramétrable dans l'élément de
@@ -431,21 +428,20 @@ sans avoir besoin de recréer tout le code CSS existant. Attention, si
 vous créez un nouveau nom de classe, assurez-vous que son nom soit
 unique et n'entre pas en conflit avec un nom de classe existant.
 
-**Voir également** : [Utilisation des Suffixes de
-Classe](https://docs.joomla.org/Using_Class_Suffixes "Special:MyLanguage/Using Class Suffixes"),
-[Utilisation du Suffixe de Classe de Page dans le Code du
-Template](https://docs.joomla.org/Using_the_Page_Class_Suffix_in_Template_Code "Special:MyLanguage/Using the Page Class Suffix in Template Code")
+**Voir également** : Utilisation des Suffixes de
+Classe,
+Utilisation du Suffixe de Classe de Page dans le Code du
+Template
 
-## [Template](https://docs.joomla.org/Template "Special:MyLanguage/Template")
+## Template
 
 Un Template est un type
-d'[extension](https://docs.joomla.org/extension "Special:MyLanguage/extension")
+d'extension
 pour Joomla! qui permet de modifier l'apparence de votre site Web. Il
 existe deux types de template pour le CMS Joomla! : [les templates de
 site
 Front-end](https://docs.joomla.org/Template/fr#Les_Templates_de_Site_.28Front-end.29 "Special:MyLanguage/Template/fr")
-et [les templates d'administration
-Back-end](https://docs.joomla.org/Template/fr#Les_Templates_d.27Administration_.28Back-end.29 "Special:MyLanguage/Template/fr").
+et
 Les templates de site déterminent l'apparence du contenu de votre site
 pour le visiteur. Les templates d'administration déterminent l'apparence
 donnée aux fonctionnalités d'administration de votre site et disponibles
@@ -454,6 +450,6 @@ telles que : utilisateurs, menu, article, catégorie, module, composant,
 plugin et gestion des templates.
 
 **Voir également** :
-[Composant](https://docs.joomla.org/Component "Special:MyLanguage/Component"),
-[Module](https://docs.joomla.org/Module "Special:MyLanguage/Module"),
-[Plugin](https://docs.joomla.org/Plugin "Special:MyLanguage/Plugin")
+Composant,
+Module,
+Plugin

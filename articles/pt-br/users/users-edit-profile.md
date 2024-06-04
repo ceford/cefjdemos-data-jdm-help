@@ -217,14 +217,3 @@ de tela](#Captura_de_tela) acima. As funções são:
   ajuda e/ou um fuso horário, as configurações padrões nas configurações
   globais, no gerenciador das linguagens e/ou no gerenciador de temas
   serão aplicadas.
-
-## Informações relacionadas
-
-- [Usuários](https://docs.joomla.org/Help4.x:Users/pt-br "Help4.x:Users/pt-br")
-- [Usuários:
-  Grupos](https://docs.joomla.org/Help4.x:Users:_Groups/pt-br "Help4.x:Users: Groups/pt-br")
-- <a
-  href="https://docs.joomla.org/index.php?title=J3.x:Access_Control_List_Tutorial/pt-be&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="J3.x:Access Control List Tutorial/pt-be (page does not exist)">Tutorial
-  sobre ACLs para o Joomla! 3.x</a>

@@ -55,7 +55,7 @@ Klik op de kolomkop om de lijst volgens deze kolom te sorteren.
 - **Titel**. De naam van de titel van het feed. Maak het zo beschrijvend
   mogelijk.
 - **Toegang**. Het
-  [Toegangsniveau](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/nl "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/nl")
+  Toegangsniveau
   om het item te bekijken.
 - **Associaties:** Toont, aan welke taal dit item geassocieerd is.
 - **Taal**. Item taal.
@@ -85,8 +85,7 @@ bovenstaande Screenshot.
     aflopend volgorde.
 - **Te tonen aantal.** Toont het aantal items in een lijst. Selecteer
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#defaultlistlimit "Special:MyLanguage/Help4.x:Site Global Configuration/nl").
+  voor een site is '20' maar dit kan veranderd worden bij de
 
 **Filteropties**
 
@@ -158,10 +157,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 - **Opties.** Opent het venster Opties, waar instellingen zoals de
   standaard parameters kunnen worden bewerkt.
 - **Help**. Opent dit helpscherm.
-
-## Verwante informatie
-
-- Om met nieuwsfeeds te werken: [Nieuwsfeed
-  beheer](https://docs.joomla.org/Help4.x:News_Feeds/nl "Help4.x:News Feeds/nl")
-- Om nieuwe nieuwsfeed categorieën toe te voegen: [Nieuwsfeed: Bewerk
-  categorie](https://docs.joomla.org/Help4.x:News_Feeds:_Edit_Category/nl "Help4.x:News Feeds: Edit Category/nl")

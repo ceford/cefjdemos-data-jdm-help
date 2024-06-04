@@ -65,10 +65,10 @@ ist wie folgt:
     War die Installation nicht erfolgreich, wird eine Fehlermeldung
     angezeigt.
 4.  Je nach Erweiterung kann es notwendig werden, die Erweiterung zu
-    aktivieren (z.B. in der [Liste der
-    Module](https://docs.joomla.org/Help4.x:Modules/de "Help4.x:Modules/de")
-    oder [Liste der
-    Plugins](https://docs.joomla.org/Help4.x:Plugins/de "Help4.x:Plugins/de")).
+    aktivieren (z.B. in der Liste der
+    Module
+    oder Liste der
+    Plugins).
 
 ### Aus Webkatalog installieren
 
@@ -148,18 +148,12 @@ Werkzeugleiste im oberen Bereich. Die Funktionen sind:
 
 ## Links zu anderen Seiten
 
-- **Installieren.** Link führt zu [Erweiterungen:
-  Installieren](https://docs.joomla.org/Help4.x:Extensions:_Install/en "Help4.x:Extensions: Install/en").
-- **Update.** Link führt zu [Update
-  Screen](https://docs.joomla.org/Help4.x:Extensions:_Update/en "Help4.x:Extensions: Update/en").
-- **Verwalten.** Link führt zu [Manage
-  Screen](https://docs.joomla.org/Help4.x:Extensions:_Manage/en "Help4.x:Extensions: Manage/en").
-- **Überprüfen.** Link führt zu [Discover
-  Screen](https://docs.joomla.org/Help4.x:Extensions:_Discover/en "Help4.x:Extensions: Discover/en").
-- **Datenbank.** Link führt zu [Database
-  Screen](https://docs.joomla.org/Help4.x:Information:_Database/en "Help4.x:Information: Database/en").
-- **Warnungen.** Link führt zu [Warnings
-  Screen](https://docs.joomla.org/Help4.x:Information:_Warnings/en "Help4.x:Information: Warnings/en").
+- **Installieren.** Link führt zu
+- **Update.** Link führt zu
+- **Verwalten.** Link führt zu
+- **Überprüfen.** Link führt zu
+- **Datenbank.** Link führt zu
+- **Warnungen.** Link führt zu
 - **Sprachen installieren.** Link führt zu Install Languages Screen.
 - **Website aktualisieren.** Link führt zu <a
   href="https://docs.joomla.org/index.php?title=Help4.x:Extensions_Extension_Manager_Update_Sites/en&amp;action=edit&amp;redlink=1"
@@ -195,35 +189,3 @@ Werkzeugleiste im oberen Bereich. Die Funktionen sind:
   Grund wird allgemein empfohlen, bei der Installation neuer
   Erweiterungen die Optionen „Aus Webkatalog installieren“, „Paketdatei
   hochladen“ oder „Aus Verzeichnis installieren“ zu verwenden.
-
-## Verwandte Informationen
-
-- Neue Komponenten werden als Menüeintrag im Menü *Komponenten*
-  gelistet.
-- Ein Menüeintrag kann einer installierten Komponente in [Menüs:
-  Menü-Einträge](https://docs.joomla.org/Help4.x:Menus:_Items/de "Help4.x:Menus: Items/de")
-  mit dem "Neu"-Button zugewiesen werden. Die neue Komponente wird in
-  der Liste der internen Links der Menüpunkttypen angezeigt.
-- Wurde eine Modul-Erweiterung installiert, wird sie in
-  [Module](https://docs.joomla.org/Help4.x:Modules/de "Help4.x:Modules/de")
-  gelistet, wo sie aktiviert/deaktiviert werden kann. Die Parameter
-  werden in [Erweiterungen: Module
-  bearbeiten](https://docs.joomla.org/Help4.x:Extensions_Module_Manager_Edit/de "Help4.x:Extensions Module Manager Edit/de")
-  eingerichtet.
-- Eine installierte Plugin-Erweiterung wird zur Liste der
-  [Plugins](https://docs.joomla.org/Help4.x:Plugins/de "Help4.x:Plugins/de")
-  hinzugefügt. Dort können diese aktiviert oder deaktiviert werden. Auf
-  der Seite
-  [Plugin-Bearbeitung](https://docs.joomla.org/Help4.x:Plugins:_Name_of_Plugin/de "Help4.x:Plugins: Name of Plugin/de")
-  können die Parameter angepasst werden.
-- Eine installierte Template-Erweiterung wird zur Site- oder
-  Administrator-Liste der
-  [Templates-Stile](https://docs.joomla.org/Help4.x:Templates:_Styles/de "Help4.x:Templates: Styles/de")
-  hinzugefügt, wo sie einzelnen oder allen Seiten zugewiesen wird.
-  Parameter können eingerichtet, HTML- oder CSS-Quellcode bearbeitet
-  oder verfügbare Modul-Positionen betrachtet werden.
-- Eine installierte Spracherweiterung wird je nach dem Client-Attribut
-  der Erweiterung zur Site- oder Administratorliste der
-  [Sprachenliste](https://docs.joomla.org/Help4.x:Languages:_Installed/de "Help4.x:Languages: Installed/de")
-  hinzugefügt. Auf dieser Seite kann diese, falls gewünscht, als
-  Standardsprache festgelegt werden.

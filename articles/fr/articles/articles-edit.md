@@ -38,16 +38,16 @@ alt="content article manager add new article" />
 - **Titre**. Le titre de cet article.
 - **Alias**. Le nom interne de cet article. Normalement, vous pouvez
   laisser ce champ vide et Joomla remplira une valeur par défaut Titre
-  en minuscules et avec des tirets au lieu d'espaces. [Pour en savoir
-  plus.](https://docs.joomla.org/Alias/fr "Alias/fr")
+  en minuscules et avec des tirets au lieu d'espaces. Pour en savoir
+  plus.
 
 ### Contenu
 
 #### Left Panel
 
 - **Texte de l'article**. C'est ici que vous entrez le contenu de
-  l'article. Joomla inclut des éditeurs , [Éditeur -
-  TinyMCE](https://docs.joomla.org/Help4.x:Editors/en#tinymce "Help4.x:Editors/en")
+  l'article. Joomla inclut des éditeurs , Éditeur -
+  TinyMCE
   par défaut est montré ici.
 
 <img
@@ -64,8 +64,7 @@ plus.](https://docs.joomla.org/Help4.x:Editors/fr#cmscontent "Help4.x:Editors/fr
 
 - **Activer/Désactiver l'éditeur**. Un bouton Toggle Editor s'affiche
   sous la fenêtre d'édition. Ce bouton vous permet de basculer entre
-  TinyMCE et [Éditeur - Non wysiwyg
-  (Aucun)](https://docs.joomla.org/Help4.x:Editors/fr#none "Help4.x:Editors/fr").
+  TinyMCE et
 
 #### Right Panel
 
@@ -77,7 +76,7 @@ plus.](https://docs.joomla.org/Help4.x:Editors/fr#cmscontent "Help4.x:Editors/fr
   - Archivé: L'article n'apparaîtra plus dans les liens de menu
     Blog
     ou
-    [liste.](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/fr "Help4.x:Menu Item: Category List/fr")
+    liste.
   - Dans la corbeille: L'article est supprimé du site mais reste dans la
     base de données. <a
     href="https://docs.joomla.org/index.php?title=.x:Deleting_an_Article/fr&amp;action=edit&amp;redlink=1"
@@ -85,18 +84,18 @@ plus.](https://docs.joomla.org/Help4.x:Editors/fr#cmscontent "Help4.x:Editors/fr
     en savoir plus.</a>
 - **Catégorie**. Sélectionnez la catégorie de cet article dans la zone
   de liste déroulante.
-- **Épinglé**. Select Yes if article will be shown in the [Featured menu
-  item.](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/en "Help4.x:Menu Item: Featured Articles/en")
-- **Accès**. Le [Niveau
-  d'accès](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/fr "Help4.x:Users: Viewing Access Levels/fr")
+- **Épinglé**. Select Yes if article will be shown in the Featured menu
+  item.
+- **Accès**. Le Niveau
+  d'accès
   pour voir cet élément.
 - **Langue**. Sélectionnez la langue pour le champ personnalisé. Si vous
-  n'utilisez pas la [fonctionnalité
-  multi-langue](https://docs.joomla.org/Help4.x:Extensions:_Languages/fr "Help4.x:Extensions: Languages/fr")
+  n'utilisez pas la fonctionnalité
+  multi-langue
   de Joomlaǃ, gardez la valeur par défaut à 'Toutes'.
 - **Tags**. Attribuez des tags aux éléments de contenu. Vous pouvez
-  sélectionner une étiquette ou tag dans la [liste
-  prédéfinie](https://docs.joomla.org/Help4.x:Tags/fr "Help4.x:Tags/fr")
+  sélectionner une étiquette ou tag dans la liste
+  prédéfinie
   ou en entrer une nouvelle en saisissant son nom dans le champ et en
   appuyant sur entrée.
 - **Note**. Note à propos de l'élément. C'est normalement utilisé par
@@ -109,8 +108,7 @@ plus.](https://docs.joomla.org/Help4.x:Editors/fr#cmscontent "Help4.x:Editors/fr
 ### Images et liens
 
 **Remarque**: Cet onglet peut être masqué par les utilisateurs disposant
-d'une Permission d'Administrateur dans les [Options de
-l'article](https://docs.joomla.org/Help4.x:Articles:_Options/fr "Help4.x:Articles: Options/fr").
+d'une Permission d'Administrateur dans les
 Cette section vous permet d'afficher des images et des liens dans vos
 articles à l'aide d'une mise en page standardisée.
 
@@ -126,8 +124,8 @@ alt="screenshot article edit images links" />
 - **Image de l'introduction**. Click the Select button to select an
   image to be displayed in a fixed location in the Intro Text of this
   article. This will open a window that allows you to select an image
-  from your images folder. [Pour en savoir
-  plus.](https://docs.joomla.org/Adding_an_image_to_an_article/fr "Adding an image to an article/fr")
+  from your images folder. Pour en savoir
+  plus.
 - **Description d'image (balise alt)**. Set the alt attribute for this
   image. A few descriptive words for screen readers.
 - **Aucune description**. Check in the rare instance of a purely
@@ -148,8 +146,8 @@ alt="screenshot article edit images links" />
 - **Image de l'article complet**. Click the Select button to select an
   image to be displayed in a fixed location in the Full Text of this
   article. This will open a window that allows you to select an image
-  from your images folder. [Pour en savoir
-  plus.](https://docs.joomla.org/Adding_an_image_to_an_article/fr "Adding an image to an article/fr")
+  from your images folder. Pour en savoir
+  plus.
 - **Description d'image (balise alt)**. Set the alt attribute for this
   image. A few descriptive words for screen readers.
 - **Aucune description**. Check in the rare instance of a purely
@@ -187,8 +185,7 @@ alt="screenshot article edit images links" />
 ### Paramètres
 
 **Remarque**: Cet onglet peut être masqué par les utilisateurs disposant
-d'une Permission d'Administrateur dans les [Options de
-l'article](https://docs.joomla.org/Help4.x:Articles:_Options/fr "Help4.x:Articles: Options/fr").
+d'une Permission d'Administrateur dans les
 Il s'agit d'un ensemble d'options que vous pouvez utiliser pour
 contrôler le mode d'affichage de cet article dans la présentation sous
 forme de blog, En vedette ou Catégorie. Joomla vous permet de définir
@@ -204,8 +201,7 @@ alt="screenshot article edit article options" />
 **Type de mise en page**
 
 - **Type de mise en page**. Use a layout from the supplied article view
-  or [overrides in the
-  templates](https://docs.joomla.org/Help4.x:Templates:_Customise/en "Help4.x:Templates: Customise/en").
+  or
 - **Titre de l'article**. Show the Article's Title.
 - **Lien sur les titres**. Show the title as a link to the article.
 - **Tags de l'article**. Enter tags for this article. Select existing
@@ -282,8 +278,7 @@ alt="Content Article Manager Edit Fields options subscreen" />
 ### Publication
 
 **Remarque**: Cet onglet peut être masqué par les utilisateurs disposant
-d'une Permission d'Administrateur dans les [Options de
-l'article](https://docs.joomla.org/Help4.x:Articles:_Options/fr "Help4.x:Articles: Options/fr").
+d'une Permission d'Administrateur dans les
 This section allows you to enter parameters and
 Metadata
 for this Article.
@@ -329,10 +324,10 @@ alt="Content Article Manager Edit publishing options subscreen" />
 **Métadonnées**
 
 - **Description**. An paragraph to be used as the description of the
-  page. [Pour en savoir
-  plus.](https://docs.joomla.org/Using_The_Meta_Description/fr "Using The Meta Description/fr")
-- **Mots clés**. Entry for keywords. [Pour en savoir
-  plus.](https://docs.joomla.org/Using_Keywords/fr "Using Keywords/fr")
+  page. Pour en savoir
+  plus.
+- **Mots clés**. Entry for keywords. Pour en savoir
+  plus.
 - **Robots**. The instructions for web 'robots' that browse to this
   page. Set 'Use Global' in Global Configuration.
 - **Auteur**. Entry for an Author name within the metadata.
@@ -342,8 +337,7 @@ alt="Content Article Manager Edit publishing options subscreen" />
 ### Associations
 
 **Remarque**: Cet onglet peut être masqué par les utilisateurs disposant
-d'une Permission d'Administrateur dans les [Options de
-l'article](https://docs.joomla.org/Help4.x:Articles:_Options/fr "Help4.x:Articles: Options/fr").
+d'une Permission d'Administrateur dans les
 Tab is shown on Multilingual Sites
 only.
 
@@ -357,8 +351,7 @@ alt="screenshot article edit associations" />
 ### Paramètres de création/modification
 
 **Remarque**: Cet onglet peut être masqué par les utilisateurs disposant
-d'une Permission d'Administrateur dans les [Options de
-l'article](https://docs.joomla.org/Help4.x:Articles:_Options/fr "Help4.x:Articles: Options/fr").
+d'une Permission d'Administrateur dans les
 
 <img
 src="https://docs.joomla.org/images/thumb/1/15/Help-4x-screenshot-article-edit-configure-edit-screen-fr.png/600px-Help-4x-screenshot-article-edit-configure-edit-screen-fr.png"
@@ -383,8 +376,7 @@ alt="screenshot article edit configure edit screen" />
 ### Droits
 
 **Remarque**: Cet onglet peut être masqué par les utilisateurs disposant
-d'une Permission d'Administrateur dans les [Options de
-l'article](https://docs.joomla.org/Help4.x:Articles:_Options/fr "Help4.x:Articles: Options/fr").
+d'une Permission d'Administrateur dans les
 This is where you can enter permissions for this article. [Pour en
 savoir
 plus.](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/fr#hierarchylevels "J3.x:Access Control List Tutorial/fr")
@@ -407,13 +399,13 @@ To change the permissions for this article, do the following.
 3.  Sélectionnez l'autorisation souhaitée pour l'action que vous
     souhaitez modifier.
     - **Hérité**. Héritée pour les utilisateurs de ce groupe à partir
-      des autorisations de [configuration
-      globale](https://docs.joomla.org/Help4.x:Site_Global_Configuration/fr#permissions "Help4.x:Site Global Configuration/fr"),
+      des autorisations de configuration
+      globale,
 
-[Articles
-Options](https://docs.joomla.org/Help4.x:Articles:_Options/en#permissions "Help4.x:Articles: Options/en"),
-or [d'options
-d'articles](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/fr#permissions "Help4.x:Articles: Edit Category/fr")
+Articles
+Options,
+or d'options
+d'articles
 ou <a
 href="https://docs.joomla.org/index.php?title=%245/fr%246&amp;action=edit&amp;redlink=1"
 class="new" title="$5/fr$6 (page does not exist)">de catégories</a>.
@@ -431,7 +423,7 @@ class="new" title="$5/fr$6 (page does not exist)">de catégories</a>.
 ## Barre d'outils
 
 En haut de la page, vous verrez la barre d'outils présentée dans la
-[capture d'écran](#screenshot) ci-dessus.
+capture d'écran ci-dessus.
 
 - **Enregistrer**. Saves the article and stays in the current screen.
 - **Enregistrer & Fermer**. Saves the article and closes the current
@@ -470,12 +462,12 @@ En haut de la page, vous verrez la barre d'outils présentée dans la
       that lets you browse image files and upload images.
   2.  The 'Insert' dropdown list is a simple form for which you need to
       know the image url. It is used for external images.
-- Les séparations '[Lire la
-  suite...](https://docs.joomla.org/Help4.x:Editors/fr#readmore "Help4.x:Editors/fr")'
+- Les séparations 'Lire la
+  suite...'
   vous permettent d'économiser de l'espace sur la page d'accueil ou sur
   toute page de mise en page du blog en affichant uniquement la première
-  partie d'un article. '[Les sauts de
-  page](https://docs.joomla.org/Help4.x:Editors/fr#pagebreak "Help4.x:Editors/fr")'
+  partie d'un article. 'Les sauts de
+  page'
   vous permettent de proposer une navigation sur plusieurs pages pour
   les articles longs. Vous pouvez utiliser les deux sur un même article,
   si vous le souhaitez.Par exemple, vous pourriez placer un saut de page
@@ -485,25 +477,3 @@ En haut de la page, vous verrez la barre d'outils présentée dans la
   l'utilisateur sélectionne le lien "Lire la suite...". À ce moment-là,
   la table des matières de l'article s'affiche avec des liens vers
   chaque page.
-
-## Informations connexes
-
-- Ce
-  [portail](https://docs.joomla.org/Portal:Joomla_4/fr "Portal:Joomla 4/fr")
-  rassemble des informations liées spécifiquement à Joomla 4.
-
-|                                                                                                                                                                       |                                                                                                                                                                                             |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Ecrans d'aide en relation                                                                                                                                             | Description                                                                                                                                                                                 |
-| [Articles : Paramètres](https://docs.joomla.org/Help4.x:Articles:_Options/fr "Help4.x:Articles: Options/fr")                                                          | Used to set global defaults for menu items that display articles. These default values will be used when 'Use Global' is selected for an option in an Articles menu item.                   |
-| Articles                                                                                         | The Article list is used to find, mark featured, add and edit articles.                                                                                                                     |
-| <span class="mw-selflink selflink">Articles : Edition</span>                                                                                                          | This is where you can add and edit Articles. You can also select the Category for an Article and indicate whether or not it is Published and if it is selected to appear on the Front Page. |
-| [Articles : Articles épinglés](https://docs.joomla.org/Help4.x:Articles:_Featured/fr "Help4.x:Articles: Featured/fr")                                                 | Used to control which 'Featured Articles' are displayed on the Front Page and in what order they are displayed.                                                                             |
-| [Articles : catégories](https://docs.joomla.org/Help4.x:Articles:_Categories/fr "Help4.x:Articles: Categories/fr")                                                    | The Articles Categories list is used to find, add, and edit articles categories.                                                                                                            |
-| [Menus : Articles archivés](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived/fr "Help4.x:Menu Item: Article Archived/fr")                                  | Shows a customised list of articles ordered by date or title. Archived articles are no longer published but are still stored on the site.                                                   |
-| [Menus : Blog d'une catégorie](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/fr "Help4.x:Menu Item: Category Blog/fr")                                     | Used to show articles belonging to a specific Category in a blog layout. Controls the Leading Articles, Intro Articles and additional links to more Articles.                               |
-| [Menus : Liste d'articles d'une catégorie](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/fr "Help4.x:Menu Item: Category List/fr")                         | Used to show articles belonging to a specific Category in a list layout.                                                                                                                    |
-| [Menus : Créer un article](https://docs.joomla.org/Help4.x:Menu_Item:_Create_Article/fr "Help4.x:Menu Item: Create Article/fr")                                       | Allows users to submit an article. Normally this is available only to users who have logged in to the Frontend of the site. Users must have permission to create articles.                  |
-| [Menus : Articles épinglés](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/fr "Help4.x:Menu Item: Featured Articles/fr")                                | Used to show all Articles that have been tagged as Featured. Articles are shown in a Blog Layout.                                                                                           |
-| [Menus : Liste des catégories d'une catégorie parente](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/fr "Help4.x:Menu Item: List All Categories/fr") | Used to show a hierarchical list of Categories. Depending on the selected options for this layout, you can click on a category Title to show the articles in that category.                 |
-| [Menus : Article](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article/fr "Help4.x:Menu Item: Single Article/fr")                                                | Used to show one article.                                                                                                                                                                   |

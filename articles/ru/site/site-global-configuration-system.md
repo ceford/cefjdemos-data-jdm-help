@@ -1,7 +1,7 @@
 <!-- Filename: Help4.x:Site_Global_Configuration_System / Display title: Общие настройки: Система -->
 
- **←**  [Общие
-настройки](https://docs.joomla.org/Help4.x:Site_Global_Configuration/ru#system "Help4.x:Site Global Configuration/ru")
+ **←**  Общие
+настройки
 
 <img
 src="https://docs.joomla.org/images/thumb/b/bb/Help-4x-Global-Configuration-system-debug-subscreen-ru.png/800px-Help-4x-Global-Configuration-system-debug-subscreen-ru.png"
@@ -24,5 +24,5 @@ srcset="https://docs.joomla.org/images/thumb/8/8a/Help-4x-Global-Configuration-s
 data-file-width="1498" data-file-height="706" width="800" height="377"
 alt="Скриншот: Параметры сессии" />
 
- **←**  [Общие
-настройки](https://docs.joomla.org/Help4.x:Site_Global_Configuration/ru#system "Help4.x:Site Global Configuration/ru")
+ **←**  Общие
+настройки

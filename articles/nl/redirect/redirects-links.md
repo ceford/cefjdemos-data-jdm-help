@@ -82,8 +82,7 @@ bovenstaande Screenshot.
     aflopend volgorde.
 - **Te tonen aantal.** Toont het aantal items in een lijst. Selecteer
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#defaultlistlimit "Help4.x:Site Global Configuration/nl").
+  voor een site is '20' maar dit kan veranderd worden bij de
 
 **Filteropties**
 
@@ -159,7 +158,7 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 ## Opties
 
 Klik op het
-[Opties](https://docs.joomla.org/Help4.x:Redirect:_Options/nl "Help4.x:Redirect: Options/nl")
+Opties
 knop scherm om deze component in te stellen.
 
 ## Snelle tips

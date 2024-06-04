@@ -1,7 +1,7 @@
 <!-- Filename: Help4.x:Site_Global_Configuration_System / Display title: Algemene instellingen: Systeem -->
 
- **←**  [Algemene
-instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#system "Help4.x:Site Global Configuration/nl")
+ **←**  Algemene
+instellingen
 
 <img
 src="https://docs.joomla.org/images/thumb/e/e5/Help-4x-Global-Configuration-system-debug-subscreen-nl.png/800px-Help-4x-Global-Configuration-system-debug-subscreen-nl.png"
@@ -24,5 +24,5 @@ srcset="https://docs.joomla.org/images/thumb/b/be/Help-4x-Global-Configuration-s
 data-file-width="1566" data-file-height="587" width="800" height="300"
 alt="Afbeelding: Sessie" />
 
- **←**  [Algemene
-instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#system "Help4.x:Site Global Configuration/nl")
+ **←**  Algemene
+instellingen

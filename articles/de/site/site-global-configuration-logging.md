@@ -1,7 +1,7 @@
 <!-- Filename: Help4.x:Site_Global_Configuration_Logging / Display title: Konfiguration: Protokollierung -->
 
  **←** 
-[Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#logging "Help4.x:Site Global Configuration/de")
+Konfiguration
 
 <img
 src="https://docs.joomla.org/images/thumb/1/1a/Help-4x-Global-Configuration-logging-subscreen-de.png/800px-Help-4x-Global-Configuration-logging-subscreen-de.png"
@@ -11,4 +11,4 @@ data-file-width="1881" data-file-height="1016" width="800" height="432"
 alt="Bildschirmfoto: Protokollierung" />
 
  **←** 
-[Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#logging "Help4.x:Site Global Configuration/de")
+Konfiguration

@@ -82,8 +82,7 @@ Screenshot above. The functions are:
   do *not* need to rebuild this table. This function is provided in case
   the data in the table becomes corrupted.
 - **Options.** Opens the Options window where settings such as default
-  parameters can be edited. See [Menus
-  Configuration](https://docs.joomla.org/Help4.x:Components_Menus_Configuration "Special:MyLanguage/Help4.x:Components Menus Configuration").
+  parameters can be edited. See
 - **Help**. Opens this help screen.
 
 ## Astuces
@@ -113,13 +112,3 @@ Screenshot above. The functions are:
   the default menu item, make sure that you don't delete that menu item
   either! The menu with the default menu item is marked with an asterisk
   (\*) in the *Menus* menu.
-
-## Informations connexes
-
-- To add new Menus: [Menu Manager
-  New/Edit](https://docs.joomla.org/Help4.x:Menus:_Edit/en "Help4.x:Menus: Edit/en")
-- To set action permissions for menus: [Menus
-  Configuration](https://docs.joomla.org/Help4.x:Menus:_Options/en "Help4.x:Menus: Options/en")
-- To add or edit Menu Items: [Menu Item
-  Manager](https://docs.joomla.org/Help4.x:Menus:_Items/en "Help4.x:Menus: Items/en")
-- To add or edit Menu Modules: Modules list

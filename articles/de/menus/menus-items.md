@@ -4,7 +4,7 @@
 
 Der Bildschirm „Menüs: Einträge“ listet die Menüpunkte eines Menüs auf,
 die mit dem
-[Menü-Manager](https://docs.joomla.org/Help4.x:Menus/de "Help4.x:Menus/de")
+Menü-Manager
 erstellt wurden. Die Titelleiste zeigt den Namen des ausgewählten Menüs
 oder *Alle Menüeinträge*, falls diese Liste ausgewählt wurde.
 
@@ -46,8 +46,8 @@ alt="menus menu manager menu items" />
 - **Startseite**. Das gelbe Stern-Symbol bezeichnet den Menüeintrag als
   aktuelle Standard-Homepage. Ein Klick auf ein leeres Stern-Symbol
   bezeichnet den Menüeintrag als neue Standard-Homepage.
-- **Zugriffsebene**. Die [Zugriffsebene für die
-  Anzeige](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/de "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/de")
+- **Zugriffsebene**. Die Zugriffsebene für die
+  Anzeige
   des Eintrags.
 - **Verknüpfung.** Zeigt an, mit welchem anderen Menüeintrag dieser
   Eintrag verknüpft ist.
@@ -194,6 +194,3 @@ Kontrollkästchen der Einträge bleiben aber markiert.
 - Unterschiedliche Filteroptionen können eingestellt werden, um nur
   einen Teil der Menüeinträge anzuzeigen.
 
-## Verwandte Informationen
-
-- [Menüs](https://docs.joomla.org/Help4.x:Menus/de "Help4.x:Menus/de")

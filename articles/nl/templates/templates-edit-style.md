@@ -101,8 +101,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   het vorige scherm zonder wijzigingen die u misschien heeft gedaan op
   te slaan.
 - **Help**. Opent dit helpscherm.
-
-## Verwante informatie
-
-- Om templates te installeren: [Extensies:
-  Installeren](https://docs.joomla.org/Help4.x:Extensions:_Install/nl "Help4.x:Extensions: Install/nl")

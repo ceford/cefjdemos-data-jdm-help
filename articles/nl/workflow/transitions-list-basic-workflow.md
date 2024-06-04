@@ -8,8 +8,7 @@ vervangen door een meer algemene aanpak. Op deze manier kun je makkelijk
 een eigen workflow aanmaken om de artikelen binnen een component te
 beheren.
 
-Zie voor meer informatie de [Workflow
-handleiding](https://docs.joomla.org/J4.x:Workflow/nl "J4.x:Workflow/nl").
+Zie voor meer informatie de
 
 ## Hoe toegang te krijgen
 

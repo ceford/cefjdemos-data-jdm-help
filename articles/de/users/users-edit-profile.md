@@ -214,11 +214,3 @@ Werkzeugleiste im oberen Bereich. Die Funktionen sind:
 - Wird keine bestimmte Sprache, Editor, Hilfeseite und/oder Zeitzone
   angegeben, werden die entsprechenden Standard-Werte aus der „globalen“
   Konfiguration, Sprachen und Templates verwendet.
-
-## Verwandte Informationen
-
-- [Benutzer](https://docs.joomla.org/Help4.x:Users/de "Help4.x:Users/de")
-- [Benutzer:
-  Gruppen](https://docs.joomla.org/Help4.x:Users:_Groups/de "Help4.x:Users: Groups/de")
-- [Tutorial zur Zugriffssteuerungsliste
-  (ACL)](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/de "J3.x:Access Control List Tutorial/de")

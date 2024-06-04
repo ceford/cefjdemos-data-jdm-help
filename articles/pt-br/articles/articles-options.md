@@ -39,14 +39,13 @@ title="Help4.x:Menu Item: Category Blog/pt-br (page does not exist)">blogs</a>,
 href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_Category_List/pt-br&amp;action=edit&amp;redlink=1"
 class="new"
 title="Help4.x:Menu Item: Category List/pt-br (page does not exist)">listas</a>,
-[artigos
-destacados](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/pt-br#options "Help4.x:Menu Item: Featured Articles/pt-br"),
+artigos
+destacados,
 <a
 href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_List_All_Categories/pt-br&amp;action=edit&amp;redlink=1"
 class="new"
 title="Help4.x:Menu Item: List All Categories/pt-br (page does not exist)">listas
-para todas as categorias</a> e [artigos
-únicos](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article/pt-br#options "Help4.x:Menu Item: Single Article/pt-br").
+para todas as categorias</a> e
 
 **Disposição**
 
@@ -72,8 +71,8 @@ para todas as categorias</a> e [artigos
 - **Categoria**. Mostre o título da categoria do artigo.
   - **Vincular a categoria**. Mostra o título como um link para e
     categoria em questão.Nota: Você pode definir isso como uma
-    disposição para blog ou lista com a opção "[Escolher uma
-    disposição](https://docs.joomla.org/Help4.x:Articles:_Options/pt-br#choosealayout "Help4.x:Articles: Options/pt-br")"
+    disposição para blog ou lista com a opção "Escolher uma
+    disposição"
     na aba (guia) "Categoria".
 - **Categoria superior (principal, pai)**. Mostra o título da categoria
   superior (principal, pai) do artigo.
@@ -87,8 +86,7 @@ para todas as categorias</a> e [artigos
 **Associações**
 
 - **Associações**. Mostra as bandeiras ou os códigos das linguagens
-  associadas. [Apenas
-  multilíngue](https://docs.joomla.org/Help4.x:Multilingual_Associations/pt-br "Help4.x:Multilingual Associations/pt-br").
+  associadas.
   - **Usar imagens das bandeiras**. Mostra as opções das linguagens como
     imagens das bandeiras.
 
@@ -101,8 +99,8 @@ para todas as categorias</a> e [artigos
     href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_Edit/pt-br&amp;action=edit&amp;redlink=1"
     class="new"
     title="Help4.x:Contacts: Edit/pt-br (page does not exist)">contato</a>.
-    Além disso, um link não será mostrado se houver um valor "[Alias do
-    autor](https://docs.joomla.org/Help4.x:Articles:_Edit/pt-br#createdbyalias "Help4.x:Articles: Edit/pt-br")"
+    Além disso, um link não será mostrado se houver um valor "Alias do
+    autor"
     para o artigo.
 
 **Data**
@@ -151,20 +149,19 @@ href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help
 class="new"
 title="File:Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-pt-br.png">600px</a>
 
-- **Permitir captcha no envio**. Selecione o [plugin
-  captcha](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_CAPTCHA_Group/pt-br "Chunk4x:Extensions Plugin Manager Edit CAPTCHA Group/pt-br")
+- **Permitir captcha no envio**. Selecione o plugin
+  captcha
   que será usado no formulário para envio do artigo. Se "Usar global"
   estiver selecionado, certifique-se de que um plugin captcha esteja
-  selecionado nas [configurações
-  globais](https://docs.joomla.org/Help4.x:Site_Global_Configuration/pt-br#captcha "Help4.x:Site Global Configuration/pt-br").
-- **Opções da publicação**. Oculta a aba (guia) "[Opções da
-  publicação](https://docs.joomla.org/Help4.x:Articles:_Edit/pt-br#publishing "Help4.x:Articles: Edit/pt-br")"
+  selecionado nas
+- **Opções da publicação**. Oculta a aba (guia) "Opções da
+  publicação"
   na área administrativa (backend) ao editar artigos. Isso significa que
   os usuários da administração (back-end) não poderão editar os campos
   nesta aba (guia). Esses campos sempre serão definidos com seus valores
   padrões.
-- **Opções do artigo**. Oculta a aba (guia) "[Opções do
-  artigo](https://docs.joomla.org/Help4.x:Articles:_Edit/pt-br#options "Help4.x:Articles: Edit/pt-br")"
+- **Opções do artigo**. Oculta a aba (guia) "Opções do
+  artigo"
   na área administrativa (backend) ao editar artigos. Isso significa que
   os usuários da administração (back-end) não poderão editar os campos
   nesta aba (guia). Esses campos sempre serão definidos com seus valores
@@ -174,10 +171,10 @@ title="File:Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-pt-
   edição](https://docs.joomla.org/Help4.x:Articles:_Edit/pt-br#configureeditscreen "Help4.x:Articles: Edit/pt-br")"
   ao editar artigos.
 - **Permissões do artigo**. Oculta a aba (guia)
-  "[Permissões](https://docs.joomla.org/Help4.x:Articles:_Edit/pt-br#permissions "Help4.x:Articles: Edit/pt-br")"
+  "Permissões"
   ao editar artigos.
 - **Associações multilíngues**. Oculta a aba (guia)
-  "[Associações](https://docs.joomla.org/Help4.x:Articles:_Edit/pt-br#associations "Help4.x:Articles: Edit/pt-br")"
+  "Associações"
   ao editar artigos.
 - **Habilitar versões**. Salva o histórico das versões dos artigos e das
   categorias.
@@ -185,13 +182,12 @@ title="File:Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-pt-
   armazenadas para um artigo ou uma categoria. Se um artigo ou uma
   categoria forem salvos e a quantidade máxima de versões for atingida,
   a versão mais antiga será excluída automaticamente. Se definido como
-  "0", as versões nunca serão excluídas automaticamente. [Aprender
-  mais](https://docs.joomla.org/Help4.x:Components_Version_History/pt-br "Help4.x:Components Version History/pt-br").
+  "0", as versões nunca serão excluídas automaticamente.
 - **Imagens e links do site (front-end)**. Oculta a aba (guia) para
   imagens e links na tela do editor para artigos do site (frontend).
 - **Imagens e links da área administrativa**. Oculta a aba (guia)
-  "[Imagens e
-  links](https://docs.joomla.org/Help4.x:Articles:_Edit/pt-br#imagesandlinks "Help4.x:Articles: Edit/pt-br")"
+  "Imagens e
+  links"
   na área administrativa (backend) ao editar artigos.
 - **Janela destino do URL A**. Define o valor padrão para o destino do
   primeiro link no artigo. As escolhas são:
@@ -288,8 +284,8 @@ As opções controlam a disposição dos itens dos menus para <a
 href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_Category_Blog/pt-br&amp;action=edit&amp;redlink=1"
 class="new"
 title="Help4.x:Menu Item: Category Blog/pt-br (page does not exist)">blogs</a>,
-[artigos
-destacados](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/pt-br#blog "Help4.x:Menu Item: Featured Articles/pt-br")
+artigos
+destacados
 e <a
 href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_List_All_Categories/pt-br&amp;action=edit&amp;redlink=1"
 class="new"
@@ -405,8 +401,7 @@ title="Help4.x:Menu Item: Category Blog/pt-br (page does not exist)">blogs</a>,
 href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_Category_List/pt-br&amp;action=edit&amp;redlink=1"
 class="new"
 title="Help4.x:Menu Item: Category List/pt-br (page does not exist)">listas</a>
-e [artigos
-destacados](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/pt-br#blog "Help4.x:Menu Item: Featured Articles/pt-br").
+e
 
 <a
 href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Content-Article-Manager-Options-shared-subscreen-pt-br.png"
@@ -507,14 +502,12 @@ title="File:Help-4x-Content-Article-Manager-Options-integration-subscreen-pt-br.
 **Campos personalizados**
 
 - **Editar campos personalizados**. Habilita a criação dos campos
-  personalizados. [Aprender
-  mais](https://docs.joomla.org/Help4.x:Fields:_Edit/pt-br "Help4.x:Fields: Edit/pt-br").
+  personalizados.
 
 **Fluxo de trabalho**
 
 - **Habilitar fluxo de trabalho**. Usa fluxos de trabalho personalizados
-  para gerenciar artigos. [Aprender
-  mais](https://docs.joomla.org/J4.x:Workflow/pt-br "J4.x:Workflow/pt-br").
+  para gerenciar artigos.
 
 ### Permissões
 
@@ -555,8 +548,7 @@ seguinte.
     - **Executar transição**. Os usuários podem executar transições.
 3.  Selecione a permissão desejada para a ação que você deseja alterar.
     - **Herdado**. Herdado, para os usuários neste grupo, das permissões
-      nas [configurações
-      globais](https://docs.joomla.org/Help4.x:Site_Global_Configuration/pt-br#permissions "Help4.x:Site Global Configuration/pt-br").
+      nas
     - **Permitido**. Permitido para os usuários neste grupo.Nota: Se
       esta ação for negada em um dos níveis mais altos, a permissão
       permitida aqui não terá efeito. Uma configuração negada não pode
@@ -588,44 +580,3 @@ de tela](#screenshot) acima.
   você poderá aceitar os valores padrões para a maioria das opções.
 - Todos os valores definidos aqui podem ser substituídos nos itens dos
   menus, nas categorias ou nos níveis dos artigos.
-
-## Informações relacionadas
-
-- Este
-  [portal](https://docs.joomla.org/Portal:Joomla_4/pt-br "Portal:Joomla 4/pt-br")
-  reúne informações relacionadas especificamente ao Joomla! 4.
-
-|                                                                                                                                              |                                                                                                                                                                                                                |
-|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Telas de ajuda relacionadas                                                                                                                  | Descrição                                                                                                                                                                                                      |
-| <span class="mw-selflink selflink">Artigos: Opções</span>                                                                                    | Usado para definir os padrões globais para os itens dos menus que mostram artigos. Esses valores padrões serão usados quando "Usar global" for selecionado para uma opção em um item dos menus para artigos.   |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Articles/pt-br&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Articles/pt-br (page does not exist)">Artigos</a>                                                                              | A lista para artigos é usada para localizar, marcar como destacados, adicionar e editar artigos.                                                                                                               |
-| [Artigos: Editar](https://docs.joomla.org/Help4.x:Articles:_Edit/pt-br "Help4.x:Articles: Edit/pt-br")                                       | É aqui que você pode adicionar e editar artigos. Você também pode selecionar a categoria de um artigo, indicar se ela está ou não está publicada e se está selecionada para aparecer na página inicial.        |
-| [Artigos: Destacados](https://docs.joomla.org/Help4.x:Articles:_Featured/pt-br "Help4.x:Articles: Featured/pt-br")                           | Usado para controlar quais "artigos destacados" são mostrados na página inicial e em que ordem eles são mostrados.                                                                                             |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Articles:_Categories/pt-br&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Articles: Categories/pt-br (page does not exist)">Artigos:
- Categorias</a>                                                                                                                                | categorias.                                                                                                                                                                                                    |
-| [Menus: Artigos arquivados](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived/pt-br "Help4.x:Menu Item: Article Archived/pt-br")   | Mostra uma lista personalizada de artigos classificados por datas ou títulos. Os artigos arquivados não são mais publicados, mas ainda são armazenados no site.                                                |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_Category_Blog/pt-be&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Menu Item: Category Blog/pt-be (page does not exist)">Menus:
- Blog para categoria</a>                                                                                                                       | Usado para mostrar artigos pertencentes a uma categoria específica em uma disposição para blogs. Controla os principais artigos, os artigos introdutórios e os links adicionais para mais artigos.             |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_Category_List/pt-br&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Menu Item: Category List/pt-br (page does not exist)">Menus:
- Lista para categoria</a>                                                                                                                      | Usado para mostrar artigos pertencentes a uma categoria específica em uma disposição para lista.                                                                                                               |
-| [Menus: Criar artigo](https://docs.joomla.org/Help4.x:Menu_Item:_Create_Article/pt-br "Help4.x:Menu Item: Create Article/pt-br")             | Permite que os usuários enviem um artigo. Normalmente, isso está disponível apenas para usuários que iniciaram suas sessões no site (frontend). Os usuários devem ter permissão para criar artigos.            |
-| [Menus: Artigos destacados](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/pt-br "Help4.x:Menu Item: Featured Articles/pt-br") | Usado para mostrar todos os artigos que foram marcados como destacados. Os artigos são mostrados em uma disposição para blog.                                                                                  |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_List_All_Categories/pt-br&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Menu Item: List All Categories/pt-br (page does not exist)">Menus:
- Listar todas as categorias em uma árvore de categorias para artigos</a>                                                                       | Usado para mostrar uma lista hierárquica de categorias. Dependendo das opções selecionadas para esta disposição, você pode acionar (clicar em) um título de categoria para mostrar os artigos dessa categoria. |
-| [Menus: Artigo único](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article/pt-br "Help4.x:Menu Item: Single Article/pt-br")             | Usado para mostrar um artigo.                                                                                                                                                                                  |

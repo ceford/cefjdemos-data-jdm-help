@@ -10,8 +10,8 @@ como artigos, contatos e feeds de notícias.
 
 ## Como acessar
 
-Navegue até o [gerenciador das categorias dos
-banners](https://docs.joomla.org/Help4.x:Banners:_Categories/pt-br "Help4.x:Banners: Categories/pt-br"),
+Navegue até o gerenciador das categorias dos
+banners,
 **Componentes → Banners → Categorias**
 
 - **Nova**: Clique no ícone **Nova** na barra das ferramentas.
@@ -31,8 +31,8 @@ title="File:Help-4x-Components-Banners-Categories-Edit-screen-pt-br.png">800px</
   página, dependendo dos valores do parâmetro que você escolher.
 - **Alias**: O nome interno do item. Normalmente, você pode deixar em
   branco e o Joomla preencherá um valor padrão de título em letras
-  minúsculas e com traços em vez de espaços. [Saiba
-  mais.](https://docs.joomla.org/Alias/pt-br "Special:MyLanguage/Alias/pt-br")
+  minúsculas e com traços em vez de espaços. Saiba
+  mais.
 
 ### Aba (guia) Detalhes
 
@@ -57,12 +57,10 @@ title="File:Help-4x-Components-Banners-Categories-Edit-screen-pt-br.png">800px</
   - *Lixeira*: O item é excluído do site, mas ainda está no banco de
     dados. Ele pode ser excluído permanentemente do banco de dados com a
     função "Esvaziar lixeira" na barra das ferramentas (veja também
-    "[Excluindo um
-    artigo](https://docs.joomla.org/Deleting_an_Article/pt-br "Special:MyLanguage/Deleting an Article/pt-br")").
+    "
 - **Acesso**: Selecione o nível do acesso para visualização para este
   item na caixa da listagem. Os níveis dos acessos mostrados dependerão
-  do que foi configurado para este site em [Usuários → Níveis dos
-  acessos](https://docs.joomla.org/Help40:Users:_Viewing_Access_Levels/pt-br "Special:MyLanguage/Help40:Users: Viewing Access Levels/pt-br").
+  do que foi configurado para este site em
   Observe que os níveis dos acessos são separados das permissões das
   ACLs. Os níveis dos acessos controlam o que um usuário pode ver. As
   permissões das ACLs controlam quais ações um usuário pode executar.
@@ -76,8 +74,8 @@ title="File:Help-4x-Components-Banners-Categories-Edit-screen-pt-br.png">800px</
   exemplo, para documentar informações sobre o item) e não aparece no
   frontend do mesmo.
 - **Nota da versão**: Campo opcional para identificar esta versão do
-  item na janela do [histórico das
-  versões](https://docs.joomla.org/Help40:Components_Version_History/pt-br "Special:MyLanguage/Help40:Components Version History/pt-br")
+  item na janela do histórico das
+  versões
   do item.
 
 ## Aba (guia) Opções
@@ -133,13 +131,11 @@ Os campos acinzentados são apenas informativos e não podem ser editados.
     - Adicionar as palavras-chave "cachorro" e "gato" aos artigos
       apropriados.
     - Adicionar as tags "cachorro" e "gato" aos banners apropriados na
-      tela ["Novo/Editar" do gerenciador de
-      banners](https://docs.joomla.org/Help4.x:Banners:_Edit/pt-br "Help4.x:Banners: Edit/pt-br").
+      tela
     - Definir o parâmetro "Pesquisar por tags" do módulo Banner como
-      "Sim" na tela [Editar do módulo
-      Banner](https://docs.joomla.org/Help4.x:Site_Modules:_Banners/pt-br "Help4.x:Site Modules: Banners/pt-br").
-  - Apenas para artigos, em combinação com o módulo [Artigos
-    relacionados](https://docs.joomla.org/Help4.x:Site_Modules:_Articles_-_Related/pt-br "Help4.x:Site Modules: Articles - Related/pt-br"),
+      "Sim" na tela
+  - Apenas para artigos, em combinação com o módulo Artigos
+    relacionados,
     para exibir artigos que compartilham pelo menos uma palavra-chave em
     comum. Por exemplo, se o artigo atual exibido tiver as
     palavras-chave "gatos, cachorros, macacos", quaisquer outros artigos
@@ -223,21 +219,10 @@ de tela](#Captura_de_tela) acima. As funções são:
 - **Versões**: Abre a janela do histórico das versões do item para
   mostrar as versões anteriores deste item. Isso permite que você
   visualize versões mais antigas deste item e, se desejar, restaure a
-  partir de uma versão mais antiga. Consulte [histórico das
-  versões](https://docs.joomla.org/Help40:Components_Version_History/pt-br "Special:MyLanguage/Help40:Components Version History/pt-br")
+  partir de uma versão mais antiga. Consulte histórico das
+  versões
   para mais informações.
 - **Associações**: Com uma linguagem específica definida para um item,
   permite a edição lado a lado em outra linguagem. Este ícone na barra
-  das ferramentas é mostrado apenas em [sites
-  multilíngues](https://docs.joomla.org/Help4.x:Multilingual_Associations/pt-br "Special:MyLanguage/Help4.x:Multilingual Associations/pt-br").
+  das ferramentas é mostrado apenas em
 - **Ajuda**: Abre a tela de ajuda.
-
-## Informações relacionadas
-
-- Para criar ou editar banners: [Gerenciador das categorias dos
-  banners -
-  Nova/editar](https://docs.joomla.org/Help4.x:Banners:_Categories/pt-br "Help4.x:Banners: Categories/pt-br")
-- Para trabalhar com clientes dos banners: [Gerenciador dos clientes dos
-  banners](https://docs.joomla.org/Help4.x:Banners:_Clients/pt-br "Help4.x:Banners: Clients/pt-br")
-- Para colocar banners nas páginas: [Gerenciador dos
-  módulos](https://docs.joomla.org/Help4.x:Modules/pt-br "Help4.x:Modules/pt-br")

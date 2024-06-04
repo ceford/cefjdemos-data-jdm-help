@@ -53,13 +53,12 @@ title="File:Help-4x-Content-Featured-Articles-screen-pt-br.png">800px</a>
 - **Estado**. Estado do artigo: Passe sobre o ícone para informações.
 - **Título**. O título do artigo. Edite o artigo acionando o (clicando
   no) título.
-- **Acesso**. O [nível do
-  acesso](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/pt-br "Help4.x:Users: Viewing Access Levels/pt-br")
+- **Acesso**. O nível do
+  acesso
   para visualização para este artigo.
 - **Autor**. Nome do usuário que criou este artigo.
 - **Associações**. Mostra os artigos associados. Acione o (clique no)
-  código da linguagem para abrir o artigo. [Apenas
-  multilíngue](https://docs.joomla.org/Help4.x:Multilingual_Associations/pt-br "Help4.x:Multilingual Associations/pt-br").
+  código da linguagem para abrir o artigo.
 - **Linguagem**. Linguagem dos artigos, o padrão é "Todas".
 - **Data da criação**. A data em que este artigo foi criado.
 - **Acionamentos (cliques, acessos)**. A quantidade de vezes que um
@@ -71,7 +70,7 @@ title="File:Help-4x-Content-Featured-Articles-screen-pt-br.png">800px</a>
 ## Filtros da lista
 
 **Barra da pesquisa**. Perto do topo da página, você verá a barra da
-pesquisa mostrada na [captura da tela](#screenshot) acima.
+pesquisa mostrada na captura da tela acima.
 
 - **Pesquisar por texto**. Insira parte do termo da pesquisa e acione o
   (clique no) ícone "Pesquisar". *Passe o mouse* para ver uma *Dica de
@@ -91,8 +90,7 @@ pesquisa mostrada na [captura da tela](#screenshot) acima.
 - **Quantidade a ser mostrada**. Mostra a quantidade de artigos em uma
   lista. Selecione a partir da lista suspensa para alterar a quantidade
   mostrada.O padrão para um site é '20', mas isso pode ser alterado
-  nasHelp4.x:Site_Global_Configuration [configurações
-  globais](https://docs.joomla.org/Help4.x:Site_Global_Configuration/pt-br#defaultlistlimit "Help4.x:Site Global Configuration/pt-br").
+  nasHelp4.x:Site_Global_Configuration
 
 ### Opções do filtro
 
@@ -118,7 +116,7 @@ da tela](#screenshot) acima
 
 **Controles de página**. Quando a quantidade de artigos for maior que
 uma página, você verá uma barra de controle de página perto da parte
-inferior da página mostrada na [captura da tela](#screenshot) acima. O
+inferior da página mostrada na captura da tela acima. O
 número da página atual que está sendo visualizada tem um fundo de cor
 escura.
 
@@ -132,7 +130,7 @@ escura.
 ## Barra das ferramentas
 
 No topo da página você verá a barra das#screenshot ferramentas mostrada
-na [captura da tela](#screenshot) acima.
+na captura da tela acima.
 
 - **Novo**. Abre a tela de edição para criar um novo artigo.
 - **Ações**. Revela uma lista contendo ad ações disponíveis para os
@@ -152,10 +150,8 @@ na [captura da tela](#screenshot) acima.
     mais</a>.
   - **Registrar/destravar**. Registra/destrava os artigos selecionados.
   - **Lixeira**. Altera o estado dos artigos selecionados para indicar
-    que estão na lixeira. [Aprender
-    mais](https://docs.joomla.org/J4.x:Deleting_an_Article/pt-br "J4.x:Deleting an Article/pt-br").
-- **Opções**. Abre [Artigos:
-  Opções](https://docs.joomla.org/Help4.x:Articles:_Options/pt-br "Help4.x:Articles: Options/pt-br").
+    que estão na lixeira.
+- **Opções**. Abre
 - **Ajuda**. Abre esta tela de ajuda.
 
 ## Dicas rápidas
@@ -168,44 +164,3 @@ na [captura da tela](#screenshot) acima.
   acione o (clique no) cabeçalho da coluna "Classificação" para
   classificar por esta coluna. Além disso, é mais fácil ver a
   classificação se você filtrar pela categoria desejada.
-
-## Informações relacionadas
-
-- Este
-  [portal](https://docs.joomla.org/Portal:Joomla_4/pt-br "Portal:Joomla 4/pt-br")
-  reúne informações relacionadas especificamente ao Joomla! 4.
-
-|                                                                                                                                              |                                                                                                                                                                                                                |
-|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Telas de ajuda relacionadas                                                                                                                  | Descrição                                                                                                                                                                                                      |
-| [Artigos: Opções](https://docs.joomla.org/Help4.x:Articles:_Options/pt-br "Help4.x:Articles: Options/pt-br")                                 | Usado para definir os padrões globais para os itens dos menus que mostram artigos. Esses valores padrões serão usados quando "Usar global" for selecionado para uma opção em um item dos menus para artigos.   |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Articles/pt-br&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Articles/pt-br (page does not exist)">Artigos</a>                                                                              | A lista para artigos é usada para localizar, marcar como destacados, adicionar e editar artigos.                                                                                                               |
-| [Artigos: Editar](https://docs.joomla.org/Help4.x:Articles:_Edit/pt-br "Help4.x:Articles: Edit/pt-br")                                       | É aqui que você pode adicionar e editar artigos. Você também pode selecionar a categoria de um artigo, indicar se ela está ou não está publicada e se está selecionada para aparecer na página inicial.        |
-| <span class="mw-selflink selflink">Artigos: Destacados</span>                                                                                | Usado para controlar quais "artigos destacados" são mostrados na página inicial e em que ordem eles são mostrados.                                                                                             |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Articles:_Categories/pt-br&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Articles: Categories/pt-br (page does not exist)">Artigos:
- Categorias</a>                                                                                                                                | categorias.                                                                                                                                                                                                    |
-| [Menus: Artigos arquivados](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived/pt-br "Help4.x:Menu Item: Article Archived/pt-br")   | Mostra uma lista personalizada de artigos classificados por datas ou títulos. Os artigos arquivados não são mais publicados, mas ainda são armazenados no site.                                                |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_Category_Blog/pt-be&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Menu Item: Category Blog/pt-be (page does not exist)">Menus:
- Blog para categoria</a>                                                                                                                       | Usado para mostrar artigos pertencentes a uma categoria específica em uma disposição para blogs. Controla os principais artigos, os artigos introdutórios e os links adicionais para mais artigos.             |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_Category_List/pt-br&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Menu Item: Category List/pt-br (page does not exist)">Menus:
- Lista para categoria</a>                                                                                                                      | Usado para mostrar artigos pertencentes a uma categoria específica em uma disposição para lista.                                                                                                               |
-| [Menus: Criar artigo](https://docs.joomla.org/Help4.x:Menu_Item:_Create_Article/pt-br "Help4.x:Menu Item: Create Article/pt-br")             | Permite que os usuários enviem um artigo. Normalmente, isso está disponível apenas para usuários que iniciaram suas sessões no site (frontend). Os usuários devem ter permissão para criar artigos.            |
-| [Menus: Artigos destacados](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/pt-br "Help4.x:Menu Item: Featured Articles/pt-br") | Usado para mostrar todos os artigos que foram marcados como destacados. Os artigos são mostrados em uma disposição para blog.                                                                                  |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_List_All_Categories/pt-br&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Menu Item: List All Categories/pt-br (page does not exist)">Menus:
- Listar todas as categorias em uma árvore de categorias para artigos</a>                                                                       | Usado para mostrar uma lista hierárquica de categorias. Dependendo das opções selecionadas para esta disposição, você pode acionar (clicar em) um título de categoria para mostrar os artigos dessa categoria. |
-| [Menus: Artigo único](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article/pt-br "Help4.x:Menu Item: Single Article/pt-br")             | Usado para mostrar um artigo.                                                                                                                                                                                  |

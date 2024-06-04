@@ -78,7 +78,7 @@ Werkzeugleiste im oberen Bereich. Die Funktionen sind:
 
 - Falls vergessen wurde, ein Modul für dieses Menü zu erstellen, öffnet
   man den
-  [Modulmanager](https://docs.joomla.org/Help4.x:Modules/de "Help4.x:Modules/de"),
+  Modulmanager,
   indem man zu **Dashboard → Site → Module** geht. Klickt auf **Neu**
   und dann auf **Navigation – Menü**. Einen Titel eingeben und das Menü
   bei den Parametern des Modules auswählen.
@@ -90,11 +90,3 @@ Werkzeugleiste im oberen Bereich. Die Funktionen sind:
   nur alphanumerische Zeichen ohne Leerzeichen verwendet werden. Es
   empfiehlt sich, nur die Zeichen a-z, 0-9 und den Unterstrich (\_) zu
   verwenden.
-
-## Verwandte Informationen
-
-- [Menus](https://docs.joomla.org/Help4.x:Menus/de "Special:MyLanguage/Help4.x:Menus/de")
-- <a href="https://docs.joomla.org/Help4.x:Site_Control_Panel/de"
-  class="new"
-  title="Special:MyLanguage/Help4.x:Site Control Panel/de (page does not exist)">Control
-  Panel</a>

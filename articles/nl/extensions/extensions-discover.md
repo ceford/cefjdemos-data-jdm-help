@@ -96,8 +96,7 @@ bovenstaande Screenshot.
     aflopend volgorde.
 - **Te tonen aantal.** Toont het aantal items in een lijst. Selecteer
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#defaultlistlimit "Help4.x:Site Global Configuration/nl").
+  voor een site is '20' maar dit kan veranderd worden bij de
 
 **Filteropties**
 
@@ -146,59 +145,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   scherm te gebruiken om ze allemaal in één handeling te ontdekken. U
   kunt alle extensies daarna in één stap installeren door ze allemaal te
   selecteren en op de **Installeren** knop in de werkbalk te klikken.
-
-## Verwante informatie
-
-- Als u een component extensie installeert, zal het een plekje krijgen
-  als nieuw menu-item in het *Componenten* menu.
-- U kunt een menu-item toekennen aan een geïnstalleerde component
-  extensie in [Menu-Item
-  beheer](https://docs.joomla.org/Help4.x:Menus:_Items/nl "Help4.x:Menus: Items/nl")
-  door te klikken op de *Nieuw* werkbalk knop. De nieuwe component zal
-  getoond worden in de interne linklijst van menu-item types.
-- Als u een module extensie installeert, wordt het toegevoegd aan de
-  lijst met modules in
-  [Modulebeheer](https://docs.joomla.org/Help4.x:Modules/nl "Help4.x:Modules/nl"),
-  waar u hem kunt activeren/deactiveren. U kunt ook zijn parameters
-  aanpassen in het [Bewerk
-  module](https://docs.joomla.org/Help4.x:Extensions_Module_Manager_Edit/nl "Help4.x:Extensions Module Manager Edit/nl")
-  scherm.
-- Een geïnstalleerde plugin extensie wordt toegevoegd aan de lijst in
-  [Pluginbeheer](https://docs.joomla.org/Help4.x:Plugins/nl "Help4.x:Plugins/nl"),
-  waar u hem kunt activeren/deactiveren. U kunt ook zijn parameters
-  aanpassen in het [Bewerk
-  plugin](https://docs.joomla.org/Help4.x:Plugins:_Name_of_Plugin/nl "Help4.x:Plugins: Name of Plugin/nl")
-  scherm.
-- Een geïnstalleerde Template extensie zal worden toegevoegd aan de Site
-  od Administrator lijst van het
-  [Templatebeheer](https://docs.joomla.org/Help4.x:Templates:_Styles/nl "Help4.x:Templates: Styles/nl")
-  alwaar u het kunt toekennen aan alle pagina's of bepaalde pagina's. U
-  kunt ook de parameters aanpassen, de HTML bewerken of de CSS bron, of
-  de beschikbare module-posities bekijken.
-- Een geïnstalleerde taalextensie zal worden toegevoegd aan de Site of
-  Administrator lijst van
-  [Taalbeheer](https://docs.joomla.org/Help4.x:Languages:_Installed/nl "Help4.x:Languages: Installed/nl"),
-  afhankelijk van het client attribuut van de extensie. Dit scherm kan
-  het u, indien gewenst, laten koppelen als standaard taal.
-
-**Verwante schermen**
-
-- **Installeren.** Linkt naar het [Installatie
-  scherm](https://docs.joomla.org/Help4.x:Extensions:_Install/nl "Help4.x:Extensions: Install/nl").
-- **Update.** Linkt naar het [Update
-  scherm](https://docs.joomla.org/Help4.x:Extensions:_Update/nl "Help4.x:Extensions: Update/nl").
-- **Beheren.** Linkt naar het [Beheren
-  scherm](https://docs.joomla.org/Help4.x:Extensions:_Manage/nl "Help4.x:Extensions: Manage/nl").
-- **Ontdekken.** Linkt naar het
-  <span class="mw-selflink selflink">Ontdekken scherm</span>.
-- **Database.** Linkt naar het [Database
-  scherm](https://docs.joomla.org/Help4.x:Information:_Database/nl "Help4.x:Information: Database/nl").
-- **Waarschuwingen.** Linkt naar het [Waarschuwingen
-  scherm](https://docs.joomla.org/Help4.x:Information:_Warnings/nl "Help4.x:Information: Warnings/nl").
-- **Installeer talen.** Linkt naar het [Installeer talen
-  scherm](https://docs.joomla.org/Help4.x:Extensions_Extension_Manager_Languages/nl "Help4.x:Extensions Extension Manager Languages/nl").
-- **Updatesites.** Linkt naar het <a
-  href="https://docs.joomla.org/index.php?title=Help4.x:Extensions_Extension_Manager_Update_Sites/nl&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Help4.x:Extensions Extension Manager Update Sites/nl (page does not exist)">Updatesites
-  scherm</a>.

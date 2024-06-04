@@ -24,8 +24,8 @@ alt="global configuration screen" />
 
 ### Site
 
-[Complete
-screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/en "Help4.x:Site Global Configuration Site/en")
+Complete
+screenshot.
 
 #### Site
 
@@ -95,8 +95,8 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/en "
     class="external text" target="_blank"
     rel="nofollow noreferrer noopener">Learn more.</a>
   - IIS: Rename 'web.config.txt' to 'web.config'
-  - NginX: you must [configure your
-    server](https://docs.joomla.org/Nginx/en "Nginx/en")
+  - NginX: you must configure your
+    server
   - Other servers or if unsure: please consult your hosting company
 - **Add Suffix to URL**. If yes, the system will add a suffix to the URL
   based on the document type.
@@ -113,8 +113,8 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/en "
 
 ### System
 
-[Complete
-screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_System/en "Help4.x:Site Global Configuration System/en")
+Complete
+screenshot.
 
 #### Debug
 
@@ -190,8 +190,8 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_System/en
 
 ### Server
 
-[Complete
-screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Server/en "Help4.x:Site Global Configuration Server/en")
+Complete
+screenshot.
 
 #### Server
 
@@ -318,8 +318,8 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Server/en
 
 ### Logging
 
-[Complete
-screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Logging/en "Help4.x:Site Global Configuration Logging/en")
+Complete
+screenshot.
 
 #### Logging
 
@@ -345,8 +345,8 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Logging/e
 
 ### Text Filters
 
-[Complete
-screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Text_Filters/en "Help4.x:Site Global Configuration Text Filters/en")
+Complete
+screenshot.
 
 These text filter settings will be applied to all text editor fields
 submitted by users in the selected groups.
@@ -359,8 +359,8 @@ attacks.
 
 ### Permissions
 
-[Complete
-screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Permissions/en "Help4.x:Site Global Configuration Permissions/en")
+Complete
+screenshot.
 
 Manage the permission settings for user groups.
 

@@ -1,7 +1,7 @@
 <!-- Filename: Help4.x:Site_Global_Configuration_Server / Display title: Site Global Configuration Server -->
 
- **←**  [Global
-Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#server "Help4.x:Site Global Configuration/en")
+ **←**  Global
+Configuration
 
 <img
 src="https://docs.joomla.org/images/thumb/7/7d/Help-4x-Global-Configuration-server-subscreen-en.png/800px-Help-4x-Global-Configuration-server-subscreen-en.png"
@@ -45,5 +45,5 @@ srcset="https://docs.joomla.org/images/thumb/a/a8/Help-4x-Global-Configuration-s
 data-file-width="1882" data-file-height="1080" width="800" height="459"
 alt="Screenshot: Mail" />
 
- **←**  [Global
-Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#server "Help4.x:Site Global Configuration/en")
+ **←**  Global
+Configuration

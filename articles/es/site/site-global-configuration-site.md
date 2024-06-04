@@ -1,7 +1,7 @@
 <!-- Filename: Help4.x:Site_Global_Configuration_Site / Display title: Configuración global: Sitio -->
 
- **←**  [Configuración
-global](https://docs.joomla.org/Help4.x:Site_Global_Configuration/es#site "Help4.x:Site Global Configuration/es")
+ **←**  Configuración
+global
 
 <img
 src="https://docs.joomla.org/images/thumb/0/08/Help-4x-global-configuration-site-subscreen-es.png/800px-Help-4x-global-configuration-site-subscreen-es.png"
@@ -31,5 +31,5 @@ srcset="https://docs.joomla.org/images/thumb/5/59/Help-4x-global-configuration-c
 data-file-width="1566" data-file-height="356" width="800" height="182"
 alt="Captura de pantalla: &#39;Cookies&#39;" />
 
- **←**  [Configuración
-global](https://docs.joomla.org/Help4.x:Site_Global_Configuration/es#site "Help4.x:Site Global Configuration/es")
+ **←**  Configuración
+global

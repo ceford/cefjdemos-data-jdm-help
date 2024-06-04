@@ -14,10 +14,10 @@ categoria para banners **antes** que um banner possa ser criado.
 
 - Selecione **Componentes → Banners → Banners** no menu
   administrativo.
-- Ou selecione um botão numerado na [Gerenciador das categorias para
-  banners](https://docs.joomla.org/Help4.x:Banners:_Categories/pt-br "Help4.x:Banners: Categories/pt-br")
-  or the [Gerenciador dos clientes dos
-  banners](https://docs.joomla.org/Help4.x:Banners:_Clients/pt-br "Help4.x:Banners: Clients/pt-br")
+- Ou selecione um botão numerado na Gerenciador das categorias para
+  banners
+  or the Gerenciador dos clientes dos
+  banners
   páginas.
 
 ## Captura da tela
@@ -97,7 +97,7 @@ começarão a ser mostrados automaticamente.*
 ## Filtros da lista
 
 **Barra de pesquisa**: Perto do topo da página, você verá a barra de
-pesquisa mostrada na [captura de tela](#screenshot) acima.
+pesquisa mostrada na captura de tela acima.
 
 - **Pesquisar por texto**: Insira parte do termo de pesquisa e clique no
   ícone "Pesquisar". *Passe o mouse* para ver uma *dica* indicando quais
@@ -114,8 +114,7 @@ pesquisa mostrada na [captura de tela](#screenshot) acima.
     ordem crescente e decrescente.
 - **Número a ser exibido**: Mostra o número de itens em uma lista.
   Selecione na lista suspensa para alterar o número exibido.O padrão
-  para um site é '20', mas isso pode ser alterado nas [Configurações
-  Globais](https://docs.joomla.org/Help4.x:Site_Global_Configuration/pt-br#defaultlistlimit "Help4.x:Site Global Configuration/pt-br").
+  para um site é '20', mas isso pode ser alterado nas
 
 **Opções do filtro**
 
@@ -137,7 +136,7 @@ captura de tela acima. As funções são:
 
 **Controles da página**: Quando o número de itens for mais que uma
 página, você verá uma barra de controle na página perto da parte
-inferior da página mostrada na [captura de tela](#screenshot) acima. O
+inferior da página mostrada na captura de tela acima. O
 número da página atual que está sendo visualizada tem um fundo de cor
 escura.
 
@@ -185,36 +184,14 @@ de tela](#Captura_de_tela) acima. As funções são:
   parâmetros padrões, podem ser editadas.
 - **Ajuda**: Abre a tela de ajuda.
 
-Consulte [Opções do gerenciador dos
-banners](https://docs.joomla.org/Help4.x:Banners:_Options/pt-br "Help4.x:Banners: Options/pt-br")
+Consulte Opções do gerenciador dos
+banners
 para mais informações.
 
 ## Dicas rápidas
 
-- Você deve adicionar pelo menos um [cliente dos
-  banners](https://docs.joomla.org/Help4.x:Banners:_Clients/pt-br "Help4.x:Banners: Clients/pt-br")
-  e [categoria para
-  banners](https://docs.joomla.org/Help4.x:Banners:_Categories/pt-br "Help4.x:Banners: Categories/pt-br")
-  *antes* que você possa [adicionar um
-  banner](https://docs.joomla.org/Help4.x:Banners:_Edit/pt-br "Help4.x:Banners: Edit/pt-br").
-
-## Informações relacionadas
-
-|                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                              |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Telas de ajuda relacionadas                                                                                                                                      | Descrição                                                                                                                                                                                                                                                                                                                                                                                    |
-| [Banners: Editar](https://docs.joomla.org/Help4.x:Banners:_Edit/pt-br "Help4.x:Banners: Edit/pt-br")                                                             | Usado para adicionar ou editar banners que podem ser mostrados em seu website Joomla!. Lembre-se de criar pelo menos um <a
-                                                                                                                                                                    href="https://docs.joomla.org/index.php?title=Help4.x:Components_Banners_Clients/pt-br&amp;action=edit&amp;redlink=1"
-                                                                                                                                                                    class="new"
-                                                                                                                                                                    title="Help4.x:Components Banners Clients/pt-br (page does not exist)">cliente
-                                                                                                                                                                    dos banners</a> e uma<a
-                                                                                                                                                                    href="https://docs.joomla.org/index.php?title=Help4.x:Components_Banners_Categories/pt-br&amp;action=edit&amp;redlink=1"
-                                                                                                                                                                    class="new"
-                                                                                                                                                                    title="Help4.x:Components Banners Categories/pt-br (page does not exist)">categoria
-                                                                                                                                                                    para banners</a> antes de criar quaisquer banners.                                                                                                                                                                                                                                                                                                                                            |
-| [Banners: Opções](https://docs.joomla.org/Help4.x:Banners:_Options/pt-br "Help4.x:Banners: Options/pt-br")                                                       | Opções globais (configurações) para clientes dos banners.                                                                                                                                                                                                                                                                                                                                    |
-| [Banners: Categorias](https://docs.joomla.org/Help4.x:Banners:_Categories/pt-br "Help4.x:Banners: Categories/pt-br")                                             | Usado para visualizar uma lista contendo as categorias para banners existentes, editar categorias para banners atuais e criar novas. Observe que as categorias para banners são separadas das outras categorias, como artigos, contatos, feeds para notícias e links da web. Deve haver pelo menos um cliente dos banners e uma categoria para banners antes que um banner possa ser criado. |
-| [Banners: Nova categoria ou editar categoria](https://docs.joomla.org/Help4.x:Banners:_New_or_Edit_Category/pt-br "Help4.x:Banners: New or Edit Category/pt-br") | É aqui que você pode adicionar uma nova categoria para banners ou editar uma já existente. Observe que você precisa criar pelo menos uma categoria para banners antes de criar um banner. Além disso, as categorias para banners são separadas dos outros tipos de categorias, como artigos, contatos e feeds para notícias.                                                                 |
-| [Banners: Clientes](https://docs.joomla.org/Help4.x:Banners:_Clients/pt-br "Help4.x:Banners: Clients/pt-br")                                                     | O gerenciador dos clientes dos banners é onde você pode editar os clientes dos banners existentes ou criar novos. Observe que você deve ter pelo menos um cliente dos banners e uma categoria para banners definidos antes de poder adicionar seu primeiro banner.                                                                                                                           |
-| [Banners: Novo cliente ou editar cliente](https://docs.joomla.org/Help4.x:Banners:_New_or_Edit_Client/pt-br "Help4.x:Banners: New or Edit Client/pt-br")         | É aqui que você adiciona um novo cliente dod banners ou edita um existente. Observe que você precisa criar pelo menos um cliente dos banner antes de criar um banner.                                                                                                                                                                                                                        |
-| [Banners: Monitoramentos](https://docs.joomla.org/Help4.x:Banners:_Tracks/pt-br "Help4.x:Banners: Tracks/pt-br")                                                 | Usado para visualizar uma lista contendo as informações dos monitoramentos dos banners existentes.                                                                                                                                                                                                                                                                                           |
+- Você deve adicionar pelo menos um cliente dos
+  banners
+  e categoria para
+  banners
+  *antes* que você possa

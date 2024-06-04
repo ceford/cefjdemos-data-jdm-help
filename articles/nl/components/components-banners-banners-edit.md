@@ -49,8 +49,8 @@ alt="Components Banners Banners Edit screen" />
 - **Alias**. De interne naam van het item. Normaliter, kunt u dit leeg
   laten en Joomla zal de standaardwaarde invullen. De standaard waarde
   is de titel of naam in kleine letters en streepjes in plaats van
-  spaties. [Meer
-  leren.](https://docs.joomla.org/Alias/nl "Special:MyLanguage/Alias/nl")
+  spaties. Meer
+  leren.
 
 ### Gegevens (zijbalk)
 
@@ -83,7 +83,7 @@ alt="Components Banners Banners Edit screen" />
       'Naam' waarden in uw aangepaste code in te voegen. Bijvoorbeeld:
       [![`{NAME}`](voer%20URL%20naar%20afbeelding%20in "{NAME}")](%7BCLICKURL%7D).
       Een andere optie is eigen HTML code in te voeren. Bijvoorbeeld:
-      [![](patnaaruwafbeelding)](https://uwdomein.com)
+      ![](patnaaruwafbeelding)
 - **Klik URL**. De URL waar naartoe genavigeerd moet worden als de
   gebruiker op de advertentie klikt.
 - **Description**. Enter a description for the Banner.
@@ -106,7 +106,7 @@ klevende advertenties automatisch getoond.*
 - **Taal**. Item taal.
 - **Notitie versie**. Optioneel veld om deze versie van dit item te
   identificeren in het
-  [versiegeschiedenis](https://docs.joomla.org/Help40:Components_Version_History/nl "Special:MyLanguage/Help40:Components Version History/nl")
+  versiegeschiedenis
   venster.
 
 ### Bannergegevens tabblad
@@ -200,12 +200,12 @@ het 'pop-up' scherm en selecteer een datum uit de kalender.
       u:
       - Voeg de trefwoorden "hond" en "kat" toe aan de juiste Artikelen.
       - Voeg de Tags "hond" en "kat" toe aan de juiste advertenties op
-        het [Advertentiebeheer
-        Nieuw/Bewerk](https://docs.joomla.org/Help40:Banners:_Edit/nl "Special:MyLanguage/Help40:Banners: Edit/nl")
+        het Advertentiebeheer
+        Nieuw/Bewerk
         scherm.
       - Stel de Advertentiemodule parameter 'Zoek op Tags' in op 'Ja' in
-        het [Advertentiemodule
-        bewerk](https://docs.joomla.org/Help40:Site_Modules:_Banners/nl "Special:MyLanguage/Help40:Site Modules: Banners/nl")
+        het Advertentiemodule
+        bewerk
         scherm.
   3.  Alleen voor artikelen, in combinatie met de [Gerelateerde
       artikelen
@@ -242,8 +242,8 @@ De functies zijn.
   aangemaakt.
 - **Versies**. Opent het item versie geschiedenis scherm om eerdere
   versies van dit item te tonen. Dit stelt u in staat oudere versies van
-  het item te bekijken en een oudere versie te herstellen. Zie [Versie
-  historie](https://docs.joomla.org/Help40:Components_Version_History/nl "Special:MyLanguage/Help40:Components Version History/nl")
+  het item te bekijken en een oudere versie te herstellen. Zie Versie
+  historie
   voor meer informatie.
 - **Help**. Opent dit helpscherm.
 
@@ -267,54 +267,3 @@ De functies zijn.
 Met deze instelling tonen de verschillende advertenties van die
 adverteerder en die categorie zich in willekeurige volgorde op de
 geselecteerde pagina's.
-
-## Verwante informatie
-
-**Meer componenten - Advertentie hulp:**
-
-|                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                        |
-|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Verwante helpschermen                                                                    | Beschrijving                                                                                                                                                                                                                                                                                                                                                                                           |
-| <a href="https://docs.joomla.org/Help4.x:Components_Banners_Banners/nl"
- class="mw-redirect"
- title="Help4.x:Components Banners Banners/nl">Componenten -
- Advertenties</a>                                                                          | Wordt gebruikt om een lijst met bestaande advertenties te bekijken, te bewerken en nieuwe aan te maken. Er moet minstens één adverteerder en advertentiecategorie zijn **voor** een advertentie kan worden aangemaakt.                                                                                                                                                                                 |
-| <a
- href="https://docs.joomla.org/Help4.x:Components_Banner_Manager_Options/nl"
- class="mw-redirect"
- title="Help4.x:Components Banner Manager Options/nl">Componenten -
- Advertenties - beheer opties</a> \|\| Algemene opties (instellingen) voor adverteerders.  |                                                                                                                                                                                                                                                                                                                                                                                                        |
-| <a
- href="https://docs.joomla.org/Help4.x:Components_Banners_Categories/nl"
- class="mw-redirect"
- title="Help4.x:Components Banners Categories/nl">Componenten -
- Advertenties - Categorieën</a>                                                            | Wordt gebruikt om een lijst met bestaande advertentie-categorieën te bekijken, bestaande te bewerken en nieuwe advertentie-categorieën aan te maken. Let op dat advertentie-categorieën los staan van andere categorieën, zoals artikelen, contactpersonen, nieuwsfeeds en weblinks. Er moet minimaal één adverteerder en advertentie-categorie zijn voordat er een advertentie aangemaakt kan worden. |
-| <a
- href="https://docs.joomla.org/Help4.x:Components_Banners_Categories_Edit/nl"
- class="mw-redirect"
- title="Help4.x:Components Banners Categories Edit/nl">Componenten -
- Advertenties - Categorieën bewerken</a>                                                   | Hier kunt u een nieuwe advertentie-categorie toevoegen of een bestaande bewerken. Let op dat u minstens één advertentie-categorie moet aanmaken voordat u een advertentie kunt aanmaken. Advertentie-categorieën staan los van andere types categorieën, zoals die voor artikelen, contactpersonen en nieuwsfeeds.                                                                                     |
-| <a href="https://docs.joomla.org/Help4.x:Components_Banners_Clients/nl"
- class="mw-redirect"
- title="Help4.x:Components Banners Clients/nl">Componenten -
- Adverteerders</a>                                                                         | Adverteerdersbeheer is de plaats waar u een bestaande adverteerder kunt bewerken of een nieuwe kunt aanmaken. Let op dat u minstens één adverteerder en één advertentie-categorie moet hebben voordat u uw eerste advertentie kunt toevoegen.                                                                                                                                                          |
-| <a
- href="https://docs.joomla.org/Help4.x:Components_Banners_Clients_Edit/nl"
- class="mw-redirect"
- title="Help4.x:Components Banners Clients Edit/nl">Componenten -
- Advertenties - Adverteerders bewerken</a>                                                 | Hier voegt u een nieuwe adverteerder toe of bewerkt u een bestaande. Let op dat u minstens één adverteerder moet aanmaken voordat u een advertentie kunt aanmaken.                                                                                                                                                                                                                                     |
-| <a href="https://docs.joomla.org/Help4.x:Components_Banners_Tracks/nl"
- class="mw-redirect"
- title="Help4.x:Components Banners Tracks/nl">Componenten - Advertenties
- volgen</a>                                                                                | Wordt gebruikt om een bestaande lijst met volg-informatie te bekijken.                                                                                                                                                                                                                                                                                                                                 |
-
-**Om advertenties op een pagina te plaatsen:**
-
-|                                                                                                                           |                                                                       |
-|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
-| Verwante helpschermen                                                                                                     | Beschrijving                                                          |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Extensions_Module_Manager_Banners/nl&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Extensions Module Manager Banners/nl (page does not exist)">Extensies
- - Modulebeheer - Advertenties</a>                                                                                          | De advertentie-module toont de actieve advertenties uit de component. |

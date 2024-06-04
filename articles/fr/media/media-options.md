@@ -102,7 +102,7 @@ To change the permissions for media, do the following.
 ## Barre d'outils
 
 En haut de la page, vous verrez la barre d'outils présentée dans la
-[capture d'écran](#screenshot) ci-dessus.
+capture d'écran ci-dessus.
 
 - **Enregistrer**. Enregistre les paramètres et reste sur l'écran
   actuel.
@@ -119,10 +119,3 @@ En haut de la page, vous verrez la barre d'outils présentée dans la
   des paramètres globaux.
 - If you are an advanced user, you can save time by creating good
   default values here.
-
-## Informations connexes
-
-- Related Help screen:
-  Media.
-- Tutorial: [Managing
-  Media](https://docs.joomla.org/J4.x:Managing_Media/en "J4.x:Managing Media/en").

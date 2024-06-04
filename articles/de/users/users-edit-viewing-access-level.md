@@ -68,12 +68,3 @@ Werkzeugleiste im oberen Bereich. Die Funktionen sind:
 
 - Beim Erstellen einer Gruppe muss man möglicherweise jede Zugriffsebene
   bearbeiten, für die diese Gruppe Zugriff haben soll.
-
-## Verwandte Informationen
-
-- [Benutzer: Zugriffsebenen
-  anzeigen](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/de "Help4.x:Users: Viewing Access Levels/de")
-- [Benutzer:
-  Gruppen](https://docs.joomla.org/Help4.x:Users:_Groups/de "Help4.x:Users: Groups/de")
-- [Tutorial zur Zugriffssteuerungsliste
-  (ACL)](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/de "J3.x:Access Control List Tutorial/de")

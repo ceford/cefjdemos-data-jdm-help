@@ -69,8 +69,8 @@ Contact, Field, Media, Menu, or Module.
     Frontend of the site. It may be visible to logged in users who have
     edit state permission for the article.
   - Arquivado: Article will no longer show on menu items
-    or [Category
-    List.](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/en "Help4.x:Menu Item: Category List/en")
+    or Category
+    List.
   - Na reciclagem: Article is deleted from the site but still in the
     database.
 - **Categoria**. Select the Category for this article.

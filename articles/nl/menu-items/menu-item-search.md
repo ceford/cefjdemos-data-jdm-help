@@ -42,8 +42,8 @@ alt="Menus Menu Item Finder Search screen" />
 - **Alias**. De interne naam van het item. Normaliter, kunt u dit leeg
   laten en Joomla zal de standaardwaarde invullen. De standaard waarde
   is de titel of naam in kleine letters en streepjes in plaats van
-  spaties. [Meer
-  leren.](https://docs.joomla.org/Alias/nl "Special:MyLanguage/Alias/nl")
+  spaties. Meer
+  leren.
 
 ### Details tabblad
 
@@ -57,8 +57,8 @@ alt="Menus Menu Item Finder Search screen" />
 - **Zoekfilters**. Selecteer van de lijst van in het uitklapmenu om de
   zoekresultaten te beperken tot het geselecteerde filter.
 
-*NB: Filters moeten gemaakt worden door middel van [Slim zoeken
-filters](https://docs.joomla.org/Help4.x:Smart_Search:_Search_Filters/nl "Help4.x:Smart Search: Search Filters/nl")
+*NB: Filters moeten gemaakt worden door middel van Slim zoeken
+filters
 voordat zij zijn toegevoegd aan deze uitklaplijst.*
 
 - **Link**. De door het systeem gegenereerde link voor dit menu-item.
@@ -106,13 +106,13 @@ voordat zij zijn toegevoegd aan deze uitklaplijst.*
   pagina van de website. Er mag exact één menu-item ingesteld zijn als
   standaard pagina. U kunt de standaard pagina op twee manieren
   wijzigen:
-  1.  Klik op de Home kolom van het gewenste menu-item op het [Menu's:
-      Items](https://docs.joomla.org/Help4.x:Menus:_Items/nl "Special:MyLanguage/Help4.x:Menus: Items/nl")
+  1.  Klik op de Home kolom van het gewenste menu-item op het Menu's:
+      Items
       scherm.
   2.  Open het menu-item voor de nieuwe standaard pagina en wijzig de
       Standaard pagina instellingen op Ja.
 - **Toegang**. Het
-  [Toegangsniveau](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/nl "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/nl")
+  Toegangsniveau
   om het item te bekijken.
 - **Taal**. Item taal.
 - **Notitie**. Dit wordt normaal gesproken door de beheerder gebruikt
@@ -241,8 +241,8 @@ alt="Menus Menu Item Finder Search integration options screen" />
 
 ### Algemene opties
 
-Zie [Menu's: Bewerken/Nieuw
-item](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl "Help4.x:Menu Item: New Item/nl")
+Zie Menu's: Bewerken/Nieuw
+item
 voor hulp over velden die algemeen zijn in alle menu-itemtypes de
 volgende tabbladen:
 
@@ -278,8 +278,8 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 |                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                        |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Verwante helpschermen                                                                                                                                    | Beschrijving                                                                                                                                                                                                                                                                                                           |
-| [Slim zoeken: Zoekfilters](https://docs.joomla.org/Help4.x:Smart_Search:_Search_Filters/nl "Help4.x:Smart Search: Search Filters/nl")                    | Dit scherm toont de statische zoekfilters die momenteel beschikbaar zijn voor gebruik in slim zoeken.                                                                                                                                                                                                                  |
-| [Slim zoeken: Nieuw of bewerk filter](https://docs.joomla.org/Help4.x:Smart_Search:_New_or_Edit_Filter/nl "Help4.x:Smart Search: New or Edit Filter/nl") | Dit scherm geeft de mogelijkheid een nieuw zoekfilter te maken of een bestaande aan te passen.                                                                                                                                                                                                                         |
+| Slim zoeken: Zoekfilters                    | Dit scherm toont de statische zoekfilters die momenteel beschikbaar zijn voor gebruik in slim zoeken.                                                                                                                                                                                                                  |
+| Slim zoeken: Nieuw of bewerk filter | Dit scherm geeft de mogelijkheid een nieuw zoekfilter te maken of een bestaande aan te passen.                                                                                                                                                                                                                         |
 | <a
  href="https://docs.joomla.org/index.php?title=Help4.x:Components_Search/nl&amp;action=edit&amp;redlink=1"
  class="new"
@@ -290,7 +290,7 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
  class="new"
  title="Help4.x:Components Search Manager Options/nl (page does not exist)">Componenten
  - Zoeken - Opties</a>                                                                                                                                     | Details van componentopties en rechten instellen                                                                                                                                                                                                                                                                       |
-| [Site-modules: Slimzoeken](https://docs.joomla.org/Help4.x:Site_Modules:_Smart_Search/nl "Help4.x:Site Modules: Smart Search/nl")                        | Slimzoeken is en uitgebreide zoekopdracht op de site.                                                                                                                                                                                                                                                                  |
+| Site-modules: Slimzoeken                        | Slimzoeken is en uitgebreide zoekopdracht op de site.                                                                                                                                                                                                                                                                  |
 | <a
  href="https://docs.joomla.org/index.php?title=Help4.x:Menus_Menu_Item_Search_Results/nl&amp;action=edit&amp;redlink=1"
  class="new"

@@ -23,8 +23,8 @@ alt="global configuration screen" />
 
 ### Cайт
 
-[Complete
-screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/en "Help4.x:Site Global Configuration Site/en")
+Complete
+screenshot.
 
 #### Параметры сайта
 
@@ -94,7 +94,7 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/en "
     rel="nofollow noreferrer noopener">Learn more.</a>
   - IIS: переименуйте файл 'web.config.txt' в 'web.config'
   - NginX: настройте сервер согласно
-    [инструкции](https://docs.joomla.org/Nginx/ru "Nginx/ru")
+    инструкции
   - Other servers or if unsure: please consult your hosting company
 - **Add Suffix to URL**. If yes, the system will add a suffix to the URL
   based on the document type.
@@ -111,8 +111,8 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/en "
 
 ### Система
 
-[Complete
-screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_System/en "Help4.x:Site Global Configuration System/en")
+Complete
+screenshot.
 
 #### Параметры отладки
 
@@ -188,8 +188,8 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_System/en
 
 ### Сервер
 
-[Complete
-screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Server/en "Help4.x:Site Global Configuration Server/en")
+Complete
+screenshot.
 
 #### Параметры Сервер
 
@@ -316,8 +316,8 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Server/en
 
 ### Логирование
 
-[Complete
-screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Logging/en "Help4.x:Site Global Configuration Logging/en")
+Complete
+screenshot.
 
 #### Параметры логирования
 
@@ -342,8 +342,8 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Logging/e
 
 ### Фильтры текста
 
-[Complete
-screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Text_Filters/en "Help4.x:Site Global Configuration Text Filters/en")
+Complete
+screenshot.
 
 Параметры фильтров применяются ко всем полям текстового редактора для
 выбранных групп пользователей.
@@ -356,8 +356,8 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Text_Filt
 
 ### Права доступа
 
-[Complete
-screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Permissions/en "Help4.x:Site Global Configuration Permissions/en")
+Complete
+screenshot.
 
 Manage the permission settings for user groups.
 
@@ -421,13 +421,3 @@ Screenshot above.
 - The settings are saved in '\[Joomla\]/configuration.php'. You have to
   either activate the FTP-layer or make the 'configuration.php' file
   writable to save your changes.
-
-## Связанная информация
-
-- [Joomla! Основы резервного
-  копирования](https://docs.joomla.org/Backup_Basics_for_a_Joomla!_Web_Site/ru "Backup Basics for a Joomla! Web Site/ru")
-- [Контрольный список по
-  безопасности](https://docs.joomla.org/Security_Checklist/ru "Security Checklist/ru")
-- <img src="https://docs.joomla.org/images/4/49/Compat_icon_3_x_long.png"
-  decoding="async" data-file-width="75" data-file-height="16" width="75"
-  height="16" alt="Joomla 3.x" />

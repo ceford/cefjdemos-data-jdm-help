@@ -4,7 +4,7 @@
 
 De Menu's: Menu-items pagina bevat een lijst met menu-items in een menu
 aangemaakt via
-[Menubeheer](https://docs.joomla.org/Help4.x:Menus/nl "Help4.x:Menus/nl").
+Menubeheer.
 De titel regel toon de naam van het geselecteerde menu of *Alle
 Menu-items* als die lijst is geselecteerd.
 
@@ -45,7 +45,7 @@ alt="menus menu manager menu items" />
   startpagina is. Wanneer er op een "lege" stericoon geklikt wordt zal
   dit menu-item als nieuwe startpagina instellen.
 - **Toegang**. Het
-  [Toegangsniveau](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/nl "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/nl")
+  Toegangsniveau
   om het item te bekijken.
 - **Associatie:** Toont aan welk menu-item dit item geassocieerd is.
 - **Taal**. Item taal.
@@ -186,7 +186,3 @@ waarden. Merk op dat dit *niet* de aangevinkte items uitvinkt.
 - Selecteer een item en klik op de *Standaard* knop om uw startpagina in
   te stellen.
 - Stel andere filter opties in om alleen enkele menu-items te tonen.
-
-## Verwante informatie
-
-- [Menubeheer](https://docs.joomla.org/Help4.x:Menus/nl "Help4.x:Menus/nl")

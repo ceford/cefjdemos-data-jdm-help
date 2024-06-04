@@ -1,7 +1,7 @@
 <!-- Filename: Help4.x:Site_Global_Configuration_System / Display title: Configuration globale : Système -->
 
- **←**  [Configuration
-globale](https://docs.joomla.org/Help4.x:Site_Global_Configuration/fr#system "Help4.x:Site Global Configuration/fr")
+ **←**  Configuration
+globale
 
 <img
 src="https://docs.joomla.org/images/thumb/7/75/Help-4x-Global-Configuration-system-debug-subscreen-fr.png/800px-Help-4x-Global-Configuration-system-debug-subscreen-fr.png"
@@ -24,5 +24,5 @@ srcset="https://docs.joomla.org/images/thumb/6/6d/Help-4x-Global-Configuration-s
 data-file-width="1566" data-file-height="589" width="800" height="301"
 alt="Capture d&#39;écran : Session" />
 
- **←**  [Configuration
-globale](https://docs.joomla.org/Help4.x:Site_Global_Configuration/fr#system "Help4.x:Site Global Configuration/fr")
+ **←**  Configuration
+globale

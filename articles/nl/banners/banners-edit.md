@@ -4,16 +4,16 @@
 
 Wordt gebruikt om een advertentie toe te voegen of te bewerken, welke
 getoond kan worden op uw Joomla! website. Denk er aan minstens één
-[Adverteerder](https://docs.joomla.org/Help4.x:Banners:_Clients/nl "Help4.x:Banners: Clients/nl")
-en één [Advertentie
-categorie](https://docs.joomla.org/Help4.x:Banners:_Categories/nl "Help4.x:Banners: Categories/nl")
+Adverteerder
+en één Advertentie
+categorie
 voordat u een advertentie kan aanmaken
 
 ## Hoe toegang te krijgen
 
 Navigeer, om een nieuwe advertentie '**toe te voegen'** of te
 '**bewerken'**, naar
-[Advertentiebeheer](https://docs.joomla.org/Help4.x:Banners/nl "Help4.x:Banners/nl"):
+Advertentiebeheer:
 
 - Selecteer **Componenten → Advertenties → Nieuw** om een nieuwe
   advertentie aan te maken.
@@ -38,12 +38,12 @@ alt="Components Banners Banners Edit screen" />
 
 - **Naam.** De naam van de advertentie. Dit is de naam die getoond wordt
   in de *Naam* kolom in
-  [Advertentiebeheer](https://docs.joomla.org/Help4.x:Banners/nl "Help4.x:Banners/nl").
+  Advertentiebeheer.
 - **Alias**. De interne naam van het item. Normaliter, kunt u dit leeg
   laten en Joomla zal de standaardwaarde invullen. De standaard waarde
   is de titel of naam in kleine letters en streepjes in plaats van
-  spaties. [Meer
-  leren.](https://docs.joomla.org/Alias/nl "Special:MyLanguage/Alias/nl")
+  spaties. Meer
+  leren.
 
 ### Gegevens (zijbalk)
 
@@ -75,7 +75,7 @@ alt="Components Banners Banners Edit screen" />
       'Naam' waarden in uw aangepaste code in te voegen. Bijvoorbeeld:
       [![`{NAME}`](voer%20URL%20naar%20afbeelding%20in "{NAME}")](%7BCLICKURL%7D).
       Een andere optie is eigen HTML code in te voeren. Bijvoorbeeld:
-      [![](patnaaruwafbeelding)](https://uwdomein.com)
+      ![](patnaaruwafbeelding)
 - **Klik URL**. De URL waar naartoe genavigeerd moet worden als de
   gebruiker op de advertentie klikt.
 - **Description**. Enter a description for the Banner.
@@ -98,7 +98,7 @@ klevende advertenties automatisch getoond.*
 - **Taal**. Item taal.
 - **Notitie versie**. Optioneel veld om deze versie van dit item te
   identificeren in het
-  [versiegeschiedenis](https://docs.joomla.org/Help40:Components_Version_History/nl "Special:MyLanguage/Help40:Components Version History/nl")
+  versiegeschiedenis
   venster.
 
 ### Bannergegevens tabblad
@@ -192,12 +192,12 @@ het 'pop-up' scherm en selecteer een datum uit de kalender.
       u:
       - Voeg de trefwoorden "hond" en "kat" toe aan de juiste Artikelen.
       - Voeg de Tags "hond" en "kat" toe aan de juiste advertenties op
-        het [Advertentiebeheer
-        Nieuw/Bewerk](https://docs.joomla.org/Help40:Banners:_Edit/nl "Special:MyLanguage/Help40:Banners: Edit/nl")
+        het Advertentiebeheer
+        Nieuw/Bewerk
         scherm.
       - Stel de Advertentiemodule parameter 'Zoek op Tags' in op 'Ja' in
-        het [Advertentiemodule
-        bewerk](https://docs.joomla.org/Help40:Site_Modules:_Banners/nl "Special:MyLanguage/Help40:Site Modules: Banners/nl")
+        het Advertentiemodule
+        bewerk
         scherm.
   3.  Alleen voor artikelen, in combinatie met de [Gerelateerde
       artikelen
@@ -234,8 +234,8 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   aangemaakt.
 - **Versies**. Opent het item versie geschiedenis scherm om eerdere
   versies van dit item te tonen. Dit stelt u in staat oudere versies van
-  het item te bekijken en een oudere versie te herstellen. Zie [Versie
-  historie](https://docs.joomla.org/Help40:Components_Version_History/nl "Special:MyLanguage/Help40:Components Version History/nl")
+  het item te bekijken en een oudere versie te herstellen. Zie Versie
+  historie
   voor meer informatie.
 - **Help**. Opent dit helpscherm.
 
@@ -243,7 +243,7 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 
 - Advertenties worden op een bepaalde pagina geplaatst door modules van
   het type 'Advertenties' toe te voegen via
-  [Modulebeheer](https://docs.joomla.org/Help4.x:Modules/nl "Help4.x:Modules/nl").
+  Modulebeheer.
 - Indien u een aantal advertenties heeft die u in een willekeurige
   volgorde wilt tonen op één of meer pagina's:
   1.  Maak de advertenties aan die u wilt opnemen, er voor zorgend dat
@@ -257,25 +257,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 Met deze instelling tonen de verschillende advertenties van die
 adverteerder en die categorie zich in willekeurige volgorde op de
 geselecteerde pagina's.
-
-## Verwante informatie
-
-**Meer componenten - Advertentie hulp:**
-
-|                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                        |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Verwante helpschermen                                                                                                                                         | Beschrijving                                                                                                                                                                                                                                                                                                                                                                                           |
-| [Advertenties](https://docs.joomla.org/Help4.x:Banners/nl "Help4.x:Banners/nl")                                                                               | Wordt gebruikt om een lijst met bestaande advertenties te bekijken, te bewerken en nieuwe aan te maken. Er moet minstens één adverteerder en advertentiecategorie zijn **voor** een advertentie kan worden aangemaakt.                                                                                                                                                                                 |
-| [Advertenties: Opties](https://docs.joomla.org/Help4.x:Banners:_Options/nl "Help4.x:Banners: Options/nl")                                                     | Algemene opties (instellingen) voor adverteerders.                                                                                                                                                                                                                                                                                                                                                     |
-| [Advertenties: Categorieën](https://docs.joomla.org/Help4.x:Banners:_Categories/nl "Help4.x:Banners: Categories/nl")                                          | Wordt gebruikt om een lijst met bestaande advertentie-categorieën te bekijken, bestaande te bewerken en nieuwe advertentie-categorieën aan te maken. Let op dat advertentie-categorieën los staan van andere categorieën, zoals artikelen, contactpersonen, nieuwsfeeds en weblinks. Er moet minimaal één adverteerder en advertentie-categorie zijn voordat er een advertentie aangemaakt kan worden. |
-| [Advertenties: Nieuwe of bewerken van categorie](https://docs.joomla.org/Help4.x:Banners:_New_or_Edit_Category/nl "Help4.x:Banners: New or Edit Category/nl") | Hier kunt u een nieuwe advertentie-categorie toevoegen of een bestaande bewerken. Let op dat u minstens één advertentie-categorie moet aanmaken voordat u een advertentie kunt aanmaken. Advertentie-categorieën staan los van andere types categorieën, zoals die voor artikelen, contactpersonen en nieuwsfeeds.                                                                                     |
-| [Advertenties: Adverteerders](https://docs.joomla.org/Help4.x:Banners:_Clients/nl "Help4.x:Banners: Clients/nl")                                              | Adverteerdersbeheer is de plaats waar u een bestaande adverteerder kunt bewerken of een nieuwe kunt aanmaken. Let op dat u minstens één adverteerder en één advertentie-categorie moet hebben voordat u uw eerste advertentie kunt toevoegen.                                                                                                                                                          |
-| [Advertenties: Nieuwe of bewerken van adverteerders](https://docs.joomla.org/Help4.x:Banners:_New_or_Edit_Client/nl "Help4.x:Banners: New or Edit Client/nl") | Hier voegt u een nieuwe adverteerder toe of bewerkt u een bestaande. Let op dat u minstens één adverteerder moet aanmaken voordat u een advertentie kunt aanmaken.                                                                                                                                                                                                                                     |
-| [Advertenties: Volgen](https://docs.joomla.org/Help4.x:Banners:_Tracks/nl "Help4.x:Banners: Tracks/nl")                                                       | Wordt gebruikt om een bestaande lijst met volg-informatie te bekijken.                                                                                                                                                                                                                                                                                                                                 |
-
-**Om advertenties op een pagina te plaatsen:**
-
-|                                                                                                                      |                                                                       |
-|----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
-| Verwante helpschermen                                                                                                | Beschrijving                                                          |
-| [Modules: Advertenties](https://docs.joomla.org/Help4.x:Site_Modules:_Banners/nl "Help4.x:Site Modules: Banners/nl") | De advertentie-module toont de actieve advertenties uit de component. |

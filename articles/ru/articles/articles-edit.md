@@ -69,8 +69,8 @@ Contact, Field, Media, Menu, or Module.
     Frontend of the site. It may be visible to logged in users who have
     edit state permission for the article.
   - В архиве: Article will no longer show on menu items
-    or [Category
-    List.](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/en "Help4.x:Menu Item: Category List/en")
+    or Category
+    List.
   - В корзине: Article is deleted from the site but still in the
     database.
 - **Категория**. Select the Category for this article.
@@ -431,25 +431,3 @@ Screenshot above.
   Front Page until the User selects the Read more link. At that time,
   the Article's table of contents would display showing links to every
   page.
-
-## Связанная информация
-
-- This
-  [Portal](https://docs.joomla.org/Portal:Joomla_4/en "Portal:Joomla 4/en")
-  brings together information related specifically to Joomla 4.
-
-|                                                                                                                                        |                                                                                                                                                                                             |
-|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Related Help Screens                                                                                                                   | Описание                                                                                                                                                                                    |
-| [Материалы: Настройки](https://docs.joomla.org/Help4.x:Articles:_Options/ru "Help4.x:Articles: Options/ru")                            | Used to set global defaults for menu items that display articles. These default values will be used when 'Use Global' is selected for an option in an Articles menu item.                   |
-| [Материалы](https://docs.joomla.org/Help4.x:Articles/ru "Help4.x:Articles/ru")                                                         | Список материалов используется для поиска, отметки избранных, добавления и редактирования материалов.                                                                                       |
-| <span class="mw-selflink selflink">Материалы: Создание материала</span>                                                                | This is where you can add and edit Articles. You can also select the Category for an Article and indicate whether or not it is Published and if it is selected to appear on the Front Page. |
-| [Материалы: Избранные материалы](https://docs.joomla.org/Help4.x:Articles:_Featured/ru "Help4.x:Articles: Featured/ru")                | Used to control which 'Featured Articles' are displayed on the Front Page and in what order they are displayed.                                                                             |
-| [Материалы: Категории](https://docs.joomla.org/Help4.x:Articles:_Categories/ru "Help4.x:Articles: Categories/ru")                      | The Articles Categories list is used to find, add, and edit articles categories.                                                                                                            |
-| [Меню: Материалы в архиве](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived/ru "Help4.x:Menu Item: Article Archived/ru")    | Shows a customised list of articles ordered by date or title. Archived articles are no longer published but are still stored on the site.                                                   |
-| [Меню: Блог категории](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/ru "Help4.x:Menu Item: Category Blog/ru")              | Used to show articles belonging to a specific Category in a blog layout. Controls the Leading Articles, Intro Articles and additional links to more Articles.                               |
-| [Меню: Материалы](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/ru "Help4.x:Menu Item: Category List/ru")                   | Used to show articles belonging to a specific Category in a list layout.                                                                                                                    |
-| [Меню: Создать материал](https://docs.joomla.org/Help4.x:Menu_Item:_Create_Article/ru "Help4.x:Menu Item: Create Article/ru")          | Allows users to submit an article. Normally this is available only to users who have logged in to the Frontend of the site. Users must have permission to create articles.                  |
-| [Меню: Избранные материалы](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/ru "Help4.x:Menu Item: Featured Articles/ru") | Used to show all Articles that have been tagged as Featured. Articles are shown in a Blog Layout.                                                                                           |
-| [Меню: Категории](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/ru "Help4.x:Menu Item: List All Categories/ru")       | Used to show a hierarchical list of Categories. Depending on the selected options for this layout, you can click on a category Title to show the articles in that category.                 |
-| [Меню: Материал](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article/ru "Help4.x:Menu Item: Single Article/ru")                  | Used to show one article.                                                                                                                                                                   |

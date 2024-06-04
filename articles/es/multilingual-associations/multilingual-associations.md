@@ -107,20 +107,7 @@ alt="Components Associations toolbar subscreen" />
 
 - An menu-item in English can be more easily translated into French with
   the original and translation side by side. And then select Persian to
-  translate from English to Persian too. [Aprende
-  más.](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Edit/es "Help4.x:Multilingual Associations: Edit/es")
+  translate from English to Persian too. Aprende
+  más.
 - This screen use menu-items as example. You will see all Item Types
   shown in the Screenshot above.
-
-## Información relacionada
-
-- Este
-  [portal](https://docs.joomla.org/Portal:Joomla_4/es "Portal:Joomla 4/es")
-  reúne información específica relativa a Joomla 4.
-
-|                                                                                                                                                             |                                                                                            |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Pantallas de ayuda relacionadas                                                                                                                             | Descripción                                                                                |
-| [Asociaciones multiidioma: Opciones](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Options/es "Help4.x:Multilingual Associations: Options/es") | Default permissions used for all content in the Multilingual Associations Component.       |
-| <span class="mw-selflink selflink">Asociaciones multiidioma</span>                                                                                          | This screen is used to set up an Association between an item and installed site languages. |
-| [Asociaciones multiidioma: Editar](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Edit/es "Help4.x:Multilingual Associations: Edit/es")         | Used to add or edit associations between languages displayed on a multilingual website.    |

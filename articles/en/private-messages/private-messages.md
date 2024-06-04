@@ -29,8 +29,8 @@ alt="Private Messages screenshot" />
   such as Mark As Read, Mark As Unread and Trash, can work with multiple
   items.
 - **Subject.** The subject line of the message. Click this to open the
-  message for viewing. This takes you to the [View
-  Message](https://docs.joomla.org/Help4.x:Private_Messages:_Read/en "Help4.x:Private Messages: Read/en")
+  message for viewing. This takes you to the View
+  Message
   screen where you view, reply to, or delete the message.
 - **Read.** A green tick indicates that the message has been read. A red
   donut indicates that it has not been read.

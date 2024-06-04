@@ -99,17 +99,3 @@ de tela](#Captura_de_tela) acima. As funções são:
 ## Dicas rápidas
 
 - Clique no assunto para editar as propriedades das nota de usuários.
-
-## Informações relacionadas
-
-- [Notas de usuários: Nova ou
-  editar](https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit/pt-br "Help4.x:User Notes: New or Edit/pt-br")
-- <a
-  href="https://docs.joomla.org/index.php?title=Help4.x:User_Notes:_New_or_Edit_Category/pt-br&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Help4.x:User Notes: New or Edit Category/pt-br (page does not exist)">Notas
-  de usuários: Categoria nova ou editar categoria</a>
-- [Notas de usuários:
-  Categorias](https://docs.joomla.org/Help4.x:User_Notes:_Categories/pt-br "Help4.x:User Notes: Categories/pt-br")
-- [Usuários:
-  Opções](https://docs.joomla.org/Help4.x:Users:_Options/pt-br "Help4.x:Users: Options/pt-br")

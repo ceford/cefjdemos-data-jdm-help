@@ -32,8 +32,8 @@ title="File:Help-4x-Components-Associations-pt-br.png">800px</a>
 - **Não associado**: Mostra as linguagens as quais este item dos menus
   não está associado.
 - **Menu**: Mostra a qual menu o item dos menus pertence.
-- **Acesso**: O [nível do
-  acesso](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/pt-br "Help4.x:Users: Viewing Access Levels/pt-br")
+- **Acesso**: O nível do
+  acesso
   para visualização relacionado a este item dos menus.
 - **ID**: Um número para identificação exclusivo para este item dos
   menus, você não pode alterar este número.
@@ -41,7 +41,7 @@ title="File:Help-4x-Components-Associations-pt-br.png">800px</a>
 ## Filtros da lista
 
 **Barra de pesquisa**: Perto do topo da página, você verá a barra de
-pesquisa mostrada na [captura de tela](#screenshot) acima.
+pesquisa mostrada na captura de tela acima.
 
 - **Pesquisar por texto**: Insira parte do termo de pesquisa e clique no
   ícone "Pesquisar". *Passe o mouse* para ver uma *dica* indicando quais
@@ -59,8 +59,7 @@ pesquisa mostrada na [captura de tela](#screenshot) acima.
 - **Número a ser exibido**: Mostra o número de itens dos menus em uma
   lista. Selecione na lista suspensa para alterar o número exibido.O
   padrão para um site é '20', mas isso pode ser alterado nas
-  [Configurações
-  Globais](https://docs.joomla.org/Help4.x:Site_Global_Configuration/pt-br#defaultlistlimit "Help4.x:Site Global Configuration/pt-br").
+
 
 ### Opções do filtro
 
@@ -81,7 +80,7 @@ da tela](#screenshot) acima.
 
 **Controles da página**: Quando o número de itens dos menus for mais que
 uma página, você verá uma barra de controle na página perto da parte
-inferior da página mostrada na [captura de tela](#screenshot) acima. O
+inferior da página mostrada na captura de tela acima. O
 número da página atual que está sendo visualizada tem um fundo de cor
 escura.
 
@@ -104,8 +103,7 @@ title="File:Help-4x-Components-Associations-toolbar-subscreen-pt-br.png">800px</
   associações. Após uma pergunta para confirmar, todas as associações
   serão excluídas.
 - **Excluir órfãos**: Permite excluir todos os órfãos.
-- **Opções**: Abre a tela da ajuda [Associações multilíngues:
-  Opções](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Options/pt-br "Help4.x:Multilingual Associations: Options/pt-br").
+- **Opções**: Abre a tela da ajuda
 - **Ajuda**: Abre esta tela de ajuda.
 
 ## Dicas rápidas
@@ -113,20 +111,7 @@ title="File:Help-4x-Components-Associations-toolbar-subscreen-pt-br.png">800px</
 - Um item dos menus em inglês pode ser traduzido mais facilmente para o
   francês com o original e a tradução lado a lado. E, em seguida, é
   possível selecionar ,por exemplo, persa para traduzir do inglês para o
-  persa também. [Aprender
-  mais.](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Edit/pt-br "Help4.x:Multilingual Associations: Edit/pt-br")
+  persa também. Aprender
+  mais.
 - Esta tela usa itens dos menus como exemplo. Você verá todos os tipos
-  de itens mostrados na [captura da tela](#screenshot) acima.
-
-## Informações relacionadas
-
-- Este
-  [portal](https://docs.joomla.org/Portal:Joomla_4/pt-br "Portal:Joomla 4/pt-br")
-  reúne informações relacionadas especificamente ao Joomla! 4.
-
-|                                                                                                                                                                 |                                                                                                     |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| Telas de ajuda relacionadas                                                                                                                                     | Descrição                                                                                           |
-| [Associações multilíngues: Opções](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Options/pt-br "Help4.x:Multilingual Associations: Options/pt-br") | Permissões padrões usadas para todo o conteúdo no componente para associações multilíngues.         |
-| <span class="mw-selflink selflink">Associações multilíngues</span>                                                                                              | Essa tela é usada para configurar uma associação entre um item e as linguagens instaladas do site.  |
-| [Associações multilíngues: Editar](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Edit/pt-br "Help4.x:Multilingual Associations: Edit/pt-br")       | Usado para adicionar ou editar as associações entre as linguagens mostradas em um site multilíngue. |
+  de itens mostrados na captura da tela acima.

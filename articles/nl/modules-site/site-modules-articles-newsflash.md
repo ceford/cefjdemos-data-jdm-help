@@ -103,8 +103,8 @@ alt="modules manager site module menu assignment tab" />
   schermafdruk hierboven is te zien. Dit geeft u de mogelijkheid om de
   menu-links te kiezen waarmee de module geassocieerd moet worden. U
   kunt hier kiezen op welke pagina's de module zichtbaar moet zijn. Zie
-  [Hoe kunt u een module toewijzen aan specifieke
-  pagina's?](https://docs.joomla.org/How_do_you_assign_a_module_to_specific_pages%3F/nl "How do you assign a module to specific pages?/nl")
+  Hoe kunt u een module toewijzen aan specifieke
+  pagina's?
   voor meer informatie.
 
 ### Geavanceerd tabblad

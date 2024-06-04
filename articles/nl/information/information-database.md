@@ -73,8 +73,7 @@ bovenstaande Screenshot.
     aflopend volgorde.
 - **Te tonen aantal.** Toont het aantal items in een lijst. Selecteer
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#defaultlistlimit "Special:MyLanguage/Help4.x:Site Global Configuration/nl").
+  voor een site is '20' maar dit kan veranderd worden bij de
 
 **Filteropties**
 
@@ -121,38 +120,7 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 
 - Gebruik, als u problemen ondervindt tijdens het een update, de
   Database controle om te zien of uw database juist geüpdatet is.
-- Er wordt zeer aangedrongen dat u de [Joomla!
-  update](https://docs.joomla.org/Help4.x:Joomla_Update/nl "Help4.x:Joomla Update/nl")
+- Er wordt zeer aangedrongen dat u de Joomla!
+  update
   component gebruikt om uw site te updaten. Op deze manier worden de
   database updates automatisch uitgevoerd.
-
-## Verwante informatie
-
-- U kunt controleren op beschikbare updates via de [Joomla!
-  update](https://docs.joomla.org/Help4.x:Joomla_Update/nl "Help4.x:Joomla Update/nl")
-  component of via het <a
-  href="https://docs.joomla.org/index.php?title=Help4.x:Site_Control_Panel/nl&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Help4.x:Site Control Panel/nl (page does not exist)">Controlepaneel</a>.
-
-**Links to Other Screens**
-
-- **Installeren.** Linkt naar het [Installatie
-  scherm](https://docs.joomla.org/Help4.x:Extensions:_Install/nl "Help4.x:Extensions: Install/nl").
-- **Update.** Linkt naar het [Update
-  scherm](https://docs.joomla.org/Help4.x:Extensions:_Update/nl "Help4.x:Extensions: Update/nl").
-- **Beheren.** Linkt naar het [Beheren
-  scherm](https://docs.joomla.org/Help4.x:Extensions:_Manage/nl "Help4.x:Extensions: Manage/nl").
-- **Ontdekken.** Linkt naar het [Ontdekken
-  scherm](https://docs.joomla.org/Help4.x:Extensions:_Discover/nl "Help4.x:Extensions: Discover/nl").
-- **Database.** Linkt naar het
-  <span class="mw-selflink selflink">Database scherm</span>.
-- **Waarschuwingen.** Linkt naar het [Waarschuwingen
-  scherm](https://docs.joomla.org/Help4.x:Information:_Warnings/nl "Help4.x:Information: Warnings/nl").
-- **Installeer talen.** Linkt naar het [Installeer talen
-  scherm](https://docs.joomla.org/Help4.x:Extensions_Extension_Manager_Languages/nl "Help4.x:Extensions Extension Manager Languages/nl").
-- **Updatesites.** Linkt naar het <a
-  href="https://docs.joomla.org/index.php?title=Help4.x:Extensions_Extension_Manager_Update_Sites/nl&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Help4.x:Extensions Extension Manager Update Sites/nl (page does not exist)">Updatesites
-  scherm</a>.

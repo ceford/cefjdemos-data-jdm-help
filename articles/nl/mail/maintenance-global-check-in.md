@@ -58,8 +58,7 @@ bovenstaande Screenshot.
     aflopend volgorde.
 - **Te tonen aantal.** Toont het aantal items in een lijst. Selecteer
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#defaultlistlimit "Special:MyLanguage/Help4.x:Site Global Configuration/nl").
+  voor een site is '20' maar dit kan veranderd worden bij de
 
 **Filteropties**
 
@@ -82,8 +81,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   u een algemene check-in uitvoert. Wanneer een algemene Check-in is
   uitgevoerd, zijn *alle* items ingecheckd, inclusief die op dat moment
   bewerkt werden.
-
-## Verwante informatie
-
-- Gebruik, om alle ingelogde gebruikers te zien:
-  [Gebruikersbeheer](https://docs.joomla.org/Help4.x:Users/nl "Help4.x:Users/nl")

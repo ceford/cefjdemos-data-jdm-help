@@ -98,49 +98,49 @@
 For known issues specific to a 4.2.x version, together with suggested
 resolutions.
 
-- [Version 4.2.6
-  FAQ](https://docs.joomla.org/:Category:Version_4.2.6_FAQ "Special:MyLanguage/:Category:Version 4.2.6 FAQ")
-- [Version 4.2.5
-  FAQ](https://docs.joomla.org/:Category:Version_4.2.5_FAQ "Special:MyLanguage/:Category:Version 4.2.5 FAQ")
-- [Version 4.2.4
-  FAQ](https://docs.joomla.org/:Category:Version_4.2.4_FAQ "Special:MyLanguage/:Category:Version 4.2.4 FAQ")
-- [Version 4.2.3
-  FAQ](https://docs.joomla.org/:Category:Version_4.2.3_FAQ "Special:MyLanguage/:Category:Version 4.2.3 FAQ")
-- [Version 4.2.2
-  FAQ](https://docs.joomla.org/:Category:Version_4.2.2_FAQ "Special:MyLanguage/:Category:Version 4.2.2 FAQ")
-- [Version 4.2.1
-  FAQ](https://docs.joomla.org/:Category:Version_4.2.1_FAQ "Special:MyLanguage/:Category:Version 4.2.1 FAQ")
-- [Version 4.2.0
-  FAQ](https://docs.joomla.org/:Category:Version_4.2.0_FAQ "Special:MyLanguage/:Category:Version 4.2.0 FAQ")
+- Version 4.2.6
+  FAQ
+- Version 4.2.5
+  FAQ
+- Version 4.2.4
+  FAQ
+- Version 4.2.3
+  FAQ
+- Version 4.2.2
+  FAQ
+- Version 4.2.1
+  FAQ
+- Version 4.2.0
+  FAQ
 
 #### Version 4.1.x
 
 Für bekannte Probleme zu einer bestimmten 4.1.x-Version, gemeinsam mit
 vorgeschlagenen Lösungen.
 
-- [Version 4.1.2
-  FAQ](https://docs.joomla.org/:Category:Version_4.1.2_FAQ "Special:MyLanguage/:Category:Version 4.1.2 FAQ")
-- [Version 4.1.1
-  FAQ](https://docs.joomla.org/:Category:Version_4.1.1_FAQ "Special:MyLanguage/:Category:Version 4.1.1 FAQ")
-- [Version 4.1.0
-  FAQ](https://docs.joomla.org/:Category:Version_4.1.0_FAQ "Special:MyLanguage/:Category:Version 4.1.0 FAQ")
+- Version 4.1.2
+  FAQ
+- Version 4.1.1
+  FAQ
+- Version 4.1.0
+  FAQ
 
 #### Version 4.0.x
 
 Für bekannte Probleme zu einer bestimmten 4.0.x-Version, gemeinsam mit
 vorgeschlagenen Lösungen.
 
-- [Version 4.0.6
-  FAQ](https://docs.joomla.org/:Category:Version_4.0.6_FAQ "Special:MyLanguage/:Category:Version 4.0.6 FAQ")
-- [Version 4.0.5
-  FAQ](https://docs.joomla.org/:Category:Version_4.0.5_FAQ "Special:MyLanguage/:Category:Version 4.0.5 FAQ")
-- [Version 4.0.4
-  FAQ](https://docs.joomla.org/:Category:Version_4.0.4_FAQ "Special:MyLanguage/:Category:Version 4.0.4 FAQ")
-- [Version 4.0.3
-  FAQ](https://docs.joomla.org/:Category:Version_4.0.3_FAQ "Special:MyLanguage/:Category:Version 4.0.3 FAQ")
-- [Version 4.0.2
-  FAQ](https://docs.joomla.org/:Category:Version_4.0.2_FAQ "Special:MyLanguage/:Category:Version 4.0.2 FAQ")
-- [Version 4.0.1
-  FAQ](https://docs.joomla.org/:Category:Version_4.0.1_FAQ "Special:MyLanguage/:Category:Version 4.0.1 FAQ")
-- [Version 4.0.0
-  FAQ](https://docs.joomla.org/:Category:Version_4.0.0_FAQ "Special:MyLanguage/:Category:Version 4.0.0 FAQ")
+- Version 4.0.6
+  FAQ
+- Version 4.0.5
+  FAQ
+- Version 4.0.4
+  FAQ
+- Version 4.0.3
+  FAQ
+- Version 4.0.2
+  FAQ
+- Version 4.0.1
+  FAQ
+- Version 4.0.0
+  FAQ

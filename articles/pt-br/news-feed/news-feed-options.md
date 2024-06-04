@@ -41,8 +41,7 @@ específico
   Além disso, versões específicas podem ser marcadas com a opção "Manter
   para sempre" e não serão excluídas automaticamente. Observe que as
   versões podem ser excluídas manualmente usando o botão "Excluir" na
-  tela do [histórico das
-  versões](https://docs.joomla.org/Help310:Components_Version_History/pt-br "Help310:Components Version History/pt-br").
+  tela do
 - **Imagem do feed**: (Mostrar/ocultar). Mostra ou oculta a imagem do
   feed.
 - **Descrição do feed**: (Mostrar/ocultar). Mostra ou oculta a descrição
@@ -270,12 +269,3 @@ de tela](#Captura_de_tela) acima. As funções são:
   para a maioria das opções.
 - Todos os valores definidos aqui podem ser substituídos nos item dos
   menus, nas categoria ou nos níveis dos feeds para notícias.
-
-## Informações relacionadas
-
-- Para criar e editar os feeds para notícias e as categorias dos feeds
-  para notícias:[Gerenciador dos feeds para
-  notícias](https://docs.joomla.org/Help4.x:News_Feeds/pt-br "Help4.x:News Feeds/pt-br")
-- For more information about Joomla's ACL system: [Tutorial sobre ad
-  ACLs no Joomla!
-  3](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/pt-br "J3.x:Access Control List Tutorial/pt-br")

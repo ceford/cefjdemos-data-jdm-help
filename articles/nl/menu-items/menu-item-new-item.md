@@ -83,13 +83,13 @@ alt="Menus New Item screen" />
   pagina van de website. Er mag exact één menu-item ingesteld zijn als
   standaard pagina. U kunt de standaard pagina op twee manieren
   wijzigen:
-  1.  Klik op de Home kolom van het gewenste menu-item op het [Menu's:
-      Items](https://docs.joomla.org/Help4.x:Menus:_Items/nl "Special:MyLanguage/Help4.x:Menus: Items/nl")
+  1.  Klik op de Home kolom van het gewenste menu-item op het Menu's:
+      Items
       scherm.
   2.  Open het menu-item voor de nieuwe standaard pagina en wijzig de
       Standaard pagina instellingen op Ja.
 - **Toegang**. Het
-  [Toegangsniveau](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/nl "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/nl")
+  Toegangsniveau
   om het item te bekijken.
 - **Taal**. Menu-item taal.
 - **Notitie**. Dit wordt normaal gesproken door de beheerder gebruikt
@@ -130,8 +130,8 @@ data-file-width="2880" data-file-height="970" width="600" height="202"
 alt="Menus New Item page display subscreen" />
 
 Merk op dat deze opties "**Gebruik algemeen**" bevatten. Als dit gekozen
-is, dan worden de instellingen van de [Menu's:
-Opties](https://docs.joomla.org/Help4.x:Menus:_Options/nl "Special:MyLanguage/Help4.x:Menus: Options/nl")
+is, dan worden de instellingen van de Menu's:
+Opties
 gebruikt.
 
 - **Browserpaginatitel**. Optionele tekst voor het 'Browserpaginatitel'
@@ -193,7 +193,7 @@ alt="Menus New Item module assignment subscreen" />
 ## Werkbalk
 
 Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#screenshot) hierboven.
+afbeelding hierboven.
 
 - **Opslaan**. Slaat menu-item op en blijft op het huidige scherm.
 - **Opslaan & sluiten**. Slaat menu-item op en sluit het huidige scherm.
@@ -218,16 +218,8 @@ Saved menu items have additional buttons:
 ## Snelle tips
 
 - Voor het toevoegen van een gearchiveerd artikelen menu-item:
-  [Gearchiveerde
-  artikelen](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived/nl "Special:MyLanguage/Help4.x:Menu Item: Article Archived/nl")
+  Gearchiveerde
+  artikelen
 - De basis distributie van Joomla biedt 38 verschillende menu-itemtypes.
   Als u extensies van derden installeert dan kunnen die meer menutypes
   toevoegen.
-
-## Verwante informatie
-
-- Handleiding: [Een nieuw menu
-  maken](https://docs.joomla.org/J4.x:Adding_a_New_Menu/nl "Special:MyLanguage/J4.x:Adding a New Menu/nl").
-- Dit
-  [portaal](https://docs.joomla.org/Portal:Joomla_4/nl "Special:MyLanguage/Portal:Joomla 4/nl")
-  brengt informatie specifiek gerelateerd aan Joomla 4 samen.

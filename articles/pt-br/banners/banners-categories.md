@@ -59,8 +59,8 @@ coluna.
   Você pode abrir o item para edição clicando no título.
 - **Acessos (visualizações)**: A quantidade de vezes que um item foi
   visualizado.
-- **Acesso**: O [nível de acesso de
-  visualização](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/pt-br "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/pt-br")
+- **Acesso**: O nível de acesso de
+  visualização
   para este item.
 - **Linguagem**: Linguagem do item.
 - **ID**: Este é um número de identificação exclusivo atribuído
@@ -72,7 +72,7 @@ coluna.
 ## Filtros da lista
 
 **Barra de pesquisa**: Perto do topo da página, você verá a barra de
-pesquisa mostrada na [captura de tela](#screenshot) acima.
+pesquisa mostrada na captura de tela acima.
 
 - **Pesquisar por texto**: Insira parte do termo de pesquisa e clique no
   ícone "Pesquisar". *Passe o mouse* para ver uma *dica* indicando quais
@@ -89,8 +89,7 @@ pesquisa mostrada na [captura de tela](#screenshot) acima.
     ordem crescente e decrescente.
 - **Número a ser exibido**: Mostra o número de itens em uma lista.
   Selecione na lista suspensa para alterar o número exibido.O padrão
-  para um site é '20', mas isso pode ser alterado nas [Configurações
-  Globais](https://docs.joomla.org/Help4.x:Site_Global_Configuration/pt-br#defaultlistlimit "Help4.x:Site Global Configuration/pt-br").
+  para um site é '20', mas isso pode ser alterado nas
 
 ### Opções do filtro
 
@@ -132,7 +131,7 @@ pesquisa mostrada na [captura de tela](#screenshot) acima.
 
 **Controles da página**: Quando o número de itens for mais que uma
 página, você verá uma barra de controle na página perto da parte
-inferior da página mostrada na [captura de tela](#screenshot) acima. O
+inferior da página mostrada na captura de tela acima. O
 número da página atual que está sendo visualizada tem um fundo de cor
 escura.
 
@@ -215,10 +214,3 @@ que isso *não* desmarca as caixas selecionadas dos itens.
 
 - Você precisa adicionar pelo menos um cliente dos banners e uma
   categoria dos banner *antes* de adicionar um banner.
-
-## Informações relacionadas
-
-- Para criar ou editar banners: [Banners -
-  Novo/editar](https://docs.joomla.org/Help4.x:Banners:_Edit/pt-br "Help4.x:Banners: Edit/pt-br")
-- Para trabalhar com clientes dos banners: [Gerenciador dos clientes dos
-  banners](https://docs.joomla.org/Help4.x:Banners:_Clients/pt-br "Help4.x:Banners: Clients/pt-br")

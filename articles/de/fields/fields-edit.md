@@ -39,8 +39,8 @@ alt="Fields Edit screen" />
 Parameter für alle Eigenen Felder:
 
 - **Typ**. Beim Anlegen eines Feldes kann aus 16 Feldtypen gewählt
-  werden. Nach dem Speichern ist der Typ des Feldes dauerhaft. [Mehr
-  erfahren.](https://docs.joomla.org/J3.x:Adding_custom_fields/Calendar_Field/de "J3.x:Adding custom fields/Calendar Field/de")
+  werden. Nach dem Speichern ist der Typ des Feldes dauerhaft. Mehr
+  erfahren.
 - **Name**. Der Name wird benutzt um das Feld zu bestimmen. Wird das
   Feld frei gelassen, nimmt Joomla als Standardwert den Titel des
   Feldes.
@@ -69,25 +69,25 @@ Parameter für alle Eigenen Felder:
     oder Kontakten nicht angezeigt.
   - Archiviert: Das Feld wird nicht beim Bearbeiten eines Beitrages oder
     Kontaktes angezeigt. Es kann in
-    [Felder](https://docs.joomla.org/Help4.x:Fields/de#selectstatus "Help4.x:Fields/de")
+    Felder
     geöffnet werden, wenn der Statusfilter auf 'Archiviert' gesetzt
     wurde.
   - Papierkorb: Das Feld wurde gelöscht, befindet sich aber noch in der
     Datenbank. Dauerhaft und vollständig gelöscht wird es in
-    [Felder](https://docs.joomla.org/Help4.x:Fields/de#selectstatus "Help4.x:Fields/de")
-    über den Button 'Papierkorb leeren'. [Mehr
-    erfahren.](https://docs.joomla.org/J4.x:Deleting_an_Article/de "J4.x:Deleting an Article/de")
+    Felder
+    über den Button 'Papierkorb leeren'. Mehr
+    erfahren.
 - **Feld Gruppe**. Ein Feld kann einer oder mehreren Feldgruppen
   zugeordnet werden.
 - **Kategorie**. Ein Feld kann einer oder mehreren Kategorien zugeordnet
   werden. Hinweis: Der Standard 'Alle' schließt nicht die
   'Unkategorisierten' Beiträge mit ein.
 - **Zugriff**. Die Zugriffsebene des Feldes wählen. Sie werden in
-  [Benutzer:
-  Zugriffsebenen](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/de "Help4.x:Users: Viewing Access Levels/de")
+  Benutzer:
+  Zugriffsebenen
   eingerichtet.
 - **Sprache**. Die Sprache des Feldes wählen. Wird
-  [Mehrsprachigkeit](https://docs.joomla.org/Help4.x:Extensions:_Languages/de "Help4.x:Extensions: Languages/de")
+  Mehrsprachigkeit
   nicht verwendet, den Standardwert 'Alle' beibehalten.
 - **Notiz**. Ein optionales Feld das zur Beschreibung oder als Hinweis
   für das Feld.
@@ -186,8 +186,8 @@ alt="Fields Edit publishing subscreen" />
 
 ### Berechtigungen
 
-Hier können die Berechtigungen für das Feld eingegeben werden. [Mehr
-erfahren.](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/de#hierarchylevels "J3.x:Access Control List Tutorial/de")
+Hier können die Berechtigungen für das Feld eingegeben werden. Mehr
+erfahren.
 
 <img
 src="https://docs.joomla.org/images/thumb/0/09/Help-4x-Fields-Edit-permissions-subscreen-de.png/600px-Help-4x-Fields-Edit-permissions-subscreen-de.png"
@@ -209,7 +209,7 @@ Um Berechtigungen dieses Feldes zu ändern:
       Feld bearbeiten.
 3.  Die Berechtigungen der gewählten Aktion wählen.
     - **Vererbt**. Für Benutzer dieser Gruppe von der
-      [Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#permissions "Help4.x:Site Global Configuration/de"),
+      Konfiguration,
       der übergeordneten Gruppe und der Kategorie vererbt .
     - **Erlaubt**. Für Benutzer dieser Gruppe erlaubt.Hinweis: Wenn die
       Aktion auf einer höheren Ebene 'Verweigert' wird, ist die
@@ -222,7 +222,7 @@ Um Berechtigungen dieses Feldes zu ändern:
 
 ## Werkzeugleiste
 
-Das [Bildschirmfoto](#screenshot) zeigt die Werkzeugleiste im oberen
+Das Bildschirmfoto zeigt die Werkzeugleiste im oberen
 Bereich.
 
 - **Speichern**. Speichert das Feld und bleibt auf der aktuellen Seite.
@@ -236,21 +236,3 @@ Bereich.
   Seite ohne Speichern der Änderungen zurück.
 - **Hilfe**. Öffnet die Hilfeseite.
 
-## Tipps
-
-Mehr zur [Anwendung benutzerdefinierter
-Felder](https://docs.joomla.org/J3.x:Adding_custom_fields/de "J3.x:Adding custom fields/de").
-
-## Verwandte Informationen
-
-- Dieses
-  [Portal](https://docs.joomla.org/Portal:Joomla_4/de "Portal:Joomla 4/de")
-  bringt alle Informationen zu Joomla 4 zusammen.
-
-|                                                                                                                  |                                                                                                                                                                           |
-|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Verwandte Hilfeseiten                                                                                            | Beschreibung                                                                                                                                                              |
-| [Felder](https://docs.joomla.org/Help4.x:Fields/de "Help4.x:Fields/de")                                          | Felder werden verwendet, um zusätzliche Eigenschaften von Beiträgen, Kontakten oder Benutzern anzuzeigen. Die Daten werden im Backend eingegeben und im Frontend gezeigt. |
-| <span class="mw-selflink selflink">Felder: Bearbeiten</span>                                                     | Hinzufügen oder Bearbeiten von Feldern in Beiträge, Kontakte und Benutzer.                                                                                                |
-| [Feldgruppen](https://docs.joomla.org/Help4.x:Field_Groups/de "Help4.x:Field Groups/de")                         | Die Liste wird verwendet, um Feldgruppen zu finden, zu markieren, hinzuzufügen und zu bearbeiten.                                                                         |
-| [Feldgruppen: Bearbeiten](https://docs.joomla.org/Help4.x:Field_Groups:_Edit/de "Help4.x:Field Groups: Edit/de") | Feldgruppen gruppieren verwandte Felder für die Eingabe der Daten in Tabs.                                                                                                |

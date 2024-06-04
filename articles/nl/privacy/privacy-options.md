@@ -46,9 +46,3 @@ De functies zijn.
 - **Sluiten**. Sluit het huidige scherm en keert terug naar het vorige
   scherm zonder wijzigingen die u misschien heeft gedaan op te slaan.
 - **Help**. Opent dit helpscherm.
-
-## Verwante informatie
-
-- [De privacy
-  hulpmiddelen](https://docs.joomla.org/J3.x:Privacy/nl "J3.x:Privacy/nl")
--

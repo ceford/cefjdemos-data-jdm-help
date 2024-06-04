@@ -95,13 +95,12 @@ bovenstaande Screenshot.
     aflopend volgorde.
 - **Number to Display**. Shows the number of modules in a list. Select
   from the dropdown list to change the number displayed.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#defaultlistlimit "Help4.x:Site Global Configuration/nl").
+  voor een site is '20' maar dit kan veranderd worden bij de
 
 ### Filter opties
 
 Bovenaan de pagina ziet u de filterbalk zoals in de
-[afbeelding](#screenshot) hierboven.
+afbeelding hierboven.
 
 - **Selecteer status**. Selecteer uit Naar prullenbak / Gedepubliceerd /
   Gepubliceerd / Alles.
@@ -130,7 +129,7 @@ has a dark colour background.
 ## Werkbalk
 
 Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#screenshot) hierboven.
+afbeelding hierboven.
 
 - **New**. Opens the editing screen to create a new module.
 - **Actions**. Reveals a list of actions for selected modules. Check one
@@ -141,15 +140,14 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
     your website.
   - **Check-in**. Checks-in the selected modules.
   - **Prullenbak**. Verandert de status van de selecteerde modules om
-    aan te geven dat ze in de prullenbak zitten. [Meer
-    leren.](https://docs.joomla.org/J4.x:Deleting_an_Article/nl "J4.x:Deleting an Article/nl")
+    aan te geven dat ze in de prullenbak zitten. Meer
+    leren.
   - **Batch**. Batch verwerkt de geselecteerde modules.
   - **Duplicate**. Makes a copy of the selected modules. The copy is
     created immediately and is given the same name as the original but
     suffixed with a number (for example "(2)") so that it can be
     distinguished from the original and any other copies.
-- **Opties**. Opent het venster [Modules:
-  Opties](https://docs.joomla.org/Help4.x:Modules:_Options/nl "Help4.x:Modules: Options/nl").
+- **Opties**. Opent het venster
 - **Help**. Opent dit helpscherm.
 
 ## Batchproces
@@ -183,28 +181,15 @@ alt="Modules batch subscreen" />
 ## Snelle Tips
 
 - Joomla websites hebben minstens 1
-  [menu-module](https://docs.joomla.org/Help4.x:Site_Modules:_Menu/nl "Help4.x:Site Modules: Menu/nl")
+  menu-module
   nodig.
 - Andere module types (Bijvoorbeeld:
-  [Advertenties](https://docs.joomla.org/Help4.x:Site_Modules:_Banners/nl "Help4.x:Site Modules: Banners/nl"))
+  Advertenties
   zijn optioneel.
 - Sommige modules zijn gelinkt aan componenten. Bijvoorbeeld, iedere
   menumodule is verbonden aan een
-  [menu](https://docs.joomla.org/Help4.x:Menus/nl "Help4.x:Menus/nl").
+  menu.
 - Other Modules (for example
-  [Breadcrumbs](https://docs.joomla.org/Help4.x:Site_Modules:_Breadcrumbs/en "Help4.x:Site Modules: Breadcrumbs/en"))
+  Breadcrumbs
   do not depend on any other content.
 - Meerdere keren voorkomen van gelijke moduletypes.
-
-## Verwante informatie
-
-- De Joomla! installatie bevat meer dan 40 moduletypes. Extra modules
-  van derden kun je krijgen via de
-  <a href="http://extensions.joomla.org/" class="external text"
-  target="_blank" rel="noreferrer noopener">Joomla Extensions
-  Directory</a>.
-- [Controlepaneel](https://docs.joomla.org/Help4.x:Home_Dashboard/nl "Help4.x:Home Dashboard/nl"):
-  Access to many default Joomla functions.
-- This
-  [Portal](https://docs.joomla.org/Portal:Joomla_4/en "Portal:Joomla 4/en")
-  brings together information related specifically to Joomla 4.

@@ -4,12 +4,12 @@
 
 Het versiegeschiedenis scherm stelt u instaat om eerdere versies van het
 item dat bewerkt wordt te beheren. Versie historie is beschikbaar voor
-[Artikelen](https://docs.joomla.org/Help4.x:Articles:_Edit/nl "Help4.x:Articles: Edit/nl"),
-[Advertenties](https://docs.joomla.org/Help4.x:Banners:_Edit/nl "Help4.x:Banners: Edit/nl"),
-[Adverteerder](https://docs.joomla.org/Help4.x:Banners:_New_or_Edit_Client/nl "Help4.x:Banners: New or Edit Client/nl"),
-[Contactpersonen](https://docs.joomla.org/Help4.x:Contacts:_Edit/nl "Help4.x:Contacts: Edit/nl"),
-[Nieuwsfeeds](https://docs.joomla.org/Help4.x:News_Feeds:_Edit/nl "Help4.x:News Feeds: Edit/nl"),
-[Gebruikersnotities](https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit/nl "Help4.x:User Notes: New or Edit/nl")
+Artikelen,
+Advertenties,
+Adverteerder,
+Contactpersonen,
+Nieuwsfeeds,
+Gebruikersnotities
 en alle categorieën.
 
 Iedere keer als een item opgeslagen wordt met wijzigingen, wordt er
@@ -21,8 +21,8 @@ automatisch verwijderd, zelfs als het maximum aantal versies opgegeven
 bij de opties wordt overtroffen.
 
 Houd rekening met het volgende: Als u versiegeschiedenis gebruikt voor
-artikelen worden de aangepaste velden, [Aangepaste velden
-toevoegen](https://docs.joomla.org/J3.x:Adding_custom_fields/nl "J3.x:Adding custom fields/nl")
+artikelen worden de aangepaste velden, Aangepaste velden
+toevoegen
 niet opgeslagen in de verschillende versies.
 
 ## Hoe toegang te krijgen
@@ -74,7 +74,7 @@ alt="Components Version History screen" />
 ## Werkbalk
 
 Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#screenshot) hierboven. De functies zijn.
+afbeelding hierboven. De functies zijn.
 
 - **Herstellen**. De huidige versie van het item is, rechts van de
   datum, gemarkeerd met een ster. Als u een oudere versie terug wilt
@@ -114,8 +114,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   vinken van de versies die u wilt verwijderen en klik op de knop
   Verwijderen. Dit zal de versie die op dit moment bewerkt wordt *niet*
   verwijderen. Het verwijderd alleen de versiegeschiedenis van het item.
-
-## Verwante informatie
-
-Om de opties voor versiegeschiedenis in te stellen klikt u op de opties
-button van het gewenste component.

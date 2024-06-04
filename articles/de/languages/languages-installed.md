@@ -58,7 +58,7 @@ sortieren.
   an. Hier kann die Standardsprache für das Backend der Joomla-Website
   gewählt werden.
 
-**Suchleiste**. Das [Bildschirmfoto](#screenshot) zeigt die Suchleiste
+**Suchleiste**. Das Bildschirmfoto zeigt die Suchleiste
 im oberen Bereich.
 
 - **Suche nach Text**. Einen Teil des Suchbegriffs eingeben, auf das
@@ -78,14 +78,14 @@ im oberen Bereich.
 - **Anzuzeigende Anzahl**. Zeigt die Anzahl der Einträge an. Zur
   Änderung in der Dropdown-Liste die gewünschte Anzahl wählen.Der
   Standardwert für die Site ist '20', er kann in der
-  [Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#defaultlistlimit "Help4.x:Site Global Configuration/de")
+  Konfiguration
   geändert werden.
 
 **Filteroptionen.** Dieses Fenster hat keine Filteroptionen
 
 **Seitenkontrolle**. Gibt es mehr Einträge als auf der Seite gezeigt,
 wird im unteren Bereich die Seitenkontrollleiste wie auf dem
-[Bildschirmfoto](#screenshot) eingeblendet. Die aktuelle Seitenzahl ist
+Bildschirmfoto eingeblendet. Die aktuelle Seitenzahl ist
 mit dunkler Farbe unterlegt.
 
 - **Start**. Anklicken, um die erste Seite anzuzeigen.
@@ -110,8 +110,7 @@ Werkzeugleiste im oberen Bereich. Die Funktionen sind:
   anklicken. Die Sprache des Administrators ändert sich und es wird eine
   Meldung wie *La langue de l'administration a été changée en "French
   (France)"* angezeigt.
-- **Sprachen installieren.** Link führt zu [Erweiterungen: Sprachen
-  installieren](https://docs.joomla.org/Help4.x:Extensions_Extension_Manager_Languages/de "Help4.x:Extensions Extension Manager Languages/de").
+- **Sprachen installieren.** Link führt zu
 - **Schließen**. Schließt die aktuelle Seite und kehrt zur vorherigen
   Seite ohne Speichern der Änderungen zurück. Dieses Symbol wird nicht
   angezeigt, wenn ein neuer Eintrag erstellt wird.
@@ -123,8 +122,8 @@ Werkzeugleiste im oberen Bereich. Die Funktionen sind:
 
 - Users can use any Language from the list of installed Languages,
   either by having it assigned in the Users list or
-  by filling out a [Menu Item list - New/Edit - User Form
-  Layout](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/en#User_Form_Layout "Help4.x:Menu Item: New Item/en")
+  by filling out a Menu Item list - New/Edit - User Form
+  Layout
   at the Frontend. This will cause the Joomla! system prompts to be
   generated in this Language just for this User. For example, if a User
   chooses Spanish as their language, then the Search Module will show
@@ -136,21 +135,10 @@ Werkzeugleiste im oberen Bereich. Die Funktionen sind:
 - **Wichtig**: Die Standard-Sprachdateien dürfen nicht gelöscht werden
   (z.B. mit FTP). Das führt zu Fehlern sowohl auf dem Frontend als auch
   auf dem Backend.
-- Zusätzliche Sprachen können über den Dialog [Sprachen
-  installieren](https://docs.joomla.org/Help4.x:Extensions_Extension_Manager_Languages/de "Help4.x:Extensions Extension Manager Languages/de")
+- Zusätzliche Sprachen können über den Dialog Sprachen
+  installieren
   hinzugefügt werden.
 - Falls gewünscht, können die Frontend-Site in einer Sprache und die
   Backend-Verwaltungsseiten in einer anderen Sprache dargestellt werden.
   Außerdem können einzelne Artikel so konfiguriert werden, dass bei der
   Bearbeitung der Parameter für eine andere Sprache eingestellt wird.
-
-## Verwandte Informationen
-
-- zusätzliche Sprachen installieren: [Erweiterungen: Sprachen
-  installieren](https://docs.joomla.org/Help4.x:Extensions_Extension_Manager_Languages/de "Help4.x:Extensions Extension Manager Languages/de").
-- Eine Sprache deinstallieren: [Erweiterungen:
-  Verwalten](https://docs.joomla.org/Help4.x:Extensions:_Manage/de "Help4.x:Extensions: Manage/de")
-- Die Sprache für einen Benutzer ändern: [Benutzer: Profil
-  bearbeiten](https://docs.joomla.org/Help4.x:Users:_Edit_Profile/de "Help4.x:Users: Edit Profile/de")
-- To set the Language of an Article: [Articles - New/Edit - Parameters -
-  Advanced](https://docs.joomla.org/Help4.x:Articles:_Edit/en#Parameters_-_Advanced "Help4.x:Articles: Edit/en")

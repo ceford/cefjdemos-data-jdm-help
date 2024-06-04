@@ -54,8 +54,8 @@ Joomla!, você verá colunas diferentes.
   exibido no menu. Para um artigo ou uma categoria, o título pode,
   opcionalmente, ser exibido na página web. Esta entrada é obrigatória.
   Você pode abrir o item para edição clicando no título.
-- **Acesso**: O [nível de acesso de
-  visualização](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/pt-br "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/pt-br")
+- **Acesso**: O nível de acesso de
+  visualização
   para este item.
 - **Linguagem**: Linguagem do item.
 - **ID**: Este é um número de identificação exclusivo atribuído
@@ -70,7 +70,7 @@ Perto do topo da página, você verá a barra de filtros mostrada na
 captura de tela acima. As funções são:
 
 **Barra de pesquisa**: Perto do topo da página, você verá a barra de
-pesquisa mostrada na [captura de tela](#screenshot) acima.
+pesquisa mostrada na captura de tela acima.
 
 - **Pesquisar por texto**: Insira parte do termo de pesquisa e clique no
   ícone "Pesquisar". *Passe o mouse* para ver uma *dica* indicando quais
@@ -87,8 +87,7 @@ pesquisa mostrada na [captura de tela](#screenshot) acima.
     ordem crescente e decrescente.
 - **Número a ser exibido**: Mostra o número de itens em uma lista.
   Selecione na lista suspensa para alterar o número exibido.O padrão
-  para um site é '20', mas isso pode ser alterado nas [Configurações
-  Globais](https://docs.joomla.org/Help4.x:Site_Global_Configuration/pt-br#defaultlistlimit "Help4.x:Site Global Configuration/pt-br").
+  para um site é '20', mas isso pode ser alterado nas
 - **Selecionar estado**: Seleciona entre lixeira / não publicado /
   publicado / arquivado / todos.
 - **Selecionar acesso**. Seleciona na lista de níveis de acesso de
@@ -103,7 +102,7 @@ pesquisa mostrada na [captura de tela](#screenshot) acima.
 
 **Controles da página**: Quando o número de itens for mais que uma
 página, você verá uma barra de controle na página perto da parte
-inferior da página mostrada na [captura de tela](#screenshot) acima. O
+inferior da página mostrada na captura de tela acima. O
 número da página atual que está sendo visualizada tem um fundo de cor
 escura.
 
@@ -206,15 +205,3 @@ ou categoria.
 Se você deseja limpar suas seleções inseridas, clique no botão "Limpar".
 Isso retornará todos os controles de lote para seus valores padrão.
 Observe que isso *não* desmarca as caixas de seleções dos itens.
-
-## Informações relacionadas
-
-- [Notas de usuários: Nova ou
-  editar](https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit/pt-br "Help4.x:User Notes: New or Edit/pt-br")
-- [Notas de
-  usuários](https://docs.joomla.org/Help4.x:User_Notes/pt-br "Help4.x:User Notes/pt-br")
-- <a
-  href="https://docs.joomla.org/index.php?title=Help4.x:User_Notes:_New_or_Edit_Category/pt-br&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Help4.x:User Notes: New or Edit Category/pt-br (page does not exist)">Notas
-  do usuário: Nova categoria ou editar categoria</a>

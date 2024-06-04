@@ -105,6 +105,6 @@ title="File:Help-4x-joomla-update-manager-screen-customnl.png">800px</a>
 
 ## Snelle tips
 
-- U kunt kijken bij de [Joomla! Update Quick
-  Iconen](https://docs.joomla.org/Help4.x:Admin_Modules:_Quick_Icons/nl "Help4.x:Admin Modules: Quick Icons/nl")
+- U kunt kijken bij de Joomla! Update Quick
+  Iconen
   in het beheer Controlepaneel.

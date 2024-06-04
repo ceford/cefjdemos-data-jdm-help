@@ -8,54 +8,54 @@ plugin tabblad aan de rechter kant en worden hieronder beschreven.
 
 Plugins per groep:
 
-- [**Actielog groep.** (1
-  plugin)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Action_Log_Group/nl "Chunk4x:Extensions Plugin Manager Edit Action Log Group/nl")
-- [**API authenticatie groep.** (2
-  plugins)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_API_Authentication_Group/nl "Chunk4x:Extensions Plugin Manager Edit API Authentication Group/nl")
-- [**Authenticatie groep.** (3
-  plugins)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Authentication_Group/nl "Chunk4x:Extensions Plugin Manager Edit Authentication Group/nl")
-- [**Gedrag groep.** (2
-  plugins)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Behaviour_Group/nl "Chunk4x:Extensions Plugin Manager Edit Behaviour Group/nl")
-- [**CAPTCHA groep.** (2
-  plugins)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_CAPTCHA_Group/nl "Chunk4x:Extensions Plugin Manager Edit CAPTCHA Group/nl")
-- [**Inhoud groep.** (1
-  plugin)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Content_Group/nl "Chunk4x:Extensions Plugin Manager Edit Content Group/nl")
-- [**Tekstverwerkers groep.** (3
-  plugins)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Editor_Group/nl "Chunk4x:Extensions Plugin Manager Edit Editor Group/nl")
-- [**Tekstverwerker knop groep.** (8
-  plugins)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Button_Group/nl "Chunk4x:Extensions Plugin Manager Edit Button Group/nl")
-- [**Extensies groep.** (3
-  plugins)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Extension_Group/nl "Chunk4x:Extensions Plugin Manager Edit Extension Group/nl")
-- [**Velden groep.** (6
-  plugins)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Fields_Group/nl "Chunk4x:Extensions Plugin Manager Edit Fields Group/nl")
-- [**Bestandssysteem groep.** (1
-  plugin)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_FileSystem_Group/nl "Chunk4x:Extensions Plugin Manager Edit FileSystem Group/nl")
-- [**Slimzoeken groep.** (5
-  plugins)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Smart_Search_Group/nl "Chunk4x:Extensions Plugin Manager Edit Smart Search Group/nl")
-- [**Installeren groep.** (5
-  plugins)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Installer_Group/nl "Chunk4x:Extensions Plugin Manager Edit Installer Group/nl")
-- [**Media groep.** (3
-  plugins)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Media_Action_Group/nl "Chunk4x:Extensions Plugin Manager Edit Media Action Group/nl")
-- [**Privacy groep.** (6
-  plugins)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Privacy_Group/nl "Chunk4x:Extensions Plugin Manager Edit Privacy Group/nl")
-- [**Snelkoppeling groep.** (6
-  plugins)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Quick_Icon_Group/nl "Chunk4x:Extensions Plugin Manager Edit Quick Icon Group/nl")
-- [**Voorbeelddata groep.** (2
-  plugins)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Sample_Data_Group/nl "Chunk4x:Extensions Plugin Manager Edit Sample Data Group/nl")
-- [**Systeem groep.** (22
-  plugins)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_System_Group/nl "Chunk4x:Extensions Plugin Manager Edit System Group/nl")
-- [**Authenticatie in twee stappen groep.** (2
-  plugins)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Two_Factor_Authentication_Group/nl "Chunk4x:Extensions Plugin Manager Edit Two Factor Authentication Group/nl")
-- [**Gebruikers groep.** (5
-  plugins)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_User_Group/nl "Chunk4x:Extensions Plugin Manager Edit User Group/nl")
-- [**Webservices groep.** (5
-  plugins)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Web_Services_Group/nl "Chunk4x:Extensions Plugin Manager Edit Web Services Group/nl")
-- [**Workflow groep.** (3
-  plugins)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Workflow_Group/nl "Chunk4x:Extensions Plugin Manager Edit Workflow Group/nl")
+- **Actielog groep.** (1
+  plugin)
+- **API authenticatie groep.** (2
+  plugins)
+- **Authenticatie groep.** (3
+  plugins)
+- **Gedrag groep.** (2
+  plugins)
+- **CAPTCHA groep.** (2
+  plugins)
+- **Inhoud groep.** (1
+  plugin)
+- **Tekstverwerkers groep.** (3
+  plugins)
+- **Tekstverwerker knop groep.** (8
+  plugins)
+- **Extensies groep.** (3
+  plugins)
+- **Velden groep.** (6
+  plugins)
+- **Bestandssysteem groep.** (1
+  plugin)
+- **Slimzoeken groep.** (5
+  plugins)
+- **Installeren groep.** (5
+  plugins)
+- **Media groep.** (3
+  plugins)
+- **Privacy groep.** (6
+  plugins)
+- **Snelkoppeling groep.** (6
+  plugins)
+- **Voorbeelddata groep.** (2
+  plugins)
+- **Systeem groep.** (22
+  plugins)
+- **Authenticatie in twee stappen groep.** (2
+  plugins)
+- **Gebruikers groep.** (5
+  plugins)
+- **Webservices groep.** (5
+  plugins)
+- **Workflow groep.** (3
+  plugins)
 
 De volledige lijst met bovenstaande plugingroepen is beschikbaar in één
-document: [**Lijst met
-plugins**.](https://docs.joomla.org/Chunk4x:List_of_Plugins/nl "Chunk4x:List of Plugins/nl")
+document: **Lijst met
+plugins**.
 
 ## Hoe toegang te krijgen
 
@@ -139,10 +139,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   instellingen 'parameters' genoemd. U kunt de termen 'opties' en
   'parameters' door elkaar gebruikt worden in help-documentatie en
   handleidingen.
-
-## Verwante informatie
-
-- Om nieuwe plugins te installeren: [Extensiebeheer -
-  Installeren](https://docs.joomla.org/Help4.x:Extensions:_Install/nl "Help4.x:Extensions: Install/nl")
-- Om plugins van derden te deïnstalleren: [Extensiebeheer -
-  Beheer](https://docs.joomla.org/Help4.x:Extensions:_Manage/nl "Help4.x:Extensions: Manage/nl")

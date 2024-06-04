@@ -23,16 +23,16 @@ alt="global configuration screen" />
 
 ### Site
 
-[Vollständiges
-Bildschirmfoto.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/de "Help4.x:Site Global Configuration Site/de")
+Vollständiges
+Bildschirmfoto.
 
 #### Site
 
 - **Name der Website**. Den Name der Website eingeben. Er wird an
   verschiedenen Stellen verwendet (zum Beispiel in der Titelleiste des
   Browsers im Backend und den Offline-Seiten).
-- **Website offline**. Zugriff auf das Frontend ermöglichen. [Mehr
-  erfahren.](https://docs.joomla.org/J3.x:Taking_the_website_temporarily_offline/de "J3.x:Taking the website temporarily offline/de")
+- **Website offline**. Zugriff auf das Frontend ermöglichen. Mehr
+  erfahren.
   - **Offline-Text**.
     - Eigenen Text benutzen: Den Text unter 'Eigener Text' eingeben.
     - Standardtext benutzen: Der Standardtext wird aus der Sprachdatei
@@ -45,7 +45,7 @@ Bildschirmfoto.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/
   Benutzer können die Einstellung in ihrem Profil ändern.
 - **Standard Captcha**. Die Standard Captcha-Einstellung für die Site
   auswählen. Weitere Daten im
-  [Captcha-Plugin](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_CAPTCHA_Group/de "Chunk4x:Extensions Plugin Manager Edit CAPTCHA Group/de")
+  Captcha-Plugin
   eingeben.
 - **Standard Zugriffsebene**. Die Standard-Zugriffsebene für neue
   Einträge wählen.
@@ -56,7 +56,7 @@ Bildschirmfoto.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/
 - **Feed-E-Mail**. Der RSS- und Atom-Feed enthalten die E-Mail-Adresse
   des Autors.
   - Autor-E-Mail: Nutzt die E-Mail-Adresse des Autors aus
-    [Benutzer](https://docs.joomla.org/Help4.x:Users/de "Help4.x:Users/de").
+    Benutzer.
   - Website-E-Mail: Nutzt für jeden Beitrag die
     [Absenderadresse](#fromemail).
 
@@ -97,8 +97,8 @@ Suchmaschinenoptimierung
     class="external text" target="_blank"
     rel="nofollow noreferrer noopener">Mehr erfahren.</a>
   - IIS: 'web.config.txt' in 'web.config' umbenennen
-  - NginX: [Server
-    konfigurieren](https://docs.joomla.org/Nginx/de "Nginx/de")
+  - NginX: Server
+    konfigurieren
   - Für andere Server oder wenn etwas unklar ist, bitte den
     Hosting-Provider kontaktieren.
 - **Dateiendung an URL anfügen**. In der Einstellung "Ja" fügt das
@@ -119,8 +119,8 @@ Suchmaschinenoptimierung
 
 ### System
 
-[Vollständiges
-Bildschirmfoto.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_System/de "Help4.x:Site Global Configuration System/de")
+Vollständiges
+Bildschirmfoto.
 
 #### Fehlersuche
 
@@ -145,7 +145,7 @@ Debug
 Zwischenspeicher
 
 - **Cache**. Den Zwischenspeicher (Cache) aktivieren und den Cache-Level
-  angeben. [Mehr erfahren.](https://docs.joomla.org/Cache/de "Cache/de")
+  angeben. Mehr erfahren.
   - Normales Caching: Kleiner System-Cache.
   - Erweitertes Caching: Schnellerer, größerer System-Cache, inklusive
     eines Modul-Caches. Nicht für extrem große Webseiten zu empfehlen.
@@ -214,8 +214,8 @@ Session
 
 ### Server
 
-[Vollständiges
-Bildschirmfoto.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Server/de "Help4.x:Site Global Configuration Server/de")
+Vollständiges
+Bildschirmfoto.
 
 #### Server
 
@@ -348,8 +348,8 @@ Bildschirmfoto.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Serve
 
 ### Protokollierung
 
-[Vollständiges
-Bildschirmfoto.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Logging/de "Help4.x:Site Global Configuration Logging/de")
+Vollständiges
+Bildschirmfoto.
 
 #### Protokollierung
 
@@ -380,8 +380,8 @@ Bildschirmfoto.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Loggi
 
 ### Textfilter
 
-[Vollständiges
-Bildschirmfoto.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Text_Filters/de "Help4.x:Site Global Configuration Text Filters/de")
+Vollständiges
+Bildschirmfoto.
 
 Diese Textfiltereinstellungen werden auf alle Texteditorfelder
 angewandt, die von Benutzern der gewählten Gruppe eingereicht werden.
@@ -393,8 +393,8 @@ Code.
 
 ### Berechtigungen
 
-[Vollständiges
-Bildschirmfoto.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Permissions/de "Help4.x:Site Global Configuration Permissions/de")
+Vollständiges
+Bildschirmfoto.
 
 Verwalten der Zugriffsrechte von Benutzergruppen.
 
@@ -453,7 +453,7 @@ Untergruppen, Komponenten und Inhalte aus.
 
 ## Werkzeugleiste
 
-Das [Bildschirmfoto](#screenshot) zeigt die Werkzeugleiste im oberen
+Das Bildschirmfoto zeigt die Werkzeugleiste im oberen
 Bereich.
 
 - **Speichern**. Speichert die Konfigurations-Optionen und bleibt auf
@@ -475,11 +475,3 @@ Bereich.
 - Die Einstellungen werden in '\[Joomla\]/configuration.php'
   gespeichert. Um Änderungen speichern zu können, müssen FTP aktiviert
   oder für 'configuration.php' Schreibzugriff erlaubt sein.
-
-## Verwandte Informationen
-
-- [Backup-Grundlagen](https://docs.joomla.org/Backup_Basics_for_a_Joomla!_Web_Site/de "Backup Basics for a Joomla! Web Site/de")
-- [Sicherheits-Checkliste](https://docs.joomla.org/Security_Checklist/de "Security Checklist/de")
-- <img src="https://docs.joomla.org/images/4/49/Compat_icon_3_x_long.png"
-  decoding="async" data-file-width="75" data-file-height="16" width="75"
-  height="16" alt="Joomla 3.x" />

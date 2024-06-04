@@ -120,8 +120,8 @@ data-file-width="2880" data-file-height="970" width="600" height="202"
 alt="Menus New Item page display subscreen" />
 
 Note: Options include "**Use Global**". If this is selected, the setting
-from the [Menus:
-Options](https://docs.joomla.org/Help4.x:Menus:_Options/fr "Special:MyLanguage/Help4.x:Menus: Options/fr")
+from the Menus:
+Options
 will be used.
 
 - **Browser Page Title**. Optional text for the 'Browser page title'
@@ -175,7 +175,7 @@ alt="Menus New Item module assignment subscreen" />
 ## Barre d'outils
 
 En haut de la page, vous verrez la barre d'outils présentée dans la
-[capture d'écran](#screenshot) ci-dessus.
+capture d'écran ci-dessus.
 
 - **Enregistrer**. Enregistre le lien de menu et reste sur le même
   écran.
@@ -198,15 +198,6 @@ Saved menu items have additional buttons:
 
 ## Astuces
 
-- To add an menu item [Archived
-  Articles](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived/fr "Special:MyLanguage/Help4.x:Menu Item: Article Archived/fr").
+- To add an menu item
 - The core distribution of Joomla provides 38 different Menu Item types.
   If you install third-party extensions, these may add more menu types.
-
-## Informations connexes
-
-- Didacticiel: [Ajouter un nouveau
-  menu](https://docs.joomla.org/J4.x:Adding_a_New_Menu/fr "Special:MyLanguage/J4.x:Adding a New Menu/fr").
-- Ce
-  [portail](https://docs.joomla.org/Portal:Joomla_4/fr "Special:MyLanguage/Portal:Joomla 4/fr")
-  rassemble des informations liées spécifiquement à Joomla 4.

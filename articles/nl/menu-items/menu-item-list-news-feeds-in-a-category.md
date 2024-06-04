@@ -43,8 +43,8 @@ alt="Menus Menu Item News Feed Category screen" />
 - **Alias**. De interne naam van het item. Normaliter, kunt u dit leeg
   laten en Joomla zal de standaardwaarde invullen. De standaard waarde
   is de titel of naam in kleine letters en streepjes in plaats van
-  spaties. [Meer
-  leren.](https://docs.joomla.org/Alias/nl "Special:MyLanguage/Alias/nl")
+  spaties. Meer
+  leren.
 
 ### Details tabblad
 
@@ -103,13 +103,13 @@ alt="Menus Menu Item News Feed Category screen" />
   pagina van de website. Er mag exact één menu-item ingesteld zijn als
   standaard pagina. U kunt de standaard pagina op twee manieren
   wijzigen:
-  1.  Klik op de Home kolom van het gewenste menu-item op het [Menu's:
-      Items](https://docs.joomla.org/Help4.x:Menus:_Items/nl "Special:MyLanguage/Help4.x:Menus: Items/nl")
+  1.  Klik op de Home kolom van het gewenste menu-item op het Menu's:
+      Items
       scherm.
   2.  Open het menu-item voor de nieuwe standaard pagina en wijzig de
       Standaard pagina instellingen op Ja.
 - **Toegang**. Het
-  [Toegangsniveau](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/nl "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/nl")
+  Toegangsniveau
   om het item te bekijken.
 - **Taal**. Item taal.
 - **Notitie**. Dit wordt normaal gesproken door de beheerder gebruikt
@@ -237,8 +237,8 @@ alt="Menus Menu Item News Feeds Category feed display options parameters" />
 
 ### Algemene opties
 
-Zie [Menu's: Bewerken/Nieuw
-item](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl "Help4.x:Menu Item: New Item/nl")
+Zie Menu's: Bewerken/Nieuw
+item
 voor hulp over velden die algemeen zijn in alle menu-itemtypes de
 volgende tabbladen:
 
@@ -283,8 +283,8 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   dat menu-item bepalen de paginaweergave. Anders bepalen de opties van
   het huidige 'Toon alle categorieën' menu-item de paginaweergave.
 - U kunt de opties om een lijst weer te geven op twee plaatsen bepalen.
-  - In [Nieuwsfeeds beheer
-    opties](https://docs.joomla.org/Help4.x:News_Feed:_Options/nl "Help4.x:News Feed: Options/nl")
+  - In Nieuwsfeeds beheer
+    opties
     kunt u de standaardwaarde voor alle categorieën instellen.
   - In <a
     href="https://docs.joomla.org/index.php?title=Help4.x:News_Feeds:_New_or_Edit_Category/nl&amp;action=edit&amp;redlink=1"
@@ -293,21 +293,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
     Bewerk een nieuwsfeed categorie</a> keunt u de waarde voor een
     specifieke categorie instellen. Als dit ingesteld is overschrijft
     het de standaard waarde.
-
-## Verwante informatie
-
-- Categorieën worden aangemaakt met behulp van <a
-  href="https://docs.joomla.org/index.php?title=Help4.x:News_Feeds:_New_or_Edit_Category/nl&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Help4.x:News Feeds: New or Edit Category/nl (page does not exist)">Categoriebeheer:
-  Bewerk een nieuwsfeed categorie</a>.
-
-|                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                |
-|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Verwante helpschermen                                                                                                                      | Beschrijving                                                                                                                                                                                                                                                                                                                   |
-| [Nieuwsfeeds: Categorieën](https://docs.joomla.org/Help4.x:News_Feeds:_Categories/nl "Help4.x:News Feeds: Categories/nl")                  | Nieuwsfeed categorieën geven de mogelijkheid verschillende website feeds te categoriseren voor een betere organisatie.                                                                                                                                                                                                         |
-| [Nieuwsfeeds: Bewerk categorie](https://docs.joomla.org/Help4.x:News_Feeds:_Edit_Category/nl "Help4.x:News Feeds: Edit Category/nl")       | De Nieuw/Bewerk pagina voor het Nieuwsfeed categorie beheer is een aanmaak/bewerk scherm die website beheerders de mogelijkheid nieuwsfeed categorieën aan te maken of te bewerken. Categorieën geven een geneste structuur van nieuwsfeeds. *U moet minimaal één categorie hebben voordat u een nieuwsfeed kunt aanmaken!*    |
-| [Nieuwsfeeds](https://docs.joomla.org/Help4.x:News_Feeds/nl "Help4.x:News Feeds/nl")                                                       | Het Nieuwsfeed beheer scherm geeft u de mogelijkheid nieuwsfeeds van andere sites aan uw Joomla! site toe te voegen. U kunt links aan deze feeds voor gebruikers toevoegen door nieuwsfeed layouts toe te voegen in [Nieuwsfeeds - Bewerk](https://docs.joomla.org/Help4.x:News_Feeds:_Edit/nl "Help4.x:News Feeds: Edit/nl"). |
-| [Nieuwsfeeds: Bewerk](https://docs.joomla.org/Help4.x:News_Feeds:_Edit/nl "Help4.x:News Feeds: Edit/nl")                                   | Hier is het dat u een nieuwe nieuwsfeed toevoegt of een bestaande bewerkt. Let op dat u minstens één [Nieuwsfeed categorie](https://docs.joomla.org/Help4.x:News_Feeds:_Categories/nl "Help4.x:News Feeds: Categories/nl") aanmaakt voordat u uw eerste nieuwsfeed aanmaakt.                                                   |
-| <span class="mw-selflink selflink">Menu-item: Lijst met nieuwsfeeds in een categorie</span>                                                | Wordt gebruikt om een lijst met alle RSS nieuwsfeeds in een categorie te tonen. Afhankelijk van de geselecteerde opties voor de lay-out, kunt u subcategorieën van een nieuwsfeed categorie opnemen.                                                                                                                           |
-| [Menu-item: Een enkel nieuwsfeed](https://docs.joomla.org/Help4.x:Menu_Item:_Single_News_Feed/nl "Help4.x:Menu Item: Single News Feed/nl") | Wordt gebruikt om een enkel RSS nieuwsfeed te tonen. De nieuwsfeed wordt geselecteerd vanuit een lijst met nieuwsfeeds aangemaakt in [Nieuwsfeeds: Bewerk](https://docs.joomla.org/Help4.x:News_Feeds:_Edit/nl "Help4.x:News Feeds: Edit/nl").                                                                                 |

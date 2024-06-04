@@ -90,8 +90,7 @@ Werkzeugleiste im oberen Bereich. Die Funktionen sind:
   Üblicherweise muß diese Tabelle *nicht* wiederhergestellt werden. Die
   Funktion ist für den Fall einer beschädigten Tabelle gedacht.
 - **Optionen.** Öffnet das Optionen-Fenster, in dem Einstellungen, wie
-  die Standard-Parameter, bearbeitet werden können. Siehe auch [Menus
-  Configuration](https://docs.joomla.org/Help4.x:Components_Menus_Configuration "Special:MyLanguage/Help4.x:Components Menus Configuration").
+  die Standard-Parameter, bearbeitet werden können. Siehe auch
 - **Hilfe**. Öffnet die Hilfeseite.
 
 ## Tipps
@@ -123,14 +122,3 @@ Werkzeugleiste im oberen Bereich. Die Funktionen sind:
   verborgenen Menü. Wird das Standard-Menü-Element gewechselt, sollte es
   genauso wenig gelöscht werden! Das Menü mit dem Standardmenüeintrag
   ist im Menü *Menüs* mit einem Sternchen (\*) gekennzeichnet.
-
-## Verwandte Informationen
-
-- Neue Menüs hinzufügen: [Menüs:
-  Neu/Bearbeiten](https://docs.joomla.org/Help4.x:Menus:_Edit/de "Help4.x:Menus: Edit/de")
-- Zum Einrichten von Berechtigungen für Aktionen in Menüs: [Menüs:
-  Optionen](https://docs.joomla.org/Help4.x:Menus:_Options/de "Help4.x:Menus: Options/de")
-- Menüeinträge neu/bearbeiten: [Menüs:
-  Menü-Einträge](https://docs.joomla.org/Help4.x:Menus:_Items/de "Help4.x:Menus: Items/de")
-- Zum Hinzufügen oder Bearbeiten von Menü-Modulen: [Neuer
-  Menü-Eintrag](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/de "Help4.x:Menu Item: New Item/de")

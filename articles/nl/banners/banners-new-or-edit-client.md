@@ -51,7 +51,7 @@ alt="Components Banners Clients Edit screen" />
     verplaatst.
 - **Notitie versie**. Optioneel veld om deze versie van dit item te
   identificeren in het
-  [versiegeschiedenis](https://docs.joomla.org/Help40:Components_Version_History/nl "Special:MyLanguage/Help40:Components Version History/nl")
+  versiegeschiedenis
   venster.
 
 ### Metadata Opties
@@ -79,12 +79,12 @@ alt="Components Banners Clients Edit screen metadata" />
       u:
       - Voeg de trefwoorden "hond" en "kat" toe aan de juiste Artikelen.
       - Voeg de Tags "hond" en "kat" toe aan de juiste advertenties op
-        het [Advertentiebeheer
-        Nieuw/Bewerk](https://docs.joomla.org/Help40:Banners:_Edit/nl "Special:MyLanguage/Help40:Banners: Edit/nl")
+        het Advertentiebeheer
+        Nieuw/Bewerk
         scherm.
       - Stel de Advertentiemodule parameter 'Zoek op Tags' in op 'Ja' in
-        het [Advertentiemodule
-        bewerk](https://docs.joomla.org/Help40:Site_Modules:_Banners/nl "Special:MyLanguage/Help40:Site Modules: Banners/nl")
+        het Advertentiemodule
+        bewerk
         scherm.
   3.  Alleen voor artikelen, in combinatie met de [Gerelateerde
       artikelen
@@ -121,16 +121,7 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   aangemaakt.
 - **Versies**. Opent het item versie geschiedenis scherm om eerdere
   versies van dit item te tonen. Dit stelt u in staat oudere versies van
-  het item te bekijken en een oudere versie te herstellen. Zie [Versie
-  historie](https://docs.joomla.org/Help40:Components_Version_History/nl "Special:MyLanguage/Help40:Components Version History/nl")
+  het item te bekijken en een oudere versie te herstellen. Zie Versie
+  historie
   voor meer informatie.
 - **Help**. Opent dit helpscherm.
-
-## Verwante informatie
-
-- Om advertenties aan te maken of te bewerken: [Advertentie -
-  Nieuw/Bewerk](https://docs.joomla.org/Help4.x:Banners:_Edit/nl "Help4.x:Banners: Edit/nl")
-- Om met advertentiecategorieën te werken:
-  [Advertentiecategorieën](https://docs.joomla.org/Help4.x:Banners:_Categories/nl "Help4.x:Banners: Categories/nl")
-- Om advertenties op pagina's te zetten:
-  [Modulebeheer](https://docs.joomla.org/Help4.x:Modules/nl "Help4.x:Modules/nl")

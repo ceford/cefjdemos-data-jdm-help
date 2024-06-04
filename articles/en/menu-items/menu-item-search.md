@@ -48,8 +48,8 @@ alt="Menu Item Finder Search screen" />
 - **Search Filters**. Select from list of \<Search filter\> in drop down
   to limit searches to the selected filter.
 
-*Note: Filters must be created using [Smart Search
-Filters](https://docs.joomla.org/Help4.x:Smart_Search:_Search_Filters/en "Help4.x:Smart Search: Search Filters/en")
+*Note: Filters must be created using Smart Search
+Filters
 before they are populated to this drop down list.*
 
 - **Link**. The system-generated link for this menu item. This field

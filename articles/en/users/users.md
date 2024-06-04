@@ -33,8 +33,8 @@ alt="Users list screen" />
   toolbar button 'Actions' get active.
 - **Name**. The full name of the user.
   - **Add a Note**. Create a Note for the user.
-    - **Show notes list**. Show the [User
-      Notes](https://docs.joomla.org/Help4.x:User_Notes/en "Special:MyLanguage/Help4.x:User Notes/en")
+    - **Show notes list**. Show the User
+      Notes
       for the user as a list.
     - **Display note**. Show the User Notes for the user in a window and
       stays in the current screen.
@@ -156,7 +156,3 @@ alt="Users batch process dialog" />
 - Click on the name of a user to edit the user's properties.
 - Click on the icon in the Enabled column to toggle between Enabled and
   Disabled status.
-- To understand user and group permissions, read:
-  <img src="https://docs.joomla.org/images/4/49/Compat_icon_3_x_long.png"
-  decoding="async" data-file-width="75" data-file-height="16" width="75"
-  height="16" alt="Joomla 3.x" />

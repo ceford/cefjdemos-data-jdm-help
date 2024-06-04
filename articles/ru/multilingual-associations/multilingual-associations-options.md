@@ -54,16 +54,3 @@ Screenshot above.
 - **Закрыть**. Закрывает текущий экран и возвращает к предыдущему
   экрану, без сохранения внесенных изменений.
 - **Справка**. Открывает экран помощи.
-
-## Связанная информация
-
-- This
-  [Portal](https://docs.joomla.org/Portal:Joomla_4/en "Portal:Joomla 4/en")
-  brings together information related specifically to Joomla 4.
-
-|                                                                                                                                                       |                                                                                            |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Related Help Screens/ru                                                                                                                               | Описание                                                                                   |
-| <span class="mw-selflink selflink">Многоязычные связи: Настройки</span>                                                                               | Default permissions used for all content in the Multilingual Associations Component.       |
-| [Многоязычные связи](https://docs.joomla.org/Help4.x:Multilingual_Associations/ru "Help4.x:Multilingual Associations/ru")                             | This screen is used to set up an Association between an item and installed site languages. |
-| [Многоязычные связи: Редактирование](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Edit/ru "Help4.x:Multilingual Associations: Edit/ru") | Used to add or edit associations between languages displayed on a multilingual website.    |

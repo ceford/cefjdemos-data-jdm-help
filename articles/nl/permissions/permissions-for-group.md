@@ -114,8 +114,3 @@ height="39" alt="Help31 Help Permissions Report Legend nl.png" />
 - "'Niet Toegestaan'. Actie is niet toegestaan.
 - **Toegestaan**. Actie toegestaan.
 - **Verboden**.Actie verboden.
-
-## Verwante informatie
-
-- [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl "Help4.x:Site Global Configuration/nl")

@@ -42,8 +42,7 @@ title="File:Help-4x-Menus-New-Item-screen-pt-br.png">800px</a>
 - **Alias**: O nome interno do item dos menus. Normalmente, você pode
   deixar em branco e o Joomla! preencherá um valor padrão, fundamentado
   no título, em letras minúsculas e com traços em vez de espaços.
-  [Aprender
-  mais](https://docs.joomla.org/Alias/pt-br "Special:MyLanguage/Alias/pt-br").
+
 
 ### Detalhes
 
@@ -70,8 +69,7 @@ title="File:Help-4x-Menus-New-Item-screen-pt-br.png">800px</a>
   menu. A classificação padrão adiciona o item dos menus no final do
   menu. Este item dos menus será movido para a posição da classificação
   logo após o item dos menus selecionado na lista suspensa for salvo.
-  Nota: A classificação também pode ser alterada em [Menus:
-  Itens](https://docs.joomla.org/Help4.x:Menus:_Items/pt-br "Special:MyLanguage/Help4.x:Menus: Items/pt-br").
+  Nota: A classificação também pode ser alterada em
 - **Estado**: O estado da publicação do item dos menus.
 - **Início da publicação**: Data e hora para começar a publicar. Use
   este campo se desejar inserir o item dos menus antecipadamente e
@@ -84,12 +82,11 @@ title="File:Help-4x-Menus-New-Item-screen-pt-br.png">800px</a>
   site. Deve haver exatamente um item dos menus definido como a página
   padrão. Você pode alterar a página padrão de duas maneiras:
   1.  Clique na coluna "Início" do item dos menus desejado na tela
-      [Menus:
-      Itens](https://docs.joomla.org/Help4.x:Menus:_Items/pt-br "Special:MyLanguage/Help4.x:Menus: Items/pt-br").
+
   2.  Abra o item dos menus para a nova página padrão e altere a
       configuração "Página padrão" para "Sim".
-- **Acesso**: O [nível do acesso para
-  visualização](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/pt-br "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/pt-br")
+- **Acesso**: O nível do acesso para
+  visualização
   para este item dos menus.
 - **Linguagem**: Linguagem dos itens dos menus.
 - **Nota**: Isso normalmente é para uso da administração do site e não é
@@ -125,8 +122,8 @@ class="new"
 title="File:Help-4x-Menus-New-Item-page-display-subscreen-pt-br.png">600px</a>
 
 Nota: As opções incluem "**Usar global**". Se esta opção for
-selecionada, a configuração em [Menus:
-Opções](https://docs.joomla.org/Help4.x:Menus:_Options/pt-br "Special:MyLanguage/Help4.x:Menus: Options/pt-br")
+selecionada, a configuração em Menus:
+Opções
 será usada.
 
 - **Título da página no navegador**: Texto opcional para o elemento
@@ -149,11 +146,9 @@ class="new"
 title="File:Help-4x-Menus-New-Item-metadata-subscreen-pt-br.png">600px</a>
 
 - **Meta descrição**: Um parágrafo a ser usado como a descrição da
-  página. [Aprender
-  mais](https://docs.joomla.org/Using_The_Meta_Description/pt-br "Special:MyLanguage/Using The Meta Description/pt-br").
+  página.
 - **Robôs**: As instruções para "robôs" da web que navegam até esta
-  página. Defina "Usar global" em [Configurações
-  globais](https://docs.joomla.org/Help4.x:Site_Global_Configuration/pt-br#robots "Special:MyLanguage/Help4.x:Site Global Configuration/pt-br").
+  página. Defina "Usar global" em
 
 ### Associações
 
@@ -162,8 +157,7 @@ href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help
 class="new"
 title="File:Help-4x-Menus-New-Item-associations-subscreen-pt-br.png">600px</a>
 
-[Apenas
-multilíngue](https://docs.joomla.org/Help4.x:Multilingual_Associations/pt-br "Special:MyLanguage/Help4.x:Multilingual Associations/pt-br").
+
 
 ### Atribuição do módulo
 
@@ -195,22 +189,13 @@ Os itens dos menus salvos possuem botões adicionais:
   - **Salvar como cópia**: Salva suas alterações em uma cópia do item
     dos menus atual. Não afeta o item dos menus atual.
 - **Associações**: Com uma linguagem específica definida para um item
-  dos menus, permite edição lado a lado em outra linguagem. [Apenas
-  multilíngue](https://docs.joomla.org/Help4.x:Multilingual_Associations/pt-br "Special:MyLanguage/Help4.x:Multilingual Associations/pt-br").
+  dos menus, permite edição lado a lado em outra linguagem.
 - **Fechar** em vez de "Cancelar", mesma função.
 
 ## Dicas rápidas
 
-- Para adicionar um item dos menus para "[Artigos
-  arquivados](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived/pt-br "Special:MyLanguage/Help4.x:Menu Item: Article Archived/pt-br")".
+- Para adicionar um item dos menus para "Artigos
+  arquivados".
 - A distribuição principal do Joomla! fornece 38 tipos de itens dos
   menus diferentes. Se você instalar extensões de terceiros, elas
   poderão adicionar mais tipos para menus.
-
-## Informações relacionadas
-
-- Tutorial: [Como adicionar um novo
-  menu](https://docs.joomla.org/J4.x:Adding_a_New_Menu/pt-br "Special:MyLanguage/J4.x:Adding a New Menu/pt-br").
-- Este
-  [portal](https://docs.joomla.org/Portal:Joomla_4/pt-br "Special:MyLanguage/Portal:Joomla 4/pt-br")
-  reúne informações relacionadas especificamente ao Joomla! 4.

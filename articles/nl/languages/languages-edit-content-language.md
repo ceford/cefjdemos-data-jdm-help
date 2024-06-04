@@ -13,7 +13,7 @@ href="https://docs.joomla.org//docs.joomla.org/index.php?title=Help4.x:Languages
 class="external text" target="_blank"
 rel="noreferrer noopener">contributing to it</a>.
 <span class="small">More pages that need help similar to this one are
-[here](https://docs.joomla.org/Category:Needs_completion "Category:Needs completion").</span>
+here.</span>
 <span class="small">**NOTE-If you feel the need is satistified, please
 remove this notice.**</span>*
 **Reason:** The section "Options Tab" needs more information
@@ -58,7 +58,7 @@ alt="Extensions Language Manager Edit screen" />
 - **Status.** Beschikbare opties zijn Gepubliceerd, Gedepubliceerd,
   Verplaatst naar prullenbak.
 - **Toegang**. Het
-  [Toegangsniveau](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/nl "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/nl")
+  Toegangsniveau
   om het item te bekijken.
 - **Beschrijving**. Vul een beschrijving in voor de taal.
 - **ID**. Dit is een uniek identificatienummer voor dit item,
@@ -95,9 +95,9 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 
 - Gebruikers kunnen iedere taal gebruiken uit de lijst met
   geïnstalleerde talen, of door het te koppelen in
-  [Gebruikersbeheer](https://docs.joomla.org/Help4.x:Users/nl "Help4.x:Users/nl")
-  of door [Menu-item Beheer - Nieuw/Bewerken -
-  gebruikersformulier](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl#User_Form_Layout "Help4.x:Menu Item: New Item/nl")
+  Gebruikersbeheer
+  of door Menu-item Beheer - Nieuw/Bewerken -
+  gebruikersformulier
   op de website in te vullen. Dit zal het Joomla systeem afdwingen voor
   deze gebruiker in deze taal te verschijnen. Als een gebruiker
   bijvoorbeeld voor Spaans kiest als zijn of haar taal, dan verschijnt
@@ -110,21 +110,8 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   (bijvoorbeeld via FTP). Dit veroorzaakt fouten op zowel de website als
   in het beheergedeelte.
 - Extra talen kunnen worden toegevoegd met behulp van het
-  [Extensiebeheer - Installatie
-  scherm](https://docs.joomla.org/Help4.x:Extensions:_Install/nl "Help4.x:Extensions: Install/nl").
+
 - Indien gewenst kunt u de website en één taal tonen en het
   beheergedeelte in een andere taal. Individuele artikelen kunnen ook
   gebruikt worden in een andere taal via het geavanceerde instellingen
   scherm bij het bewerken van het artikel.
-
-## Verwante informatie
-
-- Om meer talen te installeren: [Extensiebeheer - Installeer
-  scherm](https://docs.joomla.org/Help4.x:Extensions:_Install/nl "Help4.x:Extensions: Install/nl")
-- Om talen te deïnstalleren: [Extensiebeheer -
-  Beheer](https://docs.joomla.org/Help4.x:Extensions:_Manage/nl "Help4.x:Extensions: Manage/nl")
-- Om de taal van een gebruiker te wijzigen: [Gebruikers -
-  Nieuw/Bewerken](https://docs.joomla.org/Help4.x:Users:_Edit_Profile/nl "Help4.x:Users: Edit Profile/nl")
-- Om de taal van een artikel in te stellen: [Artikelen - Nieuw/Bewerken-
-  Parameters -
-  Geavanceerd](https://docs.joomla.org/Help4.x:Articles:_Edit/nl#Parameters_-_Advancedl "Help4.x:Articles: Edit/nl")

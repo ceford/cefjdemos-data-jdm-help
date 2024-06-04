@@ -149,7 +149,3 @@ alt="Users batch subscreen" />
 - Click on the name of a user to edit the user's properties.
 - Click on the icon in the Enabled column to toggle between Enabled and
   Disabled status.
-- To understand user and group permissions, read:
-  <img src="https://docs.joomla.org/images/4/49/Compat_icon_3_x_long.png"
-  decoding="async" data-file-width="75" data-file-height="16" width="75"
-  height="16" alt="Joomla 3.x" />

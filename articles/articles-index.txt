@@ -15,12 +15,6 @@ banners=banners-tracks.md=https://docs.joomla.org/Help5.x:Banners:_Tracks
 banners=banners.md=https://docs.joomla.org/Help5.x:Banners
 
 components=components-patch-tester-options.md=https://docs.joomla.org/Help5.x:Components_Patch_Tester_Options
-components=components-plug-in-manager-options.md=https://docs.joomla.org/Help5.x:Components_Plug-in_Manager_Options
-components=components-privacy-outline.md=https://docs.joomla.org/Help5.x:Components_Privacy_Outline
-components=components-redirect-manager.md=https://docs.joomla.org/Help5.x:Components_Redirect_Manager
-components=components-search.md=https://docs.joomla.org/Help5.x:Components_Search
-components=components-search-manager-options.md=https://docs.joomla.org/Help5.x:Components_Search_Manager_Options
-components=components-version-history.md=https://docs.joomla.org/Help5.x:Components_Version_History
 
 contacts=contacts-categories.md=https://docs.joomla.org/Help5.x:Contacts:_Categories
 contacts=contacts-new-or-edit.md=https://docs.joomla.org/Help5.x:Contacts:_New_or_Edit

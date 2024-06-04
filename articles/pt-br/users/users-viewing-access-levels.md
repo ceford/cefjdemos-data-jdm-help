@@ -77,15 +77,3 @@ de tela](#Captura_de_tela) acima. As funções são:
 - Clique no nome de um nível de acesso para editá-lo.
 - Clique nos cabeçalhos das colunas para classificar os usuários, pela
   coluna em questão, em ordem crescente ou decrescente.
-
-## Informações relacionadas
-
-- [Usuários: Editar níveis de acesso de
-  visualização](https://docs.joomla.org/Help4.x:Users:_Edit_Viewing_Access_Level/pt-br "Help4.x:Users: Edit Viewing Access Level/pt-br")
-- [Usuários:
-  Opções](https://docs.joomla.org/Help4.x:Users:_Options/pt-br "Help4.x:Users: Options/pt-br")
-- [Usuários](https://docs.joomla.org/Help4.x:Users/pt-br "Help4.x:Users/pt-br")
-- [Usuários:
-  grupos](https://docs.joomla.org/Help4.x:Users:_Groups/pt-br "Help4.x:Users: Groups/pt-br")
-- [Tutorial sobre ACLs para o Joomla!
-  3.x](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/pt-br "J3.x:Access Control List Tutorial/pt-br")

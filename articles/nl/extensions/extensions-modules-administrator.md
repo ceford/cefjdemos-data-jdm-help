@@ -40,7 +40,3 @@ alt="Modules Administrators New" />
   heeft geïnstalleerd, dan kan uw site moduletypes bevatten die hier
   niet staan. Kijk alstublieft in de documentatie van de extensie voor
   informatie over deze moduletypes.
-
-## Verwante informatie
-
-- Modules

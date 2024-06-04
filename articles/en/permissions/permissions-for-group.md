@@ -54,8 +54,8 @@ shown, color coded as per legend.
   in any extension.
 - **Edit Custom Field Value.** Allows users in the group to edit any
   value of custom fields submitted in any extension.
-- **LFT.** The left and right values in the hierarchy. See [Using nested
-  sets](https://docs.joomla.org/Using_nested_sets "Using nested sets")
+- **LFT.** The left and right values in the hierarchy. See Using nested
+  sets
   in English.
 - **ID**. This is a unique identification number for this item assigned
   automatically by Joomla. It is used to identify the item internally,

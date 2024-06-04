@@ -1,7 +1,7 @@
 <!-- Filename: Help4.x:Site_Global_Configuration_Logging / Display title: Общие настройки: Логирование -->
 
- **←**  [Общие
-настройки](https://docs.joomla.org/Help4.x:Site_Global_Configuration/ru#logging "Help4.x:Site Global Configuration/ru")
+ **←**  Общие
+настройки
 
 <img
 src="https://docs.joomla.org/images/thumb/2/27/Help-4x-Global-Configuration-logging-subscreen-ru.png/800px-Help-4x-Global-Configuration-logging-subscreen-ru.png"
@@ -10,5 +10,5 @@ srcset="https://docs.joomla.org/images/thumb/2/27/Help-4x-Global-Configuration-l
 data-file-width="1858" data-file-height="1081" width="800" height="465"
 alt="Скриншот: Логирование" />
 
- **←**  [Общие
-настройки](https://docs.joomla.org/Help4.x:Site_Global_Configuration/ru#logging "Help4.x:Site Global Configuration/ru")
+ **←**  Общие
+настройки

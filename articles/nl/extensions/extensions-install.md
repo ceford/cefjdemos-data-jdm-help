@@ -144,18 +144,12 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 
 - **Installeren.** Linkt naar het
   <span class="mw-selflink selflink">Extensies: Installeren</span>.
-- **Update.** Linkt naar het [Extensies: Update
-  scherm](https://docs.joomla.org/Help4.x:Extensions:_Update/nl "Help4.x:Extensions: Update/nl").
-- **Beheren.** Linkt naar het [Beheren
-  scherm](https://docs.joomla.org/Help4.x:Extensions:_Manage/nl "Help4.x:Extensions: Manage/nl").
-- **Ontdekken.** Linkt naar het [Ontdekken
-  scherm](https://docs.joomla.org/Help4.x:Extensions:_Discover/nl "Help4.x:Extensions: Discover/nl").
-- **Database.** Linkt naar het [Database
-  scherm](https://docs.joomla.org/Help4.x:Information:_Database/nl "Help4.x:Information: Database/nl").
-- **Waarschuwingen.** Linkt naar het [Waarschuwingen
-  scherm](https://docs.joomla.org/Help4.x:Information:_Warnings/nl "Help4.x:Information: Warnings/nl").
-- **Installeer talen.** Linkt naar het [Installeer talen
-  scherm](https://docs.joomla.org/Help4.x:Extensions:_Languages/nl "Help4.x:Extensions: Languages/nl").
+- **Update.** Linkt naar het
+- **Beheren.** Linkt naar het
+- **Ontdekken.** Linkt naar het
+- **Database.** Linkt naar het
+- **Waarschuwingen.** Linkt naar het
+- **Installeer talen.** Linkt naar het
 - **Updatesites.** Linkt naar het <a
   href="https://docs.joomla.org/index.php?title=Help4.x:Extensions_Extension_Manager_Update_Sites/nl&amp;action=edit&amp;redlink=1"
   class="new"
@@ -192,36 +186,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   aanbevolen de "Installeren vanuit Web", "Upload pakketbestand" of
   "Installeren vanuit map" opties te gebruiken als u nieuwe extensies
   installeert.
-
-## Verwante informatie
-
-- Als u een component extensie installeert, zal het een plekje krijgen
-  als nieuw menu-item in het *Componenten* menu.
-- U kunt een menu-item toekennen aan een geïnstalleerde component
-  extensie in [Menu-Item
-  beheer](https://docs.joomla.org/Help4.x:Menus:_Items/nl "Help4.x:Menus: Items/nl")
-  door te klikken op de *Nieuw* werkbalk knop. De nieuwe component zal
-  getoond worden in de interne linklijst van menu-item types.
-- Als u een module extensie installeert, wordt het toegevoegd aan de
-  lijst met modules in
-  [Modulelijst](https://docs.joomla.org/Help4.x:Modules/nl "Help4.x:Modules/nl"),
-  waar u hem kunt activeren/deactiveren. U kunt ook zijn parameters
-  aanpassen in het [Bewerk
-  module](https://docs.joomla.org/Help4.x:Extensions_Module_Manager_Edit/nl "Help4.x:Extensions Module Manager Edit/nl")
-  scherm.
-- Een geïnstalleerde plugin extensie wordt toegevoegd aan de lijst in
-  [Pluginbeheer](https://docs.joomla.org/Help4.x:Plugins/nl "Help4.x:Plugins/nl"),
-  waar u hem kunt activeren/deactiveren. Door te klikken op de
-  [Pluginnaam](https://docs.joomla.org/Help4.x:Plugins:_Name_of_Plugin/nl "Help4.x:Plugins: Name of Plugin/nl")
-  kunt u de parameters op het volgende scherm aanpassen.
-- Een geïnstalleerde Template extensie zal worden toegevoegd aan de Site
-  od Administrator lijst van het [Template
-  lijst](https://docs.joomla.org/Help4.x:Templates:_Styles/nl "Help4.x:Templates: Styles/nl")
-  alwaar u het kunt toekennen aan alle pagina's of bepaalde pagina's. U
-  kunt ook de parameters aanpassen, de HTML bewerken of de CSS bron, of
-  de beschikbare module-posities bekijken.
-- Een geïnstalleerde taalextensie zal worden toegevoegd aan de Site of
-  Administrator lijst van
-  [Taalbeheer](https://docs.joomla.org/Help4.x:Languages:_Installed/nl "Help4.x:Languages: Installed/nl"),
-  afhankelijk van het client attribuut van de extensie. Dit scherm kan
-  het u, indien gewenst, laten koppelen als standaard taal.

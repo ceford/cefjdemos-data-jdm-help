@@ -81,16 +81,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 - Klik op de naam van een toegangsniveau om het te bewerken.
 - Klik op de kolomkop om de toegangsniveaus op die kolom oplopend of
   aflopend te sorteren.
-
-## Verwante informatie
-
-- [Gebruikers: Toegangsniveaus
-  bewerken](https://docs.joomla.org/Help4.x:Users:_Edit_Viewing_Access_Level/nl "Help4.x:Users: Edit Viewing Access Level/nl")
-- [Gebruikers:
-  Instellingen](https://docs.joomla.org/Help4.x:Users:_Options/nl "Help4.x:Users: Options/nl")
-- [Gebruikersbeheer:
-  Gebruikers](https://docs.joomla.org/Help4.x:Users/nl "Help4.x:Users/nl")
-- [Gebruikers:
-  Gebruikersgroepen](https://docs.joomla.org/Help4.x:Users:_Groups/nl "Help4.x:Users: Groups/nl")
-- [ACL handleiding voor Joomla!
-  3.x](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/nl "J3.x:Access Control List Tutorial/nl")

@@ -31,8 +31,7 @@ alt="Users Options screen" />
 
 - **Allow User Registration**.
   - Yes: Users can register from the Frontend of the site using the
-    'Create an Account' link provided on the [Login
-    module](https://docs.joomla.org/Help4.x:Site_Modules:_Login/en "Special:MyLanguage/Help4.x:Site Modules: Login/en").
+    'Create an Account' link provided on the
   - No: The 'Create an Account' link will not show.
 - **New User Registration Group**. The
   group
@@ -56,12 +55,12 @@ alt="Users Options screen" />
   administrators with 'New User Account Activation' set to 'None' or
   'Self'.
 - **Captcha**. Use
-  [Captcha](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#captcha "Special:MyLanguage/Help4.x:Site Global Configuration/en")
+  Captcha
   for User Account Registration, User Password reminder and Username
   reminder.
 - **Frontend User Parameters**.
-  - Show: Users will be able to modify their [Basic
-    Settings](https://docs.joomla.org/Help4.x:Users:_Edit_Profile/en#basicssettings "Special:MyLanguage/Help4.x:Users: Edit Profile/en")
+  - Show: Users will be able to modify their Basic
+    Settings
     from the Frontend of the site.
   - Hide: User will not be able to change these settings.
   - Frontend Language. Default site language.

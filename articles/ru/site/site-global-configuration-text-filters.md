@@ -1,7 +1,7 @@
 <!-- Filename: Help4.x:Site_Global_Configuration_Text_Filters / Display title: Общие настройки: Фильтры текста -->
 
- **←**  [Общие
-настройки](https://docs.joomla.org/Help4.x:Site_Global_Configuration/ru#textfilters "Help4.x:Site Global Configuration/ru")
+ **←**  Общие
+настройки
 
 <img
 src="https://docs.joomla.org/images/thumb/9/93/Help-4x-Global-Configuration-textfilters-subscreen-ru.png/800px-Help-4x-Global-Configuration-textfilters-subscreen-ru.png"
@@ -10,5 +10,5 @@ srcset="https://docs.joomla.org/images/thumb/9/93/Help-4x-Global-Configuration-t
 data-file-width="1858" data-file-height="1800" width="800" height="775"
 alt="Скриншот: Фильтры текста" />
 
- **←**  [Общие
-настройки](https://docs.joomla.org/Help4.x:Site_Global_Configuration/ru#textfilters "Help4.x:Site Global Configuration/ru")
+ **←**  Общие
+настройки

@@ -86,7 +86,7 @@ dargestellte Filterleiste. Die Funktionen sind:
 
 **Seitenkontrolle**. Gibt es mehr Einträge als auf der Seite gezeigt,
 wird im unteren Bereich die Seitenkontrollleiste wie auf dem
-[Bildschirmfoto](#screenshot) eingeblendet. Die aktuelle Seitenzahl ist
+Bildschirmfoto eingeblendet. Die aktuelle Seitenzahl ist
 mit dunkler Farbe unterlegt.
 
 - **Start**. Anklicken, um die erste Seite anzuzeigen.
@@ -119,7 +119,3 @@ height="22" alt="Help31 Help Permissions Report Legend de.png" />
 - **Nicht erlaubt**. Die Aktion ist nicht erlaubt.
 - **Erlaubt**. Die Aktion ist erlaubt.
 - **Verboten**. Die Aktion ist verboten.
-
-## Verwandte Informationen
-
-- [Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de "Help4.x:Site Global Configuration/de")

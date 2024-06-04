@@ -1,7 +1,7 @@
 <!-- Filename: Help4.x:Site_Global_Configuration_Site / Display title: Site Global Configuration Site -->
 
- **←**  [Global
-Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#site "Help4.x:Site Global Configuration/en")
+ **←**  Global
+Configuration
 
 <img
 src="https://docs.joomla.org/images/thumb/6/64/Help-4x-global-configuration-site-subscreen-en.png/800px-Help-4x-global-configuration-site-subscreen-en.png"
@@ -31,5 +31,5 @@ srcset="https://docs.joomla.org/images/thumb/6/60/Help-4x-global-configuration-c
 data-file-width="1566" data-file-height="357" width="800" height="182"
 alt="Screenshot: Cookie" />
 
- **←**  [Global
-Configuration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/en#site "Help4.x:Site Global Configuration/en")
+ **←**  Global
+Configuration

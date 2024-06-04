@@ -52,8 +52,7 @@ bovenstaande Screenshot.
     aflopend volgorde.
 - **Te tonen aantal.** Toont het aantal items in een lijst. Selecteer
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#defaultlistlimit "Help4.x:Site Global Configuration/nl").
+  voor een site is '20' maar dit kan veranderd worden bij de
 
 ## Werkbalk
 
@@ -64,8 +63,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 - **Opties.** Opent het venster Opties, waar instellingen zoals de
   standaard parameters kunnen worden bewerkt.
 - **Help**. Opent dit helpscherm.
-
-## Verwante informatie
-
-- [De privacy
-  hulpmiddelen](https://docs.joomla.org/J3.x:Privacy/nl "J3.x:Privacy/nl")

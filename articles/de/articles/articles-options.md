@@ -32,14 +32,13 @@ alt="Content Article Manager Options screen" />
 
 ### Beiträge
 
-Optionen für Beiträge und die Menüeinträge [Alle Kategorien
-auflisten](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/de#options "Help4.x:Menu Item: List All Categories/de"),
-[Einzelner
-Beitrag](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article/de#options "Help4.x:Menu Item: Single Article/de"),
-[Hauptbeiträge](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/de#options "Help4.x:Menu Item: Featured Articles/de"),
-[Kategorieblog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/de#options "Help4.x:Menu Item: Category Blog/de")
+Optionen für Beiträge und die Menüeinträge
+Einzelner
+Beitrag,
+Hauptbeiträge,
+Kategorieblog
 und
-[Kategorieliste](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/de#options "Help4.x:Menu Item: Category List/de").
+Kategorieliste.
 
 **Layout**
 
@@ -64,21 +63,20 @@ und
 
 - **Kategorie**. Den Kategorietitel des Beitrags zeigen.
   - **Kategorie verlinken**. Den Kategorietitel als Link zeigen.Hinweis:
-    Im Tab 'Kategorie' kann mit [Layout
-    auswählen](https://docs.joomla.org/Help4.x:Articles:_Options/de#choosealayout "Help4.x:Articles: Options/de")
+    Im Tab 'Kategorie' kann mit Layout
+    auswählen
     'Blog' oder 'Liste' festgelegt werden.
 - **Übergeordnete Kategorie**. Den Titel der übergeordneten Kategorie
   des Beitrages zeigen.
   - **Übergeordnete Kategorie verlinken**. Den Titel der Kategorie als
-    Link zeigen.Hinweis: Im Tab 'Kategorie' kann mit [Layout
-    auswählen](https://docs.joomla.org/Help4.x:Articles:_Options/de#choosealayout "Help4.x:Articles: Options/de")
+    Link zeigen.Hinweis: Im Tab 'Kategorie' kann mit Layout
+    auswählen
     'Blog' oder 'Liste' festgelegt werden.
 
 **Verknüpfungen**
 
 - **Verknüpfungen anzeigen**. Zeigt verknüpfte Flaggen oder den
-  Sprachcode. [Nur bei mehrsprachigen
-  Seiten](https://docs.joomla.org/Help4.x:Multilingual_Associations/de "Help4.x:Multilingual Associations/de").
+  Sprachcode.
   - **Flaggen verwenden**. Anzeige der Sprachauswahl als Flaggenbild.
 
 **Autor**
@@ -89,9 +87,9 @@ und
     gezeigt, wenn er mit einem Kontakt verknüpft ist. Ist ein Wert im
     Autoren-Alias eingetragen, wird ebenfalls kein Link
     angezeigt.Hinweis: Der Autor muss als
-    [Kontakt](https://docs.joomla.org/Help4.x:Contacts:_Edit/de "Help4.x:Contacts: Edit/de")
+    Kontakt
     angelegt sein. Wurde ein
-    [Autoralias](https://docs.joomla.org/Help4.x:Articles:_Edit/de#createdbyalias "Help4.x:Articles: Edit/de")
+    Autoralias
     eingegeben, wird der Link nicht angezeigt.
 
 **Datum**
@@ -143,28 +141,28 @@ alt="Content Article Manager Options editing layout subscreen" />
 
 - **Captcha beim Einreichen erlauben**. Das beim Erstellen eines
   Beitrages zu verwendende
-  [Captcha](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_CAPTCHA_Group/de "Chunk4x:Extensions Plugin Manager Edit CAPTCHA Group/de")
+  Captcha
   wählen. Bei 'Global' muss ein Captcha in der
-  [Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#captcha "Help4.x:Site Global Configuration/de")
+  Konfiguration
   gewählt sein.
 - **Veröffentlichungsparameter anzeigen**. Den Tab
-  [Veröffentlichung](https://docs.joomla.org/Help4.x:Articles:_Edit/de#publishing "Help4.x:Articles: Edit/de")
+  Veröffentlichung
   im Backend beim Bearbeiten von Beiträgen verbergen. Benutzer des
   Backends können dann die Felder des Tabs nicht bearbeiten. Den Feldern
   werden immer Standardwerte zugeordnet.
 - **Beitragseinstellungen anzeigen**. Den Tab
-  [Optionen](https://docs.joomla.org/Help4.x:Articles:_Edit/de#options "Help4.x:Articles: Edit/de")
+  Optionen
   im Backend beim Bearbeiten von Beiträgen verbergen. Benutzer des
   Backends können die Felder des Tabs nicht bearbeiten. Den Feldern
   werden immer Standardwerte zugeordnet.
-- **Bildschirm-Optionen bearbeiten**. Den Tab [Konfigurieren des
-  Editorfensters](https://docs.joomla.org/Help4.x:Articles:_Edit/de#configureeditscreen "Help4.x:Articles: Edit/de")
+- **Bildschirm-Optionen bearbeiten**. Den Tab Konfigurieren des
+  Editorfensters
   beim Bearbeiten von Beiträgen verbergen.
 - **Beitragsberechtigungen**. Den Tab
-  [Berechtigungen](https://docs.joomla.org/Help4.x:Articles:_Edit/de#permissions "Help4.x:Articles: Edit/de")
+  Berechtigungen
   beim Bearbeiten von Beiträgen verbergen.
 - **Verknüpfungen anzeigen**. Den Tab
-  [Verknüpfungen](https://docs.joomla.org/Help4.x:Articles:_Edit/de#associations "Help4.x:Articles: Edit/de")
+  Verknüpfungen
   beim Bearbeiten von Beiträgen verbergen.
 - **Versionen speichern**. Versionen für Beiträge und Kategorien
   speichern.
@@ -172,12 +170,12 @@ alt="Content Article Manager Options editing layout subscreen" />
   eines Beitrages oder einer Kategorie. Wird ein Beitrag oder eine
   Kategorie gespeichert und die maximale Anzahl der Versionen ist
   erreicht, wird die älteste Version automatisch gelöscht. Wird "0"
-  eingetragen, werden die alten Versionen nicht gelöscht. [Mehr
-  erfahren.](https://docs.joomla.org/Help4.x:Components_Version_History/de "Help4.x:Components Version History/de")
+  eingetragen, werden die alten Versionen nicht gelöscht. Mehr
+  erfahren.
 - **Bilder und Links im Frontend**. Den Tab 'Bilder und Links' im
   Frontend-Editor des Beitrages verbergen.
-- **Bilder und Links im Backend**. Den Tab [Bilder und
-  Links](https://docs.joomla.org/Help4.x:Articles:_Edit/de#imagesandlinks "Help4.x:Articles: Edit/de")
+- **Bilder und Links im Backend**. Den Tab Bilder und
+  Links
   im Backend beim Bearbeiten von Beiträgen verbergen.
 - **URL A Zielfenster**. Bestimmt den Standard-Wert für das Ziel des
   ersten Links im Beitrag. Zur Auswahl stehen:
@@ -204,11 +202,11 @@ alt="Content Article Manager Options editing layout subscreen" />
 ### Kategorie
 
 Optionen für eine Kategorie und ihre Beiträge. Sie werden in Kategorien
-und den Menüeinträgen [Alle Kategorien
-auflisten](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/de#category "Help4.x:Menu Item: List All Categories/de"),
-[Kategorieblog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/de#category "Help4.x:Menu Item: Category Blog/de")
+und den Menüeinträgen Alle Kategorien
+auflisten,
+Kategorieblog
 und
-[Kategorieliste](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/de#category "Help4.x:Menu Item: Category List/de")
+Kategorieliste
 verwendet.
 
 <img
@@ -239,8 +237,8 @@ alt="Content Article Manager Options category subscreen" />
 
 ### Kategorien
 
-Die Optionen legen die Anzeige des Menüeintrages [Alle Kategorien
-auflisten](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/de#categories "Help4.x:Menu Item: List All Categories/de")
+Die Optionen legen die Anzeige des Menüeintrages Alle Kategorien
+auflisten
 fest.
 
 <img
@@ -263,11 +261,11 @@ alt="Content Article Manager Options categories subscreen" />
 
 ### Blog/Hauptbeiträge
 
-Optionen für die Anzeige der Menüeinträge [Alle Kategorien
-auflisten](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/de#blog "Help4.x:Menu Item: List All Categories/de"),
-[Hauptbeiträge](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/de#blog "Help4.x:Menu Item: Featured Articles/de")
+Optionen für die Anzeige der Menüeinträge Alle Kategorien
+auflisten,
+Hauptbeiträge
 und
-[Kategorieblog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/de#blog "Help4.x:Menu Item: Category Blog/de").
+Kategorieblog.
 
 <img
 src="https://docs.joomla.org/images/thumb/2/2a/Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-de.png/600px-Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-de.png"
@@ -326,10 +324,10 @@ alt="Content Article Manager Options blog featured layout subscreen" />
 
 ### Listenlayout
 
-Optionen für die Anzeige der Menüeinträge [Alle Kategorien
-auflisten](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/de#listlayouts "Help4.x:Menu Item: List All Categories/de")
+Optionen für die Anzeige der Menüeinträge Alle Kategorien
+auflisten
 und
-[Kategorieliste](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/de#listlayouts "Help4.x:Menu Item: Category List/de").
+Kategorieliste.
 
 <img
 src="https://docs.joomla.org/images/thumb/9/95/Help-4x-Content-Article-Manager-Options-list-layout-subscreen-de.png/600px-Help-4x-Content-Article-Manager-Options-list-layout-subscreen-de.png"
@@ -364,10 +362,10 @@ alt="Content Article Manager Options list layout subscreen" />
 ### Gemeinsam genutzt
 
 Gemeinsame Optionen der Menüeinträge
-[Hauptbeiträge](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/de#blog "Help4.x:Menu Item: Featured Articles/de"),
-[Kategorieblog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/de#blog "Help4.x:Menu Item: Category Blog/de")
+Hauptbeiträge,
+Kategorieblog
 und
-[Kategorieliste](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/de#listlayouts "Help4.x:Menu Item: Category List/de").
+Kategorieliste.
 
 <img
 src="https://docs.joomla.org/images/thumb/6/65/Help-4x-Content-Article-Manager-Options-shared-subscreen-de.png/600px-Help-4x-Content-Article-Manager-Options-shared-subscreen-de.png"
@@ -382,8 +380,7 @@ alt="Content Article Manager Options shared subscreen" />
   - Titel von A bis Z: Kategorien werden alphabetisch sortiert gezeigt.
   - Titel von Z bis A: Kategorien werden alphabetisch sortiert gezeigt.
   - Kategoriereihenfolge: Die Sortierung der Kategorien entspricht der
-    Spalte 'Reihenfolge' in [Beiträge:
-    Kategorien](https://docs.joomla.org/Help4.x:Articles:_Categories/de#ordering "Help4.x:Articles: Categories/de").
+    Spalte 'Reihenfolge'.
 - **Beitragssortierung**.
   - Neuesten zuerst: Die Sortierung beginnt mit dem neuesten und endet
     mit dem ältesten Beitrag.
@@ -400,10 +397,10 @@ alt="Content Article Manager Options shared subscreen" />
     wenigsten Zugriffen und endet mit dem Beitrag mit den meisten
     Zugriffen.
   - Reihenfolge: Die Sortierung entspricht der Spalte 'Reihenfolge' in
-    [Beiträge](https://docs.joomla.org/Help4.x:Articles/de#ordering "Help4.x:Articles/de").
+    Beiträge.
   - Umgekehrte Reihenfolge: Die Sortierung ist umgekehrt zur Spalte
     'Reihenfolge' in
-    [Beiträge](https://docs.joomla.org/Help4.x:Articles/de#ordering "Help4.x:Articles/de").
+    Beiträge.
 - **Sortierdatum**. Sortierdatum, wenn Beiträge nach Datum sortiert
   sind.
   - Erstellt: Das Erstellungsdatum des Beitrages verwenden.
@@ -451,18 +448,18 @@ alt="Content Article Manager Options integration subscreen" />
 **Felder**
 
 - **Eigene Felder aktivieren**. Erstellen eigener Felder aktivieren.
-  [Mehr
-  erfahren.](https://docs.joomla.org/Help4.x:Fields:_Edit/de "Help4.x:Fields: Edit/de")
+  Mehr
+  erfahren.
 
 **Workflow**
 
-- **Workflow**. Beiträge mit eigenen Workflows verwalten. [Mehr
-  erfahren.](https://docs.joomla.org/J4.x:Workflow/de "J4.x:Workflow/de")
+- **Workflow**. Beiträge mit eigenen Workflows verwalten. Mehr
+  erfahren.
 
 ### Berechtigungen
 
 In diesem Teil werden die Standardwerte der
-[Zugriffskontrollliste](https://docs.joomla.org/Access_Control_List/de "Access Control List/de")
+Zugriffskontrollliste
 für alle Beiträge und alle Kategorien eingestellt.
 
 <img
@@ -497,7 +494,7 @@ Um Berechtigungen der Beiträge und Kategorien zu ändern:
     - **Übergang ausführen**. Benutzer können Übergänge ausführen.
 3.  Die Berechtigungen der gewählten Aktion wählen.
     - **Vererbt**. Für Benutzer dieser Gruppe von der
-      [Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#permissions "Help4.x:Site Global Configuration/de")
+      Konfiguration
       vererbt.
     - **Erlaubt**. Für Benutzer dieser Gruppe erlaubt.Hinweis: Wenn die
       Aktion auf einer höheren Ebene 'Verweigert' wird, ist die
@@ -510,7 +507,7 @@ Um Berechtigungen der Beiträge und Kategorien zu ändern:
 
 ## Werkzeugleiste
 
-Das [Bildschirmfoto](#screenshot) zeigt die Werkzeugleiste im oberen
+Das Bildschirmfoto zeigt die Werkzeugleiste im oberen
 Bereich.
 
 - **Speichern**. Speichert die Beiträge-Optionen und bleibt auf der
@@ -532,25 +529,3 @@ Bereich.
   Standard-Werte übernommen werden.
 - Alle Werte können auf Menüeintrags-, Kategorie- oder Beitrags-Ebene
   überschrieben werden.
-
-## Verwandte Informationen
-
-- Dieses
-  [Portal](https://docs.joomla.org/Portal:Joomla_4/de "Portal:Joomla 4/de")
-  bringt alle Informationen zu Joomla 4 zusammen.
-
-|                                                                                                                                                                             |                                                                                                                                                                                                                |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Verwandte Hilfeseiten                                                                                                                                                       | Beschreibung                                                                                                                                                                                                   |
-| <span class="mw-selflink selflink">Beiträge: Optionen</span>                                                                                                                | Festlegen globaler Standardwerte für Menüeinträge, die Beiträge anzeigen. Diese Werte werden verwendet, wenn in einem Menüeintrag 'Global' als Option ausgewählt wird.                                         |
-| [Beiträge](https://docs.joomla.org/Help4.x:Articles/de "Help4.x:Articles/de")                                                                                               | Die Beitragsliste wird verwendet, um Beiträge zu finden, zu markieren, hinzuzufügen und zu bearbeiten.                                                                                                         |
-| [Beiträge: Bearbeiten](https://docs.joomla.org/Help4.x:Articles:_Edit/de "Help4.x:Articles: Edit/de")                                                                       | Hier werden Beiträge hinzugefügt und bearbeitet. Außerdem lässt sich die Kategorie für einen Beitrag auswählen und festlegen, ob er veröffentlicht wird und auf der Startseite erscheint.                      |
-| [Beiträge: Hauptbeiträge](https://docs.joomla.org/Help4.x:Articles:_Featured/de "Help4.x:Articles: Featured/de")                                                            | Dient zur Steuerung, welche 'Hauptbeiträge' in welcher Reihenfolge auf der Startseite angezeigt werden.                                                                                                        |
-| [Beiträge: Kategorien](https://docs.joomla.org/Help4.x:Articles:_Categories/de "Help4.x:Articles: Categories/de")                                                           | Die Liste der Beitragskategorien wird verwendet, um Kategorien für Beiträge zu finden, hinzuzufügen und zu bearbeiten.                                                                                         |
-| [Menü: Archivierte Beiträge](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived/de "Help4.x:Menu Item: Article Archived/de")                                       | Zeigt eine angepasste Liste nach Datum oder Titel geordneter Beiträge. Archivierte Beiträge sind nicht mehr veröffentlicht, bleiben aber auf der Website gespeichert.                                          |
-| [Menü: Kategorieblog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/de "Help4.x:Menu Item: Category Blog/de")                                                    | Zeigt Beiträge einer Kategorie im Blog-Layout. Steuert führende und einleitende Beiträge sowie zusätzliche Links zu Beiträgen.                                                                                 |
-| [Menü: Kategorieliste](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/de "Help4.x:Menu Item: Category List/de")                                                   | Zeigt eine Liste von Beiträgen einer Kategorie in einem Listenlayout an.                                                                                                                                       |
-| [Menü: Beitrag erstellen](https://docs.joomla.org/Help4.x:Menu_Item:_Create_Article/de "Help4.x:Menu Item: Create Article/de")                                              | Ermöglicht es Benutzern, einen Beitrag zu verfassen. Normalerweise steht dies nur angemeldeten Benutzern im Frontend der Website zur Verfügung. Benutzer müssen die Berechtigung haben, Beiträge zu erstellen. |
-| [Menü: Hauptbeiträge](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/de "Help4.x:Menu Item: Featured Articles/de")                                            | Dient zur Anzeige der als 'Hauptbeiträge' markierten Beiträge. Die Beiträge werden in einem Blog-Layout angezeigt.                                                                                             |
-| [Menü: Alle Kategorien in einer Beitragskategorie auflisten](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/de "Help4.x:Menu Item: List All Categories/de") | Dient zur Anzeige einer hierarchischen Liste von Kategorien. Je nach den gewählten Optionen für dieses Format kann man auf den Namen einer Kategorie klicken, um die Beiträge in dieser Kategorie anzuzeigen.  |
-| [Menü: Einzelner Beitrag](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article/de "Help4.x:Menu Item: Single Article/de")                                              | Dient zur Anzeige eines einzelnen Beitrags.                                                                                                                                                                    |

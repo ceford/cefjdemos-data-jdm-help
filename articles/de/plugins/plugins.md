@@ -88,7 +88,7 @@ alt="Extensions Plugin Manager screen" />
 
 ## Listen-Filter
 
-**Suchleiste**. Das [Bildschirmfoto](#screenshot) zeigt die Suchleiste
+**Suchleiste**. Das Bildschirmfoto zeigt die Suchleiste
 im oberen Bereich.
 
 - **Suche nach Text**. Einen Teil des Suchbegriffs eingeben, auf das
@@ -108,7 +108,7 @@ im oberen Bereich.
 - **Anzuzeigende Anzahl**. Zeigt die Anzahl der Einträge an. Zur
   Änderung in der Dropdown-Liste die gewünschte Anzahl wählen.Der
   Standardwert für die Site ist '20', er kann in der
-  [Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#defaultlistlimit "Special:MyLanguage/Help4.x:Site Global Configuration/de")
+  Konfiguration
   geändert werden.
 
 Die Pluginliste kann sehr lang sein. Das Anwenden von einem oder
@@ -155,11 +155,3 @@ Werkzeugleiste im oberen Bereich. Die Funktionen sind:
   Bezeichnungen werden in Hilfedokumentationen und Tutorials
   gleichbedeutend verwendet.
 
-## Verwandte Informationen
-
-- Um die Details oder Optionen für ein Plugin zu ändern: [Plugins Name -
-  Bearbeiten](https://docs.joomla.org/Help4.x:Plugins:_Name_of_Plugin/de "Help4.x:Plugins: Name of Plugin/de")
-- Um Plugins zu installieren: [Erweiterungen:
-  Installieren](https://docs.joomla.org/Help4.x:Extensions:_Install/de "Help4.x:Extensions: Install/de")
-- Um Plugins zu deinstallieren: [Erweiterungen:
-  Verwalten](https://docs.joomla.org/Help4.x:Extensions:_Manage/de "Help4.x:Extensions: Manage/de")

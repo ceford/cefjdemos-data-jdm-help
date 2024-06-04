@@ -8,8 +8,8 @@ artikel weergave of een blog of lijst weergave waar de gebruiker op een
 artikel-link heeft geklikt). Artikelen worden beschouwd gerelateerd te
 zijn aan elkaar als ze minstens één gemeenschappelijk zoekwoord in de
 metadata informatie sectie hebben. Artikel zoekwoorden worden opgevoerd
-in de metadata information sectie van [Artikelbeheer -
-Nieuw/Bewerk](https://docs.joomla.org/Help4.x:Articles:_Edit/nl#Metadata_Options "Help4.x:Articles: Edit/nl")
+in de metadata information sectie van Artikelbeheer -
+Nieuw/Bewerk
 scherm.
 
 ## Hoe toegang te krijgen
@@ -55,21 +55,21 @@ met alle andere gepubliceerde..
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het
   formulierveld hierboven.
-- **Positie.** Kies de [module
-  positie](https://docs.joomla.org/Module_Position/nl "Module Position/nl")
+- **Positie.** Kies de module
+  positie
   waarop u wilt dat de module getoond wordt. Een aangepaste module
-  positie mag opgegeven worden om te gebruiken met de [load positie
-  plugin](https://docs.joomla.org/How_do_you_put_a_module_inside_an_article%3F/nl "How do you put a module inside an article?/nl")
+  positie mag opgegeven worden om te gebruiken met de load positie
+  plugin
   of er kan op de positie knop gedrukt worden om een module positie te
   selecteren uit het template.
 - **Status**. De publicatiestatus van het item.
 - **Toegang**. Het
-  [Toegangsniveau](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/nl "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/nl")
+  Toegangsniveau
   om het item te bekijken.
 - **Module volgorde.** Dit toont een drop-down lijst met iedere module
   op de positie waar de huidige module op staat. Dit is de zowel
   volgorde waarin de modules getoond worden op de website als op de
-  [Modulebeheer](https://docs.joomla.org/Help4.x:Modules/nl "Help4.x:Modules/nl")
+  Modulebeheer
   pagina.
 - **Start publiceren**. Datum en tijd waarop de publicatie moet starten.
   Gebruik dit veld wanneer u voortijdig inhoud wilt toevoegen die
@@ -113,8 +113,8 @@ alt="modules manager site module menu assignment tab" />
   schermafdruk hierboven is te zien. Dit geeft u de mogelijkheid om de
   menu-links te kiezen waarmee de module geassocieerd moet worden. U
   kunt hier kiezen op welke pagina's de module zichtbaar moet zijn. Zie
-  [Hoe kunt u een module toewijzen aan specifieke
-  pagina's?](https://docs.joomla.org/How_do_you_assign_a_module_to_specific_pages%3F/nl "How do you assign a module to specific pages?/nl")
+  Hoe kunt u een module toewijzen aan specifieke
+  pagina's?
   voor meer informatie.
 
 ### Geavanceerd tabblad

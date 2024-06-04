@@ -77,15 +77,3 @@ De functies zijn:
 ## Snelle tips
 
 - Klik op de groepsnaam om de eigenschappen van de groep te bewerken.
-
-## Verwante informatie
-
-- [Gebruikers: Voeg toe/Bewerk
-  groep](https://docs.joomla.org/Help4.x:Users:_New_or_Edit_Group/nl "Help4.x:Users: New or Edit Group/nl")
-- [Gebruikers:
-  Instellingen](https://docs.joomla.org/Help4.x:Users:_Options/nl "Help4.x:Users: Options/nl")
-- [Gebruikers](https://docs.joomla.org/Help4.x:Users/nl "Help4.x:Users/nl")
-- [Gebruikers: Toegangsniveaus voor
-  bekijken](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/nl "Help4.x:Users: Viewing Access Levels/nl")
-- [ACL handleiding voor Joomla!
-  3.x](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/nl "J3.x:Access Control List Tutorial/nl")

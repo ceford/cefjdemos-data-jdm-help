@@ -54,8 +54,8 @@ alt="Modules screen" />
 - **Title**. The title of the module. Edit the module by clicking on the
   Title.
 - **Position**. The position on the page where this module is displayed.
-  [Aprende
-  más.](https://docs.joomla.org/J4.x:How_to_Show_a_Calendar_Month_List_of_Archived_Articles_Using_a_Module/es "J4.x:How to Show a Calendar Month List of Archived Articles Using a Module/es")
+  Aprende
+  más.
 - **Type**. The system name of the Module.
 - **Pages**. The Menu Items where this Module will be displayed.
   - En todas las páginas
@@ -134,15 +134,14 @@ Screenshot above.
     your website.
   - **Check-in**. Checks-in the selected modules.
   - **Trash**. Changes the status of the selected modules to indicate
-    that they are trashed. [Aprende
-    más.](https://docs.joomla.org/J4.x:Deleting_an_Article/es "J4.x:Deleting an Article/es")
+    that they are trashed. Aprende
+    más.
   - **Batch**. Batch processes the selected modules.
   - **Duplicate**. Makes a copy of the selected modules. The copy is
     created immediately and is given the same name as the original but
     suffixed with a number (for example "(2)") so that it can be
     distinguished from the original and any other copies.
-- **Options**. Opens [Module:
-  Options](https://docs.joomla.org/Help4.x:Modules:_Options/en "Help4.x:Modules: Options/en").
+- **Options**. Opens
 - **Help**. Opens this help screen.
 
 ## Proceso por lotes
@@ -175,29 +174,14 @@ alt="Modules batch subscreen" />
 
 ## Quick Tips
 
-- Joomla websites require at least 1 [Menu
-  Module](https://docs.joomla.org/Help4.x:Site_Modules:_Menu/en "Help4.x:Site Modules: Menu/en").
+- Joomla websites require at least 1
 - Other Module Types (for example
-  [Banners](https://docs.joomla.org/Help4.x:Site_Modules:_Banners/en "Help4.x:Site Modules: Banners/en"))
+  Banners
   are optional.
 - Some Modules are linked to components. For example, each Menu Module
   is related to one
-  [Menu](https://docs.joomla.org/Help4.x:Menus/en "Help4.x:Menus/en").
+  Menu.
 - Other Modules (for example
-  [Breadcrumbs](https://docs.joomla.org/Help4.x:Site_Modules:_Breadcrumbs/en "Help4.x:Site Modules: Breadcrumbs/en"))
+  Breadcrumbs
   do not depend on any other content.
 - Multiple occurrences of similar Module Types are allowed and common.
-
-## Información relacionada
-
-- The Joomla installation has over 40 module types. Additional 3rd party
-  modules can be obtained from the
-  <a href="http://extensions.joomla.org/" class="external text"
-  target="_blank" rel="noreferrer noopener">Joomla Extensions
-  Directory</a>.
-- [Panel de
-  inicio](https://docs.joomla.org/Help4.x:Home_Dashboard/es "Help4.x:Home Dashboard/es"):
-  Access to many default Joomla functions.
-- Este
-  [portal](https://docs.joomla.org/Portal:Joomla_4/es "Portal:Joomla 4/es")
-  reúne información específica relativa a Joomla 4.

@@ -42,86 +42,86 @@ Dit scherm hangt af van het gekozen item, ga dus naar:
 
 ### Content
 
-- [Artikelen](https://docs.joomla.org/Help4.x:Articles:_Edit/nl#content "Help4.x:Articles: Edit/nl")
-- [Artikelen
-  categorieën](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/nl#content "Help4.x:Articles: Edit Category/nl")
-- [Contactpersonen](https://docs.joomla.org/Help4.x:Contacts:_Edit/nl#content "Help4.x:Contacts: Edit/nl")
-- [Contactpersonen
-  categorieën](https://docs.joomla.org/Help4.x:Contacts:_Edit_Category/nl#content "Help4.x:Contacts: Edit Category/nl")
-- [Menu's](https://docs.joomla.org/Help4.x:Menus:_Items/nl "Help4.x:Menus: Items/nl")
-- [Nieuwsfeeds](https://docs.joomla.org/Help4.x:News_Feeds:_Edit/nl#content "Help4.x:News Feeds: Edit/nl")
-- [Nieuwsfeed
-  categorieën](https://docs.joomla.org/Help4.x:News_Feeds:_Edit_Category/nl#content "Help4.x:News Feeds: Edit Category/nl")
+- Artikelen
+- Artikelen
+  categorieën
+- Contactpersonen
+- Contactpersonen
+  categorieën
+- Menu's
+- Nieuwsfeeds
+- Nieuwsfeed
+  categorieën
 
 ### Afbeeldingen en links
 
-- [Artikelen](https://docs.joomla.org/Help4.x:Articles:_Edit/nl#imagesandlinks "Help4.x:Articles: Edit/nl")
+- Artikelen
 
 ### Opties
 
-- [Artikelen](https://docs.joomla.org/Help4.x:Articles:_Edit/nl#options "Help4.x:Articles: Edit/nl")
-- [Artikelen
-  categorieën](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/nl#options "Help4.x:Articles: Edit Category/nl")
-- [Contactpersonen
-  categorieën](https://docs.joomla.org/Help4.x:Contacts:_Edit_Category/nl#options "Help4.x:Contacts: Edit Category/nl")
-- [Nieuwsfeeds](https://docs.joomla.org/Help4.x:News_Feeds:_Edit/nl#options "Help4.x:News Feeds: Edit/nl")
-- [Nieuwsfeed
-  categorieën](https://docs.joomla.org/Help4.x:News_Feeds:_Edit_Category/nl#options "Help4.x:News Feeds: Edit Category/nl")
+- Artikelen
+- Artikelen
+  categorieën
+- Contactpersonen
+  categorieën
+- Nieuwsfeeds
+- Nieuwsfeed
+  categorieën
 
 ### Publicatie
 
-- [Artikelen](https://docs.joomla.org/Help4.x:Articles:_Edit/nl#publishing "Help4.x:Articles: Edit/nl")
-- [Artikelen
-  categorieën](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/nl#publishing "Help4.x:Articles: Edit Category/nl")
-- [Contactpersonen](https://docs.joomla.org/Help4.x:Contacts:_Edit/nl#publishing "Help4.x:Contacts: Edit/nl")
-- [Contactpersonen
-  categorieën](https://docs.joomla.org/Help4.x:Contacts:_Edit_Category/nl#publishing "Help4.x:Contacts: Edit Category/nl")
-- [Nieuwsfeeds](https://docs.joomla.org/Help4.x:News_Feeds:_Edit/nl#publishing "Help4.x:News Feeds: Edit/nl")
-- [Nieuwsfeed
-  categorieën](https://docs.joomla.org/Help4.x:News_Feeds:_Edit_Category/nl#publishing "Help4.x:News Feeds: Edit Category/nl")
+- Artikelen
+- Artikelen
+  categorieën
+- Contactpersonen
+- Contactpersonen
+  categorieën
+- Nieuwsfeeds
+- Nieuwsfeed
+  categorieën
 
 ### Associaties
 
-- [Artikelen](https://docs.joomla.org/Help4.x:Articles:_Edit/nl#associations "Help4.x:Articles: Edit/nl")
-- [Artikelen
-  categorieën](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/nl#associations "Help4.x:Articles: Edit Category/nl")
-- [Contactpersonen](https://docs.joomla.org/Help4.x:Contacts:_Edit/nl#associations "Help4.x:Contacts: Edit/nl")
-- [Contactpersonen
-  categorieën](https://docs.joomla.org/Help4.x:Contacts:_Edit_Category/nl#associations "Help4.x:Contacts: Edit Category/nl")
-- [Nieuwsfeeds](https://docs.joomla.org/Help4.x:News_Feeds:_Edit/nl#associations "Help4.x:News Feeds: Edit/nl")
-- [Nieuwsfeed
-  categorieën](https://docs.joomla.org/Help4.x:News_Feeds:_Edit_Category/nl#associations "Help4.x:News Feeds: Edit Category/nl")
+- Artikelen
+- Artikelen
+  categorieën
+- Contactpersonen
+- Contactpersonen
+  categorieën
+- Nieuwsfeeds
+- Nieuwsfeed
+  categorieën
 
 ### Instellen bewerkscherm
 
-- [Artikelen](https://docs.joomla.org/Help4.x:Articles:_Edit/nl#configureeditscreen "Help4.x:Articles: Edit/nl")
+- Artikelen
 
 ### Rechten
 
-- [Artikelen](https://docs.joomla.org/Help4.x:Articles:_Edit/nl#permissions "Help4.x:Articles: Edit/nl")
-- [Artikelen
-  categorieën](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/nl#permissions "Help4.x:Articles: Edit Category/nl")
-- [Contactpersonen
-  categorieën](https://docs.joomla.org/Help4.x:Contacts:_Edit_Category/nl#permissions "Help4.x:Contacts: Edit Category/nl")
-- [Nieuwsfeed
-  categorieën](https://docs.joomla.org/Help4.x:News_Feeds:_Edit_Category/nl#permissions "Help4.x:News Feeds: Edit Category/nl")
+- Artikelen
+- Artikelen
+  categorieën
+- Contactpersonen
+  categorieën
+- Nieuwsfeed
+  categorieën
 
 ### Overige informatie
 
-- [Contactpersonen](https://docs.joomla.org/Help4.x:Contacts:_Edit/nl#miscellaneousinformation "Help4.x:Contacts: Edit/nl")
+- Contactpersonen
 
 ### Toon
 
-- [Contactpersonen](https://docs.joomla.org/Help4.x:Contacts:_Edit/nl#display "Help4.x:Contacts: Edit/nl")
+- Contactpersonen
 
 ### Formulier
 
-- [Contactpersonen](https://docs.joomla.org/Help4.x:Contacts:_Edit/nl#form "Help4.x:Contacts: Edit/nl")
+- Contactpersonen
 
 ## Werkbalk
 
 Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#screenshot) hierboven.
+afbeelding hierboven.
 
 - **Verwijzing opslaan**. Slaat de verwijzing op en blijft in het
   huidige scherm.
@@ -131,16 +131,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 - **Sluiten**. Sluit het huidige scherm en keert terug naar het vorige
   scherm zonder wijzigingen die u misschien heeft gedaan op te slaan.
 - **Help**. Opent dit helpscherm.
-
-## Verwante informatie
-
-- Dit
-  [portaal](https://docs.joomla.org/Portal:Joomla_4/nl "Portal:Joomla 4/nl")
-  brengt informatie specifiek gerelateerd aan Joomla 4 samen.
-
-|                                                                                                                                                            |                                                                                                                       |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| Verwante helpschermen                                                                                                                                      | Beschrijving                                                                                                          |
-| [Meertaligheid associaties: Opties](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Options/nl "Help4.x:Multilingual Associations: Options/nl") | Standaard rechten gebruikt voor alle inhoud in de meertaligheid associatie component.                                 |
-| [Meertaligheid associaties](https://docs.joomla.org/Help4.x:Multilingual_Associations/nl "Help4.x:Multilingual Associations/nl")                           | Dit scherm wordt gebruikt om een een associatie in te stellen tussen een item en de geïnstalleerde site talen.        |
-| <span class="mw-selflink selflink">Meertaligheid associaties: Bewerken</span>                                                                              | Wordt gebruikt om associaties tussen talen toe te voegen of te bewerken die op uw meertalige websites worden getoond. |

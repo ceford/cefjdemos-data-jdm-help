@@ -28,8 +28,8 @@ alt="Components Tags Tags Edit screen" />
 - **Alias**. De interne naam van het item. Normaliter, kunt u dit leeg
   laten en Joomla zal de standaardwaarde invullen. De standaard waarde
   is de titel of naam in kleine letters en streepjes in plaats van
-  spaties. [Meer
-  leren.](https://docs.joomla.org/Alias/nl "Special:MyLanguage/Alias/nl")
+  spaties. Meer
+  leren.
 
 ### Taggegevens tabblad
 
@@ -41,7 +41,7 @@ alt="Components Tags Tags Edit screen" />
   is aan het item dat bewerkt wordt.
 - **Status**. De publicatiestatus van het item.
 - **Toegang**. Het
-  [Toegangsniveau](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/nl "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/nl")
+  Toegangsniveau
   om het item te bekijken.
 - **Taal**. Item taal.
 - **Notitie**. Dit wordt normaal gesproken door de beheerder gebruikt
@@ -49,7 +49,7 @@ alt="Components Tags Tags Edit screen" />
   op de website zichtbaar.
 - **Notitie versie**. Optioneel veld om deze versie van dit item te
   identificeren in het
-  [versiegeschiedenis](https://docs.joomla.org/Help40:Components_Version_History/nl "Special:MyLanguage/Help40:Components Version History/nl")
+  versiegeschiedenis
   venster.
 
 ### Opties tabblad
@@ -128,12 +128,12 @@ alt="Components Tags Tags Edit Publishing Options Tab" />
       u:
       - Voeg de trefwoorden "hond" en "kat" toe aan de juiste Artikelen.
       - Voeg de Tags "hond" en "kat" toe aan de juiste advertenties op
-        het [Advertentiebeheer
-        Nieuw/Bewerk](https://docs.joomla.org/Help40:Banners:_Edit/nl "Special:MyLanguage/Help40:Banners: Edit/nl")
+        het Advertentiebeheer
+        Nieuw/Bewerk
         scherm.
       - Stel de Advertentiemodule parameter 'Zoek op Tags' in op 'Ja' in
-        het [Advertentiemodule
-        bewerk](https://docs.joomla.org/Help40:Site_Modules:_Banners/nl "Special:MyLanguage/Help40:Site Modules: Banners/nl")
+        het Advertentiemodule
+        bewerk
         scherm.
   3.  Alleen voor artikelen, in combinatie met de [Gerelateerde
       artikelen
@@ -159,8 +159,7 @@ alt="Components Tags Tags Edit Publishing Options Tab" />
     maar waarvan elk evenementen niet geïndexeerd hoeft te worden.
   - *noindex, nofollow:* Indexeer deze pagina niet en volg geen link op
     deze pagina.
-  - *Gebruik algemeen:* Ingesteld bij [Algemene instellingen: Metadata
-    instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#Metadata_Settings "Special:MyLanguage/Help4.x:Site Global Configuration/nl").
+  - *Gebruik algemeen:* Ingesteld bij
 
 ## Werkbalk
 
@@ -180,7 +179,7 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   aangemaakt.
 - **Versies**. Opent het item versie geschiedenis scherm om eerdere
   versies van dit item te tonen. Dit stelt u in staat oudere versies van
-  het item te bekijken en een oudere versie te herstellen. Zie [Versie
-  historie](https://docs.joomla.org/Help40:Components_Version_History/nl "Special:MyLanguage/Help40:Components Version History/nl")
+  het item te bekijken en een oudere versie te herstellen. Zie Versie
+  historie
   voor meer informatie.
 - **Help**. Opent dit helpscherm.

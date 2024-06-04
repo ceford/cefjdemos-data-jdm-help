@@ -23,8 +23,8 @@ alt="global configuration screen" />
 
 ### Sitio
 
-[Complete
-screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/en "Help4.x:Site Global Configuration Site/en")
+Complete
+screenshot.
 
 #### Sitio
 
@@ -92,8 +92,8 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/en "
     class="external text" target="_blank"
     rel="nofollow noreferrer noopener">Learn more.</a>
   - IIS: Renombre 'web.config.txt' como 'web.config'
-  - NginX: debe [configurar su
-    servidor](https://docs.joomla.org/Nginx/es "Nginx/es")
+  - NginX: debe configurar su
+    servidor
   - Otros servidores o si no está seguro: por favor, consulte a su
     empresa de alojamiento.
 - **Add Suffix to URL**. If yes, the system will add a suffix to the URL
@@ -111,8 +111,8 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/en "
 
 ### Sistema
 
-[Complete
-screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_System/en "Help4.x:Site Global Configuration System/en")
+Complete
+screenshot.
 
 #### Depurador
 
@@ -190,8 +190,8 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_System/en
 
 ### Servidor
 
-[Complete
-screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Server/en "Help4.x:Site Global Configuration Server/en")
+Complete
+screenshot.
 
 #### Servidor
 
@@ -325,8 +325,8 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Server/en
 
 ### Registro
 
-[Complete
-screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Logging/en "Help4.x:Site Global Configuration Logging/en")
+Complete
+screenshot.
 
 #### Registro
 
@@ -350,8 +350,8 @@ screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Logging/e
 
 ### Filtros de texto
 
-[Complete
-screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Text_Filters/en "Help4.x:Site Global Configuration Text Filters/en")
+Complete
+screenshot.
 
 Esta configuración de filtros de texto se aplicará en todos los campos
 del editor de texto en los grupos seleccionados.
@@ -364,8 +364,8 @@ etiquetas que comúnmente se asocian con ataques a los sitios web.
 
 ### Permisos
 
-[Complete
-screenshot.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Permissions/en "Help4.x:Site Global Configuration Permissions/en")
+Complete
+screenshot.
 
 Manage the permission settings for user groups.
 
@@ -430,13 +430,3 @@ Screenshot above.
 - The settings are saved in '\[Joomla\]/configuration.php'. You have to
   either activate the FTP-layer or make the 'configuration.php' file
   writable to save your changes.
-
-## Información relacionada
-
-- [Conceptos básicos sobre copia de seguridad de un sitio web
-  Joomla](https://docs.joomla.org/Backup_Basics_for_a_Joomla!_Web_Site/es "Backup Basics for a Joomla! Web Site/es")
-- [Lista de Comprobación sobre
-  Seguridad](https://docs.joomla.org/Security_Checklist/es "Security Checklist/es")
-- <img src="https://docs.joomla.org/images/4/49/Compat_icon_3_x_long.png"
-  decoding="async" data-file-width="75" data-file-height="16" width="75"
-  height="16" alt="Joomla 3.x" />

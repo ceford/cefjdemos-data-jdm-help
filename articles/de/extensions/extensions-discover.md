@@ -83,7 +83,7 @@ alt="Extensions Extension Manager Discover screen" />
 
 ## Listen-Filter
 
-**Suchleiste**. Das [Bildschirmfoto](#screenshot) zeigt die Suchleiste
+**Suchleiste**. Das Bildschirmfoto zeigt die Suchleiste
 im oberen Bereich.
 
 - **Suche nach Text**. Einen Teil des Suchbegriffs eingeben, auf das
@@ -103,7 +103,7 @@ im oberen Bereich.
 - **Anzuzeigende Anzahl**. Zeigt die Anzahl der Einträge an. Zur
   Änderung in der Dropdown-Liste die gewünschte Anzahl wählen.Der
   Standardwert für die Site ist '20', er kann in der
-  [Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#defaultlistlimit "Help4.x:Site Global Configuration/de")
+  Konfiguration
   geändert werden.
 
 **Filter-Optionen**
@@ -120,7 +120,7 @@ Erweiterungen zu begrenzen.
 
 **Seitenkontrolle**. Gibt es mehr Einträge als auf der Seite gezeigt,
 wird im unteren Bereich die Seitenkontrollleiste wie auf dem
-[Bildschirmfoto](#screenshot) eingeblendet. Die aktuelle Seitenzahl ist
+Bildschirmfoto eingeblendet. Die aktuelle Seitenzahl ist
 mit dunkler Farbe unterlegt.
 
 - **Start**. Anklicken, um die erste Seite anzuzeigen.
@@ -151,54 +151,3 @@ Werkzeugleiste im oberen Bereich. Die Funktionen sind:
   werden. So können alle Erweiterungen in einem Schritt installiert
   werden, wobei man alle auswählt und auf die Schaltfläche
   **Installieren** in der Symbolleiste klickt.
-
-## Verwandte Informationen
-
-- Wenn eine Komponenten-Erweiterung installiert wird, erscheint sie als
-  neuer Menü-Eintrag im Bereich *Komponenten*.
-- Ein Menüeintrag kann einer installierten Komponente in [Menüs:
-  Menü-Einträge](https://docs.joomla.org/Help4.x:Menus:_Items/de "Help4.x:Menus: Items/de")
-  mit dem "Neu"-Button zugewiesen werden. Die neue Komponente wird in
-  der Liste der internen Links der Menüpunkttypen angezeigt.
-- Wurde eine Modul-Erweiterung installiert, wird sie in
-  [Module](https://docs.joomla.org/Help4.x:Modules/de "Help4.x:Modules/de")
-  gelistet, wo sie aktiviert/deaktiviert werden kann. Die Parameter
-  werden in [Erweiterungen: Module
-  bearbeiten](https://docs.joomla.org/Help4.x:Extensions_Module_Manager_Edit/de "Help4.x:Extensions Module Manager Edit/de")
-  eingerichtet.
-- Eine installierte Plugin-Erweiterung wird zur Liste der
-  [Plugins](https://docs.joomla.org/Help4.x:Plugins/de "Help4.x:Plugins/de")
-  hinzugefügt. Dort können diese aktiviert oder deaktiviert werden. Auf
-  der Seite
-  [Plugin-Bearbeitung](https://docs.joomla.org/Help4.x:Plugins:_Name_of_Plugin/de "Help4.x:Plugins: Name of Plugin/de")
-  können die Parameter angepasst werden.
-- Eine installierte Template-Erweiterung wird zur Site- oder
-  Administrator-Liste der
-  [Templates-Stile](https://docs.joomla.org/Help4.x:Templates:_Styles/de "Help4.x:Templates: Styles/de")
-  hinzugefügt, wo sie einzelnen oder allen Seiten zugewiesen wird.
-  Parameter können eingerichtet, HTML- oder CSS-Quellcode bearbeitet
-  oder verfügbare Modul-Positionen betrachtet werden.
-- Eine installierte Spracherweiterung wird je nach dem Client-Attribut
-  der Erweiterung zur Site- oder Administratorliste der
-  [Sprachenliste](https://docs.joomla.org/Help4.x:Languages:_Installed/de "Help4.x:Languages: Installed/de")
-  hinzugefügt. Auf dieser Seite kann diese, falls gewünscht, als
-  Standardsprache festgelegt werden.
-
-**Weitere Seiten**
-
-- **Installieren.** Link führt zu [Erweiterungen:
-  Installieren](https://docs.joomla.org/Help4.x:Extensions:_Install/de "Help4.x:Extensions: Install/de").
-- **Update.** Link führt zu [Erweiterungen:
-  Aktualisieren](https://docs.joomla.org/Help4.x:Extensions:_Update/de "Help4.x:Extensions: Update/de").
-- **Verwalten.** Link führt zu [Erweiterungen:
-  Verwalten](https://docs.joomla.org/Help4.x:Extensions:_Manage/de "Help4.x:Extensions: Manage/de").
-- **Überprüfen.** Link führt zu
-  <span class="mw-selflink selflink">Erweiterungen: Überprüfen</span>.
-- **Datenbank.** Link führt zu [Information:
-  Datenbank](https://docs.joomla.org/Help4.x:Information:_Database/de "Help4.x:Information: Database/de").
-- **Warnungen.** Link führt zu [Information:
-  Warnungen](https://docs.joomla.org/Help4.x:Information:_Warnings/de "Help4.x:Information: Warnings/de").
-- **Sprachen installieren.** Link führt zu [Erweiterungen: Sprachen
-  installieren](https://docs.joomla.org/Help4.x:Extensions_Extension_Manager_Languages/de "Help4.x:Extensions Extension Manager Languages/de").
-- **Website aktualisieren.** Link führt zu [Erweiterungen:
-  Update-Sites](https://docs.joomla.org/Help4.x:Extensions:_Update_Sites/de "Help4.x:Extensions: Update Sites/de").

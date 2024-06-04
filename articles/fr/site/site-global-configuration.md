@@ -23,8 +23,8 @@ alt="global configuration screen" />
 
 ### Site
 
-[Complète capture
-d'écran.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/fr "Help4.x:Site Global Configuration Site/fr")
+Complète capture
+d'écran.
 
 #### Site
 
@@ -32,8 +32,8 @@ d'écran.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/fr "He
   différents endroits (par exemple, la barre de titre du navigateur en
   backend et pour les pages Site hors-ligne).
 - **Site hors-ligne**. Choisissez si l'accès du site en frontal doit
-  être verrouillé au public. [Pour en savoir
-  plus.](https://docs.joomla.org/J3.x:Taking_the_website_temporarily_offline/fr "J3.x:Taking the website temporarily offline/fr")
+  être verrouillé au public. Pour en savoir
+  plus.
   - **Message hors-ligne**.
     - Message spécifique : Le message spécifique utilise la valeur
       définie dans le champ 'Message spécifique'.
@@ -52,7 +52,7 @@ d'écran.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/fr "He
 - **Captcha par défaut**. Sélectionnez le captcha par défaut pour votre
   site. Vous devrez peut-être entrer les informations requises dans le
   plugin
-  [captcha](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_CAPTCHA_Group/fr "Chunk4x:Extensions Plugin Manager Edit CAPTCHA Group/fr").
+  captcha.
 - **Niveau d'accès par défaut**. Sélectionnez le niveau d'accès par
   défaut pour les nouveaux éléments.
 - **Limite de liste par défaut**. Définit la longueur par défaut des
@@ -102,8 +102,8 @@ d'écran.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/fr "He
     class="external text" target="_blank"
     rel="nofollow noreferrer noopener">Pour en savoir plus.</a>
   - IIS : renommer 'web.config.txt' en 'web.config'
-  - NginX : vous devez [configurer votre
-    serveur](https://docs.joomla.org/Nginx/fr "Nginx/fr")
+  - NginX : vous devez configurer votre
+    serveur
   - Autres serveurs ou si vous n'êtes pas sûr : veuillez consulter votre
     hébergeur.
 - **Add Suffix to URL**. If yes, the system will add a suffix to the URL
@@ -123,8 +123,8 @@ d'écran.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Site/fr "He
 
 ### Système
 
-[Complète capture
-d'écran.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_System/fr "Help4.x:Site Global Configuration System/fr")
+Complète capture
+d'écran.
 
 #### Débogage
 
@@ -144,8 +144,8 @@ d'écran.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_System/fr "
 
 #### Cache
 
-- **System Cache**. Enable caching and set caching level. [Pour en
-  savoir plus.](https://docs.joomla.org/Cache/fr "Cache/fr")
+- **System Cache**. Enable caching and set caching level. Pour en
+  savoir plus.
   - Conservative level: smaller system cache.
   - Progressive level: faster, bigger system cache, includes module
     renderers cache. Not appropriate for extremely large sites.
@@ -204,8 +204,8 @@ d'écran.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_System/fr "
 
 ### Serveur
 
-[Complète capture
-d'écran.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Server/fr "Help4.x:Site Global Configuration Server/fr")
+Complète capture
+d'écran.
 
 #### Serveur
 
@@ -335,8 +335,8 @@ d'écran.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Server/fr "
 
 ### Journal (log)
 
-[Complète capture
-d'écran.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Logging/fr "Help4.x:Site Global Configuration Logging/fr")
+Complète capture
+d'écran.
 
 #### Journal (log)
 
@@ -366,8 +366,8 @@ d'écran.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Logging/fr 
 
 ### Filtres de texte
 
-[Complète capture
-d'écran.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Text_Filters/fr "Help4.x:Site Global Configuration Text Filters/fr")
+Complète capture
+d'écran.
 
 Les paramètres de filtre de texte sont appliqués à tous les champs de
 l'éditeur de texte des groupes sélectionnés.
@@ -382,8 +382,8 @@ l'éditeur ou le mode d'affichage utilisé (wysiwyg ou code).
 
 ### Droits
 
-[Complète capture
-d'écran.](https://docs.joomla.org/Help4.x:Site_Global_Configuration_Permissions/fr "Help4.x:Site Global Configuration Permissions/fr")
+Complète capture
+d'écran.
 
 Manage the permission settings for user groups.
 
@@ -427,7 +427,7 @@ groupes enfants, composants et contenus.
 ## Barre d'outils
 
 En haut de la page, vous verrez la barre d'outils présentée dans la
-[capture d'écran](#screenshot) ci-dessus.
+capture d'écran ci-dessus.
 
 - **Enregistrer**. Enregistre les paramètres et reste sur l'écran
   actuel.
@@ -447,13 +447,3 @@ En haut de la page, vous verrez la barre d'outils présentée dans la
 - Les réglages sont sauvegardés dans '\[Joomla\]/configuration.php'.
   Vous devez soit activer la couche FTP, soit ouvrir en écriture le
   fichier 'configuration.php' pour enregistrer vos modifications.
-
-## Informations connexes
-
-- [Sauvegarde d'un site Joomla! - principes de
-  base](https://docs.joomla.org/Backup_Basics_for_a_Joomla!_Web_Site/fr "Backup Basics for a Joomla! Web Site/fr")
-- [Listes des contrôles de
-  sécurité](https://docs.joomla.org/Security_Checklist/fr "Security Checklist/fr")
-- <img src="https://docs.joomla.org/images/4/49/Compat_icon_3_x_long.png"
-  decoding="async" data-file-width="75" data-file-height="16" width="75"
-  height="16" alt="Joomla 3.x" />

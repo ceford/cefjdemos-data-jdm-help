@@ -222,19 +222,4 @@ Screenshot above.
 
 ## Быстрые советы
 
-If you want to know how to use fields: [Managing Custom
-Fields](https://docs.joomla.org/J3.x:Adding_custom_fields/en "J3.x:Adding custom fields/en").
-
-## Связанная информация
-
-- This
-  [Portal](https://docs.joomla.org/Portal:Joomla_4/en "Portal:Joomla 4/en")
-  brings together information related specifically to Joomla 4.
-
-|                                                                                                                       |                                                                                                                                                      |
-|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Related Help Screens/ru                                                                                               | Описание                                                                                                                                             |
-| [Поля](https://docs.joomla.org/Help4.x:Fields/ru "Help4.x:Fields/ru")                                                 | Fields are used to display additional attributes of Articles, Contacts and Users. The data are entered in the Backend and displayed in the Frontend. |
-| <span class="mw-selflink selflink">Поля: Редактирование</span>                                                        | This is where you can add and edit Fields in Articles, Contacts, and Users.                                                                          |
-| [Группы полей](https://docs.joomla.org/Help4.x:Field_Groups/ru "Help4.x:Field Groups/ru")                             | The Field Groups screen is used to list, add and edit Field Groups.                                                                                  |
-| [Группы полей: Редактирование](https://docs.joomla.org/Help4.x:Field_Groups:_Edit/ru "Help4.x:Field Groups: Edit/ru") | Field Groups are used to collect related fields under a named Tab in a data entry form.                                                              |
+If you want to know how to use fields:

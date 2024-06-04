@@ -1,7 +1,7 @@
 <!-- Filename: Help4.x:Site_Global_Configuration_Text_Filters / Display title: Algemene instellingen: Tekstfilters -->
 
- **←**  [Algemene
-instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#textfilters "Help4.x:Site Global Configuration/nl")
+ **←**  Algemene
+instellingen
 
 <img
 src="https://docs.joomla.org/images/thumb/c/ce/Help-4x-Global-Configuration-textfilters-subscreen-nl.png/800px-Help-4x-Global-Configuration-textfilters-subscreen-nl.png"
@@ -10,5 +10,5 @@ srcset="https://docs.joomla.org/images/thumb/c/ce/Help-4x-Global-Configuration-t
 data-file-width="1882" data-file-height="1602" width="800" height="681"
 alt="Afbeelding: Tekstfilters" />
 
- **←**  [Algemene
-instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#textfilters "Help4.x:Site Global Configuration/nl")
+ **←**  Algemene
+instellingen

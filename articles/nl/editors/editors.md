@@ -9,7 +9,7 @@ geeft bij het bewerken van artikelen en andere inhoud.
 
 TinyMCE kan ingesteld worden met drie verschillende sets
 werkbalkknoppen. Dit wordt ingesteld als optie in
-[Pluginbeheer](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Editor_Group/nl#tinymce "Chunk4x:Extensions Plugin Manager Edit Editor Group/nl")
+Pluginbeheer
 voor de 'Editor - TinyMCE' plugin.
 
 ### Werkbalk
@@ -107,8 +107,8 @@ alt="editor pagebreak button" />
   wilt bewerken klik dan in het artikel net achter de nieuwe pagina,
   druk op de Backspace knop totdat de nieuwe pagina verwijderd is. Voeg
   hierna een nieuwe pagina in met de gewenste informatie.
-- The configuration is set in the [Content - Page
-  Break](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Content_Group/en#pagebreak "Chunk4x:Extensions Plugin Manager Edit Content Group/en")
+- The configuration is set in the Content - Page
+  Break
   plugin.
 
 Read More: This button inserts a Read more break in the article. This
@@ -118,8 +118,8 @@ shows as a red dotted line across the article.
   called the Intro Text, will initially display, along with a Read more
   link. If the User clicks this link, either the entire article or just
   the part after the Read more link is displayed. This depends on the
-  setting of the [Intro
-  Text](https://docs.joomla.org/Help4.x:Articles:_Edit/en#introtext "Help4.x:Articles: Edit/en")
+  setting of the Intro
+  Text
   parameters for the article.
 - The Read more break allows you to save space on pages by just showing
   the Intro Text.
@@ -271,8 +271,8 @@ alt="screenshot editor codemirror example" />
 - CodeMirror biedt een aantal van dezelfde voordelen van het gebruik van
   Niet-Editor, maar het maakt het wel wat makkelijker om te werken met
   HTML code.
-- The configuration is set in the [Editor -
-  CodeMirror](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Editor_Group/en#codemirror "Chunk4x:Extensions Plugin Manager Edit Editor Group/en")
+- The configuration is set in the Editor -
+  CodeMirror
   plugin.
 
 ## Geen tekstverwerker

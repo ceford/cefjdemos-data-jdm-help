@@ -107,14 +107,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 
 - Klik op het onderwerp om de eigenschappen van de gebruikersnotitie aan
   te passen.
-
-## Verwante informatie
-
-- [Gebruikersnotities:
-  Nieuw/Bewerken](https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit/nl "Help4.x:User Notes: New or Edit/nl")
-- [Gebruikersnotities: Nieuw/Bewerken
-  categorie](https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit_Category/nl "Help4.x:User Notes: New or Edit Category/nl")
-- [Gebruikersnotities:
-  categorieën](https://docs.joomla.org/Help4.x:User_Notes:_Categories/nl "Help4.x:User Notes: Categories/nl")
-- [Gebruikers:
-  Opties](https://docs.joomla.org/Help4.x:Users:_Options/nl "Help4.x:Users: Options/nl")

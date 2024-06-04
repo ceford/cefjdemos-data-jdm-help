@@ -51,8 +51,7 @@ bovenstaande Screenshot.
     aflopend volgorde.
 - **Te tonen aantal.** Toont het aantal items in een lijst. Selecteer
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#defaultlistlimit "Help4.x:Site Global Configuration/nl").
+  voor een site is '20' maar dit kan veranderd worden bij de
 - **Selecteer categorie**. Selecteer uit de lijst met beschikbare
   categorieën.
 - **Selecteer client**. Selecteer uit de lijst met beschikbare clients.
@@ -104,20 +103,11 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   standaard parameters kunnen worden bewerkt.
 - **Help**. Opent dit helpscherm.
 
-Zie [Artikelbeheer
-opties](https://docs.joomla.org/Help4.x:Articles:_Options/nl "Help4.x:Articles: Options/nl")
+Zie Artikelbeheer
+opties
 voor meer informatie.
 
 ## Snelle tips
 
 - U moet minimaal één adverteerder en advertentie-categorie toevoegen
   *voor* u een advertentie kunt toevoegen.
-
-## Verwante informatie
-
-- Om advertenties aan te maken of te bewerken: [Advertentie -
-  Nieuw/Bewerk](https://docs.joomla.org/Help4.x:Banners:_Edit/nl "Help4.x:Banners: Edit/nl")
-- Om met adverteerders te werken:
-  [Adverteerders](https://docs.joomla.org/Help4.x:Banners:_Clients/nl "Help4.x:Banners: Clients/nl")
-- Om met advertentiecategorieën te werken:
-  [Advertentiecategorieën](https://docs.joomla.org/Help4.x:Banners:_Categories/nl "Help4.x:Banners: Categories/nl")

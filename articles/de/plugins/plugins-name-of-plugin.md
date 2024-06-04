@@ -8,24 +8,24 @@ rechten Teil des Plugin-Reiters und werden weiter unten beschrieben.
 
 Plugins nach Gruppe:
 
-- [**Aktionsprotokoll-Gruppe** (1
-  Plugin)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Action_Log_Group/de "Chunk4x:Extensions Plugin Manager Edit Action Log Group/de")
-- [**API-Authentifizierungs-Gruppe** (2
-  Plugins)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_API_Authentication_Group/de "Chunk4x:Extensions Plugin Manager Edit API Authentication Group/de")
-- [**Authentication Group.** (3
-  Plugins)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Authentication_Group/de "Chunk4x:Extensions Plugin Manager Edit Authentication Group/de")
-- [**Behaviour Group.** (2
-  Plugins)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Behaviour_Group/en "Chunk4x:Extensions Plugin Manager Edit Behaviour Group/en")
-- [**CAPTCHA Gruppe**. (2
-  Plugins)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_CAPTCHA_Group/en "Chunk4x:Extensions Plugin Manager Edit CAPTCHA Group/en")
-- [**Inhaltsgruppe (1
-  Plugin)**](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Content_Group/de "Chunk4x:Extensions Plugin Manager Edit Content Group/de")
-- [**Editors Group.** (3
-  Plugins)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Editor_Group/de "Chunk4x:Extensions Plugin Manager Edit Editor Group/de")
-- [**Editor Button Group.** (8
-  Plugins)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Button_Group/de "Chunk4x:Extensions Plugin Manager Edit Button Group/de")
-- [**Erweiterungen-Gruppe** (3
-  Plugins)](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Extension_Group/de "Chunk4x:Extensions Plugin Manager Edit Extension Group/de")
+- **Aktionsprotokoll-Gruppe** (1
+  Plugin)
+- **API-Authentifizierungs-Gruppe** (2
+  Plugins)
+- **Authentication Group.** (3
+  Plugins)
+- **Behaviour Group.** (2
+  Plugins)
+- **CAPTCHA Gruppe**. (2
+  Plugins)
+- **Inhaltsgruppe (1
+  Plugin)**
+- **Editors Group.** (3
+  Plugins)
+- **Editor Button Group.** (8
+  Plugins)
+- **Erweiterungen-Gruppe** (3
+  Plugins)
 - <a
   href="https://docs.joomla.org/index.php?title=Chunk4x:Extensions_Plugin_Manager_Edit_Fields_Group/de&amp;action=edit&amp;redlink=1"
   class="new"
@@ -93,8 +93,8 @@ Plugins nach Gruppe:
   Group.</strong> (3 Plugins)</a>
 
 Die vollständige Liste der obigen Plugin-Gruppen ist in einem
-umfangreichen Dokument verfügbar: [**Liste der
-Plugins**.](https://docs.joomla.org/Chunk4x:List_of_Plugins/de "Chunk4x:List of Plugins/de")
+umfangreichen Dokument verfügbar: **Liste der
+Plugins**.
 
 ## Wie darauf zugreifen
 
@@ -178,10 +178,3 @@ Werkzeugleiste im oberen Bereich. Die Funktionen sind:
   Einstellungen als „Parameter“ bezeichnet. Die Begriffe „Optionen“ und
   „Parameter“ werden in der Hilfedokumentation und in den Anleitungen,
   möglicherweise abwechselnd verwendet.
-
-## Verwandte Informationen
-
-- Um Plugins zu installieren: [Erweiterungen:
-  Installieren](https://docs.joomla.org/Help4.x:Extensions:_Install/de "Help4.x:Extensions: Install/de")
-- Um Plugins zu deinstallieren: [Erweiterungen:
-  Verwalten](https://docs.joomla.org/Help4.x:Extensions:_Manage/de "Help4.x:Extensions: Manage/de")

@@ -34,8 +34,8 @@ alt="Menus Item Articles Featured Articles screen" />
 - **Alias**. **Alias**. Der interne Name des Menüeintrags. Normalerweise
   kann dieses Feld leergelassen werden und Joomla wird den Standardwert
   'Titel' in Kleinbuchstaben und mit Bindestrichen anstelle von
-  Leerzeichen eintragen. [Mehr
-  erfahren.](https://docs.joomla.org/Alias/de "Alias/de")
+  Leerzeichen eintragen. Mehr
+  erfahren.
 
 ### Details
 
@@ -117,12 +117,10 @@ alt="Menus Item Articles Featured Articles blog layout subscreen" />
   - Title Reverse Alphabetical: Titel von Z bis A: Kategorien werden
     alphabetisch sortiert gezeigt.
   - Category Order: Kategoriereihenfolge: Die Sortierung der Kategorien
-    entspricht der Spalte 'Reihenfolge' in [Beiträge:
-    Kategorien](https://docs.joomla.org/Help4.x:Articles:_Categories/de#ordering "Help4.x:Articles: Categories/de").
+    entspricht der Spalte 'Reihenfolge' in
 - Beitragssortierung**.**.
   - Featured Articles Order: Reihenfolge Hauptbeiträge: Die Sortierung
-    der Kategorien entspricht der Spalte 'Reihenfolge' in [Beiträge:
-    Hauptbeiträge](https://docs.joomla.org/Help4.x:Articles:_Featured/de#ordering "Help4.x:Articles: Featured/de").
+    der Kategorien entspricht der Spalte 'Reihenfolge' in
   - Most Recent First: Neuesten zuerst: Die Sortierung beginnt mit dem
     neuesten und endet mit dem ältesten Beitrag.
   - Oldest First: Ältesten zuerst: Die Sortierung beginnt mit dem
@@ -145,10 +143,10 @@ alt="Menus Item Articles Featured Articles blog layout subscreen" />
     zufälliger Reihenfolge angezeigt.
   - Article Order: Beitragsreihenfolge: Die Sortierung entspricht der
     Spalte 'Reihenfolge' in
-    [Beiträge](https://docs.joomla.org/Help4.x:Articles/de#ordering "Help4.x:Articles/de").
+    Beiträge.
   - Article Reverse Order: Umgekehrte Beitragsreihenfolge: Die
     Sortierung ist umgekehrt zur Spalte 'Reihenfolge' in
-    [Beiträge](https://docs.joomla.org/Help4.x:Articles/de#ordering "Help4.x:Articles/de").
+    Beiträge.
 - **Date for Ordering**. **Sortierdatum**. Sortierdatum, wenn Beiträge
   nach Datum sortiert sind.
   - Created: Erstellt: Das Erstellungsdatum des Beitrages verwenden.
@@ -172,8 +170,7 @@ alt="Menus Item Articles Featured Articles blog layout subscreen" />
 
 Die Optionen legen fest, wie Beiträge im Frontend gezeigt werden.
 Hinweis: Die Auswahl "**Beitragseinstellungen verwenden**" übernimmt
-Einstellungen aus [Beiträge:
-Optionen](https://docs.joomla.org/Help4.x:Articles:_Edit/de "Help4.x:Articles: Edit/de").
+Einstellungen aus
 
 <img
 src="https://docs.joomla.org/images/thumb/2/23/Help-4x-Menus-Item-Articles-Featured-Articles-options-subscreen-de.png/600px-Help-4x-Menus-Item-Articles-Featured-Articles-options-subscreen-de.png"
@@ -203,31 +200,30 @@ Kategorie
 
 - **Category**. **Kategorie**. Den Kategorietitel des Beitrags zeigen.
 - **Link Category**. **Kategorie verlinken**. Den Kategorietitel als
-  Link zeigen.Hinweis: Im Tab 'Kategorie' kann mit [Layout
-  auswählen](https://docs.joomla.org/Help4.x:Articles:_Options/de#choosealayout "Help4.x:Articles: Options/de")
+  Link zeigen.Hinweis: Im Tab 'Kategorie' kann mit Layout
+  auswählen
   'Blog' oder 'Liste' festgelegt werden.
 - **Parent Category**. **Übergeordnete Kategorie**. Den Titel der
   übergeordneten Kategorie des Beitrages zeigen.
 - **Link Parent Category**. **Übergeordnete Kategorie verlinken**. Den
   Titel der Kategorie als Link zeigen.Hinweis: Im Tab 'Kategorie' kann
-  mit [Layout
-  auswählen](https://docs.joomla.org/Help4.x:Articles:_Options/de#choosealayout "Help4.x:Articles: Options/de")
+  mit Layout
+  auswählen
   'Blog' oder 'Liste' festgelegt werden.
 
 Verknüpfungen
 
 - **Associations**. **Verknüpfungen anzeigen**. Zeigt verknüpfte Flaggen
-  oder den Sprachcode. [Nur bei mehrsprachigen
-  Seiten](https://docs.joomla.org/Help4.x:Multilingual_Associations/de "Help4.x:Multilingual Associations/de").
+  oder den Sprachcode.
 
 Autor
 
 - **Author**. **Autor**. Zeigt den Autor des Beitrags.
 - **Link to Author's Contact Page**. **Autor verlinken**. Zum Kontakt
   des Autors verlinken.Hinweis: Der Autor muss als
-  [Kontakt](https://docs.joomla.org/Help4.x:Contacts:_Edit/de "Help4.x:Contacts: Edit/de")
+  Kontakt
   angelegt sein. Wurde ein
-  [Autoralias](https://docs.joomla.org/Help4.x:Articles:_Edit/de#createdbyalias "Help4.x:Articles: Edit/de")
+  Autoralias
   eingegeben, wird der Link nicht angezeigt.
 
 Datum
@@ -282,21 +278,21 @@ alt="Menus Item Articles Featured Articles integration subscreen" />
 
 ### Allgemeine Optionen
 
-Siehe [Menüs: Neuer
-Eintrag](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/de "Help4.x:Menu Item: New Item/de")
+Siehe Menüs: Neuer
+Eintrag
 für Hilfe zu Feldern, die bei allen Menüeintragstypen gleich sind:
 
-- [Rechte
-  Seite](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/de#rightpanel "Help4.x:Menu Item: New Item/de")
-- [Linktyp](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/de#linktype "Help4.x:Menu Item: New Item/de")
-- [Seitenanzeige](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/de#pagedisplay "Help4.x:Menu Item: New Item/de")
-- [Metadaten](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/de#metadata "Help4.x:Menu Item: New Item/de")
-- [Verknüpfungen](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/de#associations "Help4.x:Menu Item: New Item/de")
-- [Modulzuweisung](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/de#moduleassignment "Help4.x:Menu Item: New Item/de")
+- Rechte
+  Seite
+- Linktyp
+- Seitenanzeige
+- Metadaten
+- Verknüpfungen
+- Modulzuweisung
 
 ## Werkzeugleiste
 
-Das [Bildschirmfoto](#screenshot) zeigt die Werkzeugleiste im oberen
+Das Bildschirmfoto zeigt die Werkzeugleiste im oberen
 Bereich.
 
 - **Speichern**. Speichert den Menüeintrag und bleibt auf der aktuellen
@@ -314,32 +310,6 @@ Bereich.
 - Um ein Beispiel für das Layout der Hauptbeiträge zu sehen bei der
   Joomla-Installation die Beispieldateien mitinstallieren und die
   Startseite aufrufen.
-- Hauptbeiträge in [Beiträge:
-  Hauptbeiträge](https://docs.joomla.org/Help4.x:Articles:_Featured/de "Help4.x:Articles: Featured/de")
+- Hauptbeiträge in Beiträge:
+  Hauptbeiträge
   wählen.
-
-## Verwandte Informationen
-
-- [Beiträge: Kategorie neu erstellen oder
-  bearbeiten](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/de "Help4.x:Articles: Edit Category/de").
-- Ein neues Menü erstellen:
-  [Menüs](https://docs.joomla.org/Help4.x:Menus/de "Help4.x:Menus/de").
-- Dieses
-  [Portal](https://docs.joomla.org/Portal:Joomla_4/de "Portal:Joomla 4/de")
-  bringt alle Informationen zu Joomla 4 zusammen.
-
-|                                                                                                                                                                             |                                                                                                                                                                                                                |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Verwandte Hilfeseiten                                                                                                                                                       | Beschreibung                                                                                                                                                                                                   |
-| [Beiträge: Optionen](https://docs.joomla.org/Help4.x:Articles:_Options/de "Help4.x:Articles: Options/de")                                                                   | Festlegen globaler Standardwerte für Menüeinträge, die Beiträge anzeigen. Diese Werte werden verwendet, wenn in einem Menüeintrag 'Global' als Option ausgewählt wird.                                         |
-| [Beiträge](https://docs.joomla.org/Help4.x:Articles/de "Help4.x:Articles/de")                                                                                               | Die Beitragsliste wird verwendet, um Beiträge zu finden, zu markieren, hinzuzufügen und zu bearbeiten.                                                                                                         |
-| [Beiträge: Bearbeiten](https://docs.joomla.org/Help4.x:Articles:_Edit/de "Help4.x:Articles: Edit/de")                                                                       | Hier werden Beiträge hinzugefügt und bearbeitet. Außerdem lässt sich die Kategorie für einen Beitrag auswählen und festlegen, ob er veröffentlicht wird und auf der Startseite erscheint.                      |
-| [Beiträge: Hauptbeiträge](https://docs.joomla.org/Help4.x:Articles:_Featured/de "Help4.x:Articles: Featured/de")                                                            | Dient zur Steuerung, welche 'Hauptbeiträge' in welcher Reihenfolge auf der Startseite angezeigt werden.                                                                                                        |
-| [Beiträge: Kategorien](https://docs.joomla.org/Help4.x:Articles:_Categories/de "Help4.x:Articles: Categories/de")                                                           | Die Liste der Beitragskategorien wird verwendet, um Kategorien für Beiträge zu finden, hinzuzufügen und zu bearbeiten.                                                                                         |
-| [Menü: Archivierte Beiträge](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived/de "Help4.x:Menu Item: Article Archived/de")                                       | Zeigt eine angepasste Liste nach Datum oder Titel geordneter Beiträge. Archivierte Beiträge sind nicht mehr veröffentlicht, bleiben aber auf der Website gespeichert.                                          |
-| [Menü: Kategorieblog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/de "Help4.x:Menu Item: Category Blog/de")                                                    | Zeigt Beiträge einer Kategorie im Blog-Layout. Steuert führende und einleitende Beiträge sowie zusätzliche Links zu Beiträgen.                                                                                 |
-| [Menü: Kategorieliste](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/de "Help4.x:Menu Item: Category List/de")                                                   | Zeigt eine Liste von Beiträgen einer Kategorie in einem Listenlayout an.                                                                                                                                       |
-| [Menü: Beitrag erstellen](https://docs.joomla.org/Help4.x:Menu_Item:_Create_Article/de "Help4.x:Menu Item: Create Article/de")                                              | Ermöglicht es Benutzern, einen Beitrag zu verfassen. Normalerweise steht dies nur angemeldeten Benutzern im Frontend der Website zur Verfügung. Benutzer müssen die Berechtigung haben, Beiträge zu erstellen. |
-| <span class="mw-selflink selflink">Menü: Hauptbeiträge</span>                                                                                                               | Dient zur Anzeige der als 'Hauptbeiträge' markierten Beiträge. Die Beiträge werden in einem Blog-Layout angezeigt.                                                                                             |
-| [Menü: Alle Kategorien in einer Beitragskategorie auflisten](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/de "Help4.x:Menu Item: List All Categories/de") | Dient zur Anzeige einer hierarchischen Liste von Kategorien. Je nach den gewählten Optionen für dieses Format kann man auf den Namen einer Kategorie klicken, um die Beiträge in dieser Kategorie anzuzeigen.  |
-| [Menü: Einzelner Beitrag](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article/de "Help4.x:Menu Item: Single Article/de")                                              | Dient zur Anzeige eines einzelnen Beitrags.                                                                                                                                                                    |

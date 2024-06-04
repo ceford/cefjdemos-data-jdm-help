@@ -144,10 +144,10 @@ Layout
 
 ## Informação Relacionada
 
-- Para instalar mais «Idiomas»: [Ecrã de Instalar
-  Idiomas](https://docs.joomla.org/Help4.x:Extensions_Extension_Manager_Languages "Special:MyLanguage/Help4.x:Extensions Extension Manager Languages")
-- Para desinstalar um «Idioma»: [Gestor de Extensões -
-  Gerir](https://docs.joomla.org/Help4.x:Extensions_Extension_Manager_Manage "Special:MyLanguage/Help4.x:Extensions Extension Manager Manage")
+- Para instalar mais «Idiomas»: Ecrã de Instalar
+  Idiomas
+- Para desinstalar um «Idioma»: Gestor de Extensões -
+  Gerir
 - Para alterar o «Idioma« para um «Utilizador»: [Gestor de
   Utilizadores -
   Novo/Editar](https://docs.joomla.org/Help4.x:Users_User_Manager_Edit "Special:MyLanguage/Help4.x:Users User Manager Edit")

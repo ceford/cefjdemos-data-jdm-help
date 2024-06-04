@@ -6,15 +6,15 @@ Die Kontaktliste zeigt ausgewählte Informationen für Kontakte an und
 bietet Links zum Bearbeiten oder Hinzufügen von Informationen wie Name,
 Adresse, Telefon und E-Mail. Kontakte können auch mit registrierten
 Benutzern verknüpft werden. Danach kann man mit der
-[Menüverwaltung](https://docs.joomla.org/Help4.x:Menus/de "Help4.x:Menus/de")
+Menüverwaltung
 Frontend-Links zu den Kontakten erstellen.
 
 ## Wie darauf zugreifen
 
 - Im Administrator-Menü **Komponenten → Kontakte → Kontakte**
   wählen. Oder ...
-- Im Fenster [Kontakt:
-  Kategorien](https://docs.joomla.org/Help4.x:Contacts:_Categories/de "Help4.x:Contacts: Categories/de")
+- Im Fenster Kontakt:
+  Kategorien
   die Zifferntaste wählen.
 
 ## Bildschirmfoto
@@ -54,8 +54,8 @@ sortieren.
   werden.
 - **Verknüpfter Benutzer.** Der Benutzername, mit dem der Kontakt
   verknüpft ist (falls vorhanden).
-- **Zugriffsebene**. Die [Zugriffsebene für die
-  Anzeige](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/de "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/de")
+- **Zugriffsebene**. Die Zugriffsebene für die
+  Anzeige
   des Eintrags.
 - **Sprache**. Die Sprachzuordnung des Eintrags.
 - **ID**. Einmalig vergebene Identifikations-Nummer für den Eintrag. Sie
@@ -66,7 +66,7 @@ sortieren.
 
 ## Listen-Filter
 
-**Suchleiste**. Das [Bildschirmfoto](#screenshot) zeigt die Suchleiste
+**Suchleiste**. Das Bildschirmfoto zeigt die Suchleiste
 im oberen Bereich.
 
 - **Suche nach Text**. Einen Teil des Suchbegriffs eingeben, auf das
@@ -86,7 +86,7 @@ im oberen Bereich.
 - **Anzuzeigende Anzahl**. Zeigt die Anzahl der Einträge an. Zur
   Änderung in der Dropdown-Liste die gewünschte Anzahl wählen.Der
   Standardwert für die Site ist '20', er kann in der
-  [Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#defaultlistlimit "Help4.x:Site Global Configuration/de")
+  Konfiguration
   geändert werden.
 - **Hauptbeiträge wählen**. Auswahl von Keine Hauptbeiträge /
   Hauptbeiträge.
@@ -104,7 +104,7 @@ im oberen Bereich.
 
 **Seitenkontrolle**. Gibt es mehr Einträge als auf der Seite gezeigt,
 wird im unteren Bereich die Seitenkontrollleiste wie auf dem
-[Bildschirmfoto](#screenshot) eingeblendet. Die aktuelle Seitenzahl ist
+Bildschirmfoto eingeblendet. Die aktuelle Seitenzahl ist
 mit dunkler Farbe unterlegt.
 
 - **Start**. Anklicken, um die erste Seite anzuzeigen.
@@ -159,27 +159,6 @@ Werkzeugleiste im oberen Bereich. Die Funktionen sind:
 ## Tipps
 
 - Es muss mindestens eine Kontakt-Kategorie erstellt sein, *bevor* man
-  den ersten Kontakt erstellen kann. Kategorien werden in [Kontakte:
-  Kategorien](https://docs.joomla.org/Help4.x:Contacts:_Categories/de "Help4.x:Contacts: Categories/de")
+  den ersten Kontakt erstellen kann. Kategorien werden in Kontakte:
+  Kategorien
   erstellt.
-
-## Verwandte Informationen
-
-|                                                                                                                        |                                                                                                                                                                                                                                                                                                     |
-|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Verwandte Hilfeseiten                                                                                                  | Beschreibung                                                                                                                                                                                                                                                                                        |
-| [Kontakte: Kategorien](https://docs.joomla.org/Help4.x:Contacts:_Categories/de "Help4.x:Contacts: Categories/de")      | Im Kontaktkategorie-Manager können vorhandene Kontaktkategorien bearbeitet und neue Kontaktkategorien erstellt werden. Zu beachten ist, dass Kontaktkategorien von anderen Kategorien unabhängig sind, z.B. für Artikel, Banner, Newsfeeds und Weblinks. Von diesem Bildschirm aus kann auch zum <a
-                                                                                                                          href="https://docs.joomla.org/Help4.x:Components_Contacts_Contacts/en"
-                                                                                                                          class="mw-redirect"
-                                                                                                                          title="Help4.x:Components Contacts Contacts/en">Kontakt-Manager:
-                                                                                                                          Kontakte-Übersicht</a> gewechselt werden.                                                                                                                                                                                                                                                            |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit_Category/de&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Contacts: New or Edit Category/de (page does not exist)">Kontakte:
- Kategorie neu erstellen oder bearbeiten</a>                                                                             | In der Kontakt-Kategorieverwaltung werden bestehende Kontakt-Kategorien bearbeitet und neue erstellt. Kontakt-Kategorien erlauben das Organisieren von Kontakten der Website. Kontakt-Kategorien sind getrennt von anderen Kategorien wie die für Beiträge, Banner, Newsfeeds usw.                  |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit/de&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Contacts: New or Edit/de (page does not exist)">Kontakte:
- neu erstellen oder bearbeiten</a>                                                                                       | Hier werden neue Kontakte erstellt oder bestehende Kontakte bearbeitet. Mit Kontakten können Personen auf der Website aufgelistet werden. Seitenbesucher können diesen Personen E-Mails senden.                                                                                                     |

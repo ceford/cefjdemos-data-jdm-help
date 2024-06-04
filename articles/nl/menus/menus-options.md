@@ -92,12 +92,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 ## Snelle tips
 
 - Denk er aan dat deze keuzes algemeen gelden.
-
-## Verwante informatie
-
-- Om nieuwe menu's toe te voegen: [Menu Beheer
-  Nieuw/Bewerken](https://docs.joomla.org/Help4.x:Menus:_Edit/nl "Help4.x:Menus: Edit/nl")
-- Om menu-items toe te voegen of te bewerken: [Menu-item
-  beheer](https://docs.joomla.org/Help4.x:Menus:_Items/nl "Help4.x:Menus: Items/nl")
-- Om menumodules toe te voegen of te bewerken: [Module
-  beheer](https://docs.joomla.org/Help4.x:Extensions_Module_Manager_Edit/nl "Help4.x:Extensions Module Manager Edit/nl")

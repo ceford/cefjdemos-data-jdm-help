@@ -1,7 +1,7 @@
 <!-- Filename: Help4.x:Site_Global_Configuration_Site / Display title: Konfiguration: Site -->
 
  **←** 
-[Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#site "Help4.x:Site Global Configuration/de")
+Konfiguration
 
 <img
 src="https://docs.joomla.org/images/thumb/1/11/Help-4x-global-configuration-site-subscreen-de.png/800px-Help-4x-global-configuration-site-subscreen-de.png"
@@ -32,4 +32,4 @@ data-file-width="1566" data-file-height="358" width="800" height="183"
 alt="Bildschirmfoto: Cookies" />
 
  **←** 
-[Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#site "Help4.x:Site Global Configuration/de")
+Konfiguration

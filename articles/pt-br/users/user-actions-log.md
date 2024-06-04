@@ -43,7 +43,7 @@ coluna. A finalidade de cada coluna é a seguinte:
 ## Filtros da lista
 
 **Barra de pesquisa**: Perto do topo da página, você verá a barra de
-pesquisa mostrada na [captura de tela](#screenshot) acima.
+pesquisa mostrada na captura de tela acima.
 
 - **Pesquisar por texto**: Insira parte do termo de pesquisa e clique no
   ícone "Pesquisar". *Passe o mouse* para ver uma *dica* indicando quais
@@ -60,8 +60,7 @@ pesquisa mostrada na [captura de tela](#screenshot) acima.
     ordem crescente e decrescente.
 - **Número a ser exibido**: Mostra o número de itens em uma lista.
   Selecione na lista suspensa para alterar o número exibido.O padrão
-  para um site é '20', mas isso pode ser alterado nas [Configurações
-  Globais](https://docs.joomla.org/Help4.x:Site_Global_Configuration/pt-br#defaultlistlimit "Help4.x:Site Global Configuration/pt-br").
+  para um site é '20', mas isso pode ser alterado nas
 
 **Opções do filtro**
 
@@ -75,7 +74,7 @@ pesquisa mostrada na [captura de tela](#screenshot) acima.
 
 **Controles da página**: Quando o número de itens for mais que uma
 página, você verá uma barra de controle na página perto da parte
-inferior da página mostrada na [captura de tela](#screenshot) acima. O
+inferior da página mostrada na captura de tela acima. O
 número da página atual que está sendo visualizada tem um fundo de cor
 escura.
 
@@ -100,8 +99,3 @@ de tela](#Captura_de_tela) acima. As funções são:
 - **Opções**: Abre a janela de opções onde configurações, como os
   parâmetros padrões, podem ser editadas.
 - **Ajuda**: Abre a tela de ajuda.
-
-## Informações relacionadas
-
-- [Tutorial para o Joomla! 3: Registros das ação dos
-  usuários](https://docs.joomla.org/J3.x:User_Action_Logs/pt-br "J3.x:User Action Logs/pt-br")

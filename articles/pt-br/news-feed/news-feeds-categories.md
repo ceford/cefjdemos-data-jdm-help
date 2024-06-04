@@ -52,8 +52,8 @@ coluna em questão.
 - **Estado**: O estado de publicação do item.
 - **Título**: O nome ou o título do feed. Faça-o o mais descritivo
   possível.
-- **Acesso**: O [nível de acesso de
-  visualização](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/pt-br "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/pt-br")
+- **Acesso**: O nível de acesso de
+  visualização
   para este item.
 - **Associações**: Mostra em quais linguagens este item está associado.
 - **Linguagem**: Linguagem do item.
@@ -66,7 +66,7 @@ coluna em questão.
 ## Filtros da lista
 
 **Barra de pesquisa**: Perto do topo da página, você verá a barra de
-pesquisa mostrada na [captura de tela](#screenshot) acima.
+pesquisa mostrada na captura de tela acima.
 
 - **Pesquisar por texto**: Insira parte do termo de pesquisa e clique no
   ícone "Pesquisar". *Passe o mouse* para ver uma *dica* indicando quais
@@ -83,8 +83,7 @@ pesquisa mostrada na [captura de tela](#screenshot) acima.
     ordem crescente e decrescente.
 - **Número a ser exibido**: Mostra o número de itens em uma lista.
   Selecione na lista suspensa para alterar o número exibido.O padrão
-  para um site é '20', mas isso pode ser alterado nas [Configurações
-  Globais](https://docs.joomla.org/Help4.x:Site_Global_Configuration/pt-br#defaultlistlimit "Special:MyLanguage/Help4.x:Site Global Configuration/pt-br").
+  para um site é '20', mas isso pode ser alterado nas
 
 **Opções do filtro**
 
@@ -154,11 +153,3 @@ de tela](#Captura_de_tela) acima. As funções são:
 - **Opções**: Abre a janela de opções onde configurações, como os
   parâmetros padrões, podem ser editadas.
 - **Ajuda**: Abre a tela de ajuda.
-
-## Informações relacionadas
-
-- Para trabalhar com os feeds para notícias: [Feeds para
-  notícias](https://docs.joomla.org/Help4.x:News_Feeds/pt-br "Help4.x:News Feeds/pt-br")
-- Para adicionar novas categorias dos feeds para notícias: [Feeds para
-  notícias: Editar
-  categoria](https://docs.joomla.org/Help4.x:News_Feeds:_Edit_Category/pt-br "Help4.x:News Feeds: Edit Category/pt-br")

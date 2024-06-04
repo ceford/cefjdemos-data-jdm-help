@@ -61,7 +61,7 @@ Klik op de kolomkop om de lijst volgens deze kolom te sorteren.
   kan bewerkt worden door op de titel te klikken.
 - **Hits**. Het aantal keren dat een item is bekeken.
 - **Toegang**. Het
-  [Toegangsniveau](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/nl "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/nl")
+  Toegangsniveau
   om het item te bekijken.
 - **Taal**. Item taal.
 - **ID**. Dit is een uniek identificatienummer voor dit item,
@@ -90,8 +90,7 @@ bovenstaande Screenshot.
     aflopend volgorde.
 - **Te tonen aantal.** Toont het aantal items in een lijst. Selecteer
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#defaultlistlimit "Help4.x:Site Global Configuration/nl").
+  voor een site is '20' maar dit kan veranderd worden bij de
 
 ### Filters opties
 
@@ -209,10 +208,3 @@ uitvinkt.
 
 - U moet minimaal één adverteerder en advertentie-categorie toevoegen
   *voor* u een advertentie kunt toevoegen.
-
-## Verwante informatie
-
-- Om advertenties aan te maken of te bewerken: [Advertentie -
-  Nieuw/Bewerk](https://docs.joomla.org/Help4.x:Banners:_Edit/nl "Help4.x:Banners: Edit/nl")
-- Om met adverteerders te werken:
-  [Adverteerders](https://docs.joomla.org/Help4.x:Banners:_Clients/nl "Help4.x:Banners: Clients/nl")

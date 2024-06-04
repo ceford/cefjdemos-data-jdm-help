@@ -36,8 +36,8 @@ Doe, om de rechten te veranderen, het volgende.
       de beheerdersinterface.
 3.  Selecteer de gewenste rechten voor de actie die u wilt wijzigen.
     - **Overgenomen**. Overgenomen van gebruikers in deze groep vanuit
-      de [Algemene
-      instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#permissions "Help4.x:Site Global Configuration/nl")
+      de Algemene
+      instellingen
       rechten.
     - **Toegestaan**. Toegestaan voor gebruikers in deze groep.Let op:
       Als deze actie 'Geweigerd' is op een van de hogere niveaus, dan
@@ -51,7 +51,7 @@ Doe, om de rechten te veranderen, het volgende.
 ## Werkbalk
 
 Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#screenshot) hierboven.
+afbeelding hierboven.
 
 - **Opslaan**. Slaat de associaties op en blijft op het huidige scherm.
 - **Opslaan & sluiten**. Slaat de associaties op en sluit het huidige
@@ -59,16 +59,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 - **Sluiten**. Sluit het huidige scherm en keert terug naar het vorige
   scherm zonder wijzigingen die u misschien heeft gedaan op te slaan.
 - **Help**. Opent dit helpscherm.
-
-## Verwante informatie
-
-- Dit
-  [portaal](https://docs.joomla.org/Portal:Joomla_4/nl "Portal:Joomla 4/nl")
-  brengt informatie specifiek gerelateerd aan Joomla 4 samen.
-
-|                                                                                                                                                        |                                                                                                                       |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| Verwante helpschermen                                                                                                                                  | Beschrijving                                                                                                          |
-| <span class="mw-selflink selflink">Meertaligheid associaties: Opties</span>                                                                            | Standaard rechten gebruikt voor alle inhoud in de meertaligheid associatie component.                                 |
-| [Meertaligheid associaties](https://docs.joomla.org/Help4.x:Multilingual_Associations/nl "Help4.x:Multilingual Associations/nl")                       | Dit scherm wordt gebruikt om een een associatie in te stellen tussen een item en de geïnstalleerde site talen.        |
-| [Meertaligheid associaties: Bewerken](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Edit/nl "Help4.x:Multilingual Associations: Edit/nl") | Wordt gebruikt om associaties tussen talen toe te voegen of te bewerken die op uw meertalige websites worden getoond. |

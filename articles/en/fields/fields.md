@@ -174,5 +174,4 @@ alt="Fields batch process" />
 
 ## Quick Tips
 
-If you want to know how to use fields: [Managing Custom
-Fields](https://docs.joomla.org/J3.x:Adding_custom_fields/en "J3.x:Adding custom fields/en").
+If you want to know how to use fields:

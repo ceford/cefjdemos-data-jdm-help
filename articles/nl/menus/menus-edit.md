@@ -73,7 +73,7 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 
 - Indien u vergeten heeft een module aan te maken voor dit menu, ga dan
   naar
-  [Modulebeheer](https://docs.joomla.org/Help4.x:Modules/nl "Help4.x:Modules/nl"),
+  Modulebeheer,
   door te gaan naar **Home Controlepaneel → Site → Modules**. Klik op
   **Nieuw** en daarna op**Menu**. Vul een titel in en selecteer het menu
   in de Module parameters.
@@ -85,11 +85,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 - Gebruik, als u een nieuw menu aanmaakt, alleen alfanumerieke tekens
   zonder spaties in het *Unieke naam* veld. Het is verstandig alleen
   a-z, 0-9 e underscore (\_) tekens te gebruiken.
-
-## Verwante informatie
-
-- [Menus](https://docs.joomla.org/Help4.x:Menus/nl "Special:MyLanguage/Help4.x:Menus/nl")
-- <a href="https://docs.joomla.org/Help4.x:Site_Control_Panel/nl"
-  class="new"
-  title="Special:MyLanguage/Help4.x:Site Control Panel/nl (page does not exist)">Control
-  Panel</a>

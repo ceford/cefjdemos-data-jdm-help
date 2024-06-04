@@ -39,8 +39,8 @@ alt="Menus Menu Item Contact FeaturedContacts screen" />
 - **Alias**. De interne naam van het item. Normaliter, kunt u dit leeg
   laten en Joomla zal de standaardwaarde invullen. De standaard waarde
   is de titel of naam in kleine letters en streepjes in plaats van
-  spaties. [Meer
-  leren.](https://docs.joomla.org/Alias/nl "Special:MyLanguage/Alias/nl")
+  spaties. Meer
+  leren.
 
 ### Details tabblad
 
@@ -94,13 +94,13 @@ alt="Menus Menu Item Contact FeaturedContacts screen" />
   pagina van de website. Er mag exact één menu-item ingesteld zijn als
   standaard pagina. U kunt de standaard pagina op twee manieren
   wijzigen:
-  1.  Klik op de Home kolom van het gewenste menu-item op het [Menu's:
-      Items](https://docs.joomla.org/Help4.x:Menus:_Items/nl "Special:MyLanguage/Help4.x:Menus: Items/nl")
+  1.  Klik op de Home kolom van het gewenste menu-item op het Menu's:
+      Items
       scherm.
   2.  Open het menu-item voor de nieuwe standaard pagina en wijzig de
       Standaard pagina instellingen op Ja.
 - **Toegang**. Het
-  [Toegangsniveau](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/nl "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/nl")
+  Toegangsniveau
   om het item te bekijken.
 - **Taal**. Item taal.
 - **Notitie**. Dit wordt normaal gesproken door de beheerder gebruikt
@@ -313,8 +313,8 @@ De volgende opties zijn beschikbaar:
 
 ### Algemene opties
 
-Zie [Menu's: Bewerken/Nieuw
-item](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/nl "Help4.x:Menu Item: New Item/nl")
+Zie Menu's: Bewerken/Nieuw
+item
 voor hulp over velden die algemeen zijn in alle menu-itemtypes de
 volgende tabbladen:
 
@@ -348,7 +348,7 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 
 - Doe, om uw contactpersoon speciaal te maken, een van de volgende
   zaken: Klik, vanuit
-  [Contactpersonenbeheer](https://docs.joomla.org/Help4.x:Components_Contacts_Contacts "Special:MyLanguage/Help4.x:Components Contacts Contacts"),
+  Contactpersonenbeheer,
   of op het speciaal symbool (cirkel met ster) in de speciaal kolom, of
   klik op het selecteren van het item en selecteer speciaal in de
   'Actie' drop-down lijst in de werkbalk. Meerdere items kunnen
@@ -358,25 +358,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Components-Contacts-Contacts-list-nl.png"
 class="new"
 title="File:Help-4x-Components-Contacts-Contacts-list-nl.png">800px</a>
-
-## Verwante informatie
-
-|                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Verwante helpschermen                                                                                                                                                                  | Beschrijving                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| [Contactpersonen: Opties](https://docs.joomla.org/Help4.x:Contacts:_Options/nl "Help4.x:Contacts: Options/nl")                                                                         | Contactpersonen opties instellingen geven de mogelijkheid tot het instellen van parameters die algemeen gebruikt worden voor alle contactpersonen.                                                                                                                                                                                                                                                                             |
-| [Contactpersonen: Categorieën](https://docs.joomla.org/Help4.x:Contacts:_Categories/nl "Help4.x:Contacts: Categories/nl")                                                              | Contactpersoon categoriebeheer is waar u bestaande contactpersonen kunt bewerken en nieuwe kunt aanmaken. Let op dat Contactpersoon categorieën los staan van andere categorieën, zoals artikelen, advertenties, nieuwsfeeds en weblinks. Vanaf dit scherm kunt u ook navigeren naar het [Contactpersonen](https://docs.joomla.org/Help4.x:Contacts/nl "Help4.x:Contacts/nl") scherm.                                          |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit_Category/nl&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Contacts: New or Edit Category/nl (page does not exist)">Contactpersonen:
- Nieuwe of bewerken van categorie</a>                                                                                                                                                    | Dit is waar u een Contactpersoon categorie kunt toevoegen of een bestaande contactpersoon categorie kunt bewerken. Contactpersoon categorieën stellen u in staat contactpersonen te organiseren op uw website. Contactpersoon categorieën staan los van andere type categorieën, zoals van artikelen, advertenties, nieuwsfeeds en meer.                                                                                       |
-| [Contactpersonen](https://docs.joomla.org/Help4.x:Contacts/nl "Help4.x:Contacts/nl")                                                                                                   | Het Contactpersoon beheer scherm geeft u de mogelijkheid contactpersoon informatie aan uw Joomla! site toe te voegen. U kunt informatie opgeven zoals naam, adres, telefoonnummer en e-mailadres. U kunt contactpersonen ook koppelen aan geregistreerde gebruikers. Achteraf kunt u [Menubeheer](https://docs.joomla.org/Help4.x:Menus/nl "Help4.x:Menus/nl") gebruiken om op de website links naar contactpersonen te maken. |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit/nl&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Contacts: New or Edit/nl (page does not exist)">Contactpersonen:
- Nieuw of bewerken</a>                                                                                                                                                                   | Dit is waar u een contactpersoon kunt toevoegen of een bestaande contactpersoon kunt bewerken. Contactpersonen stellen u in staat mensen te tonen op uw website. Ze geven ook de mogelijkheid aan gebruikers e-mails aan deze mensen te sturen.                                                                                                                                                                                |
-| [Menu-item: Lijst met contactpersonen in een categorie](https://docs.joomla.org/Help4.x:Menu_Item:_List_Contacts_in_a_Category/nl "Help4.x:Menu Item: List Contacts in a Category/nl") | Wordt gebruikt om contactpersonen te te tonen die tot een bepaalde categorie behoren in een lijst weergave. Instellingen bevatten: Contactpersoon details, Contactpersoon formulier, presentatie (slider, tabbladen, platte weergave) en e-mail onderwerp en bericht-filters.                                                                                                                                                  |
-| <span class="mw-selflink selflink">Menu-item: Speciale contactpersonen</span>                                                                                                          | Wordt gebruikt om een lijst met aanbevolen contactpersonen te tonen.                                                                                                                                                                                                                                                                                                                                                           |
-| [Menu-item: Een enkele contactpersoon](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Contact/nl "Help4.x:Menu Item: Single Contact/nl")                                            | Wordt gebruikt om één enkele contactpersoon te tonen. Instellingen omvatten: Contactpersoon details, Contactpersoon formulier, presentatie (slider, tabbladen, platte weergave) en e-mail onderwerp en bericht-filters.                                                                                                                                                                                                        |

@@ -19,8 +19,8 @@ avoir au moins une Bannière Client et une Catégorie de Bannière
 - Ou sélectionnez un bouton numéroté dans le [Gestionnaire des
   catégories de
   bannières](https://docs.joomla.org/Help4.x:Banners:_Categories/en "Help4.x:Banners: Categories/en")
-  or the [Gestionnaire des clients de
-  bannières](https://docs.joomla.org/Help4.x:Banners:_Clients/en "Help4.x:Banners: Clients/en")
+  or the Gestionnaire des clients de
+  bannières
   pages.
 
 ## Captures d'écran
@@ -177,34 +177,14 @@ Screenshot above. The functions are:
   parameters can be edited.
 - **Help**. Opens this help screen.
 
-Voir [Options du gestionnaire de
-bannières](https://docs.joomla.org/Help4.x:Banners:_Options/en "Help4.x:Banners: Options/en")
+Voir Options du gestionnaire de
+bannières
 Pour plus d'informations
 
 ## Astuces
 
-- Vous devez ajouter au moins un [Bannière
-  Client](https://docs.joomla.org/Help4.x:Banners:_Clients/en "Help4.x:Banners: Clients/en")
-  et [Catégorie de
-  bannière](https://docs.joomla.org/Help4.x:Banners:_Categories/en "Help4.x:Banners: Categories/en")
-  *avant* de pouvoir [ajouter une
-  bannière](https://docs.joomla.org/Help4.x:Banners:_Edit/en "Help4.x:Banners: Edit/en").
-
-## Informations connexes
-
-|                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Ecrans d'aide en relation                                                                                                                                    | Description                                                                                                                                                                                                                                                                                                                                                                                                             |
-| [Bannières : Modifier](https://docs.joomla.org/Help4.x:Banners:_Edit/en "Help4.x:Banners: Edit/en")                                                          | Permet d'ajouter ou de modifier des bannières qui peuvent être affichées sur votre site web Joomla ! N'oubliez pas de créer au moins une <a href="https://docs.joomla.org/Help4.x:Components_Banners_Clients/en"
-                                                                                                                                                                class="mw-redirect"
-                                                                                                                                                                title="Help4.x:Components Banners Clients/en">Bannière Client</a> et un<a
-                                                                                                                                                                href="https://docs.joomla.org/Help4.x:Components_Banners_Categories/en"
-                                                                                                                                                                class="mw-redirect"
-                                                                                                                                                                title="Help4.x:Components Banners Categories/en">Catégorie de
-                                                                                                                                                                bannière</a> avant de créer des bannières.                                                                                                                                                                                                                                                                                                                                                                               |
-| [Bannières : Options](https://docs.joomla.org/Help4.x:Banners:_Options/en "Help4.x:Banners: Options/en")                                                     | Options globales (configuration) pour les clients Bannière.                                                                                                                                                                                                                                                                                                                                                             |
-| [Bannières : Catégories](https://docs.joomla.org/Help4.x:Banners:_Categories/en "Help4.x:Banners: Categories/en")                                            | Permet d'afficher une liste des catégories de bannières existantes, de modifier les catégories actuelles et d'en créer de nouvelles. Notez que les catégories de bannières sont distinctes des autres catégories, telles que les articles, les contacts, les flux d'informations et les liens Web. Il doit y avoir au moins un client de bannière et une catégorie de bannière avant qu'une bannière puisse être créée. |
-| [Bannières : Nouvelle ou modifier la catégorie](https://docs.joomla.org/Help4.x:Banners:_New_or_Edit_Category/en "Help4.x:Banners: New or Edit Category/en") | C'est ici que vous pouvez ajouter une nouvelle catégorie de bannière ou modifier une catégorie existante. Notez que vous devez créer au moins une catégorie de bannière avant de pouvoir créer une bannière. De plus, les catégories de bannières sont distinctes des autres types de catégories, comme celles des articles, des contacts et des fils d'actualité.                                                      |
-| [Bannière Client](https://docs.joomla.org/Help4.x:Banners:_Clients/en "Help4.x:Banners: Clients/en")                                                         | Le gestionnaire de clients de bannières est l'endroit où vous pouvez modifier les clients de bannières existants ou en créer de nouveaux. Notez que vous devez avoir au moins un client de bannière et une catégorie de bannière définis avant de pouvoir ajouter votre première bannière.                                                                                                                              |
-| [Bannières : Nouveau ou modifier le client](https://docs.joomla.org/Help4.x:Banners:_New_or_Edit_Client/en "Help4.x:Banners: New or Edit Client/en")         | C'est ici que vous ajoutez un nouveau client Banner ou que vous modifiez un client existant. Notez que vous devez créer au moins un Client Banner avant de pouvoir créer une Bannière.                                                                                                                                                                                                                                  |
-| [Bannières : Suivis](https://docs.joomla.org/Help4.x:Banners:_Tracks/en "Help4.x:Banners: Tracks/en")                                                        | Permet d'afficher une liste des informations de suivi de Bannières existantes.                                                                                                                                                                                                                                                                                                                                          |
+- Vous devez ajouter au moins un Bannière
+  Client
+  et Catégorie de
+  bannière
+  *avant* de pouvoir

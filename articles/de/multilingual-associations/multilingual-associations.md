@@ -34,14 +34,14 @@ alt="Components Associations" />
   nicht verknüpft ist.
 - **Menü**. Zeigt an, welchem Menü der Menüeintrag zugeordnet ist.
 - **Zugriffsebene**. Die
-  [Zugriffsebene](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/de "Help4.x:Users: Viewing Access Levels/de")
+  Zugriffsebene
   für die Anzeige des Menüeintrags.
 - **ID**. Einmalig vergebene Identifikations-Nummer des Menüeintrags,
   die nicht geändert werden kann.
 
 ## Listen-Filter
 
-**Suchleiste**. Das [Bildschirmfoto](#screenshot) zeigt die Suchleiste
+**Suchleiste**. Das Bildschirmfoto zeigt die Suchleiste
 im oberen Bereich.
 
 - **Suche nach Text**. Einen Teil des Suchbegriffs eingeben, auf das
@@ -61,12 +61,12 @@ im oberen Bereich.
 - **Anzuzeigende Anzahl**. Zeigt die Anzahl der Menüeinträge an. Zur
   Änderung in der Dropdown-Liste die gewünschte Anzahl wählen.Der
   Standardwert für die Site ist '20', er kann in der
-  [Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#defaultlistlimit "Help4.x:Site Global Configuration/de")
+  Konfiguration
   geändert werden.
 
 ### Filter-Optionen
 
-Das [Bildschirmfoto](#screenshot) zeigt die Filterleiste im oberen
+Das Bildschirmfoto zeigt die Filterleiste im oberen
 Bereich.
 
 - **Status wählen**. Auswahl von Papierkorb / Versteckt / Veröffentlicht
@@ -80,7 +80,7 @@ Bereich.
 
 **Seitenkontrolle**. Gibt es mehr Menüeinträge als auf der Seite
 gezeigt, wird im unteren Bereich die Seitenkontrollleiste wie auf dem
-[Bildschirmfoto](#screenshot) eingeblendet. Die aktuelle Seitenzahl ist
+Bildschirmfoto eingeblendet. Die aktuelle Seitenzahl ist
 mit dunkler Farbe unterlegt.
 
 - **Start**. Anklicken, um die erste Seite anzuzeigen.
@@ -102,28 +102,14 @@ alt="Components Associations toolbar subscreen" />
 - **Alle Verknüpfungen löschen**. Nach einer Sicherheitsabfrage werden
   alle Verknüpfungen gelöscht.
 - **Verwaiste Einträge löschen**. Löschen aller verwaisten Einträge.
-- **Optionen**. Öffnet die Hilfeseite [Sprachverknüpfungen:
-  Optionen](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Options/de "Help4.x:Multilingual Associations: Options/de").
+- **Optionen**. Öffnet die Hilfeseite
 - **Hilfe**. Öffnet die Hilfeseite.
 
 ## Tipps
 
 - Ein Menüeintrag in Deutsch kann leichter auf Englisch übersetzt
   werden, da Original und Übersetzungsziel parallel angezeigt werden.
-  Für weitere Übersetzungen die Zielsprache ändern. [Mehr
-  erfahren.](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Edit/de "Help4.x:Multilingual Associations: Edit/de")
+  Für weitere Übersetzungen die Zielsprache ändern. Mehr
+  erfahren.
 - Die Hilfeseite nutzt 'Menüeinträge' als Beispiel. Alle Eintragstypen
-  werden im [Bildschirmfoto](#screenshot) gezeigt.
-
-## Verwandte Informationen
-
-- Dieses
-  [Portal](https://docs.joomla.org/Portal:Joomla_4/de "Portal:Joomla 4/de")
-  bringt alle Informationen zu Joomla 4 zusammen.
-
-|                                                                                                                                                        |                                                                                                   |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| Verwandte Hilfeseiten                                                                                                                                  | Beschreibung                                                                                      |
-| [Sprachverknüpfungen: Optionen](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Options/de "Help4.x:Multilingual Associations: Options/de") | Standardberechtigungen für sämtliche Inhalte der Sprachverknüpfungen.                             |
-| <span class="mw-selflink selflink">Sprachverknüpfungen</span>                                                                                          | Auf der Seite werden Verknüpfungen zwischen Einträgen und installieren Seitensprachen bearbeitet. |
-| [Sprachverknüpfungen: Bearbeiten](https://docs.joomla.org/Help4.x:Multilingual_Associations:_Edit/de "Help4.x:Multilingual Associations: Edit/de")     | Erstellen oder Bearbeiten von Verknüpfungen zwischen den Sprachen einer mehrsprachigen Website.   |
+  werden im Bildschirmfoto gezeigt.

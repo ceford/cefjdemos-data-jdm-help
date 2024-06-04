@@ -74,11 +74,3 @@ de tela acima. As funções são:
   você poderá economizar trabalho tornando o novo grupo filho do grupo
   existente. Dessa forma, você só precisa alterar as permissões que são
   diferentes para o novo grupo.
-
-## Informações relacionadas
-
-- [Usuários:
-  Grupos](https://docs.joomla.org/Help4.x:Users:_Groups/pt-br "Help4.x:Users: Groups/pt-br")
-- [Tutorial relacionado às listas de controle de acessos (ACL) para o
-  Joomla!
-  3.x](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/pt-br "J3.x:Access Control List Tutorial/pt-br")

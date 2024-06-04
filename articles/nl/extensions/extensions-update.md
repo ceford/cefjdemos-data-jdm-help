@@ -80,8 +80,7 @@ bovenstaande Screenshot.
     aflopend volgorde.
 - **Te tonen aantal.** Toont het aantal items in een lijst. Selecteer
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#defaultlistlimit "Help4.x:Site Global Configuration/nl").
+  voor een site is '20' maar dit kan veranderd worden bij de
 
 **Filteropties**
 
@@ -134,25 +133,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   zelf update. Dit zorgt ervoor dat u uw Joomla! installatie naar de
   eerdere status kunt herstellen als de update mislukt, of onverwachte
   resultaten geeft.
-
-## Verwante informatie
-
-- **Installeren.** Linkt naar het [Installatie
-  scherm](https://docs.joomla.org/Help4.x:Extensions:_Install/nl "Help4.x:Extensions: Install/nl").
-- **Update.** Linkt naar het <span class="mw-selflink selflink">Update
-  scherm</span>.
-- **Beheren.** Linkt naar het [Beheren
-  scherm](https://docs.joomla.org/Help4.x:Extensions:_Manage/nl "Help4.x:Extensions: Manage/nl").
-- **Ontdekken.** Linkt naar het [Ontdekken
-  scherm](https://docs.joomla.org/Help4.x:Extensions:_Discover/nl "Help4.x:Extensions: Discover/nl").
-- **Database.** Linkt naar het [Database
-  scherm](https://docs.joomla.org/Help4.x:Information:_Database/nl "Help4.x:Information: Database/nl").
-- **Waarschuwingen.** Linkt naar het [Waarschuwingen
-  scherm](https://docs.joomla.org/Help4.x:Information:_Warnings/nl "Help4.x:Information: Warnings/nl").
-- **Installeer talen.** Linkt naar het [Installeer talen
-  scherm](https://docs.joomla.org/Help4.x:Extensions_Extension_Manager_Languages/nl "Help4.x:Extensions Extension Manager Languages/nl").
-- **Updatesites.** Linkt naar het <a
-  href="https://docs.joomla.org/index.php?title=Help4.x:Extensions_Extension_Manager_Update_Sites/nl&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Help4.x:Extensions Extension Manager Update Sites/nl (page does not exist)">Updatesites
-  scherm</a>.

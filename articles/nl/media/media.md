@@ -86,13 +86,12 @@ iconen verschijnen die de volgende acties bieden:
 ## Werkbalk
 
 Bovenaan de pagina ziet u de werkbalk zoals in de
-[afbeelding](#screenshot) hierboven.
+afbeelding hierboven.
 
 - **Uploaden**. nl
 - **Nieuwe map aanmaken**. nl
 - **Verwijderen**. nl
-- **Opties**. Opent het venster [Media
-  Opties](https://docs.joomla.org/Help4.x:Media:_Options/nl "Help4.x:Media: Options/nl").
+- **Opties**. Opent het venster
 - **Help**. Opent dit helpscherm.
 
 ## Snelle tips
@@ -109,16 +108,5 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   3.  Back in the Media component you will see *images* and *files* as
       separate items in the Local panel.
 - De Mediabeheer maximum upload grootte kan veranderd worden in een
-  andere waarde als "10 MB" bij de [Media
-  opties](https://docs.joomla.org/Help4.x:Media:_Options/nl "Help4.x:Media: Options/nl").
+  andere waarde als "10 MB" bij de
 - U kunt op hetzelfde moment meerdere bestanden uploaden.
-
-## Verwante informatie
-
-- Tutorial: [Managing
-  Media](https://docs.joomla.org/J4.x:Managing_Media/en "J4.x:Managing Media/en").
-- [Controlepaneel](https://docs.joomla.org/Help4.x:Home_Dashboard/nl "Help4.x:Home Dashboard/nl"):
-  Access to many default Joomla functions.
-- Dit
-  [portaal](https://docs.joomla.org/Portal:Joomla_4/nl "Portal:Joomla 4/nl")
-  brengt informatie specifiek gerelateerd aan Joomla 4 samen.

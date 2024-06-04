@@ -28,10 +28,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 - **Opties.** Opent het venster Opties, waar instellingen zoals de
   standaard parameters kunnen worden bewerkt.
 - **Help**. Opent dit helpscherm.
-
-## Verwante informatie
-
-- [De privacy
-  hulpmiddelen](https://docs.joomla.org/J3.x:Privacy/nl "J3.x:Privacy/nl")
-- [Report Extensie
-  mogelijkheden](https://docs.joomla.org/J3.x:Report_Extension_Capabilities_in_Privacy_Component/nl "J3.x:Report Extension Capabilities in Privacy Component/nl")

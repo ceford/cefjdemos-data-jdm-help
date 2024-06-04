@@ -214,11 +214,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
 - Als u geen speciale taal, tekstverwerker, helpsite en/of tijdzone
   opgeeft dan gelden de standaard waarden uit de algemene instellingen,
   taalbeheer en/of templatebeheer.
-
-## Verwante informatie
-
-- [Gebruikers](https://docs.joomla.org/Help4.x:Users/nl "Help4.x:Users/nl")
-- [Gebruikers:
-  Gebruikersgroepen](https://docs.joomla.org/Help4.x:Users:_Groups/nl "Help4.x:Users: Groups/nl")
-- [ACL handleiding voor Joomla!
-  3.x](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/nl "J3.x:Access Control List Tutorial/nl")

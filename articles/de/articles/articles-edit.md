@@ -38,9 +38,7 @@ alt="content article manager add new article" />
 - **Titel**. Der Titel des Beitrages.
 - **Alias**. Der interne Name des Beitrages. Das Feld kann leergelassen
   werden und Joomla wird den Standardwert Titel in Kleinbuchstaben und
-  Bindestrichen statt Leerzeichen eintragen. [Mehr
-  erfahren.](https://docs.joomla.org/Alias/de "Alias/de")
-
+  Bindestrichen statt Leerzeichen eintragen.
 ### Inhalt
 
 **Linke Seite**
@@ -57,12 +55,10 @@ data-file-width="1985" data-file-height="758" width="600" height="229"
 alt="Article Editor buttons" />
 
 Die Dropdown-Liste 'CMS Inhalt' ermöglicht Links auf einen Beitrag,
-Felder, Kontakt, Medien, Menü oder Modul. [Mehr
-erfahren.](https://docs.joomla.org/Help4.x:Editors/de#cmscontent "Help4.x:Editors/de")
-
+Felder, Kontakt, Medien, Menü oder Modul.
 - **Editor an/aus**. Der Button wird unterhalb des Editor-Fensters
-  gezeigt. Damit kann zwischen TinyMCE und [Editor -
-  Keiner](https://docs.joomla.org/Help4.x:Editors/de#none "Help4.x:Editors/de")
+  gezeigt. Damit kann zwischen TinyMCE und Editor -
+  Keiner
   gewechselt werden.
 
 **Rechte Seite**
@@ -73,28 +69,26 @@ erfahren.](https://docs.joomla.org/Help4.x:Editors/de#cmscontent "Help4.x:Editor
     sichtbar. Für angemeldete Benutzer mit der Berechtigung [„Status
     bearbeiten“](#permissions) ist der Beitrag sichtbar.
   - Archiviert: Der Beitrag wird nicht mehr in
-    [Kategorieblog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/de "Help4.x:Menu Item: Category Blog/de")-
+    Kategorieblog-
     oder
-    [Kategorieliste](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/de "Help4.x:Menu Item: Category List/de")-Menüs
+    Kategorieliste-Menüs
     angezeigt.
   - Papierkorb: Der Beitrag ist gelöscht, befindet sich aber noch in der
-    Datenbank. [Mehr
-    erfahren.](https://docs.joomla.org/J4.x:Deleting_an_Article/de "J4.x:Deleting an Article/de")
-- **Kategorie**. Die Kategorie des Beitrags wählen.
+    Datenbank. - **Kategorie**. Die Kategorie des Beitrags wählen.
 - **Hauptbeitrag**. 'Ja' wählen, um den Beitrag in einem Menüeintrag
-  [Hauptbeiträge](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/de "Help4.x:Menu Item: Featured Articles/de")
+  Hauptbeiträge
   anzuzeigen.
 - **Zugriffsebene**. Die Zugriffsebene des Beitrags wählen. Sie werden
-  in [Benutzer:
-  Zugriffsebenen](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/de "Help4.x:Users: Viewing Access Levels/de")
+  in Benutzer:
+  Zugriffsebenen
   eingerichtet.
 - **Sprache**. Die Sprache des Beitrags wählen. Den Standard 'Alle'
   beibehalten, wenn
-  [Mehrsprachigkeit](https://docs.joomla.org/Help4.x:Extensions:_Languages/de "Help4.x:Extensions: Languages/de")
+  Mehrsprachigkeit
   nicht verwendet wird.
 - **Schlagwörter**. Dem Beitrag Schlagwörter zuordnen. Dazu ein
-  Schlagwort aus einer [vordefinierten
-  Liste](https://docs.joomla.org/Help4.x:Tags/de "Help4.x:Tags/de")
+  Schlagwort aus einer vordefinierten
+  Liste
   wählen oder ein neues Schlagwort im Feld eingeben und 'Eingabe'
   drücken.
 - **Notiz**. Die Notiz wird meist vom Administrator verwendet, um zum
@@ -102,14 +96,14 @@ erfahren.](https://docs.joomla.org/Help4.x:Editors/de#cmscontent "Help4.x:Editor
   nicht im Frontend gezeigt.
 - **Versionshinweis**. Optionales Feld, um diese Version des Beitrages
   im
-  [Versionsverlauf](https://docs.joomla.org/Help4.x:Components_Version_History/de "Help4.x:Components Version History/de")
+  Versionsverlauf
   zu identifizieren.
 
 ### Bilder und Links
 
 **Hinweis**: Dieser Abschnitt kann von einem Benutzer mit
-Administrator-Rechten in [Beiträge:
-Optionen](https://docs.joomla.org/Help4.x:Articles:_Options/de "Help4.x:Articles: Options/de")
+Administrator-Rechten in Beiträge:
+Optionen
 ausgeblendet werden.
 Dieser Teil zeigt in Beiträgen, Bilder und Links in standardisierten
 Layouts.
@@ -126,8 +120,8 @@ alt="screenshot article edit images links" />
 - **Einleitungsbild**. Auf den Auswählen-Button klicken, um das Bild an
   eine fixen Stelle im Einleitungstext des Beitrages anzuzeigen. Ein
   Fenster wird geöffnet, in dem ein Bild aus dem Bilder-Verzeichnis
-  gewählt wird. [Mehr
-  erfahren.](https://docs.joomla.org/Adding_an_image_to_an_article/de "Adding an image to an article/de")
+  gewählt wird. Mehr
+  erfahren.
 - **Bildbeschreibung (Alternativer Text)**. Das Alt-Attribut für das
   Bild mit einigen beschreibenden Wörtern für Screenreader festlegen.
 - **Keine Beschreibung**. Im seltenen Fall eines rein dekorativen Bildes
@@ -147,8 +141,8 @@ alt="screenshot article edit images links" />
 - **Komplettes Beitragsbild**. Auf den Auswählen-Button klicken, um das
   Bild an eine fixen Stelle des Beitrages anzuzeigen. Ein Fenster wird
   geöffnet, in dem ein Bild aus dem Bilder-Verzeichnis gewählt wird.
-  [Mehr
-  erfahren.](https://docs.joomla.org/Adding_an_image_to_an_article/de "Adding an image to an article/de")
+  Mehr
+  erfahren.
 - **Bildbeschreibung (Alternativer Text)**. Das Alt-Attribut für das
   Bild mit einigen beschreibenden Wörtern für Screenreader festlegen.
 - **Keine Beschreibung**. Im seltenen Fall eines rein dekorativen Bildes
@@ -185,8 +179,8 @@ alt="screenshot article edit images links" />
 ### Optionen
 
 **Hinweis**: Dieser Abschnitt kann von einem Benutzer mit
-Administrator-Rechten in [Beiträge:
-Optionen](https://docs.joomla.org/Help4.x:Articles:_Options/de "Help4.x:Articles: Options/de")
+Administrator-Rechten in Beiträge:
+Optionen
 ausgeblendet werden.
 Optionen, um das Aussehen eines Beitrages im Frontend einzustellen.
 
@@ -200,15 +194,15 @@ alt="screenshot article edit article options" />
 **Layout**
 
 - **Layout**. Unterschiedliche Layouts der Beitragsansicht oder
-  [Override im
-  Template](https://docs.joomla.org/Help4.x:Templates:_Customise/de "Help4.x:Templates: Customise/de")
+  Override im
+  Template
   wählen.
 - **Titel**. Den Titel des Beitrages zeigen.
 - **Titel verlinken**. Den Titel als Link zeigen.
 - **Schlagwörter anzeigen**. Ein oder mehrere Schlagwörter für den
   Beitrag eingeben. Man kann vorhandene Schlagwörter nach Eingabe der
-  ersten Buchstaben auswählen oder neue Schlagwörter eingeben. [Mehr
-  erfahren.](https://docs.joomla.org/J4.x:How_To_Use_Content_Tags_in_Joomla/de "J4.x:How To Use Content Tags in Joomla/de")
+  ersten Buchstaben auswählen oder neue Schlagwörter eingeben. Mehr
+  erfahren.
 - **Einleitungstext**.
   - Anzeigen: Der Beitrag wird inklusive Einleitungstext gezeigt.
   - Verbergen: Der Beitrag wird ohne Einleitungstext gezeigt.
@@ -241,8 +235,8 @@ alt="screenshot article edit article options" />
 
 - **Autor**. Zeigt den Autor des Beitrags.
 - **Autor verlinken**. Zum Kontakt des Autors verlinken.Hinweis: Der
-  Autor muss [als
-  Kontakt](https://docs.joomla.org/Help4.x:Contacts/de "Help4.x:Contacts/de")
+  Autor muss als
+  Kontakt
   angelegt sein.
 
 **Datum**
@@ -273,7 +267,7 @@ alt="screenshot article edit article options" />
 ### Felder
 
 Dieser Teil zeigt für den Beitrag definierte
-[Felder](https://docs.joomla.org/Help4.x:Fields/de "Help4.x:Fields/de").
+Felder.
 
 <img
 src="https://docs.joomla.org/images/thumb/1/1a/Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-de.png/600px-Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-de.png"
@@ -285,11 +279,11 @@ alt="Content Article Manager Edit Fields options subscreen" />
 ### Veröffentlichung
 
 **Hinweis**: Dieser Abschnitt kann von einem Benutzer mit
-Administrator-Rechten in [Beiträge:
-Optionen](https://docs.joomla.org/Help4.x:Articles:_Options/de "Help4.x:Articles: Options/de")
+Administrator-Rechten in Beiträge:
+Optionen
 ausgeblendet werden.
 Dieser Teil erlaubt die Eingabe von Parametern und
-[Metadaten](https://docs.joomla.org/Using_The_Meta_Description/de "Using The Meta Description/de")
+Metadaten
 des Beitrages.
 
 <img
@@ -331,13 +325,13 @@ alt="Content Article Manager Edit publishing options subscreen" />
 
 **Metadaten**
 
-- **Meta-Beschreibung**. Ein Absatz zur Beschreibung der Seite. [Mehr
-  erfahren.](https://docs.joomla.org/Using_The_Meta_Description/de "Using The Meta Description/de")
-- **Schlüsselwörter**. Eintrag für Schlüsselwörter. [Mehr
-  erfahren.](https://docs.joomla.org/Using_Keywords/de "Using Keywords/de")
+- **Meta-Beschreibung**. Ein Absatz zur Beschreibung der Seite. Mehr
+  erfahren.
+- **Schlüsselwörter**. Eintrag für Schlüsselwörter. Mehr
+  erfahren.
 - **Robots**. Anweisungen für Web-'Robots', die diese Seite durchsuchen.
   „Globale Einstellung“ in
-  [Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#robots "Help4.x:Site Global Configuration/de")
+  Konfiguration
   einstellen.
 - **Autor**. Eintrag des Autorennamens in den Metadaten.
 - **Inhaltsrechte**. Legt fest, welche Rechte andere Personen beim
@@ -346,11 +340,11 @@ alt="Content Article Manager Edit publishing options subscreen" />
 ### Verknüpfungen
 
 **Hinweis**: Dieser Abschnitt kann von einem Benutzer mit
-Administrator-Rechten in [Beiträge:
-Optionen](https://docs.joomla.org/Help4.x:Articles:_Options/de "Help4.x:Articles: Options/de")
+Administrator-Rechten in Beiträge:
+Optionen
 ausgeblendet werden.
-Der Tab wird nur bei [Mehrsprachigen
-Seiten](https://docs.joomla.org/Help4.x:Multilingual_Associations/de "Help4.x:Multilingual Associations/de")
+Der Tab wird nur bei Mehrsprachigen
+Seiten
 gezeigt.
 
 <img
@@ -363,8 +357,8 @@ alt="screenshot article edit associations" />
 ### Konfigurieren des Editorfensters
 
 **Hinweis**: Dieser Abschnitt kann von einem Benutzer mit
-Administrator-Rechten in [Beiträge:
-Optionen](https://docs.joomla.org/Help4.x:Articles:_Options/de "Help4.x:Articles: Options/de")
+Administrator-Rechten in Beiträge:
+Optionen
 ausgeblendet werden.
 
 <img
@@ -376,19 +370,19 @@ alt="screenshot article edit configure edit screen" />
 
 - **Veröffentlichungsparameter anzeigen**. Ist 'Verbergen' gewählt, wird
   der Tab
-  [Veröffentlichung](https://docs.joomla.org/Help4.x:Articles:_Edit/de#publishing "Help4.x:Articles: Edit/de")
+  Veröffentlichung
   im Backend nicht gezeigt. Benutzer des Backends können die Felder des
   Tabs nicht bearbeiten. Den Feldern werden immer Standardwerte
   zugeordnet.
 - **Beitragseinstellungen anzeigen**. Ist 'Verbergen' gewählt, wird der
   Tab
-  [Optionen](https://docs.joomla.org/Help4.x:Articles:_Edit/de#options "Help4.x:Articles: Edit/de")
+  Optionen
   im Backend nicht gezeigt. Benutzer des Backends können die Felder des
   Tabs nicht bearbeiten. Den Feldern werden immer Standardwerte
   zugeordnet.
 - **Bilder und Links im Backend**. Ist 'Ja' gewählt, wird der Tab
-  [Bilder und
-  Links](https://docs.joomla.org/Help4.x:Articles:_Edit/de#imagesandlinks "Help4.x:Articles: Edit/de")
+  Bilder und
+  Links
   gezeigt.
 - **Bilder und Links im Frontend**. Ist 'Ja' gewählt, wird der 'Bilder
   und Links'-Tab im Frontend-Editor des Beitrages angezeigt.
@@ -396,11 +390,11 @@ alt="screenshot article edit configure edit screen" />
 ### Berechtigungen
 
 **Hinweis**: Dieser Abschnitt kann von einem Benutzer mit
-Administrator-Rechten in [Beiträge:
-Optionen](https://docs.joomla.org/Help4.x:Articles:_Options/de "Help4.x:Articles: Options/de")
+Administrator-Rechten in Beiträge:
+Optionen
 ausgeblendet werden.
-Hier können die Berechtigungen für den Beitrag eingegeben werden. [Mehr
-erfahren.](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/de#hierarchylevels "J3.x:Access Control List Tutorial/de")
+Hier können die Berechtigungen für den Beitrag eingegeben werden. Mehr
+erfahren.
 
 <img
 src="https://docs.joomla.org/images/thumb/4/46/Help-4x-screenshot-article-edit-permissions-de.png/600px-Help-4x-screenshot-article-edit-permissions-de.png"
@@ -420,11 +414,11 @@ Um Berechtigungen dieses Beitrages zu ändern:
       ändern.
 3.  Die Berechtigungen der gewählten Aktion wählen.
     - **Vererbt**. Berechtigungen für Benutzer der Gruppe werden von der
-      [Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#permissions "Help4.x:Site Global Configuration/de"),
+      Konfiguration,
       den
-      [Beitrags-Optionen](https://docs.joomla.org/Help4.x:Articles:_Options/de#permissions "Help4.x:Articles: Options/de")
+      Beitrags-Optionen
       oder der
-      [Beitrags-Kategorie](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/de#permissions "Help4.x:Articles: Edit Category/de")
+      Beitrags-Kategorie
       vererbt.
     - **Erlaubt**. Für Benutzer dieser Gruppe erlaubt.Hinweis: Wenn die
       Aktion auf einer höheren Ebene 'Verweigert' wird, ist die
@@ -437,7 +431,7 @@ Um Berechtigungen dieses Beitrages zu ändern:
 
 ## Werkzeugleiste
 
-Das [Bildschirmfoto](#screenshot) zeigt die Werkzeugleiste im oberen
+Das Bildschirmfoto zeigt die Werkzeugleiste im oberen
 Bereich.
 
 - **Speichern**. Speichert den Beitrag und bleibt auf der aktuellen
@@ -455,18 +449,18 @@ Bereich.
   Seite ohne Speichern der Änderungen zurück.
 - **Versionen**. Öffnet den Versionsverlauf, der ältere Versionen des
   Beitrags zeigt. Damit können ältere Versionen des Beitrags gezeigt und
-  wiederhergestellt werden. [Mehr
-  erfahren.](https://docs.joomla.org/Help4.x:Components_Version_History/de "Help4.x:Components Version History/de")
+  wiederhergestellt werden. Mehr
+  erfahren.
 - **Vorschau**. Zeigt die Seitenansicht des Beitrages. Benötigt
-  [Gemeinsame
-  Sitzungen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#sharedsessions "Help4.x:Site Global Configuration/de")
+  Gemeinsame
+  Sitzungen
   oder die Anmeldung im Frontend.
 - **Barriere-Check**. Öffnet ein Fenster mit den Ergebnissen der
   Barrierefreiheitsprüfung des Beitrags.
 - **Verknüpfungen**. Den Beitrag mit seiner festgelegten Sprache
   parallel in einer weiteren Sprache bearbeiten. Dieses Symbol wird nur
-  bei [Mehrsprachigen
-  Seiten](https://docs.joomla.org/Help4.x:Multilingual_Associations/de "Help4.x:Multilingual Associations/de")
+  bei Mehrsprachigen
+  Seiten
   gezeigt.
 - **Inline-Hilfe umschalten**. Hilfetext unter einigen Optionen ein-
   oder ausschalten.
@@ -476,19 +470,19 @@ Bereich.
 
 - Es gibt 2 Methoden, um mit dem TinyMCE-Editor ein Bild in einen
   Beitrag einzufügen.
-  1.  Die Dropdown-Liste [CMS
-      Inhalt](https://docs.joomla.org/Help4.x:Editors/de#cmscontent "Help4.x:Editors/de")
+  1.  Die Dropdown-Liste CMS
+      Inhalt
       ermöglicht den Zugriff auf die Seite
-      [Medien](https://docs.joomla.org/Help4.x:Media/de "Help4.x:Media/de"),
+      Medien,
       in der Bilddateien durchsucht und Bilder hochgeladen werden
       können.
   2.  Die Dropdown-Liste 'Einfügen' öffnet ein einfaches
       Eingabeformular, für das die Bild-URL benötigt wird. Es wird für
       externe Bilder verwendet.
-- [Weiterlesen](https://docs.joomla.org/Help4.x:Editors/de#readmore "Help4.x:Editors/de")-Umbrüche
+- Weiterlesen-Umbrüche
   sparen Platz auf der Startseite und Blog-Layout-Seiten, weil nur der
   erste Teil des Beitrages gezeigt wird. Die
-  [Seitennavigation](https://docs.joomla.org/Help4.x:Editors/de#pagebreak "Help4.x:Editors/de")
+  Seitennavigation
   teilt lange Beiträge in mehrere Seiten auf. Beides kann im selben
   Beitrag verwendet werden.Zum Beispiel könnte ein 'Weiterlesen'-Umbruch
   nach dem ersten Absatz eines mehrseitigen Artikels eingefügt werden
@@ -496,25 +490,3 @@ Bereich.
   Seitennavigation angezeigt, bis der Benutzer den Link 'Weiterlesen'
   anklickt. Dann wird das Inhaltsverzeichnis des Artikels mit den Links
   zu den einzelnen Seiten angezeigt.
-
-## Verwandte Informationen
-
-- Dieses
-  [Portal](https://docs.joomla.org/Portal:Joomla_4/de "Portal:Joomla 4/de")
-  bringt alle Informationen zu Joomla 4 zusammen.
-
-|                                                                                                                                                                             |                                                                                                                                                                                                                |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Verwandte Hilfeseiten                                                                                                                                                       | Beschreibung                                                                                                                                                                                                   |
-| [Beiträge: Optionen](https://docs.joomla.org/Help4.x:Articles:_Options/de "Help4.x:Articles: Options/de")                                                                   | Festlegen globaler Standardwerte für Menüeinträge, die Beiträge anzeigen. Diese Werte werden verwendet, wenn in einem Menüeintrag 'Global' als Option ausgewählt wird.                                         |
-| [Beiträge](https://docs.joomla.org/Help4.x:Articles/de "Help4.x:Articles/de")                                                                                               | Die Beitragsliste wird verwendet, um Beiträge zu finden, zu markieren, hinzuzufügen und zu bearbeiten.                                                                                                         |
-| <span class="mw-selflink selflink">Beiträge: Bearbeiten</span>                                                                                                              | Hier werden Beiträge hinzugefügt und bearbeitet. Außerdem lässt sich die Kategorie für einen Beitrag auswählen und festlegen, ob er veröffentlicht wird und auf der Startseite erscheint.                      |
-| [Beiträge: Hauptbeiträge](https://docs.joomla.org/Help4.x:Articles:_Featured/de "Help4.x:Articles: Featured/de")                                                            | Dient zur Steuerung, welche 'Hauptbeiträge' in welcher Reihenfolge auf der Startseite angezeigt werden.                                                                                                        |
-| [Beiträge: Kategorien](https://docs.joomla.org/Help4.x:Articles:_Categories/de "Help4.x:Articles: Categories/de")                                                           | Die Liste der Beitragskategorien wird verwendet, um Kategorien für Beiträge zu finden, hinzuzufügen und zu bearbeiten.                                                                                         |
-| [Menü: Archivierte Beiträge](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived/de "Help4.x:Menu Item: Article Archived/de")                                       | Zeigt eine angepasste Liste nach Datum oder Titel geordneter Beiträge. Archivierte Beiträge sind nicht mehr veröffentlicht, bleiben aber auf der Website gespeichert.                                          |
-| [Menü: Kategorieblog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/de "Help4.x:Menu Item: Category Blog/de")                                                    | Zeigt Beiträge einer Kategorie im Blog-Layout. Steuert führende und einleitende Beiträge sowie zusätzliche Links zu Beiträgen.                                                                                 |
-| [Menü: Kategorieliste](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/de "Help4.x:Menu Item: Category List/de")                                                   | Zeigt eine Liste von Beiträgen einer Kategorie in einem Listenlayout an.                                                                                                                                       |
-| [Menü: Beitrag erstellen](https://docs.joomla.org/Help4.x:Menu_Item:_Create_Article/de "Help4.x:Menu Item: Create Article/de")                                              | Ermöglicht es Benutzern, einen Beitrag zu verfassen. Normalerweise steht dies nur angemeldeten Benutzern im Frontend der Website zur Verfügung. Benutzer müssen die Berechtigung haben, Beiträge zu erstellen. |
-| [Menü: Hauptbeiträge](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/de "Help4.x:Menu Item: Featured Articles/de")                                            | Dient zur Anzeige der als 'Hauptbeiträge' markierten Beiträge. Die Beiträge werden in einem Blog-Layout angezeigt.                                                                                             |
-| [Menü: Alle Kategorien in einer Beitragskategorie auflisten](https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories/de "Help4.x:Menu Item: List All Categories/de") | Dient zur Anzeige einer hierarchischen Liste von Kategorien. Je nach den gewählten Optionen für dieses Format kann man auf den Namen einer Kategorie klicken, um die Beiträge in dieser Kategorie anzuzeigen.  |
-| [Menü: Einzelner Beitrag](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article/de "Help4.x:Menu Item: Single Article/de")                                              | Dient zur Anzeige eines einzelnen Beitrags.                                                                                                                                                                    |

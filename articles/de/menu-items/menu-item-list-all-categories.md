@@ -36,8 +36,8 @@ alt="Menus Item Articles List All Categories screen" />
 - **Alias**. Der interne Name des Menüeintrags. Normalerweise kann
   dieses Feld leergelassen werden und Joomla wird den Standardwert
   'Titel' in Kleinbuchstaben und mit Bindestrichen anstelle von
-  Leerzeichen eintragen. [Mehr
-  erfahren.](https://docs.joomla.org/Alias/de "Alias/de")
+  Leerzeichen eintragen. Mehr
+  erfahren.
 
 ### Details
 
@@ -70,8 +70,7 @@ srcset="https://docs.joomla.org/images/thumb/b/b7/Help-4x-Menus-Item-Articles-Li
 data-file-width="2878" data-file-height="1344" width="600" height="280"
 alt="Menus Item Articles List All Categories categories subscreen" />
 
-Hinweis: Die Auswahl "**Global**" übernimmt Einstellungen aus [Beiträge:
-Optionen](https://docs.joomla.org/Help4.x:Articles:_Options/de "Help4.x:Articles: Options/de").
+Hinweis: Die Auswahl "**Global**" übernimmt Einstellungen aus
 
 - **Beschreibung der obersten Kategorie**. Die Beschreibung der obersten
   Kategorie zeigen.
@@ -164,12 +163,10 @@ alt="Menus Item Articles List All Categories blog layout subscreen" />
   - Titel von A bis Z: Kategorien werden alphabetisch sortiert gezeigt.
   - Titel von Z bis A: Kategorien werden alphabetisch sortiert gezeigt.
   - Kategoriereihenfolge: Die Sortierung der Kategorien entspricht der
-    Spalte 'Reihenfolge' in [Beiträge:
-    Kategorien](https://docs.joomla.org/Help4.x:Articles:_Categories/de#ordering "Help4.x:Articles: Categories/de").
+    Spalte 'Reihenfolge' in
 - **Beitragssortierung**.
   - Reihenfolge Hauptbeiträge: Die Sortierung der Kategorien entspricht
-    der Spalte 'Reihenfolge' in [Beiträge:
-    Hauptbeiträge](https://docs.joomla.org/Help4.x:Articles:_Featured/de#ordering "Help4.x:Articles: Featured/de").
+    der Spalte 'Reihenfolge' in
   - Neuesten zuerst: Die Sortierung beginnt mit dem neuesten und endet
     mit dem ältesten Beitrag.
   - Ältesten zuerst: Die Sortierung beginnt mit dem ältesten und endet
@@ -186,10 +183,10 @@ alt="Menus Item Articles List All Categories blog layout subscreen" />
     Zugriffen.
   - Beitragsreihenfolge: Die Sortierung entspricht der Spalte
     'Reihenfolge' in
-    [Beiträge](https://docs.joomla.org/Help4.x:Articles/de#ordering "Help4.x:Articles/de").
+    Beiträge.
   - Umgekehrte Beitragsreihenfolge: Die Sortierung ist umgekehrt zur
     Spalte 'Reihenfolge' in
-    [Beiträge](https://docs.joomla.org/Help4.x:Articles/de#ordering "Help4.x:Articles/de").
+    Beiträge.
 - **Sortierdatum**. Sortierdatum, wenn Beiträge nach Datum sortiert
   sind.
   - Erstellt: Das Erstellungsdatum des Beitrages verwenden.
@@ -276,14 +273,14 @@ alt="Menus Item Articles List All Categories options subscreen" />
 
 - **Kategorie**. Den Kategorietitel des Beitrags zeigen.
 - **Kategorie verlinken**. Den Kategorietitel als Link zeigen.Hinweis:
-  Im Tab 'Kategorie' kann mit [Layout
-  auswählen](https://docs.joomla.org/Help4.x:Articles:_Options/de#choosealayout "Help4.x:Articles: Options/de")
+  Im Tab 'Kategorie' kann mit Layout
+  auswählen
   'Blog' oder 'Liste' festgelegt werden.
 - **Übergeordnete Kategorie**. Den Titel der übergeordneten Kategorie
   des Beitrages zeigen.
 - **Übergeordnete Kategorie verlinken**. Den Titel der Kategorie als
-  Link zeigen.Hinweis: Im Tab 'Kategorie' kann mit [Layout
-  auswählen](https://docs.joomla.org/Help4.x:Articles:_Options/de#choosealayout "Help4.x:Articles: Options/de")
+  Link zeigen.Hinweis: Im Tab 'Kategorie' kann mit Layout
+  auswählen
   'Blog' oder 'Liste' festgelegt werden.
 
 **Autor**
@@ -291,9 +288,9 @@ alt="Menus Item Articles List All Categories options subscreen" />
 - **Autor**. Zeigt den Autor des Beitrags.
 - **Autor verlinken**. Zum Kontakt des Autors verlinken.Hinweis: Der
   Autor muss als
-  [Kontakt](https://docs.joomla.org/Help4.x:Contacts:_Edit/de "Help4.x:Contacts: Edit/de")
+  Kontakt
   angelegt sein. Wurde ein
-  [Autoralias](https://docs.joomla.org/Help4.x:Articles:_Edit/de#createdbyalias "Help4.x:Articles: Edit/de")
+  Autoralias
   eingegeben, wird der Link nicht angezeigt.
 
 **Datum**
@@ -342,21 +339,21 @@ alt="Menus Item Articles List All Categories integration subscreen" />
 
 ### Allgemeine Optionen
 
-Siehe [Menüs: Neuer
-Eintrag](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/de "Help4.x:Menu Item: New Item/de")
+Siehe Menüs: Neuer
+Eintrag
 für Hilfe zu Feldern, die bei allen Menüeintragstypen gleich sind:
 
-- [Rechte
-  Seite](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/de#rightpanel "Help4.x:Menu Item: New Item/de")
-- [Linktyp](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/de#linktype "Help4.x:Menu Item: New Item/de")
-- [Seitenanzeige](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/de#pagedisplay "Help4.x:Menu Item: New Item/de")
-- [Metadaten](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/de#metadata "Help4.x:Menu Item: New Item/de")
-- [Verknüpfungen](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/de#associations "Help4.x:Menu Item: New Item/de")
-- [Modulzuweisung](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/de#moduleassignment "Help4.x:Menu Item: New Item/de")
+- Rechte
+  Seite
+- Linktyp
+- Seitenanzeige
+- Metadaten
+- Verknüpfungen
+- Modulzuweisung
 
 ## Werkzeugleiste
 
-Das [Bildschirmfoto](#screenshot) zeigt die Werkzeugleiste im oberen
+Das Bildschirmfoto zeigt die Werkzeugleiste im oberen
 Bereich.
 
 - **Speichern**. Speichert den Menüeintrag und bleibt auf der aktuellen
@@ -382,38 +379,14 @@ Bereich.
   ein Kategorieblog oder -liste gezeigt. Ist ein Menüeintrag für diese
   Kategorie vorhanden, werden dessen Einstellungen verwendet.
 - Zwischen Liste oder Blog wird an 2 Stellen gewählt.
-  - In [Beiträge:
-    Optionen](https://docs.joomla.org/Help4.x:Articles:_Options/de#choosealayout "Help4.x:Articles: Options/de")
+  - In Beiträge:
+    Optionen
     für alle Kategorien.
-  - In [Kategorie:
-    Bearbeiten](https://docs.joomla.org/Help4.x:Articles:_Edit_Category/de#choosealayout "Help4.x:Articles: Edit Category/de")
+  - In Kategorie:
+    Bearbeiten
     für die jeweilige Kategorie.
 - Das 'Datumsformat' anpassen: "D M Y" für "Tag Monat Jahr" oder "d.m.y"
   für "17.08.05" (siehe
   <a href="https://php.net/search.php?show=quickref&amp;pattern=date"
   class="extiw" title="php:date">PHP: Date - Examples</a>). Bei einem
   leeren String wird das Datumsformat 'DATE_FORMAT_LC1' verwendet.
-
-## Verwandte Informationen
-
-- Ein neues Menü erstellen:
-  [Menüs](https://docs.joomla.org/Help4.x:Menus/de "Help4.x:Menus/de").
-- Dieses
-  [Portal](https://docs.joomla.org/Portal:Joomla_4/de "Portal:Joomla 4/de")
-  bringt alle Informationen zu Joomla 4 zusammen.
-
-|                                                                                                                                       |                                                                                                                                                                                                                |
-|---------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Verwandte Hilfeseiten                                                                                                                 | Beschreibung                                                                                                                                                                                                   |
-| [Beiträge: Optionen](https://docs.joomla.org/Help4.x:Articles:_Options/de "Help4.x:Articles: Options/de")                             | Festlegen globaler Standardwerte für Menüeinträge, die Beiträge anzeigen. Diese Werte werden verwendet, wenn in einem Menüeintrag 'Global' als Option ausgewählt wird.                                         |
-| [Beiträge](https://docs.joomla.org/Help4.x:Articles/de "Help4.x:Articles/de")                                                         | Die Beitragsliste wird verwendet, um Beiträge zu finden, zu markieren, hinzuzufügen und zu bearbeiten.                                                                                                         |
-| [Beiträge: Bearbeiten](https://docs.joomla.org/Help4.x:Articles:_Edit/de "Help4.x:Articles: Edit/de")                                 | Hier werden Beiträge hinzugefügt und bearbeitet. Außerdem lässt sich die Kategorie für einen Beitrag auswählen und festlegen, ob er veröffentlicht wird und auf der Startseite erscheint.                      |
-| [Beiträge: Hauptbeiträge](https://docs.joomla.org/Help4.x:Articles:_Featured/de "Help4.x:Articles: Featured/de")                      | Dient zur Steuerung, welche 'Hauptbeiträge' in welcher Reihenfolge auf der Startseite angezeigt werden.                                                                                                        |
-| [Beiträge: Kategorien](https://docs.joomla.org/Help4.x:Articles:_Categories/de "Help4.x:Articles: Categories/de")                     | Die Liste der Beitragskategorien wird verwendet, um Kategorien für Beiträge zu finden, hinzuzufügen und zu bearbeiten.                                                                                         |
-| [Menü: Archivierte Beiträge](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived/de "Help4.x:Menu Item: Article Archived/de") | Zeigt eine angepasste Liste nach Datum oder Titel geordneter Beiträge. Archivierte Beiträge sind nicht mehr veröffentlicht, bleiben aber auf der Website gespeichert.                                          |
-| [Menü: Kategorieblog](https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog/de "Help4.x:Menu Item: Category Blog/de")              | Zeigt Beiträge einer Kategorie im Blog-Layout. Steuert führende und einleitende Beiträge sowie zusätzliche Links zu Beiträgen.                                                                                 |
-| [Menü: Kategorieliste](https://docs.joomla.org/Help4.x:Menu_Item:_Category_List/de "Help4.x:Menu Item: Category List/de")             | Zeigt eine Liste von Beiträgen einer Kategorie in einem Listenlayout an.                                                                                                                                       |
-| [Menü: Beitrag erstellen](https://docs.joomla.org/Help4.x:Menu_Item:_Create_Article/de "Help4.x:Menu Item: Create Article/de")        | Ermöglicht es Benutzern, einen Beitrag zu verfassen. Normalerweise steht dies nur angemeldeten Benutzern im Frontend der Website zur Verfügung. Benutzer müssen die Berechtigung haben, Beiträge zu erstellen. |
-| [Menü: Hauptbeiträge](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/de "Help4.x:Menu Item: Featured Articles/de")      | Dient zur Anzeige der als 'Hauptbeiträge' markierten Beiträge. Die Beiträge werden in einem Blog-Layout angezeigt.                                                                                             |
-| <span class="mw-selflink selflink">Menü: Alle Kategorien in einer Beitragskategorie auflisten</span>                                  | Dient zur Anzeige einer hierarchischen Liste von Kategorien. Je nach den gewählten Optionen für dieses Format kann man auf den Namen einer Kategorie klicken, um die Beiträge in dieser Kategorie anzuzeigen.  |
-| [Menü: Einzelner Beitrag](https://docs.joomla.org/Help4.x:Menu_Item:_Single_Article/de "Help4.x:Menu Item: Single Article/de")        | Dient zur Anzeige eines einzelnen Beitrags.                                                                                                                                                                    |

@@ -7,13 +7,13 @@ the related action log.
 
 ### Tutorials
 
-- [Privacy Outline - Content and
-  Workflow](https://docs.joomla.org/Help4.x:Components_Privacy_Outline/en "Help4.x:Components Privacy Outline/en")
-- [The Privacy Tool
-  Suite](https://docs.joomla.org/J3.x:Privacy/en "J3.x:Privacy/en")
+- Privacy Outline - Content and
+  Workflow
+- The Privacy Tool
+  Suite
   (Detailed Tutorial from Joomla 3)
-- [Information Request
-  Workflow](https://docs.joomla.org/J3.x:Information_Request_Workflow_in_Privacy_Component/en "J3.x:Information Request Workflow in Privacy Component/en")
+- Information Request
+  Workflow
   (Detailed Tutorial from Joomla 3)
 
 ## How to access

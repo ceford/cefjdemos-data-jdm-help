@@ -54,16 +54,15 @@ alt="Modules screen pt" />
     atribuídos, por exemplo, a uma linguagem.
 - **Estado**: Estado do módulo. Passe o ícone para obter informações.
 - **Título**: O título do módulo. Edite o módulo clicando no título.
-- **Posição**: A posição na página onde este módulo é exibido. [Aprender
-  mais](https://docs.joomla.org/J4.x:How_to_Show_a_Calendar_Month_List_of_Archived_Articles_Using_a_Module/pt-br "J4.x:How to Show a Calendar Month List of Archived Articles Using a Module/pt-br").
+- **Posição**: A posição na página onde este módulo é exibido.
 - **Tipo**: O nome do módulo no sistema.
 - **Páginas**: Os itens dos menus onde este módulo será mostrado.
   - Em todas as páginas
   - Nenhuma página
   - Apenas nas páginas selecionadas
   - Em todas as páginas, exceto as selecionadas
-- **Acesso**: O [nível de
-  acesso](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/pt-br "Help4.x:Users: Viewing Access Levels/pt-br")
+- **Acesso**: O nível de
+  acesso
   de visualização para este módulo.
 - **Linguagem**: Linguagem dos módulos, o padrão é "Todas".
 - **ID**: Um número de identificação exclusivo para este módulo, você
@@ -75,7 +74,7 @@ alt="Modules screen pt" />
 da administração.
 
 **Barra para pesquisas**: Perto do topo da página você verá a barra para
-pesquisas mostrada na [captura da tela](#screenshot) acima.
+pesquisas mostrada na captura da tela acima.
 
 - **Pesquisar por texto**: Digite parte do termo da pesquisa e clique no
   ícone para pesquisar. *Passe o mouse* para ver uma *dica* indicando
@@ -93,8 +92,7 @@ pesquisas mostrada na [captura da tela](#screenshot) acima.
 - **Número a exibir**: Mostra o número (quantidade) de módulos em uma
   lista. Selecione na lista suspensa para alterar o número de módulos
   mostrados.O padrão para um site é '20', mas isso pode ser alterado na
-  [configurações
-  globais](https://docs.joomla.org/Help4.x:Site_Global_Configuration/pt-br#defaultlistlimit "Help4.x:Site Global Configuration/pt-br").
+
 
 ### Opções do filtro
 
@@ -118,7 +116,7 @@ da tela](#screenshot) acima.
 
 **Controles da página**: Quando o número (quantidade) de módulos for
 maior que uma página, você verá uma barra de controle de página perto da
-parte inferior da página mostrada na [captura da tela](#screenshot)
+parte inferior da página mostrada na captura da tela
 acima. O número da página atual, que está sendo visualizada, tem um
 fundo de cor escura.
 
@@ -144,15 +142,13 @@ da tela](#screenshot) acima.
   - **Registrar (check-in)**: Registra (check-in) dos módulos
     selecionados.
   - **Lixeira**: Altera o estado dos módulos selecionados para indicar
-    que estão na lixeira. [Aprender
-    mais](https://docs.joomla.org/J4.x:Deleting_an_Article/pt-br "J4.x:Deleting an Article/pt-br").
+    que estão na lixeira.
   - **Lote**: Processa em lote os módulos selecionados.
   - **Duplicar**: Faz uma cópia dos módulos selecionados. A cópia é
     criada imediatamente e recebe o mesmo nome do original, mas com o
     sufixo de um número (por exemplo, "(2)") para que possa ser
     distinguida do original e de quaisquer outras cópias.
-- **Opções**: Abre [Módulos:
-  Opções](https://docs.joomla.org/Help4.x:Modules:_Options/pt-br "Help4.x:Modules: Options/pt-br").
+- **Opções**: Abre
 - **Ajuda**: Abre esta tela para ajuda.
 
 ## Processo em lote
@@ -186,30 +182,15 @@ alt="Modules batch subscreen pt" />
 
 ## Dicas rápidas
 
-- Os sites Joomla! requerem pelo menos 1 [módulo para
-  menus](https://docs.joomla.org/Help4.x:Site_Modules:_Menu/pt-br "Help4.x:Site Modules: Menu/pt-br").
+- Os sites Joomla! requerem pelo menos 1
 - Outros tipos de módulos (por exemplo
-  [Banners](https://docs.joomla.org/Help4.x:Site_Modules:_Banners/pt-br "Help4.x:Site Modules: Banners/pt-br"))
+  Banners
   são opcionais.
 - Alguns módulos estão vinculados a componentes. Por exemplo, cada
   módulo para menus está relacionado a um
-  [menu](https://docs.joomla.org/Help4.x:Menus/pt-br "Help4.x:Menus/pt-br").
-- Outros módulos (por exemplo, [Trilha da
-  navegação](https://docs.joomla.org/Help4.x:Site_Modules:_Breadcrumbs/pt-br "Help4.x:Site Modules: Breadcrumbs/pt-br"))
+  menu.
+- Outros módulos (por exemplo, Trilha da
+  navegação
   não dependem de nenhum outro conteúdo.
 - Múltiplas ocorrências de tipos de módulos semelhantes são permitidas e
   comuns.
-
-## Informações relacionadas
-
-- A instalação do Joomla! tem mais de 40 tipos de módulos. Módulos de
-  terceiros adicionais podem ser obtidos a partir do
-  <a href="http://extensions.joomla.org/" class="external text"
-  target="_blank" rel="noreferrer noopener">Joomla Extensions
-  Directory</a>.
-- [Painel
-  inicial](https://docs.joomla.org/Help4.x:Home_Dashboard/pt-br "Help4.x:Home Dashboard/pt-br"):
-  Acesso a muitas funções padrões do Joomla!.
-- Este
-  [portal](https://docs.joomla.org/Portal:Joomla_4/pt-br "Portal:Joomla 4/pt-br")
-  reúne informações relacionadas especificamente ao Joomla! 4.

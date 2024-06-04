@@ -1,7 +1,7 @@
 <!-- Filename: Help4.x:Site_Global_Configuration_System / Display title: Konfiguration: System -->
 
  **←** 
-[Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#system "Help4.x:Site Global Configuration/de")
+Konfiguration
 
 <img
 src="https://docs.joomla.org/images/thumb/a/ad/Help-4x-Global-Configuration-system-debug-subscreen-de.png/800px-Help-4x-Global-Configuration-system-debug-subscreen-de.png"
@@ -25,4 +25,4 @@ data-file-width="1566" data-file-height="589" width="800" height="301"
 alt="Bildschirmfoto: Sitzung (Session)" />
 
  **←** 
-[Konfiguration](https://docs.joomla.org/Help4.x:Site_Global_Configuration/de#system "Help4.x:Site Global Configuration/de")
+Konfiguration

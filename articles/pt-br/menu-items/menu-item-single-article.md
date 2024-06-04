@@ -33,8 +33,7 @@ title="File:Help-4x-Menus-Item-Articles-Single-Article-screen-pt-br.png">800px</
 - **Título**: O título que será mostrado para este item dos menus.
 - **Alias**: O nome interno do item dos menus. Normalmente, você pode
   deixar esse espaço em branco e o Joomla! preencherá um título de valor
-  padrão em minúsculas e com traços em vez dos espaços. [Aprender
-  mais](https://docs.joomla.org/Alias/pt-br "Alias/pt-br").
+  padrão em minúsculas e com traços em vez dos espaços.
 
 ### Detalhes
 
@@ -74,8 +73,8 @@ class="new"
 title="File:Help-4x-Menus-Item-Articles-Single-Article-options-subscreen-pt-br.png">600px</a>
 
 Nota: As opções incluem "**Usar global**". Se isso estiver selecionado,
-a configuração em [Artigos:
-Opções](https://docs.joomla.org/Help4.x:Articles:_Options/pt-br "Help4.x:Articles: Options/pt-br")
+a configuração em Artigos:
+Opções
 será usada.
 
 **Disposição**
@@ -103,22 +102,21 @@ será usada.
 - **Categoria**: Mostra o título da categoria do artigo.
 - **Vincular a categoria**: Mostra o título como um link para essa
   categoria.Nota: Você pode definir isso como uma disposição para blog
-  ou lista com a opção "[Escolher uma
-  disposição](https://docs.joomla.org/Help4.x:Articles:_Options/pt-br#choosealayout "Help4.x:Articles: Options/pt-br")"
+  ou lista com a opção "Escolher uma
+  disposição"
   na aba (guia) "Categoria".
 - **Categoria parental**: Mostra o título da categoria parental do
   artigo.
 - **Vincular a categoria parental**: Mostra o título como um link para
   essa categoria.Nota: Você pode definir isso como uma disposição para
-  blog ou lista com a opção "[Escolher uma
-  disposição](https://docs.joomla.org/Help4.x:Articles:_Options/pt-br#choosealayout "Help4.x:Articles: Options/pt-br")"
+  blog ou lista com a opção "Escolher uma
+  disposição"
   na aba (guia) "Categoria".
 
 **Associações**
 
 - **Associações**: Mostra as bandeiras associadas ou o código da
-  linguagem. [Apenas
-  multilíngue](https://docs.joomla.org/Help4.x:Multilingual_Associations/pt-br "Help4.x:Multilingual Associations/pt-br").
+  linguagem.
 
 **Autor**
 
@@ -129,8 +127,8 @@ será usada.
   href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_Edit/pt-br&amp;action=edit&amp;redlink=1"
   class="new"
   title="Help4.x:Contacts: Edit/pt-br (page does not exist)">Contato</a>.
-  Além disso, um link não será mostrado se houver um valor "[Alias do
-  autor](https://docs.joomla.org/Help4.x:Articles:_Edit/pt-br#createdbyalias "Help4.x:Articles: Edit/pt-br")"
+  Além disso, um link não será mostrado se houver um valor "Alias do
+  autor"
   para o artigo.
 
 **Data**
@@ -160,21 +158,21 @@ será usada.
 
 ### Opções comuns
 
-Consulte [Menus: Novo
-item](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/pt-br "Help4.x:Menu Item: New Item/pt-br")
+Consulte Menus: Novo
+item
 para obter ajuda sobre os campos comuns a todos os tipos de itens dos
 menus, incluindo:
 
-- [Painel
-  direito](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/pt-br#rightpanel "Help4.x:Menu Item: New Item/pt-br")
-- [Tipo do
-  link](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/pt-br#linktype "Help4.x:Menu Item: New Item/pt-br")
-- [Exibição da
-  página](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/pt-br#pagedisplay "Help4.x:Menu Item: New Item/pt-br")
-- [Metadados](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/pt-br#metadata "Help4.x:Menu Item: New Item/pt-br")
-- [Associações](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/pt-br#associations "Help4.x:Menu Item: New Item/pt-br")
-- [Atribuição do
-  módulo](https://docs.joomla.org/Help4.x:Menu_Item:_New_Item/pt-br#moduleassignment "Help4.x:Menu Item: New Item/pt-br")
+- Painel
+  direito
+- Tipo do
+  link
+- Exibição da
+  página
+- Metadados
+- Associações
+- Atribuição do
+  módulo
 
 ## Barra das ferramentas
 
@@ -202,44 +200,3 @@ da tela](#screenshot) acima.
   armazenados no site. Os artigos são arquivados usando a tela
   "Artigos". Note que os artigos atribuídos à seção "Descategorizados"
   não serão mostrados na disposição para lista de artigos arquivados.
-
-## Informações relacionadas
-
-- Este
-  [portal](https://docs.joomla.org/Portal:Joomla_4/pt-br "Portal:Joomla 4/pt-br")
-  reúne informações relacionadas especificamente ao Joomla! 4.
-
-|                                                                                                                                              |                                                                                                                                                                                                                |
-|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Telas de ajuda relacionadas                                                                                                                  | Descrição                                                                                                                                                                                                      |
-| [Artigos: Opções](https://docs.joomla.org/Help4.x:Articles:_Options/pt-br "Help4.x:Articles: Options/pt-br")                                 | Usado para definir os padrões globais para os itens dos menus que mostram artigos. Esses valores padrões serão usados quando "Usar global" for selecionado para uma opção em um item dos menus para artigos.   |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Articles/pt-br&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Articles/pt-br (page does not exist)">Artigos</a>                                                                              | A lista para artigos é usada para localizar, marcar como destacados, adicionar e editar artigos.                                                                                                               |
-| [Artigos: Editar](https://docs.joomla.org/Help4.x:Articles:_Edit/pt-br "Help4.x:Articles: Edit/pt-br")                                       | É aqui que você pode adicionar e editar artigos. Você também pode selecionar a categoria de um artigo, indicar se ela está ou não está publicada e se está selecionada para aparecer na página inicial.        |
-| [Artigos: Destacados](https://docs.joomla.org/Help4.x:Articles:_Featured/pt-br "Help4.x:Articles: Featured/pt-br")                           | Usado para controlar quais "artigos destacados" são mostrados na página inicial e em que ordem eles são mostrados.                                                                                             |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Articles:_Categories/pt-br&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Articles: Categories/pt-br (page does not exist)">Artigos:
- Categorias</a>                                                                                                                                | categorias.                                                                                                                                                                                                    |
-| [Menus: Artigos arquivados](https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived/pt-br "Help4.x:Menu Item: Article Archived/pt-br")   | Mostra uma lista personalizada de artigos classificados por datas ou títulos. Os artigos arquivados não são mais publicados, mas ainda são armazenados no site.                                                |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_Category_Blog/pt-be&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Menu Item: Category Blog/pt-be (page does not exist)">Menus:
- Blog para categoria</a>                                                                                                                       | Usado para mostrar artigos pertencentes a uma categoria específica em uma disposição para blogs. Controla os principais artigos, os artigos introdutórios e os links adicionais para mais artigos.             |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_Category_List/pt-br&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Menu Item: Category List/pt-br (page does not exist)">Menus:
- Lista para categoria</a>                                                                                                                      | Usado para mostrar artigos pertencentes a uma categoria específica em uma disposição para lista.                                                                                                               |
-| [Menus: Criar artigo](https://docs.joomla.org/Help4.x:Menu_Item:_Create_Article/pt-br "Help4.x:Menu Item: Create Article/pt-br")             | Permite que os usuários enviem um artigo. Normalmente, isso está disponível apenas para usuários que iniciaram suas sessões no site (frontend). Os usuários devem ter permissão para criar artigos.            |
-| [Menus: Artigos destacados](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/pt-br "Help4.x:Menu Item: Featured Articles/pt-br") | Usado para mostrar todos os artigos que foram marcados como destacados. Os artigos são mostrados em uma disposição para blog.                                                                                  |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_List_All_Categories/pt-br&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Menu Item: List All Categories/pt-br (page does not exist)">Menus:
- Listar todas as categorias em uma árvore de categorias para artigos</a>                                                                       | Usado para mostrar uma lista hierárquica de categorias. Dependendo das opções selecionadas para esta disposição, você pode acionar (clicar em) um título de categoria para mostrar os artigos dessa categoria. |
-| <span class="mw-selflink selflink">Menus: Artigo único</span>                                                                                | Usado para mostrar um artigo.                                                                                                                                                                                  |

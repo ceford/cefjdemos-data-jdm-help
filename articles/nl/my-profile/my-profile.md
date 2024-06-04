@@ -128,10 +128,4 @@ De functies zijn.
 - U kunt uw beheerdersaccount ook benaderen en bewerken via [Gebruikers
   Gebruikersbeheer
   bewerken](https://docs.joomla.org/Help4.x:Users:_Edit_Profile/nl "Help4.x:Users: Edit Profile/nl")
-  wat beschikbaar is via [Gebruikers
-  Gebruikersbeheer](https://docs.joomla.org/Help4.x:Users/nl "Help4.x:Users/nl").
-
-## Verwante informatie
-
-- Zie [Gebruikers Gebruikersbeheer
-  Bewerken](https://docs.joomla.org/Help4.x:Users:_Edit_Profile/nl "Help4.x:Users: Edit Profile/nl")
+  wat beschikbaar is via

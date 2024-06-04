@@ -7,15 +7,15 @@ contactpersooninformatie toe te voegen aan uw Joomla! site. U kunt
 informatie opgeven zoals naam, adrestelefoonnummer en e-mailadres. U
 kunt ook contactpersonen koppelen aan geregistreerde gebruikers. Na
 afloop kunt u de
-[Menubeheer](https://docs.joomla.org/Help4.x:Menus/nl "Help4.x:Menus/nl")
+Menubeheer
 gebruiken om links op de website aan te maken naar contactpersonen.
 
 ## Hoe toegang te krijgen
 
 - Selecteer **Componenten → Contactpersonen → Categorieën**
   vanuit het beheermenu.
-- Selecteer de genummerde knop in het [Categorieën:
-  Contactpersonen](https://docs.joomla.org/Help4.x:Contacts:_Categories/nl "Help4.x:Contacts: Categories/nl")
+- Selecteer de genummerde knop in het Categorieën:
+  Contactpersonen
   scherm.
 
 ## Schermafbeelding
@@ -53,7 +53,7 @@ Klik op de kolomkop om de lijst volgens deze kolom te sorteren.
 - **Gelinkte gebruiker.** De gebruikersnaam waar deze contactpersoon aan
   gelinkt is (indien van toepassing).
 - **Toegang**. Het
-  [Toegangsniveau](https://docs.joomla.org/Help4.x:Users:_Viewing_Access_Levels/nl "Special:MyLanguage/Help4.x:Users: Viewing Access Levels/nl")
+  Toegangsniveau
   om het item te bekijken.
 - **Taal**. Item taal.
 - **ID**. Dit is een uniek identificatienummer voor dit item,
@@ -82,8 +82,7 @@ bovenstaande Screenshot.
     aflopend volgorde.
 - **Te tonen aantal.** Toont het aantal items in een lijst. Selecteer
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
-  voor een site is '20' maar dit kan veranderd worden bij de [Algemene
-  instellingen](https://docs.joomla.org/Help4.x:Site_Global_Configuration/nl#defaultlistlimit "Help4.x:Site Global Configuration/nl").
+  voor een site is '20' maar dit kan veranderd worden bij de
 - **Selecteer Speciaal**. Selecteer uit 'Niet speciale artikelen' /
   'Speciale artikelen'.
 - **Selecteer status**. Selecteer uit Naar prullenbak / Gedepubliceerd /
@@ -168,24 +167,3 @@ Bovenaan de pagina ziet u de werkbalk zoals in de
   class="mw-redirect"
   title="Help4.x:Components Contacts Categories/nl">Categoriebeheer:
   Contactpersonen</a> scherm.
-
-## Verwante informatie
-
-|                                                                                                                           |                                                                                                                                                                                                                                                                                                                                          |
-|---------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Verwante helpschermen                                                                                                     | Beschrijving                                                                                                                                                                                                                                                                                                                             |
-| [Contactpersonen: Categorieën](https://docs.joomla.org/Help4.x:Contacts:_Categories/nl "Help4.x:Contacts: Categories/nl") | Contactpersoon categoriebeheer is waar u bestaande contactpersonen kunt bewerken en nieuwe kunt aanmaken. Let op dat Contactpersoon categorieën los staan van andere categorieën, zoals artikelen, advertenties, nieuwsfeeds en weblinks. Vanaf dit scherm kunt u ook navigeren naar het <a
-                                                                                                                             href="https://docs.joomla.org/Help4.x:Components_Contacts_Contacts/nl"
-                                                                                                                             class="mw-redirect"
-                                                                                                                             title="Help4.x:Components Contacts Contacts/nl">Contactpersoon beheer:
-                                                                                                                             Contactpersonen</a> scherm.                                                                                                                                                                                                                                                                                                               |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit_Category/nl&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Contacts: New or Edit Category/nl (page does not exist)">Contactpersonen:
- Nieuwe of bewerken van categorie</a>                                                                                       | Dit is waar u een Contactpersoon categorie kunt toevoegen of een bestaande contactpersoon categorie kunt bewerken. Contactpersoon categorieën stellen u in staat contactpersonen te organiseren op uw website. Contactpersoon categorieën staan los van andere type categorieën, zoals van artikelen, advertenties, nieuwsfeeds en meer. |
-| <a
- href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_New_or_Edit/nl&amp;action=edit&amp;redlink=1"
- class="new"
- title="Help4.x:Contacts: New or Edit/nl (page does not exist)">Contactpersonen:
- Nieuw of bewerken</a>                                                                                                      | Dit is waar u een contactpersoon kunt toevoegen of een bestaande contactpersoon kunt bewerken. Contactpersonen stellen u in staat mensen te tonen op uw website. Ze geven ook de mogelijkheid aan gebruikers e-mails aan deze mensen te sturen.                                                                                          |
