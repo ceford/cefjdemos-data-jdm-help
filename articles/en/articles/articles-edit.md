@@ -12,7 +12,7 @@ specific Category or provide article-specific Metadata.
 
 ## Tutorials
 
-[Adding an Image to an Article](jdocmanual?article=user/articles/adding-an-image-to-an-article.html "")
+[Adding an Image to an Article](jdocmanual?article=user/articles/adding-an-image-to-an-article "Adding an Image to an Article")
 
 ## How to Access
 
