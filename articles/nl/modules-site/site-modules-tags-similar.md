@@ -41,6 +41,8 @@ alt="modules site module manager module similar tags" />
   getoonde item moet overeenkomen. Eén - vereist dat minimaal één tag
   overeenkomt. Half - requires that at least half of the tags match
   (rounded up in the case of decimals)
+- **Bestellingsresultaten:** (*Aantal overeenkomende tags*/*Willekeurig*/*Aantal overeenkomende tags
+  tags & Willekeurig*). Hoe u wilt dat de resultaten worden geordend.
 
 **Rechter venster**
 

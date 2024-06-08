@@ -39,6 +39,9 @@ title="File:Help-4x-modules-site-module-manager-module-similar-tags-pt-br.png">8
   tags correspondam. Qualquer - requer que pelo menos uma tag
   corresponda. Metade - requer que pelo menos metade das tags
   correspondam (valor arredondado no caso de decimais).
+- **Resultados do pedido:** (*Número de tags correspondentes*/*Aleatório*/*Número
+  de tags correspondentes tags e aleatório*). Como você deseja que os resultados
+  sejam ordenados.
 
 **Painel direito**
 

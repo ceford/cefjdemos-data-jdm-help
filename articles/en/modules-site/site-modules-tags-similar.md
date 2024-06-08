@@ -40,6 +40,8 @@ alt="modules site module manager module similar tags" />
   matched. Any - requires that at least one tag match. Half - requires
   that at least half of the tags match (rounded up in the case of
   decimals).
+- **Order results:** (*Number of matching tags*/*Random*/*Number of matching
+  tags & Random*). How you want the results to be ordered.
 
 #### Right Panel
 

@@ -44,6 +44,8 @@ alt="modules site module manager module similar tags" />
   übereinstimmen. Beliebig – erfordert, dass mindestens ein Schlagwort
   übereinstimmt. Halb – erfordert, dass mindestens die Hälfte der
   Schlagwörter übereinstimmen (bei Dezimalzahlen wird aufgerundet).
+- **Ergebnisse sortieren:** (*Anzahl der passenden Tags*/*Zufall*/*Anzahl der passenden
+  Tags & Zufall*). Wie die Ergebnisse sortiert werden sollen.
 
 **Rechte Seite**
 
