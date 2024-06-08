@@ -18,10 +18,11 @@ semelhantes. A proximidade da correspondência pode ser especificada.
 
 ## Captura da tela
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-modules-site-module-manager-module-similar-tags-pt-br.png"
-class="new"
-title="File:Help-4x-modules-site-module-manager-module-similar-tags-pt-br.png">800px</a>
+<img
+src="https://docs.joomla.org/images/e/e8/Help-4x-modules-site-module-manager-module-similar-tags-en.png"
+decoding="async" data-file-width="800" data-file-height="693"
+width="800" height="693"
+alt="modules site module manager module similar tags" />
 
 ## Campos do formulário
 
@@ -30,7 +31,7 @@ title="File:Help-4x-modules-site-module-manager-module-similar-tags-pt-br.png">8
 
 ### Aba (guia) Módulo
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **Máximo de itens**: (*1*/*2*/*3*/*4*/*5*/*6*/*7* /...). Número máximo
   de itens a serem mostrados.
@@ -43,7 +44,7 @@ title="File:Help-4x-modules-site-module-manager-module-similar-tags-pt-br.png">8
   de tags correspondentes tags e aleatório*). Como você deseja que os resultados
   sejam ordenados.
 
-**Painel direito**
+#### Painel direito
 
 - **Mostrar título**: (Mostrar/Ocultar) Escolhe se mostra ou oculta o
   título dos módulos no front-end. O título será aquele no campo do
@@ -78,10 +79,11 @@ title="File:Help-4x-modules-site-module-manager-module-similar-tags-pt-br.png">8
 
 ### Aba (guia) Atribuição no(s) menu(s)
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-modules-manager-site-module-menu-assignment-tab-pt-br.png"
-class="new"
-title="File:Help-4x-modules-manager-site-module-menu-assignment-tab-pt-br.png">600px</a>
+<img
+src="https://docs.joomla.org/images/0/05/Help-4x-modules-manager-site-module-menu-assignment-tab-en.png"
+decoding="async" data-file-width="600" data-file-height="595"
+width="600" height="595"
+alt="modules manager site module menu assignment tab" />
 
 - **Atribuição de módulo**: Selecione **Em todas as páginas**, **Nenhuma
   página**, **Apenas nas páginas selecionadas** ou **Em todas as
@@ -97,10 +99,11 @@ title="File:Help-4x-modules-manager-site-module-menu-assignment-tab-pt-br.png">6
 
 ### Aba (guia) Avançado
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-modules-manager-admin-module-site-advanced-options-pt-br.png"
-class="new"
-title="File:Help-4x-modules-manager-admin-module-site-advanced-options-pt-br.png">600px</a>
+<img
+src="https://docs.joomla.org/images/4/4b/Help-4x-modules-manager-admin-module-site-advanced-options-en.png"
+decoding="async" data-file-width="600" data-file-height="422"
+width="600" height="422"
+alt="modules manager admin module site advanced options" />
 
 - **Disposição**: Se você definiu uma ou mais disposições (layouts)
   alternativas para um módulo no tema ou no núcleo do Joomla!, você pode
@@ -135,10 +138,11 @@ title="File:Help-4x-modules-manager-admin-module-site-advanced-options-pt-br.png
 
 ### Aba (guia) Permissões
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-modules-manager-admin-module-administrator-permissions-pt-br.png"
-class="new"
-title="File:Help-4x-modules-manager-admin-module-administrator-permissions-pt-br.png">600px</a>
+<img
+src="https://docs.joomla.org/images/d/d8/Help-4x-modules-manager-admin-module-administrator-permissions-en.png"
+decoding="async" data-file-width="600" data-file-height="374"
+width="600" height="374"
+alt="modules manager admin module administrator permissions" />
 
 Para alterar as permissões, faça o seguinte.
 

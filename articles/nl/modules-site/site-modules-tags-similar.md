@@ -32,7 +32,7 @@ alt="modules site module manager module similar tags" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Maximum items:** (*1*/*2*/*3*/*4*/*5*/*6*/*7*/...). Maximum aantal
   items dat getoond wordt.
@@ -44,7 +44,7 @@ alt="modules site module manager module similar tags" />
 - **Bestellingsresultaten:** (*Aantal overeenkomende tags*/*Willekeurig*/*Aantal overeenkomende tags
   tags & Willekeurig*). Hoe u wilt dat de resultaten worden geordend.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

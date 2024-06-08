@@ -34,7 +34,7 @@ alt="modules site module manager module similar tags" />
 
 ### Modul
 
-**Linke Seite**
+#### Linke Seite
 
 - **Maximale Anzahl Beiträge:** (*1*/*2*/*3*/*4*/*5*/*6*/*7*/...).
   Maximale Anzahl der anzuzeigenden Einträge.
@@ -47,7 +47,7 @@ alt="modules site module manager module similar tags" />
 - **Ergebnisse sortieren:** (*Anzahl der passenden Tags*/*Zufall*/*Anzahl der passenden
   Tags & Zufall*). Wie die Ergebnisse sortiert werden sollen.
 
-**Rechte Seite**
+#### Rechte Seite
 
 - **Titel anzeigen** (*Anzeigen*/*Verbergen*). Zeigt den Titel des
   Moduls an oder unterdrückt die Anzeige im Frontend. Der angezeigte
