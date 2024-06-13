@@ -32,7 +32,7 @@ alt="modules manager admin module quickicon" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Informatie.** Deze module toont de snelkoppelingen die zichtbaar
   zijn in het controlepaneel (de homepage van het beheergedeelte)
@@ -51,7 +51,7 @@ alt="modules manager admin module quickicon" />
 - **Templatestijl icoon.**
 - **Templatecode icoon.**
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

@@ -13,8 +13,7 @@ You do not need to set any of these options. Your Joomla site will work
 with the default settings.
 
 ## Как открыть
-
-**Контент → Материалы**
+Выбирать **Контент → Материалы**
 
 - click the **Options** toolbar button
 
@@ -38,7 +37,7 @@ Featured Articles,
 List All Categories,
 and Single Article.
 
-**Макет**
+#### Макет
 
 - **Макет**. Select the default value for Single Article menu items.
 - **Заголовок**. Show the Article's Title.
@@ -56,7 +55,7 @@ and Single Article.
 - **Заголовок информации о материале**. Displays 'Details' on top of the
   article information block.
 
-**Категория**
+#### Категория
 
 - **Заголовок категории**. Show the Article's Category Title.
   - **Категория как ссылка**. Show the title as a link to that
@@ -70,13 +69,13 @@ and Single Article.
     layout with the Choose a Layout
     option in the Category Tab.
 
-**Связи**
+#### Связи
 
 - **Языковые связи**. Show the associated flags or Language Code.
   Multilingual only.
   - **Изображения флагов**. Display language choice as image flags.
 
-**Автор**
+#### Автор
 
 - **Автор**. Show the author of the Article.
   - **Автор как ссылка**. Show it as a link to a Contact layout for that
@@ -85,13 +84,13 @@ and Single Article.
     Also, a link will not show if there is an Author Alias
     value for the article.
 
-**Дата**
+#### Дата
 
 - **Дата создания**. Show the Article's create date.
 - **Дата изменения**. Show the Article's modify date.
 - **Дата публикации**. Show the Article's start publishing date.
 
-**Материалы**
+#### Материалы
 
 - **Ссылки "Назад/Вперед"**. Show a navigation link 'Prev' or 'Next'
   when you drill down to the article.
@@ -409,7 +408,7 @@ srcset="https://docs.joomla.org/images/thumb/4/42/Help-4x-Content-Article-Manage
 data-file-width="1980" data-file-height="1502" width="600" height="455"
 alt="Content Article Manager Options integration subscreen" />
 
-**Лента новостей**
+#### Лента новостей
 
 - **Ссылка на RSS**. If set to Show, a Feed Link will show up as a feed
   icon in the address bar of most browsers.
@@ -418,15 +417,15 @@ alt="Content Article Manager Options integration subscreen" />
   - Полный текст: The entire text of the article will show in the feed.
 - **Ссылка "Подробнее"**. Show a "Read more" link in the feed.
 
-**Маршрутизация**
+#### Маршрутизация
 
 - **Удалить ID из URL**. Remove the database id of articles in a link.
 
-**Настраиваемые поля**
+#### Настраиваемые поля
 
 - **Настраиваемые поля**. Enable the creation of custom fields.
 
-**Процессы**
+#### Процессы
 
 - **Процессы**. Use customised workflows to manage articles.
 

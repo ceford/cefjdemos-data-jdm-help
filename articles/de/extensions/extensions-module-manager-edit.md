@@ -53,12 +53,12 @@ alt="extensions module manager edit" />
 
 ### Modul
 
-**Linke Seite**
+#### Linke Seite
 
 Der Aufbau des linken Bereichs hängt vom Modultyp ab und wird hier nicht
 beschrieben.
 
-**Rechte Seite**
+#### Rechte Seite
 
 Der rechte Bereich ist bei allen Modulen gleich.
 

@@ -14,8 +14,7 @@ gebruik van
   beheerder.
 
 ## Hoe toegang te krijgen
-
-**Gebruikers → Beheren**
+Selecteer **Gebruikers → Beheren**
 
 - Klik de **Opties** werkbalk knop.
 

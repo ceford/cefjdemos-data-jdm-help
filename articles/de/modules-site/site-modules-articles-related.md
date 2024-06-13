@@ -41,7 +41,7 @@ alt="modules site module manager module articles related articles" />
 
 ### Modul
 
-**Linke Seite**
+#### Linke Seite
 
 Dieses Modul zeigt andere Beiträge, die mit dem aktuellen Beitrag
 verwandt sind. Die Verbindung entstehen durch die Schlüsselwörter. Alle
@@ -53,7 +53,7 @@ Schlüsselwörter der veröffentlichten Beiträge abgeglichen.
 - **Max. Beiträge**. Die maximale Anzahl der angezeigten Beiträge
   (Standardwert ist 5).
 
-**Rechte Seite**
+#### Rechte Seite
 
 - **Titel anzeigen** (*Anzeigen*/*Verbergen*). Zeigt den Titel des
   Moduls an oder unterdrückt die Anzeige im Frontend. Der angezeigte

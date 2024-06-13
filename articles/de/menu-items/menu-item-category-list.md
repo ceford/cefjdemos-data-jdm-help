@@ -5,8 +5,7 @@
 Der Menüeintrag zeigt Beiträge einer Kategorie in einer Liste.
 
 ## Wie darauf zugreifen
-
-**Menüs → \[Name des Menüs\]**
+Wählen **Menüs → \[Name des Menüs\]**
 
 Einen Menüeintrag hinzufügen:
 
@@ -38,7 +37,7 @@ alt="Menus Item Articles Category List screen" />
 
 ### Details
 
-**Linke Seite**
+#### Linke Seite
 
 - **Menüeintragstyp**. Der Menüeintragstyp wird beim Erstellen des
   Menüeintrages gewählt. Das kann einer der Core-Menüeintragstypen oder
@@ -50,7 +49,7 @@ alt="Menus Item Articles Category List screen" />
 - **Zielfenster**. Aus der Dropdown-Liste wählen.
 - **Template-Stil**. Aus der Dropdown-Liste wählen.
 
-**Rechte Seite**
+#### Rechte Seite
 
 - **Menü**. Zeigt, in welchem Menü der Link erscheinen wird.
 
@@ -179,7 +178,7 @@ srcset="https://docs.joomla.org/images/thumb/1/19/Help-4x-Menus-Item-Articles-Ca
 data-file-width="2878" data-file-height="1344" width="600" height="280"
 alt="Menus Item Articles Category List options subscreen" />
 
-**Layout**
+#### Layout
 
 - **Layout auswählen**. Aus der Dropdown-Liste wählen.
 - **Titel**. Den Titel des Beitrages zeigen.
@@ -188,7 +187,7 @@ alt="Menus Item Articles Category List options subscreen" />
   - Anzeigen: Der Beitrag wird inklusive Einleitungstext gezeigt.
   - Verbergen: Der Beitrag wird ohne Einleitungstext gezeigt.
 
-**Kategorie**
+#### Kategorie
 
 - **Kategorie**. Den Kategorietitel des Beitrags zeigen.
 - **Kategorie verlinken**. Den Kategorietitel als Link zeigen.Hinweis:
@@ -202,12 +201,12 @@ alt="Menus Item Articles Category List options subscreen" />
   auswählen
   'Blog' oder 'Liste' festgelegt werden.
 
-**Verknüpfungen**
+#### Verknüpfungen
 
 - **Verknüpfungen anzeigen**. Zeigt verknüpfte Flaggen oder den
   Sprachcode.
 
-**Autor**
+#### Autor
 
 - **Autor**. Zeigt den Autor des Beitrags.
 - **Autor verlinken**. Zum Kontakt des Autors verlinken.Hinweis: Der
@@ -217,14 +216,14 @@ alt="Menus Item Articles Category List options subscreen" />
   Autoralias
   eingegeben, wird der Link nicht angezeigt.
 
-**Datum**
+#### Datum
 
 - **Erstellungsdatum**. Das Erstellungsdatum des Beitrages zeigen.
 - **Bearbeitungsdatum**. Das Bearbeitungsdatum des Beitrages zeigen.
 - **Veröffentlichungsdatum**. Das Veröffentlichungsdatum des Beitrages
   zeigen.
 
-**Optionen**
+#### Optionen
 
 - **Seitennavigation**. Zeigt die Navigationslinks 'Zurück' oder
   'Weiter', wenn der Beitrag gezeigt wird.

@@ -79,7 +79,7 @@ shown in the Screenshot above.
   from the dropdown list to change the number displayed.The default for
   a site is '20' but this may be changed in the Global Configuration.
 
-**Opções do Filtro**
+#### Opções do Filtro
 
 - **-Select Location-.** Select Site, Administrator or API from the
   drop-down list of available locations.

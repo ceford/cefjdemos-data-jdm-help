@@ -39,7 +39,7 @@ alt="modules site module manager module custom html" />
 
 ### Modul
 
-**Linke Seite**
+#### Linke Seite
 
 - **Editor.** Der Editor lässt die Eingabe bestimmter HTML-Tags nicht
   zu. Um dies zu umgehen, kann der Editor des Benutzers vorübergehend
@@ -51,7 +51,7 @@ alt="modules site module manager module custom html" />
   den HTML-Modus zu wechseln, den Code einzugeben, zu speichern und
   wieder zur normalen Ansicht zu wechseln.
 
-**Rechte Seite**
+#### Rechte Seite
 
 - **Titel anzeigen** (*Anzeigen*/*Verbergen*). Zeigt den Titel des
   Moduls an oder unterdrückt die Anzeige im Frontend. Der angezeigte

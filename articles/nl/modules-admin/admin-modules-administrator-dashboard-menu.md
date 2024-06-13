@@ -32,7 +32,7 @@ alt="modules administrator module manager module dashboard menu" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Informatie.** Deze module toont een collectie van menu's in een
   beheerder dashboard.
@@ -40,7 +40,7 @@ alt="modules administrator module manager module dashboard menu" />
 - **Voorkeursinstelling.** Selecteer een van de voor ingestelde menu's
   uit de uitklap lijst.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

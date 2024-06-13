@@ -189,7 +189,7 @@ srcset="https://docs.joomla.org/images/thumb/2/2c/Help-4x-Menus-Item-Articles-Ca
 data-file-width="2880" data-file-height="1252" width="600" height="261"
 alt="Menus Item Articles Category List options subscreen" />
 
-**Макет**
+#### Макет
 
 - **Макет**. Select from the dropdown list.
 - **Заголовок**. Show the Article's Title.
@@ -200,7 +200,7 @@ alt="Menus Item Articles Category List options subscreen" />
   - Скрыть: Only the part of the article after the Read More break will
     show.
 
-**Категория**
+#### Категория
 
 - **Заголовок категории**. Show the Article's Category Title.
 - **Категория как ссылка**. Show the title as a link to that
@@ -214,13 +214,13 @@ alt="Menus Item Articles Category List options subscreen" />
   layout with the Choose a Layout
   option in the Category Tab.
 
-**Связи**
+#### Связи
 
 - **Языковые связи**. Show the associated flags or Language Code.
   Многоязычные
   связи.
 
-**Автор**
+#### Автор
 
 - **Автор**. Show the author of the Article.
 - **Автор как ссылка**. Show it as a link to a Contact layout for that
@@ -229,13 +229,13 @@ alt="Menus Item Articles Category List options subscreen" />
   Also, a link will not show if there is an Author Alias
   value for the article.
 
-**Дата**
+#### Дата
 
 - **Дата создания**. Show the Article's create date.
 - **Дата изменения**. Show the Article's modify date.
 - **Дата публикации**. Show the Article's start publishing date.
 
-**Параметры**
+#### Параметры
 
 - **Ссылки "Назад/Вперед"**. Show a navigation link 'Prev' or 'Next'
   when you drill down to the article.

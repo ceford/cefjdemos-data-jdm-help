@@ -7,8 +7,7 @@ werden. Sie steuern die zum Hochladen zugelassenen Dateitypen,
 MIME-Typ-Prüfung, MIME-Typ-Blacklisting und weitere Optionen.
 
 ## Wie darauf zugreifen
-
-**Inhalt → Medien**
+Wählen **Inhalt → Medien**
 
 - auf den Button **Optionen** der Werkzeugleiste klicken.
 

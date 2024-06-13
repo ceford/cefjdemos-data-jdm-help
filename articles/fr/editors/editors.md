@@ -54,7 +54,7 @@ alt="editor tinymce advanced" />
 This option provides all of the same buttons as documented in the Set 2
 Toolbar above. In addition, the following options are available.
 
-**Rangée supérieure**
+#### Rangée supérieure
 
 - La liste déroulante du contenu du CMS permet d'accéder à un lien vers
   un article, un contact, un champ, un média, un menu ou un module.
@@ -139,7 +139,7 @@ Plugins - editors-xtd.
 - Outdent (move left) and Indent (indent right).
 - 3 dots: Show second Toolbar row.
 
-**Deuxième ligne**
+#### Deuxième ligne
 
 - Insert/edit Link: To insert or edit a link, select the linked text and
   press this button. A popup dialog displays that lets you enter details
@@ -177,7 +177,7 @@ alt="editor tinymce extended" />
 This option provides all of the same buttons as documented in the Set 1
 Toolbar above. In addition, the following options are available.
 
-**Rangée supérieure**
+#### Rangée supérieure
 
 - Blocks: Paragraph, Headings, Preformatted.
 - Fonts: Select the desired font.
@@ -188,7 +188,7 @@ Toolbar above. In addition, the following options are available.
   allows you to enter the Source, Width or Height and other information
   about the image.
 
-**Deuxième ligne**
+#### Deuxième ligne
 
 - Select Text color or Background color.
 - Fullscreen.
@@ -207,7 +207,7 @@ Toolbar above. In addition, the following options are available.
 - Blockquote.
 - Insert Template.
 
-**Troisième ligne**
+#### Troisième ligne
 
 - Print the article text.
 - Insert/edit code sample.

@@ -9,8 +9,7 @@ Module werden verwendet, um Inhalte und/oder Medien rund um den
 Hauptinhalt zu zeigen.
 
 ## Wie darauf zugreifen
-
-**Dashboard → Site → Module**
+Wählen **Dashboard → Site → Module**
 
 Ein Modul hinzufügen:
 
@@ -35,19 +34,9 @@ alt="Modules screen" />
   dem Kästchen im Spaltenkopf wählen. Durch Markieren wird der Button
   'Aktionen' in der Werkzeugleiste aktiviert.
 - **Reihenfolge**. Die Reihenfolge eines Moduls in der Liste ändern:
-  - Das Reihenfolge-Symbol <img
-    src="https://docs.joomla.org/images/thumb/7/79/Help-4x-Ordering-colheader-icon.png/9px-Help-4x-Ordering-colheader-icon.png"
-    decoding="async"
-    srcset="https://docs.joomla.org/images/thumb/7/79/Help-4x-Ordering-colheader-icon.png/14px-Help-4x-Ordering-colheader-icon.png 1.5x, https://docs.joomla.org/images/7/79/Help-4x-Ordering-colheader-icon.png 2x"
-    data-file-width="18" data-file-height="23" width="9" height="12"
-    alt="Reihenfolge Symbol" /> in der Listen-Überschrift durch
+  - Das Reihenfolge-Symbol <i class="fa-solid fa-sort"></i> in der Listen-Überschrift durch
     Anklicken aktivieren.
-  - Ein Drei-Punkte-Symbol <img
-    src="https://docs.joomla.org/images/thumb/a/a0/Help-4x-Ordering-colheader-grab-bar-icon.png/5px-Help-4x-Ordering-colheader-grab-bar-icon.png"
-    decoding="async"
-    srcset="https://docs.joomla.org/images/thumb/a/a0/Help-4x-Ordering-colheader-grab-bar-icon.png/8px-Help-4x-Ordering-colheader-grab-bar-icon.png 1.5x, https://docs.joomla.org/images/a/a0/Help-4x-Ordering-colheader-grab-bar-icon.png 2x"
-    data-file-width="9" data-file-height="27" width="5" height="15"
-    alt="Drei Punkte Symbol" /> nach oben oder unten ziehen, um die
+  - Ein Drei-Punkte-Symbol <span class="icon-ellipsis-v"></span> nach oben oder unten ziehen, um die
     Position in der Liste zu ändern.
   - In den Filter-Optionen kann die Liste auf Module beschränkt werden,
     die zum Beispiel einer Sprache zugeordnet sind.

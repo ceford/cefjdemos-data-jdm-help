@@ -30,7 +30,7 @@ title="File:Help-4x-modules-site-module-manager-module-articles-category-pt-br.p
 
 ### Aba (guia) Módulo
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **Modo**: (*Normal*/*dinâmico*). Por favor, selecione o modo que você
   gostaria de usar. Se o modo normal for escolhido, basta configurar o
@@ -48,7 +48,7 @@ title="File:Help-4x-modules-site-module-manager-module-articles-category-pt-br.p
   artigos. Isso significa que o módulo só será mostrado dinamicamente
   nas páginas da(s) categoria(s).
 
-**Painel direito**
+#### Painel direito
 
 - **Mostrar título**: (Mostrar/Ocultar) Escolhe se mostra ou oculta o
   título dos módulos no front-end. O título será aquele no campo do

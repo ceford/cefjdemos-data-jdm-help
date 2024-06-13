@@ -32,12 +32,12 @@ alt="modules site module manager module footer" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Voettekst.** Site indicator en de tekst: *Deze module laat de
   Joomla! copyright informatie zien.*.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

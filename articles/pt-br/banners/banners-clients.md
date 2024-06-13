@@ -101,7 +101,7 @@ captura de tela acima. As funções são:
 - **Selecionar estado**: Seleciona entre lixeira / não publicado /
   publicado / arquivado / todos.
 
-**Filter by Purchase Type**
+#### Filter by Purchase Type
 
 <a
 href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help35-colheader-select-type-pt-br.png"

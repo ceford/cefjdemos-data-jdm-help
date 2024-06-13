@@ -43,7 +43,7 @@ alt="Menus Item Articles Create Article screen" />
 
 ### Detalles
 
-**Panel izquierdo**
+#### Panel izquierdo
 
 - **Tipo de elemento del menú**. El Tipo de Elemento del Menú
   seleccionado cuando este elemento del menú se creó. Este puede ser uno
@@ -54,7 +54,7 @@ alt="Menus Item Articles Create Article screen" />
 - **Abrir en**. Seleccione de la lista desplegable.
 - **Estilo de la plantilla**. Seleccione de la lista desplegable.
 
-**Panel Derecho**
+#### Panel Derecho
 
 - **Menú**. Muestra en qué menú aparecerá el enlace.
 
@@ -118,7 +118,7 @@ Screenshots shows Joomla core Frontend Template **Cassiopeia**, all
 Editing Layout options
 set to 'Hide'.
 
-**Contenido**
+#### Contenido
 
 <img
 src="https://docs.joomla.org/images/thumb/1/16/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-es.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-es.png"
@@ -127,7 +127,7 @@ srcset="https://docs.joomla.org/images/thumb/1/16/Help-4x-Menus-Item-Articles-Cr
 data-file-width="1730" data-file-height="1260" width="600" height="437"
 alt="Menus Item Articles Create Article frontend content" />
 
-**Campos**
+#### Campos
 
 <img
 src="https://docs.joomla.org/images/thumb/6/66/Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-es.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-es.png"
@@ -136,7 +136,7 @@ srcset="https://docs.joomla.org/images/thumb/6/66/Help-4x-Menus-Item-Articles-Cr
 data-file-width="1728" data-file-height="480" width="600" height="167"
 alt="Menus Item Articles Create Article frontend fields" />
 
-**Publicando**
+#### Publicando
 
 <img
 src="https://docs.joomla.org/images/thumb/2/2e/Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-es.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-es.png"
@@ -145,7 +145,7 @@ srcset="https://docs.joomla.org/images/thumb/2/2e/Help-4x-Menus-Item-Articles-Cr
 data-file-width="1729" data-file-height="1116" width="600" height="387"
 alt="Menus Item Articles Create Article frontend publishing" />
 
-**Idioma**
+#### Idioma
 
 <img
 src="https://docs.joomla.org/images/thumb/7/72/Help-4x-Menus-Item-Articles-Create-Article-frontend-language-es.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-language-es.png"

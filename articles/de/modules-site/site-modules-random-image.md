@@ -33,7 +33,7 @@ alt="modules site module manager module random image" />
 
 ### Modul
 
-**Linke Seite**
+#### Linke Seite
 
 - **Bildtyp:** Typ des Bildes PNG\|GIF\|JPG usw. (Standard ist JPG).
 - **Bilderverzeichnis:** Pfad zum Bilder-Verzeichnis relativ zur
@@ -47,7 +47,7 @@ alt="modules site module manager module random image" />
 - **Höhe (px):** Bildhöhe – erzwingt, dass alle Bilder mit dieser Höhe,
   in Pixel, angezeigt werden.
 
-**Rechte Seite**
+#### Rechte Seite
 
 - **Titel anzeigen** (*Anzeigen*/*Verbergen*). Zeigt den Titel des
   Moduls an oder unterdrückt die Anzeige im Frontend. Der angezeigte

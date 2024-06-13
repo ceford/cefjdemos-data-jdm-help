@@ -8,8 +8,7 @@ existant dans les articles, les contacts et les utilisateurs.
 The helpscreen show as example Users.
 
 ## Comment y accéder ?
-
-**Utilisateurs → Champs**
+Sélectionner **Utilisateurs → Champs**
 
 Pour ajouter un champ :
 
@@ -101,7 +100,7 @@ srcset="https://docs.joomla.org/images/thumb/4/4b/Help-4x-Fields-Edit-options-su
 data-file-width="2880" data-file-height="1378" width="600" height="287"
 alt="Fields Edit options subscreen" />
 
-**Options de formulaire**
+#### Options de formulaire
 
 - **Indice**. Un texte par défaut qui va apparaître dans le champ
   personnalisé comme indice pour bien remplir le champ. Cet indice est
@@ -142,7 +141,7 @@ instead of *list-of-items*, where ID is the id of the field
 field you are creating need be: `field36:value1[OR]field36:value2` where
 36 is the ID of the field 'List of items'.
 
-**Options d'affichage**
+#### Options d'affichage
 
 - **Classe d'affichage**. La classe du conteneur de champ utilisée lors
   de son affichage.

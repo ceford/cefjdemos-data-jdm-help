@@ -13,8 +13,7 @@ gehören
   neuer Benutzer und mehr.
 
 ## Wie darauf zugreifen
-
-**Benutzer → Verwalten**
+Wählen **Benutzer → Verwalten**
 
 - auf den Button **Optionen** der Werkzeugleiste klicken.
 

@@ -67,7 +67,7 @@ height="61" alt="colheader filter field" />
   veranderen. Als u te veel complexe items selecteert dan worden ze
   traag getoond.
 
-**Filteropties**
+#### Filteropties
 
 - ***- Selecteer status -:*** Toont items die gepubliceerd en
   ongepubliceerd zijn. Toont *niet* de items die gearchiveerd of

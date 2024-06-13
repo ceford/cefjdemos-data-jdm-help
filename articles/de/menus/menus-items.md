@@ -74,7 +74,7 @@ dargestellte Filterleiste. Die Funktionen sind:
   Tabelle sortiert werden. Die Werte sind die gleichen wie die der
   Spaltenköpfe.
 
-**Filter Options:**
+#### Filter Options:
 
 - **Status wählen**. Auswahl von Papierkorb / Versteckt / Veröffentlicht
   / Archiviert / Alle.

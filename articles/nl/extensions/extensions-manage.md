@@ -80,7 +80,7 @@ bovenstaande Screenshot.
 
 ### Filter op locatie, status, type en map
 
-**Location**
+#### Location
 
 - **-Selecteer locatie-.** Selecteer een locatie uit de drop-down lijst
   van de beschikbare locaties.
@@ -90,7 +90,7 @@ bovenstaande Screenshot.
   uw Joomla! installatie. Normaliter communiceert u alleen direct met
   deze extensies via de beheer web interface.
 
-**Status**
+#### Status
 
 - **-Selecteer status-.** Selecteer de status van extensies uit de
   drop-down lijst.
@@ -102,12 +102,12 @@ bovenstaande Screenshot.
   Extensies van dit type kunnen niet gedeïnstalleerd of uitgeschakeld
   worden.
 
-**Extension Type**
+#### Extension Type
 
 - **-Selecteer type-.** Selecteer het extensietype uit de drop-down
   lijst met beschikbare extensietypes.
 
-**Folder**
+#### Folder
 
 - **-Selecteer map-.** Selecteer een plugin map uit de drop-down lijst
   met beschikbare mappen. Er is een aparte map voor ieder type plugin

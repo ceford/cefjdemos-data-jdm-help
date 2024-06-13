@@ -47,7 +47,7 @@ alt="Components Banners Banners Edit screen" />
 
 ### Gegevens (zijbalk)
 
-**Linker venster**
+#### Linker venster
 
 - **Type**. Het type advertentie dat getoond wordt. Opties zijn een
   afbeeldingsbestand of aangepaste HTML code.
@@ -80,7 +80,7 @@ alt="Components Banners Banners Edit screen" />
   gebruiker op de advertentie klikt.
 - **Description**. Enter a description for the Banner.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Status**. De publicatiestatus van het item.
 - **Kleven**. *(Ja of Nee)* Of al dan niet de advertentie "kleeft". Als

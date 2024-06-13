@@ -71,7 +71,7 @@ hierboven. De functies zijn:
   gesorteerd worden. De waarden zijn hetzelfde als de namen van de
   kolomkoppen.
 
-**Filter Options:**
+#### Filter Options:
 
 - **Selecteer status**. Selecteer uit Naar prullenbak / Gedepubliceerd /
   Gepubliceerd / Gearchiveerd / Alles.

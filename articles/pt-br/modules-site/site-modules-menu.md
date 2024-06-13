@@ -31,7 +31,7 @@ title="File:Help-4x-modules-site-module-manager-module-menu-pt-br.png">800px</a>
 
 ### Aba (guia) Módulo
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **Selecionar menu**: (*Sobre o Joomla!*/*Parques
   australianos*/*Frutaria*/*Menu principal*/*Topo*/*Menu do usuário*).
@@ -56,7 +56,7 @@ title="File:Help-4x-modules-site-module-manager-module-menu-pt-br.png">800px</a>
 - **Mostrar itens submenus**: (*Mostrar*/*ocultar*). Expande o menu e
   torna seus itens que são submenus sempre visíveis.
 
-**Painel direito**
+#### Painel direito
 
 - **Mostrar título**: (Mostrar/Ocultar) Escolhe se mostra ou oculta o
   título dos módulos no front-end. O título será aquele no campo do

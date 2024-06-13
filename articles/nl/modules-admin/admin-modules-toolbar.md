@@ -32,12 +32,12 @@ alt="modules administrator module manager module toolbar" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Informatie.** Deze module toont de werkbalkiconen waarmee acties op
   het administratiegedeelte uitgevoerd kunnen worden.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

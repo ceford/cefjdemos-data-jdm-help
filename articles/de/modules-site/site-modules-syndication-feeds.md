@@ -33,7 +33,7 @@ alt="modules site module manager module syndication feeds" />
 
 ### Modul
 
-**Linke Seite**
+#### Linke Seite
 
 - **Label:** Wenn „Label anzeigen“ aktiviert ist, wird der hier
   eingegebene Text neben dem Symbol zusammen mit dem RSS-Link angezeigt.
@@ -44,7 +44,7 @@ alt="modules site module manager module syndication feeds" />
 - **Feed Format:** (*RSS 2.0*/*Atom 1.0*). Das Format für den
   Syndication-Feed auswählen.
 
-**Rechte Seite**
+#### Rechte Seite
 
 - **Titel anzeigen** (*Anzeigen*/*Verbergen*). Zeigt den Titel des
   Moduls an oder unterdrückt die Anzeige im Frontend. Der angezeigte

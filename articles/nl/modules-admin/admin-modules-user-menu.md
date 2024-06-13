@@ -35,11 +35,11 @@ alt="modules administrator module user menu" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Informatie.** Deze module toont het gebruikersmenu.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

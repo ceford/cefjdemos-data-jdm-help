@@ -39,7 +39,7 @@ alt="modules site module manager module articles related articles" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 Deze module toont artikelen die gerelateerd zijn aan degene die
 momenteel bekeken wordt. Deze relaties worden bepaald op basis van de
@@ -50,7 +50,7 @@ met alle andere gepubliceerde..
 - **Maximum aantal artikelen:** Het maximum aantal gerelateerde
   artikelen dat getoond wordt (standaard is 5)
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

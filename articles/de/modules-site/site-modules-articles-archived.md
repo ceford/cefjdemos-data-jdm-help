@@ -36,7 +36,7 @@ alt="modules site module manager module archived articles" />
 
 - **\# Monate**. Die Anzahl angezeigter Monate (Standard ist 10).
 
-**Rechte Seite**
+#### Rechte Seite
 
 - **Titel anzeigen** (*Anzeigen*/*Verbergen*). Zeigt den Titel des
   Moduls an oder unterdrückt die Anzeige im Frontend. Der angezeigte

@@ -11,8 +11,7 @@ systems. All Articles must be assigned either to a parent Category or a
 child Category.
 
 ## Comment y accéder ?
-
-**Panneau d'administration → Site → Catégories d’articles**
+Seleccionar **Panneau d'administration → Site → Catégories d’articles**
 
 To add a Category:
 

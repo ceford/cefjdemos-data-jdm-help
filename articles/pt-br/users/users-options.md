@@ -13,8 +13,7 @@ incluem
   muito mais.
 
 ## Como acessar
-
-**Usuários → Gerenciar**
+Selecione **Usuários → Gerenciar**
 
 - Selecione o botão **Opções** na barra de ferramentas.
 

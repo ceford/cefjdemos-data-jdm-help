@@ -12,8 +12,7 @@ Let op dat artikelen gekoppeld aan de 'Niet gecategoriseerd' categorie
 niet getoond wordt in de lijst met gearchiveerde artikelen.
 
 ## Hoe toegang te krijgen
-
-**Menu's → \[naam van het menu\]**
+Selecteer **Menu's → \[naam van het menu\]**
 
 Om een menu-item aan te maken:
 
@@ -45,7 +44,7 @@ alt="Menus Item Articles Article Archived screen" />
 
 ### Details
 
-**Linker venster**
+#### Linker venster
 
 - **Menu-itemtype**. Het menu-item type dat geselecteerd is toen het
   mneu-item aangemaakt werd. Dit kan een van de core menu-item types
@@ -56,7 +55,7 @@ alt="Menus Item Articles Article Archived screen" />
 - **Doelvenster**. Selecteer uit de uitklaplijst.
 - **Templatestijl**. Selecteer uit de uitklaplijst.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Menu**. Toont in welk menu de link zal verschijnen.
 
@@ -117,7 +116,7 @@ srcset="https://docs.joomla.org/images/thumb/9/98/Help-4x-Menus-Item-Articles-Ar
 data-file-width="2880" data-file-height="1340" width="600" height="279"
 alt="Menus Item Articles Article Archived options subscreen" />
 
-**Weergave**
+#### Weergave
 
 - **Introtekst**.
   - Toon: De Introtekst van het artikel wordt getoond als men naar het
@@ -135,7 +134,7 @@ alt="Menus Item Articles Article Archived options subscreen" />
 - **Titel artikelinformatie**. Toont 'Details' boven het
   artikelinformatie gedeelte.
 
-**Categorie**
+#### Categorie
 
 - **Categorie**. Toont de categorietitel van een artikel.
 - **Link categorie**. Toont de titel als link naar die categorie.Let op:
@@ -152,7 +151,7 @@ alt="Menus Item Articles Article Archived options subscreen" />
   optie op het categorie tabblad.
 - **Gelinkte titels**. Toont de titel als link naar het artikel.
 
-**Auteur**
+#### Auteur
 
 - **Auteur**. Toont de auteur van een artikel.
 - **Link naar de contactpagina van de auteur**. Toont het als link naar
@@ -163,13 +162,13 @@ alt="Menus Item Articles Article Archived options subscreen" />
   alias
   waarde voor het artikel is.
 
-**Datum**
+#### Datum
 
 - **Aanmaakdatum**. Toont de aanmaakdatum van een artikel.
 - **Aanpassingsdatum**. Toont de aanpassingsdatum van een artikel.
 - **Publicatiedatum**. Toont de publicatiedatum van een artikel.
 
-**Opties**
+#### Opties
 
 - **Navigatie**. Toont een navigatie link 'vorige' of 'volgende' indien
   door artikelen gebladerd wordt.

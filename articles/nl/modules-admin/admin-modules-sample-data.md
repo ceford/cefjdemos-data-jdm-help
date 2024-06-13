@@ -31,11 +31,11 @@ alt="modules manager admin module sample data screen" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Informatie.** Deze module laat u voorbeelddata installeren..
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

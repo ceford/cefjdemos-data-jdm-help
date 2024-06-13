@@ -30,7 +30,7 @@ title="File:Help-4x-modules-site-module-manager-module-articles-latest-pt-br.png
 
 ### Aba (guia) Módulo
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **Categoria**: Seleciona artigos em uma ou mais categorias. Se não
   houver nenhuma seleção, todas as categorias serão mostradas como
@@ -51,7 +51,7 @@ artigos usando suas datas de modificação ou criação.
 - **Autores**: (*Qualquer pessoa*/*adicionado ou modificado por
   mim*/*não adicionado ou modificado por mim*). Filtra por autores.
 
-**Painel direito**
+#### Painel direito
 
 - **Mostrar título**: (Mostrar/Ocultar) Escolhe se mostra ou oculta o
   título dos módulos no front-end. O título será aquele no campo do

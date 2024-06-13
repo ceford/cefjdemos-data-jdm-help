@@ -12,8 +12,7 @@ voorbeeld-schermen getoond uit de volgende [schermvoorbeeld](#frontend)
 sectie.
 
 ## Hoe toegang te krijgen
-
-**Menu's → \[naam van het menu\]**
+Selecteer **Menu's → \[naam van het menu\]**
 
 Om een menu-item aan te maken:
 
@@ -45,7 +44,7 @@ alt="Menus Item Articles Create Article screen" />
 
 ### Details
 
-**Linker venster**
+#### Linker venster
 
 - **Menu-itemtype**. Het menu-item type dat geselecteerd is toen het
   mneu-item aangemaakt werd. Dit kan een van de core menu-item types
@@ -55,7 +54,7 @@ alt="Menus Item Articles Create Article screen" />
 - **Doelvenster**. Selecteer uit de uitklaplijst.
 - **Templatestijl**. Selecteer uit de uitklaplijst.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Menu**. Toont in welk menu de link zal verschijnen.
 
@@ -114,7 +113,7 @@ afbeelding hierboven.
 
 nl
 
-**Inhoud**
+#### Inhoud
 
 <img
 src="https://docs.joomla.org/images/thumb/d/d2/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-nl.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-nl.png"
@@ -123,7 +122,7 @@ srcset="https://docs.joomla.org/images/thumb/d/d2/Help-4x-Menus-Item-Articles-Cr
 data-file-width="1731" data-file-height="1278" width="600" height="443"
 alt="Menus Item Articles Create Article frontend content" />
 
-**Velden**
+#### Velden
 
 <img
 src="https://docs.joomla.org/images/thumb/5/53/Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-nl.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-nl.png"
@@ -132,7 +131,7 @@ srcset="https://docs.joomla.org/images/thumb/5/53/Help-4x-Menus-Item-Articles-Cr
 data-file-width="1728" data-file-height="481" width="600" height="167"
 alt="Menus Item Articles Create Article frontend fields" />
 
-**Publicatie**
+#### Publicatie
 
 <img
 src="https://docs.joomla.org/images/thumb/5/5b/Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-nl.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-nl.png"
@@ -141,7 +140,7 @@ srcset="https://docs.joomla.org/images/thumb/5/5b/Help-4x-Menus-Item-Articles-Cr
 data-file-width="1729" data-file-height="1116" width="600" height="387"
 alt="Menus Item Articles Create Article frontend publishing" />
 
-**Taal**
+#### Taal
 
 <img
 src="https://docs.joomla.org/images/thumb/c/ca/Help-4x-Menus-Item-Articles-Create-Article-frontend-language-nl.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-language-nl.png"

@@ -5,7 +5,7 @@
 Op dit scherm kunt u een informatieverzoek en het bijbehorende actie log
 bekijken.
 
-**Handleidingen**
+#### Handleidingen
 
 - Privacy overzicht - Inhoud en
   workflow

@@ -66,7 +66,7 @@ im oberen Bereich.
   Konfiguration
   geändert werden.
 
-**Filter-Optionen**
+#### Filter-Optionen
 
 - ***- Status wählen -*** Zeigt Einträge an, die „Veröffentlicht“ oder
   „Versteckt“ sind. Zeigt *nicht* Einträge an, die im Papierkorb oder

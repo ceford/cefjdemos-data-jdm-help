@@ -36,7 +36,7 @@ alt="modules site module manager module articles related articles" />
 
 ### Guia Módulo
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 Este módulo exibe outros artigos relacionados ao que está sendo
 visualizado no momento. Essas relações são estabelecidas pelas
@@ -48,7 +48,7 @@ artigos publicados...
 - **Máximo de artigos**: O número máximo de artigos relacionados a serem
   exibidos (o padrão é 5)
 
-**Painel direito**
+#### Painel direito
 
 - **Mostrar título**: (Mostrar/Ocultar) Escolhe se mostra ou oculta o
   título dos módulos no front-end. O título será aquele no campo do

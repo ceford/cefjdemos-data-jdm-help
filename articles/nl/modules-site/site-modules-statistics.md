@@ -33,7 +33,7 @@ alt="modules site module manager module statistics" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Serverinformatie:** (*Toon*/*Verberg*). Toon serverinformatie.
 - **Website-informatie:** (*Toon*/*Verberg*). Toon site rinformatie.
@@ -41,7 +41,7 @@ alt="modules site module manager module statistics" />
 - **Verhoog teller:** Voer het aantal in waarmee de hits teller verhoogd
   moet worden.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

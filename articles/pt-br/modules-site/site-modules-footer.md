@@ -30,12 +30,12 @@ title="File:Help-4x-modules-site-module-manager-module-footer-pt-br.png">800px</
 
 ### Aba (guia) Módulo
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **Rodapé**: Indicador e texto do site: *Este módulo mostra as
   informações sobre os direitos autorais do Joomla!*.
 
-**Painel direito**
+#### Painel direito
 
 - **Mostrar título**: (Mostrar/Ocultar) Escolhe se mostra ou oculta o
   título dos módulos no front-end. O título será aquele no campo do

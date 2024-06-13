@@ -35,7 +35,7 @@ title="File:Help-4x-modules-site-module-manager-module-archived-articles-pt-br.p
 - **\# dos meses**: O número dos meses (quantidade) a serem mostrados (o
   padrão é 10)
 
-**Painel direito**
+#### Painel direito
 
 - **Mostrar título**: (Mostrar/Ocultar) Escolhe se mostra ou oculta o
   título dos módulos no front-end. O título será aquele no campo do

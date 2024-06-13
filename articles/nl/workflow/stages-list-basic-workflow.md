@@ -101,7 +101,7 @@ height="61" alt="colheader filter field" />
   veranderen. Als u te veel complexe items selecteert dan worden ze
   traag getoond.
 
-**Filteropties**
+#### Filteropties
 
 - **Filter op publicatie-status.**
 

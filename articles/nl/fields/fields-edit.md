@@ -10,8 +10,7 @@ artikelcategorieën.
 The helpscreen show as example Users.
 
 ## Hoe toegang te krijgen
-
-**Gebruikers → Velden**
+Selecteer **Gebruikers → Velden**
 
 Om een veld aan te maken:
 
@@ -36,7 +35,7 @@ alt="Fields Edit screen" />
 
 ### Algemeen
 
-**Linker venster**
+#### Linker venster
 
 Parameters voor alle extra velden:
 
@@ -61,7 +60,7 @@ Parameters voor alle extra velden:
   ingevuld worden voor het verzenden van een artikel, contactpersoon of
   component van derden die speciale velden ondersteunt.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Status**. De publicatiestatus van dit veld.
   - Gepubliceerd: Het veld is zichtbaar bij het bewerken van een artikel
@@ -104,7 +103,7 @@ srcset="https://docs.joomla.org/images/thumb/e/e3/Help-4x-Fields-Edit-options-su
 data-file-width="2880" data-file-height="1378" width="600" height="287"
 alt="Fields Edit options subscreen" />
 
-**Veld opties**
+#### Veld opties
 
 - **Tijdelijke aanduiding**. Een tijdelijke tekst die verschijnt binnen
   het extra veld als hint voor de invoer. De tijdelijke aanduiding is in
@@ -145,7 +144,7 @@ instead of *list-of-items*, where ID is the id of the field
 field you are creating need be: `field36:value1[OR]field36:value2` where
 36 is the ID of the field 'List of items'.
 
-**Weergave opties**
+#### Weergave opties
 
 - **Toon class**. De class van de veld container in de uitvoer.
 - **Waarde class**. De class van de veldwaarde in de uitvoer.

@@ -33,13 +33,14 @@ alt="modules administrator module manager logged in users" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Te tonen gebruikers.** Het aantal weer te geven items (standaard is
   5).
 
 **Naam.** (*Naam*/*Gebruikersnaam*) Toont de naam of gebruikersnaam.
-**Rechter venster**
+
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

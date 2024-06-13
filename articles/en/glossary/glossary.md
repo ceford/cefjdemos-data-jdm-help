@@ -129,7 +129,7 @@ the functionality of a basic Joomla installation. These core's
 extensions should not be confused with extensions which are available
 for downloading from the JED (Joomla! Extension Directory).
 
-**See also:**
+#### See also:
 <a href="http://extensions.joomla.org/" class="external text"
 target="_blank" rel="noreferrer noopener">Joomla Extension Directory</a>.
 

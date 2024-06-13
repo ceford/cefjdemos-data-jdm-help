@@ -61,7 +61,7 @@ srcset="https://docs.joomla.org/images/thumb/8/88/Help-4x-Components-Tags-Tags-E
 data-file-width="1271" data-file-height="807" width="800" height="508"
 alt="Components Tags Tags Edit Options Details Tab" />
 
-**Opties venster**
+#### Opties venster
 
 - **Weergave**. Gebruik een layout uit de beschikbare componentweergave
   of overschrijft de templates.
@@ -69,7 +69,7 @@ alt="Components Tags Tags Edit Options Details Tab" />
   taglink. Indien niets is ingevuld wordt 'label label-info' toegevoegd
   door de standaard tagweergave.
 
-**Afbeeldingen venster**
+#### Afbeeldingen venster
 
 - **Teaser afbeelding.** De afbeelding die wordt weergegeven als deel
   van een lijst.

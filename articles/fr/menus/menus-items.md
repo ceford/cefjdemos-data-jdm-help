@@ -62,7 +62,7 @@ Screenshot above. The functions are:
 - **Ordering:** (default). The column in which to sort displayed items
   in the table. The values are the same as the column heading names.
 
-**Filter Options:**
+#### Filter Options:
 
 - **Select Status**. Select from Trashed / Unpublished / Published /
   Archived / All.

@@ -31,7 +31,7 @@ title="File:Help-4x-modules-site-module-manager-module-language-switcher-pt-br.p
 
 ### Aba (guia) Módulo
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **Pré-texto**: Este é o texto ou a HTML que aparece acima do
   alternador para linguagens.
@@ -49,7 +49,7 @@ title="File:Help-4x-modules-site-module-manager-module-language-switcher-pt-br.p
 - **Linguagem ativa**: (*Sim*/*não*). Mostrar ou não a linguagem ativa.
   Se for mostrada, a classe "lang-active" será adicionada ao elemento.
 
-**Painel direito**
+#### Painel direito
 
 - **Mostrar título**: (Mostrar/Ocultar) Escolhe se mostra ou oculta o
   título dos módulos no front-end. O título será aquele no campo do

@@ -7,8 +7,7 @@ for Media. Control the file types allowed for uploading, MIME type
 check, MIME type blacklisting, and more options.
 
 ## Как открыть
-
-**Контент → Медиа-менеджер**
+Выбирать **Контент → Медиа-менеджер**
 
 - click the **Options** toolbar button
 

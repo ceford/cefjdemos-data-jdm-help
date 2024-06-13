@@ -109,7 +109,7 @@ U kunt één van de beschikbare filters gebruiken of een combinatie ervan
 om het aantal plugines dat getoond wordt te beperken tot uw
 filter-parameters.
 
-**Filteropties**
+#### Filteropties
 
 - **Selecteer status.** Select een status (Ingeschakeld of
   Uitgeschakeld) uit de drop-down lijst om alleen plugins met de

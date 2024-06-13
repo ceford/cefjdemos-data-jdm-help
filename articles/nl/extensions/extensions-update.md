@@ -82,7 +82,7 @@ bovenstaande Screenshot.
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
   voor een site is '20' maar dit kan veranderd worden bij de
 
-**Filteropties**
+#### Filteropties
 
 - **Selecteer locatie.** Selecteer Site, Beheerder of API uit de
   drop-down lijst van de beschikbare locaties.

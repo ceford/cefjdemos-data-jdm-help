@@ -45,7 +45,7 @@ Click on the column heading to sort the list by that column's value.
 
 ## List Filters
 
-**Filter by Site or Administrator**
+#### Filter by Site or Administrator
 
 - **Site.** Shows the installed Languages for the Frontend part. Here
   you can set the default language for the Frontend of your Joomla

@@ -7,8 +7,7 @@ for Media. Control the file types allowed for uploading, MIME type
 check, MIME type blacklisting, and more options.
 
 ## Comment y accéder ?
-
-**Contenus → Médias**
+Sélectionner **Contenus → Médias**
 
 - Cliquez sur le bouton **Paramètres** dans la barre d'outils.
 

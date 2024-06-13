@@ -51,7 +51,7 @@ srcset="https://docs.joomla.org/images/thumb/4/47/Help-4x-Components-Finder-Mana
 data-file-width="1214" data-file-height="423" width="800" height="279"
 alt="Components Finder Manage Search Filters subscreen Options tab" />
 
-**Publicatie venster**
+#### Publicatie venster
 
 - **Aanmaakdatum.** Datum dat het item (artikel, categorie, weblink,
   etc.) aangemaakt is.
@@ -66,7 +66,7 @@ alt="Components Finder Manage Search Filters subscreen Options tab" />
 - **Aangepast door:** *(alleen ter informatie)* Gebruikersnaam wie de
   laatste aanpassing heeft gedaan.
 
-**Tijdlijn filter venster**
+#### Tijdlijn filter venster
 
 - **Wanneer (begindatum).** Hoe moet er relatief tot de begindatum
   gezocht worden (voor, na of exact).

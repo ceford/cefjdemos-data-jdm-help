@@ -10,8 +10,7 @@ hebben het laagste niveau binnen de hiërarchie van de inhoud. Een
 artikel een onderdeel van één enkele categorie.
 
 ## Hoe toegang te krijgen
-
-**Controlepaneel → Site → Artikelen**
+Selecteer **Controlepaneel → Site → Artikelen**
 
 Om een artikel aan te maken:
 

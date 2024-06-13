@@ -6,7 +6,7 @@ Dit scherm toont de ontvangen privacy informatie verzoeken, die bekeken
 kunnen worden. Het kan ook gebruikt worden om nieuwe verzoeken aan te
 maken.
 
-**Handleidingen**
+#### Handleidingen
 
 - Privacy overzicht - Inhoud en
   workflow

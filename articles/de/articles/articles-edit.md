@@ -13,8 +13,7 @@ sein, dass eine bestimmte Kategorie oder beitragsspezifische Metadaten
 festgelegt werden sollen.
 
 ## Wie darauf zugreifen
-
-**Inhalt → Beiträge**
+Wählen **Inhalt → Beiträge**
 
 Einen Beitrag hinzufügen:
 
@@ -39,9 +38,10 @@ alt="content article manager add new article" />
 - **Alias**. Der interne Name des Beitrages. Das Feld kann leergelassen
   werden und Joomla wird den Standardwert Titel in Kleinbuchstaben und
   Bindestrichen statt Leerzeichen eintragen.
+
 ### Inhalt
 
-**Linke Seite**
+#### Linke Seite
 
 - **Beitragsinhalt**. Den Inhalt des Beitrages eingeben. Joomla hat 3
   Editoren, der Standard-Editor - TinyMCE
@@ -61,13 +61,12 @@ Felder, Kontakt, Medien, Menü oder Modul.
   Keiner
   gewechselt werden.
 
-**Rechte Seite**
+#### Rechte Seite
 
 - **Status**. Der Veröffentlichungs-Status des Beitrages.
   - Veröffentlicht: Der Beitrag ist im Frontend der Seite sichtbar.
   - Versteckt: Der Beitrag ist im Frontend der Seite für Besucher nicht
-    sichtbar. Für angemeldete Benutzer mit der Berechtigung [„Status
-    bearbeiten“](#permissions) ist der Beitrag sichtbar.
+    sichtbar.
   - Archiviert: Der Beitrag wird nicht mehr in
     Kategorieblog-
     oder
@@ -102,9 +101,7 @@ Felder, Kontakt, Medien, Menü oder Modul.
 ### Bilder und Links
 
 **Hinweis**: Dieser Abschnitt kann von einem Benutzer mit
-Administrator-Rechten in Beiträge:
-Optionen
-ausgeblendet werden.
+Administrator-Rechten in Beiträge: Optionen ausgeblendet werden.
 Dieser Teil zeigt in Beiträgen, Bilder und Links in standardisierten
 Layouts.
 
@@ -115,7 +112,7 @@ srcset="https://docs.joomla.org/images/thumb/6/61/Help-4x-screenshot-article-edi
 data-file-width="2880" data-file-height="1166" width="600" height="243"
 alt="screenshot article edit images links" />
 
-**Einleitungsbild**
+#### Einleitungsbild
 
 - **Einleitungsbild**. Auf den Auswählen-Button klicken, um das Bild an
   eine fixen Stelle im Einleitungstext des Beitrages anzuzeigen. Ein
@@ -132,11 +129,9 @@ alt="screenshot article edit images links" />
 - **CSS-Klasse Bild**. Es kann eine beliebige CSS-Klasse für eigene
   Styling-Ideen hinzugefügt werden. Für die Bildposition kann zum
   Beispiel „float-start“ und „float-end“ verwendet werden.
-  <a href="https://cassiopeia.joomla.com/help" class="external text"
-  target="_blank" rel="nofollow noreferrer noopener">Mehr erfahren.</a>
 - **Bildunterschrift**. Eine Bildunterschrift für das Bild eingeben.
 
-**Komplettes Beitragsbild**
+#### Komplettes Beitragsbild
 
 - **Komplettes Beitragsbild**. Auf den Auswählen-Button klicken, um das
   Bild an eine fixen Stelle des Beitrages anzuzeigen. Ein Fenster wird
@@ -153,15 +148,13 @@ alt="screenshot article edit images links" />
 - **CSS-Klasse Bild**. Es kann eine beliebige CSS-Klasse für eigene
   Styling-Ideen hinzugefügt werden. Für die Bildposition kann zum
   Beispiel „float-start“ und „float-end“ verwendet werden.
-  <a href="https://cassiopeia.joomla.com/help" class="external text"
-  target="_blank" rel="nofollow noreferrer noopener">Mehr erfahren.</a>
 - **Bildunterschrift**. Eine Bildunterschrift für das Bild eingeben.
 
-**Link A**
+#### Link A
 
 - **Link A**. Die URL des ersten Links, der an einer fixen Stelle eines
   Beitrages angezeigt wird. Es muß eine absolute, keine relative URL
-  sein. Zum Beispiel beginnt sie mit 'https://'.
+  sein. Zum Beispiel beginnt sie mit `https:`.
 - **Linktext A**. Der Text des Link A. Wenn leer, wird die URL
   angezeigt.
 - **URL-Zielfenster**. Bestimmt den Standard-Wert für das Ziel des
@@ -176,12 +169,10 @@ alt="screenshot article edit images links" />
 
 **Link B**, **Link C**: Dieselben Optionen wie Link A.
 
-### Optionen
+### Optionen tab
 
 **Hinweis**: Dieser Abschnitt kann von einem Benutzer mit
-Administrator-Rechten in Beiträge:
-Optionen
-ausgeblendet werden.
+Administrator-Rechten in Beiträge: Optionen ausgeblendet werden.
 Optionen, um das Aussehen eines Beitrages im Frontend einzustellen.
 
 <img
@@ -191,7 +182,7 @@ srcset="https://docs.joomla.org/images/thumb/1/15/Help-4x-screenshot-article-edi
 data-file-width="2880" data-file-height="1168" width="600" height="243"
 alt="screenshot article edit article options" />
 
-**Layout**
+#### Layout
 
 - **Layout**. Unterschiedliche Layouts der Beitragsansicht oder
   Override im
@@ -216,7 +207,7 @@ alt="screenshot article edit article options" />
 - **Beitragsinfotitel**. Zeigt 'Details' über dem Block der
   Beitragsinformation an.
 
-**Kategorie**
+#### Kategorie
 
 - **Kategorie**. Den Kategorietitel des Beitrags zeigen.
 - **Kategorie verlinken**. Den Kategorietitel als Link zeigen.
@@ -225,13 +216,11 @@ alt="screenshot article edit article options" />
 - **Übergeordnete Kategorie verlinken**. Den Kategorietitel als Link
   zeigen.
 
-**Verknüpfungen**
+#### Verknüpfungen
 
-- **Verknüpfungen**. Zeigt verknüpfte Flaggen oder den Sprachcode. [Nur
-  bei mehrsprachigen
-  Seiten](https://docs.joomla.org/Help4.x:Multilingual_Associations/de "Help4.x:Multilingual Associations/de").
+- **Verknüpfungen**. Zeigt verknüpfte Flaggen oder den Sprachcode.
 
-**Autor**
+#### Autor
 
 - **Autor**. Zeigt den Autor des Beitrags.
 - **Autor verlinken**. Zum Kontakt des Autors verlinken.Hinweis: Der
@@ -239,14 +228,14 @@ alt="screenshot article edit article options" />
   Kontakt
   angelegt sein.
 
-**Datum**
+#### Datum
 
 - **Erstellungsdatum**. Das Erstellungsdatum des Beitrages zeigen.
 - **Bearbeitungsdatum**. Das Bearbeitungsdatum des Beitrages zeigen.
 - **Veröffentlichungsdatum**. Das Veröffentlichungsdatum des Beitrages
   zeigen.
 
-**Optionen**
+#### Optionen
 
 - **Seitennavigation**. Zeigt die Navigationslinks 'Zurück' oder
   'Weiter', wenn der Beitrag gezeigt wird.
@@ -276,15 +265,11 @@ srcset="https://docs.joomla.org/images/thumb/1/1a/Help-4x-Content-Article-Manage
 data-file-width="2880" data-file-height="658" width="600" height="137"
 alt="Content Article Manager Edit Fields options subscreen" />
 
-### Veröffentlichung
+### Veröffentlichung tab
 
 **Hinweis**: Dieser Abschnitt kann von einem Benutzer mit
-Administrator-Rechten in Beiträge:
-Optionen
-ausgeblendet werden.
-Dieser Teil erlaubt die Eingabe von Parametern und
-Metadaten
-des Beitrages.
+Administrator-Rechten in Beiträge: Optionen ausgeblendet werden.
+Dieser Teil erlaubt die Eingabe von Parametern und Metadaten des Beitrages.
 
 <img
 src="https://docs.joomla.org/images/thumb/6/68/Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-de.png/600px-Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-de.png"
@@ -293,7 +278,7 @@ srcset="https://docs.joomla.org/images/thumb/6/68/Help-4x-Content-Article-Manage
 data-file-width="2880" data-file-height="1167" width="600" height="243"
 alt="Content Article Manager Edit publishing options subscreen" />
 
-**Veröffentlichung**
+#### Veröffentlichung
 
 - **Veröffentlichung starten**. Datum und Uhrzeit, um die
   Veröffentlichung zu starten. Der Beitrag kann vor der Zeit erstellt
@@ -323,7 +308,7 @@ alt="Content Article Manager Edit publishing options subscreen" />
   nicht geändert werden kann. Beim Erstellen eines neuen Beitrags zeigt
   das Feld „0“ an, bis man speichert.
 
-**Metadaten**
+#### Metadaten
 
 - **Meta-Beschreibung**. Ein Absatz zur Beschreibung der Seite. Mehr
   erfahren.
@@ -337,15 +322,11 @@ alt="Content Article Manager Edit publishing options subscreen" />
 - **Inhaltsrechte**. Legt fest, welche Rechte andere Personen beim
   Gebrauch dieses Beitragsinhalts haben.
 
-### Verknüpfungen
+### Verknüpfungen tab
 
 **Hinweis**: Dieser Abschnitt kann von einem Benutzer mit
-Administrator-Rechten in Beiträge:
-Optionen
-ausgeblendet werden.
-Der Tab wird nur bei Mehrsprachigen
-Seiten
-gezeigt.
+Administrator-Rechten in Beiträge: Optionen ausgeblendet werden.
+Der Tab wird nur bei Mehrsprachigen Seiten gezeigt.
 
 <img
 src="https://docs.joomla.org/images/thumb/1/12/Help-4x-screenshot-article-edit-associations-de.png/600px-Help-4x-screenshot-article-edit-associations-de.png"
@@ -357,9 +338,7 @@ alt="screenshot article edit associations" />
 ### Konfigurieren des Editorfensters
 
 **Hinweis**: Dieser Abschnitt kann von einem Benutzer mit
-Administrator-Rechten in Beiträge:
-Optionen
-ausgeblendet werden.
+Administrator-Rechten in Beiträge: Optionen ausgeblendet werden.
 
 <img
 src="https://docs.joomla.org/images/thumb/8/86/Help-4x-screenshot-article-edit-configure-edit-screen-de.png/600px-Help-4x-screenshot-article-edit-configure-edit-screen-de.png"
@@ -369,16 +348,13 @@ data-file-width="2880" data-file-height="987" width="600" height="206"
 alt="screenshot article edit configure edit screen" />
 
 - **Veröffentlichungsparameter anzeigen**. Ist 'Verbergen' gewählt, wird
-  der Tab
-  Veröffentlichung
+  der Tab Veröffentlichung
   im Backend nicht gezeigt. Benutzer des Backends können die Felder des
   Tabs nicht bearbeiten. Den Feldern werden immer Standardwerte
   zugeordnet.
 - **Beitragseinstellungen anzeigen**. Ist 'Verbergen' gewählt, wird der
-  Tab
-  Optionen
-  im Backend nicht gezeigt. Benutzer des Backends können die Felder des
-  Tabs nicht bearbeiten. Den Feldern werden immer Standardwerte
+  Tab Optionen im Backend nicht gezeigt. Benutzer des Backends können die
+  Felder des Tabs nicht bearbeiten. Den Feldern werden immer Standardwerte
   zugeordnet.
 - **Bilder und Links im Backend**. Ist 'Ja' gewählt, wird der Tab
   Bilder und
@@ -390,9 +366,7 @@ alt="screenshot article edit configure edit screen" />
 ### Berechtigungen
 
 **Hinweis**: Dieser Abschnitt kann von einem Benutzer mit
-Administrator-Rechten in Beiträge:
-Optionen
-ausgeblendet werden.
+Administrator-Rechten in Beiträge: Optionen ausgeblendet werden.
 Hier können die Berechtigungen für den Beitrag eingegeben werden. Mehr
 erfahren.
 
@@ -414,11 +388,7 @@ Um Berechtigungen dieses Beitrages zu ändern:
       ändern.
 3.  Die Berechtigungen der gewählten Aktion wählen.
     - **Vererbt**. Berechtigungen für Benutzer der Gruppe werden von der
-      Konfiguration,
-      den
-      Beitrags-Optionen
-      oder der
-      Beitrags-Kategorie
+      Konfiguration, den Beitrags-Optionen oder der Beitrags-Kategorie
       vererbt.
     - **Erlaubt**. Für Benutzer dieser Gruppe erlaubt.Hinweis: Wenn die
       Aktion auf einer höheren Ebene 'Verweigert' wird, ist die

@@ -87,7 +87,7 @@ bovenstaande Screenshot.
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
   voor een site is '20' maar dit kan veranderd worden bij de
 
-**Filteropties**
+#### Filteropties
 
 - **Selecteer status.** Gebruik de dropdown keuzelijst om een
   publiceerstatus toe te kennen: Gepubliceerd, Gedepubliceerd, Naar de

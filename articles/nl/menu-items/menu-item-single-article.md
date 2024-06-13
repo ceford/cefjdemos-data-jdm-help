@@ -6,8 +6,7 @@ Het 'Individueel artikel' menu-itemtype wordt gebruikt om één artikel op
 de website te tonen.
 
 ## Hoe toegang te krijgen
-
-**Menu's → \[naam van het menu\]**
+Selecteer **Menu's → \[naam van het menu\]**
 
 Om een menu-item aan te maken:
 
@@ -39,7 +38,7 @@ alt="Menus Item Articles Single Article screen" />
 
 ### Details
 
-**Linker venster**
+#### Linker venster
 
 - **Menu-itemtype**. Het menu-item type dat geselecteerd is toen het
   mneu-item aangemaakt werd. Dit kan een van de core menu-item types
@@ -57,7 +56,7 @@ alt="Menus Item Articles Single Article screen" />
 - **Doelvenster**. Selecteer uit de uitklaplijst.
 - **Templatestijl**. Selecteer uit de uitklaplijst.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Menu**. Toont in welk menu de link zal verschijnen.
 
@@ -79,7 +78,7 @@ is, dan worden de instellingen van de Artikelbeheer
 opties
 gebruikt.
 
-**Weergave**
+#### Weergave
 
 - **Titel**. Het al dan niet tonen van de titel van het artikel.
 - **Gelinkte titels**. Als de titel van het artikel wordt getoond, het
@@ -97,7 +96,7 @@ gebruikt.
 - **Titel artikelinformatie**. Toont de titel van de 'artikelinformatie'
   boven het artikelinformatie gedeelte.
 
-**Categorie**
+#### Categorie
 
 - **Toon categorie**. Het al dan niet tonen van de categorie van een
   artikel.
@@ -112,12 +111,12 @@ gebruikt.
   this to be either a blog or list layout with the Choose a Layout
   option in the Category Tab.
 
-**Associaties**
+#### Associaties
 
 - **Koppelingen**. Alleen meertalig. Als deze op Toon staat worden de
   gekoppelde artikel vlaggen of URL taalcodes getoond. Multilingual only.
 
-**Auteur**
+#### Auteur
 
 - nl
 - nlNote: The author must be set up as a
@@ -125,13 +124,13 @@ gebruikt.
   Also, a link will not show if there is an Author Alias
   value for the article.
 
-**Datum**
+#### Datum
 
 - nl
 - nl
 - nl
 
-**Opties**
+#### Opties
 
 - nl
 - nl

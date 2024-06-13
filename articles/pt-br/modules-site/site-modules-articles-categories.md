@@ -31,7 +31,7 @@ title="File:Help-4x-modules-site-module-manager-module-articles-categories-pt-br
 
 ### Aba (guia) Módulo
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **Categoria superior (principal, pai)**: (*Artigos-dados para
   amostra*/*Joomla!*/*Extensões*/*Componentes*/*Módulos*/*Módulos do
@@ -50,7 +50,7 @@ title="File:Help-4x-modules-site-module-manager-module-articles-categories-pt-br
   *6*/...). Selecione aqui o nível máximo da profundidade para cada
   subcategoria. O padrão é todos.
 
-**Painel direito**
+#### Painel direito
 
 - **Título**: O título do módulo. Este também é o título exibido para o
   módulo dependendo do campo *Mostrar título* do formulário

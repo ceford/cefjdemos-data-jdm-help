@@ -31,7 +31,7 @@ alt="modules administrator module manager module administrator menu" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Te tonen menu.**
 - **Gebruik voorinstelling.** Gebruik een vooraf ingesteld menu als
@@ -42,7 +42,7 @@ alt="modules administrator module manager module administrator menu" />
   forum dan het standaard forum. Dit stelt u in staat een eigen
   help-server te gebruiken.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

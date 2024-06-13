@@ -5,8 +5,7 @@
 Der Menüeintrag zeigt alle Hauptbeiträge in einem Blog-Layout.
 
 ## Wie darauf zugreifen
-
-**Menüs → \[Name des Menüs\]**
+Wählen **Menüs → \[Name des Menüs\]**
 
 Einen Menüeintrag hinzufügen:
 

@@ -30,7 +30,7 @@ title="File:Help-4x-modules-site-module-manager-module-syndication-feeds-pt-br.p
 
 ### Aba (guia) Módulo
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **Rótulo**: Se "Exibir rótulo" estiver ativado, o texto inserido aqui
   será exibido ao lado do ícone junto com o link RSS. Se este campo for
@@ -41,7 +41,7 @@ title="File:Help-4x-modules-site-module-manager-module-syndication-feeds-pt-br.p
 - **Formato do feed**: (*RSS 2.0*/*Atom 1.0*). Seleciona o formato do
   feed para distribuição.
 
-**Painel direito**
+#### Painel direito
 
 - **Mostrar título**: (Mostrar/Ocultar) Escolhe se mostra ou oculta o
   título dos módulos no front-end. O título será aquele no campo do

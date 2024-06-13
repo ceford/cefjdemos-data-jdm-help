@@ -8,8 +8,7 @@ permitidos para envio, verificação do tipo das MIME, lista negra para
 tipo das MIME e mais opções.
 
 ## Como acessar
-
-**CConteúdo → Mídia**
+Selecione **CConteúdo → Mídia**
 
 - acione o (clique no) botão **Opções** na barra das ferramentas
 

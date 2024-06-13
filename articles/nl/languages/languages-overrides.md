@@ -51,7 +51,7 @@ Klik op de kolomkop om de lijst volgens deze kolom te sorteren.
 
 ## Lijst filters
 
-**Taal wisselaar**
+#### Taal wisselaar
 
 - **Selecteer taal en website gedeelte.** De drop-down lijst toont de
   geïnstalleerde talen voor de website en het beheergedeelte.
@@ -76,7 +76,7 @@ bovenstaande Screenshot.
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
   voor een site is '20' maar dit kan veranderd worden bij de
 
-**Filteropties**
+#### Filteropties
 
 - Deze lijst heeft geen fileropties
 

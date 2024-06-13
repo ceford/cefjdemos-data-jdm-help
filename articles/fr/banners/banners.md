@@ -117,7 +117,7 @@ shown in the Screenshot above.
   from the dropdown list to change the number displayed.The default for
   a site is '20' but this may be changed in the Global Configuration.
 
-**Options de filtre**
+#### Options de filtre
 
 Near the top of the page you will see the filter bar shown in the
 Screenshot above. The functions are:

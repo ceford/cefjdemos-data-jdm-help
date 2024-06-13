@@ -8,8 +8,7 @@ usuários.
 A tela de ajuda mostra, como exemplo, "usuários".
 
 ## Como acessar
-
-**Usuários → Campos**
+Selecione **Usuários → Campos**
 
 Para adicionar um campo:
 
@@ -31,7 +30,7 @@ class="new" title="File:Help-4x-Fields-Edit-screen-pt-br.png">800px</a>
 
 ### Geral
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 Parâmetros para todos os campos:
 
@@ -51,7 +50,7 @@ Parâmetros para todos os campos:
   ser preenchido antes de enviar um artigo, contato ou componente de
   terceiros que suporte campos.
 
-**Painel direito**
+#### Painel direito
 
 - **Estado**: O estado da publicação deste campo.
   - Publicado: O campo fica visível durante a edição de um artigo ou
@@ -93,7 +92,7 @@ href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help
 class="new"
 title="File:Help-4x-Fields-Edit-options-subscreen-pt-br.png">600px</a>
 
-**Opções do formulário**
+#### Opções do formulário
 
 - **Espaço reservado**: Um texto para o espaço reservado que aparecerá
   dentro do campo como uma dica para a entrada. O espaço reservado está
@@ -135,7 +134,7 @@ instead of *list-of-items*, where ID is the id of the field
 field you are creating need be: `field36:value1[OR]field36:value2` where
 36 is the ID of the field 'List of items'.
 
-**Opções da exibição**
+#### Opções da exibição
 
 - **Classe da exibição**: A classe do contêiner do campo na saída.
 - **Classe do valor**: A classe do valor do campo na saída.

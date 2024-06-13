@@ -16,7 +16,7 @@ beschikbaar voor een Joomla website.
 
 ## Schermafbeeldingen
 
-**Lijst met geïnstalleerde modules**
+#### Lijst met geïnstalleerde modules
 
 <img
 src="https://docs.joomla.org/images/thumb/e/e0/Help-4x-Modules-Administrators-nl.png/800px-Help-4x-Modules-Administrators-nl.png"
@@ -25,7 +25,7 @@ srcset="https://docs.joomla.org/images/thumb/e/e0/Help-4x-Modules-Administrators
 data-file-width="1212" data-file-height="731" width="800" height="483"
 alt="Modules Administrators" />
 
-**Lijst met beschikbare modules**
+#### Lijst met beschikbare modules
 
 <img
 src="https://docs.joomla.org/images/thumb/2/2d/Help-4x-Modules-Administrators-New-nl.png/800px-Help-4x-Modules-Administrators-New-nl.png"

@@ -8,8 +8,7 @@ Users.
 The helpscreen show as example Users.
 
 ## Cómo Acceder
-
-**Usuarios → Campos**
+Seleccionar **Usuarios → Campos**
 
 Para agregar un campo:
 
@@ -34,7 +33,7 @@ alt="Fields Edit screen" />
 
 ### General
 
-**Panel izquierdo**
+#### Panel izquierdo
 
 Parámetros para todos los Campos Personalizados:
 
@@ -57,7 +56,7 @@ Parámetros para todos los Campos Personalizados:
   caso, el campo debe rellenarse antes de enviar un artículo, un
   contacto o un componente de terceros que admita campos personalizados.
 
-**Panel Derecho**
+#### Panel Derecho
 
 - **Estado**. El estado de publicación de este campo.
   - Publicado: El campo es visible al editar un artículo o un contacto.
@@ -97,7 +96,7 @@ srcset="https://docs.joomla.org/images/thumb/d/d0/Help-4x-Fields-Edit-options-su
 data-file-width="2880" data-file-height="1378" width="600" height="287"
 alt="Fields Edit options subscreen" />
 
-**Opciones de formulario**
+#### Opciones de formulario
 
 - **Marcador de posición**. Un texto que aparecerá dentro del campo
   personalizado como una sugerencia para la entrada. El marcador de
@@ -138,7 +137,7 @@ instead of *list-of-items*, where ID is the id of the field
 field you are creating need be: `field36:value1[OR]field36:value2` where
 36 is the ID of the field 'List of items'.
 
-**Opciones de visualización**
+#### Opciones de visualización
 
 - **Clase de visualización**. La clase en la salida del contenedor del
   campo.

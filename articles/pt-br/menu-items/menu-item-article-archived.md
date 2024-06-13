@@ -14,8 +14,7 @@ categorizados" não serão mostrados no item dos menus para artigos
 arquivados.
 
 ## Como acessar
-
-**Menus → \[nome do menu\]**
+Selecione **Menus → \[nome do menu\]**
 
 Para adicionar um item dos menus:
 
@@ -45,7 +44,7 @@ title="File:Help-4x-Menus-Item-Articles-Article-Archived-screen-pt-br.png">800px
 
 ### Detalhes
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **Tipo do item dos menus**. O tipo do item dos menus selecionado
   quando este item dos menu foi criado. Este pode ser um dos tipos
@@ -58,7 +57,7 @@ title="File:Help-4x-Menus-Item-Articles-Article-Archived-screen-pt-br.png">800px
 - **Janela destino**. Seleciona a partir da lista suspensa.
 - **Estilo do tema**. Seleciona a partir da lista suspensa.
 
-**Painel direito**
+#### Painel direito
 
 - **Menu**. Mostra em qual menu o link aparecerá.
 
@@ -121,7 +120,7 @@ srcset="https://docs.joomla.org/images/thumb/a/a4/Help-4x-Menus-Item-Articles-Ar
 data-file-width="2880" data-file-height="1340" width="600" height="279"
 alt="Menus Item Articles Article Archived options subscreen" />
 
-**Layout**
+#### Layout
 
 - **Intro Text**.
   - Show: The Intro Text of the article will show when you drill down to
@@ -139,7 +138,7 @@ alt="Menus Item Articles Article Archived options subscreen" />
 - **Article Info Title**. Displays 'Details' on top of the article
   information block.
 
-**Category**
+#### Category
 
 - **Category**. Show the Article's Category Title.
 - **Link Category**. Show the title as a link to that Category.Note: You
@@ -152,7 +151,7 @@ alt="Menus Item Articles Article Archived options subscreen" />
   option in the Category Tab.
 - **Linked Titles**. Show the title as a link to the article.
 
-**Author**
+#### Author
 
 - **Author**. Show the author of the Article.
 - **Link to Author's Contact Page**. Show it as a link to a Contact
@@ -161,13 +160,13 @@ alt="Menus Item Articles Article Archived options subscreen" />
   Also, a link will not show if there is an Author Alias
   value for the article.
 
-**Date**
+#### Date
 
 - **Create Date**. Show the Article's create date.
 - **Modify Date**. Show the Article's modify date.
 - **Publish Date**. Show the Article's start publishing date.
 
-**Options**
+#### Options
 
 - **Navigation**. Show a navigation link 'Prev' or 'Next' when you drill
   down to the article.

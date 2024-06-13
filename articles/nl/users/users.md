@@ -6,8 +6,7 @@ Dit scherm toont een lijst met gebruikers met informatie over elk van
 hen.
 
 ## Hoe toegang te krijgen
-
-**Controlepaneel → Site → Gebruikers**
+Selecteer **Controlepaneel → Site → Gebruikers**
 
 To add a User:
 

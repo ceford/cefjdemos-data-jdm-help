@@ -7,8 +7,7 @@ inicial e em que ordem eles são mostrados. A página inicial geralmente é
 a página inicial de um site, mas pode ser qualquer página do site.
 
 ## Como acessar
-
-**Conteúdo → Artigos destacados**
+Selecione **Conteúdo → Artigos destacados**
 
 Para adicionar um artigo:
 

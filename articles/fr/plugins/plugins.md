@@ -105,7 +105,7 @@ can use one of the available filters or any combination of them to limit
 the number of plug-ins displayed to just the plug-ins which match your
 filter parameters.
 
-**Filter Options**
+#### Filter Options
 
 - **Select Status.** Select a status (Enabled or Disabled) from the
   drop-down list box to show only plugins with the selected status.

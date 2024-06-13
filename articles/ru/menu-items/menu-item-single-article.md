@@ -76,7 +76,7 @@ Note: Options include "**Use Global**". If this is selected, the setting
 from the Articles: Options
 will be used.
 
-**Макет**
+#### Макет
 
 - **Title**. Show the Article's Title.
 - **Linked Titles**. Show the title as a link to the article.
@@ -93,7 +93,7 @@ will be used.
 - **Article Info Title**. Displays 'Details' on top of the article
   information block.
 
-**Категория**
+#### Категория
 
 - **Category**. Show the Article's Category Title.
 - **Link Category**. Show the title as a link to that Category.Note: You
@@ -105,12 +105,12 @@ will be used.
   with the Choose a Layout
   option in the Category Tab.
 
-**Связи**
+#### Связи
 
 - **Associations**. Show the associated flags or Language Code.
   Multilingual only.
 
-**Автор**
+#### Автор
 
 - **Author**. Show the author of the Article.
 - **Link to Author's Contact Page**. Show it as a link to a Contact
@@ -119,13 +119,13 @@ will be used.
   Also, a link will not show if there is an Author Alias
   value for the article.
 
-**Дата**
+#### Дата
 
 - **Create Date**. Show the Article's create date.
 - **Modify Date**. Show the Article's modify date.
 - **Publish Date**. Show the Article's start publishing date.
 
-**Параметры**
+#### Параметры
 
 - **Navigation**. Show a navigation link 'Prev' or 'Next' when you drill
   down to the article.

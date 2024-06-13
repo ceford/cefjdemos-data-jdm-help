@@ -35,7 +35,7 @@ alt="modules site module manager module wrapper" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **URL:** URL naar de site/het bestand dat u binnen de iframe wilt
   tonen.
@@ -54,7 +54,7 @@ alt="modules site module manager module wrapper" />
 - **Framerand:** (*Ja*/*Nee*). Toon framerand rond het iframe.
 - **Doelnaam:** Naam van het iFrame dat als doel wordt gebruikt
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

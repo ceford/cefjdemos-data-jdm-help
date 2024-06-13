@@ -32,7 +32,7 @@ title="File:Help-4x-modules-site-module-manager-module-statistics-pt-br.png">800
 
 ### Aba (guia) Módulo
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **Informações do servidor**: (*Mostrar*/*ocultar*). Exibir informações
   do servidor.
@@ -43,7 +43,7 @@ title="File:Help-4x-modules-site-module-manager-module-statistics-pt-br.png">800
 - **Aumentar/reduzir a contagem**: Insira a quantidade de acessos
   (visualizações) para aumentar ou reduzir a contagem.
 
-**Painel direito**
+#### Painel direito
 
 - **Mostrar título**: (Mostrar/Ocultar) Escolhe se mostra ou oculta o
   título dos módulos no front-end. O título será aquele no campo do

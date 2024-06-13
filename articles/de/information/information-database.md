@@ -75,7 +75,7 @@ shown in the Screenshot above.
   from the dropdown list to change the number displayed.The default for
   a site is '20' but this may be changed in the Global Configuration.
 
-**Filter Options**
+#### Filter Options
 
 You can use one of the available filters or any combination of them to
 limit the number of extensions displayed to just the extensions which

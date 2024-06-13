@@ -102,7 +102,7 @@ hierboven. De functies zijn:
 - **Selecteer status**. Selecteer uit Naar prullenbak / Gedepubliceerd /
   Gepubliceerd / Gearchiveerd / Alles.
 
-**Filter op aankooptype**
+#### Filter op aankooptype
 
 <img
 src="https://docs.joomla.org/images/6/68/Help35-colheader-select-type-nl.png"

@@ -115,7 +115,7 @@ Screenshots shows Joomla core Frontend Template **Cassiopeia**, all
 Editing Layout options
 set to 'Hide'.
 
-**Материал**
+#### Материал
 
 <img
 src="https://docs.joomla.org/images/thumb/9/9a/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-ru.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-ru.png"
@@ -124,7 +124,7 @@ srcset="https://docs.joomla.org/images/thumb/9/9a/Help-4x-Menus-Item-Articles-Cr
 data-file-width="1974" data-file-height="1385" width="600" height="421"
 alt="Menus Item Articles Create Article frontend content" />
 
-**Поля**
+#### Поля
 
 <img
 src="https://docs.joomla.org/images/thumb/0/0f/Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-ru.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-ru.png"
@@ -133,7 +133,7 @@ srcset="https://docs.joomla.org/images/thumb/0/0f/Help-4x-Menus-Item-Articles-Cr
 data-file-width="1973" data-file-height="626" width="600" height="190"
 alt="Menus Item Articles Create Article frontend fields" />
 
-**Публикация**
+#### Публикация
 
 <img
 src="https://docs.joomla.org/images/thumb/1/13/Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-ru.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-ru.png"
@@ -142,7 +142,7 @@ srcset="https://docs.joomla.org/images/thumb/1/13/Help-4x-Menus-Item-Articles-Cr
 data-file-width="1973" data-file-height="1240" width="600" height="377"
 alt="Menus Item Articles Create Article frontend publishing" />
 
-**Язык**
+#### Язык
 
 <img
 src="https://docs.joomla.org/images/thumb/4/4c/Help-4x-Menus-Item-Articles-Create-Article-frontend-language-ru.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-language-ru.png"

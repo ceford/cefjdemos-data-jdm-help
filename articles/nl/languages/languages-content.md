@@ -82,7 +82,7 @@ bovenstaande Screenshot.
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
   voor een site is '20' maar dit kan veranderd worden bij de
 
-**Filteropties**
+#### Filteropties
 
 - **Selecteer status.** Gebruik de drop-down lijst om te selecteren:
   Gelezen, 'Ongelezen' of 'Verplaatst naar prullenbak'. Alleen talen met
@@ -91,7 +91,7 @@ bovenstaande Screenshot.
   Publiek, Gast, Geregistreerd, Speciaal of Super gebruikers. Alleen
   talen met deze status worden getoond in de lijst.
 
-**Automatisch pagineren**
+#### Automatisch pagineren
 
 **Paginabesturing** Als het aantal items meer is dan een pagina, zie je
 een paginabesturing bij de onderkant van de pagina zoals in bovenstaande

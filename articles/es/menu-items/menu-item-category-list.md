@@ -38,7 +38,7 @@ alt="Menus Item Articles Category List screen" />
 
 ### Detalles
 
-**Panel izquierdo**
+#### Panel izquierdo
 
 - **Tipo de elemento del menú**. El Tipo de Elemento del Menú
   seleccionado cuando este elemento del menú se creó. Este puede ser uno
@@ -53,7 +53,7 @@ alt="Menus Item Articles Category List screen" />
 - **Abrir en**. Seleccione de la lista desplegable.
 - **Estilo de la plantilla**. Seleccione de la lista desplegable.
 
-**Panel Derecho**
+#### Panel Derecho
 
 - **Menú**. Muestra en qué menú aparecerá el enlace.
 
@@ -191,7 +191,7 @@ srcset="https://docs.joomla.org/images/thumb/9/98/Help-4x-Menus-Item-Articles-Ca
 data-file-width="2878" data-file-height="1344" width="600" height="280"
 alt="Menus Item Articles Category List options subscreen" />
 
-**Presentación**
+#### Presentación
 
 - **Elegir presentación**. Select from the dropdown list.
 - **Mostrar título**. Show the Article's Title.
@@ -203,7 +203,7 @@ alt="Menus Item Articles Category List options subscreen" />
   - Ocultar: Only the part of the article after the Read More break will
     show.
 
-**Categoría**
+#### Categoría
 
 - **Mostrar la categoría**. Show the Article's Category Title.
 - **Categoría enlazable**. Si la categoría del artículo se muestra, si
@@ -219,12 +219,12 @@ alt="Menus Item Articles Category List options subscreen" />
   to be either a blog or list layout with the Choose a Layout
   option in the Category Tab.
 
-**Asociaciones**
+#### Asociaciones
 
 - **Mostrar asociaciones**. Show the associated flags or Language Code.
   Multilingual only.
 
-**Autor**
+#### Autor
 
 - **Mostrar autor**. Show the author of the Article.
 - **Autor enlazable**. Si el autor del Artículo que se muestra, se va a
@@ -234,14 +234,14 @@ alt="Menus Item Articles Category List options subscreen" />
   Also, a link will not show if there is an Author Alias
   value for the article.
 
-**Fecha**
+#### Fecha
 
 - **Mostrar la fecha de creación**. Show the Article's create date.
 - **Mostrar fecha de modificación**. Show the Article's modify date.
 - **Mostrar fecha de publicación**. Show the Article's start publishing
   date.
 
-**Opciones**
+#### Opciones
 
 - **Mostrar navegación**. Show a navigation link 'Prev' or 'Next' when
   you drill down to the article.

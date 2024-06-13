@@ -6,7 +6,7 @@ The guided tours give users the ability to complete walk-throughs (or tours) to 
 
 ## How to Access
 
-**System** -> **Manage** -> **Guided Tours**
+#### System** -> **Manage** -> **Guided Tours
 
 Enter a tour's steps screen by selecting the steps number from the Steps column.
 
@@ -18,7 +18,8 @@ Enter a tour's steps screen by selecting the steps number from the Steps column.
 
 - **Checkbox**. Check this box to select steps. To select all steps, check the box in the column heading. After boxes are checked the toolbar button 'Actions' get active.
 - **Ordering**. You can change the order of a step within a list as follows:
-  - Select the Ordering icon ![Ordering icon](assets/ordering-colheader-icon.png) in the List heading to make it active.
+  - Select the Ordering icon ![Ordering icon](assets/ordering-colheader-icon.png) in the first
+  column heading to make it active.
   - Select one of the Three dots icons ![Dots icon](assets/ordering-colheader-grab-bar-icon.png) and drag it up or down to change the position of that row in the list.
   - In the Filter Options you may limit the list to steps that are assigned, for example to a Language.
   The ordering of steps in the console determines the order in which the steps will be run during a tour.

@@ -78,14 +78,14 @@ alt="Extensions Plugin Manager Edit screen" />
 
 ### Plugin tabblad
 
-**Linker venster**
+#### Linker venster
 
 Als de plugin instelbare opties heeft dan worden ze hier getoond. Het
 voorbeeld in de afbeelding toont de *Inhoud - Bevestig toestemming*
 plugin welke diverse instelbare parameters heeft weke wijzigen als
 opties worden gekozen.
 
-**Rechter venster**
+#### Rechter venster
 
 Het rechter venster is hetzelfde voor alle plugins en bevat de volgende
 velden:

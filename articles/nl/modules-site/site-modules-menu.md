@@ -34,7 +34,7 @@ alt="modules site module manager module menu" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Selecteer menu:** (*Over Joomla*/*Australische
   parken*/*Fruitwinkel*/*Hoofdmenu*/*Hoofdmenu*/*Gebruikersmenu*).
@@ -56,7 +56,7 @@ alt="modules site module manager module menu" />
 - **Sub-menu items:** (*Toon*/*Verberg*). Breidt het menu uit en maakt
   zijn sub-menu items altijd zichtbaar.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

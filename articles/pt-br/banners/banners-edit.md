@@ -43,7 +43,7 @@ title="File:Help-4x-Components-Banners-Banners-Edit-screen-pt-br.png">800px</a>
 
 ### Aba (guia) Detalhes
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **Type**: O tipo do banner a ser mostrado. As opções são um arquivo de
   imagem ou código HTML personalizado.
@@ -75,7 +75,7 @@ title="File:Help-4x-Components-Banners-Banners-Edit-screen-pt-br.png">800px</a>
   banner.
 - **Description**. Enter a description for the Banner.
 
-**Painel direito**
+#### Painel direito
 
 - **Estado**: O estado de publicação do item.
 - **Fixado**: *(Sim ou não)* Se o banner está "fixado" ou não. Se um ou

@@ -13,8 +13,7 @@ pero es posible que desee establecer una categoría específica o
 proporcionar Metadatos para un artículo específico.
 
 ## Cómo Acceder
-
-**Content → Articles**
+Seleccionar **Content → Articles**
 
 Para agregar un artículo:
 
@@ -41,7 +40,7 @@ alt="content article manager add new article" />
 
 ### Contenido
 
-**Panel izquierdo**
+#### Panel izquierdo
 
 - **Texto del artículo**. This is where you enter the contents of the
   article. Joomla includes 3 editors, the default Editor - TinyMCE
@@ -62,7 +61,7 @@ desplegable Contenido de CMS proporciona acceso a funciones especiales.
 - **Alternar editor**. A Toggle Editor button show below the edit
   window. This button allows you to toggle between TinyMCE and Editor - None.
 
-**Panel Derecho**
+#### Panel Derecho
 
 - **Estado**. El estado de publicación de este artículo.
   - Publicado: Article is visible in the Frontend of the site.
@@ -108,7 +107,7 @@ srcset="https://docs.joomla.org/images/thumb/6/62/Help-4x-screenshot-article-edi
 data-file-width="2880" data-file-height="1425" width="600" height="297"
 alt="screenshot article edit images links" />
 
-**Imagen de introducción**
+#### Imagen de introducción
 
 - **Imagen de introducción**. Click the Select button to select an image
   to be displayed in a fixed location in the Intro Text of this article.
@@ -127,7 +126,7 @@ alt="screenshot article edit images links" />
 
 - **Subtítulo**. Create a caption for this image.
 
-**Imagen para mostrar un artículo al completo**
+#### Imagen para mostrar un artículo al completo
 
 - **Imagen para mostrar un artículo al completo**. Click the Select
   button to select an image to be displayed in a fixed location in the
@@ -146,12 +145,12 @@ alt="screenshot article edit images links" />
 
 - **Subtítulo**. Enter an optional caption for this image.
 
-**Enlace A**
+#### Enlace A
 
 - **Enlace A**. La dirección URL para el primer enlace que se muestre en
   una ubicación fija en el texto del artículo. Esta debe ser una URL
   completa, no relativa. Por ejemplo, normalmente comienzan con
-  'https://'.
+  `https:`.
 - **Texto del enlace 'A'**. The text used for Link A. If blank, the URL
   will be displayed.
 - **Ventana URL de destino**. Sets the default value for the target for
@@ -179,7 +178,7 @@ srcset="https://docs.joomla.org/images/thumb/e/eb/Help-4x-screenshot-article-edi
 data-file-width="2880" data-file-height="1427" width="600" height="297"
 alt="screenshot article edit article options" />
 
-**Presentación**
+#### Presentación
 
 - **Presentación**. Utilizar un diseño suministrado para la vista del
   artículo o
@@ -203,7 +202,7 @@ alt="screenshot article edit article options" />
   del artículo' en la parte superior del bloque de información del
   artículo.
 
-**Categoría**
+#### Categoría
 
 - **Categoría**. Show the Article's Category Title.
 - **Categoría enlazable**. Si la categoría del artículo se muestra, si
@@ -215,26 +214,26 @@ alt="screenshot article edit article options" />
   artículo se muestra, si se va a mostrar como un enlace a un Diseño de
   categoría - (lista o blog), para la Categoría.
 
-**Asociaciones**
+#### Asociaciones
 
 - **Mostrar asociaciones**. Show the associated flags or Language Code.
   Multilingual only.
 
-**Mostrar autor**
+#### Mostrar autor
 
 - **Mostrar autor**. Show the author of the Article.
 - **Autor enlazable**. Si el autor del Artículo que se muestra, se va a
   mostrar como un enlace a un diseño de Contacto con el autor.Note: The
   author must be set up as a Contact.
 
-**Fecha**
+#### Fecha
 
 - **Mostrar la fecha de creación**. Show the Article's create date.
 - **Mostrar fecha de modificación**. Show the Article's modify date.
 - **Mostrar fecha de publicación**. Show the Article's start publishing
   date.
 
-**Opciones**
+#### Opciones
 
 - **Mostrar navegación**. Show a navigation link 'Prev' or 'Next' when
   you drill down to the article.
@@ -280,7 +279,7 @@ srcset="https://docs.joomla.org/images/thumb/0/04/Help-4x-Content-Article-Manage
 data-file-width="2880" data-file-height="1420" width="600" height="296"
 alt="Content Article Manager Edit publishing options subscreen" />
 
-**Publicación**
+#### Publicación
 
 - **Inicio de la publicación**. Date and time to start publishing. Enter
   article ahead of time and then have it published automatically at a
@@ -316,7 +315,7 @@ alt="Content Article Manager Edit publishing options subscreen" />
   nuevo elemento, este campo muestra "0" hasta que se guarda la nueva
   entrada, momento en el que se asigna un nuevo ID.
 
-**Metadatos**
+#### Metadatos
 
 - **Metadescripción**. Un párrafo para ser utilizado como la descripción
   de la página.

@@ -37,7 +37,7 @@ alt="modules administrator module manager module custom html" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Tekstverwerker.** De tekstverwerker laat niet toe dat u bepaalde
   HTML tags gebruikt. Om hieromheen te werken kunt u tijdelijk uw
@@ -49,7 +49,7 @@ alt="modules administrator module manager module custom html" />
   HTML modus te schakelen, voer de code in, sla op en schakel terug naar
   de normale weergave.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

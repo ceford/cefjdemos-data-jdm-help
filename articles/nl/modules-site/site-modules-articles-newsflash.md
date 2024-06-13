@@ -31,7 +31,7 @@ alt="modules site module manager module articles newsflash" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Categorie:** Selecteer artikelen uit een bepaalde categorie of een
   reeks Categorieën. Als er niets wordt geselecteerd dan worden
@@ -57,7 +57,7 @@ alt="modules site module manager module articles newsflash" />
 - **Richting:** (*Aflopend*/*Oplopend*). De volgorde waarop het
   resultaat getoond wordt.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Title.** The title of the module. This is also the title displayed
   for the module depending on the *Show Title* Form Field

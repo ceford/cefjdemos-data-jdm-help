@@ -49,7 +49,7 @@ sortieren.
 
 ## Listen-Filter
 
-**Filtern nach Site oder Administrator**
+#### Filtern nach Site oder Administrator
 
 - **Site.** Zeigt die installierten Sprachen für das Frontend an. Hier
   kann die Standardsprache für das Frontend der Joomla-Website gewählt

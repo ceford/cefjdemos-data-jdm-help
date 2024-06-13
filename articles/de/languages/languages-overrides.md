@@ -40,7 +40,7 @@ Click on the column heading to sort the list by that column's value.
 
 ## List Filters
 
-**Language Selector**
+#### Language Selector
 
 - **Select Language and Client.** The drop down list shows languages
   installed for Site and Administrator interfaces.
@@ -65,7 +65,7 @@ shown in the Screenshot above.
   from the dropdown list to change the number displayed.The default for
   a site is '20' but this may be changed in the Global Configuration.
 
-**Filter Options**
+#### Filter Options
 
 - This list has no filter options
 

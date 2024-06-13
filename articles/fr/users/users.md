@@ -6,8 +6,7 @@ Cet écran montre une liste d'utilisateurs avec des informations sur
 chaque membre.
 
 ## Comment y accéder ?
-
-**Panneau d'administration → Site → Utilisateurs**
+Sélectionner **Panneau d'administration → Site → Utilisateurs**
 
 To add a User:
 

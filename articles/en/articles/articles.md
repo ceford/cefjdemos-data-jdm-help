@@ -17,12 +17,7 @@ There are two routes to the Articles list page:
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/thumb/d/d1/Help-4x-Content-Article-screen-en.png/800px-Help-4x-Content-Article-screen-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/d/d1/Help-4x-Content-Article-screen-en.png/1200px-Help-4x-Content-Article-screen-en.png 1.5x, https://docs.joomla.org/images/thumb/d/d1/Help-4x-Content-Article-screen-en.png/1600px-Help-4x-Content-Article-screen-en.png 2x"
-data-file-width="2720" data-file-height="1640" width="800" height="482"
-alt="Articles list" />
+![Articles list](../../../images/en/articles/articles-screenshot.png "Article list")
 
 ## Column Headers
 
@@ -31,19 +26,10 @@ alt="Articles list" />
   the toolbar button 'Actions' get active.
 - **Ordering**. You can change the order of an article within a list as
   follows:
-  - Select the Ordering icon <img
-    src="https://docs.joomla.org/images/thumb/7/79/Help-4x-Ordering-colheader-icon.png/9px-Help-4x-Ordering-colheader-icon.png"
-    decoding="async"
-    srcset="https://docs.joomla.org/images/thumb/7/79/Help-4x-Ordering-colheader-icon.png/14px-Help-4x-Ordering-colheader-icon.png 1.5x, https://docs.joomla.org/images/7/79/Help-4x-Ordering-colheader-icon.png 2x"
-    data-file-width="18" data-file-height="23" width="9" height="12"
-    alt="Ordering icon" /> in the List heading to make it active.
-  - Select one of the Three dots icons <img
-    src="https://docs.joomla.org/images/thumb/a/a0/Help-4x-Ordering-colheader-grab-bar-icon.png/5px-Help-4x-Ordering-colheader-grab-bar-icon.png"
-    decoding="async"
-    srcset="https://docs.joomla.org/images/thumb/a/a0/Help-4x-Ordering-colheader-grab-bar-icon.png/8px-Help-4x-Ordering-colheader-grab-bar-icon.png 1.5x, https://docs.joomla.org/images/a/a0/Help-4x-Ordering-colheader-grab-bar-icon.png 2x"
-    data-file-width="9" data-file-height="27" width="5" height="15"
-    alt="Three dots icon" /> and drag it up or down to change the
-    position of that row in the list.
+  - Select the ordering icon <i class="fa-solid fa-sort"></i> in the first
+  column heading to make it active.
+  - Select one of the vertical ellipsis icons <span class="icon-ellipsis-v"></span>
+    and drag it up or down to change the position of that row in the list.
   - In the Filter Options you may limit the list to articles that are
     assigned for example to a Language.
 - **Featured**. Click the icon to toggle. The article will show on the
@@ -142,12 +128,7 @@ Screenshot above.
 The Batch Process allows a change in settings for a group of selected
 articles.
 
-<img
-src="https://docs.joomla.org/images/thumb/9/92/Help-4x-batch-process-articles-en.png/600px-Help-4x-batch-process-articles-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/9/92/Help-4x-batch-process-articles-en.png/900px-Help-4x-batch-process-articles-en.png 1.5x, https://docs.joomla.org/images/thumb/9/92/Help-4x-batch-process-articles-en.png/1200px-Help-4x-batch-process-articles-en.png 2x"
-data-file-width="1598" data-file-height="736" width="600" height="276"
-alt="articles batch process selected articles dialog" />
+![articles batch process](../../../images/en/articles/articles-batch-process.png "Articles batch process")
 
 **How to Batch Process** a group of articles:
 

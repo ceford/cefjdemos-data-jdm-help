@@ -107,7 +107,7 @@ de séparer le contenu d'une page XHTML de son apparence. Dans Joomla!,
 les fichiers CSS (par exemple, template.css) font normalement partie du
 template.
 
-**Voir également :**
+#### Voir également :
 Template,
 Suffixe de Classe de
 Page,
@@ -144,7 +144,7 @@ Joomla!. Ces extensions du Core ne doivent pas être confondues avec les
 extensions tierces disponibles en téléchargement sur le JED (Joomla!
 Extension Directory - Répertoire des extensions Joomla!).
 
-**Voir également :**
+#### Voir également :
 <a href="http://extensions.joomla.org/" class="external text"
 target="_blank" rel="noreferrer noopener">Répertoire des Extensions
 Joomla! (JED)</a>.
@@ -220,7 +220,8 @@ sélectionner là où le module devra s'afficher sur le site, et ce en
 choisissant une des **positions de
 module**
 du
-**template**
+
+#### template
 actif.
 
 Il existe encore plus de possibilités pour l'affichage du menu, en

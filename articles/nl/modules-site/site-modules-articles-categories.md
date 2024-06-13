@@ -32,7 +32,7 @@ alt="modules site module manager module articles categories" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Hoofdcategorie:** Kies een hoofdcategorie.
 - **Beschrijvingen categorieën** (*Toon*/*Verberg*). Toon of verberg
@@ -48,7 +48,7 @@ alt="modules site module manager module articles categories" />
   Selecteer hier het maximum diepte niveau voor iedere subcategorie.
   Standaard is alle.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Titel.** De titel van de module. Dit is ook de titel die wordt
   weergegeven in de module afhankelijk van de *Toon Titel* formulierveld

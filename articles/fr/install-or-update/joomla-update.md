@@ -28,7 +28,7 @@ Vous êtes sur la dernière version de Joomla, donc aucune action requise.
 - **Vérifier les mises à jour**. Cliquez sur le bouton de la barre
   d'outils pour voir si une mise à jour est disponible.
 
-**L'écran de mise à jour lorsqu'une mise à jour est disponible.**
+#### L'écran de mise à jour lorsqu'une mise à jour est disponible.
 
 <a
 href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-joomla-update-manager-with-updates-screen-en.png"

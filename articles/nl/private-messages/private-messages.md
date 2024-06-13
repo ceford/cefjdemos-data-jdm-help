@@ -61,7 +61,7 @@ bovenstaande Screenshot.
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
   voor een site is '20' maar dit kan veranderd worden bij de
 
-**Filteropties**
+#### Filteropties
 
 - **Selecteer status.** Gebruik de drop-down lijst om te selecteren:
   Gelezen, 'Ongelezen' of 'Verplaatst naar prullenbak'. Alleen berichten

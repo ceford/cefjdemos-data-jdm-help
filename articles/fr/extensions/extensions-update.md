@@ -81,7 +81,8 @@ shown in the Screenshot above.
 - **Number to Display**. Shows the number of items in a list. Select
   from the dropdown list to change the number displayed.The default for
   a site is '20' but this may be changed in the Global Configuration.
-**Filter Options**
+
+#### Filter Options
 
 - **-Select Location-.** Select Site, Administrator or API from the
   drop-down list of available locations.

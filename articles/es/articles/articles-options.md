@@ -13,8 +13,7 @@ You do not need to set any of these options. Your Joomla site will work
 with the default settings.
 
 ## Cómo Acceder
-
-**Contenido → Artículos**
+Seleccionar **Contenido → Artículos**
 
 - Clic el botón **Opciones** en la Barra de Herramientas.
 
@@ -38,7 +37,7 @@ Featured Articles,
 List All Categories,
 and Single Article.
 
-**Presentación**
+#### Presentación
 
 - **Elegir presentación**. Select the default value for Single Article
   menu items.
@@ -57,7 +56,7 @@ and Single Article.
 - **Título de información del artículo**. Displays 'Details' on top of
   the article information block.
 
-**Categoría**
+#### Categoría
 
 - **Mostrar la categoría**. Show the Article's Category Title.
   - **Categoría enlazable**. Show the title as a link to that
@@ -71,14 +70,14 @@ and Single Article.
     with the Choose a Layout
     option in the Category Tab.
 
-**Asociaciones**
+#### Asociaciones
 
 - **Mostrar asociaciones**. Show the associated flags or Language Code.
   Multilingual only.
   - **Usar indicadores de imagen**. Display language choice as image
     flags.
 
-**Autor**
+#### Autor
 
 - **Mostrar autor**. Show the author of the Article.
   - **Autor enlazable**. Show it as a link to a Contact layout for that
@@ -87,14 +86,14 @@ and Single Article.
     Also, a link will not show if there is an Author Alias
     value for the article.
 
-**Fecha**
+#### Fecha
 
 - **Mostrar la fecha de creación**. Show the Article's create date.
 - **Mostrar fecha de modificación**. Show the Article's modify date.
 - **Mostrar fecha de publicación**. Show the Article's start publishing
   date.
 
-**Opciones**
+#### Opciones
 
 - **Mostrar navegación**. Show a navigation link 'Prev' or 'Next' when
   you drill down to the article.
@@ -421,7 +420,7 @@ srcset="https://docs.joomla.org/images/thumb/9/9f/Help-4x-Content-Article-Manage
 data-file-width="2002" data-file-height="1406" width="600" height="421"
 alt="Content Article Manager Options integration subscreen" />
 
-**Canales electrónicos**
+#### Canales electrónicos
 
 - **Sindicar el enlace**. If set to Show, a Feed Link will show up as a
   feed icon in the address bar of most browsers.
@@ -432,17 +431,17 @@ alt="Content Article Manager Options integration subscreen" />
     feed.
 - **Mostrar "Leer más"**. Show a "Read more" link in the feed.
 
-**Enrutamiento**
+#### Enrutamiento
 
 - **Eliminar ID de URL**. Remove the database id of articles in a link.
 
-**Campos personalizados**
+#### Campos personalizados
 
 - **Habilitar campos personalizdos**. Enable the creation of custom
   fields. Aprende
   más.
 
-**Flujo de trabajo**
+#### Flujo de trabajo
 
 - **Habilitar flujo de trabajo**. Use customised workflows to manage
   articles. Aprende

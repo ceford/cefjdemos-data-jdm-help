@@ -11,8 +11,7 @@ Os usuários precisam ter permissão para criar artigos. Quando a página
 exemplos na seção [Captura da tela (no front-end)](#frontend) abaixo.
 
 ## Como acessar
-
-**Menus → \[nome do menu\]**
+Selecione **Menus → \[nome do menu\]**
 
 Para adicionar um item dos menus:
 
@@ -43,7 +42,7 @@ title="File:Help-4x-Menus-Item-Articles-Create-Article-screen-pt-br.png">800px</
 
 ### Detalhes
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **Tipo do item dos menus**. O tipo do item dos menus selecionado
   quando esse item dos menus foi criado. Pode ser um dos tipos de item
@@ -54,7 +53,7 @@ title="File:Help-4x-Menus-Item-Articles-Create-Article-screen-pt-br.png">800px</
 - **Janela destino**. Seleciona a partir da lista suspensa.
 - **Estilo do tema**. Seleciona a partir da lista suspensa.
 
-**Painel direito**
+#### Painel direito
 
 - **Menu**. Mostra em qual menu o link aparecerá.
 
@@ -119,28 +118,28 @@ principal do Joomla!, com todas as opções da disposição de
 edição
 definidas como "Ocultar".
 
-**Conteúdo**
+#### Conteúdo
 
 <a
 href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Menus-Item-Articles-Create-Article-frontend-content-pt-br.png"
 class="new"
 title="File:Help-4x-Menus-Item-Articles-Create-Article-frontend-content-pt-br.png">600px</a>
 
-**Campos**
+#### Campos
 
 <a
 href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-pt-br.png"
 class="new"
 title="File:Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-pt-br.png">600px</a>
 
-**Publicação**
+#### Publicação
 
 <a
 href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-pt-br.png"
 class="new"
 title="File:Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-pt-br.png">600px</a>
 
-**Linguagem**
+#### Linguagem
 
 <a
 href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Menus-Item-Articles-Create-Article-frontend-language-pt-br.png"

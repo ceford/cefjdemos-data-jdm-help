@@ -34,7 +34,7 @@ alt="modules administrator module manager module feed display" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Feed-URL.** Voer de URL in van het RSS/RDF/ATOM feed.
 - **RTL Feed.** (*Ja*/*Nee*). Toon feed in RTL (van rechts naar links)
@@ -50,7 +50,7 @@ alt="modules administrator module manager module feed display" />
   introtekst van individuele RSS items.
 - **Publicatiedatum.** ('*Ja*/*Nee*).
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

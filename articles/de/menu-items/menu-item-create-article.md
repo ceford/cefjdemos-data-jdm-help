@@ -12,8 +12,7 @@ Bildschirm wie im Abschnitt [Frontend Bildschirmfotos](#frontend) unten
 gezeigt.
 
 ## Wie darauf zugreifen
-
-**Menüs → \[Name des Menüs\]**
+Wählen **Menüs → \[Name des Menüs\]**
 
 Einen Menüeintrag hinzufügen:
 
@@ -45,7 +44,7 @@ alt="Menus Item Articles Create Article screen" />
 
 ### Details
 
-**Linke Seite**
+#### Linke Seite
 
 - **Menüeintragstyp**. Der Menüeintragstyp wird beim Erstellen des
   Menüeintrages gewählt. Das kann einer der Core-Menüeintragstypen oder
@@ -55,7 +54,7 @@ alt="Menus Item Articles Create Article screen" />
 - **Zielfenster**. Aus der Dropdown-Liste wählen.
 - **Template-Stil**. Aus der Dropdown-Liste wählen.
 
-**Rechte Seite**
+#### Rechte Seite
 
 - **Menü**. Zeigt, in welchem Menü der Link erscheinen wird.
 
@@ -117,7 +116,7 @@ Die Bildschirmfotos verwenden das Joomla Frontend-Template
 Bearbeitungslayout
 sind 'Verborgen'.
 
-**Inhalt**
+#### Inhalt
 
 <img
 src="https://docs.joomla.org/images/thumb/a/a3/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-de.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-de.png"
@@ -126,7 +125,7 @@ srcset="https://docs.joomla.org/images/thumb/a/a3/Help-4x-Menus-Item-Articles-Cr
 data-file-width="1728" data-file-height="1143" width="600" height="397"
 alt="Menus Item Articles Create Article frontend content" />
 
-**Felder**
+#### Felder
 
 <img
 src="https://docs.joomla.org/images/thumb/0/07/Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-de.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-de.png"
@@ -135,7 +134,7 @@ srcset="https://docs.joomla.org/images/thumb/0/07/Help-4x-Menus-Item-Articles-Cr
 data-file-width="1729" data-file-height="564" width="600" height="196"
 alt="Menus Item Articles Create Article frontend fields" />
 
-**Veröffentlichen**
+#### Veröffentlichen
 
 <img
 src="https://docs.joomla.org/images/thumb/2/27/Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-de.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-de.png"
@@ -144,7 +143,7 @@ srcset="https://docs.joomla.org/images/thumb/2/27/Help-4x-Menus-Item-Articles-Cr
 data-file-width="1727" data-file-height="1114" width="600" height="387"
 alt="Menus Item Articles Create Article frontend publishing" />
 
-**Sprache**
+#### Sprache
 
 <img
 src="https://docs.joomla.org/images/thumb/c/c2/Help-4x-Menus-Item-Articles-Create-Article-frontend-language-de.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-language-de.png"

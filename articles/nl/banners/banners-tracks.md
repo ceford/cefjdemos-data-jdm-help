@@ -74,7 +74,7 @@ gekoppeld zijn.
 - **Selecteer max niveaus**. Selecteer uit de lijst met beschikbare
   niveaus.
 
-**Aanvangs- en einddatum.**
+#### Aanvangs- en einddatum.
 
 - **Aanvangsdatum.** De begindatum van de te volgen lijst.
 - **Einddatum.** De einddatum van de te volgen lijst.

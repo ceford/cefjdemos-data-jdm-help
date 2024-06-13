@@ -8,8 +8,7 @@ Users.
 The helpscreen show as example Users.
 
 ## Как открыть
-
-**Пользователи → Поля**
+Выбирать **Пользователи → Поля**
 
 To add a Field:
 
@@ -89,7 +88,7 @@ srcset="https://docs.joomla.org/images/thumb/a/a5/Help-4x-Fields-Edit-options-su
 data-file-width="2880" data-file-height="1346" width="600" height="280"
 alt="Fields Edit options subscreen" />
 
-**Форма**
+#### Форма
 
 - **Атрибут placeholder**. Введите текст для отображения внутри поля в
   качестве подсказки для ввода данных.
@@ -126,7 +125,7 @@ instead of *list-of-items*, where ID is the id of the field
 field you are creating need be: `field36:value1[OR]field36:value2` where
 36 is the ID of the field 'List of items'.
 
-**Отображение**
+#### Отображение
 
 - **CSS-класс поля**. Введите CSS-класс поля для отображения на сайте.
   Для ввода нескольких значений используйте пробелы.

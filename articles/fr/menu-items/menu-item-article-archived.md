@@ -117,7 +117,7 @@ srcset="https://docs.joomla.org/images/thumb/6/65/Help-4x-Menus-Item-Articles-Ar
 data-file-width="2880" data-file-height="1340" width="600" height="279"
 alt="Menus Item Articles Article Archived options subscreen" />
 
-**Type de mise en page**
+#### Type de mise en page
 
 - **Texte d'introduction**.
   - Afficher: The Intro Text of the article will show when you drill
@@ -135,7 +135,7 @@ alt="Menus Item Articles Article Archived options subscreen" />
 - **Article Info Title**. Displays 'Details' on top of the article
   information block.
 
-**Catégorie**
+#### Catégorie
 
 - **Catégorie**. Show the Article's Category Title.
 - **Lien sur les titres**. Show the title as a link to that
@@ -149,7 +149,7 @@ alt="Menus Item Articles Article Archived options subscreen" />
   option in the Category Tab.
 - **Lien sur les titres**. Show the title as a link to the article.
 
-**Auteur**
+#### Auteur
 
 - **Auteur**. Show the author of the Article.
 - **Lien vers sa page de contact**. Activer le lien sur le nom de
@@ -158,13 +158,13 @@ alt="Menus Item Articles Article Archived options subscreen" />
   Also, a link will not show if there is an Author Alias
   value for the article.
 
-**Date**
+#### Date
 
 - **Date de création**. Show the Article's create date.
 - **Date de modification**. Show the Article's modify date.
 - **Date de Publication**. Show the Article's start publishing date.
 
-**Paramètres**
+#### Paramètres
 
 - **Navigation entre articles**. Show a navigation link 'Prev' or 'Next'
   when you drill down to the article.

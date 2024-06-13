@@ -8,7 +8,7 @@ Guided Tours Options configuration allows setting of permissions for the tours.
 
 ## How to Access
 
-**System** -> **Manage** -> **Guided Tours**
+#### System** -> **Manage** -> **Guided Tours
 
 Click the Options toolbar button.
 

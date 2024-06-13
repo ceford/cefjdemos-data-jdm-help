@@ -30,7 +30,7 @@ alt="Components Redirect Manager Edit screen" />
 
 ### Formulier velden
 
-**Bewerk/Nieuwe link \#1**
+#### Bewerk/Nieuwe link \#1
 
 - **Verlopen URL.** De URL die doorgestuurd wordt.
 - **Nieuwe URL.** De URL om naar door te verwijzen.

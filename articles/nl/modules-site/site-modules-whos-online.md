@@ -32,14 +32,14 @@ alt="modules site module manager module whos online" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Weergave:** (*\# gasten / leden*/*Gebruikersnamen*/*Beide*).
   Selecteer wat er getoond moet worden.
 - **Filter groepen:** (*Ja*/*Nee*). Kies 'Ja' om te filteren op de groep
   van de ingelogde gebruiker.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

@@ -39,7 +39,7 @@ alt="Menus Item Articles List All Categories screen" />
 
 ### Detalles
 
-**Panel izquierdo**
+#### Panel izquierdo
 
 - **Tipo de elemento del menú**. El Tipo de Elemento del Menú
   seleccionado cuando este elemento del menú se creó. Este puede ser uno
@@ -54,7 +54,7 @@ alt="Menus Item Articles List All Categories screen" />
 - **Abrir en**. Seleccione de la lista desplegable.
 - **Estilo de la plantilla**. Seleccione de la lista desplegable.
 
-**Panel Derecho**
+#### Panel Derecho
 
 - **Menu**. Shows which menu the link will appear in.
 
@@ -269,7 +269,7 @@ srcset="https://docs.joomla.org/images/thumb/c/cb/Help-4x-Menus-Item-Articles-Li
 data-file-width="2878" data-file-height="1344" width="600" height="280"
 alt="Menus Item Articles List All Categories options subscreen" />
 
-**Presentación**
+#### Presentación
 
 - **Choose a Layout**. Select from the dropdown list.
 - **Title**. Show the Article's Title.
@@ -280,7 +280,7 @@ alt="Menus Item Articles List All Categories options subscreen" />
   - Hide: Only the part of the article after the Read More break will
     show.
 
-**Categoría**
+#### Categoría
 
 - **Category**. Show the Article's Category Title.
 - **Link Category**. Show the title as a link to that Category.Note: You
@@ -292,7 +292,7 @@ alt="Menus Item Articles List All Categories options subscreen" />
   with the Choose a Layout
   option in the Category Tab.
 
-**Mostrar autor**
+#### Mostrar autor
 
 - **Author**. Show the author of the Article.
 - **Link to Author's Contact Page**. Show it as a link to a Contact
@@ -301,13 +301,13 @@ alt="Menus Item Articles List All Categories options subscreen" />
   Also, a link will not show if there is an Author Alias
   value for the article.
 
-**Fecha**
+#### Fecha
 
 - **Create Date**. Show the Article's create date.
 - **Modify Date**. Show the Article's modify date.
 - **Publish Date**. Show the Article's start publishing date.
 
-**Opciones**
+#### Opciones
 
 - **Navigation**. Show a navigation link 'Prev' or 'Next' when you drill
   down to the article.

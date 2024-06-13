@@ -32,12 +32,12 @@ alt="modules manager admin module privacy status check" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Privacystatus controle** De privacy status controle module toont
   informatie over de privacystatus van uw websites.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

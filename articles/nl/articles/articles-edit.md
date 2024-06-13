@@ -12,8 +12,7 @@ De meeste parameters hebben geschikte standaards maar u wilt misschien
 een bepaalde categorie instellen of Metadata voor specifieke artikelen.
 
 ## Hoe toegang te krijgen
-
-**Inhoud → Artikelen**
+Selecteer **Inhoud → Artikelen**
 
 Om een artikel aan te maken:
 
@@ -43,7 +42,7 @@ alt="content article manager add new article" />
 
 ### Inhoud
 
-**Linker venster**
+#### Linker venster
 
 - **Artikeltekst**. Dit is waar de inhoud van het artikel wordt
   geplaatst. Joomla bevat 3 tekstverwerkers, de standaard
@@ -66,7 +65,7 @@ leren.
   een knop Schakelen tekstverwerker zichtbaar. Met deze knop kun je
   schakelen tussen de TinyMCE tekstverwerker en
 
-**Rechter venster**
+#### Rechter venster
 
 - **Status**. De publicatiestatus van dit artikel.
   - Gepubliceerd: Artikel is zichtbaar op de website.
@@ -120,7 +119,7 @@ srcset="https://docs.joomla.org/images/thumb/5/5b/Help-4x-screenshot-article-edi
 data-file-width="1145" data-file-height="864" width="600" height="453"
 alt="screenshot article edit images links" />
 
-**Afbeelding introtekst**
+#### Afbeelding introtekst
 
 - **Afbeelding introtekst**. Klik op de knop Selecteren om een
   afbeelding te selecteren die op een bepaalde locatie in de introtekst
@@ -143,7 +142,7 @@ alt="screenshot article edit images links" />
   target="_blank" rel="nofollow noreferrer noopener">Meer leren.</a>
 - **Bijschrift**. Maak een bijschrift voor de afbeelding.
 
-**Afbeelding volledig artikel**
+#### Afbeelding volledig artikel
 
 - **Afbeelding volledig artikel**. Klik op de knop Selecteren om een
   afbeelding te selecteren die op een bepaalde locatie in het volledige
@@ -166,12 +165,12 @@ alt="screenshot article edit images links" />
   target="_blank" rel="nofollow noreferrer noopener">Meer leren.</a>
 - **Bijschrift**. Vul optioneel een bijschrift in voor de afbeelding.
 
-**Link A**
+#### Link A
 
 - **Link A**. De URL van de eerste link die wordt weergegeven op een
   bepaalde locatie in de tekst van het artikel. Dit moet een volledige
   URL zijn, niet relatief. Bijvoorbeeld, normaal gesproken begint het
-  met 'https://'.
+  met `https:`.
 - **Link A tekst**. De tekst die voor link A gebruikt wordt. Indien
   niets is ingevuld wordt de URL weergegeven.
 - **URL doelvenster**. Stelt de standaard waarde in voor het doelvenster
@@ -200,7 +199,7 @@ srcset="https://docs.joomla.org/images/thumb/b/b9/Help-4x-screenshot-article-edi
 data-file-width="1185" data-file-height="838" width="600" height="424"
 alt="screenshot article edit article options" />
 
-**Weergave**
+#### Weergave
 
 - **Weergave**. Gebruik een layout uit de beschikbare artikelweergave of
 
@@ -223,7 +222,7 @@ alt="screenshot article edit article options" />
 - **Titel artikelinformatie**. Toont 'Details' boven het
   artikelinformatie gedeelte.
 
-**Categorie**
+#### Categorie
 
 - **Categorie**. Toont de categorietitel van een artikel.
 - **Link categorie**. Toont de titel als link naar die categorie.
@@ -232,12 +231,12 @@ alt="screenshot article edit article options" />
 - **Link bovenliggende categorie**. Toont de titel als link naar die
   categorie.
 
-**Associaties**
+#### Associaties
 
 - **Associaties**. Toont de geassocieerde vlaggen of taalcodes. Alleen
   meertaligheid.
 
-**Auteur**
+#### Auteur
 
 - **Auteur**. Toont de auteur van een artikel.
 - **Link naar de contactpagina van de auteur**. Toont het als link naar
@@ -246,13 +245,13 @@ alt="screenshot article edit article options" />
   ingesteld
   zijn.
 
-**Datum**
+#### Datum
 
 - **Aanmaakdatum**. Toont de aanmaakdatum van een artikel.
 - **Aanpassingsdatum**. Toont de aanpassingsdatum van een artikel.
 - **Publicatiedatum**. Toont de publicatiedatum van een artikel.
 
-**Opties**
+#### Opties
 
 - **Navigatie**. Toont een navigatie link 'vorige' of 'volgende' indien
   door artikelen gebladerd wordt.
@@ -299,7 +298,7 @@ srcset="https://docs.joomla.org/images/thumb/8/8c/Help-4x-Content-Article-Manage
 data-file-width="1163" data-file-height="858" width="600" height="443"
 alt="Content Article Manager Edit publishing options subscreen" />
 
-**Publiceren**
+#### Publiceren
 
 - **Start publiceren**. Datum en tijd waarop de publicatie moet starten.
   Maak een artikel voortijdig aan en publiceer het automatisch op een
@@ -331,7 +330,7 @@ alt="Content Article Manager Edit publishing options subscreen" />
   nummer niet veranderen. Als een nieuw artikel wordt aangemaakt, is dit
   veld '0' totdat het wordt opgeslagen.
 
-**Metadata**
+#### Metadata
 
 - **Metabeschrijving**. Een paragraaf die gebruikt wordt als
   beschrijving van de pagina. Meer
@@ -350,12 +349,7 @@ alt="Content Article Manager Edit publishing options subscreen" />
 administratie rechten in de
 Tabblad wordt alleen getoond bij
 
-<img
-src="https://docs.joomla.org/images/thumb/0/03/Help-4x-screenshot-article-edit-associations-en.png/600px-Help-4x-screenshot-article-edit-associations-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/0/03/Help-4x-screenshot-article-edit-associations-en.png/900px-Help-4x-screenshot-article-edit-associations-en.png 1.5x, https://docs.joomla.org/images/thumb/0/03/Help-4x-screenshot-article-edit-associations-en.png/1200px-Help-4x-screenshot-article-edit-associations-en.png 2x"
-data-file-width="2880" data-file-height="1085" width="600" height="226"
-alt="screenshot article edit associations" />
+![Associations tab](../../../images/en/articles/articles-edit-associations-tab.png "Associations Tab")
 
 ### Configuratie bewerkvenster
 

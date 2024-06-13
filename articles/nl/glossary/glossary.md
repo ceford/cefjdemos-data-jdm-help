@@ -43,7 +43,7 @@ Met CSS kan men de inhoud van een XHTML-pagina scheiden van de weergave.
 In Joomla! zijn CSS bestanden (bijvoorbeeld template.css) normaal
 gesproken een onderdeel van de template.
 
-**Zie ook:**
+#### Zie ook:
 Template,
 Pagina class
 achtervoegsel,
@@ -139,7 +139,7 @@ breiden. Deze standaard extensies mogen niet worden verward met de
 extensies die beschikbaar zijn om te downloaden vanaf de JED (Joomla!
 Extension-Directory).
 
-**Zie ook:**
+#### Zie ook:
 <a href="http://extensions.joomla.org/" class="external text"
 target="_blank" rel="noreferrer noopener">Joomla Extension Directory</a>.
 
@@ -212,13 +212,16 @@ Iedere website kan meer dan één menu hebben.
 
 Een menu wordt niet automatisch op de website getoond. Er dient een
 **Menumodule** aangemaakt te worden met behulp van
-**Modulebeheer**
+
+#### Modulebeheer
 en aan de module aan te geven op welk **Menu** zichtbaar te zijn.
 Vervolgens kunt u aangeven waar de module op de site zichtbaar moet
 worden door een van de beschikbare
-**Moduleposities**
+
+#### Moduleposities
 van het actieve
-**Template**
+
+#### Template
 op te geven.
 
 Er is meer controle over wanneer het menu moet verschijnen, door de

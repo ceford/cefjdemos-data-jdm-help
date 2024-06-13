@@ -88,7 +88,7 @@ shown in the Screenshot above.
   from the dropdown list to change the number displayed.The default for
   a site is '20' but this may be changed in the Global Configuration.
 
-**Filter Options**
+#### Filter Options
 
 - **Select Menu Item.** Use the drop-down list box to select pages to
   which the style has been assigned.

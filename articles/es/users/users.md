@@ -5,8 +5,7 @@
 The Users list is used to find, add, and edit users.
 
 ## Cómo acceder
-
-**Panel de inicio → Site → Usuarios**
+Seleccionar **Panel de inicio → Site → Usuarios**
 
 To add a User:
 

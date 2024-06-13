@@ -225,7 +225,7 @@ srcset="https://docs.joomla.org/images/thumb/0/01/Help-4x-Menus-Item-Articles-Ca
 data-file-width="2880" data-file-height="1340" width="600" height="279"
 alt="Menus Item Articles Category Blog options subscreen" />
 
-**Type de mise en page**
+#### Type de mise en page
 
 - **Mise en page**. Sélectionnez dans la liste déroulante.
 - **Titre de l'article**. Show the Article's Title.
@@ -243,7 +243,7 @@ alt="Menus Item Articles Category Blog options subscreen" />
 - **Titre d'informations d'article**. Displays 'Details' on top of the
   article information block.
 
-**Catégorie**
+#### Catégorie
 
 - **Titre de la catégorie**. Show the Article's Category Title.
 - **Lien sur les titres**. Show the title as a link to that
@@ -256,13 +256,13 @@ alt="Menus Item Articles Category Blog options subscreen" />
   with the Choose a Layout
   option in the Category Tab.
 
-**Associations**
+#### Associations
 
 - **Associations multilingues**. Show the associated flags or Language
   Code. Associations
   multilingues.
 
-**Auteur**
+#### Auteur
 
 - **Auteur**. Show the author of the Article.
 - **Lien vers sa page de contact**. Activer le lien sur le nom de
@@ -271,7 +271,7 @@ alt="Menus Item Articles Category Blog options subscreen" />
   Also, a link will not show if there is an Author Alias
   value for the article.
 
-**Date**
+#### Date
 
 - **Date de création**. Utilisez la date de création de l'article.
 - **Date de modification**. Afficher la date et l'heure de dernière
@@ -279,7 +279,7 @@ alt="Menus Item Articles Category Blog options subscreen" />
 - **Date de Publication**. Utilisez la date de début de publication de
   l'article.
 
-**Paramètres**
+#### Paramètres
 
 - **Navigation entre articles**. Afficher ou masquer un lien de
   navigation (par exemple, Suivant, Précédent) entre les articles.

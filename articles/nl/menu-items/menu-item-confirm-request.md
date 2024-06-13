@@ -44,7 +44,7 @@ alt="Menus Menu Item Privacy Confirm Request screen" />
 
 ### Details tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Menu-itemtype**. Het menu-item type dat geselecteerd is toen het
   mneu-item aangemaakt werd. Dit kan een van de core menu-item types
@@ -54,7 +54,7 @@ alt="Menus Menu Item Privacy Confirm Request screen" />
 - **Doelvenster.** Selecteer uit de uitklaplijst.
 - **Templatestijl.** Selecteer uit de uitklaplijst.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Menu**. Toont in welk menu de link zal verschijnen.
 - **Hoofditem.** Het bovenliggend menu-item voor dit menu-item. Gebruikt

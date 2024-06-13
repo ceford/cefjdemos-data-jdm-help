@@ -6,8 +6,7 @@ Der Menüeintrag 'Einzelner Beitrag' zeigt einen Beitrag im Frontend der
 Website an.
 
 ## Wie darauf zugreifen
-
-**Menüs → \[Name des Menüs\]**
+Wählen **Menüs → \[Name des Menüs\]**
 
 Einen Menüeintrag hinzufügen:
 
@@ -40,7 +39,7 @@ alt="Menus Item Articles Single Article screen" />
 
 ### Details
 
-**Linke Seite**
+#### Linke Seite
 
 - **Menüeintragstyp**. Der Menüeintragstyp wird beim Erstellen des
   Menüeintrages gewählt. Das kann einer der Core-Menüeintragstypen oder
@@ -56,7 +55,7 @@ alt="Menus Item Articles Single Article screen" />
 - **Zielfenster**. Aus der Dropdown-Liste wählen.
 - **Template-Stil**. Aus der Dropdown-Liste wählen.
 
-**Rechte Seite**
+#### Rechte Seite
 
 - **Menü**. Zeigt, in welchem Menü der Link erscheinen wird.
 
@@ -73,7 +72,7 @@ alt="Menus Item Articles Single Article options subscreen" />
 
 Hinweis: Die Auswahl "**Global**" übernimmt Einstellungen aus
 
-**Layout**
+#### Layout
 
 - **Titel**. Den Titel des Beitrages zeigen.
 - **Titel verlinken**. Den Titel als Link zeigen.
@@ -90,7 +89,7 @@ Hinweis: Die Auswahl "**Global**" übernimmt Einstellungen aus
 - **Beitragsinfotitel**. Zeigt 'Details' über dem Block der
   Beitragsinformation an.
 
-**Kategorie**
+#### Kategorie
 
 - **Kategorie**. Den Kategorietitel des Beitrags zeigen.
 - **Kategorie verlinken**. Den Kategorietitel als Link zeigen.Hinweis:
@@ -104,12 +103,12 @@ Hinweis: Die Auswahl "**Global**" übernimmt Einstellungen aus
   auswählen
   'Blog' oder 'Liste' festgelegt werden.
 
-**Verknüpfungen**
+#### Verknüpfungen
 
 - **Verknüpfungen anzeigen**. Zeigt verknüpfte Flaggen oder den
   Sprachcode.
 
-**Autor**
+#### Autor
 
 - **Autor**. Zeigt den Autor des Beitrags.
 - **Autor verlinken**. Zum Kontakt des Autors verlinken.Hinweis: Der
@@ -119,14 +118,14 @@ Hinweis: Die Auswahl "**Global**" übernimmt Einstellungen aus
   Autoralias
   eingegeben, wird der Link nicht angezeigt.
 
-**Datum**
+#### Datum
 
 - **Erstellungsdatum**. Zeigt das Erstellungsdatum des Beitrages.
 - **Bearbeitungsdatum**. Zeigt das Bearbeitungsdatum des Beitrages.
 - **Veröffentlichungsdatum**. Zeigt das Veröffentlichungsdatum des
   Beitrages.
 
-**Optionen**
+#### Optionen
 
 - **Seitennavigation**. Zeigt die Navigationslinks 'Zurück' oder
   'Weiter', wenn der Beitrag gezeigt wird.

@@ -36,7 +36,7 @@ alt="modules site module manager module login" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Voor tekst:** Dit is de tekst of HTML die getoond wordt bovenaan het
   inlogformulier.
@@ -60,7 +60,7 @@ alt="modules site module manager module login" />
 - **Weergave labels:** Kies voor tekst of iconen om de veldlabels te
   tonen. Standaard is iconen.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

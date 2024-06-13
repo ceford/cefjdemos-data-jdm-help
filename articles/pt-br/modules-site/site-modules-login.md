@@ -34,7 +34,7 @@ title="File:Help-4x-modules-site-module-manager-module-login-pt-br.png">800px</a
 
 ### Aba (guia) Módulo
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **Pré-texto**: Este é o texto ou HTML que aparece acima do formulário
   para início das sessões.
@@ -62,7 +62,7 @@ title="File:Help-4x-modules-site-module-manager-module-login-pt-br.png">800px</a
 - **Exibir rótulos**: Escolha entre texto ou ícones para exibir os
   rótulos dos campos. O padrão é ícones.
 
-**Painel direito**
+#### Painel direito
 
 - **Mostrar título**: (Mostrar/Ocultar) Escolhe se mostra ou oculta o
   título dos módulos no front-end. O título será aquele no campo do

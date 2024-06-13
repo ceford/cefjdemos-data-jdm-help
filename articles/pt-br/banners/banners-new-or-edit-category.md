@@ -11,8 +11,7 @@ como artigos, contatos e feeds de notícias.
 ## Como acessar
 
 Navegue até o gerenciador das categorias dos
-banners,
-**Componentes → Banners → Categorias**
+banners,Selecione **Componentes → Banners → Categorias**
 
 - **Nova**: Clique no ícone **Nova** na barra das ferramentas.
 - **Editar**: Para editar uma categoria para banners existente, acione o
@@ -36,14 +35,14 @@ title="File:Help-4x-Components-Banners-Categories-Edit-screen-pt-br.png">800px</
 
 ### Aba (guia) Detalhes
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **Descrição**: A descrição do item. As descrições de categorias,
   subcategorias e links da web podem ser exibidas nas páginas web,
   dependendo das configurações dos parâmetros. Essas descrições são
   inseridas usando o mesmo editor usado para artigos.
 
-**Painel direito**
+#### Painel direito
 
 - **Superior (pai)**: O item (categoria, item dos menus e assim por
   diante) que é o superior (pai) do item que está sendo editado.

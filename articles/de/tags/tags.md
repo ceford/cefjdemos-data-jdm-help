@@ -100,7 +100,7 @@ im oberen Bereich.
   Konfiguration
   geändert werden.
 
-**Filter-Optionen**
+#### Filter-Optionen
 
 - **Status wählen**. Auswahl von Papierkorb / Versteckt / Veröffentlicht
   / Archiviert / Alle.

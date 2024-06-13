@@ -35,14 +35,14 @@ alt="modules site module manager module latest users" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Aantal gebruikers:** Aantal nieuwe gebruikers dat getoond moet
   worden.
 - **Filter groepen:** (*Ja*/*Nee*). Kies 'Ja' om op groep te filteren op
   de groep van de ingelogde gebruiker.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

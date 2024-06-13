@@ -33,7 +33,7 @@ alt="modules site module manager module popular tags" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Hoofdtag.** Beperk getoonde tags tot die onder deze hoofdtag.
 - **Maximum aantal tags.** (*1*/*2*/*3*/*4*/*5*/*6*/*7*/...). Bepaalt
@@ -51,7 +51,7 @@ alt="modules site module manager module popular tags" />
   getoond als geen geen tags worden gevonden die voldoen in plaats van
   het verbergen van de module.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

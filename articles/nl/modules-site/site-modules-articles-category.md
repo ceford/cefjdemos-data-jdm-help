@@ -32,7 +32,7 @@ alt="modules site module manager module articles category" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Modus:** (*Normaal*/*Dynamisch*). Selecteer de modus die u wilt
   gebruiken. Als de normale modus is gekozen kan de module verder
@@ -50,7 +50,7 @@ alt="modules site module manager module articles category" />
   betekent dat de module alleen dynamisch getoond wordt op
   categoriepagina's.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

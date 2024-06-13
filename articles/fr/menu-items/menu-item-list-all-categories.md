@@ -271,7 +271,7 @@ srcset="https://docs.joomla.org/images/thumb/d/d1/Help-4x-Menus-Item-Articles-Li
 data-file-width="2878" data-file-height="1325" width="600" height="276"
 alt="Menus Item Articles List All Categories options subscreen" />
 
-**Type de mise en page**
+#### Type de mise en page
 
 - **Choose a Layout**. Select from the dropdown list.
 - **Title**. Show the Article's Title.
@@ -282,7 +282,7 @@ alt="Menus Item Articles List All Categories options subscreen" />
   - Hide: Only the part of the article after the Read More break will
     show.
 
-**Catégorie**
+#### Catégorie
 
 - **Category**. Show the Article's Category Title.
 - **Link Category**. Show the title as a link to that Category.Note: You
@@ -294,7 +294,7 @@ alt="Menus Item Articles List All Categories options subscreen" />
   with the Choose a Layout
   option in the Category Tab.
 
-**Auteur**
+#### Auteur
 
 - **Author**. Show the author of the Article.
 - **Link to Author's Contact Page**. Show it as a link to a Contact
@@ -303,13 +303,13 @@ alt="Menus Item Articles List All Categories options subscreen" />
   Also, a link will not show if there is an Author Alias
   value for the article.
 
-**Date**
+#### Date
 
 - **Create Date**. Show the Article's create date.
 - **Modify Date**. Show the Article's modify date.
 - **Publish Date**. Show the Article's start publishing date.
 
-**Paramètres**
+#### Paramètres
 
 - **Navigation**. Show a navigation link 'Prev' or 'Next' when you drill
   down to the article.

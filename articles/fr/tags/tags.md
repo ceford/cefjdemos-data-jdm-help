@@ -89,7 +89,7 @@ shown in the Screenshot above.
   from the dropdown list to change the number displayed.The default for
   a site is '20' but this may be changed in the Global Configuration.
 
-**Filter Options**
+#### Filter Options
 
 - **Select Status**. Select from Trashed / Unpublished / Published /
   Archived / All.

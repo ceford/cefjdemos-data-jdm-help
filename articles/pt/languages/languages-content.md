@@ -75,7 +75,7 @@ shown in the Screenshot above.
   from the dropdown list to change the number displayed.The default for
   a site is '20' but this may be changed in the Global Configuration.
 
-**Opções do Filtro**
+#### Opções do Filtro
 
 - **Select State.** Use the drop-down list box to select: Read, Unread
   or Trashed. Only languages with this state will show on the list.
@@ -83,7 +83,7 @@ shown in the Screenshot above.
   Guest, Registered, Special or Super Users. Only languages with this
   state will show on the list.
 
-**Paginação Automática**
+#### Paginação Automática
 
 **Page Controls**. When the number of items is more than one page, you
 will see a page control bar near the bottom of the page shown in the

@@ -52,7 +52,7 @@ Diese Voreinstellung stellt die gleichen Buttons wie in der
 Voreinstellungen 2 Werkzeugleiste oben zur Verfügung. Zusätzlich sind
 folgende Optionen verfügbar.
 
-**Obere Reihe**
+#### Obere Reihe
 
 - CMS Inhalt: Die Dropdown-Liste ermöglicht Links auf einen Beitrag,
   Felder, Kontakt, Medien, Menü oder Modul.
@@ -141,7 +141,7 @@ deaktiviert werden.
 - Einzug verkleinern (nach links) und Einzug vergrößern (nach rechts).
 - 3 Punkte: Anzeigen der zweiten Werkzeugleisten-Reihe.
 
-**Zweite Reihe**
+#### Zweite Reihe
 
 - Link einfügen/bearbeiten: Um einen Link einzufügen oder zu bearbeiten,
   den verlinkten Text markieren und den Button anklicken. Im
@@ -181,7 +181,7 @@ Diese Voreinstellung stellt die gleichen Buttons wie in der
 Voreinstellungen 1 Werkzeugleiste oben zur Verfügung. Zusätzlich sind
 folgende Optionen verfügbar:
 
-**Obere Reihe**
+#### Obere Reihe
 
 - Blöcke: Absatz, Kopfzeilen, Vorformatiert.
 - Schriftarten: Die gewünschte Schrift wählen.
@@ -192,7 +192,7 @@ folgende Optionen verfügbar:
   Popup-Fenster können Quelle, Breite oder Höhe und weitere
   Informationen zu den Bildern eingegeben werden.
 
-**Zweite Reihe**
+#### Zweite Reihe
 
 - Textfarbe oder Hintergrundfarbe wählen.
 - Vollbild.
@@ -211,7 +211,7 @@ folgende Optionen verfügbar:
 - Zitat.
 - Vorlage einfügen.
 
-**Dritte Reihe**
+#### Dritte Reihe
 
 - Drucken des Beitragsinhaltes.
 - Codebeispiel einfügen/bearbeiten.

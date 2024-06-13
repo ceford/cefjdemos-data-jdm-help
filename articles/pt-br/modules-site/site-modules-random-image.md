@@ -30,7 +30,7 @@ title="File:Help-4x-modules-site-module-manager-module-random-image-pt-br.png">8
 
 ### Aba (guia) Módulo
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **Tipo da imagem**: Define o tipo da imagem (PNG\|GIF\|JPG e etc.) (o
   padrão é JPG).
@@ -45,7 +45,7 @@ title="File:Help-4x-modules-site-module-manager-module-random-image-pt-br.png">8
 - **Altura (em pixels)**: A altura da imagem. Força todas as imagens a
   serem mostradas com essa altura em pixels.
 
-**Painel direito**
+#### Painel direito
 
 - **Mostrar título**: (Mostrar/Ocultar) Escolhe se mostra ou oculta o
   título dos módulos no front-end. O título será aquele no campo do

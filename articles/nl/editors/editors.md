@@ -51,7 +51,7 @@ alt="editor tinymce advanced" />
 This option provides all of the same buttons as documented in the Set 2
 Toolbar above. In addition, the following options are available.
 
-**Eerste deel**
+#### Eerste deel
 
 - CMS Content: The Dropdown list provides access to link to an Article,
   Contact, Field, Media, Menu, or Module.
@@ -136,7 +136,7 @@ Plugins - editors-xtd.
 - Outdent (move left) and Indent (indent right).
 - 3 dots: Show second Toolbar row.
 
-**Tweede deel**
+#### Tweede deel
 
 - Invoegen/bewerken link: Om een link in te voegen of bewerken,
   selecteer de link-tekst en druk op deze knop. Een popup venster
@@ -183,7 +183,7 @@ alt="editor tinymce extended" />
 This option provides all of the same buttons as documented in the Set 1
 Toolbar above. In addition, the following options are available.
 
-**Eerste deel**
+#### Eerste deel
 
 - Blocks: Paragraph, Headings, Preformatted.
 - Fonts: Select the desired font.
@@ -194,7 +194,7 @@ Toolbar above. In addition, the following options are available.
   allows you to enter the Source, Width or Height and other information
   about the image.
 
-**Tweede deel**
+#### Tweede deel
 
 - Select Text color or Background color.
 - Fullscreen.
@@ -213,7 +213,7 @@ Toolbar above. In addition, the following options are available.
 - Blockquote.
 - Insert Template.
 
-**Derde deel**
+#### Derde deel
 
 - Print the article text.
 - Insert/edit code sample.

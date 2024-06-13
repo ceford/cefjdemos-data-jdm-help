@@ -67,7 +67,7 @@ captura de tela acima. As funções são:
   na tabela. Os valores são os mesmos que os nomes dos cabeçalhos das
   colunas.
 
-**Filter Options:**
+#### Filter Options:
 
 - **Selecionar estado**: Seleciona entre lixeira / não publicado /
   publicado / arquivado / todos.

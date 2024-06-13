@@ -32,7 +32,7 @@ alt="modules site module manager module most read content" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Categorie:** Selecteer artikelen uit een bepaalde categorie of een
   reeks Categorieën. Als er niets wordt geselecteerd dan worden
@@ -42,7 +42,7 @@ alt="modules site module manager module most read content" />
 - **Speciale artikelen:** (*Toon*/*Verberg*). Toon/Verberg artikelen
   aangegeven als speciaal.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

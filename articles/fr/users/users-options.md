@@ -11,8 +11,7 @@ User Options set globally for all users include
 - new user registration email notice to administration and more.
 
 ## Comment y accéder ?
-
-**Utilisateurs → Gestion**
+Sélectionner **Utilisateurs → Gestion**
 
 - Cliquez sur le bouton **Paramètres** dans la barre d'outils.
 

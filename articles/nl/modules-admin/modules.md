@@ -10,8 +10,7 @@ Modules are used to display content and/or media around the main
 content.
 
 ## Hoe toegang te krijgen
-
-**Controlepaneel → Site → Modules**
+Selecteer **Controlepaneel → Site → Modules**
 
 To add a Module:
 

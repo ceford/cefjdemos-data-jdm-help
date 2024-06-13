@@ -47,7 +47,7 @@ alt="Menus New Item screen" />
 
 ### Details
 
-**Linke Seite**
+#### Linke Seite
 
 - **Menüeintragstyp**. Der Menüeintragstyp wird beim Erstellen des
   Menüeintrages gewählt.
@@ -56,7 +56,7 @@ alt="Menus New Item screen" />
 - **Zielfenster**. Aus der Dropdown-Liste wählen.
 - **Template-Stil**. Aus der Dropdown-Liste wählen.
 
-**Rechte Seite**
+#### Rechte Seite
 
 - **Menü**. Zeigt, in welchem Menü der Link erscheinen wird.
 - **Übergeordneter Eintrag**. Der übergeordnete Eintrag des

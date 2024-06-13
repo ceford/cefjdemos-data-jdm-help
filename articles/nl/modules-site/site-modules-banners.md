@@ -31,7 +31,7 @@ alt="modules site module manager module banners" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Doel:** (*Open in hoofdvenster*/*Open in nieuw venster*/*Open in
   pop-up*). Doelvenster als op de link wordt geklikt.
@@ -53,7 +53,7 @@ alt="modules site module manager module banners" />
 - **Voetnoot:** Tekst of HTML die getoond moet worden na de groep met
   advertenties.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

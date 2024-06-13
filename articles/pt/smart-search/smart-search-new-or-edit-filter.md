@@ -46,7 +46,7 @@ decoding="async" data-file-width="600" data-file-height="438"
 width="800" height="584"
 alt="Components Finder Manage Search Filters subscreen Options tab" />
 
-**Publishing panel**
+#### Publishing panel
 
 - **Created Date**. Date the item(Article, Category, Weblink, etc.) was
   created.
@@ -60,7 +60,7 @@ alt="Components Finder Manage Search Filters subscreen Options tab" />
 - **Modified By:** *(Informative only)* Username who performed the last
   modification.
 
-**Filter Timeline panel**
+#### Filter Timeline panel
 
 - **When (Start Date).** When to search relative to the start date
   (before, after or exactly).

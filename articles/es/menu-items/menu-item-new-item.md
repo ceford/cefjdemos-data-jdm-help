@@ -46,7 +46,7 @@ alt="Menus New Item screen" />
 
 ### Detalles
 
-**Panel izquierdo**
+#### Panel izquierdo
 
 - **Menu Item Type**. The Menu Item Type selected when this menu item
   was created.
@@ -55,7 +55,7 @@ alt="Menus New Item screen" />
 - **Abrir en**. Seleccione de la lista desplegable.
 - **Estilo de la plantilla**. Seleccione de la lista desplegable.
 
-**Panel Derecho**
+#### Panel Derecho
 
 - **Menú**. Muestra en qué menú aparecerá el enlace.
 - **Parent Item**. The parent menu item for this menu item. Used to

@@ -85,7 +85,7 @@ pesquisa mostrada na captura de tela acima.
   Selecione na lista suspensa para alterar o número exibido.O padrão
   para um site é '20', mas isso pode ser alterado nas
 
-**Opções do filtro**
+#### Opções do filtro
 
 - **Selecionar estado**: Use a caixa de lista suspensa para selecionar o
   estado de publicação: "Publicados, Não publicados, Lixeira ou Todos".

@@ -31,7 +31,7 @@ title="File:Help-4x-modules-site-module-manager-module-breadcrumbs-pt-br.png">80
 
 ### Aba (guia) Módulo
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **Você está aqui**: (*Mostrar*/*ocultar*). Mostra ou esconde o texto
   "Você está aqui" no caminho.
@@ -43,7 +43,7 @@ title="File:Help-4x-modules-site-module-manager-module-breadcrumbs-pt-br.png">80
 - **Mostrar o último**: (*Mostrar*/*ocultar*). Mostra ou oculta o último
   elemento no caminho.
 
-**Painel direito**
+#### Painel direito
 
 - **Mostrar título**: (Mostrar/Ocultar) Escolhe se mostra ou oculta o
   título dos módulos no front-end. O título será aquele no campo do

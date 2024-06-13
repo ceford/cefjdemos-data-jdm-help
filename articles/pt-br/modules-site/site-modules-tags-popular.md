@@ -32,7 +32,7 @@ title="File:Help-4x-modules-site-module-manager-module-popular-tags-pt-br.png">8
 
 ### Aba (guia) Módulo
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **Tag superior (principal, pai)**: Filtra as tags para mostrar apenas
   as tags filhas desta tag superior (principal, pai).
@@ -52,7 +52,7 @@ title="File:Help-4x-modules-site-module-manager-module-popular-tags-pt-br.png">8
   mensagem se nenhuma tag correspondente for encontrada em vez de
   ocultar o módulo.
 
-**Painel direito**
+#### Painel direito
 
 - **Mostrar título**: (Mostrar/Ocultar) Escolhe se mostra ou oculta o
   título dos módulos no front-end. O título será aquele no campo do

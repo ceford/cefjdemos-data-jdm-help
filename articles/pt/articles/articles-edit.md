@@ -11,8 +11,7 @@ Most parameters have suitable defaults but you might wish to set a
 specific Category or provide article-specific Metadata.
 
 ## How to Access
-
-**Conteúdos → Artigos**
+Selecione **Conteúdos → Artigos**
 
 To add a Article:
 
@@ -24,12 +23,7 @@ To edit a Article:
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/thumb/8/84/Help-4x-content-article-manager-add-new-article-en.png/800px-Help-4x-content-article-manager-add-new-article-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/8/84/Help-4x-content-article-manager-add-new-article-en.png/1200px-Help-4x-content-article-manager-add-new-article-en.png 1.5x, https://docs.joomla.org/images/thumb/8/84/Help-4x-content-article-manager-add-new-article-en.png/1600px-Help-4x-content-article-manager-add-new-article-en.png 2x"
-data-file-width="2880" data-file-height="1584" width="800" height="440"
-alt="content article manager add new article" />
+![Articles edit screenshot](../../../images/en/articles/articles-edit-screenshot.png "Articles edit")
 
 ## Form Fields
 
@@ -44,22 +38,12 @@ alt="content article manager add new article" />
 
 - **Texto do artigo**. This is where you enter the contents of the
   article. Joomla includes 3 editors, the default Editor - TinyMCE
-  is shown here.
+  is shown above.
 
-<img
-src="https://docs.joomla.org/images/thumb/8/87/Help-4x-Article-Editor-buttons-en.png/600px-Help-4x-Article-Editor-buttons-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/8/87/Help-4x-Article-Editor-buttons-en.png/900px-Help-4x-Article-Editor-buttons-en.png 1.5x, https://docs.joomla.org/images/thumb/8/87/Help-4x-Article-Editor-buttons-en.png/1200px-Help-4x-Article-Editor-buttons-en.png 2x"
-data-file-width="1985" data-file-height="751" width="600" height="227"
-alt="Article Editor buttons" />
-
-The CMS Content dropdown list provides for access to link to an Article,
-Contact, Field, Media, Menu, or Module.
-
-
-
-- **Alternar editor**. A Toggle Editor button show below the edit
-  window. This button allows you to toggle between TinyMCE and Editor - None.
+  The CMS Content dropdown list provides for access to link to an Article,
+  Contact, Field, Media, Menu, Module, Page Break or Read More break.
+- **Alternar editor**. A Toggle Editor button show below the edit window.
+  This button allows you to toggle between TinyMCE and Editor - None.
 
 #### Right Panel
 
@@ -95,14 +79,9 @@ Article: Options.
 This section lets you display images and links in your articles using
 standardised layouts.
 
-<img
-src="https://docs.joomla.org/images/thumb/3/3d/Help-4x-screenshot-article-edit-images-links-en.png/600px-Help-4x-screenshot-article-edit-images-links-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/3/3d/Help-4x-screenshot-article-edit-images-links-en.png/900px-Help-4x-screenshot-article-edit-images-links-en.png 1.5x, https://docs.joomla.org/images/thumb/3/3d/Help-4x-screenshot-article-edit-images-links-en.png/1200px-Help-4x-screenshot-article-edit-images-links-en.png 2x"
-data-file-width="2878" data-file-height="1164" width="600" height="243"
-alt="screenshot article edit images links" />
+![Articles edit images and links tab](../../../images/en/articles/articles-edit-images-and-links-tab.png "Articles edit images and links tab")
 
-**Imagem de introdução**
+#### Imagem de introdução
 
 - **Imagem de introdução**. Click the Select button to select an image
   to be displayed in a fixed location in the Intro Text of this article.
@@ -120,7 +99,7 @@ alt="screenshot article edit images links" />
 
 - **Legenda**. Create a caption for this image.
 
-**Imagem completa - artigo**
+#### Imagem completa - artigo
 
 - **Imagem completa - artigo**. Click the Select button to select an
   image to be displayed in a fixed location in the Full Text of this
@@ -138,11 +117,11 @@ alt="screenshot article edit images links" />
 
 - **Legenda**. Enter an optional caption for this image.
 
-**Ligação A**
+#### Ligação A
 
 - **Ligação A**. The URL for the first link to be displayed in a fixed
   location in the article text. This must be a full URL, not relative.
-  For example, it normally would start with 'https://'.
+  For example, it normally would start with `https:`.
 - **Texto ligação A**. The text used for Link A. If blank, the URL will
   be displayed.
 - **Janela alvo**. Sets the default value for the target for the first
@@ -163,14 +142,9 @@ Article: Options.
 This is a set of options you can use to control how this article will
 show in the Frontend.
 
-<img
-src="https://docs.joomla.org/images/thumb/e/e6/Help-4x-screenshot-article-edit-article-options-en.png/600px-Help-4x-screenshot-article-edit-article-options-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/e/e6/Help-4x-screenshot-article-edit-article-options-en.png/900px-Help-4x-screenshot-article-edit-article-options-en.png 1.5x, https://docs.joomla.org/images/thumb/e/e6/Help-4x-screenshot-article-edit-article-options-en.png/1200px-Help-4x-screenshot-article-edit-article-options-en.png 2x"
-data-file-width="2880" data-file-height="1165" width="600" height="243"
-alt="screenshot article edit article options" />
+![Options tab](../../../images/en/articles/articles-edit-options-tab.png "Options Tab")
 
-**Visual**
+#### Visual
 
 - **Visual**. Use a layout from the supplied article view or overrides in the templates.
 - **Título**. Show the Article's Title.
@@ -191,7 +165,7 @@ alt="screenshot article edit article options" />
 - **Informações do artigo - Título**. Displays 'Details' on top of the
   article information block.
 
-**Categoria**
+#### Categoria
 
 - **Categoria**. Show the Article's Category Title.
 - **Categoria com Hiperligação**. Show the title as a link to that
@@ -200,24 +174,24 @@ alt="screenshot article edit article options" />
 - **Ligação da categoria hospedeira**. Show the title as a link to that
   Category.
 
-**Associações**
+#### Associações
 
 - **Associações**. Show the associated flags or Language Code.
   Multilingual only.
 
-**Autor**
+#### Autor
 
 - **Autor**. Show the author of the Article.
 - **Ligação para a página de contacto do autor**. Show it as a link to a
   Contact layout for that author.Note: The author must be set up as a Contact.
 
-**Data**
+#### Data
 
 - **Data de criação**. Show the Article's create date.
 - **Data de modificação**. Show the Article's modify date.
 - **Data de publicação**. Show the Article's start publishing date.
 
-**Opções**
+#### Opções
 
 - **Navegação**. Show a navigation link 'Prev' or 'Next' when you drill
   down to the article.
@@ -240,12 +214,7 @@ alt="screenshot article edit article options" />
 This section shows the custom fields
 which are defined for this article.
 
-<img
-src="https://docs.joomla.org/images/thumb/b/b4/Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-en.png/600px-Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/b/b4/Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-en.png/900px-Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/b/b4/Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-en.png/1200px-Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-en.png 2x"
-data-file-width="2876" data-file-height="660" width="600" height="138"
-alt="Content Article Manager Edit Fields options subscreen" />
+![Fields tab](../../../images/en/articles/articles-edit-fields-tab.png "Filds Tab")
 
 ### Publicação
 
@@ -255,14 +224,9 @@ This section allows you to enter parameters and
 Metadata
 for this Article.
 
-<img
-src="https://docs.joomla.org/images/thumb/3/32/Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-en.png/600px-Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/3/32/Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-en.png/900px-Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/3/32/Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-en.png/1200px-Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-en.png 2x"
-data-file-width="2880" data-file-height="1165" width="600" height="243"
-alt="Content Article Manager Edit publishing options subscreen" />
+![Publishing tab](../../../images/en/articles/articles-edit-publishing-tab.png "Publishing Tab")
 
-**Publicação**
+#### Publicação
 
 - **Iniciar publicação**. Date and time to start publishing. Enter
   article ahead of time and then have it published automatically at a
@@ -291,7 +255,7 @@ alt="Content Article Manager Edit publishing options subscreen" />
   change this number. When creating a new Article, this field displays
   "0" until you save the new entry.
 
-**Metadados**
+#### Metadados
 
 - **Metadescrição**. An paragraph to be used as the description of the
   page.
@@ -309,22 +273,14 @@ Article: Options.
 Tab is shown on Multilingual Sites
 only.
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-screenshot-article-edit-associations-pt.png"
-class="new"
-title="File:Help-4x-screenshot-article-edit-associations-pt.png">600px</a>
+![Associations tab](../../../images/en/articles/articles-edit-associations-tab.png "Associations Tab")
 
 ### Configurar ecrã de edição
 
 **Note**: This can be hidden by a user with Admin permissions in the
 Article: Options.
 
-<img
-src="https://docs.joomla.org/images/thumb/b/bc/Help-4x-screenshot-article-edit-configure-edit-screen-en.png/600px-Help-4x-screenshot-article-edit-configure-edit-screen-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/b/bc/Help-4x-screenshot-article-edit-configure-edit-screen-en.png/900px-Help-4x-screenshot-article-edit-configure-edit-screen-en.png 1.5x, https://docs.joomla.org/images/thumb/b/bc/Help-4x-screenshot-article-edit-configure-edit-screen-en.png/1200px-Help-4x-screenshot-article-edit-configure-edit-screen-en.png 2x"
-data-file-width="2880" data-file-height="970" width="600" height="202"
-alt="screenshot article edit configure edit screen" />
+![Configure edit screen tab](../../../images/en/articles/articles-edit-configure-edit-screen-tab.png "Configure edit screen Tab")
 
 - **Opções de publicação**. If Hide, the Publishing Options tab
   will not show in the Backend. This means that Backend users will not
@@ -334,10 +290,8 @@ alt="screenshot article edit configure edit screen" />
   will not show in the Backend. This means that Backend users will not
   be able to edit the fields in this tab. These fields will always be
   set to their default values.
-- **Administrador - Imagens e ligações padrão**. If Yes, the [Images and
-  Links
-  tab](https://docs.joomla.org/Help4.x:Articles:_Edit/en#imagesandlinks "Help4.x:Articles: Edit/en")
-  will show.
+- **Administrador - Imagens e ligações padrão**. If Yes, the Images and
+  Links tab will show.
 - **Área de visitantes - Imagens e ligações padrão**. If Yes, the Images
   and Links tab will show in the Frontend article editor screen.
 
@@ -347,12 +301,7 @@ alt="screenshot article edit configure edit screen" />
 Article: Options.
 This is where you can enter permissions for this article.
 
-<img
-src="https://docs.joomla.org/images/thumb/9/9c/Help-4x-screenshot-article-edit-permissions-en.png/600px-Help-4x-screenshot-article-edit-permissions-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/9/9c/Help-4x-screenshot-article-edit-permissions-en.png/900px-Help-4x-screenshot-article-edit-permissions-en.png 1.5x, https://docs.joomla.org/images/thumb/9/9c/Help-4x-screenshot-article-edit-permissions-en.png/1200px-Help-4x-screenshot-article-edit-permissions-en.png 2x"
-data-file-width="2878" data-file-height="1166" width="600" height="243"
-alt="screenshot article edit permissions" />
+![Permissions tab](../../../images/en/articles/articles-edit-permissions-tab.png "Permissions Tab")
 
 To change the permissions for this article, do the following.
 

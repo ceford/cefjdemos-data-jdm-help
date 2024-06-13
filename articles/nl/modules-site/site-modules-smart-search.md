@@ -31,7 +31,7 @@ alt="modules site module manager module smart search module" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Zoekfilter:** (*Geen filter*). Door het selecteren van een
   zoekfilter zal iedere uitgevoerde zoekopdracht via deze module beperkt
@@ -44,7 +44,7 @@ alt="modules site module manager module smart search module" />
   aangemaakt naar de slim zoeken weergave. Indien ingesteld op 'Toon',
   dan wordt de slim zoeken optie inline getoond.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

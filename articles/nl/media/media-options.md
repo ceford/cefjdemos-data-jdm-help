@@ -8,8 +8,7 @@ bestandstypes die toegestaan zijn bij het uploaden, MIME-type controle,
 MIME-type zwarte lijs en meer opties voor mediabeheer.
 
 ## Hoe toegang te krijgen
-
-**Inhoud → Media**
+Selecteer **Inhoud → Media**
 
 - Klik de **Opties** werkbalk knop.
 

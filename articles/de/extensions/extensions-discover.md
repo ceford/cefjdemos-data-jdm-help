@@ -106,7 +106,7 @@ im oberen Bereich.
   Konfiguration
   geändert werden.
 
-**Filter-Optionen**
+#### Filter-Optionen
 
 Ein oder mehrere Filter können kombiniert werden, um die Anzeige der
 Erweiterungen zu begrenzen.

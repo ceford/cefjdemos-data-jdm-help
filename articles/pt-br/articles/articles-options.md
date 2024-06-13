@@ -15,8 +15,7 @@ Você não precisa definir nenhuma dessas opções. Seu site Joomla!
 funcionará com as configurações padrões.
 
 ## Como acessar
-
-**Conteúdo → Artigos**
+Selecione **Conteúdo → Artigos**
 
 - clique no botão **Opções** na barra das ferramentas
 
@@ -47,7 +46,7 @@ class="new"
 title="Help4.x:Menu Item: List All Categories/pt-br (page does not exist)">listas
 para todas as categorias</a> e
 
-**Disposição**
+#### Disposição
 
 - **Escolher uma disposição**. Selecione o valor padrão para itens dos
   menus do tipo para artigos únicos.
@@ -66,7 +65,7 @@ para todas as categorias</a> e
 - **Título da informação do artigo**. Mostra "detalhes" no topo do bloco
   das informações do artigo.
 
-**Categoria**
+#### Categoria
 
 - **Categoria**. Mostre o título da categoria do artigo.
   - **Vincular a categoria**. Mostra o título como um link para e
@@ -83,14 +82,14 @@ para todas as categorias</a> e
     disposição](https://docs.joomla.org/Help4.x:Articles:_Options/pt-br#choosealayout "Help4.x:Articles: Options/pt-br")
     na aba (guia) "Categoria".
 
-**Associações**
+#### Associações
 
 - **Associações**. Mostra as bandeiras ou os códigos das linguagens
   associadas.
   - **Usar imagens das bandeiras**. Mostra as opções das linguagens como
     imagens das bandeiras.
 
-**Autor**
+#### Autor
 
 - **Autor**. Mostra o autor do artigo.
   - **Link para a página de contato do autor**. Mostra-o como um link
@@ -103,14 +102,14 @@ para todas as categorias</a> e
     autor"
     para o artigo.
 
-**Data**
+#### Data
 
 - **Data da criação**. Mostra a data da criação do artigo.
 - **Data da modificação**. Mostra a data da modificação do artigo.
 - **Data da publicação**. Mostra a data do início da publicação do
   artigo.
 
-**Opções**
+#### Opções
 
 - **Navegação**. Mostra um link, "Anterior" ou "Próximo", para navegação
   ao fazer uma busca detalhada no artigo.
@@ -483,7 +482,7 @@ href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help
 class="new"
 title="File:Help-4x-Content-Article-Manager-Options-integration-subscreen-pt-br.png">600px</a>
 
-**Feeds para notícias**
+#### Feeds para notícias
 
 - **Link do feed RSS**. Se definido como "Mostrar", um link de feed
   aparecerá como um ícone de feed na barra de endereços da maioria dos
@@ -494,17 +493,17 @@ title="File:Help-4x-Content-Article-Manager-Options-integration-subscreen-pt-br.
   - Texto completo: Todo o texto do artigo será mostrado no feed.
 - **Link "Ler mais"**. Mostra um link "Ler mais" no feed.
 
-**Roteamento**
+#### Roteamento
 
 - **Remover IDs dos URLs**. Remove o ID (no banco de dados) dos artigos
   em um link.
 
-**Campos personalizados**
+#### Campos personalizados
 
 - **Editar campos personalizados**. Habilita a criação dos campos
   personalizados.
 
-**Fluxo de trabalho**
+#### Fluxo de trabalho
 
 - **Habilitar fluxo de trabalho**. Usa fluxos de trabalho personalizados
   para gerenciar artigos.

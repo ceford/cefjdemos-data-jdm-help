@@ -53,14 +53,14 @@ decoding="async" data-file-width="800" data-file-height="387"
 width="800" height="387"
 alt="Components Tags Tags Edit Options Details Tab" />
 
-**Options Panel**
+#### Options Panel
 
 - **Layout**. Use a layout from the supplied component view or overrides
   in the templates.
 - **CSS Class for tag link**. Add specific CSS classes for the tag link.
   If empty 'label label-info' will be added by the default tag layout.
 
-**Images Panels**
+#### Images Panels
 
 - **Teaser Image.** The image that will be displayed as part of the
   list.

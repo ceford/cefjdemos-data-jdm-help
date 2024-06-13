@@ -34,7 +34,7 @@ alt="modules site module manager module statistics" />
 
 ### Modul
 
-**Linke Seite**
+#### Linke Seite
 
 - **Serverinformationen:** (*Anzeigen*/*Verbergen*).
   Server-Informationen anzeigen oder verbergen.
@@ -45,7 +45,7 @@ alt="modules site module manager module statistics" />
 - **Zähler hochsetzen:** Die Anzahl der Zugriffe zur Erhöhung des
   Zählers eingeben.
 
-**Rechte Seite**
+#### Rechte Seite
 
 - **Titel anzeigen** (*Anzeigen*/*Verbergen*). Zeigt den Titel des
   Moduls an oder unterdrückt die Anzeige im Frontend. Der angezeigte

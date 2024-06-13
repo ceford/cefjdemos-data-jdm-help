@@ -36,7 +36,7 @@ title="File:Help-4x-modules-site-module-manager-module-custom-html-pt-br.png">80
 
 ### Aba (guia) Módulo
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **Editor**: O editor não permite que você insira determinadas tags da
   HTML. Para contornar isso, você pode alterar temporariamente o editor
@@ -47,7 +47,7 @@ title="File:Help-4x-modules-site-module-manager-module-custom-html-pt-br.png">80
   o modo HTML, digitar o código, salvar e voltar para a visualização
   normal.
 
-**Painel direito**
+#### Painel direito
 
 - **Mostrar título**: (Mostrar/Ocultar) Escolhe se mostra ou oculta o
   título dos módulos no front-end. O título será aquele no campo do

@@ -29,7 +29,7 @@ title="File:Help-4x-modules-site-module-manager-module-articles-newsflash-pt-br.
 
 ### Aba (guia) Módulo
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **Categoria(s)**: Seleciona os artigos em uma categoria específica ou
   em um conjunto de categorias. Se não houver nenhuma seleção, todas as
@@ -56,7 +56,7 @@ title="File:Help-4x-modules-site-module-manager-module-articles-newsflash-pt-br.
 - **Direção**: (*Em ordem decrescente*/*em ordem crescente*). A direção
   da classificação em que os resultados serão mostrados.
 
-**Painel direito**
+#### Painel direito
 
 - **Title.** The title of the module. This is also the title displayed
   for the module depending on the *Show Title* Form Field

@@ -6,8 +6,7 @@ Die Benutzerliste wird verwendet, um Benutzer zu finden, hinzuzufügen
 und zu bearbeiten.
 
 ## Wie darauf zugreifen
-
-**Dashboard → Site → Benutzer**
+Wählen **Dashboard → Site → Benutzer**
 
 Einen Benutzer hinzufügen:
 

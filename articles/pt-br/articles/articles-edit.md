@@ -13,8 +13,7 @@ definir uma categoria específica ou fornecer metadados específicos para
 o artigo.
 
 ## Como acessar
-
-**Conteúdo → Artigos**
+Selecione **Conteúdo → Artigos**
 
 Para adicionar um artigo:
 
@@ -41,7 +40,7 @@ title="File:Help-4x-content-article-manager-add-new-article-pt-br.png">800px</a>
 
 ### Conteúdo
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **Texto do artigo**. É aqui que você insere o conteúdo do artigo. O
   Joomla! inclui 3 editores, o padrão (Editor - TinyMCE
@@ -59,8 +58,7 @@ mais.
 - **Alternar editor**. O botão "Alternar editor" é mostrado abaixo da
   janela para edição. Este botão permite alternar entre o TinyMCE e
 
-
-**Painel direito**
+#### Painel direito
 
 - **Estado**. O estado da publicação deste artigo.
   - Publicado: O artigo torna-se visível no site (frontend).
@@ -117,7 +115,7 @@ href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help
 class="new"
 title="File:Help-4x-screenshot-article-edit-images-links-pt-br.png">600px</a>
 
-**Imagem da introdução**
+#### Imagem da introdução
 
 - **Imagem da introdução**. Acione o (clique no) botão "Selecionar" para
   selecionar uma imagem que será mostrada em um local fixo no texto da
@@ -138,7 +136,7 @@ title="File:Help-4x-screenshot-article-edit-images-links-pt-br.png">600px</a>
   target="_blank" rel="nofollow noreferrer noopener">Aprender mais</a>.
 - **Legenda**. Cria uma legenda para esta imagem.
 
-**Imagem do artigo completo**
+#### Imagem do artigo completo
 
 - **Imagem do artigo completo**. Acione o (clique no) botão "Selecionar"
   para selecionar uma imagem que será mostrada em um local fixo no texto
@@ -159,11 +157,11 @@ title="File:Help-4x-screenshot-article-edit-images-links-pt-br.png">600px</a>
   target="_blank" rel="nofollow noreferrer noopener">Aprender mais</a>.
 - **Legenda**. Insira uma legenda opcional para esta imagem.
 
-**Link A**
+#### Link A
 
 - **Link A**. O URL do primeiro link a ser mostrado em um local fixo no
   texto do artigo. Este deve ser um URL completo, não relativo. Por
-  exemplo, normalmente começaria com 'https://'.
+  exemplo, normalmente começaria com `https:`.
 - **Texto do link A**. O texto usado para o "Link A". Se estiver em
   branco, o URL será mostrado.
 - **Janela de destino do URL**. Define o valor padrão para o destino do
@@ -190,7 +188,7 @@ href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help
 class="new"
 title="File:Help-4x-screenshot-article-edit-article-options-pt-br.png">600px</a>
 
-**Disposição**
+#### Disposição
 
 - **Disposição**. Usa uma disposição da exibição do artigo fornecida ou
   das <a
@@ -220,7 +218,7 @@ title="File:Help-4x-screenshot-article-edit-article-options-pt-br.png">600px</a>
 - **Título das Informações do artigo**. Mostra "Detalhes" na parte
   superior do bloco de informações do artigo.
 
-**Categoria**
+#### Categoria
 
 - **Categoria**. Mostra o título da categoria do artigo.
 - **Link da categoria**. Mostra o título como um link para aquela
@@ -230,12 +228,12 @@ title="File:Help-4x-screenshot-article-edit-article-options-pt-br.png">600px</a>
 - **Link da categoria parental**. Mostra o título como um link para
   aquela categoria.
 
-**Associações**
+#### Associações
 
 - **Associações**. Mostra as bandeiras ou os códigos das linguagens
   associadas.
 
-**Autor**
+#### Autor
 
 - **Autor**. Mostra o autor do artigo.
 - **Link para a página de contato do autor**. Mostra isso como um link
@@ -245,14 +243,14 @@ title="File:Help-4x-screenshot-article-edit-article-options-pt-br.png">600px</a>
   title="Help4.x:Contacts/pt-br (page does not exist)">configurado como um
   contato</a>.
 
-**Data**
+#### Data
 
 - **Data da criação**. Mostra a data da criação do artigo.
 - **Data da modificação**. Mostra a data da modificação do artigo.
 - **Data da publicação**. Mostra a data do início da publicação do
   artigo.
 
-**Opções**
+#### Opções
 
 - **Navigação**. Mostra um link para navegação "Anterior" ou "Próximo"
   ao detalhar o artigo.
@@ -297,7 +295,7 @@ href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help
 class="new"
 title="File:Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-pt-br.png">600px</a>
 
-**Publicação**
+#### Publicação
 
 - **Início da publicação**. Data e hora para iniciar a publicação.
   Insira o artigo com antecedência e, em seguida, publique-o
@@ -328,7 +326,7 @@ title="File:Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-pt
   não pode alterar esse número. Ao criar um novo artigo, este campo
   mostra "0" até que você salve a nova entrada.
 
-**Metadados**
+#### Metadados
 
 - **Meta descrição**. Um parágrafo para ser usado como a descrição da
   página.

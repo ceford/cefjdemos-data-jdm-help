@@ -8,8 +8,7 @@ Benutzer.
 Die Hilfeseite zeigt als Beispiel 'Benutzer'.
 
 ## Wie darauf zugreifen
-
-**Benutzer → Felder**
+Wählen **Benutzer → Felder**
 
 Ein Feld hinzufügen:
 
@@ -34,7 +33,7 @@ alt="Fields Edit screen" />
 
 ### Allgemein
 
-**Linke Seite**
+#### Linke Seite
 
 Parameter für alle Eigenen Felder:
 
@@ -60,7 +59,7 @@ Parameter für alle Eigenen Felder:
   Formular einer Komponente, die Felder verwendet, abgesendet werden
   kann.
 
-**Rechte Seite**
+#### Rechte Seite
 
 - **Status**. Der Veröffentlichungs-Status des Feldes.
   - Veröffentlicht: Das Feld ist beim Bearbeiten eines Beitrages oder
@@ -101,7 +100,7 @@ srcset="https://docs.joomla.org/images/thumb/b/b5/Help-4x-Fields-Edit-options-su
 data-file-width="2880" data-file-height="1378" width="600" height="287"
 alt="Fields Edit options subscreen" />
 
-**Eingabemaske-Optionen**
+#### Eingabemaske-Optionen
 
 - **Platzhalter**. Ein Platzhalter-Text erscheint innerhalb eines Feldes
   als Hinweis für die Eingabe. Der Platzhalter wird im Backend beim
@@ -140,7 +139,7 @@ instead of *list-of-items*, where ID is the id of the field
 field you are creating need be: `field36:value1[OR]field36:value2` where
 36 is the ID of the field 'List of items'.
 
-**Ausgabe-Optionen**
+#### Ausgabe-Optionen
 
 - **CSS-Klasse Ausgabe**. Das CSS-Klassenattribut für das Feld, wenn es
   ausgegeben wird. Mehrere Klassen mit Leerzeichen trennen.

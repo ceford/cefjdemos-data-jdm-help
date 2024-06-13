@@ -84,7 +84,7 @@ im oberen Bereich.
 
 ### Filtern nach Bereich, Status, Typ und Verzeichnis
 
-**Location**
+#### Location
 
 - **- Bereich wählen -**. Einen Bereich aus der Drop-down-Liste der
   möglichen Bereiche wählen.
@@ -94,7 +94,7 @@ im oberen Bereich.
   administrative Aufgaben verwendet. Üblicherweise wird mit diesen
   Erweiterungen direkt im Backend gearbeitet.
 
-**Status**
+#### Status
 
 - **- Status wählen -**. Den Status der Erweiterung aus der
   Drop-down-Liste wählen.
@@ -105,12 +105,12 @@ im oberen Bereich.
 - **Ungeschützt**. Installierte und ungeschützte Erweiterung. Diese
   Erweiterung kann aktiviert, deaktiviert oder deinstalliert werden.
 
-**Extension Type**
+#### Extension Type
 
 - **- Typ wählen -**. Den Typ der Erweiterungen aus der Dropdown-Liste
   wählen.
 
-**Folder**
+#### Folder
 
 - **- Verzeichnis wählen. -**. Ein Plugin-Verzeichnis aus der
   Drop-down-Liste wählen. Für jeden Plugin-Typ gibt es ein eigenes

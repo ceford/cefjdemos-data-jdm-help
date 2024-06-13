@@ -33,7 +33,7 @@ title="File:Help-4x-modules-site-module-manager-module-wrapper-pt-br.png">800px<
 
 ### Aba (guia) Módulo
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **URL**: URL do site/arquivo que você deseja mostrar no iframe.
 - **Adicionar automaticamente**: (*Sim*/*não*). Por padrão, http:// será
@@ -51,7 +51,7 @@ title="File:Help-4x-modules-site-module-manager-module-wrapper-pt-br.png">800px<
   envolve o iframe.
 - **Nome do destino**: Nome do iframe quando usado como destino
 
-**Painel direito**
+#### Painel direito
 
 - **Mostrar título**: (Mostrar/Ocultar) Escolhe se mostra ou oculta o
   título dos módulos no front-end. O título será aquele no campo do

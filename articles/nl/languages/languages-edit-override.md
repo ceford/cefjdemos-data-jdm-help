@@ -38,7 +38,7 @@ alt="Extensions Language Manager Overrides Edit screen" />
 
 ### Formulier velden
 
-**Rechter venster: Zoektekst die u wilt wijzigen**
+#### Rechter venster: Zoektekst die u wilt wijzigen
 
 - **Zoeken op.** Begin hier! U kent waarschijnlijk eerder de waarde
   (verlopen) dan de constante (\_EXPIRED). In alle gevallen, is de
@@ -51,7 +51,7 @@ alt="Extensions Language Manager Overrides Edit screen" />
   override** venster, met de tekst **Bewerk deze override** indien u een
   bestaande override bewerkt.
 
-**Linker venster: Maak een nieuwe override aan of Bewerk deze override**
+#### Linker venster: Maak een nieuwe override aan of Bewerk deze override
 
 - **Taal constante.** Dit is de constante die in de code van de
   ontwikkelaar wordt gebruikt. Als de waarde niet bestaat in de code,

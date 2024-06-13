@@ -32,7 +32,7 @@ alt="modules site module manager module syndication feeds" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Label:** Als 'Label weergeven' geactiveerd is wordt de tekst die
   hier staat getoond naast het icoon met de RSS Link. Als dit veld leeg
@@ -43,7 +43,7 @@ alt="modules site module manager module syndication feeds" />
 - **Feedformat:** (*RSS 2.0*/*Atom 1.0*). Selecteer het formaat voor het
   Syndication Feed.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

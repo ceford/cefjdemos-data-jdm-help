@@ -46,7 +46,7 @@ title="File:Help-4x-Menus-New-Item-screen-pt-br.png">800px</a>
 
 ### Detalhes
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **Tipo do item dos menus**: O tipo do item dos menus selecionado
   quando este item dos menus foi criado.
@@ -55,7 +55,7 @@ title="File:Help-4x-Menus-New-Item-screen-pt-br.png">800px</a>
 - **Janela destino**: Selecione a partir da lista suspensa.
 - **Estilo do tema**: Selecione a partir da lista suspensa.
 
-**Painel direito**
+#### Painel direito
 
 - **Menu**: Mostra em qual menu o link aparecerá.
 - **Item parental (superior, principal, pai)**: O item dos menus

@@ -32,7 +32,7 @@ alt="modules administrator module manager articles latest" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Items om weer te geven.** Het aantal items dat getoond moet worden
   (standaard 5).
@@ -43,7 +43,7 @@ alt="modules administrator module manager articles latest" />
 - **Auteurs:** (*Iedereen*/*Toegevoegd of bewerkt door mijzelf*/*Niet
   toegevoegd of bewerkt door mijzelf*/*Gemaakt door*). Filter op auteur.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

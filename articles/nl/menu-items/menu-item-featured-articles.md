@@ -6,8 +6,7 @@ Het 'Speciale artikelen' menu-itemtype wordt gebruikt om alle artikelen
 die het kenmerk 'Speciaal' hebben in een blogweergave te tonen.
 
 ## Hoe toegang te krijgen
-
-**Menu's → \[naam van het menu\]**
+Selecteer **Menu's → \[naam van het menu\]**
 
 Om een menu-item aan te maken:
 
@@ -243,7 +242,7 @@ Auteur
   Also, a link will not show if there is an Author Alias
   value for the article.
 
-**Date**
+#### Date
 
 - **Create Date**. nl
 - **Modify Date**. nl

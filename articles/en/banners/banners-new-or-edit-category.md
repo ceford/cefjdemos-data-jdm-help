@@ -10,7 +10,7 @@ of Categories, such as those for Articles, Contacts, and News Feeds.
 ## How to Access
 
 Navigate to the Banner Categories list:
-**Components → Banners → Categories**
+-**Components → Banners → Categories**
 
 - **New**. Click on **New** icon in toolbar.
 - **Edit**. To edit an existing Banner Category, click on the

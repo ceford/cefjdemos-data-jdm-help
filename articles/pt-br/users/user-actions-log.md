@@ -62,7 +62,7 @@ pesquisa mostrada na captura de tela acima.
   Selecione na lista suspensa para alterar o número exibido.O padrão
   para um site é '20', mas isso pode ser alterado nas
 
-**Opções do filtro**
+#### Opções do filtro
 
 - **Selecionar extensão**: Selecione a extensão desejada para limitar a
   lista com base em uma extensão específica

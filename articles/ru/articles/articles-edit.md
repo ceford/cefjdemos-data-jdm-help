@@ -11,8 +11,7 @@ Most parameters have suitable defaults but you might wish to set a
 specific Category or provide article-specific Metadata.
 
 ## Как открыть
-
-**Контент → Материалы**
+Выбирать **Контент → Материалы**
 
 To add a Article:
 
@@ -24,12 +23,7 @@ To edit a Article:
 
 ## Скриншот
 
-<img
-src="https://docs.joomla.org/images/thumb/8/84/Help-4x-content-article-manager-add-new-article-en.png/800px-Help-4x-content-article-manager-add-new-article-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/8/84/Help-4x-content-article-manager-add-new-article-en.png/1200px-Help-4x-content-article-manager-add-new-article-en.png 1.5x, https://docs.joomla.org/images/thumb/8/84/Help-4x-content-article-manager-add-new-article-en.png/1600px-Help-4x-content-article-manager-add-new-article-en.png 2x"
-data-file-width="2880" data-file-height="1584" width="800" height="440"
-alt="content article manager add new article" />
+![Articles edit screenshot](../../../images/en/articles/articles-edit-screenshot.png "Articles edit")
 
 ## Form Fields
 
@@ -102,7 +96,7 @@ srcset="https://docs.joomla.org/images/thumb/7/7a/Help-4x-screenshot-article-edi
 data-file-width="2880" data-file-height="1244" width="600" height="259"
 alt="screenshot article edit images links" />
 
-**Изображение вводного текста**
+#### Изображение вводного текста
 
 - **Изображение вводного текста**. Click the Select button to select an
   image to be displayed in a fixed location in the Intro Text of this
@@ -121,7 +115,7 @@ alt="screenshot article edit images links" />
 
 - **Подпись**. Create a caption for this image.
 
-**Изображение полного текста**
+#### Изображение полного текста
 
 - **Изображение полного текста**. Click the Select button to select an
   image to be displayed in a fixed location in the Full Text of this
@@ -140,11 +134,11 @@ alt="screenshot article edit images links" />
 
 - **Подпись**. Enter an optional caption for this image.
 
-**URL ссылки A**
+#### URL ссылки A
 
 - **URL ссылки A**. The URL for the first link to be displayed in a
   fixed location in the article text. This must be a full URL, not
-  relative. For example, it normally would start with 'https://'.
+  relative. For example, it normally would start with `https:`.
 - **Заголовок ссылки A**. The text used for Link A. If blank, the URL
   will be displayed.
 - **Окно браузера**. Sets the default value for the target for the first
@@ -172,7 +166,7 @@ srcset="https://docs.joomla.org/images/thumb/c/c9/Help-4x-screenshot-article-edi
 data-file-width="2880" data-file-height="1244" width="600" height="259"
 alt="screenshot article edit article options" />
 
-**Макет**
+#### Макет
 
 - **Макет**. Use a layout from the supplied article view or overrides in the templates.
 - **Заголовок**. Show the Article's Title.
@@ -193,7 +187,7 @@ alt="screenshot article edit article options" />
 - **Заголовок информации о материале**. Displays 'Details' on top of the
   article information block.
 
-**Категория**
+#### Категория
 
 - **Категория**. Show the Article's Category Title.
 - **Категория как ссылка**. Show the title as a link to that Category.
@@ -202,24 +196,24 @@ alt="screenshot article edit article options" />
 - **Родительская категория как ссылка**. Show the title as a link to
   that Category.
 
-**Связи**
+#### Связи
 
 - **Языковые связи**. Show the associated flags or Language Code.
   Multilingual only.
 
-**Автор**
+#### Автор
 
 - **Автор**. Show the author of the Article.
 - **Автор как ссылка**. Show it as a link to a Contact layout for that
   author.Note: The author must be set up as a Contact.
 
-**Дата**
+#### Дата
 
 - **Дата создания**. Show the Article's create date.
 - **Дата изменения**. Show the Article's modify date.
 - **Дата публикации**. Show the Article's start publishing date.
 
-**Параметры**
+#### Параметры
 
 - **Ссылки "Назад/Вперед"**. Show a navigation link 'Prev' or 'Next'
   when you drill down to the article.
@@ -264,7 +258,7 @@ srcset="https://docs.joomla.org/images/thumb/c/c4/Help-4x-Content-Article-Manage
 data-file-width="2880" data-file-height="1244" width="600" height="259"
 alt="Content Article Manager Edit publishing options subscreen" />
 
-**Публикация**
+#### Публикация
 
 - **Начало публикации**. Date and time to start publishing. Enter
   article ahead of time and then have it published automatically at a
@@ -294,7 +288,7 @@ alt="Content Article Manager Edit publishing options subscreen" />
   change this number. When creating a new Article, this field displays
   "0" until you save the new entry.
 
-**Метаданные**
+#### Метаданные
 
 - **Метатег Description**. An paragraph to be used as the description of
   the page.

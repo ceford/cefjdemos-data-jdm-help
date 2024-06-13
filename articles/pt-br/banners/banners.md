@@ -116,7 +116,7 @@ pesquisa mostrada na captura de tela acima.
   Selecione na lista suspensa para alterar o número exibido.O padrão
   para um site é '20', mas isso pode ser alterado nas
 
-**Opções do filtro**
+#### Opções do filtro
 
 Perto do topo da página, você verá a barra de filtros mostrada na
 captura de tela acima. As funções são:

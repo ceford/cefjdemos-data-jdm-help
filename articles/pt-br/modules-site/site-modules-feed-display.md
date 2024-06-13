@@ -33,7 +33,7 @@ title="File:Help-4x-modules-site-module-manager-module-feed-display-pt-br.png">8
 
 ### Aba (guia) Módulo
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **URL do feed**: Insira o URL do feed RSS/RDF/ATOM.
 - **Feed RTL**: (*Sim*/*não*). Exibe o feed na direção RTL (da direita
@@ -51,7 +51,7 @@ title="File:Help-4x-modules-site-module-manager-module-feed-display-pt-br.png">8
 - **Contagem das palavras**: Permite limitar a quantidade do texto da
   descrição do item visível. 0 mostrará todo o texto
 
-**Painel direito**
+#### Painel direito
 
 - **Mostrar título**: (Mostrar/Ocultar) Escolhe se mostra ou oculta o
   título dos módulos no front-end. O título será aquele no campo do

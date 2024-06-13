@@ -7,8 +7,7 @@ todos os artigos que foram marcados como destacados em uma disposição
 para blog.
 
 ## Como acessar
-
-**Menus → \[nome do menu\]**
+Selecione **Menus → \[nome do menu\]**
 
 Para adicionar um item dos menus:
 

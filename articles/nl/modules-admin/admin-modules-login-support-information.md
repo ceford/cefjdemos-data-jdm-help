@@ -32,7 +32,7 @@ alt="extensions module manager login support" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Inlog ondersteuningsinformatie.** Deze module toont op het
   inlogscherm enkele handige links naar Joomla support sites.
@@ -46,7 +46,7 @@ alt="extensions module manager login support" />
   <a href="https://www.joomla.org/" class="external free" target="_blank"
   rel="noreferrer noopener">https://www.joomla.org/</a>
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

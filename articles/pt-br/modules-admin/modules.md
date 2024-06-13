@@ -8,8 +8,7 @@ Os módulos são usados para exibir conteúdo e/ou mídia em torno do
 conteúdo principal.
 
 ## Como acessar
-
-**Painel inicial → Site → Módulos**
+Selecione **Painel inicial → Site → Módulos**
 
 Para adicionar um módulo:
 

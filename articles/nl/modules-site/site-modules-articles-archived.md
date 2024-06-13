@@ -36,7 +36,7 @@ alt="modules site module manager module archived articles" />
 
 - **\# maanden.** Het aantal weer te geven maanden (standaard is 10).
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

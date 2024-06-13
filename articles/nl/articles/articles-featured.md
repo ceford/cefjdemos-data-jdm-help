@@ -8,8 +8,7 @@ is meestal de startpagina van de website, maar het kan iedere pagina op
 de site zijn.
 
 ## Hoe toegang te krijgen
-
-**Inhoud → Speciale artikelen**
+Selecteer **Inhoud → Speciale artikelen**
 
 Om een artikel toe te voegen:
 

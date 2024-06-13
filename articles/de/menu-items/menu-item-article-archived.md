@@ -11,8 +11,7 @@ archiviert. Hinweis: Beiträge der Kategorie 'Unkategorisiert' werden
 nicht im Menüeintrag archivierter Beiträge gezeigt.
 
 ## Wie darauf zugreifen
-
-**Menüs → \[Name des Menüs\]**
+Wählen **Menüs → \[Name des Menüs\]**
 
 Einen Menüeintrag hinzufügen:
 
@@ -44,7 +43,7 @@ alt="Menus Item Articles Article Archived screen" />
 
 ### Details
 
-**Linke Seite**
+#### Linke Seite
 
 - **Menüeintragstyp**. Der Menüeintragstyp wird beim Erstellen des
   Menüeintrages gewählt. Das kann einer der Core-Menüeintragstypen oder
@@ -55,7 +54,7 @@ alt="Menus Item Articles Article Archived screen" />
 - **Zielfenster**. Aus der Dropdown-Liste wählen.
 - **Template-Stil**. Aus der Dropdown-Liste wählen.
 
-**Rechte Seite**
+#### Rechte Seite
 
 - **Menü**. Zeigt, in welchem Menü der Link erscheinen wird.
 
@@ -109,7 +108,7 @@ srcset="https://docs.joomla.org/images/thumb/3/33/Help-4x-Menus-Item-Articles-Ar
 data-file-width="2880" data-file-height="1340" width="600" height="279"
 alt="Menus Item Articles Article Archived options subscreen" />
 
-**Layout**
+#### Layout
 
 - **Einleitungstext**.
   - Anzeigen: Der Beitrag wird inklusive Einleitungstext gezeigt.
@@ -128,7 +127,7 @@ alt="Menus Item Articles Article Archived options subscreen" />
 - **Beitragsinfotitel**. Zeigt 'Details' über dem Block der
   Beitragsinformation an.
 
-**Kategorie**
+#### Kategorie
 
 - **Kategorie**. Den Kategorietitel des Beitrags zeigen.
 - **Kategorie verlinken**. Den Kategorietitel als Link zeigen.Hinweis:
@@ -143,7 +142,7 @@ alt="Menus Item Articles Article Archived options subscreen" />
   'Blog' oder 'Liste' festgelegt werden.
 - **Titel verlinken**. Den Titel als Link zeigen.
 
-**Autor**
+#### Autor
 
 - **Autor**. Zeigt den Autor des Beitrags.
 - **Autor verlinken**. Zum Kontakt des Autors verlinken.Hinweis: Der
@@ -153,14 +152,14 @@ alt="Menus Item Articles Article Archived options subscreen" />
   Autoralias
   eingegeben, wird der Link nicht angezeigt.
 
-**Datum**
+#### Datum
 
 - **Erstellungsdatum**. Das Erstellungsdatum des Beitrages zeigen.
 - **Bearbeitungsdatum**. Das Bearbeitungsdatum des Beitrages zeigen.
 - **Veröffentlichungsdatum**. Das Veröffentlichungsdatum des Beitrages
   zeigen.
 
-**Optionen**
+#### Optionen
 
 - **Seitennavigation**. Zeigt die Navigationslinks 'Zurück' oder
   'Weiter', wenn der Beitrag gezeigt wird.

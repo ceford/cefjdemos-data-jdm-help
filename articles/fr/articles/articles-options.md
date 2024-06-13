@@ -13,8 +13,7 @@ You do not need to set any of these options. Your Joomla site will work
 with the default settings.
 
 ## Comment y accéder
-
-**Contenus → Articles**
+Sélectionner **Contenus → Articles**
 
 - Cliquez sur le bouton **Paramètres** dans la barre d'outils.
 
@@ -38,7 +37,7 @@ Featured Articles,
 List All Categories,
 and Single Article.
 
-**Type de mise en page**
+#### Type de mise en page
 
 - **Mise en page**. Choisissez dans la liste déroulante la mise en page
   à appliquer. Si vous avez défini des mises en page alternatives pour
@@ -60,7 +59,7 @@ and Single Article.
 - **Titre d'informations d'article**. Afficher ou masquer le titre
   d’informations de l'article.
 
-**Catégorie**
+#### Catégorie
 
 - **Titre de la catégorie**. Show the Article's Category Title.
   - **Lien sur les titres**. Show the title as a link to that
@@ -74,13 +73,13 @@ and Single Article.
     with the Choose a Layout
     option in the Category Tab.
 
-**Associations**
+#### Associations
 
 - **Associations multilingues**. Show the associated flags or Language
   Code. Multilingual only.
   - **Utiliser les icônes**. Display language choice as image flags.
 
-**Auteur**
+#### Auteur
 
 - **Auteur**. Show the author of the Article.
   - **Lien vers sa page de contact**. Activer le lien sur le nom de
@@ -90,14 +89,14 @@ and Single Article.
     Also, a link will not show if there is an Author Alias
     value for the article.
 
-**Date**
+#### Date
 
 - **Date de création**. Show the Article's create date.
 - **Date de modification**. Afficher la date et l'heure de dernière
   modification.
 - **Date de Publication**. Show the Article's start publishing date.
 
-**Paramètres**
+#### Paramètres
 
 - **Navigation entre articles**. Afficher ou masquer un lien de
   navigation (par exemple, Suivant, Précédent) entre les articles.
@@ -421,7 +420,7 @@ srcset="https://docs.joomla.org/images/thumb/3/3e/Help-4x-Content-Article-Manage
 data-file-width="2004" data-file-height="1346" width="600" height="403"
 alt="Content Article Manager Options integration subscreen" />
 
-**Fils d'actualité**
+#### Fils d'actualité
 
 - **Lien de flux RSS**. If set to Show, a Feed Link will show up as a
   feed icon in the address bar of most browsers.
@@ -431,18 +430,18 @@ alt="Content Article Manager Options integration subscreen" />
   - Texte complet: The entire text of the article will show in the feed.
 - **Lien "Lire la suite"**. Show a "Read more" link in the feed.
 
-**Routage**
+#### Routage
 
 - **Supprimer les "id" des URL**. Remove the database id of articles in
   a link.
 
-**Champs personnalisés**
+#### Champs personnalisés
 
 - **Intégration des champs**. Enable the creation of custom fields.
   Pour en savoir
   plus.
 
-**Flux de travail**
+#### Flux de travail
 
 - **Activer le flux de travail**. Use customised workflows to manage
   articles. Pour en savoir

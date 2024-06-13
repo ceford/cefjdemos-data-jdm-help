@@ -32,7 +32,7 @@ alt="modules site module manager module random image" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Afbeeldingstype:** Type van de afbeelding PNG\|GIF\|JPG etc. (de
   standaard is JPG).
@@ -47,7 +47,7 @@ alt="modules site module manager module random image" />
 - **Hoogte (px):** Hoogte waarmee alle afbeeldingen getoond worden met
   deze hoogte in pixels.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

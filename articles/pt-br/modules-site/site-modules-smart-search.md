@@ -30,7 +30,7 @@ title="File:Help-4x-modules-site-module-manager-module-smart-search-module-pt-br
 
 ### Aba (guia) Módulo
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **Filtro da pesquisa**: (*Sem filtro*). Selecionar um filtro para
   pesquisa limitará todas as pesquisas enviadas por meio deste módulo
@@ -44,7 +44,7 @@ title="File:Help-4x-modules-site-module-manager-module-smart-search-module-pt-br
   inteligente. Se configurado para "Mostrar", as opções da pesquisa
   avançada serão exibidas em linha.
 
-**Painel direito**
+#### Painel direito
 
 - **Mostrar título**: (Mostrar/Ocultar) Escolhe se mostra ou oculta o
   título dos módulos no front-end. O título será aquele no campo do

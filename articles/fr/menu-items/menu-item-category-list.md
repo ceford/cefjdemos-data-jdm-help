@@ -6,8 +6,7 @@ Le type liens de menu Liste de catégories permet d'afficher les articles
 appartenant à une catégorie spécifique sous forme de liste.
 
 ## Comment y accéder
-
-**Menus → \[nom du menu\]**
+Sélectionner **Menus → \[nom du menu\]**
 
 Pour ajouter un nouvel élément de menu ː
 
@@ -39,7 +38,7 @@ alt="Menus Item Articles Category List screen" />
 
 ### Détails
 
-**Panneau gauche**
+#### Panneau gauche
 
 - **Type de lien de menu**. Le type de lien de menu sélectionné lors de
   la création de ce lien de menu. Il peut s'agir d'un des types de liens
@@ -186,7 +185,7 @@ srcset="https://docs.joomla.org/images/thumb/a/ac/Help-4x-Menus-Item-Articles-Ca
 data-file-width="2878" data-file-height="1344" width="600" height="280"
 alt="Menus Item Articles Category List options subscreen" />
 
-**Type de mise en page**
+#### Type de mise en page
 
 - **Mise en page**. Sélectionnez dans la liste déroulante.
 - **Titre de l'article**. Show the Article's Title.
@@ -197,7 +196,7 @@ alt="Menus Item Articles Category List options subscreen" />
   - Masquer: Only the part of the article after the Read More break will
     show.
 
-**Catégorie**
+#### Catégorie
 
 - **Titre de la catégorie**. Afficher ou masquer le titre de la
   catégorie parente de la catégorie de l'article.
@@ -212,13 +211,13 @@ alt="Menus Item Articles Category List options subscreen" />
   with the Choose a Layout
   option in the Category Tab.
 
-**Associations**
+#### Associations
 
 - **Associations multilingues**. Show the associated flags or Language
   Code. Associations
   multilingues.
 
-**Auteur**
+#### Auteur
 
 - **Auteur**. Show the author of the Article.
 - **Lien vers sa page de contact**. Activer le lien sur le nom de
@@ -227,13 +226,13 @@ alt="Menus Item Articles Category List options subscreen" />
   Also, a link will not show if there is an Author Alias
   value for the article.
 
-**Date**
+#### Date
 
 - **Date de création**. Show the Article's create date.
 - **Date de modification**. Show the Article's modify date.
 - **Date de Publication**. Show the Article's start publishing date.
 
-**Paramètres**
+#### Paramètres
 
 - **Navigation entre articles**. Afficher ou masquer un lien de
   navigation (par exemple, Suivant, Précédent) entre les articles.

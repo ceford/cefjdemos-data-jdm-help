@@ -8,8 +8,7 @@ site créée à l'aide d'un élément de menu avec le type d'élément de menu
 "Articles épinglés".
 
 ## Comment y accéder ?
-
-**Contenus → Articles épinglés**
+Sélectionner **Contenus → Articles épinglés**
 
 To add a Article:
 

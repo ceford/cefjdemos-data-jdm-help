@@ -8,8 +8,7 @@ geselecteerde opties voor deze weergave kunt u op een categorietitel
 klikken om de artikelen in die categorie te tonen.
 
 ## Hoe toegang te krijgen
-
-**Menu's → \[naam van het menu\]**
+Selecteer **Menu's → \[naam van het menu\]**
 
 Om een menu-item aan te maken:
 
@@ -42,7 +41,7 @@ alt="Menus Item Articles List All Categories screen" />
 
 ### Details
 
-**Linker venster**
+#### Linker venster
 
 - **Menu-itemtype**. Het menu-item type dat geselecteerd is toen het
   mneu-item aangemaakt werd. Dit kan een van de core menu-item types
@@ -56,7 +55,7 @@ alt="Menus Item Articles List All Categories screen" />
 - **Doelvenster**. Selecteer uit de uitklaplijst.
 - **Templatestijl**. Selecteer uit de uitklaplijst.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Menu**. Toont in welk menu de link zal verschijnen.
 
@@ -285,7 +284,7 @@ srcset="https://docs.joomla.org/images/thumb/1/11/Help-4x-Menus-Item-Articles-Li
 data-file-width="2878" data-file-height="1344" width="600" height="280"
 alt="Menus Item Articles List All Categories options subscreen" />
 
-**Weergave**
+#### Weergave
 
 - nl
 - **Titel**. Het al dan niet tonen van de titel van het artikel.
@@ -296,7 +295,7 @@ alt="Menus Item Articles List All Categories options subscreen" />
   - Hide: Only the part of the article after the Read More break will
     show.
 
-**Categorie**
+#### Categorie
 
 - nl
 - nlNote: You can set this to be either a blog or list layout with the
@@ -307,7 +306,7 @@ alt="Menus Item Articles List All Categories options subscreen" />
   Choose a Layout
   option in the Category Tab.
 
-**Auteur**
+#### Auteur
 
 - nl
 - nlNote: The author must be set up as a
@@ -315,13 +314,13 @@ alt="Menus Item Articles List All Categories options subscreen" />
   Also, a link will not show if there is an Author Alias
   value for the article.
 
-**Datum**
+#### Datum
 
 - nl
 - nl
 - nl
 
-**Opties**
+#### Opties
 
 - nl
 - nl

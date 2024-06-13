@@ -118,7 +118,7 @@ srcset="https://docs.joomla.org/images/thumb/0/04/Help-4x-Menus-Item-Articles-Ar
 data-file-width="2880" data-file-height="1300" width="600" height="271"
 alt="Menus Item Articles Article Archived options subscreen" />
 
-**Макет**
+#### Макет
 
 - **Вводный текст**.
   - Показать: The Intro Text of the article will show when you drill
@@ -136,7 +136,7 @@ alt="Menus Item Articles Article Archived options subscreen" />
 - **Заголовок информации о материале**. Displays 'Details' on top of the
   article information block.
 
-**Категория**
+#### Категория
 
 - **Категория**. Show the Article's Category Title.
 - **Категория как ссылка**. Show the title as a link to that
@@ -151,7 +151,7 @@ alt="Menus Item Articles Article Archived options subscreen" />
   option in the Category Tab.
 - **Заголовок как ссылка**. Show the title as a link to the article.
 
-**Автор**
+#### Автор
 
 - **Автор**. Show the author of the Article.
 - **Автор как ссылка**. Show it as a link to a Contact layout for that
@@ -160,13 +160,13 @@ alt="Menus Item Articles Article Archived options subscreen" />
   Also, a link will not show if there is an Author Alias
   value for the article.
 
-**Дата**
+#### Дата
 
 - **Дата создания**. Show the Article's create date.
 - **Дата изменения**. Show the Article's modify date.
 - **Дата публикации**. Show the Article's start publishing date.
 
-**Параметры**
+#### Параметры
 
 - **Ссылки "Назад/Вперед"**. Show a navigation link 'Prev' or 'Next'
   when you drill down to the article.

@@ -28,7 +28,7 @@ U beschikt al over de nieuwste Joomla versie, u hoeft dus niets te doen.
 - **Controleer op updates.** Klik op de werkbalk knop om te zien of er
   updates beschikbaar zijn.
 
-**Het update-scherm als er een update beschikbaar is.**
+#### Het update-scherm als er een update beschikbaar is.
 
 <a
 href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-joomla-update-manager-with-updates-screen-nl.png"
@@ -42,7 +42,7 @@ vanaf dit scherm installeren. Druk, om dit te doen, op de 'Installeer de
 update' knop in de werkbalk en Joomla zal de nieuwste core bestanden
 installeren.
 
-**Het scherm tijdens het updaten.**
+#### Het scherm tijdens het updaten.
 
 <a
 href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-joomla-update-manager-updating-screen-nl.png"

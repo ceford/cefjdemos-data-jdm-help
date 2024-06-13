@@ -33,14 +33,14 @@ title="File:Help-4x-modules-site-module-manager-module-latest-users-pt-br.png">8
 
 ### Aba (guia) Módulo
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **Quantidade de usuários**: Quantidade de usuários mais recentemente
   registrados a serem mostrados.
 - **Filtrar grupos:** (*Sim*/*não*). Define se filtra os usuários
   conectados por grupos,
 
-**Painel direito**
+#### Painel direito
 
 - **Mostrar título**: (Mostrar/Ocultar) Escolhe se mostra ou oculta o
   título dos módulos no front-end. O título será aquele no campo do

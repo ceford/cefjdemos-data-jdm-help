@@ -35,7 +35,7 @@ alt="Language Edit Override screen" />
 
 ## Form Fields
 
-**Right Panel: Search text you want to change**
+#### Right Panel: Search text you want to change
 
 - **Search For.** Start here! You are more likely to know the Value
   (expired) than the Constant (\_EXPIRED). In either case, the search is
@@ -48,7 +48,7 @@ alt="Language Edit Override screen" />
   panel, labelled **Edit this Override** if you editing an existing
   override.
 
-**Left Panel: Create a New Override or Edit this Override**
+#### Left Panel: Create a New Override or Edit this Override
 
 - **Language Constant.** This is the strings used in the code by the
   developer. If the value does not exist in the code the string will

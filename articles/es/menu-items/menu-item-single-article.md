@@ -38,7 +38,7 @@ alt="Menus Item Articles Single Article screen" />
 
 ### Detalles
 
-**Panel izquierdo**
+#### Panel izquierdo
 
 - **Tipo de elemento del menú**. El Tipo de Elemento del Menú
   seleccionado cuando este elemento del menú se creó. Este puede ser uno
@@ -57,7 +57,7 @@ alt="Menus Item Articles Single Article screen" />
 - **Abrir en**. Seleccione de la lista desplegable.
 - **Estilo de la plantilla**. Seleccione de la lista desplegable.
 
-**Panel Derecho**
+#### Panel Derecho
 
 - **Menú**. Muestra en qué menú aparecerá el enlace.
 
@@ -77,7 +77,7 @@ Note: Options include "**Use Global**". If this is selected, the setting
 from the Articles: Options
 will be used.
 
-**Presentación**
+#### Presentación
 
 - **Title**. Show the Article's Title.
 - **Título enlazable**. Si el Título del Artículo se muestra, si se va a
@@ -95,7 +95,7 @@ will be used.
 - **Article Info Title**. Displays 'Details' on top of the article
   information block.
 
-**Categoría**
+#### Categoría
 
 - **Category**. Show the Article's Category Title.
 - **Categoría enlazable**. Si la categoría del artículo se muestra, si
@@ -110,12 +110,12 @@ will be used.
   to be either a blog or list layout with the Choose a Layout
   option in the Category Tab.
 
-**Asociaciones**
+#### Asociaciones
 
 - **Associations**. Show the associated flags or Language Code.
   Multilingual only.
 
-**Mostrar autor**
+#### Mostrar autor
 
 - **Author**. Show the author of the Article.
 - **Link to Author's Contact Page**. Show it as a link to a Contact
@@ -124,13 +124,13 @@ will be used.
   Also, a link will not show if there is an Author Alias
   value for the article.
 
-**Fecha**
+#### Fecha
 
 - **Create Date**. Show the Article's create date.
 - **Modify Date**. Show the Article's modify date.
 - **Publish Date**. Show the Article's start publishing date.
 
-**Opciones**
+#### Opciones
 
 - **Navigation**. Show a navigation link 'Prev' or 'Next' when you drill
   down to the article.

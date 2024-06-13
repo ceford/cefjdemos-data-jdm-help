@@ -114,7 +114,7 @@ im oberen Bereich.
 Die Pluginliste kann sehr lang sein. Das Anwenden von einem oder
 mehreren kombinierten Filtern kann die angezeigte Liste begrenzt werden.
 
-**Filter-Optionen**
+#### Filter-Optionen
 
 - **Status**. Einen Status (Deaktiviert/Aktiviert) aus der Liste wählen,
   um nur Plugins mit diesem Status anzuzeigen.

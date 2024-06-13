@@ -33,7 +33,7 @@ alt="modules site module manager module smart search module" />
 
 ### Modul
 
-**Linke Seite**
+#### Linke Seite
 
 - **Suchfilter:** (*Keine Filter*). Wenn ein Suchfilter ausgewählt wird,
   werden alle über dieses Modul durchgeführten Suchen auf die Verwendung
@@ -48,7 +48,7 @@ alt="modules site module manager module smart search module" />
   Anzeigen gesetzt ist, werden die erweiterten Suchoptionen inline
   angezeigt.
 
-**Rechte Seite**
+#### Rechte Seite
 
 - **Titel anzeigen** (*Anzeigen*/*Verbergen*). Zeigt den Titel des
   Moduls an oder unterdrückt die Anzeige im Frontend. Der angezeigte

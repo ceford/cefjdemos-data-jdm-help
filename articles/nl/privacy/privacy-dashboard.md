@@ -5,7 +5,7 @@
 Dit scherm toont een lijst met gebruikers privacyverzoek type, status en
 aantal verzoeken.
 
-**Handleidingen**
+#### Handleidingen
 
 - Privacy overzicht - Inhoud en
   workflow

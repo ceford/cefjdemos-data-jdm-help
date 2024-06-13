@@ -50,12 +50,12 @@ alt="extensions module manager edit" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 De inhoud van het linker venster hangt af van het moduletype en wordt
 hier niet besproken.
 
-**Rechter venster**
+#### Rechter venster
 
 Het rechter venster is gelijk voor alle modules.
 

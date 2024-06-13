@@ -74,7 +74,7 @@ title="File:Help30-colheader-select-track-type-pt-br.png">File:Help30-colheader-
 - **Selecionar os níveis máximos**: Seleciona a partir da lista de
   níveis disponíveis.
 
-**Data do início e do término.**
+#### Data do início e do término.
 
 - **Data do início**: A data do início dos monitoramentos que serão
   listados.

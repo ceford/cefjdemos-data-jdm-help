@@ -75,7 +75,7 @@ bovenstaande Screenshot.
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
   voor een site is '20' maar dit kan veranderd worden bij de
 
-**Filteropties**
+#### Filteropties
 
 U kunt een van de beschikbare filters gebruiken of welke combinatie dan
 ook om het aantal getoonde extensies dat getoond wordt te beperken tot

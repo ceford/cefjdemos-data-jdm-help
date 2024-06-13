@@ -9,8 +9,7 @@ Les modules sont utilisés pour afficher du contenu et/ou des médias
 autour du contenu principal.
 
 ## Comment y accéder ?
-
-**Panneau d'administration → Site → Modules**
+Sélectionner **Panneau d'administration → Site → Modules**
 
 Pour ajouter un module :
 

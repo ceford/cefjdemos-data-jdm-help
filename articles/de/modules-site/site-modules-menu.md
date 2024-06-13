@@ -35,7 +35,7 @@ alt="modules site module manager module menu" />
 
 ### Modul
 
-**Linke Seite**
+#### Linke Seite
 
 - **Menü auswählen**. (*Haupt-Menü*/*Benutzer-Menü*/*usw.*) Ein Menü aus
   der Liste aussuchen.
@@ -60,7 +60,7 @@ alt="modules site module manager module menu" />
 - **Untermenüeinträge anzeigen**. (*Anzeigen*/*Verbergen*) Das Menü
   erweitern und seine Untermenüpunkte immer anzeigen lassen.
 
-**Rechte Seite**
+#### Rechte Seite
 
 - **Titel anzeigen** (*Anzeigen*/*Verbergen*). Zeigt den Titel des
   Moduls an oder unterdrückt die Anzeige im Frontend. Der angezeigte

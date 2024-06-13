@@ -117,14 +117,14 @@ alt="Extensions Plugin Manager Edit screen" />
 
 ### Plugin
 
-**Linke Seite**
+#### Linke Seite
 
 Wenn das Plugin konfigurierbare Optionen hat, erscheinen diese hier. Das
 im Screenshot gezeigte Beispiel ist das Plugin *Inhalt -
 Datenschutzerklärung*, das mehrere konfigurierbare Parameter hat, die
 sich ändern, wenn Optionen ausgewählt werden.
 
-**Rechte Seite**
+#### Rechte Seite
 
 Der Detailbereich rechts ist bei allen Plugins gleich und hat diese
 Felder:

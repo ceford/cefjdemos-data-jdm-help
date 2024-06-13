@@ -30,14 +30,14 @@ title="File:Help-4x-modules-site-module-manager-module-whos-online-pt-br.png">80
 
 ### Aba (guia) Módulo
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **Exibição**: (*Convidados / usuários (quantidade)*/*Nomes dos
   usuários*/*Ambos*). Selecione o que deve ser mostrado.
 - **Filtrar grupos**: (Sim/Não) Escolha se filtra os usuários conectados
   por grupos.
 
-**Painel direito**
+#### Painel direito
 
 - **Mostrar título**: (Mostrar/Ocultar) Escolhe se mostra ou oculta o
   título dos módulos no front-end. O título será aquele no campo do

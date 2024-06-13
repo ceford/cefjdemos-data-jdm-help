@@ -29,7 +29,7 @@ title="File:Help-4x-modules-site-module-manager-module-banners-pt-br.png">800px<
 
 ### Aba (guia) Módulo
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **Destino**: (*Abrir na janela principal*/*abrir em uma nova
   janela*/*abrir em popup*). Janela destino quando o link é acionado.
@@ -50,7 +50,7 @@ title="File:Help-4x-modules-site-module-manager-module-banners-pt-br.png">800px<
 - **Texto do rodapé**: Texto ou HTML a ser mostrado após o grupo dos
   banners.
 
-**Painel direito**
+#### Painel direito
 
 - **Mostrar título**: (Mostrar/Ocultar) Escolhe se mostra ou oculta o
   título dos módulos no front-end. O título será aquele no campo do

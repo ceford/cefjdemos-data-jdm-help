@@ -11,8 +11,7 @@ worden georganiseerd, zoals bestandsstructuren. Alle artikelen moet óf
 toegekend worden aan een hoofdcategorie of een onderliggende categorie.
 
 ## Hoe toegang te krijgen
-
-**Controlepaneel → Site → Artikelcategorieën**
+Selecteer **Controlepaneel → Site → Artikelcategorieën**
 
 Om een categorie toe te voegen:
 

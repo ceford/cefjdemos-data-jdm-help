@@ -6,8 +6,7 @@ Modules Options configuration allows setting of parameters used globally
 for Modules.
 
 ## How to Access
-
-**Content → Site Modules**
+Select **Content → Site Modules**
 
 - click the **Options** toolbar button
 

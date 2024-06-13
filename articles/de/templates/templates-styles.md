@@ -100,7 +100,7 @@ im oberen Bereich.
   Konfiguration
   geändert werden.
 
-**Filter-Optionen**
+#### Filter-Optionen
 
 - **Menüeintrag wählen.** Über das Dropdown-Listenfeld lassen sich die
   Seiten auswählen, denen der Stil zugewiesen wurde.

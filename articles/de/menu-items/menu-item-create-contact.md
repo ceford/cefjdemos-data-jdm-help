@@ -45,7 +45,7 @@ alt="Menus Menu Item Create Contact screen" />
 
 ### Registerkarte Details
 
-**Linke Seite**
+#### Linke Seite
 
 - **Menüeintragstyp**. Der Menüeintragstyp wird beim Erstellen des
   Menüeintrages gewählt. Das kann einer der Core-Menüeintragstypen oder
@@ -55,7 +55,7 @@ alt="Menus Menu Item Create Contact screen" />
 - **Zielfenster.** Aus der Dropdown-Liste wählen.
 - **Template-Stil.** Aus der Dropdown-Liste wählen.
 
-**Rechte Seite**
+#### Rechte Seite
 
 - **Menü**. Zeigt, in welchem Menü der Link erscheinen wird.
 - **Übergeordneter Eintrag.** Der übergeordnete Menüpunkt für diesen

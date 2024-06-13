@@ -15,8 +15,7 @@ U hoeft geen van deze opties in te stellen. Uw Joomla site zal met de
 standaard instellingen werken.
 
 ## Hoe toegang te krijgen
-
-**Inhoud → Artikelen**
+Selecteer **Inhoud → Artikelen**
 
 - Klik de **Opties** werkbalk knop.
 
@@ -42,7 +41,7 @@ Lijst met alle
 Categorieën
 en
 
-**Weergave**
+#### Weergave
 
 - **Kies een weergave**. Selecteer de standaard waarde Enkel artikel
   menu-items.
@@ -62,7 +61,7 @@ en
 - **Titel artikelinformatie**. Toont 'Details' boven het
   artikelinformatie gedeelte.
 
-**Categorie**
+#### Categorie
 
 - **Categorie**. Toont de categorietitel van een artikel.
   - **Link categorie**. Toont de titel als link naar die categorie.Let
@@ -78,14 +77,14 @@ en
     weergave
     optie op het categorie tabblad.
 
-**Associaties**
+#### Associaties
 
 - **Associaties**. Toont de geassocieerde vlaggen of taalcodes. Alleen
   meertaligheid.
   - **Gebruik afbeeldingen van vlaggen**. Toon taalkeuze als
     afbeeldingsvlag.
 
-**Auteur**
+#### Auteur
 
 - **Auteur**. Toont de auteur van een artikel.
   - **Link naar de contactpagina van de auteur**. Toont het als link
@@ -96,13 +95,13 @@ en
     alias
     waarde voor het artikel is.
 
-**Datum**
+#### Datum
 
 - **Aanmaakdatum**. Toont de aanmaakdatum van een artikel.
 - **Aanpassingsdatum**. Toont de aanpassingsdatum van een artikel.
 - **Publicatiedatum**. Toont de publicatiedatum van een artikel.
 
-**Opties**
+#### Opties
 
 - **Navigatie**. Toont een navigatie link 'vorige' of 'volgende' indien
   door artikelen gebladerd wordt.
@@ -444,7 +443,7 @@ srcset="https://docs.joomla.org/images/thumb/7/78/Help-4x-Content-Article-Manage
 data-file-width="2005" data-file-height="1333" width="600" height="399"
 alt="Content Article Manager Options integration subscreen" />
 
-**Nieuwsfeeds**
+#### Nieuwsfeeds
 
 - **RSS feed link**. Als deze ingesteld staat op Toon zal de Feedlink
   verschijnen als een feedicoon in de adresbalk bij de meeste browsers.
@@ -455,17 +454,17 @@ alt="Content Article Manager Options integration subscreen" />
     de feed.
 - **"Lees meer" link**. Toon of verberg een "Lees meer" link in de feed.
 
-**Routering**
+#### Routering
 
 - **Verwijder ID's uit URL's**. Verwijder de database-ID van artikelen
   in een link.
 
-**Extra velden**
+#### Extra velden
 
 - **Extra velden inschakelen**. Extra velden aanmaken inschakelen. Meer
   leren.
 
-**Workflow**
+#### Workflow
 
 - **Workflow**. Gebruik aangepaste workflows om artikelen te beheren.
   Meer

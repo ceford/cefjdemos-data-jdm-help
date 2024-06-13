@@ -43,7 +43,7 @@ ways. For example, someone using a search engine to find out how to do
 something might come across a help screen on the wiki without ever
 having accessed the help system.
 
-**Notes:**
+#### Notes:
 
 - If the way to reach the screen is from another screen then the name of
   that screen should be a link to its help screen.
@@ -56,7 +56,7 @@ having accessed the help system.
 
 Screenshot showing the overall look of the screen.
 
-**Notes:**
+#### Notes:
 
 - Screenshot images can be any width, but larger images should have the
   \|800px added in the source.

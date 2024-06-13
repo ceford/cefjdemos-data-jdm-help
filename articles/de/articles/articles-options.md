@@ -14,8 +14,7 @@ Es ist nicht nötig, die Optionen zu ändern. Die Joomla-Website
 funktioniert mit den Standardeinstellungen.
 
 ## Wie darauf zugreifen
-
-**Inhalt → Beiträge**
+Wählen **Inhalt → Beiträge**
 
 - auf den Button **Optionen** der Werkzeugleiste klicken.
 
@@ -40,7 +39,7 @@ Kategorieblog
 und
 Kategorieliste.
 
-**Layout**
+#### Layout
 
 - **Layout auswählen**. Den Standardwert für den Menüeintrag 'Einzelner
   Beitrag' festlegen.
@@ -59,7 +58,7 @@ Kategorieliste.
 - **Beitragsinfotitel**. Zeigt 'Details' über dem Block der
   Beitragsinformation an.
 
-**Kategorie**
+#### Kategorie
 
 - **Kategorie**. Den Kategorietitel des Beitrags zeigen.
   - **Kategorie verlinken**. Den Kategorietitel als Link zeigen.Hinweis:
@@ -73,13 +72,13 @@ Kategorieliste.
     auswählen
     'Blog' oder 'Liste' festgelegt werden.
 
-**Verknüpfungen**
+#### Verknüpfungen
 
 - **Verknüpfungen anzeigen**. Zeigt verknüpfte Flaggen oder den
   Sprachcode.
   - **Flaggen verwenden**. Anzeige der Sprachauswahl als Flaggenbild.
 
-**Autor**
+#### Autor
 
 - **Autor**. Zeigt den Autor des Beitrags.
   - **Autor verlinken**. Wird der Autor des Beitrages gezeigt, wird zum
@@ -92,14 +91,14 @@ Kategorieliste.
     Autoralias
     eingegeben, wird der Link nicht angezeigt.
 
-**Datum**
+#### Datum
 
 - **Erstellungsdatum**. Das Erstellungsdatum des Beitrages zeigen.
 - **Bearbeitungsdatum**. Das Bearbeitungsdatum des Beitrages zeigen.
 - **Veröffentlichungsdatum**. Das Veröffentlichungsdatum des Beitrages
   zeigen.
 
-**Optionen**
+#### Optionen
 
 - **Seitennavigation**. Zeigt die Navigationslinks 'Zurück' oder
   'Weiter', wenn der Beitrag gezeigt wird.
@@ -431,7 +430,7 @@ srcset="https://docs.joomla.org/images/thumb/f/f5/Help-4x-Content-Article-Manage
 data-file-width="2004" data-file-height="1335" width="600" height="400"
 alt="Content Article Manager Options integration subscreen" />
 
-**Newsfeeds**
+#### Newsfeeds
 
 - **Feed-Link**. Bei 'Anzeigen' wird ein Feed-Link mit einem Feed-Icon
   in der Adressleiste der meisten Browser gezeigt.
@@ -440,18 +439,18 @@ alt="Content Article Manager Options integration subscreen" />
   - Gesamter Text: Den gesamten Beitrag in den Newsfeed einbinden.
 - **"Weiterlesen"-Link**. Den "Weiterlesen"-Link im Feed zeigen.
 
-**Routing**
+#### Routing
 
 - **IDs aus den URLs entfernen**. Die Datenbank-ID von Beiträgen nicht
   im Link verwenden.
 
-**Felder**
+#### Felder
 
 - **Eigene Felder aktivieren**. Erstellen eigener Felder aktivieren.
   Mehr
   erfahren.
 
-**Workflow**
+#### Workflow
 
 - **Workflow**. Beiträge mit eigenen Workflows verwalten. Mehr
   erfahren.

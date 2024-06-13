@@ -33,7 +33,7 @@ alt="modules site module manager module language switcher" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Voor tekst:** Dit is de tekst of HTML die getoond wordt boven de
   taalselectie.
@@ -51,7 +51,7 @@ alt="modules site module manager module language switcher" />
   Indien getoond dan wordt de class 'lang-active' toegevoegd aan het
   element.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het

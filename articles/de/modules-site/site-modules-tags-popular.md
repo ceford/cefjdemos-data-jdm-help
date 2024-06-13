@@ -35,7 +35,7 @@ alt="modules site module manager module popular tags" />
 
 ### Modul
 
-**Linke Seite**
+#### Linke Seite
 
 - **Übergeordnetes Schlagwort.** Begrenzt die angezeigten Schlagwörter
   auf die untergeordneten Schlagwörter dieser übergeordneten
@@ -57,7 +57,7 @@ alt="modules site module manager module popular tags" />
   aus, wenn keine passenden Schlagwörter gefunden werden, anstatt das
   Modul auszublenden.
 
-**Rechte Seite**
+#### Rechte Seite
 
 - **Titel anzeigen** (*Anzeigen*/*Verbergen*). Zeigt den Titel des
   Moduls an oder unterdrückt die Anzeige im Frontend. Der angezeigte

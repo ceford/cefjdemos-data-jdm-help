@@ -31,7 +31,7 @@ title="File:Help-4x-modules-site-module-manager-module-most-read-content-pt-br.p
 
 ### Aba (guia) Módulo
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **Categoria(s)**: Seleciona os artigos em uma categoria específica ou
   em um conjunto de categorias. Se não houver nenhuma seleção, todas as
@@ -40,7 +40,7 @@ title="File:Help-4x-modules-site-module-manager-module-most-read-content-pt-br.p
 - **Artigos destacados**: (*Mostrar*/*ocultar*). Mostra ou oculta
   artigos designados como destacados.
 
-**Painel direito**
+#### Painel direito
 
 - **Mostrar título**: (Mostrar/Ocultar) Escolhe se mostra ou oculta o
   título dos módulos no front-end. O título será aquele no campo do

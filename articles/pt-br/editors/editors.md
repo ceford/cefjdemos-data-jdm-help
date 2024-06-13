@@ -57,7 +57,7 @@ Esta opção fornece todos os mesmos botões documentados no conjunto 2 de
 barra de ferramentas acima. Além disso, as seguintes opções estão
 disponíveis:
 
-**Linha superior**
+#### Linha superior
 
 - Conteúdo do S.G.C.: A lista suspensa fornece acesso aos links para um
   artigo, contato, campo, mídia, menu ou módulo.
@@ -149,7 +149,7 @@ title="Chunk4x:Extensions Plugin Manager Edit Button Group/pt-br (page does not 
 - Recuo (mover/recuar para a esquerda e para a direita).
 - 3 pontos: Mostra a segunda linha da barra de ferramentas.
 
-**Segunda linha**
+#### Segunda linha
 
 - Inserir/editar link: Para inserir ou editar um link, selecione o texto
   vinculado e pressione este botão. Uma caixa de diálogo pop-up é
@@ -188,7 +188,7 @@ Esta opção fornece todos os mesmos botões documentados no conjunto 1 da
 barra de ferramentas acima. Além disso, as seguintes opções estão
 disponíveis.
 
-**Linha superior**
+#### Linha superior
 
 - Blocos: Parágrafos, cabeçalhos, pré-formatados.
 - Fontes: Seleciona a fonte desejada.
@@ -199,7 +199,7 @@ disponíveis.
   pop-up será mostrada, permitindo que você insira a origem, a largura
   ou a altura e outras informações sobre a imagem.
 
-**Segunda linha**
+#### Segunda linha
 
 - Seleciona a cor do texto ou a cor do plano de fundo.
 - Tela inteira.
@@ -218,7 +218,7 @@ disponíveis.
 - Bloco de citação.
 - Insert Template.
 
-**Terceira linha**
+#### Terceira linha
 
 - Imprime o texto do artigo.
 - Inserir/editar amostra de código.

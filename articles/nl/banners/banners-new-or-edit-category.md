@@ -11,8 +11,7 @@ contactpersonen en nieuwsfeeds.
 ## Hoe toegang te krijgen
 
 Navigeer naar Advertentie categorie
-beheer,
-**Componenten → Advertenties → Categorieën**
+beheer,Selecteer **Componenten → Advertenties → Categorieën**
 
 - **Nieuw**. Klik op het **Nieuw** icoon in de werkbalk.
 - **Bewerk**. Klik, om een bestaande advertentie categorie te bewerken
@@ -39,7 +38,7 @@ alt="Components Banners Categories Edit screen" />
 
 ### Gegevens tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Beschrijving.** De beschrijving van het item in. Categorie,
   subcategorie en weblink beschrijvingen kunnen worden weergegeven op
@@ -47,7 +46,7 @@ alt="Components Banners Categories Edit screen" />
   worden ingevoerd met behulp van dezelfde editor die wordt gebruikt
   voor artikelen.
 
-**Rechter venster**
+#### Rechter venster
 
 - **Hoofd**. Het item (categorie, menu-item, enzovoort) dat bovenliggend
   is aan het item dat bewerkt wordt.

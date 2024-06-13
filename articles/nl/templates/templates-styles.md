@@ -95,7 +95,7 @@ bovenstaande Screenshot.
   uit de uitklaplijst om het te tonen aantal te veranderen.De standaard
   voor een site is '20' maar dit kan veranderd worden bij de
 
-**Filteropties**
+#### Filteropties
 
 - **Selecteer Menu-item.** Gebruik de drop-down lijst om pagina's te
   selecteren waaraan de stijl is toegekend.

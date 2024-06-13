@@ -10,8 +10,7 @@ system y el nivel inferior en la jerarquía del contenido. Cada Artículo
 pertenece a una Categoría.
 
 ## Cómo Acceder
-
-**Panel de inicio → Site → Artículos**
+Seleccionar **Panel de inicio → Site → Artículos**
 
 To add a Article:
 
@@ -44,18 +43,10 @@ alt="Content Article screen" />
   primer artículo de la lista se abrirá para su edición.
 - **Orden**. You can change the order of an article within a list as
   follows:
-  - Select the Ordering icon <img
-    src="https://docs.joomla.org/images/thumb/7/79/Help-4x-Ordering-colheader-icon.png/9px-Help-4x-Ordering-colheader-icon.png"
-    decoding="async"
-    srcset="https://docs.joomla.org/images/thumb/7/79/Help-4x-Ordering-colheader-icon.png/14px-Help-4x-Ordering-colheader-icon.png 1.5x, https://docs.joomla.org/images/7/79/Help-4x-Ordering-colheader-icon.png 2x"
-    data-file-width="18" data-file-height="23" width="9" height="12"
-    alt="Ordering icon" /> in the List heading to make it active.
-  - Select one of the Three dots icons <img
-    src="https://docs.joomla.org/images/thumb/a/a0/Help-4x-Ordering-colheader-grab-bar-icon.png/5px-Help-4x-Ordering-colheader-grab-bar-icon.png"
-    decoding="async"
-    srcset="https://docs.joomla.org/images/thumb/a/a0/Help-4x-Ordering-colheader-grab-bar-icon.png/8px-Help-4x-Ordering-colheader-grab-bar-icon.png 1.5x, https://docs.joomla.org/images/a/a0/Help-4x-Ordering-colheader-grab-bar-icon.png 2x"
-    data-file-width="9" data-file-height="27" width="5" height="15"
-    alt="Three dots icon" /> and drag it up or down to change the
+  - Select the Ordering icon <i class="fa-solid fa-sort"></i> in the first
+  column heading to make it active.
+  - Select one of the vertical ellipsis icons <span class="icon-ellipsis-v"></span>
+ and drag it up or down to change the
     position of that row in the list.
   - In the Filter Options you may limit the list to articles that are
     assigned for example to a Language.

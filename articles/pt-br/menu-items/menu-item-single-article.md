@@ -6,8 +6,7 @@ O item dos menus do tipo para artigos únicos é usado para mostrar um
 artigo no site (front-end).
 
 ## Como acessar
-
-**Menus → \[nome do menu\]**
+Selecione **Menus → \[nome do menu\]**
 
 Para adicionar um item dos menus:
 
@@ -37,7 +36,7 @@ title="File:Help-4x-Menus-Item-Articles-Single-Article-screen-pt-br.png">800px</
 
 ### Detalhes
 
-**Painel esquerdo**
+#### Painel esquerdo
 
 - **Tipo do item dos menus**: O tipo do item dos menus selecionado
   quando este item dos menus foi criado. Este pode ser um dos tipos
@@ -58,7 +57,7 @@ title="File:Help-4x-Menus-Item-Articles-Single-Article-screen-pt-br.png">800px</
 - **Janela para destino**: Selecione a partir da lista suspensa.
 - **Estilo do tema**: Selecione a partir da lista suspensa.
 
-**Painel direito**
+#### Painel direito
 
 - **Menu**: Mostra em qual menu o link aparecerá.
 
@@ -77,7 +76,7 @@ a configuração em Artigos:
 Opções
 será usada.
 
-**Disposição**
+#### Disposição
 
 - **Título**: Mostra o título do artigo.
 - **Títulos vinculados**: Mostra o título como um link para o artigo.
@@ -97,7 +96,7 @@ será usada.
 - **Título da informação do artigo**: Mostra "Detalhes" no topo do bloco
   contendo as informações do artigo.
 
-**Categoria**
+#### Categoria
 
 - **Categoria**: Mostra o título da categoria do artigo.
 - **Vincular a categoria**: Mostra o título como um link para essa
@@ -113,12 +112,12 @@ será usada.
   disposição"
   na aba (guia) "Categoria".
 
-**Associações**
+#### Associações
 
 - **Associações**: Mostra as bandeiras associadas ou o código da
   linguagem.
 
-**Autor**
+#### Autor
 
 - **Autor**: Mostra o autor do artigo.
 - **Link para a página de contato do autor**: Mostre-o como um link para
@@ -131,14 +130,14 @@ será usada.
   autor"
   para o artigo.
 
-**Data**
+#### Data
 
 - **Data da criação**: Mostra a data da criação do artigo.
 - **Data da modificação**: Mostra a data da modificação do artigo.
 - **Data da publicação**: Mostra a data do início da publicação do
   artigo.
 
-**Opções**
+#### Opções
 
 - **Navegação**: Mostra um link "Anterior" ou "Próximo" para navegação
   ao detalhar o artigo.

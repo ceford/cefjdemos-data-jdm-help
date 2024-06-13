@@ -13,8 +13,7 @@ vous pouvez souhaiter définir une catégorie spécifique ou fournir des
 métadonnées propres à un article.
 
 ## Comment y accéder
-
-**Contenus → Articles**
+Sélectionner **Contenus → Articles**
 
 Pour ajouter un article :
 
@@ -119,7 +118,7 @@ srcset="https://docs.joomla.org/images/thumb/1/16/Help-4x-screenshot-article-edi
 data-file-width="2880" data-file-height="1290" width="600" height="269"
 alt="screenshot article edit images links" />
 
-**Image de l'introduction**
+#### Image de l'introduction
 
 - **Image de l'introduction**. Click the Select button to select an
   image to be displayed in a fixed location in the Intro Text of this
@@ -141,7 +140,7 @@ alt="screenshot article edit images links" />
   plus.</a>
 - **Légende**. Légende attachée à l'image.
 
-**Image de l'article complet**
+#### Image de l'article complet
 
 - **Image de l'article complet**. Click the Select button to select an
   image to be displayed in a fixed location in the Full Text of this
@@ -163,10 +162,10 @@ alt="screenshot article edit images links" />
   plus.</a>
 - **Légende**. Légende attachée à l'image.
 
-**Lien A**
+#### Lien A
 
 - **Lien A**. Lien vers lequel les utilisateurs seront redirigés. Doit
-  être une URL complète incluant l'entête 'https://'.
+  être une URL complète incluant l'entête `https:`.
 - **Texte du lien A**. Texte à afficher pour ce lien. Si laissé vide,
   l'URL sera affichée.
 - **Cible de l'URL**. Fenêtre cible du navigateur lorsque le lien de
@@ -198,7 +197,7 @@ srcset="https://docs.joomla.org/images/thumb/0/0a/Help-4x-screenshot-article-edi
 data-file-width="2880" data-file-height="1290" width="600" height="269"
 alt="screenshot article edit article options" />
 
-**Type de mise en page**
+#### Type de mise en page
 
 - **Type de mise en page**. Use a layout from the supplied article view
   or
@@ -220,7 +219,7 @@ alt="screenshot article edit article options" />
 - **Titre d'informations d'article**. Displays 'Details' on top of the
   article information block.
 
-**Catégorie**
+#### Catégorie
 
 - **Catégorie**. Show the Article's Category Title.
 - **Lien sur les titres**. Show the title as a link to that Category.
@@ -228,24 +227,24 @@ alt="screenshot article edit article options" />
 - **Lien de catégorie parente**. Show the title as a link to that
   Category.
 
-**Associations**
+#### Associations
 
 - **Associations multilingues**. Show the associated flags or Language
   Code. Multilingual only.
 
-**Auteur**
+#### Auteur
 
 - **Auteur**. Show the author of the Article.
 - **Lien vers sa page de contact**. Activer le lien sur le nom de
   l'auteur vers sa page de contact.Note: The author must be set up as a Contact.
 
-**Date**
+#### Date
 
 - **Date de création**. Show the Article's create date.
 - **Date de modification**. Show the Article's modify date.
 - **Date de Publication**. Show the Article's start publishing date.
 
-**Paramètres**
+#### Paramètres
 
 - **Navigation entre articles**. Afficher ou masquer un lien de
   navigation (par exemple, Suivant, Précédent) entre les articles.
@@ -290,7 +289,7 @@ srcset="https://docs.joomla.org/images/thumb/e/e4/Help-4x-Content-Article-Manage
 data-file-width="2880" data-file-height="1290" width="600" height="269"
 alt="Content Article Manager Edit publishing options subscreen" />
 
-**Publication**
+#### Publication
 
 - **Début de publication**. Date et heure du début de publication.
   Utilisez ce champ si vous souhaitez intégrer du contenu à l'avance et
@@ -321,7 +320,7 @@ alt="Content Article Manager Edit publishing options subscreen" />
   change this number. When creating a new Article, this field displays
   "0" until you save the new entry.
 
-**Métadonnées**
+#### Métadonnées
 
 - **Description**. An paragraph to be used as the description of the
   page. Pour en savoir

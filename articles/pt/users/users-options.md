@@ -11,8 +11,7 @@ User Options set globally for all users include
 - new user registration email notice to administration and more.
 
 ## Como Aceder
-
-**Utilizadores → Gerir**
+Selecione **Utilizadores → Gerir**
 
 - click the **Options** toolbar button
 

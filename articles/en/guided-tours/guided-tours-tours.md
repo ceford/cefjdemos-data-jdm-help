@@ -10,7 +10,7 @@ Joomla comes with built-in tours, a good starting point to create new tours.
 
 ## How to Access
 
-**System** -> **Manage** -> **Guided Tours**
+#### System** -> **Manage** -> **Guided Tours
 
 To add a Tour:
 
@@ -32,7 +32,8 @@ To edit a Tour's steps:
 
 - **Checkbox**. Check this box to select tours. To select all tours, check the box in the column heading. After boxes are checked the toolbar button 'Actions' get active.
 - **Ordering**. You can change the order of a tour within a list as follows:
-  - Select the Ordering icon ![Ordering icon](assets/ordering-colheader-icon.png) in the List heading to make it active.
+  - Select the Ordering icon ![Ordering icon](assets/ordering-colheader-icon.png) in the first
+  column heading to make it active.
   - Select one of the Three dots icons ![Dots icon](assets/ordering-colheader-grab-bar-icon.png) and drag it up or down to change the position of that row in the list.
   - In the Filter Options you may limit the list to tours that are assigned, for example to a Language.
   The ordering of tours in the console determines the order of the tours in 'Take a tour'.

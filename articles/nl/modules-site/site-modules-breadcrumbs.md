@@ -32,7 +32,7 @@ alt="modules site module manager module breadcrumbs" />
 
 ### Module tabblad
 
-**Linker venster**
+#### Linker venster
 
 - **Toon "U bent hier":** (*Toon*/*Verberg*). Toon of verberg "U bent
   hier" tekst in het pad
@@ -44,7 +44,7 @@ alt="modules site module manager module breadcrumbs" />
 - **Laatste:** (*Toon*/*Verberg*). Toon of verberg het laatste element
   in het pad
 
-**Rechter venster**
+#### Rechter venster
 
 - **Toon titel.** (Toon/Verberg) Kies of de moduletitel op de website
   getoond of verborgen moet worden. De titel wordt degene in het
