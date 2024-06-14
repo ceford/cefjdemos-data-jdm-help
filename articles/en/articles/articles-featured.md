@@ -15,12 +15,7 @@ Home page of a web site, but it can be any page in the site.
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/thumb/0/0e/Help-4x-Content-Featured-Articles-screen-en.png/800px-Help-4x-Content-Featured-Articles-screen-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/0/0e/Help-4x-Content-Featured-Articles-screen-en.png/1200px-Help-4x-Content-Featured-Articles-screen-en.png 1.5x, https://docs.joomla.org/images/thumb/0/0e/Help-4x-Content-Featured-Articles-screen-en.png/1600px-Help-4x-Content-Featured-Articles-screen-en.png 2x"
-data-file-width="2648" data-file-height="1600" width="800" height="483"
-alt="Articles featured list" />
+![Featured articles list screenshot](../../../images/en/articles/articles-featured-screenshot.png "Feature Articles List")
 
 ## Column Headers
 
@@ -32,7 +27,7 @@ alt="Articles featured list" />
   - Select the Ordering icon <i class="fa-solid fa-sort"></i> in the first
   column heading to make it active.
   - Select one of the vertical ellipsis icons <span class="icon-ellipsis-v"></span>
- and drag it up or down to change the
+    and drag it up or down to change the
     position of that row in the list.
   - In the Filter Options you may limit the list to articles that are
     assigned for example to a Language.

@@ -8,9 +8,9 @@ help=help-screens=help-screens-styleguide.md
 
 heading=articles=Articles
 help=articles=articles.md
-help=articles=articles-categories.md
-help=articles=articles-edit.md
 help=articles=articles-featured.md
+help=articles=articles-edit.md
+help=articles=articles-categories.md
 help=articles=articles-new-or-edit-category.md
 help=articles=articles-options.md
 

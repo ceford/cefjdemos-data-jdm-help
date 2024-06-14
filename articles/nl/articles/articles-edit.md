@@ -40,7 +40,7 @@ alt="content article manager add new article" />
   van spaties. Meer
   leren.
 
-### Inhoud
+### Inhoud tabblad
 
 #### Linker venster
 
@@ -105,7 +105,7 @@ leren.
   identificeren in het
   versiegeschiedenis.
 
-### Afbeeldingen en links
+### Afbeeldingen en links tabblad
 
 **Let op**: Dit kan verborgen worden door een gebruiker met
 administratie rechten in de
@@ -178,10 +178,9 @@ alt="screenshot article edit images links" />
   - Openen in pop-upvenster: Opent de link in een pop-up venster (zonder
     volledige navigatie-elementen).
   - Modaal: Opent de link in een modaal pop-up venster.
+- **Link B**, **Link C**: Zelfde opties als 'Link A'.
 
-**Link B**, **Link C**: Zelfde opties als 'Link A'.
-
-### Opties
+### Opties tabblad
 
 **Let op**: Dit kan verborgen worden door een gebruiker met
 administratie rechten in de
@@ -266,7 +265,7 @@ alt="screenshot article edit article options" />
   dat niet aan artikelen is gerelateerd. Indien dit veld wordt leeg
   gelaten, wordt in plaats daarvan de titel van het artikel gebruikt.
 
-### Velden
+### Velden tabblad
 
 Deze sectie toont de extra
 velden
@@ -279,7 +278,7 @@ srcset="https://docs.joomla.org/images/thumb/8/8d/Help-4x-Content-Article-Manage
 data-file-width="1057" data-file-height="351" width="600" height="199"
 alt="Content Article Manager Edit Fields options subscreen" />
 
-### Publiceren
+### Publiceren tabblad
 
 **Let op**: Dit kan verborgen worden door een gebruiker met
 administratie rechten in de
@@ -339,7 +338,7 @@ alt="Content Article Manager Edit publishing options subscreen" />
 - **Inhoudsrechten**. Beschrijft wat de rechten van andere zijn om deze
   inhoud te gebruiken.
 
-### Associaties
+### Associaties tabblad
 
 **Let op**: Dit kan verborgen worden door een gebruiker met
 administratie rechten in de
@@ -347,7 +346,7 @@ Tabblad wordt alleen getoond bij
 
 ![Associations tab](../../../images/en/articles/articles-edit-associations-tab.png "Associations Tab")
 
-### Configuratie bewerkvenster
+### Configuratie bewerkvenster tabblad
 
 **Let op**: Dit kan verborgen worden door een gebruiker met
 administratie rechten in de
@@ -378,7 +377,7 @@ alt="screenshot article edit configure edit screen" />
   afbeeldingen en links tabblad op het bewerkscherm van het artikel op
   de website.
 
-### Rechten
+### Rechten tabblad
 
 **Let op**: Dit kan verborgen worden door een gebruiker met
 administratie rechten in de

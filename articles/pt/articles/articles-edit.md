@@ -32,7 +32,7 @@ To edit a Article:
   leave this blank and Joomla will fill in a default value Title in
   lower case and with dashes instead of spaces.
 
-### Conteúdos
+### Conteúdos guia
 
 #### Left Panel
 
@@ -72,7 +72,7 @@ To edit a Article:
 - **Notas de versão**. Optional field to identify the version of this
   article in the article's Version History.
 
-### Imagens e ligações
+### Imagens e ligações guia
 
 **Note**: This can be hidden by a user with Admin permissions in the
 Article: Options.
@@ -135,7 +135,7 @@ standardised layouts.
 
 **Ligação B**, **Ligação C**: Same options as Link A.
 
-### Opções
+### Opções guia
 
 **Note**: This can be hidden by a user with Admin permissions in the
 Article: Options.
@@ -209,14 +209,14 @@ show in the Frontend.
   used when the article is viewed with a non-article menu item. If
   blank, the article's title is used instead.
 
-### Campos
+### Campos guia
 
 This section shows the custom fields
 which are defined for this article.
 
 ![Fields tab](../../../images/en/articles/articles-edit-fields-tab.png "Filds Tab")
 
-### Publicação
+### Publicação guia
 
 **Note**: This can be hidden by a user with Admin permissions in the
 Article: Options.
@@ -266,7 +266,7 @@ for this Article.
 - **Direitos de utilização**. Describe what rights others have to use
   this content.
 
-### Associações
+### Associações guia
 
 **Note**: This can be hidden by a user with Admin permissions in the
 Article: Options.
@@ -275,7 +275,7 @@ only.
 
 ![Associations tab](../../../images/en/articles/articles-edit-associations-tab.png "Associations Tab")
 
-### Configurar ecrã de edição
+### Configurar ecrã de edição guia
 
 **Note**: This can be hidden by a user with Admin permissions in the
 Article: Options.
@@ -295,7 +295,7 @@ Article: Options.
 - **Área de visitantes - Imagens e ligações padrão**. If Yes, the Images
   and Links tab will show in the Frontend article editor screen.
 
-### Permissões
+### Permissões guia
 
 **Note**: This can be hidden by a user with Admin permissions in the
 Article: Options.

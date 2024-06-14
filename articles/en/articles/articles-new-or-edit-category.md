@@ -31,12 +31,7 @@ To edit an existing Category:
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/thumb/8/85/Help-4x-Components-Content-Categories-Edit-screen-en.png/800px-Help-4x-Components-Content-Categories-Edit-screen-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/8/85/Help-4x-Components-Content-Categories-Edit-screen-en.png/1200px-Help-4x-Components-Content-Categories-Edit-screen-en.png 1.5x, https://docs.joomla.org/images/8/85/Help-4x-Components-Content-Categories-Edit-screen-en.png 2x"
-data-file-width="1440" data-file-height="1132" width="800" height="629"
-alt="Articles edit category form category tab" />
+![Edit category screenshot](../../../images/en/articles/articles-edit-category-screenshot.png "Edit category")
 
 ## Form Fields
 
@@ -90,11 +85,7 @@ alt="Articles edit category form category tab" />
 This shows Options for this Category, as shown below when tab is
 clicked:
 
-<img
-src="https://docs.joomla.org/images/1/1b/Help-4x-Categories-Edit-screen-options-tab-en.png"
-decoding="async" data-file-width="600" data-file-height="371"
-width="600" height="371"
-alt="Articles edit category form options tab" />
+![Edit category options tab](../../../images/en/articles/articles-edit-category-options-tab.png "Edit category options tab")
 
 - **Layout**. Use a different layout from the supplied components view
   or overrides in the templates.
@@ -105,11 +96,7 @@ alt="Articles edit category form options tab" />
 
 ### Workflow
 
-<img
-src="https://docs.joomla.org/images/3/38/Help-4x-Categories-Edit-screen-workflow-tab-en.png"
-decoding="async" data-file-width="600" data-file-height="272"
-width="600" height="272"
-alt="Articles edit category form workflow tab" />
+![Edit category workflow tab](../../../images/en/articles/articles-edit-category-workflow-tab.png "Edit category workflow tab")
 
 - **Workflow.** Select from the drop-down list.
 
@@ -178,26 +165,19 @@ The grayed out fields are for information only and may not be edited.
 
 ### Associations
 
-This shows Associations for this Category, as shown below when tab is
-clicked: <img
-src="https://docs.joomla.org/images/7/73/Help-4x-Categories-Edit-screen-associations-tab-en.png"
-decoding="async" data-file-width="600" data-file-height="238"
-width="600" height="238"
-alt="Articles edit category form associations tab" />
+The Associations tab is only present on multilingual sites.
 
-- **Select a Category:** Select or Create a Category to associate.
+![Edit associations tab](../../../images/en/articles/articles-edit-category-associations-tab.png "Edit category associations tab")
+
+- **Select a Category:** Select or Create a Category to associate for each
+  language.
 
 ### Permissions Tab
 
 This section shows permissions for this category. The screen shows as
 follows.
 
-<img
-src="https://docs.joomla.org/images/thumb/8/87/Help-4x-Categories-Edit-screen-permissions-tab-en.png/600px-Help-4x-Categories-Edit-screen-permissions-tab-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/8/87/Help-4x-Categories-Edit-screen-permissions-tab-en.png 1.5x"
-data-file-width="800" data-file-height="432" width="600" height="324"
-alt="Articles edit category form permissions tab" />
+![Edit permissions tab](../../../images/en/articles/articles-edit-category-permissions-tab.png "Edit category permissions tab")
 
 To change the permissions for this extension, do the following.
 

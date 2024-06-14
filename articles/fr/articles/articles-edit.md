@@ -41,7 +41,7 @@ alt="content article manager add new article" />
   en minuscules et avec des tirets au lieu d'espaces. Pour en savoir
   plus.
 
-### Contenu
+### Contenu onglet
 
 #### Left Panel
 
@@ -102,7 +102,7 @@ plus.](https://docs.joomla.org/Help4.x:Editors/fr#cmscontent "Help4.x:Editors/fr
 - **Note de version**. Optional field to identify the version of this
   article in the article's Version History.
 
-### Images et liens
+### Images et liens onglet
 
 **Remarque**: Cet onglet peut être masqué par les utilisateurs disposant
 d'une Permission d'Administrateur dans les
@@ -173,9 +173,9 @@ alt="screenshot article edit images links" />
 
 **Lien B**, **Lien C**: Same options as Link A.
 
-### Paramètres
+### Paramètres onglet
 
-**Remarque**: Cet onglet peut être masqué par les utilisateurs disposant
+**Remarque:** Cet onglet peut être masqué par les utilisateurs disposant
 d'une Permission d'Administrateur dans les
 Il s'agit d'un ensemble d'options que vous pouvez utiliser pour
 contrôler le mode d'affichage de cet article dans la présentation sous
@@ -254,7 +254,7 @@ alt="screenshot article edit article options" />
   used when the article is viewed with a non-article menu item. If
   blank, the article's title is used instead.
 
-### Champs
+### Champs onglet
 
 This section shows the custom fields
 which are defined for this article.
@@ -266,7 +266,7 @@ srcset="https://docs.joomla.org/images/thumb/8/82/Help-4x-Content-Article-Manage
 data-file-width="2880" data-file-height="584" width="600" height="122"
 alt="Content Article Manager Edit Fields options subscreen" />
 
-### Publication
+### Publication onglet
 
 **Remarque**: Cet onglet peut être masqué par les utilisateurs disposant
 d'une Permission d'Administrateur dans les
@@ -325,7 +325,7 @@ alt="Content Article Manager Edit publishing options subscreen" />
 - **Droits légaux**. Describe what rights others have to use this
   content.
 
-### Associations
+### Associations onglet
 
 **Remarque**: Cet onglet peut être masqué par les utilisateurs disposant
 d'une Permission d'Administrateur dans les
@@ -339,7 +339,7 @@ srcset="https://docs.joomla.org/images/thumb/f/f9/Help-4x-screenshot-article-edi
 data-file-width="2880" data-file-height="1254" width="600" height="261"
 alt="screenshot article edit associations" />
 
-### Paramètres de création/modification
+### Paramètres de création/modification onglet
 
 **Remarque**: Cet onglet peut être masqué par les utilisateurs disposant
 d'une Permission d'Administrateur dans les
@@ -364,13 +364,11 @@ alt="screenshot article edit configure edit screen" />
 - **Images et liens en frontal**. If Yes, the Images and Links tab will
   show in the Frontend article editor screen.
 
-### Droits
+### Droits onglet
 
 **Remarque**: Cet onglet peut être masqué par les utilisateurs disposant
 d'une Permission d'Administrateur dans les
-This is where you can enter permissions for this article. [Pour en
-savoir
-plus.](https://docs.joomla.org/J3.x:Access_Control_List_Tutorial/fr#hierarchylevels "J3.x:Access Control List Tutorial/fr")
+This is where you can enter permissions for this article.
 
 <img
 src="https://docs.joomla.org/images/thumb/a/a7/Help-4x-screenshot-article-edit-permissions-fr.png/600px-Help-4x-screenshot-article-edit-permissions-fr.png"
@@ -391,22 +389,12 @@ To change the permissions for this article, do the following.
     souhaitez modifier.
     - **Hérité**. Héritée pour les utilisateurs de ce groupe à partir
       des autorisations de configuration
-      globale,
-
-Articles
-Options,
-or d'options
-d'articles
-ou <a
-href="https://docs.joomla.org/index.php?title=%245/fr%246&amp;action=edit&amp;redlink=1"
-class="new" title="$5/fr$6 (page does not exist)">de catégories</a>.
-
+      globale, Articles Options, or d'options d'articles ou de catégories.
 1.  - **Autorisé**. Autorisé pour les utilisateurs de ce groupe.Note: If
       this action is Denied at one of the higher levels, the Allowed
       permission here will not take effect. A Denied setting cannot be
       overridden.
     - **Refusé**. Refusé pour les utilisateurs de ce groupe.
-
 2.  Cliquez sur **Enregistrer** dans la barre d'outils située en haut à
     gauche. Lors de l'actualisation de l'écran, la colonne des Droits
     appliqués affichera les droits effectifs pour ce groupe et action.
@@ -429,9 +417,7 @@ capture d'écran ci-dessus.
   screen without saving any modifications you may have made.
 - **Versions**. Opens the Article Version History window to show any
   prior versions of this article. This allows you to view older versions
-  of this article and, if desired, restore from an older version. [Pour
-  en savoir
-  plus.](https://docs.joomla.org/Help4.x:Components_Version_History/fr "Help4.x:Components Version History/fr")
+  of this article and, if desired, restore from an older version.
 - **Aperçu**. Opens a modal dialog showing a site view of this article.
   Requires shared sessions
   or being logged in into the Frontend.

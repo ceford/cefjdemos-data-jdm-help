@@ -169,7 +169,7 @@ alt="screenshot article edit images links" />
 
 **Link B**, **Link C**: Dieselben Optionen wie Link A.
 
-### Optionen tab
+### Optionen Abschnitt
 
 **Hinweis**: Dieser Abschnitt kann von einem Benutzer mit
 Administrator-Rechten in Beiträge: Optionen ausgeblendet werden.
@@ -265,7 +265,7 @@ srcset="https://docs.joomla.org/images/thumb/1/1a/Help-4x-Content-Article-Manage
 data-file-width="2880" data-file-height="658" width="600" height="137"
 alt="Content Article Manager Edit Fields options subscreen" />
 
-### Veröffentlichung tab
+### Veröffentlichung Abschnitt
 
 **Hinweis**: Dieser Abschnitt kann von einem Benutzer mit
 Administrator-Rechten in Beiträge: Optionen ausgeblendet werden.
@@ -322,7 +322,7 @@ alt="Content Article Manager Edit publishing options subscreen" />
 - **Inhaltsrechte**. Legt fest, welche Rechte andere Personen beim
   Gebrauch dieses Beitragsinhalts haben.
 
-### Verknüpfungen tab
+### Verknüpfungen Abschnitt
 
 **Hinweis**: Dieser Abschnitt kann von einem Benutzer mit
 Administrator-Rechten in Beiträge: Optionen ausgeblendet werden.
@@ -357,9 +357,7 @@ alt="screenshot article edit configure edit screen" />
   Felder des Tabs nicht bearbeiten. Den Feldern werden immer Standardwerte
   zugeordnet.
 - **Bilder und Links im Backend**. Ist 'Ja' gewählt, wird der Tab
-  Bilder und
-  Links
-  gezeigt.
+  Bilder und Links gezeigt.
 - **Bilder und Links im Frontend**. Ist 'Ja' gewählt, wird der 'Bilder
   und Links'-Tab im Frontend-Editor des Beitrages angezeigt.
 

@@ -309,7 +309,7 @@ Article: Options.
 
 ### Permissions tab
 
-**Note**: This can be hidden by a user with Admin permissions in the
+**Note**: This tab can be hidden by a user with Admin permissions in the
 Article: Options.
 This is where you can enter permissions for this article.
 
