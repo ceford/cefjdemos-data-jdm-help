@@ -21,32 +21,14 @@ Selecione **Conteúdo → Artigos**
 
 ## Captura da tela
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Content-Article-Manager-Options-screen-pt-br.png"
-class="new"
-title="File:Help-4x-Content-Article-Manager-Options-screen-pt-br.png">800px</a>
+![Articles options screenshot](../../../images/en/articles/articles-options-screenshot.png "Articles options")
 
 ## Campos do formulário
 
 ### Artigos
 
-Opções usadas em artigos e itens dos menus para <a
-href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_Category_Blog/pt-br&amp;action=edit&amp;redlink=1"
-class="new"
-title="Help4.x:Menu Item: Category Blog/pt-br (page does not exist)">blogs</a>,
-<a
-href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_Category_List/pt-br&amp;action=edit&amp;redlink=1"
-class="new"
-title="Help4.x:Menu Item: Category List/pt-br (page does not exist)">listas</a>,
-artigos
-destacados,
-<a
-href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_List_All_Categories/pt-br&amp;action=edit&amp;redlink=1"
-class="new"
-title="Help4.x:Menu Item: List All Categories/pt-br (page does not exist)">listas
-para todas as categorias</a> e
-
-#### Disposição
+Opções usadas em artigos e itens dos menus para blogs, listas, artigos
+destacados, listas para todas as categorias
 
 - **Escolher uma disposição**. Selecione o valor padrão para itens dos
   menus do tipo para artigos únicos.
@@ -64,9 +46,6 @@ para todas as categorias</a> e
     separados. Um bloco está acima e o outro está abaixo do texto.
 - **Título da informação do artigo**. Mostra "detalhes" no topo do bloco
   das informações do artigo.
-
-#### Categoria
-
 - **Categoria**. Mostre o título da categoria do artigo.
   - **Vincular a categoria**. Mostra o título como um link para e
     categoria em questão.Nota: Você pode definir isso como uma
@@ -77,40 +56,22 @@ para todas as categorias</a> e
   superior (principal, pai) do artigo.
   - **Vincular categoria superior (principal, pai)**. Mostra o título
     como um link para a categoria em questão.Nota: Você pode definir
-    isso como uma disposição para blogs ou listas com a opção "[Escolher
-    uma
-    disposição](https://docs.joomla.org/Help4.x:Articles:_Options/pt-br#choosealayout "Help4.x:Articles: Options/pt-br")
-    na aba (guia) "Categoria".
-
-#### Associações
-
+    isso como uma disposição para blogs ou listas com a opção "Escolher
+    uma disposição na aba (guia) "Categoria".
 - **Associações**. Mostra as bandeiras ou os códigos das linguagens
   associadas.
   - **Usar imagens das bandeiras**. Mostra as opções das linguagens como
     imagens das bandeiras.
-
-#### Autor
-
 - **Autor**. Mostra o autor do artigo.
   - **Link para a página de contato do autor**. Mostra-o como um link
     para uma disposição do contato desse autor.Nota: O autor deve ser
-    configurado como um <a
-    href="https://docs.joomla.org/index.php?title=Help4.x:Contacts:_Edit/pt-br&amp;action=edit&amp;redlink=1"
-    class="new"
-    title="Help4.x:Contacts: Edit/pt-br (page does not exist)">contato</a>.
+    configurado como um contato.
     Além disso, um link não será mostrado se houver um valor "Alias do
-    autor"
-    para o artigo.
-
-#### Data
-
+    autor" para o artigo.
 - **Data da criação**. Mostra a data da criação do artigo.
 - **Data da modificação**. Mostra a data da modificação do artigo.
 - **Data da publicação**. Mostra a data do início da publicação do
   artigo.
-
-#### Opções
-
 - **Navegação**. Mostra um link, "Anterior" ou "Próximo", para navegação
   ao fazer uma busca detalhada no artigo.
 - **Link "Ler mais"**. Mostra o link "Leia mais" para o link da parte do
@@ -143,10 +104,7 @@ para todas as categorias</a> e
 
 Opções da página para edição do artigo.
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-pt-br.png"
-class="new"
-title="File:Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-pt-br.png">600px</a>
+![Articles options editing layout tab](../../../images/en/articles/articles-options-editing-layout-tab.png "Articles options editing layout")
 
 - **Permitir captcha no envio**. Selecione o plugin
   captcha
@@ -165,10 +123,8 @@ title="File:Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-pt-
   os usuários da administração (back-end) não poderão editar os campos
   nesta aba (guia). Esses campos sempre serão definidos com seus valores
   padrões.
-- **Opções da tela para edição**. Oculta a aba (guia) "[Configurar tela
-  para
-  edição](https://docs.joomla.org/Help4.x:Articles:_Edit/pt-br#configureeditscreen "Help4.x:Articles: Edit/pt-br")"
-  ao editar artigos.
+- **Opções da tela para edição**. Oculta a aba (guia) "Configurar tela
+  para edição" ao editar artigos.
 - **Permissões do artigo**. Oculta a aba (guia)
   "Permissões"
   ao editar artigos.
@@ -211,24 +167,10 @@ title="File:Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-pt-
 ### Categoria
 
 As opções controlam como uma categoria e seus artigos serão mostrados.
-Elas são usados nas categorias e nos itens dos menus para <a
-href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_Category_Blog/pt-br&amp;action=edit&amp;redlink=1"
-class="new"
-title="Help4.x:Menu Item: Category Blog/pt-br (page does not exist)">blogs</a>,
-<a
-href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_Category_List/pt-br&amp;action=edit&amp;redlink=1"
-class="new"
-title="Help4.x:Menu Item: Category List/pt-br (page does not exist)">listas</a>
-e <a
-href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_List_All_Categories/pt-br&amp;action=edit&amp;redlink=1"
-class="new"
-title="Help4.x:Menu Item: List All Categories/pt-br (page does not exist)">listar
-todas as categorias</a>.
+Elas são usados nas categorias e nos itens dos menus para blogs, listas
+e listar todas as categorias.
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Content-Article-Manager-Options-category-subscreen-pt-br.png"
-class="new"
-title="File:Help-4x-Content-Article-Manager-Options-category-subscreen-pt-br.png">600px</a>
+![Articles options category tab](../../../images/en/articles/articles-options-category-tab.png "Articles options category")
 
 - **Escolher uma disposição**. Seleciona a disposição padrão a ser
   mostrada ao acionar (clicar em) um link de categoria.
@@ -251,16 +193,10 @@ title="File:Help-4x-Content-Article-Manager-Options-category-subscreen-pt-br.png
 
 ### Categorias
 
-As opções controlam a exibição do item dos menus para "<a
-href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_List_All_Categories/pt-br&amp;action=edit&amp;redlink=1"
-class="new"
-title="Help4.x:Menu Item: List All Categories/pt-br (page does not exist)">Listar
-todas as categorias</a>".
+As opções controlam a exibição do item dos menus para "Listar
+todas as categorias".
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Content-Article-Manager-Options-categories-subscreen-pt-br.png"
-class="new"
-title="File:Help-4x-Content-Article-Manager-Options-categories-subscreen-pt-br.png">600px</a>
+![Articles options categories tab](../../../images/en/articles/articles-options-categories-tab.png "Articles options categories")
 
 - **Descrição da categoria do nível superior**. Mostra a descrição da
   categoria do nível superior.
@@ -275,22 +211,10 @@ title="File:Help-4x-Content-Article-Manager-Options-categories-subscreen-pt-br.p
 
 ### Disposições para blogs/destacados
 
-As opções controlam a disposição dos itens dos menus para <a
-href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_Category_Blog/pt-br&amp;action=edit&amp;redlink=1"
-class="new"
-title="Help4.x:Menu Item: Category Blog/pt-br (page does not exist)">blogs</a>,
-artigos
-destacados
-e <a
-href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_List_All_Categories/pt-br&amp;action=edit&amp;redlink=1"
-class="new"
-title="Help4.x:Menu Item: List All Categories/pt-br (page does not exist)">listar
-todas as categorias</a>.
+As opções controlam a disposição dos itens dos menus para blogs,
+artigos destacados e listar todas as categorias.
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-pt-br.png"
-class="new"
-title="File:Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-pt-br.png">600px</a>
+![Articles options blog/featured layout tab](../../../images/en/articles/articles-options-blog-layouts-tab.png "Articles options blog/featured layout")
 
 - **Quantidade de artigos principais**. Quantidade de artigos a serem
   mostrados usando toda a largura da área de exibição principal. "0"
@@ -325,12 +249,8 @@ title="File:Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscre
   horizontalmente, nas colunas.
   - Verticalmente: Classifica os artigos descendo a primeira coluna e
     depois para a próxima coluna, por exemplo:
-
--
   - Horizontalmente: Classifica os artigos horizontalmente pelas colunas
     e depois volta para a primeira coluna, por exemplo:
-
--
 - **Quantidade de links**. A quantidade de links a serem mostrados na
   área dos links da página. Esses links permitem que um usuário vincule
   a artigos adicionais, se houver mais artigos do que cabem na primeira
@@ -346,20 +266,10 @@ title="File:Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscre
 
 ### Disposições para listas
 
-As opções controlam a disposição dos itens dos menus para <a
-href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_Category_List/pt-br&amp;action=edit&amp;redlink=1"
-class="new"
-title="Help4.x:Menu Item: Category List/pt-br (page does not exist)">listas</a>
-e para <a
-href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_List_All_Categories/pt-br&amp;action=edit&amp;redlink=1"
-class="new"
-title="Help4.x:Menu Item: List All Categories/pt-br (page does not exist)">listar
-todas as categorias</a>.
+As opções controlam a disposição dos itens dos menus para listas
+e para listar todas as categorias.
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Content-Article-Manager-Options-list-layout-subscreen-pt-br.png"
-class="new"
-title="File:Help-4x-Content-Article-Manager-Options-list-layout-subscreen-pt-br.png">600px</a>
+![Articles options list layouts tab](../../../images/en/articles/articles-options-list-layouts-tab.png "Articles options list layouts")
 
 - **Mostrar seleção**. Mostra o controle "Mostrar \#" que permite ao
   usuário selecionar a quantidade de artigos a serem mostrados.
@@ -388,20 +298,9 @@ title="File:Help-4x-Content-Article-Manager-Options-list-layout-subscreen-pt-br.
 
 ### Compartilhadas
 
-Opções compartilhadas pelos itens dos menus para <a
-href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_Category_Blog/pt-br&amp;action=edit&amp;redlink=1"
-class="new"
-title="Help4.x:Menu Item: Category Blog/pt-br (page does not exist)">blogs</a>,
-<a
-href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_Category_List/pt-br&amp;action=edit&amp;redlink=1"
-class="new"
-title="Help4.x:Menu Item: Category List/pt-br (page does not exist)">listas</a>
-e
+Opções compartilhadas pelos itens dos menus para blogs, listas e
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Content-Article-Manager-Options-shared-subscreen-pt-br.png"
-class="new"
-title="File:Help-4x-Content-Article-Manager-Options-shared-subscreen-pt-br.png">600px</a>
+![Articles options shared tab](../../../images/en/articles/articles-options-shared-tab.png "Articles shared")
 
 - **Classificação das categorias**.
   - Nenhuma classificação: Os artigos são classificados apenas pela
@@ -411,11 +310,8 @@ title="File:Help-4x-Content-Article-Manager-Options-shared-subscreen-pt-br.png">
   - Título em ordem alfabética inversa: As categorias são mostradas em
     ordem alfabética inversa (Z a A).
   - Classificação das categorias: As categorias são classificadas de
-    acordo com a coluna "Classificação" inserida em <a
-    href="https://docs.joomla.org/index.php?title=Help4.x:Articles:_Categories/pt-br&amp;action=edit&amp;redlink=1"
-    class="new"
-    title="Help4.x:Articles: Categories/pt-br (page does not exist)">Artigos:
-    Categorias</a>.
+    acordo com a coluna "Classificação" inserida em Artigos:
+    Categorias.
 - **Classificação dos artigos**.
   - Mais recentes primeiro: Os artigos são mostrados começando com o
     mais recente e terminando com o mais antigo.
@@ -438,15 +334,9 @@ title="File:Help-4x-Content-Article-Manager-Options-shared-subscreen-pt-br.png">
     tiver menos acionamentos (acessos, cliques) e terminando com o que
     tiver mais acionamentos (acessos, cliques).
   - Classificação: Os artigos são classificados de acordo com a coluna
-    "Classificação" inserida em "<a
-    href="https://docs.joomla.org/index.php?title=Help4.x:Articles/pt-bt&amp;action=edit&amp;redlink=1"
-    class="new"
-    title="Help4.x:Articles/pt-bt (page does not exist)">Artigos</a>".
+    "Classificação" inserida em "Artigos".
   - Classificação inversa: Os artigos são classificados inversamente de
-    acordo com a coluna "Classificação" inserida em "<a
-    href="https://docs.joomla.org/index.php?title=Help4.x:Articles/pt-bt&amp;action=edit&amp;redlink=1"
-    class="new"
-    title="Help4.x:Articles/pt-bt (page does not exist)">Artigos</a>".
+    acordo com a coluna "Classificação" inserida em "Artigos".
 - **Data para classificação**. A data usada quando os artigos são
   classificados por data.
   - Criação: Usa a data da criação do artigo.
@@ -473,10 +363,7 @@ title="File:Help-4x-Content-Article-Manager-Options-shared-subscreen-pt-br.png">
 As opções controlam como os artigos integram feeds para notícias,
 roteamento, campos personalizados e fluxo de trabalho.
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Content-Article-Manager-Options-integration-subscreen-pt-br.png"
-class="new"
-title="File:Help-4x-Content-Article-Manager-Options-integration-subscreen-pt-br.png">600px</a>
+![Articles options integration tab](../../../images/en/articles/articles-options-integration-tab.png "Articles options integration")
 
 #### Feeds para notícias
 
@@ -506,15 +393,10 @@ title="File:Help-4x-Content-Article-Manager-Options-integration-subscreen-pt-br.
 
 ### Permissões
 
-Esta seção permite que você defina as permissões padrões das [listas dos
-controles para
-acessos](https://docs.joomla.org/Access_Control_List/pt-br "Access Control List/pt-br")
-para todos os artigos em todas as categorias.
+Esta seção permite que você defina as permissões padrões das listas dos
+controles para acessos para todos os artigos em todas as categorias.
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Content-Article-Manager-Options-permissions-subscreen-pt-br.png"
-class="new"
-title="File:Help-4x-Content-Article-Manager-Options-permissions-subscreen-pt-br.png">600px</a>
+![Articles options permissions tab](../../../images/en/articles/articles-options-permissions-tab.png "Articles options permissions")
 
 Para alterar as permissões dos artigos e das categorias, faça o
 seguinte.
