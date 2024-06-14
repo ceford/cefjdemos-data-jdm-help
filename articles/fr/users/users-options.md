@@ -43,10 +43,7 @@ alt="Users Options screen" />
 - **Groupe des visiteurs**. The group that guests are assigned to
   (Guests are visitors to the site who are not logged in). It is
   possible to create content on the site that is visible to guests but
-  not visible to logged in users. <a
-  href="https://magazine.joomla.org/all-issues/june-2021/explore-the-core-controlling-user-access?"
-  class="external text" target="_blank" rel="noreferrer noopener">Pour en
-  savoir plus.</a>
+  not visible to logged in users.
 - **Envoyer le mot de passe**. Si 'Oui' est coché, le mot de passe
   initial de l'utilisateur sera inclus dans le mail envoyé lors de
   l'inscription.

@@ -24,15 +24,11 @@ Remember to check if anything links
 here
 and <a
 href="https://docs.joomla.org//docs.joomla.org/index.php?title=Help4.x:Menus_Menu_Manager_Options&amp;action=history"
-class="external text" target="_blank" rel="noreferrer noopener">the page
+rel="noreferrer noopener">the page
 history</a> before deleting.
 
-Last edit by
-Franz.wohlkoenig
-(talk
-Â·
-contrib
-Â· Last edited on Wed, 31 Aug 2022 03:11:40 +0000
+Last edit by Franz.wohlkoenig
+Last edited on Wed, 31 Aug 2022 03:11:40 +0000
 
 ## How to access
 

@@ -145,8 +145,9 @@ extensions tierces disponibles en téléchargement sur le JED (Joomla!
 Extension Directory - Répertoire des extensions Joomla!).
 
 #### Voir également :
+
 <a href="http://extensions.joomla.org/" class="external text"
-target="_blank" rel="noreferrer noopener">Répertoire des Extensions
+rel="noreferrer noopener">Répertoire des Extensions
 Joomla! (JED)</a>.
 
 ## Les Langues

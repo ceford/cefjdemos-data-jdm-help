@@ -132,8 +132,6 @@ title="File:Help-4x-screenshot-article-edit-images-links-pt-br.png">600px</a>
 - **Classe da imagem**. Você pode adicionar qualquer classe CSS para
   suas próprias ideias de estilo. Para a posição da imagem, use, por
   exemplo, float-start e float-end.
-  <a href="https://cassiopeia.joomla.com/help" class="external text"
-  target="_blank" rel="nofollow noreferrer noopener">Aprender mais</a>.
 - **Legenda**. Cria uma legenda para esta imagem.
 
 #### Imagem do artigo completo
@@ -153,8 +151,6 @@ title="File:Help-4x-screenshot-article-edit-images-links-pt-br.png">600px</a>
 - **Classe da imagem**. Você pode adicionar qualquer classe CSS para
   suas próprias ideias de estilo. Para a posição da imagem, use, por
   exemplo, float-start e float-end.
-  <a href="https://cassiopeia.joomla.com/help" class="external text"
-  target="_blank" rel="nofollow noreferrer noopener">Aprender mais</a>.
 - **Legenda**. Insira uma legenda opcional para esta imagem.
 
 #### Link A

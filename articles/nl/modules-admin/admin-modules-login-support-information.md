@@ -36,14 +36,13 @@ alt="extensions module manager login support" />
 
 - **Inlog ondersteuningsinformatie.** Deze module toont op het
   inlogscherm enkele handige links naar Joomla support sites.
-- **Forum URL.** De standaard is
-  <a href="https://forum.joomla.org/" class="external free"
-  target="_blank" rel="noreferrer noopener">https://forum.joomla.org/</a>
+- **Forum URL.** De standaard is <a href="https://forum.joomla.org/"
+  rel="noreferrer noopener">https://forum.joomla.org/</a>
 - **Documentatie URL.** De standaard is
-  <a href="https://docs.joomla.org/" class="external free" target="_blank"
+  <a href="https://docs.joomla.org/"
   rel="noreferrer noopener">https://docs.joomla.org/</a>
 - **Nieuws URL.** De standaard is
-  <a href="https://www.joomla.org/" class="external free" target="_blank"
+  <a href="https://www.joomla.org/"
   rel="noreferrer noopener">https://www.joomla.org/</a>
 
 #### Rechter venster

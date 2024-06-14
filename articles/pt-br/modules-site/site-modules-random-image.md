@@ -38,7 +38,7 @@ title="File:Help-4x-modules-site-module-manager-module-random-image-pt-br.png">8
   site (por exemplo, "images").
 - **Link**: Um URL para redirecionar se a imagem for acionada (por
   exemplo,
-  <a href="https://www.joomla.org" class="external free" target="_blank"
+  <a href="https://www.joomla.org"
   rel="noreferrer noopener">https://www.joomla.org</a>).
 - **Largura (em pixels)**: A largura da imagem. Força todas as imagens a
   serem mostradas com essa largura em pixels.

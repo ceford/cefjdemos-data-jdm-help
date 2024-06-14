@@ -130,8 +130,8 @@ extensions should not be confused with extensions which are available
 for downloading from the JED (Joomla! Extension Directory).
 
 #### See also:
-<a href="http://extensions.joomla.org/" class="external text"
-target="_blank" rel="noreferrer noopener">Joomla Extension Directory</a>.
+
+<a href="http://extensions.joomla.org/" rel="noreferrer noopener">Joomla Extension Directory</a>.
 
 ## Database Table Prefix
 

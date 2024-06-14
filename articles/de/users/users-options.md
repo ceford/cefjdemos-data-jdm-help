@@ -42,10 +42,7 @@ alt="Users Options screen" />
   registrieren. Standard ist 'Registriert'.
 - **Gast Benutzergruppe**. Zu dieser Standard-Benutzergruppe zählen alle
   als Gast bezeichneten (nicht angemeldeten) Benutzer. Inhalt kann für
-  Gäste, aber nicht für eingewählte Benutzer sichtbar sein. <a
-  href="https://magazine.joomla.org/all-issues/june-2021/explore-the-core-controlling-user-access?"
-  class="external text" target="_blank" rel="noreferrer noopener">Mehr
-  erfahren.</a>
+  Gäste, aber nicht für eingewählte Benutzer sichtbar sein.
 - **Passwort mitsenden**. Ist 'Ja' gewählt, enthält die E-Mail nach der
   Registrierung auch das vergebene Passwort.
 - **Kontenaktivierung durch**.

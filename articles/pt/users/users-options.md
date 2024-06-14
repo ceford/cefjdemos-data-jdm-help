@@ -44,10 +44,7 @@ alt="Users Options screen" />
 - **Grupo para convidados**. The group that guests are assigned to
   (Guests are visitors to the site who are not logged in). It is
   possible to create content on the site that is visible to guests but
-  not visible to logged in users. <a
-  href="https://magazine.joomla.org/all-issues/june-2021/explore-the-core-controlling-user-access?"
-  class="external text" target="_blank" rel="noreferrer noopener">Learn
-  more.</a>
+  not visible to logged in users.
 - **Enviar senha**. If set to 'Yes' the user's first password will be
   emailed to the user as part of the registration mail.
 - **Ativação de novos utilizadores**.

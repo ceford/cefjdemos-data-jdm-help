@@ -176,12 +176,8 @@ alt="Content Article Manager Options editing layout subscreen" />
   target for the third Link in the article. Same options as URL A.
 - **Clase para la imagen de introducción**. Sets the class attribute for
   an Intro Image selected in the Intro Image field.
-  <a href="https://cassiopeia.joomla.com/help" class="external text"
-  target="_blank" rel="nofollow noreferrer noopener">Aprende más.</a>
 - **Clase para la imagen de texto completo**. Sets the class attribute
   for an Full Article Image selected in the Full Article Image field.
-  <a href="https://cassiopeia.joomla.com/help" class="external text"
-  target="_blank" rel="nofollow noreferrer noopener">Aprende más.</a>
 
 ### Categoría
 

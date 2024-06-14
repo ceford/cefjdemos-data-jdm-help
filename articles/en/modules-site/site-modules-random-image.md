@@ -36,9 +36,7 @@ alt="modules site module manager module random image" />
 - **Image Type:** Type of image PNG\|GIF\|JPG etc. (the default is JPG).
 - **Image Folder:** Path to the image folder relative to the site URL
   (e.g. images).
-- **Link:** A URL to redirect to if the image is clicked upon (e.g.
-  <a href="http://www.joomla.org" class="external free" target="_blank"
-  rel="noreferrer noopener">http://www.joomla.org</a>).
+- **Link:** A URL to redirect to if the image is clicked upon.
 - **Width (px):** Image Width forces all images to be displayed with
   this width in pixels.
 - **Height (px):** Image Height forces all images to be displayed with

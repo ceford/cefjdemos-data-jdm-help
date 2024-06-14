@@ -172,7 +172,7 @@ PHP is geïmplementeerd op de server.
 
 Bezoek, voor volledige details over de informatie op het PHP Info
 scherm:
-<a href="http://php.net/phpinfo" class="external text" target="_blank"
+<a href="http://php.net/phpinfo"
 rel="nofollow noreferrer noopener">http://php.net/phpinfo</a>.
 
 ## Werkbalk

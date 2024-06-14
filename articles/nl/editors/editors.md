@@ -224,11 +224,9 @@ Toolbar above. In addition, the following options are available.
 
 TinyMCE is compatible with screen readers such as
 <a href="https://www.freedomscientific.com/products/software/jaws/"
-class="external text" target="_blank"
 rel="nofollow noreferrer noopener">JAWS</a> and
-<a href="https://www.nvaccess.org/" class="external text"
-target="_blank" rel="nofollow noreferrer noopener">NVDA</a>. You can use
-it effectively even if you don't use the mouse.
+<a href="https://www.nvaccess.org/" rel="nofollow noreferrer noopener">NVDA</a>.
+You can use it effectively even if you don't use the mouse.
 
 |                                          |                        |                        |
 |------------------------------------------|------------------------|------------------------|

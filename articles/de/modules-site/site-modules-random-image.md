@@ -39,9 +39,7 @@ alt="modules site module manager module random image" />
 - **Bilderverzeichnis:** Pfad zum Bilder-Verzeichnis relativ zur
   Website-URL (z.B. images).
 - **Links:** Eine URL, zu der weitergeleitet wird, wenn auf das Bild
-  geklickt wird (z.B.
-  <a href="http://www.joomla.org" class="external free" target="_blank"
-  rel="noreferrer noopener">http://www.joomla.org</a>).
+  geklickt wird.
 - **Breite (px):** Bildbreite – erzwingt, dass alle Bilder mit dieser
   Breite, in Pixel, angezeigt werden.
 - **Höhe (px):** Bildhöhe – erzwingt, dass alle Bilder mit dieser Höhe,

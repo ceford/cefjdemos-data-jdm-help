@@ -45,10 +45,7 @@ alt="Users Options screen" />
   (Gasten zijn bezoekers aan de site die niet ingelogd zijn). Indien u
   dit wijzigt in een andere groep, dan is het mogelijk inhoud aan te
   maken op de site die zichtbaar is voor gasten, maar niet zichtbaar
-  voor ingelogde gebruikers. <a
-  href="https://magazine.joomla.org/all-issues/june-2021/explore-the-core-controlling-user-access?"
-  class="external text" target="_blank" rel="noreferrer noopener">Meer
-  leren.</a>
+  voor ingelogde gebruikers.
 - **Wachtwoord versturen**. Indien ingesteld op 'Ja', dan wordt het
   eerste wachtwoord van de gebruiker gemaild naar de gebruiker als
   onderdeel van de registratie mail.

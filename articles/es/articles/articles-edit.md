@@ -38,7 +38,7 @@ alt="content article manager add new article" />
   Joomla! lo rellenará con un valor predeterminado obtenido a partir del
   título.
 
-### Contenido
+### Contenido tab
 
 #### Panel izquierdo
 
@@ -56,7 +56,6 @@ alt="Article Editor buttons" />
 El Editor WYSIWYG de Artículos es configurable y puede tener un conjunto
 de botones diferente al que se muestra a continuación. La lista
 desplegable Contenido de CMS proporciona acceso a funciones especiales.
-
 
 - **Alternar editor**. A Toggle Editor button show below the edit
   window. This button allows you to toggle between TinyMCE and Editor - None.
@@ -93,7 +92,7 @@ desplegable Contenido de CMS proporciona acceso a funciones especiales.
 - **Nota de la versión**. Optional field to identify the version of this
   article in the article's Version History.
 
-### Imágenes y Enlaces
+### Imágenes y Enlaces tab
 
 **Nota**: Esto puede ser ocultado por un usuario con permisos de
 administrador en el
@@ -123,7 +122,6 @@ alt="screenshot article edit images links" />
 - **Clase de la imagen**. Puede añadir cualquier clase CSS para sus
   propias ideas de estilo. Para posición de imagen use por ejemplo
   'float-star' y 'float-end'.
-
 - **Subtítulo**. Create a caption for this image.
 
 #### Imagen para mostrar un artículo al completo
@@ -142,7 +140,6 @@ alt="screenshot article edit images links" />
 - **Clase de la imagen**. Puede añadir cualquier clase CSS para sus
   propias ideas de estilo. Para posición de imagen use por ejemplo
   'float-start' y 'float-end'.
-
 - **Subtítulo**. Enter an optional caption for this image.
 
 #### Enlace A
@@ -162,9 +159,11 @@ alt="screenshot article edit images links" />
     (without full navigation controls).
   - Modal: Opens the link in a modal pop-up window.
 
-**Enlace B**, **Enlace C**: Same options as Link A.
+#### Enlace B**, Enlace C
 
-### Opciones
+Same options as Link A.
+
+### Opciones tab
 
 **Nota**: Esto puede ser ocultado por un usuario con permisos de
 administrador en el
@@ -252,7 +251,7 @@ alt="screenshot article edit article options" />
   artículo con un elemento del menú que no sea un artículo. Si está en
   blanco, se usa el título del artículo en su lugar.
 
-### Campos
+### Campos tab
 
 This section shows the custom fields
 which are defined for this article.
@@ -264,12 +263,11 @@ srcset="https://docs.joomla.org/images/thumb/2/22/Help-4x-Content-Article-Manage
 data-file-width="2880" data-file-height="570" width="600" height="119"
 alt="Content Article Manager Edit Fields options subscreen" />
 
-### Publicación
+### Publicación tab
 
 **Nota**: Esto puede ser ocultado por un usuario con permisos de
 administrador en el
-This section allows you to enter parameters and
-Metadata
+This section allows you to enter parameters and Metadata
 for this Article.
 
 <img
@@ -326,7 +324,7 @@ alt="Content Article Manager Edit publishing options subscreen" />
 - **Derechos del contenido**. Describe what rights others have to use
   this content.
 
-### Asociaciones
+### Asociaciones tab
 
 **Nota**: Esto puede ser ocultado por un usuario con permisos de
 administrador en el
@@ -340,7 +338,7 @@ srcset="https://docs.joomla.org/images/thumb/d/d3/Help-4x-screenshot-article-edi
 data-file-width="2880" data-file-height="1389" width="600" height="289"
 alt="screenshot article edit associations" />
 
-### Opciones de la pantalla de edición
+### Opciones de la pantalla de edición tab
 
 **Nota**: Esto puede ser ocultado por un usuario con permisos de
 administrador en el
@@ -367,10 +365,10 @@ alt="screenshot article edit configure edit screen" />
   Yes, the Images and Links tab will show in the Frontend article editor
   screen.
 
-### Permisos
+### Permisos tab
 
 **Nota**: Esto puede ser ocultado por un usuario con permisos de
-administrador en el
+administrador en el Article: Options.
 This is where you can enter permissions for this article.
 
 <img
@@ -440,9 +438,8 @@ Screenshot above.
       that lets you browse image files and upload images.
   2.  The 'Insert' dropdown list is a simple form for which you need to
       know the image url. It is used for external images.
-- **Read more**
-  breaks allow you to save space on the Front Page or on any blog layout
-  page by showing just the first portion of an Article. Page break
+- **Read more** breaks allow you to save space on the Front Page or on any
+  blog layout page by showing just the first portion of an Article. Page break
   allow you to provide multi-page navigation for long Articles. You can
   use both on one Article, if desired.For example, you could put a Read
   more break after the first paragraph of a multi-page article, and have

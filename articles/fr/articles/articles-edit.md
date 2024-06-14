@@ -13,6 +13,7 @@ vous pouvez souhaiter définir une catégorie spécifique ou fournir des
 métadonnées propres à un article.
 
 ## Comment y accéder
+
 Sélectionner **Contenus → Articles**
 
 Pour ajouter un article :
@@ -77,10 +78,7 @@ plus.](https://docs.joomla.org/Help4.x:Editors/fr#cmscontent "Help4.x:Editors/fr
     ou
     liste.
   - Dans la corbeille: L'article est supprimé du site mais reste dans la
-    base de données. <a
-    href="https://docs.joomla.org/index.php?title=.x:Deleting_an_Article/fr&amp;action=edit&amp;redlink=1"
-    class="new" title=".x:Deleting an Article/fr (page does not exist)">Pour
-    en savoir plus.</a>
+    base de données.
 - **Catégorie**. Sélectionnez la catégorie de cet article dans la zone
   de liste déroulante.
 - **Épinglé**. Select Yes if article will be shown in the Featured menu
@@ -135,9 +133,6 @@ alt="screenshot article edit images links" />
 - **Classe de l'image**. Vous pouvez ajouter n'importe quelle classe CSS
   pour vos propres idées de style. Pour la position de l'image, utilisez
   par exemple 'float-start' et 'float-end'.
-  <a href="https://cassiopeia.joomla.com/help" class="external text"
-  target="_blank" rel="nofollow noreferrer noopener">Pour en savoir
-  plus.</a>
 - **Légende**. Légende attachée à l'image.
 
 #### Image de l'article complet
@@ -157,9 +152,6 @@ alt="screenshot article edit images links" />
 - **Classe de l'image**. Vous pouvez ajouter n'importe quelle classe CSS
   pour vos propres idées de style. Pour la position de l'image, utilisez
   par exemple 'float-start' et 'float-end'.
-  <a href="https://cassiopeia.joomla.com" class="external text"
-  target="_blank" rel="nofollow noreferrer noopener">Pour en savoir
-  plus.</a>
 - **Légende**. Légende attachée à l'image.
 
 #### Lien A

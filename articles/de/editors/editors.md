@@ -222,10 +222,8 @@ folgende Optionen verfügbar:
 
 TinyMCE ist mit Screenreadern wie
 <a href="https://www.freedomscientific.com/products/software/jaws/"
-class="external text" target="_blank"
 rel="nofollow noreferrer noopener">JAWS</a> und
-<a href="https://www.nvaccess.org/" class="external text"
-target="_blank" rel="nofollow noreferrer noopener">NVDA</a> kompatibel.
+<a href="https://www.nvaccess.org/" rel="nofollow noreferrer noopener">NVDA</a> kompatibel.
 Man kann ihn auch ohne Maus benutzen.
 
 |                                                        |                           |                           |
@@ -243,11 +241,9 @@ Tastaturkürzel
 Für weitere Informationen siehe:
 
 - <a href="https://www.tiny.cloud/docs/advanced/accessibility/"
-  class="external text" target="_blank"
   rel="nofollow noreferrer noopener">TinyMCE - Accessibility</a> (en)
 - Die verfügbaren
   <a href="https://www.tiny.cloud/docs/advanced/keyboard-shortcuts/"
-  class="external text" target="_blank"
   rel="nofollow noreferrer noopener">Tastaturkürzel</a> (PC, Mac) für
   den Beitragsinhalt (en).
 

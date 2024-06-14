@@ -184,13 +184,7 @@ alt="Content Article Manager Options editing layout subscreen" />
 - **Cible de l'URL C**. Sets the default value for the target for the
   third Link in the article. Same options as URL A.
 - **Classe de l'image de l'introduction**. fr
-  <a href="https://cassiopeia.joomla.com/help" class="external text"
-  target="_blank" rel="nofollow noreferrer noopener">Pour en savoir
-  plus.</a>
 - **Classe de l'image de l'article complet**. fr
-  <a href="https://cassiopeia.joomla.com/help" class="external text"
-  target="_blank" rel="nofollow noreferrer noopener">Pour en savoir
-  plus.</a>
 
 ### Catégorie
 

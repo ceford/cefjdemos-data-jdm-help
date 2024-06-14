@@ -138,8 +138,6 @@ alt="screenshot article edit images links" />
 - **Class van de afbeelding**. Elke CSS class kan toegevoegd worden voor
   eigen styling ideeën. Gebruik voor de positie van afbeeldingen
   bijvoorbeeld 'float-star' en 'float-end'.
-  <a href="https://cassiopeia.joomla.com/help" class="external text"
-  target="_blank" rel="nofollow noreferrer noopener">Meer leren.</a>
 - **Bijschrift**. Maak een bijschrift voor de afbeelding.
 
 #### Afbeelding volledig artikel
@@ -161,8 +159,6 @@ alt="screenshot article edit images links" />
 - **Class van de afbeelding**. Elke CSS class kan toegevoegd worden voor
   eigen styling ideeën. Gebruik voor de positie van afbeeldingen
   bijvoorbeeld 'float-start' en 'float-end'.
-  <a href="https://cassiopeia.joomla.com/help" class="external text"
-  target="_blank" rel="nofollow noreferrer noopener">Meer leren.</a>
 - **Bijschrift**. Vul optioneel een bijschrift in voor de afbeelding.
 
 #### Link A

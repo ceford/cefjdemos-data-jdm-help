@@ -36,13 +36,13 @@ alt="extensions module manager login support" />
 - **Login Support Information.** This module displays some useful links
   to Joomla support sites on the login screen.
 - **URL-адрес форума** По умолчанию
-  <a href="https://forum.joomla.org/" class="external free"
-  target="_blank" rel="noreferrer noopener">https://forum.joomla.org/</a>
+  <a href="https://forum.joomla.org/"
+  rel="noreferrer noopener">https://forum.joomla.org/</a>
 - **URL-адрес документации** По умолчанию
-  <a href="https://docs.joomla.org/" class="external free" target="_blank"
+  <a href="https://docs.joomla.org/"
   rel="noreferrer noopener">https://docs.joomla.org/</a>
 - **URL-адрес новостей** По умолчанию
-  <a href="https://www.joomla.org/" class="external free" target="_blank"
+  <a href="https://www.joomla.org/"
   rel="noreferrer noopener">https://www.joomla.org/</a>
 
 #### Right Panel

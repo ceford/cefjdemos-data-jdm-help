@@ -6,15 +6,15 @@
 
 - <a
   href="https://www.joomla.org/announcements/release-news/5875-joomla-4-2-6-bug-fix-release.html"
-  class="external text" target="_blank" rel="noreferrer noopener">Joomla!
+  rel="noreferrer noopener">Joomla!
   4.2.6 announcement</a>
 - <a
   href="https://www.joomla.org/announcements/release-news/5873-joomla-4-2-5-security-and-bug-fix-release.html"
-  class="external text" target="_blank" rel="noreferrer noopener">Joomla!
+  rel="noreferrer noopener">Joomla!
   4.2.5 announcement</a>
 - <a
   href="https://www.joomla.org/announcements/release-news/5870-joomla-4-2-4-security-release.html"
-  class="external text" target="_blank" rel="noreferrer noopener">Joomla!
+  rel="noreferrer noopener">Joomla!
   4.2.4 announcement</a>
 - <a
   href="https://www.joomla.org/announcements/release-news/5869-joomla-4-2-3-bug-fix-release.html"

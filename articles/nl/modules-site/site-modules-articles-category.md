@@ -182,10 +182,7 @@ alt="modules site module manager module articles category grouping options" />
 - **Richting groepering:** (*Aflopend*/*Oplopend*). Selecteer de
   richting waarop artikelgroepen gesorteerd moeten worden.
 - **Maand en jaar weergaveformaat:** Voer alstublieft een juist
-  datumformaat in. Zie:
-  <a href="http://php.net/date" class="external free" target="_blank"
-  rel="nofollow noreferrer noopener">http://php.net/date</a> voor
-  formaat informatie.
+  datumformaat in.
 
 ### Weergave opties tabblad
 
@@ -201,10 +198,7 @@ alt="modules site module manager module articles category display options" />
   tonen.
 - **Datumveld:** (*Aanmaakdatum*/*Aanpassingsdatum*/*Startdatum
   publicatie*). Selecteer welk datumveld getoond moet worden.
-- **Datumformaat:** Voer alstublieft een juist datumformaat in. Zie:
-  <a href="http://php.net/date" class="external free" target="_blank"
-  rel="nofollow noreferrer noopener">http://php.net/date</a> voor
-  formaat informatie.
+- **Datumformaat:** Voer alstublieft een juist datumformaat in.
 - **Categorie:** (*Toon*/*Verberg*). Selecteer 'Toon' als u de
   categorienaam wilt tonen.
 - **Hits:** (*Toon*/*Verberg*). Selecteer 'Toon' als u wilt dat de hits

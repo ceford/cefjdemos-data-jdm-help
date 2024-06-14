@@ -195,13 +195,9 @@ alt="Content Article Manager Options editing layout subscreen" />
   doelvenster van de derde link in het artikel. Zelfde opties als URL A.
 - **Introductie afbeelding class**. Zorgt voor de class van de
   introductie afbeelding die gekozen wordt als afbeeldingsveld.
-  <a href="https://cassiopeia.joomla.com/help" class="external text"
-  target="_blank" rel="nofollow noreferrer noopener">Meer leren.</a>
 - **Volledige afbeelding class**. Zorgt voor de class van de afbeelding
   van een volledig artikel die geselecteerd wordt in het volledige
   artikel afbeeldingsveld.
-  <a href="https://cassiopeia.joomla.com/help" class="external text"
-  target="_blank" rel="nofollow noreferrer noopener">Meer leren.</a>
 
 ### Categorie
 

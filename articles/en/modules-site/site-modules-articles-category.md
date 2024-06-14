@@ -166,10 +166,7 @@ alt="modules site module manager module articles category grouping options" />
 - **Grouping Direction:** (*Descending*/*Ascending*). Select the
   direction you would like the Article Groupings to be ordered by.
 - **Month and Year Display Format:** Please enter in a valid date
-  format. See:
-  <a href="http://php.net/date" class="external free" target="_blank"
-  rel="nofollow noreferrer noopener">http://php.net/date</a> for
-  formatting information.
+  format.
 
 ### Display Options Tab
 
@@ -184,10 +181,7 @@ alt="modules site module manager module articles category display options" />
   displayed.
 - **Date Field:** (*Created Date*/*Modified Date*/*Start Publishing
   Date*). Select which date field you want to display.
-- **Date Format:** Please enter in a valid date format. See:
-  <a href="http://php.net/date" class="external free" target="_blank"
-  rel="nofollow noreferrer noopener">http://php.net/date</a> for
-  formatting information.
+- **Date Format:** Please enter in a valid date format.
 - **Category:** (*Show*/*Hide*). Select Show if you would like the
   category name displayed.
 - **Hits:** (*Show*/*Hide*). Select Show if you would like the hits for

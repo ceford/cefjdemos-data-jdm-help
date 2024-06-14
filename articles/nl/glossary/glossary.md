@@ -140,8 +140,7 @@ extensies die beschikbaar zijn om te downloaden vanaf de JED (Joomla!
 Extension-Directory).
 
 #### Zie ook:
-<a href="http://extensions.joomla.org/" class="external text"
-target="_blank" rel="noreferrer noopener">Joomla Extension Directory</a>.
+<a href="http://extensions.joomla.org/" rel="noreferrer noopener">Joomla Extension Directory</a>.
 
 ## Database tabelvoorvoegsel
 

@@ -30,24 +30,15 @@ alt="Users Options screen" />
 
 - **Permitir el registro de usuarios**.
   - Sí: Users can register from the Frontend of the site using the
-    'Create an Account' link provided on the
-    <a href="https://docs.joomla.org/Help4.x:Site_Modules:_Login/es"
-    class="new"
-    title="Special:MyLanguage/Help4.x:Site Modules: Login/es (page does not exist)">Login
-    module</a>.
+    'Create an Account' link provided on the Login module.
   - No: The 'Create an Account' link will not show.
-- **Grupo predeterminado de registro**. The
-  <a href="https://docs.joomla.org/Help4.x:Users:_Groups/es" class="new"
-  title="Special:MyLanguage/Help4.x:Users: Groups/es (page does not exist)">group</a>
+- **Grupo predeterminado de registro**. The group
   that users are assigned to by default when they register on the site.
   Defaults to 'Registered'.
 - **Grupo para los invitados**. The group that guests are assigned to
   (Guests are visitors to the site who are not logged in). It is
   possible to create content on the site that is visible to guests but
-  not visible to logged in users. <a
-  href="https://magazine.joomla.org/all-issues/june-2021/explore-the-core-controlling-user-access?"
-  class="external text" target="_blank" rel="noreferrer noopener">Aprende
-  más.</a>
+  not visible to logged in users.
 - **Enviar contraseña**. If set to 'Yes' the user's first password will
   be emailed to the user as part of the registration mail.
 - **Activación de cuentas de usuario**.

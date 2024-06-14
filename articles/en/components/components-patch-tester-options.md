@@ -61,8 +61,7 @@ width="600" height="257"
 alt="Component Patch Tester Options ci server settings subscreen" />
 
 - **CI Server Address.** Default:
-  <a href="https://ci.joomla.org" class="external free" target="_blank"
-  rel="noreferrer noopener">https://ci.joomla.org</a>
+  <a href="https://ci.joomla.org" rel="noreferrer noopener">https://ci.joomla.org</a>
 - **Switch CI Integration.** Default: Off.
 
 ### Permissions Tab

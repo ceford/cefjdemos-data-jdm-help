@@ -204,13 +204,9 @@ title="File:Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-pt-
 - **Classe da imagem da introdução**. Configura o atributo da classe
   para uma imagem da introdução selecionada no campo "Imagem da
   introdução".
-  <a href="https://cassiopeia.joomla.com/help" class="external text"
-  target="_blank" rel="nofollow noreferrer noopener">Aprender mais</a>.
 - **Classe da imagem do texto completo**. Define o atributo da classe
   para uma imagem do artigo completo selecionada no campo "Imagem do
   artigo completo".
-  <a href="https://cassiopeia.joomla.com/help" class="external text"
-  target="_blank" rel="nofollow noreferrer noopener">Aprender mais</a>.
 
 ### Categoria
 

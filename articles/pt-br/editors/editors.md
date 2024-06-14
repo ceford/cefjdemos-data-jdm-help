@@ -229,11 +229,9 @@ disponíveis.
 
 O TinyMCE é compatível com leitores de tela como
 <a href="https://www.freedomscientific.com/products/software/jaws/"
-class="external text" target="_blank"
 rel="nofollow noreferrer noopener">JAWS</a> e
-<a href="https://www.nvaccess.org/" class="external text"
-target="_blank" rel="nofollow noreferrer noopener">NVDA</a>. Você pode
-usá-lo efetivamente mesmo se não usar o mouse.
+<a href="https://www.nvaccess.org/" rel="nofollow noreferrer noopener">NVDA</a>.
+Você pode usá-lo efetivamente mesmo se não usar o mouse.
 
 |                                                                     |                           |                           |
 |---------------------------------------------------------------------|---------------------------|---------------------------|

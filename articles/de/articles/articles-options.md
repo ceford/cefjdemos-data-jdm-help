@@ -191,12 +191,8 @@ alt="Content Article Manager Options editing layout subscreen" />
   dritten Links im Beitrag. Auswahl wie bei URL A.
 - **CSS-Klasse Einleitungsbild**. Die CSS-Klasse für das Einleitungsbild
   eingeben.
-  <a href="https://cassiopeia.joomla.com/help" class="external text"
-  target="_blank" rel="nofollow noreferrer noopener">Mehr erfahren.</a>
 - **CSS-Klasse Beitragsbild**. Die CSS-Klasse für das komplette
   Beitragsbild eingeben.
-  <a href="https://cassiopeia.joomla.com/help" class="external text"
-  target="_blank" rel="nofollow noreferrer noopener">Mehr erfahren.</a>
 
 ### Kategorie
 

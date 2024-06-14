@@ -39,9 +39,7 @@ alt="modules site module manager module random image" />
 - **Afbeeldingen map:** Pad naar de afbeeldingen map relatief tov de
   site URL (bijvoorbeeld images).
 - **Link:** Een URL waarnaar gegaan wordt als er op de afbeelding wordt
-  geklikt (bijvoorbeeld
-  <a href="https://www.joomla.org" class="external free" target="_blank"
-  rel="noreferrer noopener">https://www.joomla.org</a>).
+  geklikt.
 - **Breedte (px):** Breedte waarmee alle afbeeldingen getoond worden met
   deze breedte in pixels.
 - **Hoogte (px):** Hoogte waarmee alle afbeeldingen getoond worden met
