@@ -7,6 +7,7 @@ inicial e em que ordem eles são mostrados. A página inicial geralmente é
 a página inicial de um site, mas pode ser qualquer página do site.
 
 ## Como acessar
+
 Selecione **Conteúdo → Artigos destacados**
 
 Para adicionar um artigo:
@@ -19,10 +20,7 @@ Para editar um artigo:
 
 ## Captura da tela
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Content-Featured-Articles-screen-pt-br.png"
-class="new"
-title="File:Help-4x-Content-Featured-Articles-screen-pt-br.png">800px</a>
+![Featured articles list screenshot](../../../images/pt-br/articles/articles-featured-list.png "Feature Articles List")
 
 ## Cabeçalhos das colunas
 

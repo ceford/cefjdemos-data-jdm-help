@@ -18,7 +18,7 @@ Select the **Options** button in the Toolbar of any *Articles* list page.
 
 ## Screenshot
 
-![Articles options screenshot](../../../images/en/articles/articles-options-screenshot.png "Articles options")
+![Articles options screenshot](../../../images/en/articles/articles-options-articles-tab.png "Articles options")
 
 ## Form Fields
 
@@ -187,7 +187,7 @@ Options control the display of the menu item List All Categories.
 Options control the layout of the menu items Blog, Featured Articles and List
 All Categories.
 
-![Articles options blog/featured layout tab](../../../images/en/articles/articles-options-blog-layouts-tab.png "Articles options blog/featured layout")
+![Articles options blog and featured layout tab](../../../images/en/articles/articles-options-blog-layouts-tab.png "Articles options blog and featured layout")
 
 - **# Leading Articles**. Number of Articles to show using the full
   width of the main display area. "0" means that no Articles will show

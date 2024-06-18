@@ -10,6 +10,10 @@ for the site as a whole or for individual users.
 Most parameters have suitable defaults but you might wish to set a
 specific Category or provide article-specific Metadata.
 
+## Tutorials
+
+[Adding an Image to an Article](jdocmanual?article=user/articles/adding-an-image-to-an-article "Adding an Image to an Article")
+
 ## How to Access
 Selecione **Conteúdos → Artigos**
 
@@ -23,7 +27,7 @@ To edit a Article:
 
 ## Screenshot
 
-![Articles edit screenshot](../../../images/en/articles/articles-edit-screenshot.png "Articles edit")
+![Articles edit screenshot](../../../images/pt-br/articles/articles-edit-content-tab.png "Articles edit")
 
 ## Form Fields
 
@@ -79,7 +83,7 @@ Article: Options.
 This section lets you display images and links in your articles using
 standardised layouts.
 
-![Articles edit images and links tab](../../../images/en/articles/articles-edit-images-and-links-tab.png "Articles edit images and links tab")
+![Articles edit images and links tab](../../../images/pt-br/articles/articles-edit-images-tab.png "Articles edit images and links tab")
 
 #### Imagem de introdução
 
@@ -142,7 +146,7 @@ Article: Options.
 This is a set of options you can use to control how this article will
 show in the Frontend.
 
-![Options tab](../../../images/en/articles/articles-edit-options-tab.png "Options Tab")
+![Options tab](../../../images/pt-br/articles/articles-edit-options-tab.png "Options Tab")
 
 #### Visual
 
@@ -211,20 +215,39 @@ show in the Frontend.
 
 ### Campos guia
 
-This section shows the custom fields
-which are defined for this article.
+This section shows the custom fields which are defined for this article.
 
-![Fields tab](../../../images/en/articles/articles-edit-fields-tab.png "Filds Tab")
+![Fields tab](../../../images/pt-br/articles/articles-edit-fields-tab.png "Filds Tab")
+
+### Schema tab
+
+![Schema tab](../../../images/pt-br/articles/articles-edit-schema-tab.png "Schema Tab")
+
+The schema mechanism allows you to enter metadata for individual articles,
+choosing from the following schema types:
+
+* None
+* Article
+* BlogPosting
+* Book
+* Event
+* JobPosting
+* Organisation
+* Person
+* Recipe
+* Custom
+
+Each is a plugin which can disable or enable as required. More schmema types
+my be added later or available from third party sources.
 
 ### Publicação guia
 
+This section allows you to enter parameters and Metadata for this Article.
+
 **Note**: This can be hidden by a user with Admin permissions in the
 Article: Options.
-This section allows you to enter parameters and
-Metadata
-for this Article.
 
-![Publishing tab](../../../images/en/articles/articles-edit-publishing-tab.png "Publishing Tab")
+![Publishing tab](../../../images/pt-br/articles/articles-edit-publishing-tab.png "Publishing Tab")
 
 #### Publicação
 
@@ -273,14 +296,14 @@ Article: Options.
 Tab is shown on Multilingual Sites
 only.
 
-![Associations tab](../../../images/en/articles/articles-edit-associations-tab.png "Associations Tab")
+![Associations tab](../../../images/pt-br/articles/articles-edit-associations-tab.png "Associations Tab")
 
 ### Configurar ecrã de edição guia
 
 **Note**: This can be hidden by a user with Admin permissions in the
 Article: Options.
 
-![Configure edit screen tab](../../../images/en/articles/articles-edit-configure-edit-screen-tab.png "Configure edit screen Tab")
+![Configure edit screen tab](../../../images/pt-br/articles/articles-edit-editor-tab.png "Configure edit screen Tab")
 
 - **Opções de publicação**. If Hide, the Publishing Options tab
   will not show in the Backend. This means that Backend users will not
@@ -297,11 +320,12 @@ Article: Options.
 
 ### Permissões guia
 
-**Note**: This can be hidden by a user with Admin permissions in the
-Article: Options.
 This is where you can enter permissions for this article.
 
-![Permissions tab](../../../images/en/articles/articles-edit-permissions-tab.png "Permissions Tab")
+**Note**: This can be hidden by a user with Admin permissions in the
+Article: Options.
+
+![Permissions tab](../../../images/pt-br/articles/articles-edit-permissions-tab.png "Permissions Tab")
 
 To change the permissions for this article, do the following.
 

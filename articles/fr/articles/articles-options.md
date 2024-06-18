@@ -19,23 +19,14 @@ Sélectionner **Contenus → Articles**
 
 ## Capture d'écran
 
-<img
-src="https://docs.joomla.org/images/thumb/d/d1/Help-4x-Content-Article-Manager-Options-screen-fr.png/800px-Help-4x-Content-Article-Manager-Options-screen-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/d/d1/Help-4x-Content-Article-Manager-Options-screen-fr.png/1200px-Help-4x-Content-Article-Manager-Options-screen-fr.png 1.5x, https://docs.joomla.org/images/thumb/d/d1/Help-4x-Content-Article-Manager-Options-screen-fr.png/1600px-Help-4x-Content-Article-Manager-Options-screen-fr.png 2x"
-data-file-width="2880" data-file-height="1629" width="800" height="453"
-alt="Content Article Manager Options screen" />
+![Articles options screenshot](../../../images/fr/articles/articles-options-articles-tab.png "Articles options")
 
 ## Champs de formulaire
 
 ### Articles
 
-Options used in articles and the menu items
-Blog,
-List,
-Featured Articles,
-List All Categories,
-and Single Article.
+Options used in articles and the menu items Blog, List, Featured Articles,
+List All Categories, and Single Article.
 
 #### Type de mise en page
 
@@ -128,12 +119,7 @@ and Single Article.
 
 Options of the article editing page.
 
-<img
-src="https://docs.joomla.org/images/thumb/9/95/Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-fr.png/600px-Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/9/95/Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-fr.png/900px-Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-fr.png 1.5x, https://docs.joomla.org/images/thumb/9/95/Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-fr.png/1200px-Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-fr.png 2x"
-data-file-width="2004" data-file-height="1348" width="600" height="404"
-alt="Content Article Manager Options editing layout subscreen" />
+![Articles options editing layout tab](../../../images/fr/articles/articles-options-editing-layout-tab.png "Articles options editing layout")
 
 - **Captcha à utiliser**. Select the captcha plugin
   that will be used in the article submit form. If 'Use Global' is
@@ -189,17 +175,9 @@ alt="Content Article Manager Options editing layout subscreen" />
 ### Catégorie
 
 Options control how a Category and its articles will show. They are used
-in categories and the menu items
-Blog,
-List,
-and List All Categories.
+in categories and the menu items Blog, List, and List All Categories.
 
-<img
-src="https://docs.joomla.org/images/thumb/f/f8/Help-4x-Content-Article-Manager-Options-category-subscreen-fr.png/600px-Help-4x-Content-Article-Manager-Options-category-subscreen-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/f/f8/Help-4x-Content-Article-Manager-Options-category-subscreen-fr.png/900px-Help-4x-Content-Article-Manager-Options-category-subscreen-fr.png 1.5x, https://docs.joomla.org/images/thumb/f/f8/Help-4x-Content-Article-Manager-Options-category-subscreen-fr.png/1200px-Help-4x-Content-Article-Manager-Options-category-subscreen-fr.png 2x"
-data-file-width="2003" data-file-height="1348" width="600" height="404"
-alt="Content Article Manager Options category subscreen" />
+![Articles options category tab](../../../images/fr/articles/articles-options-category-tab.png "Articles options category")
 
 - **Mise en page**. Select the default layout to show when you click on
   a Category link.
@@ -223,12 +201,7 @@ alt="Content Article Manager Options category subscreen" />
 
 Options control the display of the menu item List All Categories.
 
-<img
-src="https://docs.joomla.org/images/thumb/9/91/Help-4x-Content-Article-Manager-Options-categories-subscreen-fr.png/600px-Help-4x-Content-Article-Manager-Options-categories-subscreen-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/9/91/Help-4x-Content-Article-Manager-Options-categories-subscreen-fr.png/900px-Help-4x-Content-Article-Manager-Options-categories-subscreen-fr.png 1.5x, https://docs.joomla.org/images/thumb/9/91/Help-4x-Content-Article-Manager-Options-categories-subscreen-fr.png/1200px-Help-4x-Content-Article-Manager-Options-categories-subscreen-fr.png 2x"
-data-file-width="2003" data-file-height="1007" width="600" height="302"
-alt="Content Article Manager Options categories subscreen" />
+![Articles options categories tab](../../../images/fr/articles/articles-options-categories-tab.png "Articles options categories")
 
 - **Desc. de la catégorie racine**. Show the description for the
   top-level category.
@@ -246,12 +219,7 @@ Blog,
 Featured Articles,
 and List All Categories.
 
-<img
-src="https://docs.joomla.org/images/thumb/b/b1/Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-fr.png/600px-Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/b/b1/Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-fr.png/900px-Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-fr.png 1.5x, https://docs.joomla.org/images/thumb/b/b1/Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-fr.png/1200px-Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-fr.png 2x"
-data-file-width="2003" data-file-height="1347" width="600" height="403"
-alt="Content Article Manager Options blog featured layout subscreen" />
+![Articles options blog/featured layout tab](../../../images/fr/articles/articles-options-blog-layouts-tab.png "Articles options blog/featured layout")
 
 - **Articles en pleine largeur**. Nombre d'articles en pleine largeur à
   afficher dans le blog. "0" signifie qu'il n'y aura aucun article
@@ -287,11 +255,7 @@ alt="Content Article Manager Options blog featured layout subscreen" />
 - **Direction multicolonne**. In multi-column blog layouts, whether to
   order articles Down the columns or Across the columns.
   - Colonne: les articles se suivent à la verticale. Par exemple :
-
--
   - Ligne: les articles se suivent à l'horizontal. Par exemple :
-
--
 - **Titres avec lien**. Nombre d'articles dont seul le titre, sous forme
   de lien, doit être affiché. Ces liens permettent à un utilisateur
   d'avoir un lien vers des articles supplémentaires dans le cas où il y
@@ -307,16 +271,9 @@ alt="Content Article Manager Options blog featured layout subscreen" />
 
 ### Listes
 
-Options control the layout of the menu items
-List
-and List All Categories.
+Options control the layout of the menu items List and List All Categories.
 
-<img
-src="https://docs.joomla.org/images/thumb/f/fd/Help-4x-Content-Article-Manager-Options-list-layout-subscreen-fr.png/600px-Help-4x-Content-Article-Manager-Options-list-layout-subscreen-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/f/fd/Help-4x-Content-Article-Manager-Options-list-layout-subscreen-fr.png/900px-Help-4x-Content-Article-Manager-Options-list-layout-subscreen-fr.png 1.5x, https://docs.joomla.org/images/thumb/f/fd/Help-4x-Content-Article-Manager-Options-list-layout-subscreen-fr.png/1200px-Help-4x-Content-Article-Manager-Options-list-layout-subscreen-fr.png 2x"
-data-file-width="2004" data-file-height="1273" width="600" height="381"
-alt="Content Article Manager Options list layout subscreen" />
+![Articles options list layouts tab](../../../images/fr/articles/articles-options-list-layouts-tab.png "Articles options list layouts")
 
 - **Sélecteur d'affichage**. Show the Display \# control that allows the
   user to select the number of articles to show.
@@ -340,17 +297,9 @@ alt="Content Article Manager Options list layout subscreen" />
 
 ### Paramètres partagés
 
-Options shared by the menu items
-Blog,
-List,
-and Featured Articles.
+Options shared by the menu items Blog, List, and Featured Articles.
 
-<img
-src="https://docs.joomla.org/images/thumb/5/59/Help-4x-Content-Article-Manager-Options-shared-subscreen-fr.png/600px-Help-4x-Content-Article-Manager-Options-shared-subscreen-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/5/59/Help-4x-Content-Article-Manager-Options-shared-subscreen-fr.png/900px-Help-4x-Content-Article-Manager-Options-shared-subscreen-fr.png 1.5x, https://docs.joomla.org/images/thumb/5/59/Help-4x-Content-Article-Manager-Options-shared-subscreen-fr.png/1200px-Help-4x-Content-Article-Manager-Options-shared-subscreen-fr.png 2x"
-data-file-width="2004" data-file-height="1182" width="600" height="354"
-alt="Content Article Manager Options shared subscreen" />
+![Articles options shared tab](../../../images/en/articles/articles-options-shared-tab.png "Articles shared")
 
 - **Ordre des catégories**.
   - Aucun ordre: Articles are ordered only by the Article Order, without
@@ -407,12 +356,7 @@ alt="Content Article Manager Options shared subscreen" />
 Options control how Articles integrate News Feeds, Routing, Custom
 Fields, and Workflow.
 
-<img
-src="https://docs.joomla.org/images/thumb/3/3e/Help-4x-Content-Article-Manager-Options-integration-subscreen-fr.png/600px-Help-4x-Content-Article-Manager-Options-integration-subscreen-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/3/3e/Help-4x-Content-Article-Manager-Options-integration-subscreen-fr.png/900px-Help-4x-Content-Article-Manager-Options-integration-subscreen-fr.png 1.5x, https://docs.joomla.org/images/thumb/3/3e/Help-4x-Content-Article-Manager-Options-integration-subscreen-fr.png/1200px-Help-4x-Content-Article-Manager-Options-integration-subscreen-fr.png 2x"
-data-file-width="2004" data-file-height="1346" width="600" height="403"
-alt="Content Article Manager Options integration subscreen" />
+![Articles options integration tab](../../../images/fr/articles/articles-options-integration-tab.png "Articles options integration")
 
 #### Fils d'actualité
 
@@ -446,12 +390,7 @@ alt="Content Article Manager Options integration subscreen" />
 This section lets you set up the default Access Control List
 permissions for all articles in all categories.
 
-<img
-src="https://docs.joomla.org/images/thumb/5/51/Help-4x-Content-Article-Manager-Options-permissions-subscreen-fr.png/600px-Help-4x-Content-Article-Manager-Options-permissions-subscreen-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/5/51/Help-4x-Content-Article-Manager-Options-permissions-subscreen-fr.png/900px-Help-4x-Content-Article-Manager-Options-permissions-subscreen-fr.png 1.5x, https://docs.joomla.org/images/thumb/5/51/Help-4x-Content-Article-Manager-Options-permissions-subscreen-fr.png/1200px-Help-4x-Content-Article-Manager-Options-permissions-subscreen-fr.png 2x"
-data-file-width="2004" data-file-height="1348" width="600" height="404"
-alt="Content Article Manager Options permissions subscreen" />
+![Articles options permissions tab](../../../images/fr/articles/articles-options-permissions-tab.png "Articles options permissions")
 
 To change the permissions for articles and categories, do the following.
 

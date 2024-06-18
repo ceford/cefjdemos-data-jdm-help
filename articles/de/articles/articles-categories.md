@@ -24,12 +24,7 @@ Eine Kategorie bearbeiten:
 
 ## Bildschirmfoto
 
-<img
-src="https://docs.joomla.org/images/thumb/5/51/Help-4x-Content-Categories-screen-de.png/800px-Help-4x-Content-Categories-screen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/5/51/Help-4x-Content-Categories-screen-de.png/1200px-Help-4x-Content-Categories-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/5/51/Help-4x-Content-Categories-screen-de.png/1600px-Help-4x-Content-Categories-screen-de.png 2x"
-data-file-width="2880" data-file-height="1530" width="800" height="425"
-alt="Content Categories screen" />
+![Articles: Categories list](../../../images/de/articles/articles-categories-list.png "Articles: Categories list")
 
 ## Spalten-Überschriften
 
@@ -136,12 +131,7 @@ Bereich.
 
 Die Stapelverarbeitung ändert Einstellungen ausgewählter Kategorien.
 
-<img
-src="https://docs.joomla.org/images/thumb/5/52/Help-4x-Content-Categories-batch-de.png/600px-Help-4x-Content-Categories-batch-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/5/52/Help-4x-Content-Categories-batch-de.png/900px-Help-4x-Content-Categories-batch-de.png 1.5x, https://docs.joomla.org/images/thumb/5/52/Help-4x-Content-Categories-batch-de.png/1200px-Help-4x-Content-Categories-batch-de.png 2x"
-data-file-width="1598" data-file-height="900" width="600" height="338"
-alt="Content Categories batch" />
+![Batch process categories](../../../images/de/articles/articles-categories-batch.png "Batch process categories")
 
 **Wie man die Stapelverarbeitung** an Kategorien anwendet:
 
@@ -172,4 +162,3 @@ alt="Content Categories batch" />
 
 - Ein Klick auf das Symbol der Statusspalte wechselt zwischen
   'Veröffentlicht' und 'Versteckt'.
-

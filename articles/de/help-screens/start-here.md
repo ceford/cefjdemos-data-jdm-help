@@ -1,20 +1,13 @@
 <!-- Filename: Help4.x:Start_Here / Display title: Hier beginnen -->
 
-Joomla!  4.x
-
-## Hilfe mit Joomla! 4
+## Hilfe mit Joomla!
 
 Um Hilfe zu einer bestimmten Administratorseite zu erhalten, innerhalb
 der Joomla-Administration den Button **Hilfe** in der Symbolleiste
 auswählen, um weitere Informationen über die Seite zu erhalten. Der
 Button befindet sich rechts unterhalb der Titelleiste. Beispiel:
 
-<img
-src="https://docs.joomla.org/images/thumb/0/06/Help-4x-Start-Here-Help-toolbar-de.png/800px-Help-4x-Start-Here-Help-toolbar-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/0/06/Help-4x-Start-Here-Help-toolbar-de.png 1.5x"
-data-file-width="895" data-file-height="269" width="800" height="240"
-alt="Start Here Help toolbar" />
+![help toolbar](../../../images/de/help-screens/start-here-top-bars.png "Help Toolbar")
 
 In der Mitte des Bildschirms wird ein modales Dialogfeld mit Hilfe angezeigt
 spezifische Informationen für diese Seite.
@@ -35,30 +28,13 @@ have experienced the pain of learning a new system. New terminology, new
 ways of doing things, perhaps even the web itself may be new to you.
 Then let this guide relieve some of that pain.
 
-- Getting Started with Joomla!
-  4
-- Getting Started: Site and Administrator
-  templates
-- Getting Started: Adding an
-  Article
-- Getting Started: Adding a Menu
-  Item
-- Getting Started: Adding a
-  Category
-- Getting Started: Adding a
-  Module
+- [Getting Started: Introduction to Joomla!](jdocmanual?article=user/getting-started/introduction-to-joomla "Introduction to Joomla!")
+- [Getting Started: Articles and Categories](jdocmanual?article=user/getting-started/articles-and-categories "Articles and Categories")
+- [Erste Schritte: Einen Beitrag hinzufügen](jdocmanual?article=user/getting-started/adding-an-article "Einen Beitrag hinzufügen")
+- [Erste Schritte: Eine Kategorie hinzufügen](jdocmanual?article=user/getting-started/adding-a-category "Eine Kategorie hinzufügen")
+- [Erste Schritte: Einen Menüpunkt hinzufügen](jdocmanual?article=user/getting-started/adding-a-menu-item "Einen Menüpunkt hinzufügen")
+- [Erste Schritte: Ein Modul hinzufügen](jdocmanual?article=user/getting-started/adding-a-module "Ein Modul hinzufügen")
 
 ## Keeping your website secure
 
-- Joomla! Security
-  Checklist
-
-## Further information by reader profile
-
-- Administrators
-- Web
-  Designers
-- Developers
-- Evaluators
-- more user
-  profiles...
+- [Security: Best Practices](jdocmanual?article=user/security/best-practices "Security: Best Practices")

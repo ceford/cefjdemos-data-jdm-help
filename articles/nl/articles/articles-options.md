@@ -21,25 +21,14 @@ Selecteer **Inhoud → Artikelen**
 
 ## Schermafbeelding
 
-<img
-src="https://docs.joomla.org/images/thumb/e/ed/Help-4x-Content-Article-Manager-Options-screen-nl.png/800px-Help-4x-Content-Article-Manager-Options-screen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/e/ed/Help-4x-Content-Article-Manager-Options-screen-nl.png/1200px-Help-4x-Content-Article-Manager-Options-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/e/ed/Help-4x-Content-Article-Manager-Options-screen-nl.png/1600px-Help-4x-Content-Article-Manager-Options-screen-nl.png 2x"
-data-file-width="2880" data-file-height="1629" width="800" height="453"
-alt="Content Article Manager Options screen" />
+![Articles options screenshot](../../../images/nl/articles/articles-options-articles-tab.png "Articles options")
 
 ## Formulier velden
 
 ### Artikel
 
-Opties gebruikt in artikelen en de menu-items
-Blog,
-Lijst,
-Speciale
-Artikelen,
-Lijst met alle
-Categorieën
-en
+Opties gebruikt in artikelen en de menu-items Blog, Lijst, Speciale Artikelen,
+Lijst met alle Categorieën en
 
 #### Weergave
 
@@ -133,12 +122,7 @@ en
 
 Optie van de artikel bewerk pagina.
 
-<img
-src="https://docs.joomla.org/images/thumb/c/cb/Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-nl.png/600px-Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/c/cb/Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-nl.png/900px-Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/c/cb/Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-nl.png/1200px-Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-nl.png 2x"
-data-file-width="2003" data-file-height="1348" width="600" height="404"
-alt="Content Article Manager Options editing layout subscreen" />
+![Articles options editing layout tab](../../../images/nl/articles/articles-options-editing-layout-tab.png "Articles options editing layout")
 
 - **Gebruik captcha voor verzenden**. Selecteer de captcha plugin
   die gebruikt zal worden voor het artikel verzendformulier. Zorg dat er
@@ -202,17 +186,9 @@ alt="Content Article Manager Options editing layout subscreen" />
 ### Categorie
 
 Opties die bepalen hoe een categorie en zijn artikelen getoond worden.
-Ze worden gebruikt bij categorieën en de menu-items
-Blog,
-Lijst
-en
+Ze worden gebruikt bij categorieën en de menu-items Blog, Lijst en
 
-<img
-src="https://docs.joomla.org/images/thumb/9/93/Help-4x-Content-Article-Manager-Options-category-subscreen-nl.png/600px-Help-4x-Content-Article-Manager-Options-category-subscreen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/9/93/Help-4x-Content-Article-Manager-Options-category-subscreen-nl.png/900px-Help-4x-Content-Article-Manager-Options-category-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/9/93/Help-4x-Content-Article-Manager-Options-category-subscreen-nl.png/1200px-Help-4x-Content-Article-Manager-Options-category-subscreen-nl.png 2x"
-data-file-width="2003" data-file-height="1348" width="600" height="404"
-alt="Content Article Manager Options category subscreen" />
+![Articles options category tab](../../../images/nl/articles/articles-options-category-tab.png "Articles options category")
 
 - **Kies een weergave**. Selecteer de standaard weergave selecteren die
   getoond wordt als u op een categorie link klikt.
@@ -237,12 +213,7 @@ alt="Content Article Manager Options category subscreen" />
 
 Opties bepalen de weergave van het menu-item
 
-<img
-src="https://docs.joomla.org/images/thumb/5/5c/Help-4x-Content-Article-Manager-Options-categories-subscreen-nl.png/600px-Help-4x-Content-Article-Manager-Options-categories-subscreen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/5/5c/Help-4x-Content-Article-Manager-Options-categories-subscreen-nl.png/900px-Help-4x-Content-Article-Manager-Options-categories-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/5/5c/Help-4x-Content-Article-Manager-Options-categories-subscreen-nl.png/1200px-Help-4x-Content-Article-Manager-Options-categories-subscreen-nl.png 2x"
-data-file-width="2002" data-file-height="1082" width="600" height="324"
-alt="Content Article Manager Options categories subscreen" />
+![Articles options categories tab](../../../images/nl/articles/articles-options-categories-tab.png "Articles options categories")
 
 - **Hoofdniveau categoriebeschrijving**. Toon de beschrijving van de
   hoofdcategorie.
@@ -256,18 +227,9 @@ alt="Content Article Manager Options categories subscreen" />
 
 ### Weergave blog / speciale artikelen
 
-Deze opties bepalen de weergave van de menu-items
-Blog,
-Speciale
-artikelen
-en
+Deze opties bepalen de weergave van de menu-items Blog, Speciale artikelen en
 
-<img
-src="https://docs.joomla.org/images/thumb/7/76/Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-nl.png/600px-Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/7/76/Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-nl.png/900px-Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/7/76/Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-nl.png/1200px-Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-nl.png 2x"
-data-file-width="2004" data-file-height="1348" width="600" height="404"
-alt="Content Article Manager Options blog featured layout subscreen" />
+![Articles options blog/featured layout tab](../../../images/nl/articles/articles-options-blog-layouts-tab.png "Articles options blog/featured layout")
 
 - **\# Hoofdartikelen**. Aantal Artikelen te tonen met behulp van de
   volledige breedte van de blog pagina. "0" betekent dat er geen
@@ -327,16 +289,9 @@ alt="Content Article Manager Options blog featured layout subscreen" />
 
 ### Lijstweergave
 
-Deze opties bepalen de weergave van de menu-items
-List
-en
+Deze opties bepalen de weergave van de menu-items List en
 
-<img
-src="https://docs.joomla.org/images/thumb/9/94/Help-4x-Content-Article-Manager-Options-list-layout-subscreen-nl.png/600px-Help-4x-Content-Article-Manager-Options-list-layout-subscreen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/9/94/Help-4x-Content-Article-Manager-Options-list-layout-subscreen-nl.png/900px-Help-4x-Content-Article-Manager-Options-list-layout-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/9/94/Help-4x-Content-Article-Manager-Options-list-layout-subscreen-nl.png/1200px-Help-4x-Content-Article-Manager-Options-list-layout-subscreen-nl.png 2x"
-data-file-width="2005" data-file-height="1300" width="600" height="389"
-alt="Content Article Manager Options list layout subscreen" />
+![Articles options list layouts tab](../../../images/nl/articles/articles-options-list-layouts-tab.png "Articles options list layouts")
 
 - **Weergave selectielijst**. Of het Toon \# control getoond of
   verborgen moet worden, welke de gebruiker de mogelijkheid geeft het
@@ -363,17 +318,9 @@ alt="Content Article Manager Options list layout subscreen" />
 
 ### Gedeeld
 
-Opties gedeeld door de menu-items
-Blog,
-Lijst
-en
+Opties gedeeld door de menu-items Blog, Lijst en
 
-<img
-src="https://docs.joomla.org/images/thumb/f/f0/Help-4x-Content-Article-Manager-Options-shared-subscreen-nl.png/600px-Help-4x-Content-Article-Manager-Options-shared-subscreen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/f/f0/Help-4x-Content-Article-Manager-Options-shared-subscreen-nl.png/900px-Help-4x-Content-Article-Manager-Options-shared-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/f/f0/Help-4x-Content-Article-Manager-Options-shared-subscreen-nl.png/1200px-Help-4x-Content-Article-Manager-Options-shared-subscreen-nl.png 2x"
-data-file-width="2004" data-file-height="1257" width="600" height="376"
-alt="Content Article Manager Options shared subscreen" />
+![Articles options shared tab](../../../images/en/articles/articles-options-shared-tab.png "Articles shared")
 
 - **Volgorde categorieën**.
   - Geen volgorde: Artikelen worden alleen gesorteerd op
@@ -432,12 +379,7 @@ alt="Content Article Manager Options shared subscreen" />
 Opties bepalen hoe artikelen integreren met Nieuwsfeeds, Routering,
 Extra velden, en Workflow.
 
-<img
-src="https://docs.joomla.org/images/thumb/7/78/Help-4x-Content-Article-Manager-Options-integration-subscreen-nl.png/600px-Help-4x-Content-Article-Manager-Options-integration-subscreen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/7/78/Help-4x-Content-Article-Manager-Options-integration-subscreen-nl.png/900px-Help-4x-Content-Article-Manager-Options-integration-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/7/78/Help-4x-Content-Article-Manager-Options-integration-subscreen-nl.png/1200px-Help-4x-Content-Article-Manager-Options-integration-subscreen-nl.png 2x"
-data-file-width="2005" data-file-height="1333" width="600" height="399"
-alt="Content Article Manager Options integration subscreen" />
+![Articles options integration tab](../../../images/nl/articles/articles-options-integration-tab.png "Articles options integration")
 
 #### Nieuwsfeeds
 
@@ -468,16 +410,10 @@ alt="Content Article Manager Options integration subscreen" />
 
 ### Rechten
 
-Deze sectie laat u de stndaard
-ACL
-rechten instellen voor alle artikelen in alle categorieën.
+Deze sectie laat u de stndaard ACL rechten instellen voor alle artikelen 
+in alle categorieën.
 
-<img
-src="https://docs.joomla.org/images/thumb/4/4f/Help-4x-Content-Article-Manager-Options-permissions-subscreen-nl.png/600px-Help-4x-Content-Article-Manager-Options-permissions-subscreen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/4/4f/Help-4x-Content-Article-Manager-Options-permissions-subscreen-nl.png/900px-Help-4x-Content-Article-Manager-Options-permissions-subscreen-nl.png 1.5x, https://docs.joomla.org/images/thumb/4/4f/Help-4x-Content-Article-Manager-Options-permissions-subscreen-nl.png/1200px-Help-4x-Content-Article-Manager-Options-permissions-subscreen-nl.png 2x"
-data-file-width="2004" data-file-height="1348" width="600" height="404"
-alt="Content Article Manager Options permissions subscreen" />
+![Articles options permissions tab](../../../images/nl/articles/articles-options-permissions-tab.png "Articles options permissions")
 
 Om de rechten van artikelen en categorieën te wijzigen moet het volgende
 gedaan worden.

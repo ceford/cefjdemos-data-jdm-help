@@ -15,7 +15,7 @@ Home page of a web site, but it can be any page in the site.
 
 ## Screenshot
 
-![Featured articles list screenshot](../../../images/en/articles/articles-featured-screenshot.png "Feature Articles List")
+![Featured articles list screenshot](../../../images/en/articles/articles-featured-list.png "Feature Articles List")
 
 ## Column Headers
 

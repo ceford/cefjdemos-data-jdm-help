@@ -20,12 +20,7 @@ Wählen **Inhalt → Beiträge**
 
 ## Bildschirmfoto
 
-<img
-src="https://docs.joomla.org/images/thumb/f/f0/Help-4x-Content-Article-Manager-Options-screen-de.png/800px-Help-4x-Content-Article-Manager-Options-screen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/f/f0/Help-4x-Content-Article-Manager-Options-screen-de.png/1200px-Help-4x-Content-Article-Manager-Options-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/f/f0/Help-4x-Content-Article-Manager-Options-screen-de.png/1600px-Help-4x-Content-Article-Manager-Options-screen-de.png 2x"
-data-file-width="2880" data-file-height="1629" width="800" height="453"
-alt="Content Article Manager Options screen" />
+![Articles options screenshot](../../../images/de/articles/articles-options-articles-tab.png "Articles options")
 
 ## Formular Felder
 
@@ -131,12 +126,7 @@ Kategorieliste.
 
 Optionen der Bearbeitungsseite für Beiträge.
 
-<img
-src="https://docs.joomla.org/images/thumb/a/aa/Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-de.png/600px-Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/a/aa/Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-de.png/900px-Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/a/aa/Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-de.png/1200px-Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-de.png 2x"
-data-file-width="2003" data-file-height="1348" width="600" height="404"
-alt="Content Article Manager Options editing layout subscreen" />
+![Articles options editing layout tab](../../../images/de/articles/articles-options-editing-layout-tab.png "Articles options editing layout")
 
 - **Captcha beim Einreichen erlauben**. Das beim Erstellen eines
   Beitrages zu verwendende
@@ -197,19 +187,10 @@ alt="Content Article Manager Options editing layout subscreen" />
 ### Kategorie
 
 Optionen für eine Kategorie und ihre Beiträge. Sie werden in Kategorien
-und den Menüeinträgen Alle Kategorien
-auflisten,
-Kategorieblog
-und
-Kategorieliste
-verwendet.
+und den Menüeinträgen Alle Kategorien auflisten, Kategorieblog und
+Kategorieliste verwendet.
 
-<img
-src="https://docs.joomla.org/images/thumb/a/aa/Help-4x-Content-Article-Manager-Options-category-subscreen-de.png/600px-Help-4x-Content-Article-Manager-Options-category-subscreen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/a/aa/Help-4x-Content-Article-Manager-Options-category-subscreen-de.png/900px-Help-4x-Content-Article-Manager-Options-category-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/a/aa/Help-4x-Content-Article-Manager-Options-category-subscreen-de.png/1200px-Help-4x-Content-Article-Manager-Options-category-subscreen-de.png 2x"
-data-file-width="2003" data-file-height="1348" width="600" height="404"
-alt="Content Article Manager Options category subscreen" />
+![Articles options category tab](../../../images/de/articles/articles-options-category-tab.png "Articles options category")
 
 - **Layout auswählen**. Das Standardlayout für die Anzeige wählen,
   nachdem auf einen Kategorielink geklickt wurde.
@@ -233,15 +214,9 @@ alt="Content Article Manager Options category subscreen" />
 ### Kategorien
 
 Die Optionen legen die Anzeige des Menüeintrages Alle Kategorien
-auflisten
-fest.
+auflisten fest.
 
-<img
-src="https://docs.joomla.org/images/thumb/9/9f/Help-4x-Content-Article-Manager-Options-categories-subscreen-de.png/600px-Help-4x-Content-Article-Manager-Options-categories-subscreen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/9/9f/Help-4x-Content-Article-Manager-Options-categories-subscreen-de.png/900px-Help-4x-Content-Article-Manager-Options-categories-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/9/9f/Help-4x-Content-Article-Manager-Options-categories-subscreen-de.png/1200px-Help-4x-Content-Article-Manager-Options-categories-subscreen-de.png 2x"
-data-file-width="2003" data-file-height="1086" width="600" height="325"
-alt="Content Article Manager Options categories subscreen" />
+![Articles options categories tab](../../../images/de/articles/articles-options-categories-tab.png "Articles options categories")
 
 - **Beschreibung der obersten Kategorie**. Die Beschreibung der obersten
   Kategorie zeigen.
@@ -257,17 +232,9 @@ alt="Content Article Manager Options categories subscreen" />
 ### Blog/Hauptbeiträge
 
 Optionen für die Anzeige der Menüeinträge Alle Kategorien
-auflisten,
-Hauptbeiträge
-und
-Kategorieblog.
+auflisten, Hauptbeiträge und Kategorieblog.
 
-<img
-src="https://docs.joomla.org/images/thumb/2/2a/Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-de.png/600px-Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/2/2a/Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-de.png/900px-Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/2/2a/Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-de.png/1200px-Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-de.png 2x"
-data-file-width="2004" data-file-height="1349" width="600" height="404"
-alt="Content Article Manager Options blog featured layout subscreen" />
+![Articles options blog/featured layout tab](../../../images/de/articles/articles-options-blog-layouts-tab.png "Articles options blog/featured layout")
 
 - **\# Führende**. Anzahl der führenden Beiträge, deren Einleitungstexte
   in voller Breite gezeigt wird. Bei "0" werden keine Beiträge
@@ -320,16 +287,9 @@ alt="Content Article Manager Options blog featured layout subscreen" />
 ### Listenlayout
 
 Optionen für die Anzeige der Menüeinträge Alle Kategorien
-auflisten
-und
-Kategorieliste.
+auflisten und Kategorieliste.
 
-<img
-src="https://docs.joomla.org/images/thumb/9/95/Help-4x-Content-Article-Manager-Options-list-layout-subscreen-de.png/600px-Help-4x-Content-Article-Manager-Options-list-layout-subscreen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/9/95/Help-4x-Content-Article-Manager-Options-list-layout-subscreen-de.png/900px-Help-4x-Content-Article-Manager-Options-list-layout-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/9/95/Help-4x-Content-Article-Manager-Options-list-layout-subscreen-de.png/1200px-Help-4x-Content-Article-Manager-Options-list-layout-subscreen-de.png 2x"
-data-file-width="2004" data-file-height="1300" width="600" height="389"
-alt="Content Article Manager Options list layout subscreen" />
+![Articles options list layouts tab](../../../images/de/articles/articles-options-list-layouts-tab.png "Articles options list layouts")
 
 - **"Anzeige"-Filter**. Besucher können die Anzahl der gezeigten
   Beiträge wählen.
@@ -356,18 +316,10 @@ alt="Content Article Manager Options list layout subscreen" />
 
 ### Gemeinsam genutzt
 
-Gemeinsame Optionen der Menüeinträge
-Hauptbeiträge,
-Kategorieblog
-und
-Kategorieliste.
+Gemeinsame Optionen der Menüeinträge Hauptbeiträge, Kategorieblog
+und Kategorieliste.
 
-<img
-src="https://docs.joomla.org/images/thumb/6/65/Help-4x-Content-Article-Manager-Options-shared-subscreen-de.png/600px-Help-4x-Content-Article-Manager-Options-shared-subscreen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/6/65/Help-4x-Content-Article-Manager-Options-shared-subscreen-de.png/900px-Help-4x-Content-Article-Manager-Options-shared-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/6/65/Help-4x-Content-Article-Manager-Options-shared-subscreen-de.png/1200px-Help-4x-Content-Article-Manager-Options-shared-subscreen-de.png 2x"
-data-file-width="2004" data-file-height="1257" width="600" height="376"
-alt="Content Article Manager Options shared subscreen" />
+![Articles options shared tab](../../../images/de/articles/articles-options-shared-tab.png "Articles shared")
 
 - **Kategoriesortierung**.
   - Keine Sortierung: Beiträge sind nur nach der Beitrags-Sortierung,
@@ -419,12 +371,7 @@ alt="Content Article Manager Options shared subscreen" />
 Die Optionen bestimmen, wie Beiträge mit Newsfeeds, Routing, Feldern und
 Workflow zusammenarbeiten.
 
-<img
-src="https://docs.joomla.org/images/thumb/f/f5/Help-4x-Content-Article-Manager-Options-integration-subscreen-de.png/600px-Help-4x-Content-Article-Manager-Options-integration-subscreen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/f/f5/Help-4x-Content-Article-Manager-Options-integration-subscreen-de.png/900px-Help-4x-Content-Article-Manager-Options-integration-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/f/f5/Help-4x-Content-Article-Manager-Options-integration-subscreen-de.png/1200px-Help-4x-Content-Article-Manager-Options-integration-subscreen-de.png 2x"
-data-file-width="2004" data-file-height="1335" width="600" height="400"
-alt="Content Article Manager Options integration subscreen" />
+![Articles options integration tab](../../../images/de/articles/articles-options-integration-tab.png "Articles options integration")
 
 #### Newsfeeds
 
@@ -457,12 +404,7 @@ In diesem Teil werden die Standardwerte der
 Zugriffskontrollliste
 für alle Beiträge und alle Kategorien eingestellt.
 
-<img
-src="https://docs.joomla.org/images/thumb/d/dc/Help-4x-Content-Article-Manager-Options-permissions-subscreen-de.png/600px-Help-4x-Content-Article-Manager-Options-permissions-subscreen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/d/dc/Help-4x-Content-Article-Manager-Options-permissions-subscreen-de.png/900px-Help-4x-Content-Article-Manager-Options-permissions-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/d/dc/Help-4x-Content-Article-Manager-Options-permissions-subscreen-de.png/1200px-Help-4x-Content-Article-Manager-Options-permissions-subscreen-de.png 2x"
-data-file-width="2004" data-file-height="1348" width="600" height="404"
-alt="Content Article Manager Options permissions subscreen" />
+![Articles options permissions tab](../../../images/de/articles/articles-options-permissions-tab.png "Articles options permissions")
 
 Um Berechtigungen der Beiträge und Kategorien zu ändern:
 

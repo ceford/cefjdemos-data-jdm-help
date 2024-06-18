@@ -31,7 +31,7 @@ To edit an existing Category:
 
 ## Screenshot
 
-![Edit category screenshot](../../../images/en/articles/articles-edit-category-screenshot.png "Edit category")
+![Edit category screenshot](../../../images/en/articles/articles-edit-category-category-tab.png "Edit category")
 
 ## Form Fields
 

@@ -20,12 +20,7 @@ To edit a Article:
 
 ## Capture d'écran
 
-<img
-src="https://docs.joomla.org/images/thumb/c/c9/Help-4x-Content-Featured-Articles-screen-fr.png/800px-Help-4x-Content-Featured-Articles-screen-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/c/c9/Help-4x-Content-Featured-Articles-screen-fr.png/1200px-Help-4x-Content-Featured-Articles-screen-fr.png 1.5x, https://docs.joomla.org/images/thumb/c/c9/Help-4x-Content-Featured-Articles-screen-fr.png/1600px-Help-4x-Content-Featured-Articles-screen-fr.png 2x"
-data-file-width="2648" data-file-height="1600" width="800" height="483"
-alt="Content Featured Articles screen" />
+![Featured articles list screenshot](../../../images/fr/articles/articles-featured-list.png "Feature Articles List")
 
 ## En-Têtes de colonne
 

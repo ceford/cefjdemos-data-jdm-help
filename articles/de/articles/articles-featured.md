@@ -19,12 +19,7 @@ Einen Beitrag bearbeiten:
 
 ## Bildschirmfoto
 
-<img
-src="https://docs.joomla.org/images/thumb/4/40/Help-4x-Content-Featured-Articles-screen-de.png/800px-Help-4x-Content-Featured-Articles-screen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/4/40/Help-4x-Content-Featured-Articles-screen-de.png/1200px-Help-4x-Content-Featured-Articles-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/4/40/Help-4x-Content-Featured-Articles-screen-de.png/1600px-Help-4x-Content-Featured-Articles-screen-de.png 2x"
-data-file-width="2814" data-file-height="1700" width="800" height="483"
-alt="Content Featured Articles screen" />
+![Featured articles list screenshot](../../../images/de/articles/articles-featured-list.png "Feature Articles List")
 
 ## Spalten-Überschriften
 

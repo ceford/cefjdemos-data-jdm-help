@@ -17,7 +17,7 @@ There are two routes to the Articles list page:
 
 ## Screenshot
 
-![Articles list](../../../images/en/articles/articles-screenshot.png "Article list")
+![Articles list](../../../images/en/articles/articles-list.png "Article list")
 
 ## Column Headers
 
@@ -128,7 +128,7 @@ Screenshot above.
 The Batch Process allows a change in settings for a group of selected
 articles.
 
-![articles batch process](../../../images/en/articles/articles-batch-process.png "Articles batch process")
+![articles batch process](../../../images/en/articles/articles-list-batch.png "Articles batch process")
 
 **How to Batch Process** a group of articles:
 

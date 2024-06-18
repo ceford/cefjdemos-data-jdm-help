@@ -19,23 +19,14 @@ with the default settings.
 
 ## Скриншот
 
-<img
-src="https://docs.joomla.org/images/thumb/e/ed/Help-4x-Content-Article-Manager-Options-screen-ru.png/800px-Help-4x-Content-Article-Manager-Options-screen-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/e/ed/Help-4x-Content-Article-Manager-Options-screen-ru.png/1200px-Help-4x-Content-Article-Manager-Options-screen-ru.png 1.5x, https://docs.joomla.org/images/thumb/e/ed/Help-4x-Content-Article-Manager-Options-screen-ru.png/1600px-Help-4x-Content-Article-Manager-Options-screen-ru.png 2x"
-data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Content Article Manager Options screen" />
+![Articles options screenshot](../../../images/ru/articles/articles-options-articles-tab.png "Articles options")
 
 ## Form Fields
 
 ### Материалы
 
-Options used in articles and the menu items
-Blog,
-List,
-Featured Articles,
-List All Categories,
-and Single Article.
+Options used in articles and the menu items Blog, List, Featured Articles,
+List All Categories, and Single Article.
 
 #### Макет
 
@@ -122,12 +113,7 @@ and Single Article.
 
 Options of the article editing page.
 
-<img
-src="https://docs.joomla.org/images/thumb/8/8b/Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-ru.png/600px-Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/8/8b/Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-ru.png/900px-Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/8/8b/Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-ru.png/1200px-Help-4x-Content-Article-Manager-Options-editing-layout-subscreen-ru.png 2x"
-data-file-width="1979" data-file-height="1505" width="600" height="456"
-alt="Content Article Manager Options editing layout subscreen" />
+![Articles options editing layout tab](../../../images/ru/articles/articles-options-editing-layout-tab.png "Articles options editing layout")
 
 - **Включить CAPTCHA**. Select the captcha plugin
   that will be used in the article submit form. If 'Use Global' is
@@ -154,10 +140,8 @@ alt="Content Article Manager Options editing layout subscreen" />
   deleted automatically.
 - **Изображения и ссылки (сайт)**. Hide the Images and Links tab in the
   Frontend article editor screen.
-- **Изображения и ссылки (панель управления)**. Hide the [Images and
-  Links
-  tab](https://docs.joomla.org/Help4.x:Articles:_Edit/en#imagesandlinks "Help4.x:Articles: Edit/en")
-  in the Backend when editing Articles.
+- **Изображения и ссылки (панель управления)**. Hide the Images and
+  Links tab in the Backend when editing Articles.
 - **Окно браузера для ссылки A**. Sets the default value for the target
   for the first Link in the article. Choices are:
   - Родительское окно: Opens the in the main browser window, replacing
@@ -172,25 +156,15 @@ alt="Content Article Manager Options editing layout subscreen" />
   for the third Link in the article. Same options as URL A.
 - **CSS-класс изображения вводного текста**. Sets the class attribute
   for an Intro Image selected in the Intro Image field.
-
 - **CSS-класс изображения полного текста**. Sets the class attribute for
   an Full Article Image selected in the Full Article Image field.
-
 
 ### Категория
 
 Options control how a Category and its articles will show. They are used
-in categories and the menu items
-Blog,
-List,
-and List All Categories.
+in categories and the menu items Blog, List, and List All Categories.
 
-<img
-src="https://docs.joomla.org/images/thumb/b/b4/Help-4x-Content-Article-Manager-Options-category-subscreen-ru.png/600px-Help-4x-Content-Article-Manager-Options-category-subscreen-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/b/b4/Help-4x-Content-Article-Manager-Options-category-subscreen-ru.png/900px-Help-4x-Content-Article-Manager-Options-category-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/b/b4/Help-4x-Content-Article-Manager-Options-category-subscreen-ru.png/1200px-Help-4x-Content-Article-Manager-Options-category-subscreen-ru.png 2x"
-data-file-width="1979" data-file-height="1503" width="600" height="456"
-alt="Content Article Manager Options category subscreen" />
+![Articles options category tab](../../../images/ru/articles/articles-options-category-tab.png "Articles options category")
 
 - **Макет**. Select the default layout to show when you click on a
   Category link.
@@ -214,12 +188,7 @@ alt="Content Article Manager Options category subscreen" />
 
 Options control the display of the menu item List All Categories.
 
-<img
-src="https://docs.joomla.org/images/thumb/2/28/Help-4x-Content-Article-Manager-Options-categories-subscreen-ru.png/600px-Help-4x-Content-Article-Manager-Options-categories-subscreen-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/2/28/Help-4x-Content-Article-Manager-Options-categories-subscreen-ru.png/900px-Help-4x-Content-Article-Manager-Options-categories-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/2/28/Help-4x-Content-Article-Manager-Options-categories-subscreen-ru.png/1200px-Help-4x-Content-Article-Manager-Options-categories-subscreen-ru.png 2x"
-data-file-width="1981" data-file-height="1315" width="600" height="398"
-alt="Content Article Manager Options categories subscreen" />
+![Articles options categories tab](../../../images/ru/articles/articles-options-categories-tab.png "Articles options categories")
 
 - **Описание категории высшего уровня**. Show the description for the
   top-level category.
@@ -233,17 +202,10 @@ alt="Content Article Manager Options categories subscreen" />
 
 ### Блог
 
-Options control the layout of the menu items
-Blog,
-Featured Articles,
+Options control the layout of the menu items Blog, Featured Articles,
 and List All Categories.
 
-<img
-src="https://docs.joomla.org/images/thumb/c/cd/Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-ru.png/600px-Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/c/cd/Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-ru.png/900px-Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/c/cd/Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-ru.png/1200px-Help-4x-Content-Article-Manager-Options-blog-featured-layout-subscreen-ru.png 2x"
-data-file-width="1979" data-file-height="1502" width="600" height="455"
-alt="Content Article Manager Options blog featured layout subscreen" />
+![Articles options blog and featured layout tab](../../../images/ru/articles/articles-options-blog-layouts-tab.png "Articles options blog andfeatured layout")
 
 - **Во всю ширину**. Number of Articles to show using the full width of
   the main display area. "0" means that no Articles will show when using
@@ -274,12 +236,8 @@ alt="Content Article Manager Options blog featured layout subscreen" />
   whether to order articles Down the columns or Across the columns.
   - Вниз: Order articles going down the first column and then over to
     the next column, for example:
-
--
   - Поперек: Order articles going across the columns and then back to
     the first column, for example:
-
--
 - **Количество ссылок на другие материалы**. The number of Links to
   display in the Links area of the page. These links allow a User to
   link to additional Articles, if there are more Articles than can fit
@@ -295,16 +253,9 @@ alt="Content Article Manager Options blog featured layout subscreen" />
 
 ### Список
 
-Options control the layout of the menu items
-List
-and List All Categories.
+Options control the layout of the menu items List and List All Categories.
 
-<img
-src="https://docs.joomla.org/images/thumb/e/ed/Help-4x-Content-Article-Manager-Options-list-layout-subscreen-ru.png/600px-Help-4x-Content-Article-Manager-Options-list-layout-subscreen-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/e/ed/Help-4x-Content-Article-Manager-Options-list-layout-subscreen-ru.png/900px-Help-4x-Content-Article-Manager-Options-list-layout-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/e/ed/Help-4x-Content-Article-Manager-Options-list-layout-subscreen-ru.png/1200px-Help-4x-Content-Article-Manager-Options-list-layout-subscreen-ru.png 2x"
-data-file-width="1980" data-file-height="1502" width="600" height="455"
-alt="Content Article Manager Options list layout subscreen" />
+![Articles options list layouts tab](../../../images/ru/articles/articles-options-list-layouts-tab.png "Articles options list layouts")
 
 - **Поле выбора количества элементов на странице**. Show the Display \#
   control that allows the user to select the number of articles to show.
@@ -331,17 +282,9 @@ alt="Content Article Manager Options list layout subscreen" />
 
 ### Общие
 
-Options shared by the menu items
-Blog,
-List,
-and Featured Articles.
+Options shared by the menu items Blog, List, and Featured Articles.
 
-<img
-src="https://docs.joomla.org/images/thumb/d/dd/Help-4x-Content-Article-Manager-Options-shared-subscreen-ru.png/600px-Help-4x-Content-Article-Manager-Options-shared-subscreen-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/d/dd/Help-4x-Content-Article-Manager-Options-shared-subscreen-ru.png/900px-Help-4x-Content-Article-Manager-Options-shared-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/d/dd/Help-4x-Content-Article-Manager-Options-shared-subscreen-ru.png/1200px-Help-4x-Content-Article-Manager-Options-shared-subscreen-ru.png 2x"
-data-file-width="1980" data-file-height="1465" width="600" height="444"
-alt="Content Article Manager Options shared subscreen" />
+![Articles options shared tab](../../../images/ru/articles/articles-options-shared-tab.png "Articles shared")
 
 - **Порядок категорий**.
   - Не упорядочивать: Articles are ordered only by the Article Order,
@@ -401,12 +344,7 @@ alt="Content Article Manager Options shared subscreen" />
 Options control how Articles integrate News Feeds, Routing, Custom
 Fields, and Workflow.
 
-<img
-src="https://docs.joomla.org/images/thumb/4/42/Help-4x-Content-Article-Manager-Options-integration-subscreen-ru.png/600px-Help-4x-Content-Article-Manager-Options-integration-subscreen-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/4/42/Help-4x-Content-Article-Manager-Options-integration-subscreen-ru.png/900px-Help-4x-Content-Article-Manager-Options-integration-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/4/42/Help-4x-Content-Article-Manager-Options-integration-subscreen-ru.png/1200px-Help-4x-Content-Article-Manager-Options-integration-subscreen-ru.png 2x"
-data-file-width="1980" data-file-height="1502" width="600" height="455"
-alt="Content Article Manager Options integration subscreen" />
+![Articles options integration tab](../../../images/ru/articles/articles-options-integration-tab.png "Articles options integration")
 
 #### Лента новостей
 
@@ -434,12 +372,7 @@ alt="Content Article Manager Options integration subscreen" />
 This section lets you set up the default Access Control List
 permissions for all articles in all categories.
 
-<img
-src="https://docs.joomla.org/images/thumb/d/db/Help-4x-Content-Article-Manager-Options-permissions-subscreen-ru.png/600px-Help-4x-Content-Article-Manager-Options-permissions-subscreen-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/d/db/Help-4x-Content-Article-Manager-Options-permissions-subscreen-ru.png/900px-Help-4x-Content-Article-Manager-Options-permissions-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/d/db/Help-4x-Content-Article-Manager-Options-permissions-subscreen-ru.png/1200px-Help-4x-Content-Article-Manager-Options-permissions-subscreen-ru.png 2x"
-data-file-width="1980" data-file-height="1502" width="600" height="455"
-alt="Content Article Manager Options permissions subscreen" />
+![Articles options permissions tab](../../../images/ru/articles/articles-options-permissions-tab.png "Articles options permissions")
 
 To change the permissions for articles and categories, do the following.
 

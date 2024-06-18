@@ -22,12 +22,7 @@ To edit a Article:
 
 ## Скриншот
 
-<img
-src="https://docs.joomla.org/images/thumb/e/e5/Help-4x-Content-Article-screen-ru.png/800px-Help-4x-Content-Article-screen-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/e/e5/Help-4x-Content-Article-screen-ru.png/1200px-Help-4x-Content-Article-screen-ru.png 1.5x, https://docs.joomla.org/images/thumb/e/e5/Help-4x-Content-Article-screen-ru.png/1600px-Help-4x-Content-Article-screen-ru.png 2x"
-data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Content Article screen" />
+![Articles list](../../../images/ru/articles/articles-list.png "Article list")
 
 ## Column Headers
 
@@ -139,12 +134,7 @@ Screenshot above.
 The Batch Process allows a change in settings for a group of selected
 articles.
 
-<img
-src="https://docs.joomla.org/images/thumb/f/fa/Help-4x-batch-process-articles-ru.png/600px-Help-4x-batch-process-articles-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/f/fa/Help-4x-batch-process-articles-ru.png/900px-Help-4x-batch-process-articles-ru.png 1.5x, https://docs.joomla.org/images/thumb/f/fa/Help-4x-batch-process-articles-ru.png/1200px-Help-4x-batch-process-articles-ru.png 2x"
-data-file-width="1598" data-file-height="837" width="600" height="314"
-alt="batch process articles" />
+![articles batch process](../../../images/ru/articles/articles-list-batch.png "Articles batch process")
 
 **How to Batch Process** a group of articles:
 

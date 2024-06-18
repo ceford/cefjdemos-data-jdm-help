@@ -11,6 +11,10 @@ een andere zijn voor de gehele site, of voor individuele gebruikers.
 De meeste parameters hebben geschikte standaards maar u wilt misschien
 een bepaalde categorie instellen of Metadata voor specifieke artikelen.
 
+## Tutorials
+
+[Adding an Image to an Article](jdocmanual?article=user/articles/adding-an-image-to-an-article "Adding an Image to an Article")
+
 ## Hoe toegang te krijgen
 Selecteer **Inhoud → Artikelen**
 
@@ -24,12 +28,7 @@ Om een artikel te bewerken:
 
 ## Schermafbeelding
 
-<img
-src="https://docs.joomla.org/images/thumb/a/a1/Help-4x-content-article-manager-add-new-article-nl.png/800px-Help-4x-content-article-manager-add-new-article-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/a/a1/Help-4x-content-article-manager-add-new-article-nl.png/1200px-Help-4x-content-article-manager-add-new-article-nl.png 1.5x, https://docs.joomla.org/images/a/a1/Help-4x-content-article-manager-add-new-article-nl.png 2x"
-data-file-width="1427" data-file-height="1195" width="800" height="670"
-alt="content article manager add new article" />
+![Articles edit screenshot](../../../images/nl/articles/articles-edit-content-tab.png "Articles edit")
 
 ## Formulier velden
 
@@ -46,21 +45,10 @@ alt="content article manager add new article" />
 
 - **Artikeltekst**. Dit is waar de inhoud van het artikel wordt
   geplaatst. Joomla bevat 3 tekstverwerkers, de standaard
-  Tekstverwerker -
-  TinyMCE
-  wordt hier getoond.
+  Tekstverwerker - TinyMCE wordt hier getoond.
 
-<img
-src="https://docs.joomla.org/images/thumb/1/13/Help-4x-Article-Editor-buttons-nl.png/600px-Help-4x-Article-Editor-buttons-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/1/13/Help-4x-Article-Editor-buttons-nl.png/900px-Help-4x-Article-Editor-buttons-nl.png 1.5x, https://docs.joomla.org/images/1/13/Help-4x-Article-Editor-buttons-nl.png 2x"
-data-file-width="995" data-file-height="366" width="600" height="221"
-alt="Article Editor buttons" />
-
-De CMS inhoud drop-down lijst biedt toegang tot een link naar artikelen,
-contactpersonen, velden, media, menu of module. Meer
-leren.
-
+  De CMS inhoud drop-down lijst biedt toegang tot een link naar artikelen,
+  contactpersonen, velden, media, menu of module. Meer leren.
 - **Schakelen tekstverwerker**. Er wordt direct onder het tekstvenster
   een knop Schakelen tekstverwerker zichtbaar. Met deze knop kun je
   schakelen tussen de TinyMCE tekstverwerker en
@@ -87,8 +75,7 @@ leren.
   artikelen.
 - **Toegang**. Selecteer het weergave toegangsniveau van dit artikel. De
   toegangsniveaus hangen af van wat ingesteld is bij Gebruikers:
-  Toegangsniveaus
-  .
+  Toegangsniveaus.
 - **Taal**. Selecteer de taal voor dit item. Wanneer u de meertalige
   functie
   in Joomla niet gebruikt, laat dan de standaard ingevulde 'Alle'
@@ -107,17 +94,13 @@ leren.
 
 ### Afbeeldingen en links tabblad
 
-**Let op**: Dit kan verborgen worden door een gebruiker met
-administratie rechten in de
 Deze sectie maakt het mogelijk om afbeeldingen en links in een standaard
 weergave aan artikelen toe te voegen.
 
-<img
-src="https://docs.joomla.org/images/thumb/5/5b/Help-4x-screenshot-article-edit-images-links-nl.png/600px-Help-4x-screenshot-article-edit-images-links-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/5/5b/Help-4x-screenshot-article-edit-images-links-nl.png/900px-Help-4x-screenshot-article-edit-images-links-nl.png 1.5x, https://docs.joomla.org/images/5/5b/Help-4x-screenshot-article-edit-images-links-nl.png 2x"
-data-file-width="1145" data-file-height="864" width="600" height="453"
-alt="screenshot article edit images links" />
+**Let op**: Dit kan verborgen worden door een gebruiker met
+administratie rechten in de
+
+![Articles edit images and links tab](../../../images/nl/articles/articles-edit-images-tab.png "Articles edit images and links tab")
 
 #### Afbeelding introtekst
 
@@ -187,12 +170,7 @@ administratie rechten in de
 Dit is een set opties die u kunt gebruiken om te beheersen hoe dit
 artikel wordt getoond in de Frontend.
 
-<img
-src="https://docs.joomla.org/images/thumb/b/b9/Help-4x-screenshot-article-edit-article-options-nl.png/600px-Help-4x-screenshot-article-edit-article-options-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/b/b9/Help-4x-screenshot-article-edit-article-options-nl.png/900px-Help-4x-screenshot-article-edit-article-options-nl.png 1.5x, https://docs.joomla.org/images/b/b9/Help-4x-screenshot-article-edit-article-options-nl.png 2x"
-data-file-width="1185" data-file-height="838" width="600" height="424"
-alt="screenshot article edit article options" />
+![Options tab](../../../images/nl/articles/articles-edit-options-tab.png "Options Tab")
 
 #### Weergave
 
@@ -267,31 +245,40 @@ alt="screenshot article edit article options" />
 
 ### Velden tabblad
 
-Deze sectie toont de extra
-velden
-die gedefinieerd zijn voor dit artikel.
+Deze sectie toont de extra velden die gedefinieerd zijn voor dit artikel.
 
-<img
-src="https://docs.joomla.org/images/thumb/8/8d/Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-nl.png/600px-Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/8/8d/Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-nl.png/900px-Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-nl.png 1.5x, https://docs.joomla.org/images/8/8d/Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-nl.png 2x"
-data-file-width="1057" data-file-height="351" width="600" height="199"
-alt="Content Article Manager Edit Fields options subscreen" />
+![Fields tab](../../../images/nl/articles/articles-edit-fields-tab.png "Filds Tab")
+
+### Schema tab
+
+![Schema tab](../../../images/en/articles/articles-edit-schema-tab.png "Schema Tab")
+
+The schema mechanism allows you to enter metadata for individual articles,
+choosing from the following schema types:
+
+* None
+* Article
+* BlogPosting
+* Book
+* Event
+* JobPosting
+* Organisation
+* Person
+* Recipe
+* Custom
+
+Each is a plugin which can disable or enable as required. More schmema types
+my be added later or available from third party sources.
 
 ### Publiceren tabblad
 
+Deze sectie geeft u de mogelijkheid parameters en Metadata op te geven voor 
+dit artikel.
+
 **Let op**: Dit kan verborgen worden door een gebruiker met
 administratie rechten in de
-Deze sectie geeft u de mogelijkheid parameters en
-Metadata
-op te geven voor dit artikel.
 
-<img
-src="https://docs.joomla.org/images/thumb/8/8c/Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-nl.png/600px-Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/8/8c/Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-nl.png/900px-Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-nl.png 1.5x, https://docs.joomla.org/images/8/8c/Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-nl.png 2x"
-data-file-width="1163" data-file-height="858" width="600" height="443"
-alt="Content Article Manager Edit publishing options subscreen" />
+![Publishing tab](../../../images/nl/articles/articles-edit-publishing-tab.png "Publishing Tab")
 
 #### Publiceren
 
@@ -344,19 +331,14 @@ alt="Content Article Manager Edit publishing options subscreen" />
 administratie rechten in de
 Tabblad wordt alleen getoond bij
 
-![Associations tab](../../../images/en/articles/articles-edit-associations-tab.png "Associations Tab")
+![Associations tab](../../../images/nl/articles/articles-edit-associations-tab.png "Associations Tab")
 
 ### Configuratie bewerkvenster tabblad
 
 **Let op**: Dit kan verborgen worden door een gebruiker met
 administratie rechten in de
 
-<img
-src="https://docs.joomla.org/images/thumb/6/61/Help-4x-screenshot-article-edit-configure-edit-screen-nl.png/600px-Help-4x-screenshot-article-edit-configure-edit-screen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/6/61/Help-4x-screenshot-article-edit-configure-edit-screen-nl.png/900px-Help-4x-screenshot-article-edit-configure-edit-screen-nl.png 1.5x, https://docs.joomla.org/images/6/61/Help-4x-screenshot-article-edit-configure-edit-screen-nl.png 2x"
-data-file-width="1199" data-file-height="449" width="600" height="225"
-alt="screenshot article edit configure edit screen" />
+![Configure edit screen tab](../../../images/nl/articles/articles-edit-editor-tab.png "Configure edit screen Tab")
 
 - **Publicatie opties**. Indien Verborgen dan wordt het ([Publicatie
   optie
@@ -370,26 +352,17 @@ alt="screenshot article edit configure edit screen" />
   beheergedeelte niet in staat zijn de velden op dit tabblad te
   bewerken. Deze velden worden altijd op hun standaard waarde gezet.
 - **Afbeeldingen en links - beheergedeelte**. Indien Ja, dan wordt het
-  (afbeeldingen en links
-  tabblad
-  getoond.
+  (afbeeldingen en links tabblad getoond.
 - **Afbeeldingen en links - website**. Indien Ja, dan verschijnt het
   afbeeldingen en links tabblad op het bewerkscherm van het artikel op
   de website.
 
 ### Rechten tabblad
 
-**Let op**: Dit kan verborgen worden door een gebruiker met
-administratie rechten in de
-Hier kunt u rechten invoeren voor dit artikel. Meer
-leren.
+**Let op**: Dit kan verborgen worden door een gebruiker met administratie 
+rechten in de Hier kunt u rechten invoeren voor dit artikel. 
 
-<img
-src="https://docs.joomla.org/images/thumb/2/29/Help-4x-screenshot-article-edit-permissions-nl.png/600px-Help-4x-screenshot-article-edit-permissions-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/2/29/Help-4x-screenshot-article-edit-permissions-nl.png/900px-Help-4x-screenshot-article-edit-permissions-nl.png 1.5x, https://docs.joomla.org/images/2/29/Help-4x-screenshot-article-edit-permissions-nl.png 2x"
-data-file-width="1160" data-file-height="687" width="600" height="355"
-alt="screenshot article edit permissions" />
+![Permissions tab](../../../images/nl/articles/articles-edit-permissions-tab.png "Permissions Tab")
 
 Doe, om de rechten van dit artikel te wijzigen, het volgende.
 

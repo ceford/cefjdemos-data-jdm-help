@@ -12,6 +12,10 @@ A maioria dos parâmetros tem padrões adequados, mas você pode querer
 definir uma categoria específica ou fornecer metadados específicos para
 o artigo.
 
+## Tutorials
+
+[Adding an Image to an Article](jdocmanual?article=user/articles/adding-an-image-to-an-article "Adding an Image to an Article")
+
 ## Como acessar
 Selecione **Conteúdo → Artigos**
 
@@ -25,10 +29,7 @@ Para editar um artigo:
 
 ## Captura da tela
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-content-article-manager-add-new-article-pt-br.png"
-class="new"
-title="File:Help-4x-content-article-manager-add-new-article-pt-br.png">800px</a>
+![Articles edit screenshot](../../../images/pt-br/articles/articles-edit-content-tab.png "Articles edit")
 
 ## Campos do formulário
 
@@ -46,15 +47,9 @@ title="File:Help-4x-content-article-manager-add-new-article-pt-br.png">800px</a>
   Joomla! inclui 3 editores, o padrão (Editor - TinyMCE
   é mostrado aqui.
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Article-Editor-buttons-pt-br.png"
-class="new"
-title="File:Help-4x-Article-Editor-buttons-pt-br.png">600px</a>
-
-A lista suspensa do conteúdo no S.G.C. (CMS) fornece acesso aos links
-para artigos, contatos, campos, mídia, menus ou módulos. Aprender
-mais.
-
+  A lista suspensa do conteúdo no S.G.C. (CMS) fornece acesso aos links
+  para artigos, contatos, campos, mídia, menus ou módulos. Aprender
+  mais.
 - **Alternar editor**. O botão "Alternar editor" é mostrado abaixo da
   janela para edição. Este botão permite alternar entre o TinyMCE e
 
@@ -67,36 +62,20 @@ mais.
     suas sessões e que tenham [permissão para edição do
     estado](#permissions) no artigo.
   - Arquivado: O artigo não será mais mostrado nos itens dos menus que
-    são <a
-    href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_Category_Blog/pt-br&amp;action=edit&amp;redlink=1"
-    class="new"
-    title="Help4.x:Menu Item: Category Blog/pt-br (page does not exist)">blogs
-    para categoria(s)</a> ou <a
-    href="https://docs.joomla.org/index.php?title=Help4.x:Menu_Item:_Category_List/pt-br&amp;action=edit&amp;redlink=1"
-    class="new"
-    title="Help4.x:Menu Item: Category List/pt-br (page does not exist)">listas
-    para categoria(s)</a>.
+    são blogs para categoria(s) ou listas para categoria(s).
   - Lixeira: O artigo é excluído do site, mas ainda fica no banco de
     dados.
 - **Categoria**. Seleciona a categoria para este artigo.
-- **Destacado**. Selecione "Sim" se o artigo deve ser mostrado no [item
-  dos menus para
-  destacados](https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles/pt-br "Help4.x:Menu Item: Featured Articles/pt-br").
+- **Destacado**. Selecione "Sim" se o artigo deve ser mostrado no item
+  dos menus para destacados.
 - **Acesso**. Seleciona o nível do acesso para visualização para este
   artigo. Os níveis dos acessos dependem do que foi configurado em
 
 - **Linguagem**. Seleciona a linguagem para este artigo. Mantenha o
-  padrão "Todas" se você não estiver usando o <a
-  href="https://docs.joomla.org/index.php?title=Help4.x:Extensions:_Languages/pt-br&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Help4.x:Extensions: Languages/pt-br (page does not exist)">recurso
-  multilíngue</a>.
+  padrão "Todas" se você não estiver usando o recurso multilíngue.
 - **Tags**. Atribui tags a este artigo. Você pode selecionar uma tag a
-  partir de uma <a
-  href="https://docs.joomla.org/index.php?title=Help4.x:Tags/pr-br&amp;action=edit&amp;redlink=1"
-  class="new" title="Help4.x:Tags/pr-br (page does not exist)">lista
-  pré-definida</a> ou inserir uma nova tag digitando o nome no campo e
-  pressionando enter.
+  partir de uma lista pré-definida< ou inserir uma nova tag digitando o nome 
+  no campo e pressionando enter.
 - **Nota**. Isso é normalmente para uso administrativo (por exemplo,
   para documentar informações sobre este artigo) e não aparece no site
   (frontend).
@@ -110,10 +89,7 @@ administrativas em
 Esta seção permite mostrar imagens e links em seus artigos usando
 disposições padronizadas.
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-screenshot-article-edit-images-links-pt-br.png"
-class="new"
-title="File:Help-4x-screenshot-article-edit-images-links-pt-br.png">600px</a>
+![Articles edit images and links tab](../../../images/pt-br/articles/articles-edit-images-tab.png "Articles edit images and links tab")
 
 #### Imagem da introdução
 
@@ -178,10 +154,7 @@ administrativas em
 Este é um conjunto de opções que você pode usar para controlar como este
 artigo será mostrado no site (frontend).
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-screenshot-article-edit-article-options-pt-br.png"
-class="new"
-title="File:Help-4x-screenshot-article-edit-article-options-pt-br.png">600px</a>
+![Options tab](../../../images/pt-br/articles/articles-edit-options-tab.png "Options Tab")
 
 #### Disposição
 
@@ -267,28 +240,38 @@ title="File:Help-4x-screenshot-article-edit-article-options-pt-br.png">600px</a>
 
 ### Campos guia
 
-Esta seção mostra os <a
-href="https://docs.joomla.org/index.php?title=Help4.x:Fields/pt-be&amp;action=edit&amp;redlink=1"
-class="new" title="Help4.x:Fields/pt-be (page does not exist)">campos
-personalizados</a> que foram definidos para este artigo.
+Esta seção mostra os campos personalizados que foram definidos para este artigo.
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-pt-br.png"
-class="new"
-title="File:Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-pt-br.png">600px</a>
+![Fields tab](../../../images/pt-br/articles/articles-edit-fields-tab.png "Filds Tab")
+
+### Schema tab
+
+![Schema tab](../../../images/pt-br/articles/articles-edit-schema-tab.png "Schema Tab")
+
+The schema mechanism allows you to enter metadata for individual articles,
+choosing from the following schema types:
+
+* None
+* Article
+* BlogPosting
+* Book
+* Event
+* JobPosting
+* Organisation
+* Person
+* Recipe
+* Custom
+
+Each is a plugin which can disable or enable as required. More schmema types
+my be added later or available from third party sources.
 
 ### Publicado guia
 
 **Nota**: Isso pode ser ocultado por um usuário com permissões
-administrativas no
-Esta seção permite que você insira parâmetros e
-Metadados
-para este artigo.
+administrativas no Esta seção permite que você insira parâmetros e
+Metadados para este artigo.
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-pt-br.png"
-class="new"
-title="File:Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-pt-br.png">600px</a>
+![Publishing tab](../../../images/pt-br/articles/articles-edit-publishing-tab.png "Publishing Tab")
 
 #### Publicação
 
@@ -338,58 +321,43 @@ title="File:Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-pt
 ### Associações guia
 
 **Nota**: Isso pode ser ocultado por um usuário com permissões
-administrativas em
-A aba (guia) é mostrada apenas em
+administrativas em A aba (guia) é mostrada apenas em
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-screenshot-article-edit-associations-pt-br.png"
-class="new"
-title="File:Help-4x-screenshot-article-edit-associations-pt-br.png">600px</a>
+![Associations tab](../../../images/pt-br/articles/articles-edit-associations-tab.png "Associations Tab")
 
 ### Configurar a tela para edição guia
 
 **Nota**: Isso pode ser ocultado por um usuário com permissões
 administrativas em
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-screenshot-article-edit-configure-edit-screen-pt-br.png"
-class="new"
-title="File:Help-4x-screenshot-article-edit-configure-edit-screen-pt-br.png">600px</a>
+![Configure edit screen tab](../../../images/pt-br/articles/articles-edit-editor-tab.png "Configure edit screen Tab")
 
 - **Opções da publicação**. Se configurado para "Ocultar", a [aba (guia)
-  "Opções da
-  publicação"](https://docs.joomla.org/Help4.x:Articles:_Edit/pt-br#publishing "Help4.x:Articles: Edit/pt-br")
+  "Opções da publicação"
   não aparecerá na área administrativa (backend). Isso significa que os
   usuários da área administrativa (backend) não poderão editar os campos
   nesta aba (guia). Esses campos sempre serão definidos com seus valores
   padrões.
-- **Opções do artigo**. Se configurado para "Ocultar", a [aba (guia)
-  "Opções do
-  artigo"](https://docs.joomla.org/Help4.x:Articles:_Edit/pt-br#options "Help4.x:Articles: Edit/pt-br")
+- **Opções do artigo**. Se configurado para "Ocultar", a aba (guia)
+  "Opções do artigo"
   não aparecerá na área administrativa (backend). Isso significa que os
   usuários da área administrativa (backend) não poderão editar os campos
   nesta aba (guia). Esses campos sempre serão definidos com seus valores
   padrões.
 - **Imagens e links na administração (backend)**. Se configurado como
-  "Sim", a <a
-  href="https://docs.joomla.org/index.php?title=Help4.x:Articles:_Edit/pr-br&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Help4.x:Articles: Edit/pr-br (page does not exist)">aba (guia)
-  "Imagens e links"</a> será mostrada.
+  "Sim", a aba (guia) "Imagens e links" será mostrada.
 - **Imagens e links no site (frontend)**. Se configurado como "Sim", a
   aba (guia) "Imagens e links" será mostrada na tela do editor do artigo
   no site (frontend).
 
 ### Permissões guia
 
-**Nota**: Isso pode ser ocultado por um usuário com permissões
-administrativas em
 É aqui que você pode inserir as permissões para este artigo.
 
-<a
-href="https://docs.joomla.org/index.php?title=Special:Upload&amp;wpDestFile=Help-4x-screenshot-article-edit-permissions-pt-br.png"
-class="new"
-title="File:Help-4x-screenshot-article-edit-permissions-pt-br.png">600px</a>
+**Nota**: Isso pode ser ocultado por um usuário com permissões
+administrativas em
+
+![Permissions tab](../../../images/pt-br/articles/articles-edit-permissions-tab.png "Permissions Tab")
 
 Para alterar as permissões deste artigo, faça o seguinte.
 

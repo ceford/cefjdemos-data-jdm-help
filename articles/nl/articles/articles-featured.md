@@ -8,6 +8,7 @@ is meestal de startpagina van de website, maar het kan iedere pagina op
 de site zijn.
 
 ## Hoe toegang te krijgen
+
 Selecteer **Inhoud → Speciale artikelen**
 
 Om een artikel toe te voegen:
@@ -20,12 +21,7 @@ Om een artikel te bewerken:
 
 ## Schermafbeelding
 
-<img
-src="https://docs.joomla.org/images/thumb/8/82/Help-4x-Content-Featured-Articles-screen-nl.png/800px-Help-4x-Content-Featured-Articles-screen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/8/82/Help-4x-Content-Featured-Articles-screen-nl.png/1200px-Help-4x-Content-Featured-Articles-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/8/82/Help-4x-Content-Featured-Articles-screen-nl.png/1600px-Help-4x-Content-Featured-Articles-screen-nl.png 2x"
-data-file-width="2648" data-file-height="1600" width="800" height="483"
-alt="Content Featured Articles screen" />
+![Featured articles list screenshot](../../../images/nl/articles/articles-featured-list.png "Feature Articles List")
 
 ## Kolomkoppen
 
@@ -95,7 +91,6 @@ bovenstaande Screenshot.
 - **Te tonen aantal**. Toont het aantal artikelen in een lijst.
   Selecteer uit de uitklaplijst om het te tonen aantal te veranderen.De
   standaard voor een site is '20' maar dit kan veranderd worden bij de
-
 
 ### Filter opties
 

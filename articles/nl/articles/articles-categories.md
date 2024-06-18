@@ -23,12 +23,7 @@ Om een categorie te bewerken:
 
 ## Schermafbeelding
 
-<img
-src="https://docs.joomla.org/images/thumb/b/bc/Help-4x-Content-Categories-screen-nl.png/800px-Help-4x-Content-Categories-screen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/b/bc/Help-4x-Content-Categories-screen-nl.png/1200px-Help-4x-Content-Categories-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/b/bc/Help-4x-Content-Categories-screen-nl.png/1600px-Help-4x-Content-Categories-screen-nl.png 2x"
-data-file-width="2880" data-file-height="1530" width="800" height="425"
-alt="Content Categories screen" />
+![Articles: Categories list](../../../images/nl/articles/articles-categories-list.png "Articles: Categories list")
 
 ## Kolomkoppen
 
@@ -153,12 +148,7 @@ afbeelding hierboven.
 Batchverwerking maakt het mogelijk om de instellingen te veranderen voor
 een groep geselecteerde categorieën die aangevinkt zijn.
 
-<img
-src="https://docs.joomla.org/images/thumb/8/80/Help-4x-Content-Categories-batch-nl.png/600px-Help-4x-Content-Categories-batch-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/8/80/Help-4x-Content-Categories-batch-nl.png/900px-Help-4x-Content-Categories-batch-nl.png 1.5x, https://docs.joomla.org/images/thumb/8/80/Help-4x-Content-Categories-batch-nl.png/1200px-Help-4x-Content-Categories-batch-nl.png 2x"
-data-file-width="1598" data-file-height="900" width="600" height="338"
-alt="Content Categories batch" />
+![Batch process categories](../../../images/nl/articles/articles-categories-batch.png "Batch process categories")
 
 **Hoe batchverwerking** voor een groep categorieën toepassen:
 

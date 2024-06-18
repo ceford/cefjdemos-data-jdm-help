@@ -22,12 +22,7 @@ Om een artikel te bewerken:
 
 ## Schermafbeelding
 
-<img
-src="https://docs.joomla.org/images/thumb/3/37/Help-4x-Content-Article-screen-nl.png/800px-Help-4x-Content-Article-screen-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/3/37/Help-4x-Content-Article-screen-nl.png/1200px-Help-4x-Content-Article-screen-nl.png 1.5x, https://docs.joomla.org/images/thumb/3/37/Help-4x-Content-Article-screen-nl.png/1600px-Help-4x-Content-Article-screen-nl.png 2x"
-data-file-width="2814" data-file-height="1700" width="800" height="483"
-alt="Content Article screen" />
+![Articles list](../../../images/nl/articles/articles-list.png "Article list")
 
 ## Kolomkoppen
 
@@ -165,12 +160,7 @@ afbeelding hierboven.
 Batchverwerking maakt het mogelijk om de instellingen te veranderen voor
 een groep geselecteerde artikelen die aangevinkt zijn.
 
-<img
-src="https://docs.joomla.org/images/thumb/b/b4/Help-4x-batch-process-articles-nl.png/600px-Help-4x-batch-process-articles-nl.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/b/b4/Help-4x-batch-process-articles-nl.png/900px-Help-4x-batch-process-articles-nl.png 1.5x, https://docs.joomla.org/images/thumb/b/b4/Help-4x-batch-process-articles-nl.png/1200px-Help-4x-batch-process-articles-nl.png 2x"
-data-file-width="1598" data-file-height="736" width="600" height="276"
-alt="batch process articles" />
+![articles batch process](../../../images/nl/articles/articles-list-batch.png "Articles batch process")
 
 **Hoe batchverwerking** voor een groep artikelen toepassen:
 

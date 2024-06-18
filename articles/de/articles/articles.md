@@ -22,12 +22,7 @@ Einen Beitrag bearbeiten:
 
 ## Bildschirmfoto
 
-<img
-src="https://docs.joomla.org/images/thumb/3/39/Help-4x-Content-Article-screen-de.png/800px-Help-4x-Content-Article-screen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/3/39/Help-4x-Content-Article-screen-de.png/1200px-Help-4x-Content-Article-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/3/39/Help-4x-Content-Article-screen-de.png/1600px-Help-4x-Content-Article-screen-de.png 2x"
-data-file-width="2814" data-file-height="1700" width="800" height="483"
-alt="Content Article screen" />
+![Articles list](../../../images/de/articles/articles-screenshot.png "Article list")
 
 ## Spalten-Überschriften
 
@@ -146,12 +141,7 @@ Bereich.
 
 Die Stapelverarbeitung ändert Einstellungen gewählter Beiträge.
 
-<img
-src="https://docs.joomla.org/images/thumb/d/d7/Help-4x-batch-process-articles-de.png/600px-Help-4x-batch-process-articles-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/d/d7/Help-4x-batch-process-articles-de.png/900px-Help-4x-batch-process-articles-de.png 1.5x, https://docs.joomla.org/images/thumb/d/d7/Help-4x-batch-process-articles-de.png/1200px-Help-4x-batch-process-articles-de.png 2x"
-data-file-width="1598" data-file-height="736" width="600" height="276"
-alt="batch process articles" />
+![articles batch process](../../../images/de/articles/articles-list-batch.png "Articles batch process")
 
 **Wie man die Stapelverarbeitung** an Beiträgen anwendet:
 

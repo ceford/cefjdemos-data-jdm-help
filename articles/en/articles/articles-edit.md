@@ -25,7 +25,7 @@ Home Dashboard.
 
 ## Screenshot
 
-![Articles edit screenshot](../../../images/en/articles/articles-edit-screenshot.png "Articles edit")
+![Articles edit screenshot](../../../images/en/articles/articles-edit-content-tab.png "Articles edit")
 
 ## Form Fields
 
@@ -77,7 +77,7 @@ Home Dashboard.
 It lets you display images and links in your articles using
 standardised layouts.
 
-![Articles edit images and links tab](../../../images/en/articles/articles-edit-images-and-links-tab.png "Articles edit images and links tab")
+![Articles edit images and links tab](../../../images/en/articles/articles-edit-images-tab.png "Articles edit images and links tab")
 
 #### Intro Image
 
@@ -129,7 +129,9 @@ standardised layouts.
     full navigation controls).
   - Modal: Opens the link in a modal pop-up window.
 
-**Link B**, **Link C**: Same options as Link A.
+#### Link B, Link C
+
+- Same options as Link A.
 
 ### Options tab
 
@@ -222,20 +224,21 @@ choosing from the following schema types:
 * BlogPosting
 * Book
 * Event
-*JobPosting
+* JobPosting
 * Organisation
 * Person
 * Recipe
 * Custom
 
 Each is a plugin which can disable or enable as required. More schmema types
-my be added later or available from third oarty sources.
+my be added later or available from third party sources.
 
 ### Publishing tab
 
-**Note**: This can be hidden by a user with Admin permissions in the
-Article: Options. This section allows you to enter parameters and Metadata
-for this Article.
+This section allows you to enter parameters and Metadata for this Article.
+
+**Note**: This tab can be hidden by a user with Admin permissions in the
+Article: Options. 
 
 ![Publishing tab](../../../images/en/articles/articles-edit-publishing-tab.png "Publishing Tab")
 
@@ -280,10 +283,10 @@ for this Article.
 
 ### Associations tab
 
-**Note**: This can be hidden by a user with Admin permissions in the
+The tab is shown on Multilingual Sites only.
+
+**Note**: This tab can be hidden by a user with Admin permissions in the
 Article: Options.
-The tab is shown on Multilingual Sites
-only.
 
 ![Associations tab](../../../images/en/articles/articles-edit-associations-tab.png "Associations Tab")
 
@@ -292,7 +295,7 @@ only.
 **Note**: This can be hidden by a user with Admin permissions in the
 Article: Options.
 
-![Configure edit screen tab](../../../images/en/articles/articles-edit-configure-edit-screen-tab.png "Configure edit screen Tab")
+![Configure edit screen tab](../../../images/en/articles/articles-edit-editor-tab.png "Configure edit screen Tab")
 
 - **Publishing Options**. If Hide, the Publishing Options tab
   will not show in the Backend. This means that Backend users will not
@@ -309,9 +312,10 @@ Article: Options.
 
 ### Permissions tab
 
+This is where you can enter permissions for this article.
+
 **Note**: This tab can be hidden by a user with Admin permissions in the
 Article: Options.
-This is where you can enter permissions for this article.
 
 ![Permissions tab](../../../images/en/articles/articles-edit-permissions-tab.png "Permissions Tab")
 

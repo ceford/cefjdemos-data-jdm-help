@@ -12,6 +12,10 @@ La plupart des paramètres ont des valeurs par défaut appropriées, mais
 vous pouvez souhaiter définir une catégorie spécifique ou fournir des
 métadonnées propres à un article.
 
+## Tutorials
+
+[Adding an Image to an Article](jdocmanual?article=user/articles/adding-an-image-to-an-article "Adding an Image to an Article")
+
 ## Comment y accéder
 
 Sélectionner **Contenus → Articles**
@@ -26,12 +30,7 @@ Pour modifier un article :
 
 ## Capture d'écran
 
-<img
-src="https://docs.joomla.org/images/thumb/4/41/Help-4x-content-article-manager-add-new-article-fr.png/800px-Help-4x-content-article-manager-add-new-article-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/4/41/Help-4x-content-article-manager-add-new-article-fr.png/1200px-Help-4x-content-article-manager-add-new-article-fr.png 1.5x, https://docs.joomla.org/images/thumb/4/41/Help-4x-content-article-manager-add-new-article-fr.png/1600px-Help-4x-content-article-manager-add-new-article-fr.png 2x"
-data-file-width="2880" data-file-height="1576" width="800" height="438"
-alt="content article manager add new article" />
+![Articles edit screenshot](../../../images/es/articles/articles-edit-content-tab.png "Articles edit")
 
 ## Champs de formulaire
 
@@ -47,21 +46,10 @@ alt="content article manager add new article" />
 
 - **Texte de l'article**. C'est ici que vous entrez le contenu de
   l'article. Joomla inclut des éditeurs , Éditeur -
-  TinyMCE
-  par défaut est montré ici.
+  TinyMCE  par défaut est montré ici.
 
-<img
-src="https://docs.joomla.org/images/thumb/6/6c/Help-4x-Article-Editor-buttons-fr.png/600px-Help-4x-Article-Editor-buttons-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/6/6c/Help-4x-Article-Editor-buttons-fr.png/900px-Help-4x-Article-Editor-buttons-fr.png 1.5x, https://docs.joomla.org/images/thumb/6/6c/Help-4x-Article-Editor-buttons-fr.png/1200px-Help-4x-Article-Editor-buttons-fr.png 2x"
-data-file-width="1979" data-file-height="756" width="600" height="229"
-alt="Article Editor buttons" />
-
-La liste déroulante du contenu du CMS permet d'accéder à un lien vers un
-article, un contact, un champ, un média, un menu ou un module. [Pour en
-savoir
-plus.](https://docs.joomla.org/Help4.x:Editors/fr#cmscontent "Help4.x:Editors/fr")
-
+  La liste déroulante du contenu du CMS permet d'accéder à un lien vers un
+  article, un contact, un champ, un média, un menu ou un module.
 - **Activer/Désactiver l'éditeur**. Un bouton Toggle Editor s'affiche
   sous la fenêtre d'édition. Ce bouton vous permet de basculer entre
   TinyMCE et
@@ -104,17 +92,13 @@ plus.](https://docs.joomla.org/Help4.x:Editors/fr#cmscontent "Help4.x:Editors/fr
 
 ### Images et liens onglet
 
-**Remarque**: Cet onglet peut être masqué par les utilisateurs disposant
-d'une Permission d'Administrateur dans les
 Cette section vous permet d'afficher des images et des liens dans vos
 articles à l'aide d'une mise en page standardisée.
 
-<img
-src="https://docs.joomla.org/images/thumb/1/16/Help-4x-screenshot-article-edit-images-links-fr.png/600px-Help-4x-screenshot-article-edit-images-links-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/1/16/Help-4x-screenshot-article-edit-images-links-fr.png/900px-Help-4x-screenshot-article-edit-images-links-fr.png 1.5x, https://docs.joomla.org/images/thumb/1/16/Help-4x-screenshot-article-edit-images-links-fr.png/1200px-Help-4x-screenshot-article-edit-images-links-fr.png 2x"
-data-file-width="2880" data-file-height="1290" width="600" height="269"
-alt="screenshot article edit images links" />
+**Remarque**: Cet onglet peut être masqué par les utilisateurs disposant
+d'une Permission d'Administrateur dans les
+
+![Articles edit images and links tab](../../../images/fr/articles/articles-edit-images-tab.png "Articles edit images and links tab")
 
 #### Image de l'introduction
 
@@ -182,12 +166,7 @@ contrôler le mode d'affichage de cet article dans la présentation sous
 forme de blog, En vedette ou Catégorie. Joomla vous permet de définir
 ces options aux niveaux suivants:
 
-<img
-src="https://docs.joomla.org/images/thumb/0/0a/Help-4x-screenshot-article-edit-article-options-fr.png/600px-Help-4x-screenshot-article-edit-article-options-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/0/0a/Help-4x-screenshot-article-edit-article-options-fr.png/900px-Help-4x-screenshot-article-edit-article-options-fr.png 1.5x, https://docs.joomla.org/images/thumb/0/0a/Help-4x-screenshot-article-edit-article-options-fr.png/1200px-Help-4x-screenshot-article-edit-article-options-fr.png 2x"
-data-file-width="2880" data-file-height="1290" width="600" height="269"
-alt="screenshot article edit article options" />
+![Options tab](../../../images/fr/articles/articles-edit-options-tab.png "Options Tab")
 
 #### Type de mise en page
 
@@ -256,30 +235,39 @@ alt="screenshot article edit article options" />
 
 ### Champs onglet
 
-This section shows the custom fields
-which are defined for this article.
+This section shows the custom fields which are defined for this article.
 
-<img
-src="https://docs.joomla.org/images/thumb/8/82/Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-fr.png/600px-Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/8/82/Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-fr.png/900px-Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-fr.png 1.5x, https://docs.joomla.org/images/thumb/8/82/Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-fr.png/1200px-Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-fr.png 2x"
-data-file-width="2880" data-file-height="584" width="600" height="122"
-alt="Content Article Manager Edit Fields options subscreen" />
+![Fields tab](../../../images/fr/articles/articles-edit-fields-tab.png "Filds Tab")
+
+### Schema tab
+
+![Schema tab](../../../images/en/articles/articles-edit-schema-tab.png "Schema Tab")
+
+The schema mechanism allows you to enter metadata for individual articles,
+choosing from the following schema types:
+
+* None
+* Article
+* BlogPosting
+* Book
+* Event
+* JobPosting
+* Organisation
+* Person
+* Recipe
+* Custom
+
+Each is a plugin which can disable or enable as required. More schmema types
+my be added later or available from third oarty sources.
 
 ### Publication onglet
 
+This section allows you to enter parameters and Metadata for this Article.
+
 **Remarque**: Cet onglet peut être masqué par les utilisateurs disposant
 d'une Permission d'Administrateur dans les
-This section allows you to enter parameters and
-Metadata
-for this Article.
 
-<img
-src="https://docs.joomla.org/images/thumb/e/e4/Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-fr.png/600px-Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/e/e4/Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-fr.png/900px-Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-fr.png 1.5x, https://docs.joomla.org/images/thumb/e/e4/Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-fr.png/1200px-Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-fr.png 2x"
-data-file-width="2880" data-file-height="1290" width="600" height="269"
-alt="Content Article Manager Edit publishing options subscreen" />
+![Publishing tab](../../../images/fr/articles/articles-edit-publishing-tab.png "Publishing Tab")
 
 #### Publication
 
@@ -332,24 +320,14 @@ d'une Permission d'Administrateur dans les
 Tab is shown on Multilingual Sites
 only.
 
-<img
-src="https://docs.joomla.org/images/thumb/f/f9/Help-4x-screenshot-article-edit-associations-fr.png/600px-Help-4x-screenshot-article-edit-associations-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/f/f9/Help-4x-screenshot-article-edit-associations-fr.png/900px-Help-4x-screenshot-article-edit-associations-fr.png 1.5x, https://docs.joomla.org/images/thumb/f/f9/Help-4x-screenshot-article-edit-associations-fr.png/1200px-Help-4x-screenshot-article-edit-associations-fr.png 2x"
-data-file-width="2880" data-file-height="1254" width="600" height="261"
-alt="screenshot article edit associations" />
+![Associations tab](../../../images/fr/articles/articles-edit-associations-tab.png "Associations Tab")
 
 ### Paramètres de création/modification onglet
 
 **Remarque**: Cet onglet peut être masqué par les utilisateurs disposant
 d'une Permission d'Administrateur dans les
 
-<img
-src="https://docs.joomla.org/images/thumb/1/15/Help-4x-screenshot-article-edit-configure-edit-screen-fr.png/600px-Help-4x-screenshot-article-edit-configure-edit-screen-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/1/15/Help-4x-screenshot-article-edit-configure-edit-screen-fr.png/900px-Help-4x-screenshot-article-edit-configure-edit-screen-fr.png 1.5x, https://docs.joomla.org/images/thumb/1/15/Help-4x-screenshot-article-edit-configure-edit-screen-fr.png/1200px-Help-4x-screenshot-article-edit-configure-edit-screen-fr.png 2x"
-data-file-width="2880" data-file-height="962" width="600" height="200"
-alt="screenshot article edit configure edit screen" />
+![Configure edit screen tab](../../../images/fr/articles/articles-edit-editor-tab.png "Configure edit screen Tab")
 
 - **Paramètres de publication**. If Hide, the Publishing Options tab
   will not show in the Backend. This means that Backend users will not
@@ -366,16 +344,12 @@ alt="screenshot article edit configure edit screen" />
 
 ### Droits onglet
 
-**Remarque**: Cet onglet peut être masqué par les utilisateurs disposant
-d'une Permission d'Administrateur dans les
 This is where you can enter permissions for this article.
 
-<img
-src="https://docs.joomla.org/images/thumb/a/a7/Help-4x-screenshot-article-edit-permissions-fr.png/600px-Help-4x-screenshot-article-edit-permissions-fr.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/a/a7/Help-4x-screenshot-article-edit-permissions-fr.png/900px-Help-4x-screenshot-article-edit-permissions-fr.png 1.5x, https://docs.joomla.org/images/thumb/a/a7/Help-4x-screenshot-article-edit-permissions-fr.png/1200px-Help-4x-screenshot-article-edit-permissions-fr.png 2x"
-data-file-width="2880" data-file-height="1270" width="600" height="265"
-alt="screenshot article edit permissions" />
+**Remarque**: Cet onglet peut être masqué par les utilisateurs disposant
+d'une Permission d'Administrateur dans les
+
+![Permissions tab](../../../images/fr/articles/articles-edit-permissions-tab.png "Permissions Tab")
 
 To change the permissions for this article, do the following.
 

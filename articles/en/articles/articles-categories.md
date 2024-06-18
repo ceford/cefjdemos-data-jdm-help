@@ -17,7 +17,7 @@ There are two routes to the Categories list page:
 
 ## Screenshot
 
-![Articles: Categories list](../../../images/en/articles/articles-categories-screenshot.png "Articles: Categories list")
+![Articles: Categories list](../../../images/en/articles/articles-categories-list.png "Articles: Categories list")
 
 ## Column Headers
 
@@ -123,7 +123,7 @@ Screenshot above.
 The Batch Process allows a change in settings for a group of selected
 categories.
 
-![Batch process categories](../../../images/en/articles/articles-categories-batch-process.png "Batch process categories")
+![Batch process categories](../../../images/en/articles/articles-categories-batch.png "Batch process categories")
 
 **How to Batch Process** a group of categories:
 

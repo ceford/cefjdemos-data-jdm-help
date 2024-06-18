@@ -21,7 +21,7 @@ Selecione **Conteúdo → Artigos**
 
 ## Captura da tela
 
-![Articles options screenshot](../../../images/en/articles/articles-options-screenshot.png "Articles options")
+![Articles options screenshot](../../../images/pt-br/articles/articles-options-articles-tab.png "Articles options")
 
 ## Campos do formulário
 
@@ -104,7 +104,7 @@ destacados, listas para todas as categorias
 
 Opções da página para edição do artigo.
 
-![Articles options editing layout tab](../../../images/en/articles/articles-options-editing-layout-tab.png "Articles options editing layout")
+![Articles options editing layout tab](../../../images/pt-br/articles/articles-options-editing-layout-tab.png "Articles options editing layout")
 
 - **Permitir captcha no envio**. Selecione o plugin
   captcha
@@ -170,7 +170,7 @@ As opções controlam como uma categoria e seus artigos serão mostrados.
 Elas são usados nas categorias e nos itens dos menus para blogs, listas
 e listar todas as categorias.
 
-![Articles options category tab](../../../images/en/articles/articles-options-category-tab.png "Articles options category")
+![Articles options category tab](../../../images/pt-br/articles/articles-options-category-tab.png "Articles options category")
 
 - **Escolher uma disposição**. Seleciona a disposição padrão a ser
   mostrada ao acionar (clicar em) um link de categoria.
@@ -196,7 +196,7 @@ e listar todas as categorias.
 As opções controlam a exibição do item dos menus para "Listar
 todas as categorias".
 
-![Articles options categories tab](../../../images/en/articles/articles-options-categories-tab.png "Articles options categories")
+![Articles options categories tab](../../../images/pt-br/articles/articles-options-categories-tab.png "Articles options categories")
 
 - **Descrição da categoria do nível superior**. Mostra a descrição da
   categoria do nível superior.
@@ -214,7 +214,7 @@ todas as categorias".
 As opções controlam a disposição dos itens dos menus para blogs,
 artigos destacados e listar todas as categorias.
 
-![Articles options blog/featured layout tab](../../../images/en/articles/articles-options-blog-layouts-tab.png "Articles options blog/featured layout")
+![Articles options blog/featured layout tab](../../../images/pt-br/articles/articles-options-blog-layouts-tab.png "Articles options blog/featured layout")
 
 - **Quantidade de artigos principais**. Quantidade de artigos a serem
   mostrados usando toda a largura da área de exibição principal. "0"
@@ -269,7 +269,7 @@ artigos destacados e listar todas as categorias.
 As opções controlam a disposição dos itens dos menus para listas
 e para listar todas as categorias.
 
-![Articles options list layouts tab](../../../images/en/articles/articles-options-list-layouts-tab.png "Articles options list layouts")
+![Articles options list layouts tab](../../../images/pt-br/articles/articles-options-list-layouts-tab.png "Articles options list layouts")
 
 - **Mostrar seleção**. Mostra o controle "Mostrar \#" que permite ao
   usuário selecionar a quantidade de artigos a serem mostrados.
@@ -300,7 +300,7 @@ e para listar todas as categorias.
 
 Opções compartilhadas pelos itens dos menus para blogs, listas e
 
-![Articles options shared tab](../../../images/en/articles/articles-options-shared-tab.png "Articles shared")
+![Articles options shared tab](../../../images/pt-br/articles/articles-options-shared-tab.png "Articles shared")
 
 - **Classificação das categorias**.
   - Nenhuma classificação: Os artigos são classificados apenas pela
@@ -363,7 +363,7 @@ Opções compartilhadas pelos itens dos menus para blogs, listas e
 As opções controlam como os artigos integram feeds para notícias,
 roteamento, campos personalizados e fluxo de trabalho.
 
-![Articles options integration tab](../../../images/en/articles/articles-options-integration-tab.png "Articles options integration")
+![Articles options integration tab](../../../images/pt-br/articles/articles-options-integration-tab.png "Articles options integration")
 
 #### Feeds para notícias
 
@@ -396,7 +396,7 @@ roteamento, campos personalizados e fluxo de trabalho.
 Esta seção permite que você defina as permissões padrões das listas dos
 controles para acessos para todos os artigos em todas as categorias.
 
-![Articles options permissions tab](../../../images/en/articles/articles-options-permissions-tab.png "Articles options permissions")
+![Articles options permissions tab](../../../images/pt-br/articles/articles-options-permissions-tab.png "Articles options permissions")
 
 Para alterar as permissões dos artigos e das categorias, faça o
 seguinte.

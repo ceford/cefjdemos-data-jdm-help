@@ -13,6 +13,7 @@ sein, dass eine bestimmte Kategorie oder beitragsspezifische Metadaten
 festgelegt werden sollen.
 
 ## Wie darauf zugreifen
+
 Wählen **Inhalt → Beiträge**
 
 Einen Beitrag hinzufügen:
@@ -25,12 +26,7 @@ Einen Beitrag bearbeiten:
 
 ## Bildschirmfoto
 
-<img
-src="https://docs.joomla.org/images/thumb/c/c8/Help-4x-content-article-manager-add-new-article-de.png/800px-Help-4x-content-article-manager-add-new-article-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/c/c8/Help-4x-content-article-manager-add-new-article-de.png/1200px-Help-4x-content-article-manager-add-new-article-de.png 1.5x, https://docs.joomla.org/images/thumb/c/c8/Help-4x-content-article-manager-add-new-article-de.png/1600px-Help-4x-content-article-manager-add-new-article-de.png 2x"
-data-file-width="2880" data-file-height="1584" width="800" height="440"
-alt="content article manager add new article" />
+![Articles edit screenshot](../../../images/de/articles/articles-edit-content-tab.png "Articles edit")
 
 ## Formular Felder
 
@@ -47,15 +43,8 @@ alt="content article manager add new article" />
   Editoren, der Standard-Editor - TinyMCE
   wird hier gezeigt.
 
-<img
-src="https://docs.joomla.org/images/thumb/d/d3/Help-4x-Article-Editor-buttons-de.png/600px-Help-4x-Article-Editor-buttons-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/d/d3/Help-4x-Article-Editor-buttons-de.png/900px-Help-4x-Article-Editor-buttons-de.png 1.5x, https://docs.joomla.org/images/thumb/d/d3/Help-4x-Article-Editor-buttons-de.png/1200px-Help-4x-Article-Editor-buttons-de.png 2x"
-data-file-width="1985" data-file-height="758" width="600" height="229"
-alt="Article Editor buttons" />
-
-Die Dropdown-Liste 'CMS Inhalt' ermöglicht Links auf einen Beitrag,
-Felder, Kontakt, Medien, Menü oder Modul.
+  Die Dropdown-Liste 'CMS Inhalt' ermöglicht Links auf einen Beitrag,
+  Felder, Kontakt, Medien, Menü oder Modul.
 - **Editor an/aus**. Der Button wird unterhalb des Editor-Fensters
   gezeigt. Damit kann zwischen TinyMCE und Editor -
   Keiner
@@ -105,12 +94,7 @@ Administrator-Rechten in Beiträge: Optionen ausgeblendet werden.
 Dieser Teil zeigt in Beiträgen, Bilder und Links in standardisierten
 Layouts.
 
-<img
-src="https://docs.joomla.org/images/thumb/6/61/Help-4x-screenshot-article-edit-images-links-de.png/600px-Help-4x-screenshot-article-edit-images-links-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/6/61/Help-4x-screenshot-article-edit-images-links-de.png/900px-Help-4x-screenshot-article-edit-images-links-de.png 1.5x, https://docs.joomla.org/images/thumb/6/61/Help-4x-screenshot-article-edit-images-links-de.png/1200px-Help-4x-screenshot-article-edit-images-links-de.png 2x"
-data-file-width="2880" data-file-height="1166" width="600" height="243"
-alt="screenshot article edit images links" />
+![Articles edit images and links tab](../../../images/de/articles/articles-edit-images-tab.png "Articles edit images and links tab")
 
 #### Einleitungsbild
 
@@ -167,7 +151,9 @@ alt="screenshot article edit images links" />
     Pop-up-Browser-Fenster (ohne Navigations-Elementen).
   - Modalfenster: Öffnet den Link in einem Modal-Pop-up-Browser-Fenster.
 
-**Link B**, **Link C**: Dieselben Optionen wie Link A.
+#### Link B, Link C
+
+- Dieselben Optionen wie Link A.
 
 ### Optionen Abschnitt
 
@@ -175,12 +161,7 @@ alt="screenshot article edit images links" />
 Administrator-Rechten in Beiträge: Optionen ausgeblendet werden.
 Optionen, um das Aussehen eines Beitrages im Frontend einzustellen.
 
-<img
-src="https://docs.joomla.org/images/thumb/1/15/Help-4x-screenshot-article-edit-article-options-de.png/600px-Help-4x-screenshot-article-edit-article-options-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/1/15/Help-4x-screenshot-article-edit-article-options-de.png/900px-Help-4x-screenshot-article-edit-article-options-de.png 1.5x, https://docs.joomla.org/images/thumb/1/15/Help-4x-screenshot-article-edit-article-options-de.png/1200px-Help-4x-screenshot-article-edit-article-options-de.png 2x"
-data-file-width="2880" data-file-height="1168" width="600" height="243"
-alt="screenshot article edit article options" />
+![Options tab](../../../images/de/articles/articles-edit-options-tab.png "Options Tab")
 
 #### Layout
 
@@ -255,15 +236,30 @@ alt="screenshot article edit article options" />
 
 ### Felder
 
-Dieser Teil zeigt für den Beitrag definierte
-Felder.
+Dieser Teil zeigt für den Beitrag definierte Felder.
 
-<img
-src="https://docs.joomla.org/images/thumb/1/1a/Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-de.png/600px-Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/1/1a/Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-de.png/900px-Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/1/1a/Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-de.png/1200px-Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-de.png 2x"
-data-file-width="2880" data-file-height="658" width="600" height="137"
-alt="Content Article Manager Edit Fields options subscreen" />
+![Fields tab](../../../images/de/articles/articles-edit-fields-tab.png "Filds Tab")
+
+### Schema tab
+
+![Schema tab](../../../images/de/articles/articles-edit-schema-tab.png "Schema Tab")
+
+The schema mechanism allows you to enter metadata for individual articles,
+choosing from the following schema types:
+
+* None
+* Article
+* BlogPosting
+* Book
+* Event
+* JobPosting
+* Organisation
+* Person
+* Recipe
+* Custom
+
+Each is a plugin which can disable or enable as required. More schmema types
+my be added later or available from third oarty sources.
 
 ### Veröffentlichung Abschnitt
 
@@ -271,12 +267,7 @@ alt="Content Article Manager Edit Fields options subscreen" />
 Administrator-Rechten in Beiträge: Optionen ausgeblendet werden.
 Dieser Teil erlaubt die Eingabe von Parametern und Metadaten des Beitrages.
 
-<img
-src="https://docs.joomla.org/images/thumb/6/68/Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-de.png/600px-Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/6/68/Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-de.png/900px-Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-de.png 1.5x, https://docs.joomla.org/images/thumb/6/68/Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-de.png/1200px-Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-de.png 2x"
-data-file-width="2880" data-file-height="1167" width="600" height="243"
-alt="Content Article Manager Edit publishing options subscreen" />
+![Publishing tab](../../../images/de/articles/articles-edit-publishing-tab.png "Publishing Tab")
 
 #### Veröffentlichung
 
@@ -328,24 +319,14 @@ alt="Content Article Manager Edit publishing options subscreen" />
 Administrator-Rechten in Beiträge: Optionen ausgeblendet werden.
 Der Tab wird nur bei Mehrsprachigen Seiten gezeigt.
 
-<img
-src="https://docs.joomla.org/images/thumb/1/12/Help-4x-screenshot-article-edit-associations-de.png/600px-Help-4x-screenshot-article-edit-associations-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/1/12/Help-4x-screenshot-article-edit-associations-de.png/900px-Help-4x-screenshot-article-edit-associations-de.png 1.5x, https://docs.joomla.org/images/thumb/1/12/Help-4x-screenshot-article-edit-associations-de.png/1200px-Help-4x-screenshot-article-edit-associations-de.png 2x"
-data-file-width="2880" data-file-height="1175" width="600" height="245"
-alt="screenshot article edit associations" />
+![Associations tab](../../../images/de/articles/articles-edit-associations-tab.png "Associations Tab")
 
 ### Konfigurieren des Editorfensters
 
 **Hinweis**: Dieser Abschnitt kann von einem Benutzer mit
 Administrator-Rechten in Beiträge: Optionen ausgeblendet werden.
 
-<img
-src="https://docs.joomla.org/images/thumb/8/86/Help-4x-screenshot-article-edit-configure-edit-screen-de.png/600px-Help-4x-screenshot-article-edit-configure-edit-screen-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/8/86/Help-4x-screenshot-article-edit-configure-edit-screen-de.png/900px-Help-4x-screenshot-article-edit-configure-edit-screen-de.png 1.5x, https://docs.joomla.org/images/thumb/8/86/Help-4x-screenshot-article-edit-configure-edit-screen-de.png/1200px-Help-4x-screenshot-article-edit-configure-edit-screen-de.png 2x"
-data-file-width="2880" data-file-height="987" width="600" height="206"
-alt="screenshot article edit configure edit screen" />
+![Configure edit screen tab](../../../images/de/articles/articles-edit-editor-tab.png "Configure edit screen Tab")
 
 - **Veröffentlichungsparameter anzeigen**. Ist 'Verbergen' gewählt, wird
   der Tab Veröffentlichung
@@ -368,12 +349,7 @@ Administrator-Rechten in Beiträge: Optionen ausgeblendet werden.
 Hier können die Berechtigungen für den Beitrag eingegeben werden. Mehr
 erfahren.
 
-<img
-src="https://docs.joomla.org/images/thumb/4/46/Help-4x-screenshot-article-edit-permissions-de.png/600px-Help-4x-screenshot-article-edit-permissions-de.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/4/46/Help-4x-screenshot-article-edit-permissions-de.png/900px-Help-4x-screenshot-article-edit-permissions-de.png 1.5x, https://docs.joomla.org/images/thumb/4/46/Help-4x-screenshot-article-edit-permissions-de.png/1200px-Help-4x-screenshot-article-edit-permissions-de.png 2x"
-data-file-width="2880" data-file-height="1166" width="600" height="243"
-alt="screenshot article edit permissions" />
+![Permissions tab](../../../images/de/articles/articles-edit-permissions-tab.png "Permissions Tab")
 
 Um Berechtigungen dieses Beitrages zu ändern:
 
@@ -399,8 +375,7 @@ Um Berechtigungen dieses Beitrages zu ändern:
 
 ## Werkzeugleiste
 
-Das Bildschirmfoto zeigt die Werkzeugleiste im oberen
-Bereich.
+Das Bildschirmfoto zeigt die Werkzeugleiste im oberen Bereich.
 
 - **Speichern**. Speichert den Beitrag und bleibt auf der aktuellen
   Seite.
@@ -417,19 +392,14 @@ Bereich.
   Seite ohne Speichern der Änderungen zurück.
 - **Versionen**. Öffnet den Versionsverlauf, der ältere Versionen des
   Beitrags zeigt. Damit können ältere Versionen des Beitrags gezeigt und
-  wiederhergestellt werden. Mehr
-  erfahren.
+  wiederhergestellt werden.
 - **Vorschau**. Zeigt die Seitenansicht des Beitrages. Benötigt
-  Gemeinsame
-  Sitzungen
-  oder die Anmeldung im Frontend.
+  Gemeinsame Sitzungen oder die Anmeldung im Frontend.
 - **Barriere-Check**. Öffnet ein Fenster mit den Ergebnissen der
   Barrierefreiheitsprüfung des Beitrags.
 - **Verknüpfungen**. Den Beitrag mit seiner festgelegten Sprache
   parallel in einer weiteren Sprache bearbeiten. Dieses Symbol wird nur
-  bei Mehrsprachigen
-  Seiten
-  gezeigt.
+  bei Mehrsprachigen Seiten gezeigt.
 - **Inline-Hilfe umschalten**. Hilfetext unter einigen Optionen ein-
   oder ausschalten.
 - **Hilfe**. Öffnet die Hilfeseite.
@@ -438,11 +408,8 @@ Bereich.
 
 - Es gibt 2 Methoden, um mit dem TinyMCE-Editor ein Bild in einen
   Beitrag einzufügen.
-  1.  Die Dropdown-Liste CMS
-      Inhalt
-      ermöglicht den Zugriff auf die Seite
-      Medien,
-      in der Bilddateien durchsucht und Bilder hochgeladen werden
+  1.  Die Dropdown-Liste CMS Inhalt ermöglicht den Zugriff auf die Seite
+      Medien, in der Bilddateien durchsucht und Bilder hochgeladen werden
       können.
   2.  Die Dropdown-Liste 'Einfügen' öffnet ein einfaches
       Eingabeformular, für das die Bild-URL benötigt wird. Es wird für

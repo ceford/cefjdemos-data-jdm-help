@@ -10,6 +10,10 @@ for the site as a whole or for individual users.
 Most parameters have suitable defaults but you might wish to set a
 specific Category or provide article-specific Metadata.
 
+## Tutorials
+
+[Adding an Image to an Article](jdocmanual?article=user/articles/adding-an-image-to-an-article "Adding an Image to an Article")
+
 ## Как открыть
 Выбирать **Контент → Материалы**
 
@@ -23,7 +27,7 @@ To edit a Article:
 
 ## Скриншот
 
-![Articles edit screenshot](../../../images/en/articles/articles-edit-screenshot.png "Articles edit")
+![Articles edit screenshot](../../../images/ru/articles/articles-edit-content-tab.png "Articles edit")
 
 ## Form Fields
 
@@ -40,18 +44,8 @@ To edit a Article:
   article. Joomla includes 3 editors, the default Editor - TinyMCE
   is shown here.
 
-<img
-src="https://docs.joomla.org/images/thumb/7/7a/Help-4x-Article-Editor-buttons-ru.png/600px-Help-4x-Article-Editor-buttons-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/7/7a/Help-4x-Article-Editor-buttons-ru.png/900px-Help-4x-Article-Editor-buttons-ru.png 1.5x, https://docs.joomla.org/images/thumb/7/7a/Help-4x-Article-Editor-buttons-ru.png/1200px-Help-4x-Article-Editor-buttons-ru.png 2x"
-data-file-width="1966" data-file-height="758" width="600" height="231"
-alt="Article Editor buttons" />
-
-The CMS Content dropdown list provides for access to link to an Article,
-Contact, Field, Media, Menu, or Module.
-
-
-
+  The CMS Content dropdown list provides for access to link to an Article,
+  Contact, Field, Media, Menu, or Module.
 - **Выключить редактор**. A Toggle Editor button show below the edit
   window. This button allows you to toggle between TinyMCE and Editor - None.
 
@@ -89,12 +83,7 @@ Article: Options.
 This section lets you display images and links in your articles using
 standardised layouts.
 
-<img
-src="https://docs.joomla.org/images/thumb/7/7a/Help-4x-screenshot-article-edit-images-links-ru.png/600px-Help-4x-screenshot-article-edit-images-links-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/7/7a/Help-4x-screenshot-article-edit-images-links-ru.png/900px-Help-4x-screenshot-article-edit-images-links-ru.png 1.5x, https://docs.joomla.org/images/thumb/7/7a/Help-4x-screenshot-article-edit-images-links-ru.png/1200px-Help-4x-screenshot-article-edit-images-links-ru.png 2x"
-data-file-width="2880" data-file-height="1244" width="600" height="259"
-alt="screenshot article edit images links" />
+![Articles edit images and links tab](../../../images/ru/articles/articles-edit-images-tab.png "Articles edit images and links tab")
 
 #### Изображение вводного текста
 
@@ -159,12 +148,7 @@ Article: Options.
 This is a set of options you can use to control how this article will
 show in the Frontend.
 
-<img
-src="https://docs.joomla.org/images/thumb/c/c9/Help-4x-screenshot-article-edit-article-options-ru.png/600px-Help-4x-screenshot-article-edit-article-options-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/c/c9/Help-4x-screenshot-article-edit-article-options-ru.png/900px-Help-4x-screenshot-article-edit-article-options-ru.png 1.5x, https://docs.joomla.org/images/thumb/c/c9/Help-4x-screenshot-article-edit-article-options-ru.png/1200px-Help-4x-screenshot-article-edit-article-options-ru.png 2x"
-data-file-width="2880" data-file-height="1244" width="600" height="259"
-alt="screenshot article edit article options" />
+![Options tab](../../../images/ru/articles/articles-edit-options-tab.png "Options Tab")
 
 #### Макет
 
@@ -236,27 +220,37 @@ alt="screenshot article edit article options" />
 This section shows the custom fields
 which are defined for this article.
 
-<img
-src="https://docs.joomla.org/images/thumb/d/dc/Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-ru.png/600px-Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/d/dc/Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-ru.png/900px-Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/d/dc/Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-ru.png/1200px-Help-4x-Content-Article-Manager-Edit-Fields-options-subscreen-ru.png 2x"
-data-file-width="2880" data-file-height="730" width="600" height="152"
-alt="Content Article Manager Edit Fields options subscreen" />
+![Fields tab](../../../images/ru/articles/articles-edit-fields-tab.png "Filds Tab")
+
+### Schema tab
+
+![Schema tab](../../../images/ru/articles/articles-edit-schema-tab.png "Schema Tab")
+
+The schema mechanism allows you to enter metadata for individual articles,
+choosing from the following schema types:
+
+* None
+* Article
+* BlogPosting
+* Book
+* Event
+* JobPosting
+* Organisation
+* Person
+* Recipe
+* Custom
+
+Each is a plugin which can disable or enable as required. More schmema types
+my be added later or available from third party sources.
 
 ### Публикация
 
+This section allows you to enter parameters and Metadata for this Article.
+
 **Note**: This can be hidden by a user with Admin permissions in the
 Article: Options.
-This section allows you to enter parameters and
-Metadata
-for this Article.
 
-<img
-src="https://docs.joomla.org/images/thumb/c/c4/Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-ru.png/600px-Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/c/c4/Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-ru.png/900px-Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-ru.png 1.5x, https://docs.joomla.org/images/thumb/c/c4/Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-ru.png/1200px-Help-4x-Content-Article-Manager-Edit-publishing-options-subscreen-ru.png 2x"
-data-file-width="2880" data-file-height="1244" width="600" height="259"
-alt="Content Article Manager Edit publishing options subscreen" />
+![Publishing tab](../../../images/ru/articles/articles-edit-publishing-tab.png "Publishing Tab")
 
 #### Публикация
 
@@ -301,29 +295,19 @@ alt="Content Article Manager Edit publishing options subscreen" />
 
 ### Связи
 
+Tab is shown on Multilingual Sites only.
+
 **Note**: This can be hidden by a user with Admin permissions in the
 Article: Options.
-Tab is shown on Multilingual Sites
-only.
 
-<img
-src="https://docs.joomla.org/images/thumb/5/5d/Help-4x-screenshot-article-edit-associations-ru.png/600px-Help-4x-screenshot-article-edit-associations-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/5/5d/Help-4x-screenshot-article-edit-associations-ru.png/900px-Help-4x-screenshot-article-edit-associations-ru.png 1.5x, https://docs.joomla.org/images/thumb/5/5d/Help-4x-screenshot-article-edit-associations-ru.png/1200px-Help-4x-screenshot-article-edit-associations-ru.png 2x"
-data-file-width="2880" data-file-height="1244" width="600" height="259"
-alt="screenshot article edit associations" />
+![Associations tab](../../../images/ru/articles/articles-edit-associations-tab.png "Associations Tab")
 
 ### Форма
 
 **Note**: This can be hidden by a user with Admin permissions in the
 Article: Options.
 
-<img
-src="https://docs.joomla.org/images/thumb/0/07/Help-4x-screenshot-article-edit-configure-edit-screen-ru.png/600px-Help-4x-screenshot-article-edit-configure-edit-screen-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/0/07/Help-4x-screenshot-article-edit-configure-edit-screen-ru.png/900px-Help-4x-screenshot-article-edit-configure-edit-screen-ru.png 1.5x, https://docs.joomla.org/images/thumb/0/07/Help-4x-screenshot-article-edit-configure-edit-screen-ru.png/1200px-Help-4x-screenshot-article-edit-configure-edit-screen-ru.png 2x"
-data-file-width="2880" data-file-height="1140" width="600" height="238"
-alt="screenshot article edit configure edit screen" />
+![Configure edit screen tab](../../../images/ru/articles/articles-edit-editor-tab.png "Configure edit screen Tab")
 
 - **Публикация**. If Hide, the Publishing Options tab
   will not show in the Backend. This means that Backend users will not
@@ -342,16 +326,12 @@ alt="screenshot article edit configure edit screen" />
 
 ### Права доступа
 
-**Note**: This can be hidden by a user with Admin permissions in the
-Article: Options.
 This is where you can enter permissions for this article.
 
-<img
-src="https://docs.joomla.org/images/thumb/7/7e/Help-4x-screenshot-article-edit-permissions-ru.png/600px-Help-4x-screenshot-article-edit-permissions-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/7/7e/Help-4x-screenshot-article-edit-permissions-ru.png/900px-Help-4x-screenshot-article-edit-permissions-ru.png 1.5x, https://docs.joomla.org/images/thumb/7/7e/Help-4x-screenshot-article-edit-permissions-ru.png/1200px-Help-4x-screenshot-article-edit-permissions-ru.png 2x"
-data-file-width="2880" data-file-height="1244" width="600" height="259"
-alt="screenshot article edit permissions" />
+**Note**: This can be hidden by a user with Admin permissions in the
+Article: Options.
+
+![Permissions tab](../../../images/ru/articles/articles-edit-permissions-tab.png "Permissions Tab")
 
 To change the permissions for this article, do the following.
 

@@ -23,12 +23,7 @@ To edit a Category:
 
 ## Скриншот
 
-<img
-src="https://docs.joomla.org/images/thumb/1/12/Help-4x-Content-Categories-screen-ru.png/800px-Help-4x-Content-Categories-screen-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/1/12/Help-4x-Content-Categories-screen-ru.png/1200px-Help-4x-Content-Categories-screen-ru.png 1.5x, https://docs.joomla.org/images/thumb/1/12/Help-4x-Content-Categories-screen-ru.png/1600px-Help-4x-Content-Categories-screen-ru.png 2x"
-data-file-width="2880" data-file-height="1680" width="800" height="467"
-alt="Content Categories screen" />
+![Articles: Categories list](../../../images/ru/articles/articles-categories-list.png "Articles: Categories list")
 
 ## Column Headers
 
@@ -134,12 +129,7 @@ Screenshot above.
 The Batch Process allows a change in settings for a group of selected
 categories.
 
-<img
-src="https://docs.joomla.org/images/thumb/b/b1/Help-4x-Content-Categories-batch-ru.png/600px-Help-4x-Content-Categories-batch-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/b/b1/Help-4x-Content-Categories-batch-ru.png/900px-Help-4x-Content-Categories-batch-ru.png 1.5x, https://docs.joomla.org/images/thumb/b/b1/Help-4x-Content-Categories-batch-ru.png/1200px-Help-4x-Content-Categories-batch-ru.png 2x"
-data-file-width="1598" data-file-height="975" width="600" height="366"
-alt="Content Categories batch" />
+![Batch process categories](../../../images/ru/articles/articles-categories-batch.png "Batch process categories")
 
 **How to Batch Process** a group of categories:
 

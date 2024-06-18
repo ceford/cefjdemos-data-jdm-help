@@ -7,6 +7,7 @@ Page and in what order they are displayed. The Front Page is often the
 Home page of a web site, but it can be any page in the site.
 
 ## Как открыть
+
 Выбирать **Контент → Избранные материалы**
 
 To add a Article:
@@ -19,12 +20,7 @@ To edit a Article:
 
 ## Скриншот
 
-<img
-src="https://docs.joomla.org/images/thumb/a/a0/Help-4x-Content-Featured-Articles-screen-ru.png/800px-Help-4x-Content-Featured-Articles-screen-ru.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/a/a0/Help-4x-Content-Featured-Articles-screen-ru.png/1200px-Help-4x-Content-Featured-Articles-screen-ru.png 1.5x, https://docs.joomla.org/images/thumb/a/a0/Help-4x-Content-Featured-Articles-screen-ru.png/1600px-Help-4x-Content-Featured-Articles-screen-ru.png 2x"
-data-file-width="2560" data-file-height="1600" width="800" height="500"
-alt="Content Featured Articles screen" />
+![Featured articles list screenshot](../../../images/ru/articles/articles-featured-list.png "Feature Articles List")
 
 ## Column Headers
 
