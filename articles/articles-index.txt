@@ -14,6 +14,9 @@ banners=banners-options.md=https://docs.joomla.org/Help5.x:Banners:_Options
 banners=banners-tracks.md=https://docs.joomla.org/Help5.x:Banners:_Tracks
 banners=banners.md=https://docs.joomla.org/Help5.x:Banners
 
+common-tabs=permissions.md=Help6.x:Permissions
+common-tabs=toolbars.md=Help6.x:Toolbars
+
 components=components-patch-tester-options.md=https://docs.joomla.org/Help5.x:Components_Patch_Tester_Options
 
 contacts=contacts-categories.md=https://docs.joomla.org/Help5.x:Contacts:_Categories

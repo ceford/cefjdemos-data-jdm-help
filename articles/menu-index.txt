@@ -24,6 +24,10 @@ help=banners=banners-new-or-edit-client.md
 help=banners=banners-options.md
 help=banners=banners-tracks.md
 
+heading=common-tabs=Common tabs
+help=common-tabs=permissions.md
+help=common-tabs=toolbars.md
+
 heading=components=Components
 help=components=components-patch-tester-options.md
 

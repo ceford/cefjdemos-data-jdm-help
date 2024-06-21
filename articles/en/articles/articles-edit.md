@@ -12,7 +12,17 @@ specific Category or provide article-specific Metadata.
 
 ## Tutorials
 
-[Adding an Image to an Article](jdocmanual?article=user/articles/adding-an-image-to-an-article "Adding an Image to an Article")
+### Help
+
+The following aspects of the Articles: Edit page are covered in separate Help 
+articles:
+
+* [The Permissions Tab](jdocmanual?article=help/common-tabs/permissions "").
+* [Toolbars](jdocmanual?article=help/common-tabs/toolbars "").
+
+### User
+
+* [Adding an Image to an Article](jdocmanual?article=user/articles/adding-an-image-to-an-article "Adding an Image to an Article")
 
 ## How to Access
 
@@ -310,62 +320,6 @@ Article: Options.
 - **Frontend Images and Links**. If Yes, the Images and Links tab will
   show in the Frontend article editor screen.
 
-### Permissions tab
-
-This is where you can enter permissions for this article.
-
-**Note**: This tab can be hidden by a user with Admin permissions in the
-Article: Options.
-
-![Permissions tab](../../../images/en/articles/articles-edit-permissions-tab.png "Permissions Tab")
-
-To change the permissions for this article, do the following.
-
-1.  Select the **Group** by clicking its title located on the left.
-2.  Find the desired **Action**.
-    - **Delete**. Users can delete this article.
-    - **Edit**. Users can edit this article.
-    - **Edit State**. User can change the published state and related
-      information for this article.
-3.  Select the desired permission for the action you wish to change.
-    - **Inherited**. Inherited for users in this Group from the Global Configuration,
-      Articles Options, or Articles Category.
-    - **Allowed**. Allowed for users in this Group.Note: If this action
-      is Denied at one of the higher levels, the Allowed permission here
-      will not take effect. A Denied setting cannot be overridden.
-    - **Denied**. Denied for users in this Group.
-4.  Click **Save** in **Toolbar** at top. When the screen refreshes, the
-    Calculated Setting column will show the effective permission for
-    this Group and Action.
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above.
-
-- **Save**. Saves the article and stays in the current screen.
-- **Save & Close**. Saves the article and closes the current screen.
-  - **Save & New**. Saves the article and keeps the editing screen open
-    and ready to create another article.
-  - **Save to Menu**. Saves the article to a menu item and opens the
-    menu item screen.
-  - **Save as Copy**. Saves your changes to a copy of the current
-    article. Does not affect the current article.
-- **Close**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made.
-- **Versions**. Opens the Article Version History window to show any
-  prior versions of this article. This allows you to view older versions
-  of this article and, if desired, restore from an older version.
-- **Preview**. Opens a modal dialog showing a site view of this article.
-  Requires shared sessions or being logged in into the Frontend.
-- **Accessibility Check**. Opens a window showing accessibility check
-  results of the article.
-- **Associations**. With a specific language set for an article, allows
-  side by side editing in another language. This icon is shown on
-  Multilingual Sites only.
-- **Toggle Inline Help**. Show help text below some options.
-- **Help**. Opens this help screen.
-
 ## Quick Tips
 
 - There are 2 methods to insert an image into article using the TinyMCE
@@ -375,9 +329,8 @@ Screenshot above.
       that lets you browse image files and upload images.
   2.  The 'Insert' dropdown list is a simple form for which you need to
       know the image url. It is used for external images.
-- **Read more**
-  breaks allow you to save space on the Front Page or on any blog layout
-  page by showing just the first portion of an Article. Page break
+- **Read more**  breaks allow you to save space on the Front Page or on any 
+  blog layout page by showing just the first portion of an Article. Page break
   allow you to provide multi-page navigation for long Articles. You can
   use both on one Article, if desired.For example, you could put a Read
   more break after the first paragraph of a multi-page article, and have
