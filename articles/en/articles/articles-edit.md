@@ -15,8 +15,8 @@ might wish to set a specific Category or provide article-specific Metadata.
 Some aspects of the *Articles: Edit* page are covered in separate Help 
 articles:
 
-* [The Permissions Tab](jdocmanual?article=help/common-tabs/permissions "").
-* [Toolbars](jdocmanual?article=help/common-tabs/toolbars "").
+* [The Permissions Tab](jdocmanual?article=help/common-elements/permissions "").
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars "").
 
 Or in User articles:
 
