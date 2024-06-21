@@ -2,25 +2,23 @@
 
 ## Description
 
-This screen is used to add a new article or edit an existing article, usually
+This page is used to add a new article or edit an existing article, usually
 using a Wysiwyg editor. The default editor is TinyMCE but if other
 editors are installed the default editor may be set to something else
 for the site as a whole or for individual users.
 
-Most parameters have suitable defaults but you might wish to set a
-specific Category or provide article-specific Metadata.
+Most parameters in the *Article: Edit* page have suitable defaults but you 
+might wish to set a specific Category or provide article-specific Metadata.
 
-## Tutorials
+### Additional Information
 
-### Help
-
-The following aspects of the Articles: Edit page are covered in separate Help 
+Some aspects of the *Articles: Edit* page are covered in separate Help 
 articles:
 
 * [The Permissions Tab](jdocmanual?article=help/common-tabs/permissions "").
 * [Toolbars](jdocmanual?article=help/common-tabs/toolbars "").
 
-### User
+Or in User articles:
 
 * [Adding an Image to an Article](jdocmanual?article=user/articles/adding-an-image-to-an-article "Adding an Image to an Article")
 
